@@ -2,20 +2,23 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>ransomwatch 👀 🦅</title>
+  <title>ransomwatch 👀 </title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Ransomware indexer & aggregator">
+  <meta name="description" content="Ransomwatch : Ransomware Gang blog/website aggragor. Statistics are updated hourly">
+  <!-- Open Graph / Facebook -->
+   <meta property="og:type" content="website">
+   <meta property="og:url" content="https://ransomwatch.mousqueton.io/">
+   <meta property="og:title" content="ransomwatch 👀">
+   <meta property="og:description" content="Ransomwatch : Ransomware Gang blog/website aggragor. Statistics are updated hourly">
+   <meta property="og:image" content="https://ransomwatch.mousqueton.io/ransomware.jpeg">
+  <!-- Twitter -->
+   <meta property="twitter:card" content="summary_large_image">
+   <meta property="twitter:url" content="https://ransomwatch.mousqueton.io/">
+   <meta property="twitter:title" content="ransomwatch 👀">
+   <meta property="twitter:description" content="Ransomwatch : Ransomware Gang blog/website aggragor. Statistics are updated hourly">
+   <meta property="twitter:image" content="https://ransomwatch.mousqueton.io/ransomware.jpeg">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="ransomwatch">
-  <meta name="twitter:description" content="Ransomwarer indexer & aggregator">
-  <meta name="twitter:image" content="https://github.com/jmousqueton/ransomwatch/blob/main/docs/banner.jpg?raw=true">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#ff0000">
-  <meta name="theme-color" content="#ff0000">
   <style>
     .cover-main h1 a span {
         color: #ffffff;
@@ -25,12 +28,44 @@
         color: #5e5e5e;
     }
 </style>
+<!-- Statistics -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://stats.mousqueton.io/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '10']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Statistics Code -->
+<link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/icon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/icon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/icon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/icon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/icon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/icon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/icon/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {      
-      coverpage: false,
+      coverpage: true,
       subMaxLevel: 3,
       loadSidebar: true,
       autoHeader: true,
