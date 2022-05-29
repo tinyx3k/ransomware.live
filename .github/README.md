@@ -39,7 +39,7 @@ looking for historical data? check [ransomwatch-history](https://github.com/josh
 <h4 align="center">⚠️</h4>
 
 <h4 align="center">
-  content within ransomwatch.telemetry.ltd, posts.json, groups.json and the docs/ & source/ directories is dynamically generated based on infrastructure of real-world threat actors in near-real-time. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch generated material you acknowledge you are doing so at your own risk.
+  content within ransomwatch.mousqueton.io, posts.json, groups.json and the docs/ & source/ directories is dynamically generated based on infrastructure of real-world threat actors in near-real-time. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch generated material you acknowledge you are doing so at your own risk.
 </h4>
 
 ---
