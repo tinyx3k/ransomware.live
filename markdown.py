@@ -16,6 +16,7 @@ from sharedutils import onlinecount
 from sharedutils import postslast24h
 from sharedutils import version2count
 from sharedutils import poststhisyear
+from sharedutils import postslastyear
 from sharedutils import currentmonthstr
 from sharedutils import mounthlypostcount
 #from sharedutils import headlesscount
