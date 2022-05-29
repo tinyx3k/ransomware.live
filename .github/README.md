@@ -28,8 +28,8 @@ running within github actions, groups are visited & posts are indexed within thi
 missing a group ? try the [_issue template_](https://github.com/jmousqueton/ransomwatch/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)
 
 ```shell
-curl -sL ransomwhat.telemetry.ltd/posts | jq
-curl -sL ransomwhat.telemetry.ltd/groups | jq
+curl -sL ransomwhat.mousqueton.io/posts | jq
+curl -sL ransomwhat.mousqueton.io/groups | jq
 ```
 
 looking for historical data? check [ransomwatch-history](https://github.com/joshhighet/ransomwatch-history) - from hourly uptime records to git-tracked source HTML for groups over the period of May 2021 to May 2022 - there's insights to be had
