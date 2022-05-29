@@ -79,7 +79,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '> see the project [README](https://github.com/joshhighet/ransomwatch#ransomwatch--) for backend technicals')
+    writeline(uptime_sheet, '> see the project [README](https://github.com/jmousqueton/ransomwatch#readme) for backend technicals')
 
 def indexpage():
     index_sheet = 'docs/INDEX.md'
@@ -108,7 +108,7 @@ def indexpage():
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| [' + group['name'] + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            line = '| [' + group['name'] + '](https://ransomwatch.mousqueton.io/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
             writeline(index_sheet, line)
 
 def sidebar():
@@ -184,7 +184,7 @@ def recentpage():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://ransomwatch.mousqueton.io/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
