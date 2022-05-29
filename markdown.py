@@ -64,7 +64,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_ 📡')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours` 🕓'')
+    writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours` 🕓')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🦈 there have been `' + str(mounthlypostcount()) + '` posts within the `month of ' + currentmonthstr() + '`')
     writeline(uptime_sheet, '')
