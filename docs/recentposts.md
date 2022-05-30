@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-30 | [`tcpharmachem.co...`](https://google.com/search?q=tcpharmachem.co...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`gpmlife.com`](https://google.com/search?q=gpmlife.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`solv`](https://google.com/search?q=solv) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`koenigstahl.pl`](https://google.com/search?q=koenigstahl.pl) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`M+A Partners`](https://google.com/search?q=M%2BA+Partners) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-12 | [`zine-eskola.eus`](https://google.com/search?q=zine-eskola.eus) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-12 | [`Cjk Group, Inc.`](https://google.com/search?q=Cjk+Group%2C+Inc.) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-12 | [`Ludwig Freytag Group`](https://google.com/search?q=Ludwig+Freytag+Group) | [revil](https://ransomwatch.mousqueton.io/#/profiles?id=revil) |
