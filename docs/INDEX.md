@@ -19,7 +19,7 @@
 | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion |
 | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |
 | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |
-| [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit Anti-DDos protection | 🟢 |  | oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |
+| [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |
 | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion |
 | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) | LockBit BLOG | 🟢 |  | lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |
 | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) | Hive | 🟢 |  | hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion |
@@ -47,7 +47,7 @@
 | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) | Everest ransom team | 🟢 |  | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion |
 | [ragnarok](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarok) |  | 🔴 | 2021-05-01 | wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion |
 | [ragnarok](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarok) | Decrypt Site | 🔴 | 2021-08-27 | sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |
-| [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) | CONTI.News | 🔴 | 2022-05-29 | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
+| [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) | CONTI.News | 🟢 |  | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |
 | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) | Error Response Page | 🔴 | 2022-05-22 | continews.click |
 | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) | Error Response Page | 🔴 | 2022-05-22 | continews.bz |
 | [pysa](https://ransomwatch.mousqueton.io/#/profiles?id=pysa) | Pysa's Partners | 🔴 | 2022-02-22 | pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |
@@ -111,7 +111,7 @@
 | [sabbath](https://ransomwatch.mousqueton.io/#/profiles?id=sabbath) |  | 🔴 | 2022-04-13 | 54bb47h.blog |
 | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) | Quantum Blog | 🟢 |  | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |
 | [medusa](https://ransomwatch.mousqueton.io/#/profiles?id=medusa) |  | 🔴 | 2021-05-01 | qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion |
-| [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) | News | 🔴 | 2022-05-29 | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
+| [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) | News | 🟢 |  | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |
 | [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) | News | 🟢 |  | snatch.press |
 | [midas](https://ransomwatch.mousqueton.io/#/profiles?id=midas) | Info | 🔴 | 2022-04-15 | midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |
 | [entropy](https://ransomwatch.mousqueton.io/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
@@ -130,7 +130,7 @@
 | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [cryp70n1c0d3](https://ransomwatch.mousqueton.io/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🟢 |  | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
 | [dread](https://ransomwatch.mousqueton.io/#/profiles?id=dread) | Dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
-| [againstthewest](https://ransomwatch.mousqueton.io/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🟢 |  | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
+| [againstthewest](https://ransomwatch.mousqueton.io/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🔴 | 2022-05-30 | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
 | [holyghost](https://ransomwatch.mousqueton.io/#/profiles?id=holyghost) | HolyGhost | 🔴 | 2022-04-22 | matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |
 | [nightsky](https://ransomwatch.mousqueton.io/#/profiles?id=nightsky) | Night Sky | 🔴 | 2022-01-25 | gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |
 | [ransomcartel](https://ransomwatch.mousqueton.io/#/profiles?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |
