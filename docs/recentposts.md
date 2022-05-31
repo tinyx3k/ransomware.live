@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-31 | [`intertabak.com`](https://google.com/search?q=intertabak.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`tcpharmachem.co...`](https://google.com/search?q=tcpharmachem.co...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`gpmlife.com`](https://google.com/search?q=gpmlife.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`solv`](https://google.com/search?q=solv) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`agapemeanslove....`](https://google.com/search?q=agapemeanslove....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`M+A Partners`](https://google.com/search?q=M%2BA+Partners) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-12 | [`zine-eskola.eus`](https://google.com/search?q=zine-eskola.eus) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-12 | [`Cjk Group, Inc.`](https://google.com/search?q=Cjk+Group%2C+Inc.) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
