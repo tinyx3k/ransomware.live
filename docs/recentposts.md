@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-05-31 | [`Klasner Solomon & Partners Chartered Professional Accountants`](https://google.com/search?q=Klasner+Solomon+%26+Partners+Chartered+Professional+Accountants) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-31 | [`Whitehall. (OH)`](https://google.com/search?q=Whitehall.+%28OH%29) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-31 | [`Caracol TV`](https://google.com/search?q=Caracol+TV) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-31 | [`G&P Projects And Systems S.A.`](https://google.com/search?q=G%26P+Projects+And+Systems+S.A.) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`bradfordmarine....`](https://google.com/search?q=bradfordmarine....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-13 | [`purapharm.com`](https://google.com/search?q=purapharm.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-13 | [`alliancesand.co...`](https://google.com/search?q=alliancesand.co...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
