@@ -1,14 +1,14 @@
 
 ## summary
-_may 31st, 2022_
+_june 1st, 2022_
 
-currently tracking `104` groups across `150` relays & mirrors - _`55` currently online_ 📡
+currently tracking `104` groups across `150` relays & mirrors - _`56` currently online_ 📡
 
 ⏲ there have been `9` posts within the `last 24 hours`
 
-🕓 there have been `326` posts within the `month of may`
+🕓 there have been `21` posts within the `month of june`
 
-📅 there have been `1055` posts within the `last 90 days`
+📅 there have been `1054` posts within the `last 90 days`
 
 🏚 there have been `1655` posts within the `year of 2022`
 
@@ -24,5 +24,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : Tuesday 31/05/2022 23:40:44 (UTC)_
+Last update : Wednesday 01/06/2022 01:48:26 (UTC)_
 
