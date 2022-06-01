@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-01 | [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-06-01 | [`Jonathan Adler Leaks`](https://google.com/search?q=Jonathan+Adler+Leaks) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-06-01 | [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-01 | [`AMS-Gruppe`](https://google.com/search?q=AMS-Gruppe) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`DRC-LAW.COM FILES PART8 - 10.10.1.2\C$\Shares\Data\Documents\Clients\Q-Z\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART8+-+10.10.1.2%5CC%24%5CShares%5CData%5CDocuments%5CClients%5CQ-Z%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-13 | [`ALTERNATIVETECHS.COM FILES PART8 - C\Shares\Alternative\accounting\ARCHIVE - former staff `](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART8+-+C%5CShares%5CAlternative%5Caccounting%5CARCHIVE+-+former+staff+) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-13 | [`JBINSTANTLAWN.NET FILES PART11 - JB-SERVER\Users\Anne-Marie Tribbett PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART11+-+JB-SERVER%5CUsers%5CAnne-Marie+Tribbett+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-05-13 | [`ALEXIM.COM FILES PART11 - 192.168.3.5\shares PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART11+-+192.168.3.5%5Cshares+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
