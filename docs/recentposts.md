@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-01 | [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-01 | [`AMS-Gruppe`](https://google.com/search?q=AMS-Gruppe) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-06-01 | [`Groupe J.F. Nadeau Inc`](https://google.com/search?q=Groupe+J.F.+Nadeau+Inc) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-05-31 | [`Cavenders`](https://google.com/search?q=Cavenders) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-13 | [`JBINSTANTLAWN.NET FILES PART11 - JB-SERVER\Users\Anne-Marie Tribbett PUBLISHED`](https://google.com/search?q=JBINSTANTLAWN.NET+FILES+PART11+-+JB-SERVER%5CUsers%5CAnne-Marie+Tribbett+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-13 | [`ALEXIM.COM FILES PART11 - 192.168.3.5\shares PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART11+-+192.168.3.5%5Cshares+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-13 | [`AFJCONSULTING.NET FILES PART6 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART6+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-05-13 | [`MCH-GROUP.COM FILES PART32 - D\FTP-Drive\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART32+-+D%5CFTP-Drive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
