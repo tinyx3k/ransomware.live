@@ -117,7 +117,7 @@
 | [entropy](https://ransomwatch.mousqueton.io/#/profiles?id=entropy) | Entropy hall of fall | 🔴 | 2022-02-27 | leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |
 | [robinhood](https://ransomwatch.mousqueton.io/#/profiles?id=robinhood) | Not found. | 🟢 |  | robinhoodleaks.tumblr.com |
 | [mosesstaff](https://ransomwatch.mousqueton.io/#/profiles?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |
-| [mosesstaff](https://ransomwatch.mousqueton.io/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🟢 |  | moses-staff.se |
+| [mosesstaff](https://ransomwatch.mousqueton.io/#/profiles?id=mosesstaff) | Activities – Moses Staff | 🔴 | 2022-06-01 | moses-staff.se |
 | [cooming](https://ransomwatch.mousqueton.io/#/profiles?id=cooming) | CoomingProject announcement | 🔴 | 2022-02-04 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |
 | [cooming](https://ransomwatch.mousqueton.io/#/profiles?id=cooming) |  | 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |
 | [aGl0bGVyCg](https://ransomwatch.mousqueton.io/#/profiles?id=aGl0bGVyCg) | Error Response Page | 🔴 | 2022-05-26 | hitleransomware.cf |
