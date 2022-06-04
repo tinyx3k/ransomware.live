@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-04 | [`wik-group.com`](https://google.com/search?q=wik-group.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`specpharm.co.za`](https://google.com/search?q=specpharm.co.za) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`lawsd`](https://google.com/search?q=lawsd) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`ora.com`](https://google.com/search?q=ora.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-15 | [`mercyhurst.edu`](https://google.com/search?q=mercyhurst.edu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-15 | [`boltburdon.co.u...`](https://google.com/search?q=boltburdon.co.u...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-14 | [`redgwick.`](https://google.com/search?q=redgwick.) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-14 | [`hoffsu`](https://google.com/search?q=hoffsu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
