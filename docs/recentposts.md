@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-04 | [`FTSUMNERK12.COM FILES PART2 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART2+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-04 | [`ALEXIM.COM FILES PART14 - 192.168.6.10, 192.168.100.90 PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART14+-+192.168.6.10%2C+192.168.100.90+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-04 | [`vainieritraspor...`](https://google.com/search?q=vainieritraspor...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`AFJCONSULTING.NET FILES PART9 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART9+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-16 | [`http://2easy.co...`](https://google.com/search?q=http%3A%2F%2F2easy.co...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`grupocabal.cl`](https://google.com/search?q=grupocabal.cl) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`STU`](https://google.com/search?q=STU) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-16 | [`hinakaorg.com`](https://google.com/search?q=hinakaorg.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
