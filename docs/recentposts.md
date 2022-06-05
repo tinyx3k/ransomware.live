@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-05 | [`PRICEDEX.COM FILES PART2 - 10.0.10.54 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART2+-+10.0.10.54+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`PERBIT.COM FILES PART4 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART4+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`NEWCOURSECC.COM FILES PART3 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART3+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`888VOIP.COM FILES PART2 - 192.168.10.2, 192.168.10.60, 192.168.10.113, 192.168.10.172, 192`](https://google.com/search?q=888VOIP.COM+FILES+PART2+-+192.168.10.2%2C+192.168.10.60%2C+192.168.10.113%2C+192.168.10.172%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-17 | [`InnPower`](https://google.com/search?q=InnPower) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-05-17 | [`jaykal`](https://google.com/search?q=jaykal) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`Brunk Industries Inc.`](https://google.com/search?q=Brunk+Industries+Inc.) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
-| 2022-05-16 | [`AmCham Shanghai`](https://google.com/search?q=AmCham+Shanghai) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
