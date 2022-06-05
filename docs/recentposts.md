@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-05 | [`ATAPCOPROPERTIES.COM FILES PART2 - 10.50.0.18, 10.50.0.20 PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART2+-+10.50.0.18%2C+10.50.0.20+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`ORBITELECTRIC.COM FILES PART9 - 192.168.10.23\ORBIT_ART\ChristinaW\catalog&amp;pamphlet PU`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART9+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5Ccatalog%26amp%3Bpamphlet+PU) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`FERRAN-SERVICES.COM FILES PART2 - ferran.dolph, ferran.pgranger PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART2+-+ferran.dolph%2C+ferran.pgranger+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`ENSSECURITY.COM FILES PART2 - 192.168.0.74, 192.168.0.87, 192.168.0.97, 192.168.0.123, 192`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART2+-+192.168.0.74%2C+192.168.0.87%2C+192.168.0.97%2C+192.168.0.123%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-16 | [`sherpamarketing...`](https://google.com/search?q=sherpamarketing...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`cassagne.com.ar`](https://google.com/search?q=cassagne.com.ar) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`fronteousa`](https://google.com/search?q=fronteousa) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
-| 2022-05-16 | [`teka.com.mx`](https://google.com/search?q=teka.com.mx) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
