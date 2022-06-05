@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-05 | [`safarni.c`](https://google.com/search?q=safarni.c) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`kansashighwaypa...`](https://google.com/search?q=kansashighwaypa...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`bestattung-walz...`](https://google.com/search?q=bestattung-walz...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`PRICEDEX.COM FILES PART2 - 10.0.10.54 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART2+-+10.0.10.54+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-17 | [`khs-wp.de`](https://google.com/search?q=khs-wp.de) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-17 | [`upskwt`](https://google.com/search?q=upskwt) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
 | 2022-05-17 | [`Hirsch Watch Straps &amp; Accessories`](https://google.com/search?q=Hirsch+Watch+Straps+%26amp%3B+Accessories) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
-| 2022-05-17 | [`InnPower`](https://google.com/search?q=InnPower) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
