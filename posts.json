@@ -19853,5 +19853,10 @@
         "post_title": "ENSSECURITY.COM FILES PART2 - 192.168.0.74, 192.168.0.87, 192.168.0.97, 192.168.0.123, 192",
         "group_name": "clop",
         "discovered": "2022-06-05 06:11:45.150057"
+    },
+    {
+        "post_title": "FERRAN-SERVICES.COM FILES PART2 - ferran.dolph, ferran.pgranger PUBLISHED",
+        "group_name": "clop",
+        "discovered": "2022-06-05 06:55:15.607328"
     }
 ]
