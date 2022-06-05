@@ -87,7 +87,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '_Last update : '+ time.strftime('%A %d/%m/%Y %H:%M:%S') + ' (UTC)_')
+    writeline(uptime_sheet, 'Last update : _'+ time.strftime('%A %d/%m/%Y %H:%M:%S') + ' (UTC)_')
     writeline(uptime_sheet, '')
 
 def indexpage():
