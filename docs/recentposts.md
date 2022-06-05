@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-05 | [`ENSSECURITY.COM FILES PART2 - 192.168.0.74, 192.168.0.87, 192.168.0.97, 192.168.0.123, 192`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART2+-+192.168.0.74%2C+192.168.0.87%2C+192.168.0.97%2C+192.168.0.123%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`DRC-LAW.COM FILES PART11 - C\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART11+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`ALTERNATIVETECHS.COM FILES PART11 - C\Shares\Alternative\TELECOM\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART11+-+C%5CShares%5CAlternative%5CTELECOM%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`LATOURNERIE-WOLFROM.COM FILES PART2 - 10.100.57.135, 10.100.57.137 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART2+-+10.100.57.135%2C+10.100.57.137+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-16 | [`teka.com.mx`](https://google.com/search?q=teka.com.mx) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`talaadthaii.com`](https://google.com/search?q=talaadthaii.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-16 | [`saludparatodos....`](https://google.com/search?q=saludparatodos....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-16 | [`rexontec.com.tw`](https://google.com/search?q=rexontec.com.tw) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
