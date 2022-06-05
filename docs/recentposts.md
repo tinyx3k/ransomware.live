@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-05 | [`888VOIP.COM FILES PART2 - 192.168.10.2, 192.168.10.60, 192.168.10.113, 192.168.10.172, 192`](https://google.com/search?q=888VOIP.COM+FILES+PART2+-+192.168.10.2%2C+192.168.10.60%2C+192.168.10.113%2C+192.168.10.172%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`KSSENTERPRISES.COM FILES PART7 - 10.250.1.6\D$\Public\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART7+-+10.250.1.6%5CD%24%5CPublic%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`ATAPCOPROPERTIES.COM FILES PART2 - 10.50.0.18, 10.50.0.20 PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART2+-+10.50.0.18%2C+10.50.0.20+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`ORBITELECTRIC.COM FILES PART9 - 192.168.10.23\ORBIT_ART\ChristinaW\catalog&amp;pamphlet PU`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART9+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5Ccatalog%26amp%3Bpamphlet+PU) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-16 | [`AmCham Shanghai`](https://google.com/search?q=AmCham+Shanghai) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-05-16 | [`Piggly Wiggly Alabama Distributing Company`](https://google.com/search?q=Piggly+Wiggly+Alabama+Distributing+Company) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-05-16 | [`sherpamarketing...`](https://google.com/search?q=sherpamarketing...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-16 | [`cassagne.com.ar`](https://google.com/search?q=cassagne.com.ar) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
