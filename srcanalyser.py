@@ -3,7 +3,8 @@
 import os
 import json
 from bs4 import BeautifulSoup
-from sharedutils import stdlog, dbglog, errlog, honk
+# from sharedutils import stdlog, dbglog, errlog, honk
+from sharedutils import stdlog
 
 if not os.path.exists('source/linkanalysis'):
     os.makedirs('source/linkanalysis')

@@ -10,7 +10,8 @@ from selenium.common.exceptions import WebDriverException
 from selenium.webdriver.firefox.options import Options
 
 from sharedutils import sockshost, socksport
-from sharedutils import stdlog, dbglog, errlog, honk
+# from sharedutils import stdlog, dbglog, errlog, honk
+from sharedutils import stdlog, errlog, honk
 from sharedutils import checktcp, openjson, randomagent
 
 requests.packages.urllib3.disable_warnings()

@@ -7,7 +7,7 @@ import os
 import sys
 import json
 import socket
-import codecs
+# import codecs
 import random
 import tweepy
 import logging

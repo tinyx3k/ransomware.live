@@ -21,7 +21,8 @@ from sharedutils import currentmonthstr
 from sharedutils import mounthlypostcount
 #from sharedutils import headlesscount
 #from sharedutils import countcaptchahosts
-from sharedutils import stdlog, dbglog, errlog, honk
+# from sharedutils import stdlog, dbglog, errlog, honk
+from sharedutils import stdlog
 from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days
 
 def suffix(d):
