@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-07 | [`equis.com`](https://google.com/search?q=equis.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-07 | [`https://www.equ...`](https://google.com/search?q=https%3A%2F%2Fwww.equ...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-07 | [`k`](https://google.com/search?q=k) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-06 | [`VTVCAB`](https://google.com/search?q=VTVCAB) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-18 | [`clublinks.com.a...`](https://google.com/search?q=clublinks.com.a...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-18 | [`Mercyhurst.edu`](https://google.com/search?q=Mercyhurst.edu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-18 | [`https://clublin...`](https://google.com/search?q=https%3A%2F%2Fclublin...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-18 | [`Xplay Data Leak`](https://google.com/search?q=Xplay+Data+Leak) | [darkleakmarket](https://ransomwatch.mousqueton.io/#/profiles?id=darkleakmarket) |
