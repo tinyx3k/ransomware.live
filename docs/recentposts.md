@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-07 | [`purapharm`](https://google.com/search?q=purapharm) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-07 | [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-06-07 | [`Losberger De Boer`](https://google.com/search?q=Losberger+De+Boer) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-07 | [`equis.com`](https://google.com/search?q=equis.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-19 | [`Carmel College`](https://google.com/search?q=Carmel+College) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-05-19 | [`Higher School of the Public`](https://google.com/search?q=Higher+School+of+the+Public) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-05-19 | [`Important announcement`](https://google.com/search?q=Important+announcement) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-05-18 | [`clublinks.com.a...`](https://google.com/search?q=clublinks.com.a...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
