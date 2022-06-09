@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-09 | [`Palermo`](https://google.com/search?q=Palermo) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-08 | [`Goodman Campbell Brain & Spine`](https://google.com/search?q=Goodman+Campbell+Brain+%26+Spine) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-06-08 | [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-07 | [`purapharm`](https://google.com/search?q=purapharm) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-19 | [`Boom Logistics (boomlogistics.com.au)`](https://google.com/search?q=Boom+Logistics+%28boomlogistics.com.au%29) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-19 | [`http://wsretail...`](https://google.com/search?q=http%3A%2F%2Fwsretail...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`Atlanta Perinatal Associates`](https://google.com/search?q=Atlanta+Perinatal+Associates) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
-| 2022-05-19 | [`Carmel College`](https://google.com/search?q=Carmel+College) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
