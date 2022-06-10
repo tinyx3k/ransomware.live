@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-10 | [`skinnertrans.ne`](https://google.com/search?q=skinnertrans.ne) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`www.vectorinf.c...`](https://google.com/search?q=www.vectorinf.c...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`salumifici`](https://google.com/search?q=salumifici) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-19 | [`Magtek`](https://google.com/search?q=Magtek) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-05-19 | [`Tri-Ko`](https://google.com/search?q=Tri-Ko) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-19 | [`groupe-trouille...`](https://google.com/search?q=groupe-trouille...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-19 | [`gdctax.com.au`](https://google.com/search?q=gdctax.com.au) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
