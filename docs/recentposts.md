@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-10 | [`salumifici`](https://google.com/search?q=salumifici) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-09 | [`kaisoten.co.jp`](https://google.com/search?q=kaisoten.co.jp) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-09 | [`CAPECODRTA - HACKED AND DATA LEAKED`](https://google.com/search?q=CAPECODRTA+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-19 | [`groupe-trouille...`](https://google.com/search?q=groupe-trouille...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`gdctax.com.au`](https://google.com/search?q=gdctax.com.au) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`fed-gmbh.de`](https://google.com/search?q=fed-gmbh.de) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-19 | [`Contractors Pipe and Supply Corporation`](https://google.com/search?q=Contractors+Pipe+and+Supply+Corporation) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
