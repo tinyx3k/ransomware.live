@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-11 | [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-06-11 | [`Metek Plc`](https://google.com/search?q=Metek+Plc) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-06-11 | [`Tiroler Rohre GmbH`](https://google.com/search?q=Tiroler+Rohre+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-10 | [`Worldwide Flight Services`](https://google.com/search?q=Worldwide+Flight+Services) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-20 | [`bata`](https://google.com/search?q=bata) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-19 | [`EIITNET`](https://google.com/search?q=EIITNET) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-19 | [`CARTEGRAPH`](https://google.com/search?q=CARTEGRAPH) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-05-19 | [`skinnertrans.ne...`](https://google.com/search?q=skinnertrans.ne...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
