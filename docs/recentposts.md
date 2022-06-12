@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-12 | [`Opal`](https://google.com/search?q=Opal) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-06-12 | [`FTSUMNERK12.COM FILES PART3 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART3+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-12 | [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-12 | [`AFJCONSULTING.NET FILES PART10 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART10+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-20 | [`de`](https://google.com/search?q=de) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-20 | [`SPORTPLAZA`](https://google.com/search?q=SPORTPLAZA) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-20 | [`firbarcarolo.it`](https://google.com/search?q=firbarcarolo.it) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-20 | [`The Catholic Foundation`](https://google.com/search?q=The+Catholic+Foundation) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
