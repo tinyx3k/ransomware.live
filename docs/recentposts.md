@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`www.kinexia.it`](https://google.com/search?q=www.kinexia.it) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-14 | [`YMCA`](https://google.com/search?q=YMCA) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`berschneider.de`](https://google.com/search?q=berschneider.de) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-23 | [`etrp`](https://google.com/search?q=etrp) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-22 | [`SYSOL`](https://google.com/search?q=SYSOL) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-05-22 | [`reitzner`](https://google.com/search?q=reitzner) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
