@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`Metek PLC Files Leak`](https://google.com/search?q=Metek+PLC+Files+Leak) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-06-14 | [`SCHIFFMANS - HACKED AND DATA LEAKED`](https://google.com/search?q=SCHIFFMANS+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-06-14 | [`MOTOLUCLE.COM - HACKED AND DATA LEAKED`](https://google.com/search?q=MOTOLUCLE.COM+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-06-14 | [`theallison.com`](https://google.com/search?q=theallison.com) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-21 | [`focusadventure..`](https://google.com/search?q=focusadventure..) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-21 | [`Grupo Pavisa`](https://google.com/search?q=Grupo+Pavisa) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-05-21 | [`Contraloría General de la República`](https://google.com/search?q=Contralor%C3%ADa+General+de+la+Rep%C3%BAblica) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
-| 2022-05-20 | [`bsm.upf.ed`](https://google.com/search?q=bsm.upf.ed) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
