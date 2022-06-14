@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-14 | [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-14 | [`YMCA`](https://google.com/search?q=YMCA) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-14 | [`Medlab Pathology`](https://google.com/search?q=Medlab+Pathology) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-14 | [`SHOPRITE HOLDINGS LTD`](https://google.com/search?q=SHOPRITE+HOLDINGS+LTD) | [ransomhouse](https://ransomwatch.mousqueton.io/#/profiles?id=ransomhouse) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-22 | [`SYSOL`](https://google.com/search?q=SYSOL) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-22 | [`reitzner`](https://google.com/search?q=reitzner) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-22 | [`HEMERIA`](https://google.com/search?q=HEMERIA) | [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) |
-| 2022-05-22 | [`Elkuch Group`](https://google.com/search?q=Elkuch+Group) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
