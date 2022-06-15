@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-15 | [`RadiciGroup`](https://google.com/search?q=RadiciGroup) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-15 | [`dgi.gouv.ml`](https://google.com/search?q=dgi.gouv.ml) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-15 | [`Magnum`](https://google.com/search?q=Magnum) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-15 | [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Concepts in Millwork`](https://google.com/search?q=Concepts+in+Millwork) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-23 | [`Eurofred`](https://google.com/search?q=Eurofred) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-23 | [`Agile Sourcing Partners`](https://google.com/search?q=Agile+Sourcing+Partners) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-23 | [`Alimentos y Frutos S.A.`](https://google.com/search?q=Alimentos+y+Frutos+S.A.) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
