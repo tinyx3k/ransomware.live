@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-15 | [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-06-15 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-15 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-15 | [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Alimentos y Frutos S.A.`](https://google.com/search?q=Alimentos+y+Frutos+S.A.) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-23 | [`Worksoft`](https://google.com/search?q=Worksoft) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-23 | [`Omicron Consulting S.r.L`](https://google.com/search?q=Omicron+Consulting+S.r.L) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-23 | [`Pianca`](https://google.com/search?q=Pianca) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
