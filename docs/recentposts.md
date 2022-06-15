@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-15 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-15 | [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-23 | [`Omicron Consulting S.r.L`](https://google.com/search?q=Omicron+Consulting+S.r.L) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-23 | [`Pianca`](https://google.com/search?q=Pianca) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-23 | [`Allcat Claims Service`](https://google.com/search?q=Allcat+Claims+Service) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-23 | [`berschneider.de`](https://google.com/search?q=berschneider.de) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
