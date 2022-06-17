@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-17 | [`http://www.lund...`](https://google.com/search?q=http%3A%2F%2Fwww.lund...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`hispanoameric`](https://google.com/search?q=hispanoameric) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-16 | [`RG Alliance Group`](https://google.com/search?q=RG+Alliance+Group) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-16 | [`talaadthai`](https://google.com/search?q=talaadthai) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-24 | [`virtus-advocate...`](https://google.com/search?q=virtus-advocate...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`Imagen Television`](https://google.com/search?q=Imagen+Television) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-23 | [`NEWCOURSECC.COM FILES PART1 - 10.168.0.13, 10.168.0.16, 10.168.40.11, 10.168.0.136 PUBLISH`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART1+-+10.168.0.13%2C+10.168.0.16%2C+10.168.40.11%2C+10.168.0.136+PUBLISH) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-05-23 | [`Germany Corporation "VMT-GmbH" Leaked`](https://google.com/search?q=Germany+Corporation+%22VMT-GmbH%22+Leaked) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
