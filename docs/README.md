@@ -4,17 +4,17 @@ _june 17th, 2022_
 
 currently tracking `104` groups across `150` relays & mirrors - _`54` currently online_ 📡
 
-⏲ there have been `1` posts within the `last 24 hours`
+⏲ there have been `2` posts within the `last 24 hours`
 
-🕓 there have been `136` posts within the `month of june`
+🕓 there have been `137` posts within the `month of june`
 
-📅 there have been `1026` posts within the `last 90 days`
+📅 there have been `1027` posts within the `last 90 days`
 
-🏚 there have been `1770` posts within the `year of 2022`
+🏚 there have been `1771` posts within the `year of 2022`
 
 🚀 there have been `2252` posts `last year`
 
-🦕 there have been `4056` posts `since the dawn of ransomwatch` 🐣
+🦕 there have been `4057` posts `since the dawn of ransomwatch` 🐣
 
 there are `50` custom parsers indexing posts
 
@@ -24,5 +24,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Friday 17/06/2022 10:44:56 (UTC)_
+Last update : _Friday 17/06/2022 11:35:48 (UTC)_
 
