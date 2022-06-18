@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-18 | [`FTSUMNERK12.COM FILES PART4 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART4+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-18 | [`vectorinf.com.b...`](https://google.com/search?q=vectorinf.com.b...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-18 | [`tb-kawashima.co...`](https://google.com/search?q=tb-kawashima.co...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-18 | [`lundinroof.com`](https://google.com/search?q=lundinroof.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-24 | [`kuwaitflourmill...`](https://google.com/search?q=kuwaitflourmill...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`erdwaerme-gruen...`](https://google.com/search?q=erdwaerme-gruen...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-24 | [`architectenbure...`](https://google.com/search?q=architectenbure...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-24 | [`Allports Group`](https://google.com/search?q=Allports+Group) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
