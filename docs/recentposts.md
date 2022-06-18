@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-18 | [`lundinroof.com`](https://google.com/search?q=lundinroof.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-18 | [`AFJCONSULTING.NET FILES PART11 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART11+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-18 | [`SOCOTEC`](https://google.com/search?q=SOCOTEC) | [suncrypt](https://ransomwatch.mousqueton.io/#/profiles?id=suncrypt) |
 | 2022-06-17 | [`https://www.tb-...`](https://google.com/search?q=https%3A%2F%2Fwww.tb-...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-24 | [`Allports Group`](https://google.com/search?q=Allports+Group) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-24 | [`RateGain`](https://google.com/search?q=RateGain) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-24 | [`www.intertabak....`](https://google.com/search?q=www.intertabak....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
