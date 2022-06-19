@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-19 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-19 | [`PRICEDEX.COM FILES PART4 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART4+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-19 | [`PERBIT.COM FILES PART6 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WGV\pbiDB`](https://google.com/search?q=PERBIT.COM+FILES+PART6+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWGV%5CpbiDB) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-19 | [`NEWCOURSECC.COM FILES PART5 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART5+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-25 | [`LCRD`](https://google.com/search?q=LCRD) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-25 | [`The Contact Company`](https://google.com/search?q=The+Contact+Company) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-25 | [`pointsbet.com`](https://google.com/search?q=pointsbet.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-24 | [`TRANSCONTRACT`](https://google.com/search?q=TRANSCONTRACT) | [kelvinsecurity](https://ransomwatch.mousqueton.io/#/profiles?id=kelvinsecurity) |
