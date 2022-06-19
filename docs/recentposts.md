@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-19 | [`888VOIP.COM FILES PART4 - 192.168.10.96\ PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART4+-+192.168.10.96%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-19 | [`ATAPCOPROPERTIES.COM FILES PART4 - 192.168.0.21\ PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART4+-+192.168.0.21%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-18 | [`ORBITELECTRIC.COM FILES PART11 -  192.168.10.138, 192.168.10.142, 192.168.12.66, 192.168.3`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART11+-++192.168.10.138%2C+192.168.10.142%2C+192.168.12.66%2C+192.168.3) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-18 | [`FERRAN-SERVICES.COM FILES PART4 - C\Users\czellner\AppData\Local\Microsoft\Outlook\15\ PUB`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART4+-+C%5CUsers%5Cczellner%5CAppData%5CLocal%5CMicrosoft%5COutlook%5C15%5C+PUB) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-24 | [`Mansfield Energy`](https://google.com/search?q=Mansfield+Energy) | [kelvinsecurity](https://ransomwatch.mousqueton.io/#/profiles?id=kelvinsecurity) |
 | 2022-05-24 | [`Central Restaurant Products`](https://google.com/search?q=Central+Restaurant+Products) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-05-24 | [`Schaumburg Park District`](https://google.com/search?q=Schaumburg+Park+District) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-24 | [`vitalprev.com.b...`](https://google.com/search?q=vitalprev.com.b...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
