@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-20 | [`builditinc.com`](https://google.com/search?q=builditinc.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-20 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-19 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-19 | [`PRICEDEX.COM FILES PART4 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART4+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-25 | [`Yachiyo Of America`](https://google.com/search?q=Yachiyo+Of+America) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-25 | [`AGCO`](https://google.com/search?q=AGCO) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-05-25 | [`LCRD`](https://google.com/search?q=LCRD) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-05-25 | [`The Contact Company`](https://google.com/search?q=The+Contact+Company) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
