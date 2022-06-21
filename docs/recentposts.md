@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-21 | [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`sigma-alimentos...`](https://google.com/search?q=sigma-alimentos...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`rhenus.group`](https://google.com/search?q=rhenus.group) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-26 | [`Mebulbs`](https://google.com/search?q=Mebulbs) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-05-26 | [`edm-stone.com`](https://google.com/search?q=edm-stone.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`SOUCY`](https://google.com/search?q=SOUCY) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-05-26 | [`Guardian Fueling Technologies`](https://google.com/search?q=Guardian+Fueling+Technologies) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
