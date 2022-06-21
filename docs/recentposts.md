@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-21 | [`agricolaandrea....`](https://google.com/search?q=agricolaandrea....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`plagepalace.com`](https://google.com/search?q=plagepalace.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`kuwaitairways.c...`](https://google.com/search?q=kuwaitairways.c...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-20 | [`business.gov.om`](https://google.com/search?q=business.gov.om) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-25 | [`GUARDFUEL`](https://google.com/search?q=GUARDFUEL) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-25 | [`NUAIRE`](https://google.com/search?q=NUAIRE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-25 | [`IGHQ`](https://google.com/search?q=IGHQ) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-05-25 | [`Huge iCloud Nudes Leak`](https://google.com/search?q=Huge+iCloud+Nudes+Leak) | [darkleakmarket](https://ransomwatch.mousqueton.io/#/profiles?id=darkleakmarket) |
