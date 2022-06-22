@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-22 | [`Pilton Community College`](https://google.com/search?q=Pilton+Community+College) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`GRUPO mh`](https://google.com/search?q=GRUPO+mh) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-21 | [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`skinnertran`](https://google.com/search?q=skinnertran) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`ils.theinnovate...`](https://google.com/search?q=ils.theinnovate...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-26 | [`Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns`](https://google.com/search?q=Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo+And+data+from+other+automobile+concerns) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
-| 2022-05-26 | [`Mebulbs`](https://google.com/search?q=Mebulbs) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
