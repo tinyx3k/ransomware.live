@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-23 | [`COUNT+CARE - ENTEGA.DE`](https://google.com/search?q=COUNT%2BCARE+-+ENTEGA.DE) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-06-22 | [`BAHRA ELECTRIC - HACKED AND MORE THEN 800 GB DATA LEAKED`](https://google.com/search?q=BAHRA+ELECTRIC+-+HACKED+AND+MORE+THEN+800+GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-06-22 | [`PARADOX`](https://google.com/search?q=PARADOX) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-22 | [`Matco Electric`](https://google.com/search?q=Matco+Electric) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`AFJCONSULTING.NET FILES PART8 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART8+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-27 | [`MCH-GROUP.COM FILES PART34 - D\ PUBLISHED`](https://google.com/search?q=MCH-GROUP.COM+FILES+PART34+-+D%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-27 | [`Florida Department of Veterans&#39; Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%26%2339%3B+Affairs) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
-| 2022-05-27 | [`kerrylog`](https://google.com/search?q=kerrylog) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
