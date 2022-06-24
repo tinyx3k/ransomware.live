@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-24 | [`New Leak: Prudential LTG.`](https://google.com/search?q=New+Leak%3A+Prudential+LTG.) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-06-24 | [`Canaropa`](https://google.com/search?q=Canaropa) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-23 | [`New Leak: Northern Data Systems`](https://google.com/search?q=New+Leak%3A+Northern+Data+Systems) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-06-23 | [`nutis.com`](https://google.com/search?q=nutis.com) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`OAKDELL.COM FILES PART10 - D\Server\ PUBLISHED`](https://google.com/search?q=OAKDELL.COM+FILES+PART10+-+D%5CServer%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-27 | [`FERRAN-SERVICES.COM FILES FILES PART1 - ferran.bramirez, ferran.jflaherty PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+FILES+PART1+-+ferran.bramirez%2C+ferran.jflaherty+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-27 | [`FAIR-RITE.COM FILES PART10 - 172.16.70.100 PUBLISHED`](https://google.com/search?q=FAIR-RITE.COM+FILES+PART10+-+172.16.70.100+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-05-27 | [`ENSSECURITY.COM FILES PART1 - 192.168.0.90 PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART1+-+192.168.0.90+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
