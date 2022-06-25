@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-25 | [`ENSSECURITY.COM FILES PART5 - D\FTP\ENS\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART5+-+D%5CFTP%5CENS%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-24 | [`LATOURNERIE-WOLFROM.COM FILES PART5 - 10.100.57.144, 10.100.57.150 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART5+-+10.100.57.144%2C+10.100.57.150+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-24 | [`FTSUMNERK12.COM FILES PART5 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART5+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-24 | [`AFJCONSULTING.NET FILES PART12 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART12+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-27 | [`ATAPCOPROPERTIES.COM FILES PART1 - 10.50.0.15, 10.50.0.24, 10.50.0.26, 10.50.0.29, 10.50.0`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART1+-+10.50.0.15%2C+10.50.0.24%2C+10.50.0.26%2C+10.50.0.29%2C+10.50.0) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-27 | [`ZISSERFAMILYLAW.COM FILES PART10 - \Z PUBLISHED`](https://google.com/search?q=ZISSERFAMILYLAW.COM+FILES+PART10+-+%5CZ+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-05-27 | [`SA1SOLUTIONS.COM  FILES PART10 - 192.168.10.238\D$\Storage - Picseli\PICSELI 2014 ONWARDS\`](https://google.com/search?q=SA1SOLUTIONS.COM++FILES+PART10+-+192.168.10.238%5CD%24%5CStorage+-+Picseli%5CPICSELI+2014+ONWARDS%5C) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-05-27 | [`ORBITELECTRIC.COM FILES PART8 - 192.168.10.23\ORBIT_ART\ChristinaW\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART8+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
