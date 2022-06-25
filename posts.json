@@ -20563,5 +20563,10 @@
         "post_title": "PERBIT.COM FILES PART7 - 10.182.179.241\\C$\\sbs_prbt_backup_cifs1_vol1\\SQL Backup\\WGV\\pbiDB",
         "group_name": "clop",
         "discovered": "2022-06-25 19:25:13.580927"
+    },
+    {
+        "post_title": "PRICEDEX.COM FILES PART5 - 10.0.10.1\\E$\\Admin\\Restored Files\\From MGT03\\ PUBLISHED",
+        "group_name": "clop",
+        "discovered": "2022-06-25 23:49:39.307285"
     }
 ]
