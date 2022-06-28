@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-28 | [`http:/`](https://google.com/search?q=http%3A%2F) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-27 | [`Ministry of Agriculture`](https://google.com/search?q=Ministry+of+Agriculture) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-27 | [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-06-27 | [`r1group`](https://google.com/search?q=r1group) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-29 | [`hospitalsanjose...`](https://google.com/search?q=hospitalsanjose...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`BLAIR inc.`](https://google.com/search?q=BLAIR+inc.) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-05-29 | [`An Technology Company - Paid`](https://google.com/search?q=An+Technology+Company+-+Paid) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
-| 2022-05-29 | [`An Financial Company - Paid`](https://google.com/search?q=An+Financial+Company+-+Paid) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
