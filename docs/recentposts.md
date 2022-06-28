@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-28 | [`Diskriter`](https://google.com/search?q=Diskriter) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-06-28 | [`datalit.it`](https://google.com/search?q=datalit.it) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-28 | [`http:/`](https://google.com/search?q=http%3A%2F) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-27 | [`Ministry of Agriculture`](https://google.com/search?q=Ministry+of+Agriculture) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-29 | [`s`](https://google.com/search?q=s) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`pauly.de`](https://google.com/search?q=pauly.de) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`hospitalsanjose...`](https://google.com/search?q=hospitalsanjose...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-29 | [`BLAIR inc.`](https://google.com/search?q=BLAIR+inc.) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
