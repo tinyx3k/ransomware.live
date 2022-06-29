@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-29 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-28 | [`Sembcorp Marine - Unpay`](https://google.com/search?q=Sembcorp+Marine+-+Unpay) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
 | 2022-06-28 | [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-28 | [`SuperAlloy Industrial Co., Ltd.`](https://google.com/search?q=SuperAlloy+Industrial+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-30 | [`gpmlife.com`](https://google.com/search?q=gpmlife.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`solv`](https://google.com/search?q=solv) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-29 | [`koenigstahl.pl`](https://google.com/search?q=koenigstahl.pl) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-29 | [`foxconnbc.com`](https://google.com/search?q=foxconnbc.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
