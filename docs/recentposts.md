@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-29 | [`New Peoples Bank`](https://google.com/search?q=New+Peoples+Bank) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-29 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-29 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-28 | [`Sembcorp Marine - Unpay`](https://google.com/search?q=Sembcorp+Marine+-+Unpay) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-31 | [`intertabak.com`](https://google.com/search?q=intertabak.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`tcpharmachem.co...`](https://google.com/search?q=tcpharmachem.co...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-05-30 | [`gpmlife.com`](https://google.com/search?q=gpmlife.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-05-30 | [`solv`](https://google.com/search?q=solv) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
