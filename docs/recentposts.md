@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-06-30 | [`diodes.com`](https://google.com/search?q=diodes.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-29 | [`Apex`](https://google.com/search?q=Apex) | [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) |
 | 2022-06-29 | [`Avante Health Solutions`](https://google.com/search?q=Avante+Health+Solutions) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-29 | [`New Peoples Bank`](https://google.com/search?q=New+Peoples+Bank) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-05-31 | [`Whitehall. (OH)`](https://google.com/search?q=Whitehall.+%28OH%29) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-05-31 | [`Caracol TV`](https://google.com/search?q=Caracol+TV) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-05-31 | [`G&P Projects And Systems S.A.`](https://google.com/search?q=G%26P+Projects+And+Systems+S.A.) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-05-31 | [`intertabak.com`](https://google.com/search?q=intertabak.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
