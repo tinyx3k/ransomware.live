@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-01 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-07-01 | [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-01 | [`Amalfitana Gas Srl`](https://google.com/search?q=Amalfitana+Gas+Srl) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-07-01 | [`An International Shipping Company - Unpay`](https://google.com/search?q=An+International+Shipping+Company+-+Unpay) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-01 | [`AMS-Gruppe`](https://google.com/search?q=AMS-Gruppe) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-06-01 | [`Groupe J.F. Nadeau Inc`](https://google.com/search?q=Groupe+J.F.+Nadeau+Inc) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-05-31 | [`Cavenders`](https://google.com/search?q=Cavenders) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-05-31 | [`Westwood`](https://google.com/search?q=Westwood) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
