@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-02 | [`Rocky`](https://google.com/search?q=Rocky) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-02 | [`diodes.com`](https://google.com/search?q=diodes.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`https://`](https://google.com/search?q=https%3A%2F%2F) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-02 | [`compagniedep`](https://google.com/search?q=compagniedep) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-01 | [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-06-01 | [`Jonathan Adler Leaks`](https://google.com/search?q=Jonathan+Adler+Leaks) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
-| 2022-06-01 | [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
