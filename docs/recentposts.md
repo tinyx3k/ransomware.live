@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-03 | [`AFJCONSULTING.NET FILES PART13 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART13+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-03 | [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-03 | [`V2 Logistics Corp`](https://google.com/search?q=V2+Logistics+Corp) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-03 | [`lesbureauxdelepargne.com`](https://google.com/search?q=lesbureauxdelepargne.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-04 | [`Northeastern Technical College`](https://google.com/search?q=Northeastern+Technical+College) | [suncrypt](https://ransomwatch.mousqueton.io/#/profiles?id=suncrypt) |
 | 2022-06-03 | [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-06-03 | [`St Paul`](https://google.com/search?q=St+Paul) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
-| 2022-06-03 | [`Acorn Recruitment`](https://google.com/search?q=Acorn+Recruitment) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
