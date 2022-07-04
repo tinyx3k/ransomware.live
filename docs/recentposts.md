@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-04 | [`CAN.COM`](https://google.com/search?q=CAN.COM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`NETWORK4CARS`](https://google.com/search?q=NETWORK4CARS) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`Yurtiçi Kargo`](https://google.com/search?q=Yurti%C3%A7i+Kargo) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`Massy Distribution Limited`](https://google.com/search?q=Massy+Distribution+Limited) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-05 | [`LATOURNERIE-WOLFROM.COM FILES PART2 - 10.100.57.135, 10.100.57.137 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART2+-+10.100.57.135%2C+10.100.57.137+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-04 | [`FTSUMNERK12.COM FILES PART2 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART2+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-04 | [`ALEXIM.COM FILES PART14 - 192.168.6.10, 192.168.100.90 PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART14+-+192.168.6.10%2C+192.168.100.90+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-04 | [`vainieritraspor...`](https://google.com/search?q=vainieritraspor...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
