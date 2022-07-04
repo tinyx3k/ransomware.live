@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-04 | [`ORBITELECTRIC.COM FILES PART13 - 192.168.10.107\C$\Users\benjiet\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART13+-+192.168.10.107%5CC%24%5CUsers%5Cbenjiet%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-04 | [`FERRAN-SERVICES.COM FILES PART6 - D\Databasics\Collateral\Archive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART6+-+D%5CDatabasics%5CCollateral%5CArchive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-03 | [`ENSSECURITY.COM FILES PART6 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART6+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-03 | [`LATOURNERIE-WOLFROM.COM FILES PART6 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART6+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-04 | [`lawsd`](https://google.com/search?q=lawsd) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`ora.com`](https://google.com/search?q=ora.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-04 | [`colonail.com`](https://google.com/search?q=colonail.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`hi`](https://google.com/search?q=hi) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
