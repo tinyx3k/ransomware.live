@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-05 | [`Vectalia group`](https://google.com/search?q=Vectalia+group) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-07-05 | [`Holland CPA`](https://google.com/search?q=Holland+CPA) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-05 | [`MHIRE`](https://google.com/search?q=MHIRE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-05 | [`Hamlyns Limited`](https://google.com/search?q=Hamlyns+Limited) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-05 | [`NEWCOURSECC.COM FILES PART3 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART3+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`888VOIP.COM FILES PART2 - 192.168.10.2, 192.168.10.60, 192.168.10.113, 192.168.10.172, 192`](https://google.com/search?q=888VOIP.COM+FILES+PART2+-+192.168.10.2%2C+192.168.10.60%2C+192.168.10.113%2C+192.168.10.172%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-05 | [`KSSENTERPRISES.COM FILES PART7 - 10.250.1.6\D$\Public\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART7+-+10.250.1.6%5CD%24%5CPublic%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`ATAPCOPROPERTIES.COM FILES PART2 - 10.50.0.18, 10.50.0.20 PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART2+-+10.50.0.18%2C+10.50.0.20+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
