@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-06 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-05 | [`adlerdisplay.com - Adler Display`](https://google.com/search?q=adlerdisplay.com+-+Adler+Display) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-05 | [`Capsonic`](https://google.com/search?q=Capsonic) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-05 | [`Pontal Engineering Constructions and Developments`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-05 | [`kansashighwaypa...`](https://google.com/search?q=kansashighwaypa...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`bestattung-walz...`](https://google.com/search?q=bestattung-walz...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-05 | [`PRICEDEX.COM FILES PART2 - 10.0.10.54 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART2+-+10.0.10.54+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`PERBIT.COM FILES PART4 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART4+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
