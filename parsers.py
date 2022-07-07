@@ -12,8 +12,7 @@ from datetime import datetime
 from sharedutils import openjson
 from sharedutils import runshellcmd
 from sharedutils import todiscord, totwitter, toteams
-# from sharedutils import stdlog, dbglog, errlog, honk
-from sharedutils import stdlog, dbglog, errlog
+from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
 if platform == 'darwin':
@@ -678,7 +677,7 @@ def mindware():
 def ransomhouse():
     stdlog('parser: ' + 'ransomhouse')
     parser = '''
-    egrep -o 'class="cls_recordTop"><p>([[:alnum:]]| |\.)+</p>' source/ransomhhouse-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
+    egrep -o 'class="cls_recordTop"><p>([[:alnum:]]| |\.)+</p>' source/ransomhouse-*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
