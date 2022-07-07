@@ -4,6 +4,61 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-07 | [`Sierra Pacific Industries`](https://google.com/search?q=Sierra+Pacific+Industries) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-07 | [`DEKIMO`](https://google.com/search?q=DEKIMO) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-07 | [`Jinny Beauty Supply`](https://google.com/search?q=Jinny+Beauty+Supply) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-07 | [`Roche Bobois`](https://google.com/search?q=Roche+Bobois) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-07 | [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
+| 2022-07-07 | [`LOSSEWERK`](https://google.com/search?q=LOSSEWERK) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-07 | [`SCHMIDT Gruppe Service GmbH`](https://google.com/search?q=SCHMIDT+Gruppe+Service+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-07 | [`JBKLDMN`](https://google.com/search?q=JBKLDMN) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`Dusit D2 Kenz Hotel Dubai`](https://google.com/search?q=Dusit+D2+Kenz+Hotel+Dubai) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
+| 2022-07-06 | [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
+| 2022-07-06 | [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
+| 2022-07-06 | [`alpachem.com`](https://google.com/search?q=alpachem.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-06 | [`DPP`](https://google.com/search?q=DPP) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-06 | [`cabbageinc.com`](https://google.com/search?q=cabbageinc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-06 | [`Sinclair Wilson`](https://google.com/search?q=Sinclair+Wilson) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
+| 2022-07-06 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-06 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-05 | [`adlerdisplay.com - Adler Display`](https://google.com/search?q=adlerdisplay.com+-+Adler+Display) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
+| 2022-07-05 | [`Capsonic`](https://google.com/search?q=Capsonic) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-05 | [`Pontal Engineering Constructions and Developments`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
+| 2022-07-05 | [`Vectalia group`](https://google.com/search?q=Vectalia+group) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
+| 2022-07-05 | [`Holland CPA`](https://google.com/search?q=Holland+CPA) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
+| 2022-07-05 | [`MHIRE`](https://google.com/search?q=MHIRE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-05 | [`Hamlyns Limited`](https://google.com/search?q=Hamlyns+Limited) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-05 | [`Wis-Pak, Inc`](https://google.com/search?q=Wis-Pak%2C+Inc) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
+| 2022-07-05 | [`WWSTEELE`](https://google.com/search?q=WWSTEELE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-05 | [`DIRECTFERRIES`](https://google.com/search?q=DIRECTFERRIES) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-05 | [`KDE`](https://google.com/search?q=KDE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-04 | [`AUM`](https://google.com/search?q=AUM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-04 | [`CAN.COM`](https://google.com/search?q=CAN.COM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-04 | [`NETWORK4CARS`](https://google.com/search?q=NETWORK4CARS) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-04 | [`Yurtiçi Kargo`](https://google.com/search?q=Yurti%C3%A7i+Kargo) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-04 | [`Massy Distribution Limited`](https://google.com/search?q=Massy+Distribution+Limited) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-04 | [`PRICEDEX.COM FILES PART6 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ehollran\ PUBLISHE`](https://google.com/search?q=PRICEDEX.COM+FILES+PART6+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5Cehollran%5C+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-04 | [`PERBIT.COM FILES PART8 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WW-Energi`](https://google.com/search?q=PERBIT.COM+FILES+PART8+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWW-Energi) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-04 | [`NEWCOURSECC.COM FILES PART7 - 10.168.0.7\Datastore\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART7+-+10.168.0.7%5CDatastore%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-04 | [`888VOIP.COM FILES PART6 - 192.168.10.155 PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART6+-+192.168.10.155+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-04 | [`ORBITELECTRIC.COM FILES PART13 - 192.168.10.107\C$\Users\benjiet\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART13+-+192.168.10.107%5CC%24%5CUsers%5Cbenjiet%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-04 | [`FERRAN-SERVICES.COM FILES PART6 - D\Databasics\Collateral\Archive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART6+-+D%5CDatabasics%5CCollateral%5CArchive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-03 | [`ENSSECURITY.COM FILES PART6 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART6+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-03 | [`LATOURNERIE-WOLFROM.COM FILES PART6 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART6+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-03 | [`FTSUMNERK12.COM FILES PART6 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART6+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-03 | [`AFJCONSULTING.NET FILES PART13 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART13+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
+| 2022-07-03 | [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-03 | [`V2 Logistics Corp`](https://google.com/search?q=V2+Logistics+Corp) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
+| 2022-07-03 | [`lesbureauxdelepargne.com`](https://google.com/search?q=lesbureauxdelepargne.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-03 | [`AG`](https://google.com/search?q=AG) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-03 | [`plravocats.fr`](https://google.com/search?q=plravocats.fr) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-03 | [`slpcolombus.com`](https://google.com/search?q=slpcolombus.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`axelcium.com`](https://google.com/search?q=axelcium.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`bosco-avocats.com`](https://google.com/search?q=bosco-avocats.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`Rocky`](https://google.com/search?q=Rocky) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
+| 2022-07-02 | [`diodes.com`](https://google.com/search?q=diodes.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
+| 2022-07-02 | [`https://`](https://google.com/search?q=https%3A%2F%2F) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
 | 2022-07-01 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-07-01 | [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-01 | [`Amalfitana Gas Srl`](https://google.com/search?q=Amalfitana+Gas+Srl) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
@@ -149,58 +204,3 @@ _last `200` posts_
 | 2022-06-08 | [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-07 | [`purapharm`](https://google.com/search?q=purapharm) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-07 | [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
-| 2022-06-07 | [`Losberger De Boer`](https://google.com/search?q=Losberger+De+Boer) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-06-07 | [`equis.com`](https://google.com/search?q=equis.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-07 | [`https://www.equ...`](https://google.com/search?q=https%3A%2F%2Fwww.equ...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-07 | [`k`](https://google.com/search?q=k) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`VTVCAB`](https://google.com/search?q=VTVCAB) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
-| 2022-06-06 | [`mandiant.com`](https://google.com/search?q=mandiant.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`sesver.gob.mx`](https://google.com/search?q=sesver.gob.mx) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`patralogistik.c...`](https://google.com/search?q=patralogistik.c...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`hyatts.com`](https://google.com/search?q=hyatts.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`IBRCN.COM`](https://google.com/search?q=IBRCN.COM) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`linmark.com`](https://google.com/search?q=linmark.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`sgser`](https://google.com/search?q=sgser) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-05 | [`safarni.c`](https://google.com/search?q=safarni.c) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-05 | [`kansashighwaypa...`](https://google.com/search?q=kansashighwaypa...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-05 | [`bestattung-walz...`](https://google.com/search?q=bestattung-walz...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-05 | [`PRICEDEX.COM FILES PART2 - 10.0.10.54 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART2+-+10.0.10.54+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`PERBIT.COM FILES PART4 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART4+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`NEWCOURSECC.COM FILES PART3 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART3+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`888VOIP.COM FILES PART2 - 192.168.10.2, 192.168.10.60, 192.168.10.113, 192.168.10.172, 192`](https://google.com/search?q=888VOIP.COM+FILES+PART2+-+192.168.10.2%2C+192.168.10.60%2C+192.168.10.113%2C+192.168.10.172%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`KSSENTERPRISES.COM FILES PART7 - 10.250.1.6\D$\Public\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART7+-+10.250.1.6%5CD%24%5CPublic%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`ATAPCOPROPERTIES.COM FILES PART2 - 10.50.0.18, 10.50.0.20 PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART2+-+10.50.0.18%2C+10.50.0.20+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`ORBITELECTRIC.COM FILES PART9 - 192.168.10.23\ORBIT_ART\ChristinaW\catalog&amp;pamphlet PU`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART9+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5Ccatalog%26amp%3Bpamphlet+PU) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`FERRAN-SERVICES.COM FILES PART2 - ferran.dolph, ferran.pgranger PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART2+-+ferran.dolph%2C+ferran.pgranger+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`ENSSECURITY.COM FILES PART2 - 192.168.0.74, 192.168.0.87, 192.168.0.97, 192.168.0.123, 192`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART2+-+192.168.0.74%2C+192.168.0.87%2C+192.168.0.97%2C+192.168.0.123%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`DRC-LAW.COM FILES PART11 - C\ PUBLISHED`](https://google.com/search?q=DRC-LAW.COM+FILES+PART11+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`ALTERNATIVETECHS.COM FILES PART11 - C\Shares\Alternative\TELECOM\ PUBLISHED`](https://google.com/search?q=ALTERNATIVETECHS.COM+FILES+PART11+-+C%5CShares%5CAlternative%5CTELECOM%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-05 | [`LATOURNERIE-WOLFROM.COM FILES PART2 - 10.100.57.135, 10.100.57.137 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART2+-+10.100.57.135%2C+10.100.57.137+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-04 | [`FTSUMNERK12.COM FILES PART2 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART2+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-04 | [`ALEXIM.COM FILES PART14 - 192.168.6.10, 192.168.100.90 PUBLISHED`](https://google.com/search?q=ALEXIM.COM+FILES+PART14+-+192.168.6.10%2C+192.168.100.90+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-04 | [`vainieritraspor...`](https://google.com/search?q=vainieritraspor...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`AFJCONSULTING.NET FILES PART9 - E\data\documents\Client Folders\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART9+-+E%5Cdata%5Cdocuments%5CClient+Folders%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-04 | [`SilTerra - HACKED AND 1 TB DATA LEAKED WITH SOURCES AND NDA`](https://google.com/search?q=SilTerra+-+HACKED+AND+1+TB+DATA+LEAKED+WITH+SOURCES+AND+NDA) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-06-04 | [`wik-group.com`](https://google.com/search?q=wik-group.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`specpharm.co.za`](https://google.com/search?q=specpharm.co.za) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`lawsd`](https://google.com/search?q=lawsd) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`ora.com`](https://google.com/search?q=ora.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`colonail.com`](https://google.com/search?q=colonail.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`hi`](https://google.com/search?q=hi) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`familyclinicbri...`](https://google.com/search?q=familyclinicbri...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-04 | [`Northeastern Technical College`](https://google.com/search?q=Northeastern+Technical+College) | [suncrypt](https://ransomwatch.mousqueton.io/#/profiles?id=suncrypt) |
-| 2022-06-03 | [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
-| 2022-06-03 | [`St Paul`](https://google.com/search?q=St+Paul) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
-| 2022-06-03 | [`Acorn Recruitment`](https://google.com/search?q=Acorn+Recruitment) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
-| 2022-06-02 | [`The De Montfort School`](https://google.com/search?q=The+De+Montfort+School) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
-| 2022-06-02 | [`Alexandria. (LA)`](https://google.com/search?q=Alexandria.+%28LA%29) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-06-02 | [`closetheloopeu....`](https://google.com/search?q=closetheloopeu....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-02 | [`XYTECH - HACKED AND 650 GB DATA LEAKED`](https://google.com/search?q=XYTECH+-+HACKED+AND+650+GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-06-02 | [`Nelsonslaw LLP`](https://google.com/search?q=Nelsonslaw+LLP) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-06-02 | [`compagniedep`](https://google.com/search?q=compagniedep) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-01 | [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-06-01 | [`Jonathan Adler Leaks`](https://google.com/search?q=Jonathan+Adler+Leaks) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
-| 2022-06-01 | [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-06-01 | [`AMS-Gruppe`](https://google.com/search?q=AMS-Gruppe) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-06-01 | [`Groupe J.F. Nadeau Inc`](https://google.com/search?q=Groupe+J.F.+Nadeau+Inc) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-05-31 | [`Cavenders`](https://google.com/search?q=Cavenders) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
