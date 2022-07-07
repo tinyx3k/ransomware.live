@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-07 | [`Jinny Beauty Supply`](https://google.com/search?q=Jinny+Beauty+Supply) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`Roche Bobois`](https://google.com/search?q=Roche+Bobois) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
 | 2022-07-07 | [`LOSSEWERK`](https://google.com/search?q=LOSSEWERK) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-07 | [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | [conti](https://ransomwatch.mousqueton.io/#/profiles?id=conti) |
 | 2022-06-07 | [`Losberger De Boer`](https://google.com/search?q=Losberger+De+Boer) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-07 | [`equis.com`](https://google.com/search?q=equis.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-07 | [`https://www.equ...`](https://google.com/search?q=https%3A%2F%2Fwww.equ...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
