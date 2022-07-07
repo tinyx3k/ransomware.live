@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-07 | [`SCHMIDT Gruppe Service GmbH`](https://google.com/search?q=SCHMIDT+Gruppe+Service+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`JBKLDMN`](https://google.com/search?q=JBKLDMN) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-06 | [`Dusit D2 Kenz Hotel Dubai`](https://google.com/search?q=Dusit+D2+Kenz+Hotel+Dubai) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-06 | [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-07 | [`k`](https://google.com/search?q=k) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-06 | [`VTVCAB`](https://google.com/search?q=VTVCAB) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-06-06 | [`mandiant.com`](https://google.com/search?q=mandiant.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-06 | [`sesver.gob.mx`](https://google.com/search?q=sesver.gob.mx) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
