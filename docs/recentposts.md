@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-08 | [`LYDECKERLAW`](https://google.com/search?q=LYDECKERLAW) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`LOKALTOG`](https://google.com/search?q=LOKALTOG) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`The Wiener Zeitung media group`](https://google.com/search?q=The+Wiener+Zeitung+media+group) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-10 | [`skinnertrans.ne`](https://google.com/search?q=skinnertrans.ne) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`www.vectorinf.c...`](https://google.com/search?q=www.vectorinf.c...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-10 | [`salumifici`](https://google.com/search?q=salumifici) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-10 | [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
