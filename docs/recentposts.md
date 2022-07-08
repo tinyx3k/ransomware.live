@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-08 | [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`VKF Renzel GmbH`](https://google.com/search?q=VKF+Renzel+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`OLYMPIA`](https://google.com/search?q=OLYMPIA) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`OLYMPIATILE`](https://google.com/search?q=OLYMPIATILE) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-10 | [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-09 | [`kaisoten.co.jp`](https://google.com/search?q=kaisoten.co.jp) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-09 | [`CAPECODRTA - HACKED AND DATA LEAKED`](https://google.com/search?q=CAPECODRTA+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-06-09 | [`Palermo`](https://google.com/search?q=Palermo) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
