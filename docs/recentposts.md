@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-08 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-08 | [`carnbrea.com.au`](https://google.com/search?q=carnbrea.com.au) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-08 | [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-11 | [`Metek Plc`](https://google.com/search?q=Metek+Plc) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-06-11 | [`Tiroler Rohre GmbH`](https://google.com/search?q=Tiroler+Rohre+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-10 | [`Worldwide Flight Services`](https://google.com/search?q=Worldwide+Flight+Services) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-06-10 | [`eivp-paris.fr`](https://google.com/search?q=eivp-paris.fr) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
