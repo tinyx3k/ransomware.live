@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-09 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-09 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-12 | [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-12 | [`AFJCONSULTING.NET FILES PART10 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART10+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-12 | [`slgienergy.com`](https://google.com/search?q=slgienergy.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-11 | [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
