@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-10 | [`PRICEDEX.COM FILES PART7 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ehollran\ PUBLISHE`](https://google.com/search?q=PRICEDEX.COM+FILES+PART7+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5Cehollran%5C+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-10 | [`NEWCOURSECC.COM FILES PART8 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART8+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-10 | [`888VOIP.COM FILES PART7 - 192.168.14.19\C$\Users\ijoyce.AMTECH\ PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART7+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-10 | [`ORBITELECTRIC.COM FILES PART14 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART14+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-12 | [`KSSENTERPRISES.COM FILES PART8 - 10.250.1.6\ PUBLISHED`](https://google.com/search?q=KSSENTERPRISES.COM+FILES+PART8+-+10.250.1.6%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-12 | [`ATAPCOPROPERTIES.COM FILES PART3 - 192.168.0.21\ PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART3+-+192.168.0.21%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-12 | [`ORBITELECTRIC.COM FILES PART10 - 192.168.10.23\ORBIT_ART\ChristinaW\catalog&amp;pamphlet P`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART10+-+192.168.10.23%5CORBIT_ART%5CChristinaW%5Ccatalog%26amp%3Bpamphlet+P) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-12 | [`FERRAN-SERVICES.COM FILES PART3 - ferran.czellner\C\Users\czellner\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART3+-+ferran.czellner%5CC%5CUsers%5Cczellner%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
