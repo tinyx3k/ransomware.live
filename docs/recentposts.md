@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-10 | [`LATOURNERIE-WOLFROM.COM FILES PART7 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART7+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-09 | [`FTSUMNERK12.COM FILES PART7 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART7+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-09 | [`AFJCONSULTING.NET FILES PART14 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART14+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-09 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-12 | [`LATOURNERIE-WOLFROM.COM FILES PART3 - 10.100.57.141, 10.100.57.158, 10.100.57.160, 10.100.`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART3+-+10.100.57.141%2C+10.100.57.158%2C+10.100.57.160%2C+10.100.) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-12 | [`Opal`](https://google.com/search?q=Opal) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-06-12 | [`FTSUMNERK12.COM FILES PART3 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART3+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-12 | [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
