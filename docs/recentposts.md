@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-11 | [`Uppco`](https://google.com/search?q=Uppco) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-07-11 | [`Bandai Namco`](https://google.com/search?q=Bandai+Namco) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-11 | [`PSA`](https://google.com/search?q=PSA) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-07-11 | [`Pontal Engineering Constructions and Developments Files Leak`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments+Files+Leak) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-13 | [`ptg.com.au`](https://google.com/search?q=ptg.com.au) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-13 | [`PRICEDEX.COM FILES PART3 - 10.0.100.48, 10.0.100.10, 10.0.10.19 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART3+-+10.0.100.48%2C+10.0.100.10%2C+10.0.10.19+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-13 | [`PERBIT.COM FILES PART5 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\ PUBLISHE`](https://google.com/search?q=PERBIT.COM+FILES+PART5+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5C+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-12 | [`NEWCOURSECC.COM FILES PART4 - 10.168.0.7\G$\Shared\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART4+-+10.168.0.7%5CG%24%5CShared%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
