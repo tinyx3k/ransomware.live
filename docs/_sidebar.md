@@ -4,7 +4,7 @@
 - [stats & graphs](stats.md)
 - [group profiles](profiles.md)
    
-  
+Alternative view :  
 - [Group posts](https://ransomposts.mousqueton.io)
 
 
