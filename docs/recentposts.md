@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-13 | [`Gresco`](https://google.com/search?q=Gresco) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`duda.com`](https://google.com/search?q=duda.com) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-12 | [`Podhurst Orseck`](https://google.com/search?q=Podhurst+Orseck) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-14 | [`Metek PLC Files Leak`](https://google.com/search?q=Metek+PLC+Files+Leak) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-06-14 | [`SCHIFFMANS - HACKED AND DATA LEAKED`](https://google.com/search?q=SCHIFFMANS+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-06-14 | [`MOTOLUCLE.COM - HACKED AND DATA LEAKED`](https://google.com/search?q=MOTOLUCLE.COM+-+HACKED+AND+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-06-14 | [`theallison.com`](https://google.com/search?q=theallison.com) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
