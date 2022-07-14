@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-14 | [`Behavioral Health System`](https://google.com/search?q=Behavioral+Health+System) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`RALLYE-DOM`](https://google.com/search?q=RALLYE-DOM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`FMT`](https://google.com/search?q=FMT) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-15 | [`Magnum`](https://google.com/search?q=Magnum) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-15 | [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-06-15 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
-| 2022-06-15 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
