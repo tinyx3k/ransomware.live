@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-14 | [`FMT`](https://google.com/search?q=FMT) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`ZEUS Scientific`](https://google.com/search?q=ZEUS+Scientific) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-15 | [`Shred Station`](https://google.com/search?q=Shred+Station) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-15 | [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-15 | [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
