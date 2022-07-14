@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-14 | [`ZEUS Scientific`](https://google.com/search?q=ZEUS+Scientific) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-07-14 | [`APETITO`](https://google.com/search?q=APETITO) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`SANDO`](https://google.com/search?q=SANDO) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`GROUP4 AUSTRALIA`](https://google.com/search?q=GROUP4+AUSTRALIA) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-14 | [`www.kinexia.it`](https://google.com/search?q=www.kinexia.it) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-14 | [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
