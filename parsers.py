@@ -150,8 +150,9 @@ def lockbit2desc():
 
 def arvinclub():
     stdlog('parser: ' + 'arvinclub')
+    # grep 'bookmark' source/arvinclub-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
     parser = '''
-    grep 'bookmark' source/arvinclub-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+    grep 'rel="bookmark">' source/arvinclub-*.html -C 1 | grep '</a>' | sed 's/^[^[:alnum:]]*//' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -474,9 +475,10 @@ def atomsilo():
         
 def lv():
     stdlog('parser: ' + 'lv')
+    # %s "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
     parser = '''
-    %s "blog-post-title.*?</a>" source/lv-rbvuetun*.html | cut -d '>' -f 3 | cut -d '<' -f 1
-    ''' % (fancygrep)
+    jq -r '.posts[].title' source/lv-rbvuetun*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
         errlog('lv: ' + 'parsing fail')
@@ -699,7 +701,7 @@ def cheers():
 def lockbit3():
     stdlog('parser: ' + 'lockbit3')
     parser = '''
-    grep '<div class="post-title">' source/lockbit3-lockbitapt3*.html -C 1 | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -717,3 +719,36 @@ def yanluowang():
         errlog('yanluowang: ' + 'parsing fail')
     for post in posts:
         appender(post, 'yanluowang')
+
+def omega():
+    stdlog('parser: ' + '0mega')
+    parser = '''
+    grep "<tr class='trow'>" -C 1 source/0mega-*.html | grep '<td>' | cut -d '>' -f 2 | cut -d '<' -f 1 | sort --uniq
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('0mega: ' + 'parsing fail')
+    for post in posts:
+        appender(post, '0mega')
+
+def bianlian():
+    stdlog('parser: ' + 'bianlian')
+    parser = '''
+    sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o '([[:alnum:]]| |\.)+</a>' | cut -d '<' -f 1 | sed -e '/Contacts/d'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('bianlian: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'bianlian')
+
+def redalert():
+    stdlog('parser: ' + 'redalert')
+    parser = '''
+    egrep -o '<h3>([[:alnum:]]| |\.)+</h3>' source/redalert-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('redalert: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'redalert')

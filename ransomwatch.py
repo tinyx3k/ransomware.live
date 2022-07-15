@@ -13,7 +13,11 @@ from datetime import datetime
 # local imports
 
 import parsers
-import geckodrive
+#########################################################
+# import geckodrive
+# ref https://github.com/joshhighet/ransomwatch/issues/22
+import chromium as geckodrive
+#########################################################
 from markdown import main as markdown
 
 from sharedutils import striptld
@@ -268,6 +272,9 @@ if args.mode == 'parse':
     parsers.cheers()
     parsers.lockbit3()
     parsers.yanluowang()
+    parsers.omega()
+    parsers.bianlian()
+    parsers.redalert()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
