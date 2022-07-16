@@ -2,9 +2,9 @@
 ## summary
 _july 16th, 2022_
 
-currently tracking `108` groups across `158` relays & mirrors - _`60` currently online_ 📡
+currently tracking `108` groups across `158` relays & mirrors - _`56` currently online_ 📡
 
-⏲ there have been `1` posts within the `last 24 hours`
+⏲ there have been `0` posts within the `last 24 hours`
 
 🕓 there have been `118` posts within the `month of july`
 
@@ -24,5 +24,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Saturday 16/07/2022 06:36:42 (UTC)_
+Last update : _Saturday 16/07/2022 07:32:23 (UTC)_
 
