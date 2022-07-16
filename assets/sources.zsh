@@ -11,7 +11,7 @@ fi
 if [[ "$OSTYPE" == "darwin"* ]]; then
     random_useragent=`cat assets/useragents.txt | gshuf -n 1`
 else
-    random_useragent=`cat assets/useragents.txt | gshuf -n 1`
+    random_useragent=`cat assets/useragents.txt | shuf -n 1`
 fi
 
 if [ ! -d assets/tmp ]; then
@@ -53,7 +53,7 @@ if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:ransomgang"
     exit 1
 fi
-echo ${ddcti_ransomgang} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_ransomgang
+echo ${ddcti_ransomgang} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 | sed 's/)//g' > assets/tmp/sources.ddcti_ransomgang
 ddcti_ransomgang_count=`cat assets/tmp/sources.ddcti_ransomgang | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_ransomgang_count} | github:deepdarkCTI:ransomgang"
 
@@ -64,7 +64,7 @@ if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:maas"
     exit 1
 fi
-echo ${ddcti_maas} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_maas
+echo ${ddcti_maas} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 | sed 's/)//g' > assets/tmp/sources.ddcti_maas
 ddcti_maas_count=`cat assets/tmp/sources.ddcti_maas | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_maas_count} | github:deepdarkCTI:maas"
 
@@ -74,7 +74,7 @@ if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:markets"
     exit 1
 fi
-echo ${ddcti_markets} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_markets
+echo ${ddcti_markets} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 | sed 's/)//g' > assets/tmp/sources.ddcti_markets
 ddcti_markets_count=`cat assets/tmp/sources.ddcti_markets | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_markets_count} | github:deepdarkCTI:markets"
 
@@ -84,7 +84,7 @@ if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:forum"
     exit 1
 fi
-echo ${ddcti_forum} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_forum
+echo ${ddcti_forum} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 | sed 's/)//g' > assets/tmp/sources.ddcti_forum
 ddcti_forum_count=`cat assets/tmp/sources.ddcti_forum | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_forum_count} | github:deepdarkCTI:forum"
 
@@ -124,4 +124,4 @@ do
         echo "${host}"
     fi
 done <<< "${hosts}"
-rm assets/tmp/sources.*
+#rm assets/tmp/sources.*
