@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-16 | [`NEWCOURSECC.COM FILES PART9 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART9+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`888VOIP.COM FILES PART8 - 192.168.14.19\C$\Users\ijoyce.AMTECH\Desktop\Fortnite\FortniteGa`](https://google.com/search?q=888VOIP.COM+FILES+PART8+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5CDesktop%5CFortnite%5CFortniteGa) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`ORBITELECTRIC.COM FILES PART15 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART15+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`FERRAN-SERVICES.COM FILES PART8 - ferran.bryanedwards PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART8+-+ferran.bryanedwards+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-17 | [`https://www.tb-...`](https://google.com/search?q=https%3A%2F%2Fwww.tb-...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`http://www.lund...`](https://google.com/search?q=http%3A%2F%2Fwww.lund...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-17 | [`hispanoameric`](https://google.com/search?q=hispanoameric) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-16 | [`RG Alliance Group`](https://google.com/search?q=RG+Alliance+Group) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
