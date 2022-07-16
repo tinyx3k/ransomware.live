@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-16 | [`ORBITELECTRIC.COM FILES PART15 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART15+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`FERRAN-SERVICES.COM FILES PART8 - ferran.bryanedwards PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART8+-+ferran.bryanedwards+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`ENSSECURITY.COM FILES PART8 - D\FTP\ENS\Public_Share\Marketing_Dept-Public\2020 Marketing\`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART8+-+D%5CFTP%5CENS%5CPublic_Share%5CMarketing_Dept-Public%5C2020+Marketing%5C) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`LATOURNERIE-WOLFROM.COM FILES PART8 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART8+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-17 | [`hispanoameric`](https://google.com/search?q=hispanoameric) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-16 | [`RG Alliance Group`](https://google.com/search?q=RG+Alliance+Group) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-16 | [`talaadthai`](https://google.com/search?q=talaadthai) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-16 | [`drafte`](https://google.com/search?q=drafte) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
