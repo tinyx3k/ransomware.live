@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-19 | [`GENSCO Inc. - allows Leak`](https://google.com/search?q=GENSCO+Inc.+-+allows+Leak) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-07-19 | [`Dillon Precision Products`](https://google.com/search?q=Dillon+Precision+Products) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-07-19 | [`Autohaus`](https://google.com/search?q=Autohaus) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-18 | [`ORBITELECTRIC.COM FILES PART11 -  192.168.10.138, 192.168.10.142, 192.168.12.66, 192.168.3`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART11+-++192.168.10.138%2C+192.168.10.142%2C+192.168.12.66%2C+192.168.3) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-18 | [`FERRAN-SERVICES.COM FILES PART4 - C\Users\czellner\AppData\Local\Microsoft\Outlook\15\ PUB`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART4+-+C%5CUsers%5Cczellner%5CAppData%5CLocal%5CMicrosoft%5COutlook%5C15%5C+PUB) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-18 | [`ENSSECURITY.COM FILES PART4 - D\FTP\ENS\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART4+-+D%5CFTP%5CENS%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-18 | [`LATOURNERIE-WOLFROM.COM FILES PART4 - 10.100.57.166 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART4+-+10.100.57.166+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
