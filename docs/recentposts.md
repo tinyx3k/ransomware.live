@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`cristianaspinecenter.com`](https://google.com/search?q=cristianaspinecenter.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`COS`](https://google.com/search?q=COS) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-20 | [`LaVan & Neidenberg`](https://google.com/search?q=LaVan+%26+Neidenberg) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-20 | [`competencia.com.ec`](https://google.com/search?q=competencia.com.ec) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-21 | [`GRUPO mh`](https://google.com/search?q=GRUPO+mh) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-21 | [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-21 | [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
