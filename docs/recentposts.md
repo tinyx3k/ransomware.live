@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`competencia.com.ec`](https://google.com/search?q=competencia.com.ec) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`The Minka Group`](https://google.com/search?q=The+Minka+Group) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-20 | [`coastalmedps.com`](https://google.com/search?q=coastalmedps.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`addconsult.nl`](https://google.com/search?q=addconsult.nl) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-21 | [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-21 | [`sigma-alimentos...`](https://google.com/search?q=sigma-alimentos...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`rhenus.group`](https://google.com/search?q=rhenus.group) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-21 | [`farmaciacirici....`](https://google.com/search?q=farmaciacirici....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
