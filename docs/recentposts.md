@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`crbrandsinc.com`](https://google.com/search?q=crbrandsinc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`clestra.com`](https://google.com/search?q=clestra.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-21 | [`agricolaandrea....`](https://google.com/search?q=agricolaandrea....) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`plagepalace.com`](https://google.com/search?q=plagepalace.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-21 | [`kuwaitairways.c...`](https://google.com/search?q=kuwaitairways.c...) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-20 | [`business.gov.om`](https://google.com/search?q=business.gov.om) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
