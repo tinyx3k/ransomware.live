@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-20 | [`aresfoods.ca`](https://google.com/search?q=aresfoods.ca) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`FederalBank/Fedfina.part2`](https://google.com/search?q=FederalBank%2FFedfina.part2) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-07-19 | [`Knauf`](https://google.com/search?q=Knauf) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-19 | [`An Insurance Company`](https://google.com/search?q=An+Insurance+Company) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-20 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-19 | [`emprint.com`](https://google.com/search?q=emprint.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-19 | [`PRICEDEX.COM FILES PART4 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART4+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-19 | [`PERBIT.COM FILES PART6 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WGV\pbiDB`](https://google.com/search?q=PERBIT.COM+FILES+PART6+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWGV%5CpbiDB) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
