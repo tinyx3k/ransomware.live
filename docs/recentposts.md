@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-21 | [`lexingtonnational.com`](https://google.com/search?q=lexingtonnational.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`integrate.ch`](https://google.com/search?q=integrate.ch) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-20 | [`Edenfield`](https://google.com/search?q=Edenfield) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-07-20 | [`iis.ac.uk`](https://google.com/search?q=iis.ac.uk) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-23 | [`Mechanical Systems Company`](https://google.com/search?q=Mechanical+Systems+Company) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-23 | [`Crane Carrier Company`](https://google.com/search?q=Crane+Carrier+Company) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-23 | [`Reed Pope Law`](https://google.com/search?q=Reed+Pope+Law) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-06-23 | [`COUNT+CARE - ENTEGA.DE`](https://google.com/search?q=COUNT%2BCARE+-+ENTEGA.DE) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
