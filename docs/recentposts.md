@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-21 | [`rovagnati.it`](https://google.com/search?q=rovagnati.it) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`site-technology`](https://google.com/search?q=site-technology) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
 | 2022-07-21 | [`ocrex.com`](https://google.com/search?q=ocrex.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`mwd.digital`](https://google.com/search?q=mwd.digital) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-24 | [`New Leak: Prudential LTG.`](https://google.com/search?q=New+Leak%3A+Prudential+LTG.) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-06-24 | [`Canaropa`](https://google.com/search?q=Canaropa) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-23 | [`New Leak: Northern Data Systems`](https://google.com/search?q=New+Leak%3A+Northern+Data+Systems) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
-| 2022-06-23 | [`nutis.com`](https://google.com/search?q=nutis.com) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
