@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-21 | [`sig.id`](https://google.com/search?q=sig.id) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`a2-pas.fr`](https://google.com/search?q=a2-pas.fr) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`rovagnati.it`](https://google.com/search?q=rovagnati.it) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`site-technology`](https://google.com/search?q=site-technology) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-24 | [`FTSUMNERK12.COM FILES PART5 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART5+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-24 | [`AFJCONSULTING.NET FILES PART12 - E\data\documents\QuickBooks\Company Files\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART12+-+E%5Cdata%5Cdocuments%5CQuickBooks%5CCompany+Files%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-24 | [`New Leak: Prudential LTG.`](https://google.com/search?q=New+Leak%3A+Prudential+LTG.) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
-| 2022-06-24 | [`Canaropa`](https://google.com/search?q=Canaropa) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
