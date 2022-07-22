@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-22 | [`Mackenzie Medical`](https://google.com/search?q=Mackenzie+Medical) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`Anderson Insurance Associates`](https://google.com/search?q=Anderson+Insurance+Associates) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`osde.com.ar`](https://google.com/search?q=osde.com.ar) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`taylorstafford.com`](https://google.com/search?q=taylorstafford.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-28 | [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-28 | [`SuperAlloy Industrial Co., Ltd.`](https://google.com/search?q=SuperAlloy+Industrial+Co.%2C+Ltd.) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-06-28 | [`Diskriter`](https://google.com/search?q=Diskriter) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-06-28 | [`datalit.it`](https://google.com/search?q=datalit.it) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
