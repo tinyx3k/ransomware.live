@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-22 | [`VERITAS Solicitors`](https://google.com/search?q=VERITAS+Solicitors) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`CHDE POLSKA`](https://google.com/search?q=CHDE+POLSKA) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-07-22 | [`FederalBank/Fedfina.part3`](https://google.com/search?q=FederalBank%2FFedfina.part3) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-07-21 | [`syredis.fr`](https://google.com/search?q=syredis.fr) | [redalert](https://ransomwatch.mousqueton.io/#/profiles?id=redalert) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-25 | [`PERBIT.COM FILES PART7 - 10.182.179.241\C$\sbs_prbt_backup_cifs1_vol1\SQL Backup\WGV\pbiDB`](https://google.com/search?q=PERBIT.COM+FILES+PART7+-+10.182.179.241%5CC%24%5Csbs_prbt_backup_cifs1_vol1%5CSQL+Backup%5CWGV%5CpbiDB) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-25 | [`NEWCOURSECC.COM FILES PART6 - 10.168.0.7\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART6+-+10.168.0.7%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-06-25 | [`888VOIP.COM FILES PART5 - 192.168.10.96\ PUBLISHED`](https://google.com/search?q=888VOIP.COM+FILES+PART5+-+192.168.10.96%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-06-25 | [`ATAPCOPROPERTIES.COM FILES PART5 - 192.168.0.21\ PUBLISHED`](https://google.com/search?q=ATAPCOPROPERTIES.COM+FILES+PART5+-+192.168.0.21%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
