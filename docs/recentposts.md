@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-22 | [`.com`](https://google.com/search?q=.com) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`High Power Technical Services`](https://google.com/search?q=High+Power+Technical+Services) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`zhulian.co.th`](https://google.com/search?q=zhulian.co.th) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-22 | [`townofstmarys.com`](https://google.com/search?q=townofstmarys.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-28 | [`http:/`](https://google.com/search?q=http%3A%2F) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-06-27 | [`Ministry of Agriculture`](https://google.com/search?q=Ministry+of+Agriculture) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-27 | [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
-| 2022-06-27 | [`r1group`](https://google.com/search?q=r1group) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
