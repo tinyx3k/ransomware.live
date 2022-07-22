@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-22 | [`ISGEC Heavy Engineering`](https://google.com/search?q=ISGEC+Heavy+Engineering) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`Mooresville Schools`](https://google.com/search?q=Mooresville+Schools) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`Rain the Growth Agency`](https://google.com/search?q=Rain+the+Growth+Agency) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-22 | [`bizebra.com`](https://google.com/search?q=bizebra.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-26 | [`Medical University of Innsbruck`](https://google.com/search?q=Medical+University+of+Innsbruck) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-06-26 | [`Elbit Systems of America`](https://google.com/search?q=Elbit+Systems+of+America) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-06-26 | [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
-| 2022-06-25 | [`PRICEDEX.COM FILES PART5 - 10.0.10.1\E$\Admin\Restored Files\From MGT03\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART5+-+10.0.10.1%5CE%24%5CAdmin%5CRestored+Files%5CFrom+MGT03%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
