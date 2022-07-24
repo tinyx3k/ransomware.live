@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-24 | [`FTSUMNERK12.COM FILES PART9 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART9+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-24 | [`AFJCONSULTING.NET FILES PART16 - C\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART16+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-24 | [`daytonsuperior.com`](https://google.com/search?q=daytonsuperior.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-23 | [`KKJM Lawfirm`](https://google.com/search?q=KKJM+Lawfirm) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-06-30 | [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) |
 | 2022-06-30 | [`Crupi Group`](https://google.com/search?q=Crupi+Group) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-06-30 | [`diodes.com`](https://google.com/search?q=diodes.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
-| 2022-06-29 | [`Apex`](https://google.com/search?q=Apex) | [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) |
