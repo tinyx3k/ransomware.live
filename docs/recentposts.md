@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-25 | [`legacy-hospitality.com`](https://google.com/search?q=legacy-hospitality.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`riken.co.jp`](https://google.com/search?q=riken.co.jp) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`SRM Technologies`](https://google.com/search?q=SRM+Technologies) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-25 | [`PRICEDEX.COM FILES PART9 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART9+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-02 | [`bosco-avocats.com`](https://google.com/search?q=bosco-avocats.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-02 | [`Rocky`](https://google.com/search?q=Rocky) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-02 | [`diodes.com`](https://google.com/search?q=diodes.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-02 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
