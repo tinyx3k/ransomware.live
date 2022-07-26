@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-26 | [`Empress EMS`](https://google.com/search?q=Empress+EMS) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-26 | [`Baltholding OÃ`](https://google.com/search?q=Baltholding+O%C3%83%C2%9C) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
 | 2022-07-26 | [`FederalBank/Fedfina.part4`](https://google.com/search?q=FederalBank%2FFedfina.part4) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-07-25 | [`APPLEXUS.COM FILES PART1 - 192.168.3.18, 192.168.3.66, 192.168.4.155, 192.168.5.4 PUBLISHE`](https://google.com/search?q=APPLEXUS.COM+FILES+PART1+-+192.168.3.18%2C+192.168.3.66%2C+192.168.4.155%2C+192.168.5.4+PUBLISHE) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-03 | [`LATOURNERIE-WOLFROM.COM FILES PART6 - 10.100.57.15\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART6+-+10.100.57.15%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-03 | [`FTSUMNERK12.COM FILES PART6 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART6+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-03 | [`AFJCONSULTING.NET FILES PART13 - E\data\documents\ZZ_Client Folders - Archive\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART13+-+E%5Cdata%5Cdocuments%5CZZ_Client+Folders+-+Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-07-03 | [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
