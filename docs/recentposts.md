@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-28 | [`sppc.com.sa - HACKED and more then 900GB data leaked`](https://google.com/search?q=sppc.com.sa+-+HACKED+and+more+then+900GB+data+leaked) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-28 | [`WARTSILA.COM - HACKED AND MORE THEN 2000 GB DATA LEAKED`](https://google.com/search?q=WARTSILA.COM+-+HACKED+AND+MORE+THEN+2000+GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-28 | [`studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED`](https://google.com/search?q=studioteruzzi.com+-+HACKED+AND+MORE+THEN+80GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-28 | [`JOHN A. BODZIAK ARCHITECT AIA`](https://google.com/search?q=JOHN+A.+BODZIAK+ARCHITECT+AIA) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-05 | [`DIRECTFERRIES`](https://google.com/search?q=DIRECTFERRIES) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-05 | [`KDE`](https://google.com/search?q=KDE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`AUM`](https://google.com/search?q=AUM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-04 | [`CAN.COM`](https://google.com/search?q=CAN.COM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
