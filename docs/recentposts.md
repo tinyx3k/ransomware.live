@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-28 | [`studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED`](https://google.com/search?q=studioteruzzi.com+-+HACKED+AND+MORE+THEN+80GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-28 | [`JOHN A. BODZIAK ARCHITECT AIA`](https://google.com/search?q=JOHN+A.+BODZIAK+ARCHITECT+AIA) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-27 | [`maldegem.be`](https://google.com/search?q=maldegem.be) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-27 | [`groupe-helios.com`](https://google.com/search?q=groupe-helios.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-04 | [`AUM`](https://google.com/search?q=AUM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`CAN.COM`](https://google.com/search?q=CAN.COM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-04 | [`NETWORK4CARS`](https://google.com/search?q=NETWORK4CARS) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-04 | [`Yurtiçi Kargo`](https://google.com/search?q=Yurti%C3%A7i+Kargo) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
