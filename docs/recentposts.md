@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-28 | [`herc.com.br`](https://google.com/search?q=herc.com.br) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-28 | [`tnq.co.in`](https://google.com/search?q=tnq.co.in) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-28 | [`sppc.com.sa - HACKED and more then 900GB data leaked`](https://google.com/search?q=sppc.com.sa+-+HACKED+and+more+then+900GB+data+leaked) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-28 | [`WARTSILA.COM - HACKED AND MORE THEN 2000 GB DATA LEAKED`](https://google.com/search?q=WARTSILA.COM+-+HACKED+AND+MORE+THEN+2000+GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-05 | [`Wis-Pak, Inc`](https://google.com/search?q=Wis-Pak%2C+Inc) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-07-05 | [`WWSTEELE`](https://google.com/search?q=WWSTEELE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-05 | [`DIRECTFERRIES`](https://google.com/search?q=DIRECTFERRIES) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-05 | [`KDE`](https://google.com/search?q=KDE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
