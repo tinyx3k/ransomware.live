@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-29 | [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-29 | [`armassist.ie`](https://google.com/search?q=armassist.ie) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-28 | [`Fandeli`](https://google.com/search?q=Fandeli) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-07-28 | [`herc.com.br`](https://google.com/search?q=herc.com.br) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-05 | [`Holland CPA`](https://google.com/search?q=Holland+CPA) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-05 | [`MHIRE`](https://google.com/search?q=MHIRE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-05 | [`Hamlyns Limited`](https://google.com/search?q=Hamlyns+Limited) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-05 | [`Wis-Pak, Inc`](https://google.com/search?q=Wis-Pak%2C+Inc) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
