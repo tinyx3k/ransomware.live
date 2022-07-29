@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-29 | [`fruca.es`](https://google.com/search?q=fruca.es) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-29 | [`correounir.com.ar`](https://google.com/search?q=correounir.com.ar) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-29 | [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-07-29 | [`armassist.ie`](https://google.com/search?q=armassist.ie) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-05 | [`Pontal Engineering Constructions and Developments`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-07-05 | [`Vectalia group`](https://google.com/search?q=Vectalia+group) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-07-05 | [`Holland CPA`](https://google.com/search?q=Holland+CPA) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-07-05 | [`MHIRE`](https://google.com/search?q=MHIRE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
