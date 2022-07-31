@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-07-31 | [`NEWCOURSECC.COM FILES PART11 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART11+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-31 | [`ORBITELECTRIC.COM FILES PART17 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART17+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-30 | [`FERRAN-SERVICES.COM FILES PART10 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART10+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-30 | [`ENSSECURITY.COM FILES PART10 - D\FTP\ENS\Public_Share\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART10+-+D%5CFTP%5CENS%5CPublic_Share%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-06 | [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-07-06 | [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-07-06 | [`alpachem.com`](https://google.com/search?q=alpachem.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-06 | [`DPP`](https://google.com/search?q=DPP) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
