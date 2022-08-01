@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-01 | [`preflooring.com`](https://google.com/search?q=preflooring.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-01 | [`ARISA CORREDORES DE SEGUROS`](https://google.com/search?q=ARISA+CORREDORES+DE+SEGUROS) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
 | 2022-08-01 | [`shopper360.com.my`](https://google.com/search?q=shopper360.com.my) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-31 | [`BAFNAGROUP.COM - HACKED AND MORE THEN 20 GB DATA LEAKED`](https://google.com/search?q=BAFNAGROUP.COM+-+HACKED+AND+MORE+THEN+20+GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-07 | [`DEKIMO`](https://google.com/search?q=DEKIMO) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`Jinny Beauty Supply`](https://google.com/search?q=Jinny+Beauty+Supply) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`Roche Bobois`](https://google.com/search?q=Roche+Bobois) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-07-07 | [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
