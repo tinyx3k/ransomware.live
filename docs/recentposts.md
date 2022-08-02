@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-02 | [`MarioSinacola`](https://google.com/search?q=MarioSinacola) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-08-02 | [`Puma Biotechnology - decided to allow Leaks`](https://google.com/search?q=Puma+Biotechnology+-+decided+to+allow+Leaks) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-08-02 | [`scohil.com`](https://google.com/search?q=scohil.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`casapellas.com`](https://google.com/search?q=casapellas.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-07 | [`OLYMPIA`](https://google.com/search?q=OLYMPIA) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`OLYMPIATILE`](https://google.com/search?q=OLYMPIATILE) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`Cincinnati bell didn&rsquo;t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%26rsquo%3Bt+pay+the+ransom) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
-| 2022-07-07 | [`Sierra Pacific Industries`](https://google.com/search?q=Sierra+Pacific+Industries) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
