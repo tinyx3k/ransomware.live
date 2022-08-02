@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-02 | [`scohil.com`](https://google.com/search?q=scohil.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`casapellas.com`](https://google.com/search?q=casapellas.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-01 | [`preflooring.com`](https://google.com/search?q=preflooring.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-01 | [`ARISA CORREDORES DE SEGUROS`](https://google.com/search?q=ARISA+CORREDORES+DE+SEGUROS) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-07 | [`Cincinnati bell didn&rsquo;t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%26rsquo%3Bt+pay+the+ransom) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-07 | [`Sierra Pacific Industries`](https://google.com/search?q=Sierra+Pacific+Industries) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`DEKIMO`](https://google.com/search?q=DEKIMO) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-07-07 | [`Jinny Beauty Supply`](https://google.com/search?q=Jinny+Beauty+Supply) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
