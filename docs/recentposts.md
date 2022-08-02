@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-02 | [`Doosan Group`](https://google.com/search?q=Doosan+Group) | [revil](https://ransomwatch.mousqueton.io/#/profiles?id=revil) |
 | 2022-08-02 | [`kangaroo.vn`](https://google.com/search?q=kangaroo.vn) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`MarioSinacola`](https://google.com/search?q=MarioSinacola) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-08-02 | [`Puma Biotechnology - decided to allow Leaks`](https://google.com/search?q=Puma+Biotechnology+-+decided+to+allow+Leaks) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-08 | [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`VKF Renzel GmbH`](https://google.com/search?q=VKF+Renzel+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-07 | [`OLYMPIA`](https://google.com/search?q=OLYMPIA) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-07-07 | [`OLYMPIATILE`](https://google.com/search?q=OLYMPIATILE) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
