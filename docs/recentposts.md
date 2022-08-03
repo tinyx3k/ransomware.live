@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-03 | [`tekinox.it`](https://google.com/search?q=tekinox.it) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`obriengroupaustralia.com.au`](https://google.com/search?q=obriengroupaustralia.com.au) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`Doosan Group`](https://google.com/search?q=Doosan+Group) | [revil](https://ransomwatch.mousqueton.io/#/profiles?id=revil) |
 | 2022-08-02 | [`kangaroo.vn`](https://google.com/search?q=kangaroo.vn) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-08 | [`LOKALTOG`](https://google.com/search?q=LOKALTOG) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`The Wiener Zeitung media group`](https://google.com/search?q=The+Wiener+Zeitung+media+group) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-08 | [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
-| 2022-07-08 | [`VKF Renzel GmbH`](https://google.com/search?q=VKF+Renzel+GmbH) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
