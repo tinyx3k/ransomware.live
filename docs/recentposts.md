@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-08-04 | [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-08-04 | [`BEESENSE`](https://google.com/search?q=BEESENSE) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-08 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`acac.com`](https://google.com/search?q=acac.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-08 | [`carnbrea.com.au`](https://google.com/search?q=carnbrea.com.au) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
