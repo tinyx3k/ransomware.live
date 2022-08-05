@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-05 | [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-08-04 | [`ENN Group`](https://google.com/search?q=ENN+Group) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-09 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
 | 2022-07-08 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
-| 2022-07-08 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | [yanluowang](https://ransomwatch.mousqueton.io/#/profiles?id=yanluowang) |
