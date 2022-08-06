@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-06 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-08-06 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-08-06 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-08-06 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-13 | [`SANDO`](https://google.com/search?q=SANDO) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`AdaptIT`](https://google.com/search?q=AdaptIT) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
