@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-06 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-08-06 | [`diodes.com`](https://google.com/search?q=diodes.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
 | 2022-08-06 | [`ttdwest`](https://google.com/search?q=ttdwest) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-13 | [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`APETITO`](https://google.com/search?q=APETITO) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-13 | [`GROUP4 AUSTRALIA`](https://google.com/search?q=GROUP4+AUSTRALIA) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`Authentic Brands Group`](https://google.com/search?q=Authentic+Brands+Group) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
