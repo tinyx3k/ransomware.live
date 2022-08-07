@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-07 | [`FTSUMNERK12.COM FILES PART11 - 192.168.0.244\StudentShare\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART11+-+192.168.0.244%5CStudentShare%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-07 | [`APPLEXUS.COM FILES PART3 - 192.168.5.136, 192.168.5.141, 192.168.5.167, 192.168.5.183, 192`](https://google.com/search?q=APPLEXUS.COM+FILES+PART3+-+192.168.5.136%2C+192.168.5.141%2C+192.168.5.167%2C+192.168.5.183%2C+192) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-06 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-08-06 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit2](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit2) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-13 | [`Biothane usa`](https://google.com/search?q=Biothane+usa) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-07-13 | [`Gresco`](https://google.com/search?q=Gresco) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-07-13 | [`SANDO`](https://google.com/search?q=SANDO) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-13 | [`RTVCM`](https://google.com/search?q=RTVCM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
