@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-07 | [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | [pysa](https://ransomwatch.mousqueton.io/#/profiles?id=pysa) |
 | 2022-08-07 | [`PRICEDEX.COM FILES PART11 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART11+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-07 | [`NEWCOURSECC.COM FILES PART12 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART12+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-07 | [`ORBITELECTRIC.COM FILES PART18 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART18+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`etgworld.com`](https://google.com/search?q=etgworld.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-14 | [`syredis.fr`](https://google.com/search?q=syredis.fr) | [redalert](https://ransomwatch.mousqueton.io/#/profiles?id=redalert) |
 | 2022-07-14 | [`Mackenzie Medical`](https://google.com/search?q=Mackenzie+Medical) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
-| 2022-07-14 | [`Anderson Insurance Associates`](https://google.com/search?q=Anderson+Insurance+Associates) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
