@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-08 | [`Artic Building Services`](https://google.com/search?q=Artic+Building+Services) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-08-08 | [`versma.com`](https://google.com/search?q=versma.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-08 | [`unimasters.com`](https://google.com/search?q=unimasters.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-08 | [`trialpro.com`](https://google.com/search?q=trialpro.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`FMT`](https://google.com/search?q=FMT) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`CITY-FURNITURE`](https://google.com/search?q=CITY-FURNITURE) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-07-14 | [`RALLYE-DOM`](https://google.com/search?q=RALLYE-DOM) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-14 | [`genusplc.com`](https://google.com/search?q=genusplc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
