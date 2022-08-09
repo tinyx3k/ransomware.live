@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-09 | [`An Insurance Company  -Paid`](https://google.com/search?q=An+Insurance+Company++-Paid) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
 | 2022-08-09 | [`An Turkey Certified Public Accountancy Firms  -Unpay`](https://google.com/search?q=An+Turkey+Certified+Public+Accountancy+Firms++-Unpay) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
 | 2022-08-08 | [`wrschool.net`](https://google.com/search?q=wrschool.net) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-08 | [`Freyr Solutions`](https://google.com/search?q=Freyr+Solutions) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-14 | [`Duda Farm Fresh Foods  A. Duda & Sons , Inc.  Duda  A. Duda & Sons  Duda Farm Fresh Foods `](https://google.com/search?q=Duda+Farm+Fresh+Foods++A.+Duda+%26+Sons+%2C+Inc.++Duda++A.+Duda+%26+Sons++Duda+Farm+Fresh+Foods+) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-14 | [`Unisuper S.A.`](https://google.com/search?q=Unisuper+S.A.) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-14 | [`frederickco.gov`](https://google.com/search?q=frederickco.gov) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-14 | [`Behavioral Health System`](https://google.com/search?q=Behavioral+Health+System) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
