@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-09 | [`FOSUN.COM`](https://google.com/search?q=FOSUN.COM) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-09 | [`valverdehotel.com`](https://google.com/search?q=valverdehotel.com) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-08-09 | [`An Insurance Company  -Paid`](https://google.com/search?q=An+Insurance+Company++-Paid) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
 | 2022-08-09 | [`An Turkey Certified Public Accountancy Firms  -Unpay`](https://google.com/search?q=An+Turkey+Certified+Public+Accountancy+Firms++-Unpay) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-15 | [`vahanen.com`](https://google.com/search?q=vahanen.com) | [redalert](https://ransomwatch.mousqueton.io/#/profiles?id=redalert) |
 | 2022-07-14 | [`Rain the Growth Agency`](https://google.com/search?q=Rain+the+Growth+Agency) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-14 | [`Duda Farm Fresh Foods  A. Duda & Sons , Inc.  Duda  A. Duda & Sons  Duda Farm Fresh Foods `](https://google.com/search?q=Duda+Farm+Fresh+Foods++A.+Duda+%26+Sons+%2C+Inc.++Duda++A.+Duda+%26+Sons++Duda+Farm+Fresh+Foods+) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-07-14 | [`Unisuper S.A.`](https://google.com/search?q=Unisuper+S.A.) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
