@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-13 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-13 | [`centuryaluminum.com`](https://google.com/search?q=centuryaluminum.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-10 | [`whitworth.edu`](https://google.com/search?q=whitworth.edu) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-10 | [`okcu.edu`](https://google.com/search?q=okcu.edu) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-16 | [`888VOIP.COM FILES PART8 - 192.168.14.19\C$\Users\ijoyce.AMTECH\Desktop\Fortnite\FortniteGa`](https://google.com/search?q=888VOIP.COM+FILES+PART8+-+192.168.14.19%5CC%24%5CUsers%5Cijoyce.AMTECH%5CDesktop%5CFortnite%5CFortniteGa) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`ORBITELECTRIC.COM FILES PART15 - 92.168.10.107\C$\Users\benjiet\Documents\DONOTdelete!\PST`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART15+-+92.168.10.107%5CC%24%5CUsers%5Cbenjiet%5CDocuments%5CDONOTdelete%21%5CPST) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-16 | [`FERRAN-SERVICES.COM FILES PART8 - ferran.bryanedwards PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART8+-+ferran.bryanedwards+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-07-16 | [`ENSSECURITY.COM FILES PART8 - D\FTP\ENS\Public_Share\Marketing_Dept-Public\2020 Marketing\`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART8+-+D%5CFTP%5CENS%5CPublic_Share%5CMarketing_Dept-Public%5C2020+Marketing%5C) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
