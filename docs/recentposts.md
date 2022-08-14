@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-14 | [`ORBITELECTRIC.COM FILES PART19 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART19+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-14 | [`FERRAN-SERVICES.COM FILES PART12 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART12+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-14 | [`ENSSECURITY.COM FILES PART12 - 192.168.0.115\C$\Users\Sales\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART12+-+192.168.0.115%5CC%24%5CUsers%5CSales%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-14 | [`SPINNEYS.COM FILES PART4 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\ PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART4+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-18 | [`Wallwork Truck Center`](https://google.com/search?q=Wallwork+Truck+Center) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-18 | [`Dillon Precision Products`](https://google.com/search?q=Dillon+Precision+Products) | [blackbasta](https://ransomwatch.mousqueton.io/#/profiles?id=blackbasta) |
 | 2022-07-17 | [`sig.id`](https://google.com/search?q=sig.id) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-16 | [`ISGEC Heavy Engineering`](https://google.com/search?q=ISGEC+Heavy+Engineering) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
