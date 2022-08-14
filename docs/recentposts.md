@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-14 | [`qualitymedicalinc.com`](https://google.com/search?q=qualitymedicalinc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-14 | [`pinnick.co.uk`](https://google.com/search?q=pinnick.co.uk) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-14 | [`TriState HVAC Equipment`](https://google.com/search?q=TriState+HVAC+Equipment) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
 | 2022-08-14 | [`STTLK - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=STTLK+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-18 | [`bizframe.co.za`](https://google.com/search?q=bizframe.co.za) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`integrate.ch`](https://google.com/search?q=integrate.ch) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-18 | [`aresfoods.ca`](https://google.com/search?q=aresfoods.ca) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-18 | [`An British Financial Company -Unpay`](https://google.com/search?q=An+British+Financial+Company+-Unpay) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
