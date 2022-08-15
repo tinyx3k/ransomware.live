@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-15 | [`ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN`](https://google.com/search?q=ELEFONDATI+SRL+-+WAS+HACKED.+20+GB+OF+SENSITIVE+DATA+STOLEN) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-08-14 | [`vsainc.com`](https://google.com/search?q=vsainc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-14 | [`qualitymedicalinc.com`](https://google.com/search?q=qualitymedicalinc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-14 | [`pinnick.co.uk`](https://google.com/search?q=pinnick.co.uk) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-18 | [`Broshuis - Driving innovation`](https://google.com/search?q=Broshuis+-+Driving+innovation) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-07-18 | [`FederalBank / Fedfina`](https://google.com/search?q=FederalBank+%2F+Fedfina) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-07-18 | [`bizframe.co.za`](https://google.com/search?q=bizframe.co.za) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-18 | [`integrate.ch`](https://google.com/search?q=integrate.ch) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
