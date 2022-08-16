@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-16 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-16 | [`altaadhod.com`](https://google.com/search?q=altaadhod.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-15 | [`ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN`](https://google.com/search?q=ELEFONDATI+SRL+-+WAS+HACKED.+20+GB+OF+SENSITIVE+DATA+STOLEN) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
 | 2022-08-14 | [`vsainc.com`](https://google.com/search?q=vsainc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-07-19 | [`Autohaus`](https://google.com/search?q=Autohaus) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-07-18 | [`Broshuis - Driving innovation`](https://google.com/search?q=Broshuis+-+Driving+innovation) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
-| 2022-07-18 | [`FederalBank / Fedfina`](https://google.com/search?q=FederalBank+%2F+Fedfina) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
