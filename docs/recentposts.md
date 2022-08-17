@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-17 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [snatch](https://ransomwatch.mousqueton.io/#/profiles?id=snatch) |
 | 2022-08-17 | [`Accelya`](https://google.com/search?q=Accelya) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-08-17 | [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-16 | [`Vygon Spain`](https://google.com/search?q=Vygon+Spain) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`madcoenergi.com`](https://google.com/search?q=madcoenergi.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`fedefarma.com`](https://google.com/search?q=fedefarma.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-19 | [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
