@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-17 | [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-16 | [`Vygon Spain`](https://google.com/search?q=Vygon+Spain) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-08-16 | [`tier1techs.screenconnect.com`](https://google.com/search?q=tier1techs.screenconnect.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-16 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-19 | [`clestra.com`](https://google.com/search?q=clestra.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
