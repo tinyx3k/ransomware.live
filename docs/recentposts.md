@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-18 | [`entrust.com`](https://google.com/search?q=entrust.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-18 | [`megal.com`](https://google.com/search?q=megal.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-18 | [`An British Financial Company -Public`](https://google.com/search?q=An+British+Financial+Company+-Public) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
 | 2022-08-18 | [`WOOTTON ACADEMY TRUST`](https://google.com/search?q=WOOTTON+ACADEMY+TRUST) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`GENSCO Inc. - allows Leak`](https://google.com/search?q=GENSCO+Inc.+-+allows+Leak) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
 | 2022-07-19 | [`.com`](https://google.com/search?q=.com) | [bianlian](https://ransomwatch.mousqueton.io/#/profiles?id=bianlian) |
 | 2022-07-19 | [`cristianaspinecenter.com`](https://google.com/search?q=cristianaspinecenter.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-19 | [`crbrandsinc.com`](https://google.com/search?q=crbrandsinc.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
