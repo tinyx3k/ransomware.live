@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-19 | [`Shaw &amp; Slavsky`](https://google.com/search?q=Shaw+%26amp%3B+Slavsky) | [quantum](https://ransomwatch.mousqueton.io/#/profiles?id=quantum) |
 | 2022-08-19 | [`Department of Indre-et-Loire`](https://google.com/search?q=Department+of+Indre-et-Loire) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-08-18 | [`Consejo Superior de`](https://google.com/search?q=Consejo+Superior+de) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-08-18 | [`entrust.com`](https://google.com/search?q=entrust.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-19 | [`XQUADRAT GmbH`](https://google.com/search?q=XQUADRAT+GmbH) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`San Luis Coastal Unified`](https://google.com/search?q=San+Luis+Coastal+Unified) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-07-19 | [`An Insurance Company`](https://google.com/search?q=An+Insurance+Company) | [cheers](https://ransomwatch.mousqueton.io/#/profiles?id=cheers) |
-| 2022-07-19 | [`GENSCO Inc. - allows Leak`](https://google.com/search?q=GENSCO+Inc.+-+allows+Leak) | [ragnarlocker](https://ransomwatch.mousqueton.io/#/profiles?id=ragnarlocker) |
