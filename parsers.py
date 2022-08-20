@@ -12,7 +12,7 @@ from datetime import datetime
 from sharedutils import openjson
 from sharedutils import runshellcmd
 from sharedutils import todiscord, totwitter, toteams
-from sharedutils import stdlog, dbglog, errlog
+from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
 if platform == 'darwin':
@@ -431,8 +431,9 @@ def blackbyte():
     stdlog('parser: ' + 'blackbyte')
     # grep "h1" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
     # grep "display-4" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^[ \t]*//' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    # grep '<h1 class="h_font"' source/blackbyte-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     parser = '''
-    grep '<h1 class="h_font"' source/blackbyte-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    grep --no-filename 'class="h_font"' source/blackbyte-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -753,3 +754,25 @@ def redalert():
         errlog('redalert: ' + 'parsing fail')
     for post in posts:
         appender(post, 'redalert')
+
+def daixin():
+    stdlog('parser: ' + 'daixin')
+    parser = '''
+    grep '<h4 class="border-danger' source/daixin-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('daixin: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'daixin')
+
+def icefire():
+    stdlog('parser: ' + 'icefire')
+    parser = '''
+    grep align-middle -C 2 source/icefire-*.html | grep span | grep -v '\*\*\*\*' | grep -v updating | grep '\*\.' | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('icefire: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'icefire')
