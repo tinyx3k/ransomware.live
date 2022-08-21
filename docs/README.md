@@ -8,7 +8,7 @@ currently tracking `117` groups across `208` relays & mirrors - _`52` currently 
 
 🕓 there have been `131` posts within the `month of august`
 
-📅 there have been `668` posts within the `last 90 days`
+📅 there have been `659` posts within the `last 90 days`
 
 🏚 there have been `2227` posts within the `year of 2022`
 
@@ -24,5 +24,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Sunday 21/08/2022 13:28:04 (UTC)_
+Last update : _Sunday 21/08/2022 15:15:48 (UTC)_
 
