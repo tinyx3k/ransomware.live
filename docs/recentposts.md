@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-21 | [`FTSUMNERK12.COM FILES PART13 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART13+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-21 | [`APPLEXUS.COM FILES PART5 - 192.168.3.15\D$\COMPANIES\Applexus Technologies PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART5+-+192.168.3.15%5CD%24%5CCOMPANIES%5CApplexus+Technologies+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-21 | [`Family Medicine Centers`](https://google.com/search?q=Family+Medicine+Centers) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-08-21 | [`BSA Hospice of the Southwest`](https://google.com/search?q=BSA+Hospice+of+the+Southwest) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-21 | [`HANDLER Bau GmbH`](https://google.com/search?q=HANDLER+Bau+GmbH) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-21 | [`a2-pas.fr`](https://google.com/search?q=a2-pas.fr) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-21 | [`site-technology`](https://google.com/search?q=site-technology) | [cuba](https://ransomwatch.mousqueton.io/#/profiles?id=cuba) |
-| 2022-07-21 | [`ocrex.com`](https://google.com/search?q=ocrex.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
