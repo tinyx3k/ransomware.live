@@ -6,12 +6,12 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <title>BB Auction</title>
     <link href="/dist/font-awesome.min.css" rel="stylesheet">
-    <link href="/dist/css/bootstrap.css?v=1661279628" rel="stylesheet">
-    <link href="/blog.css?v=1661279628" rel="stylesheet">
+    <link href="/dist/css/bootstrap.css?v=1661293705" rel="stylesheet">
+    <link href="/blog.css?v=1661293705" rel="stylesheet">
     <script src="/assets/js/jquery-2.1.3.min.js"></script>
     <script src="/assets/js/vendor/popper.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
-    <script src="/script.js?v=1661279628"></script>
+    <script src="/script.js?v=1661293705"></script>
     <style>
 
     </style>
@@ -20,7 +20,54 @@
 
 
 <body class="page_body">
-<div class="container">
+
+
+
+
+<style type="text/css">#hellopreloader>p{display:none;}
+    #hellopreloader_preload {
+        display: block;
+        position: fixed;
+        z-index: 99999;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        min-width: 1000px;
+        background: url("assets/img/trost2.png") center no-repeat;
+        text-align: center;
+        font-family: RockDeath;
+        font-size: 154px;
+        color: #000000;
+        font-weight: 600;
+        text-decoration: none;
+        line-height: 5.5;
+
+    }</style>
+<div id="hellopreloader"><div id="hellopreloader_preload">BlackByte</div></div>
+
+<script type="text/javascript">var hellopreloader = document.getElementById("hellopreloader_preload");
+    function fadeOutnojquery(el){el.style.opacity = 1;
+        var interhellopreloader = setInterval(function(){
+            el.style.opacity = el.style.opacity - 0.05;
+            if (el.style.opacity <=0.05){
+                clearInterval(interhellopreloader);
+                hellopreloader.style.display = "none";
+                $(".container").show();
+                $(".blog-footer").show();
+                $(".cont1").show();
+                $(".bgt1").show();
+            }},16);
+    }window.onload = function(){
+        setTimeout(function(){
+            fadeOutnojquery(hellopreloader);
+            },4000);
+    };
+</script>
+
+
+
+<div class="container" style="display: none">
     <header class="blog-header py-3">
         <div class="row flex-nowrap justify-content-between align-items-center" style="margin-bottom: 100px">
             <div class="col-4 pt-1">
@@ -93,7 +140,7 @@
     </script>
 
 
-    <div class="row cont1">
+    <div class="row cont1" style="display: none">
 
         
             <script>
@@ -121,7 +168,7 @@
 
                 var showed1 = 0;
                 var showed_d_buttons1 = 0;
-                var HAPPYSEC1 = -30965628;
+                var HAPPYSEC1 = -30979705;
                 var t_sec1 = HAPPYSEC1;
                 var time1;
                 var intervalId1= 0;
@@ -169,7 +216,7 @@
 
             </script>
 
-            <div class="col-md-12 col-sm-12 bgt1 " id="target_1">
+            <div class="col-md-12 col-sm-12 bgt1 " id="target_1" style="display: none">
                 <table class="table table-bordered table-content ">
                     <tr style=";" class="content-fone">
                         <td class="txt td-1">
@@ -222,7 +269,15 @@
                                 <div>
                                     <div class="blocks"><div class="gallery" >
                                             <a  class="photo proof_images proof_images_1"> <div class="gallery">
-                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/1/proof1.jpg"></a>
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/1/proof1.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/1/proof2.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/1/proof3.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/1/proof4.png"></a>
+                                        </div>  <div class="gallery">
+                                            <a rel="gallery" class="photo gost"><img class="img-l" src="proofs/1/proof5.png"></a>
                                         </div> </a>
                                         </div></div>
                                     <div class="container2">
@@ -239,7 +294,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
                                                 <a class=""><button class="custom-btn btn-12"><span>DELETE DATA</span><span>300000$</span></button></a>
                                             </div>
                                             <div class="col-sm-4 ">
-                                                <a href="https://anonfiles.com/PcD6Z04eye/apex_zip" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
+                                                <a href="" target="_blank"><button class="custom-btn btn-12"><span class="proofdata">DOWNLOAD PROOF DATA</span><span>DATA</span></button></a>
                                             </div>
                                             <div class="col-sm-4 ">
                                                 <a id="myBtn1" 1><button class="custom-btn btn-12"><span>BUY DATA</span><span>200000$</span></button></a>
@@ -269,7 +324,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
     </div>
     
 </div>
-<footer class="blog-footer">
+<footer class="blog-footer" style="display: none">
     <p class="footer-name">BLACKBYTE</p>
 </footer>
 
@@ -307,27 +362,7 @@ position: absolute;" class="col-xs-12 col-md-4"><i data-chat="BlackByteSupp0rt@o
 
 </script>
 </body>
-<style type="text/css">#hellopreloader>p{display:none;}
-    #hellopreloader_preload {
-        display: block;
-        position: fixed;
-        z-index: 99999;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        min-width: 1000px;
-        background: url("assets/img/trost1.png") center no-repeat;
-        text-align: center;
-        font-family: RockDeath;
-        font-size: 154px;
-        color: #000000;
-        font-weight: 600;
-        text-decoration: none;
-        line-height: 5.5;
 
-    }</style>
-<div id="hellopreloader"><div id="hellopreloader_preload">BlackByte</div></div>
-<script type="text/javascript">var hellopreloader = document.getElementById("hellopreloader_preload");function fadeOutnojquery(el){el.style.opacity = 1;var interhellopreloader = setInterval(function(){el.style.opacity = el.style.opacity - 0.05;if (el.style.opacity <=0.05){ clearInterval(interhellopreloader);hellopreloader.style.display = "none";}},16);}window.onload = function(){setTimeout(function(){fadeOutnojquery(hellopreloader);},2000);};</script>
-<!-- HelloPreload http://hello-site.ru/preloader/ -->
+
+
 </html>
