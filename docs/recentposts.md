@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`Engine Power`](https://google.com/search?q=Engine+Power) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
 | 2022-08-23 | [`Apex`](https://google.com/search?q=Apex) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | [ransomexx](https://ransomwatch.mousqueton.io/#/profiles?id=ransomexx) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-24 | [`AFJCONSULTING.NET FILES PART16 - C\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART16+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-24 | [`daytonsuperior.com`](https://google.com/search?q=daytonsuperior.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-23 | [`KKJM Lawfirm`](https://google.com/search?q=KKJM+Lawfirm) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
-| 2022-07-23 | [`Hometrust Mortgage Company`](https://google.com/search?q=Hometrust+Mortgage+Company) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
