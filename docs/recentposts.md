@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-24 | [`Olamgroup`](https://google.com/search?q=Olamgroup) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
 | 2022-08-24 | [`barrydowd.com`](https://google.com/search?q=barrydowd.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`Engine Power`](https://google.com/search?q=Engine+Power) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-24 | [`LATOURNERIE-WOLFROM.COM FILES PART9 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART9+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-24 | [`FTSUMNERK12.COM FILES PART9 - 192.168.0.244\Staff\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART9+-+192.168.0.244%5CStaff%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-24 | [`AFJCONSULTING.NET FILES PART16 - C\ PUBLISHED`](https://google.com/search?q=AFJCONSULTING.NET+FILES+PART16+-+C%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
-| 2022-07-24 | [`daytonsuperior.com`](https://google.com/search?q=daytonsuperior.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
