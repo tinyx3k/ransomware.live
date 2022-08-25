@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-25 | [`robitgroup.com`](https://google.com/search?q=robitgroup.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-25 | [`pinjuhlaw.com`](https://google.com/search?q=pinjuhlaw.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-25 | [`growag.ch`](https://google.com/search?q=growag.ch) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-25 | [`ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED`](https://google.com/search?q=ANGT+-+HACKED.+MORE+THEN+700+GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-25 | [`agenziaentrate.gov.it`](https://google.com/search?q=agenziaentrate.gov.it) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-24 | [`SRM Technologies`](https://google.com/search?q=SRM+Technologies) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-24 | [`riken.co.jp`](https://google.com/search?q=riken.co.jp) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-24 | [`PRICEDEX.COM FILES PART9 - 10.0.10.1\E$\Shares\marketing\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART9+-+10.0.10.1%5CE%24%5CShares%5Cmarketing%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
