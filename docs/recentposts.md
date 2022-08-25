@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-25 | [`Lampton School`](https://google.com/search?q=Lampton+School) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-08-25 | [`Frances King School of English`](https://google.com/search?q=Frances+King+School+of+English) | [vicesociety](https://ransomwatch.mousqueton.io/#/profiles?id=vicesociety) |
 | 2022-08-25 | [`centrodsr.it`](https://google.com/search?q=centrodsr.it) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-25 | [`Altice International`](https://google.com/search?q=Altice+International) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-25 | [`SPINNEYS.COM FILES PART1 - 10.10.11.196, 10.20.0.10 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART1+-+10.10.11.196%2C+10.20.0.10+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-07-25 | [`eclipse-print.com`](https://google.com/search?q=eclipse-print.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-25 | [`overseas-ast.com`](https://google.com/search?q=overseas-ast.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-25 | [`legacy-hospitality.com`](https://google.com/search?q=legacy-hospitality.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
