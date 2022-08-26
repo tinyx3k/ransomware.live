@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-26 | [`galenica.ma`](https://google.com/search?q=galenica.ma) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`draperyconceptsny.com`](https://google.com/search?q=draperyconceptsny.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`americantilestone.com`](https://google.com/search?q=americantilestone.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`cenviro.com`](https://google.com/search?q=cenviro.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-26 | [`WAYAN NATURAL WEAR`](https://google.com/search?q=WAYAN+NATURAL+WEAR) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
 | 2022-07-26 | [`Artistic Stairs & Railings`](https://google.com/search?q=Artistic+Stairs+%26+Railings) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
 | 2022-07-26 | [`Empress EMS`](https://google.com/search?q=Empress+EMS) | [hiveleak](https://ransomwatch.mousqueton.io/#/profiles?id=hiveleak) |
-| 2022-07-26 | [`Baltholding OÃ`](https://google.com/search?q=Baltholding+O%C3%83%C2%9C) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
