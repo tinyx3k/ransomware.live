@@ -12,6 +12,7 @@ jobs:
   torsocks-job:
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    environment: CI
     services:
       torproxy:
         image: ghcr.io/jmousqueton/ransomwatch/torproxy:latest
