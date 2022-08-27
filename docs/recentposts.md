@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-27 | [`Enso Detego`](https://google.com/search?q=Enso+Detego) | [donutleaks](https://ransomwatch.mousqueton.io/#/profiles?id=donutleaks) |
 | 2022-08-27 | [`Sando`](https://google.com/search?q=Sando) | [donutleaks](https://ransomwatch.mousqueton.io/#/profiles?id=donutleaks) |
 | 2022-08-27 | [`lenax.com`](https://google.com/search?q=lenax.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-27 | [`kkcsworld.com`](https://google.com/search?q=kkcsworld.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-26 | [`cheungwoh.com.sg`](https://google.com/search?q=cheungwoh.com.sg) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-26 | [`ymaunivers.com`](https://google.com/search?q=ymaunivers.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-26 | [`sieam.fr`](https://google.com/search?q=sieam.fr) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
-| 2022-07-26 | [`CUCA FRESCA`](https://google.com/search?q=CUCA+FRESCA) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
