@@ -73,6 +73,7 @@ def appender(post_title, group_name):
         if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
             totwitter(newpost['post_title'], newpost['group_name'])
         if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
+            stdlog('Post to Ms-Teams')
             toteams(newpost['post_title'], newpost['group_name'])
 
 '''
