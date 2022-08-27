@@ -494,7 +494,7 @@ def toteams(post_title, group):
                     {
                         "type": "Action.OpenUrl",
                         "title": "%s",
-                        "url": "https://ransomwatch.telemetry.ltd/#/profiles?id=%s"
+                        "url": "https://ransomwatch.mousqueton.io/#/profiles?id=%s"
                     }
                 ],
                 "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
