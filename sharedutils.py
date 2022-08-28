@@ -441,7 +441,7 @@ def todiscord(post_title, group):
         "color": null,
         "author": {
             "name": "%s",
-            "url": "https://ransomwatch.telemetry.ltd/#/profiles?id=%s",
+            "url": "https://www.ransomware.live/#/profiles?id=%s",
             "icon_url": "https://avatars.githubusercontent.com/u/10137"
         }
         }
@@ -494,7 +494,7 @@ def toteams(post_title, group):
                     {
                         "type": "Action.OpenUrl",
                         "title": "%s",
-                        "url": "https://ransomwatch.mousqueton.io/#/profiles?id=%s"
+                        "url": "https://ransomware.live/#/profiles?id=%s"
                     }
                 ],
                 "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
