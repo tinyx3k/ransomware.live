@@ -29,7 +29,7 @@ from sharedutils import getsitetitle
 from sharedutils import getonionversion
 from sharedutils import checkgeckodriver
 from sharedutils import sockshost, socksport
-from sharedutils import stdlog, dbglog, errlog # , honk
+from sharedutils import stdlog, dbglog, errlog, honk
 
 print(
     '''
