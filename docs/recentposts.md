@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-29 | [`uplexis.com.br`](https://google.com/search?q=uplexis.com.br) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-29 | [`embalajescapsa.com`](https://google.com/search?q=embalajescapsa.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-29 | [`accionplus.com`](https://google.com/search?q=accionplus.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-08-28 | [`Torin Drive`](https://google.com/search?q=Torin+Drive) | [blackbyte](https://ransomwatch.mousqueton.io/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-07-29 | [`Creos Luxembourg`](https://google.com/search?q=Creos+Luxembourg) | [alphv](https://ransomwatch.mousqueton.io/#/profiles?id=alphv) |
 | 2022-07-29 | [`autoliv.com`](https://google.com/search?q=autoliv.com) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-29 | [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-07-29 | [`Fandeli`](https://google.com/search?q=Fandeli) | [lorenz](https://ransomwatch.mousqueton.io/#/profiles?id=lorenz) |
