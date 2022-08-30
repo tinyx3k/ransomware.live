@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-30 | [`LATOURNERIE-WOLFROM.COM FILES PART14 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART14+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-30 | [`FTSUMNERK12.COM FILES PART14 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART14+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-30 | [`APPLEXUS.COM FILES PART6 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\HR\ PUBLIS`](https://google.com/search?q=APPLEXUS.COM+FILES+PART6+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5CHR%5C+PUBLIS) | [clop](https://ransomwatch.mousqueton.io/#/profiles?id=clop) |
 | 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomwatch.mousqueton.io/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-01 | [`ARISA CORREDORES DE SEGUROS`](https://google.com/search?q=ARISA+CORREDORES+DE+SEGUROS) | [onyx](https://ransomwatch.mousqueton.io/#/profiles?id=onyx) |
 | 2022-08-01 | [`shopper360.com.my`](https://google.com/search?q=shopper360.com.my) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
 | 2022-07-31 | [`BAFNAGROUP.COM - HACKED AND MORE THEN 20 GB DATA LEAKED`](https://google.com/search?q=BAFNAGROUP.COM+-+HACKED+AND+MORE+THEN+20+GB+DATA+LEAKED) | [lv](https://ransomwatch.mousqueton.io/#/profiles?id=lv) |
-| 2022-07-31 | [`get.es`](https://google.com/search?q=get.es) | [lockbit3](https://ransomwatch.mousqueton.io/#/profiles?id=lockbit3) |
