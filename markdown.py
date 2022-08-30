@@ -61,7 +61,7 @@ def mainpage():
     with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '## summary')
+    writeline(uptime_sheet, '## Statistics')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_ 📡')
