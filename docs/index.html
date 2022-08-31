@@ -77,13 +77,22 @@
       repo: 'https://github.com/jmousqueton/ransomwatch',      
       plugins: [],
       share: {
-            reddit: true,
-            linkedin: true,
-            facebook: true,
-            twitter: true,
-            whatsapp: true,
-            telegram: true,
-        }
+        options: {
+          color: '#89CFF0'
+        },
+        reddit: true,
+        linkedin: true,
+        facebook: false,
+        twitter: true,
+        whatsapp: false,
+        telegram: true,
+      },
+      footer: {
+        copy: '<span>Ransomware.live &copy; 2021 - '+ new Date().getFullYear() +'</span>',
+        auth: 'by <a href="https://github.com/JMousqueton">Julien Mousqueton</a>',
+        pre: '<hr/>',
+        style: 'text-align: right;',
+      }, 
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
