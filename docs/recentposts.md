@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-31 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-08-31 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-02 | [`Doosan Group`](https://google.com/search?q=Doosan+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-08-02 | [`tekinox.it`](https://google.com/search?q=tekinox.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`obriengroupaustralia.com.au`](https://google.com/search?q=obriengroupaustralia.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-02 | [`kangaroo.vn`](https://google.com/search?q=kangaroo.vn) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
