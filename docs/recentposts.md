@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-31 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-03 | [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-08-03 | [`Trib Total Media (USA)`](https://google.com/search?q=Trib+Total+Media+%28USA%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-08-02 | [`Doosan Group`](https://google.com/search?q=Doosan+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
-| 2022-08-02 | [`tekinox.it`](https://google.com/search?q=tekinox.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
