@@ -73,7 +73,8 @@
       autoHeader: true,
       name: '🏴‍☠️💰 Ransomware.live 👀',
       externalLinkTarget: '_blank',
-      repo: 'https://github.com/jmousqueton/ransomwatch',      
+      repo: 'https://github.com/jmousqueton/ransomwatch',  
+      search: 'auto',  
       plugins: [],
       share: {
         options: {
@@ -90,9 +91,20 @@
         pre: '<hr/>',
         style: 'text-align: right;',
       }, 
+    search : [
+      '/INDEX',         
+      '/profiles',       
+      '/recentposts', 
+    ],
+    search: {
+      maxAge: 86400000, // Expiration time, the default one day
+      paths: [], // or 'auto'
+      placeholder: 'Type to search',
+      noData: 'No Results!',
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
