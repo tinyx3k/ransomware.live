@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-08-31 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-31 | [`PRICEDEX.COM FILES PART14 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART14+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-02 | [`obriengroupaustralia.com.au`](https://google.com/search?q=obriengroupaustralia.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`kangaroo.vn`](https://google.com/search?q=kangaroo.vn) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-02 | [`MarioSinacola`](https://google.com/search?q=MarioSinacola) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-08-02 | [`Puma Biotechnology - decided to allow Leaks`](https://google.com/search?q=Puma+Biotechnology+-+decided+to+allow+Leaks) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
