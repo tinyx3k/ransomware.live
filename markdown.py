@@ -61,7 +61,7 @@ def mainpage():
     with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '## Statistics')
+    writeline(uptime_sheet, '## 📈 Statistics')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_ 📡')
@@ -72,14 +72,13 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '📅 there have been `' + str(postssince(90)) + '` posts within the `last 90 days`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🏚 there have been `' + str(poststhisyear()) + '` posts within the `year of ' + str(dt.now().year) + '`')
+    writeline(uptime_sheet, '🏚 there have been `' + str(poststhisyear()) + '` posts since the `1st January ' + str(dt.now().year) + '`')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🚀 there have been `' + str(postslastyear()) + '` posts `last year`')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the dawn of ransomwatch` 🐣')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` custom parsers indexing posts')
-    #writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which using headless browsers - _`' + str(countcaptchahosts()) + '` groups have recently introduced captchas_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
     writeline(uptime_sheet, '')
@@ -105,13 +104,11 @@ def indexpage():
         for host in group['locations']:
             stdlog('generating host report for ' + host['fqdn'])
             if host['available'] is True:
-                #statusemoji = '⬆️ 🟢'
                 statusemoji = '🟢'
                 lastseen = ''
             elif host['available'] is False:
                 # iso timestamp converted to yyyy/mm/dd
                 lastseen = host['lastscrape'].split(' ')[0]
-                #statusemoji = '⬇️ 🔴'
                 statusemoji = '🔴'
             if host['title'] is not None:
                 title = host['title'].replace('|', '-')
@@ -193,7 +190,7 @@ def recentpage():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://ransomwatch.mousqueton.io/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://ransomware.live/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
