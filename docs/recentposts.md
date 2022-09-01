@@ -4,15 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [`hspatent.com`](https://google.com/search?q=hspatent.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-09-01 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-09-01 | [`WWAY-TV, LLC`](https://google.com/search?q=WWAY-TV%2C+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-08-31 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-31 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-08-31 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-04 | [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-08-04 | [`BEESENSE`](https://google.com/search?q=BEESENSE) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
