@@ -356,7 +356,7 @@ def monthlypostcount():
     for post in posts:
         datetime_object = datetime.strptime(post['discovered'], '%Y-%m-%d %H:%M:%S.%f')
         if datetime_object.year == current_year and datetime_object.month == current_month:
-                post_count += 1
+            post_count += 1
     return post_count
 
 def postssince(days):
