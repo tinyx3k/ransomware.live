@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`solidatech.com`](https://google.com/search?q=solidatech.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [`hspatent.com`](https://google.com/search?q=hspatent.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-04 | [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-08-04 | [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
