@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Wilks Tire & Battery Service`](https://google.com/search?q=Wilks+Tire+%26+Battery+Service) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`UNIWELL Rohrsysteme GmbH & Co.`](https://google.com/search?q=UNIWELL+Rohrsysteme+GmbH+%26+Co.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Grohmann Aluworks GmbH & Co`](https://google.com/search?q=Grohmann+Aluworks+GmbH+%26+Co) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-05 | [`Borough of Union Beach`](https://google.com/search?q=Borough+of+Union+Beach) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
