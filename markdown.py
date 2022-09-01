@@ -18,7 +18,7 @@ from sharedutils import version2count
 from sharedutils import poststhisyear
 from sharedutils import postslastyear
 from sharedutils import currentmonthstr
-from sharedutils import mounthlypostcount
+from sharedutils import monthlypostcount
 #from sharedutils import headlesscount
 #from sharedutils import countcaptchahosts
 # from sharedutils import stdlog, dbglog, errlog, honk
@@ -68,7 +68,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🕓 there have been `' + str(mounthlypostcount()) + '` posts within the `month of ' + currentmonthstr() + '`')
+    writeline(uptime_sheet, '🕓 there have been `' + str(monthlypostcount()) + '` posts within the `month of ' + currentmonthstr() + '`')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '📅 there have been `' + str(postssince(90)) + '` posts within the `last 90 days`')
     writeline(uptime_sheet, '')

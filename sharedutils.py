@@ -345,7 +345,7 @@ def version3count():
                 version3_count += 1
     return version3_count
 
-def mounthlypostcount():
+def monthlypostcount():
     '''
     returns the number of posts within the current month
     '''
@@ -355,8 +355,7 @@ def mounthlypostcount():
     current_year = datetime.now().year
     for post in posts:
         datetime_object = datetime.strptime(post['discovered'], '%Y-%m-%d %H:%M:%S.%f')
-        if datetime_object.year == current_year:
-            if datetime_object.month == current_month:
+        if datetime_object.year == current_year and datetime_object.month == current_month:
                 post_count += 1
     return post_count
 
