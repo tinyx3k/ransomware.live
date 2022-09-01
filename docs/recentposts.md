@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-01 | [`solidatech.com`](https://google.com/search?q=solidatech.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Grohmann Aluworks GmbH & Co`](https://google.com/search?q=Grohmann+Aluworks+GmbH+%26+Co) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-05 | [`Borough of Union Beach`](https://google.com/search?q=Borough+of+Union+Beach) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
 | 2022-08-04 | [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-08-04 | [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
