@@ -9,5 +9,3 @@ source/screenshots/*.png
 source/linkanalysis/*.json
 assets/tmp/**
 assets/diffpost.sh
-assets/gitls.py
-groups copy.json
