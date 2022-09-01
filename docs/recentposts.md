@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [`hspatent.com`](https://google.com/search?q=hspatent.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-04 | [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-04 | [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-08-04 | [`BEESENSE`](https://google.com/search?q=BEESENSE) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-08-04 | [`ENN Group`](https://google.com/search?q=ENN+Group) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
