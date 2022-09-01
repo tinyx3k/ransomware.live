@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-01 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-04 | [`STTLK`](https://google.com/search?q=STTLK) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-03 | [`AIIM`](https://google.com/search?q=AIIM) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-08-03 | [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
-| 2022-08-03 | [`Trib Total Media (USA)`](https://google.com/search?q=Trib+Total+Media+%28USA%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
