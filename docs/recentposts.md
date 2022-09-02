@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-02 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-02 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Young & Pratt`](https://google.com/search?q=Young+%26+Pratt) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Jakob Becker`](https://google.com/search?q=Jakob+Becker) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Love, Barnes & McKew Insurance Adjusters`](https://google.com/search?q=Love%2C+Barnes+%26+McKew+Insurance+Adjusters) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`The O'Regan`](https://google.com/search?q=The+O%27Regan) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
