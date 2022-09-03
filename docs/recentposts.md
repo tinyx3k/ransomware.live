@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-09-02 | [`TAP Air - First Facts`](https://google.com/search?q=TAP+Air+-+First+Facts) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-02 | [`peakinternational.com`](https://google.com/search?q=peakinternational.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-02 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Trade-Mark Industrial Inc.`](https://google.com/search?q=Trade-Mark+Industrial+Inc.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`CREMO`](https://google.com/search?q=CREMO) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`RBBUSA`](https://google.com/search?q=RBBUSA) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`BOERNER-GRUPPE`](https://google.com/search?q=BOERNER-GRUPPE) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
