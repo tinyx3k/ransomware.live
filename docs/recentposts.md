@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
+| 2022-09-02 | [`TAP Air - First Facts`](https://google.com/search?q=TAP+Air+-+First+Facts) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
+| 2022-09-02 | [`peakinternational.com`](https://google.com/search?q=peakinternational.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-02 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
+| 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-09-02 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-09-02 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-09-01 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-09-01 | [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -196,11 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Trade-Mark Industrial Inc.`](https://google.com/search?q=Trade-Mark+Industrial+Inc.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`CREMO`](https://google.com/search?q=CREMO) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`RBBUSA`](https://google.com/search?q=RBBUSA) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`BOERNER-GRUPPE`](https://google.com/search?q=BOERNER-GRUPPE) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Young & Pratt`](https://google.com/search?q=Young+%26+Pratt) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Jakob Becker`](https://google.com/search?q=Jakob+Becker) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Love, Barnes & McKew Insurance Adjusters`](https://google.com/search?q=Love%2C+Barnes+%26+McKew+Insurance+Adjusters) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`The O'Regan`](https://google.com/search?q=The+O%27Regan) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Blairex Laboratories, Inc.`](https://google.com/search?q=Blairex+Laboratories%2C+Inc.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Wilks Tire & Battery Service`](https://google.com/search?q=Wilks+Tire+%26+Battery+Service) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`UNIWELL Rohrsysteme GmbH & Co.`](https://google.com/search?q=UNIWELL+Rohrsysteme+GmbH+%26+Co.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
