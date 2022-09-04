@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Infinitely Virtual`](https://google.com/search?q=Infinitely+Virtual) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`paradise`](https://google.com/search?q=paradise) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`WENZEL + WENZEL`](https://google.com/search?q=WENZEL+%2B+WENZEL) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
