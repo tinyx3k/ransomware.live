@@ -61,7 +61,7 @@ def mainpage():
     with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '## 📈 Statistics')
+    writeline(uptime_sheet, '## 📈 Ransomware.live Statistics')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_ 📡')
@@ -150,6 +150,7 @@ def statspage():
     writeline(statspage, '|---|---|')
     writeline(statspage, '![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |')
     writeline(statspage, '')
+    writeline(statspage, 'Last update : _'+ time.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('stats page generated')
 
 def recentposts(top):
@@ -193,6 +194,8 @@ def recentpage():
         grouplink = '[' + group + '](https://ransomware.live/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
+    writeline(recentpage, '')
+    writeline(recentpage, 'Last update : _'+ time.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('recent posts page generated')
 
 def profilepage():
@@ -259,6 +262,8 @@ def profilepage():
                 writeline(profilepage, line)
         writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')
+    writeline(profilepage, '')
+    writeline(profilepage, 'Last update : _'+ time.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('profile page generation complete')
 
 def main():
