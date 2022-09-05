@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-05 | [`augustacoop`](https://google.com/search?q=augustacoop) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`C2CORP`](https://google.com/search?q=C2CORP) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`kamut.com`](https://google.com/search?q=kamut.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-06 | [`APPLEXUS.COM FILES PART3 - 192.168.5.136, 192.168.5.141, 192.168.5.167, 192.168.5.183, 192`](https://google.com/search?q=APPLEXUS.COM+FILES+PART3+-+192.168.5.136%2C+192.168.5.141%2C+192.168.5.167%2C+192.168.5.183%2C+192) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-06 | [`unimasters.com`](https://google.com/search?q=unimasters.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`wrschool.net`](https://google.com/search?q=wrschool.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`trialpro.com`](https://google.com/search?q=trialpro.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 05/09/2022 19.12 (UTC)_
+Last update : _Monday 05/09/2022 21.04 (UTC)_
