@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 05/09/2022 03.17 (UTC)_
+Last update : _Monday 05/09/2022 05.04 (UTC)_
