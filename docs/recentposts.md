@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,4 +204,5 @@ _last `200` posts_
 | 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`paradise`](https://google.com/search?q=paradise) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+
+Last update : _Monday 05/09/2022 03.17 (UTC)_
