@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-06 | [`hatcherins.com`](https://google.com/search?q=hatcherins.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`ttdwest`](https://google.com/search?q=ttdwest) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 05/09/2022 09.09 (UTC)_
+Last update : _Monday 05/09/2022 11.02 (UTC)_
