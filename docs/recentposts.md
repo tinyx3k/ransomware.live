@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-06 | [`LATOURNERIE-WOLFROM.COM FILES PART11 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART11+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-06 | [`FTSUMNERK12.COM FILES PART11 - 192.168.0.244\StudentShare\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART11+-+192.168.0.244%5CStudentShare%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Tuesday 06/09/2022 05.01 (UTC)_
+Last update : _Tuesday 06/09/2022 07.47 (UTC)_
