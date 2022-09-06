@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-06 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`California-Oregon Telecommunications Company`](https://google.com/search?q=California-Oregon+Telecommunications+Company) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-06 | [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`metaage.com.tw`](https://google.com/search?q=metaage.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-07 | [`versma.com`](https://google.com/search?q=versma.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-07 | [`ring-plastik.de`](https://google.com/search?q=ring-plastik.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-06 | [`PRICEDEX.COM FILES PART11 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART11+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-06 | [`NEWCOURSECC.COM FILES PART12 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART12+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Tuesday 06/09/2022 21.13 (UTC)_
+Last update : _Tuesday 06/09/2022 23.06 (UTC)_
