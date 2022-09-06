@@ -4,6 +4,18 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-06 | [`gavresorts.com.br`](https://google.com/search?q=gavresorts.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-06 | [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-06 | [`psico`](https://google.com/search?q=psico) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`CleanTech`](https://google.com/search?q=CleanTech) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`augustacoop`](https://google.com/search?q=augustacoop) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`C2CORP`](https://google.com/search?q=C2CORP) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`kamut.com`](https://google.com/search?q=kamut.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`divultec.pt`](https://google.com/search?q=divultec.pt) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -192,15 +204,5 @@ _last `200` posts_
 | 2022-08-06 | [`ENSSECURITY.COM FILES PART11 - 192.168.0.115\C$\Users\Sales\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART11+-+192.168.0.115%5CC%24%5CUsers%5CSales%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-06 | [`SPINNEYS.COM FILES PART3 - 10.31.10.126, 10.31.10.153, 10.31.10.185, 10.31.10.226, 10.31.3`](https://google.com/search?q=SPINNEYS.COM+FILES+PART3+-+10.31.10.126%2C+10.31.10.153%2C+10.31.10.185%2C+10.31.10.226%2C+10.31.3) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-06 | [`LATOURNERIE-WOLFROM.COM FILES PART11 - 10.100.57.15\Trans\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART11+-+10.100.57.15%5CTrans%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-06 | [`FTSUMNERK12.COM FILES PART11 - 192.168.0.244\StudentShare\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART11+-+192.168.0.244%5CStudentShare%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-06 | [`APPLEXUS.COM FILES PART3 - 192.168.5.136, 192.168.5.141, 192.168.5.167, 192.168.5.183, 192`](https://google.com/search?q=APPLEXUS.COM+FILES+PART3+-+192.168.5.136%2C+192.168.5.141%2C+192.168.5.167%2C+192.168.5.183%2C+192) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-06 | [`unimasters.com`](https://google.com/search?q=unimasters.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`wrschool.net`](https://google.com/search?q=wrschool.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`trialpro.com`](https://google.com/search?q=trialpro.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`newwestmetals.com`](https://google.com/search?q=newwestmetals.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`hatcherins.com`](https://google.com/search?q=hatcherins.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`ttdwest`](https://google.com/search?q=ttdwest) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`MAI`](https://google.com/search?q=MAI) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-08-06 | [`paradise`](https://google.com/search?q=paradise) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+
+Last update : _Tuesday 06/09/2022 09.12 (UTC)_
