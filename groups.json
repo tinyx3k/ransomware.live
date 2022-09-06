@@ -2582,6 +2582,25 @@
         ]
     },
     {
+        "name": "qilin",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": true,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion",
+                "title": "Qilin",
+                "version": 3,
+                "slug": "http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion",
+                "available": true,
+                "updated": "2022-09-06 08:07:16.509074",
+                "lastscrape": "2022-09-06 08:07:16.509059"
+            }
+        ],
+        "profile": []
+    },
+    {
         "name": "qlocker",
         "captcha": false,
         "parser": false,
