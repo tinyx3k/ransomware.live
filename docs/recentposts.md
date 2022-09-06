@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-06 | [`misumi.com.tw`](https://google.com/search?q=misumi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`lafondasantafe.com`](https://google.com/search?q=lafondasantafe.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`gavresorts.com.br`](https://google.com/search?q=gavresorts.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-06 | [`ORBITELECTRIC.COM FILES PART18 - 192.168.10.109\F$\Personnel\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART18+-+192.168.10.109%5CF%24%5CPersonnel%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-06 | [`FERRAN-SERVICES.COM FILES PART11 - D\Company\Accounts Payable\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART11+-+D%5CCompany%5CAccounts+Payable%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-06 | [`ENSSECURITY.COM FILES PART11 - 192.168.0.115\C$\Users\Sales\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART11+-+192.168.0.115%5CC%24%5CUsers%5CSales%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-06 | [`SPINNEYS.COM FILES PART3 - 10.31.10.126, 10.31.10.153, 10.31.10.185, 10.31.10.226, 10.31.3`](https://google.com/search?q=SPINNEYS.COM+FILES+PART3+-+10.31.10.126%2C+10.31.10.153%2C+10.31.10.185%2C+10.31.10.226%2C+10.31.3) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Tuesday 06/09/2022 11.14 (UTC)_
+Last update : _Tuesday 06/09/2022 13.06 (UTC)_
