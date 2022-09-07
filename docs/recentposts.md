@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-07 | [`versma.com`](https://google.com/search?q=versma.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-07 | [`ring-plastik.de`](https://google.com/search?q=ring-plastik.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 07/09/2022 01.48 (UTC)_
+Last update : _Wednesday 07/09/2022 07.15 (UTC)_
