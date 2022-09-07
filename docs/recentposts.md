@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-07 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`California-Oregon Telecommunications Company`](https://google.com/search?q=California-Oregon+Telecommunications+Company) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-06 | [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-08 | [`Artic Building Services`](https://google.com/search?q=Artic+Building+Services) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-08-07 | [`versma.com`](https://google.com/search?q=versma.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-07 | [`ring-plastik.de`](https://google.com/search?q=ring-plastik.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-06 | [`PRICEDEX.COM FILES PART11 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART11+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Tuesday 06/09/2022 23.06 (UTC)_
+Last update : _Wednesday 07/09/2022 01.48 (UTC)_
