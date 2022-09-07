@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-07 | [`EMEPLATING`](https://google.com/search?q=EMEPLATING) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`STEVENG`](https://google.com/search?q=STEVENG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`SHI`](https://google.com/search?q=SHI) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`marcopolohotels.com`](https://google.com/search?q=marcopolohotels.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-09 | [`valverdehotel.com`](https://google.com/search?q=valverdehotel.com) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-09 | [`ISTA International GmbH`](https://google.com/search?q=ISTA+International+GmbH) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-08-09 | [`FOSUN.COM`](https://google.com/search?q=FOSUN.COM) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-09 | [`An Insurance Company  -Paid`](https://google.com/search?q=An+Insurance+Company++-Paid) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 
-Last update : _Wednesday 07/09/2022 17.08 (UTC)_
+Last update : _Wednesday 07/09/2022 19.08 (UTC)_
