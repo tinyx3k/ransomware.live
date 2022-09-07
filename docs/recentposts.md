@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-07 | [`marcopolohotels.com`](https://google.com/search?q=marcopolohotels.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-07 | [`hunters.com`](https://google.com/search?q=hunters.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-07 | [`www3.comune.gorizia.it`](https://google.com/search?q=www3.comune.gorizia.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-07 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-09 | [`An Insurance Company  -Paid`](https://google.com/search?q=An+Insurance+Company++-Paid) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-08-09 | [`An Turkey Certified Public Accountancy Firms  -Unpay`](https://google.com/search?q=An+Turkey+Certified+Public+Accountancy+Firms++-Unpay) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-08-08 | [`Freyr Solutions`](https://google.com/search?q=Freyr+Solutions) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-08-08 | [`Artic Building Services`](https://google.com/search?q=Artic+Building+Services) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Wednesday 07/09/2022 11.36 (UTC)_
+Last update : _Wednesday 07/09/2022 13.07 (UTC)_
