@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-09 | [`ISTA International GmbH`](https://google.com/search?q=ISTA+International+GmbH) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-08-09 | [`FOSUN.COM`](https://google.com/search?q=FOSUN.COM) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 08/09/2022 07.16 (UTC)_
+Last update : _Thursday 08/09/2022 09.02 (UTC)_
