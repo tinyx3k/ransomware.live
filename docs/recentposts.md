@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-09 | [`valverdehotel.com`](https://google.com/search?q=valverdehotel.com) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-09 | [`ISTA International GmbH`](https://google.com/search?q=ISTA+International+GmbH) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 
-Last update : _Thursday 08/09/2022 17.10 (UTC)_
+Last update : _Thursday 08/09/2022 19.04 (UTC)_
