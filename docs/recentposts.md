@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-09 | [`8 Italy Districts`](https://google.com/search?q=8+Italy+Districts) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
 | 2022-08-09 | [`ah-a.de`](https://google.com/search?q=ah-a.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 09/09/2022 01.38 (UTC)_
+Last update : _Friday 09/09/2022 04.55 (UTC)_
