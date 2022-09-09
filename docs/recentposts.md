@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-09 | [`connectvitypoint.com`](https://google.com/search?q=connectvitypoint.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-08 | [`kortrijkserijschool.be`](https://google.com/search?q=kortrijkserijschool.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-08 | [`MGSMFG`](https://google.com/search?q=MGSMFG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-08 | [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-10 | [`okcu.edu`](https://google.com/search?q=okcu.edu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-10 | [`Hot news straight from Cisco`](https://google.com/search?q=Hot+news+straight+from+Cisco) | [yanluowang](https://ransomware.live/#/profiles?id=yanluowang) |
 | 2022-08-09 | [`8 Italy Districts`](https://google.com/search?q=8+Italy+Districts) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
-| 2022-08-09 | [`ah-a.de`](https://google.com/search?q=ah-a.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 09/09/2022 11.00 (UTC)_
+Last update : _Friday 09/09/2022 13.08 (UTC)_
