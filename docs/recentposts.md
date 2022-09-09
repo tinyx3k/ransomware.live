@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-09 | [`lacalera.pe`](https://google.com/search?q=lacalera.pe) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`kisan.com.tr`](https://google.com/search?q=kisan.com.tr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`diakonissen-riehen.ch`](https://google.com/search?q=diakonissen-riehen.ch) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`dcashpro.com`](https://google.com/search?q=dcashpro.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-13 | [`centuryaluminum.com`](https://google.com/search?q=centuryaluminum.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-13 | [`besttaxfiler.com`](https://google.com/search?q=besttaxfiler.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-13 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-10 | [`whitworth.edu`](https://google.com/search?q=whitworth.edu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 09/09/2022 19.17 (UTC)_
+Last update : _Friday 09/09/2022 21.16 (UTC)_
