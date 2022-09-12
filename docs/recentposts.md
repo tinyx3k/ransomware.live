@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-13 | [`FTSUMNERK12.COM FILES PART12 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART12+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-13 | [`APPLEXUS.COM FILES PART4 - 192.168.3.15\D$\COMPANIES\Applexus Technologies\ PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART4+-+192.168.3.15%5CD%24%5CCOMPANIES%5CApplexus+Technologies%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Monday 12/09/2022 05.15 (UTC)_
+Last update : _Monday 12/09/2022 07.33 (UTC)_
