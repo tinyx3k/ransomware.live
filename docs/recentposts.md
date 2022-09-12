@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-13 | [`ENSSECURITY.COM FILES PART12 - 192.168.0.115\C$\Users\Sales\ PUBLISHED`](https://google.com/search?q=ENSSECURITY.COM+FILES+PART12+-+192.168.0.115%5CC%24%5CUsers%5CSales%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-13 | [`SPINNEYS.COM FILES PART4 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\ PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART4+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Monday 12/09/2022 17.08 (UTC)_
+Last update : _Monday 12/09/2022 18.56 (UTC)_
