@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomware.live/#/profiles?id=redalert) |
 | 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`TAP AIR PORTUGAL - 115k personal data leak`](https://google.com/search?q=TAP+AIR+PORTUGAL+-+115k+personal+data+leak) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-14 | [`TriState HVAC Equipment`](https://google.com/search?q=TriState+HVAC+Equipment) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-08-13 | [`STTLK - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=STTLK+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-13 | [`vsainc.com`](https://google.com/search?q=vsainc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-13 | [`PRICEDEX.COM FILES PART12 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART12+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Tuesday 13/09/2022 19.09 (UTC)_
+Last update : _Tuesday 13/09/2022 21.07 (UTC)_
