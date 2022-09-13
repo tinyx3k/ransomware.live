@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-13 | [`PRICEDEX.COM FILES PART12 - 10.0.10.1\E$\Shares\projects\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART12+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-13 | [`NEWCOURSECC.COM FILES PART13 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART13+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Tuesday 13/09/2022 13.04 (UTC)_
+Last update : _Tuesday 13/09/2022 15.05 (UTC)_
