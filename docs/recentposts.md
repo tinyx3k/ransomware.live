@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-14 | [`Hayat`](https://google.com/search?q=Hayat) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-13 | [` Spa`](https://google.com/search?q=+Spa) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomware.live/#/profiles?id=redalert) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-16 | [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-16 | [`altaadhod.com`](https://google.com/search?q=altaadhod.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-15 | [`ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN`](https://google.com/search?q=ELEFONDATI+SRL+-+WAS+HACKED.+20+GB+OF+SENSITIVE+DATA+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-08-14 | [`TriState HVAC Equipment`](https://google.com/search?q=TriState+HVAC+Equipment) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Wednesday 14/09/2022 01.29 (UTC)_
+Last update : _Wednesday 14/09/2022 05.01 (UTC)_
