@@ -4,120 +4,159 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
-| 2022-09-14 | [`GHT CORP`](https://google.com/search?q=GHT+CORP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-09-14 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
+| 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-14 | [`AUTO88`](https://google.com/search?q=AUTO88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-14 | [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-14 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-14 | [`Tri-Supply`](https://google.com/search?q=Tri-Supply) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-09-14 | [`ville-faulquemont.fr`](https://google.com/search?q=ville-faulquemont.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`thezincgroup.com`](https://google.com/search?q=thezincgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`taxprepandmore.com`](https://google.com/search?q=taxprepandmore.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`tapcocu.org`](https://google.com/search?q=tapcocu.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`sva-avignon.concession-landrover.fr`](https://google.com/search?q=sva-avignon.concession-landrover.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`sarassure.fr`](https://google.com/search?q=sarassure.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`quintal.com.co`](https://google.com/search?q=quintal.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`pays-colombey-sudtoulois.fr`](https://google.com/search?q=pays-colombey-sudtoulois.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`mj-donnais.fr`](https://google.com/search?q=mj-donnais.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`maleosante.fr`](https://google.com/search?q=maleosante.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`maisonloisy.fr`](https://google.com/search?q=maisonloisy.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`mackenzie-law.co.uk`](https://google.com/search?q=mackenzie-law.co.uk) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`lagence33.com`](https://google.com/search?q=lagence33.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`kwp.at`](https://google.com/search?q=kwp.at) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`kcgreenholdings.com`](https://google.com/search?q=kcgreenholdings.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`jt-engineering.com`](https://google.com/search?q=jt-engineering.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`euromip.fr`](https://google.com/search?q=euromip.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`euro-modules.fr`](https://google.com/search?q=euro-modules.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`daune.org`](https://google.com/search?q=daune.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`cultivar.net`](https://google.com/search?q=cultivar.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`cmb-artimmo.com`](https://google.com/search?q=cmb-artimmo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`camdomain.com`](https://google.com/search?q=camdomain.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`artdis.fr`](https://google.com/search?q=artdis.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`aipcenergy.com`](https://google.com/search?q=aipcenergy.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`idealtridon.com`](https://google.com/search?q=idealtridon.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`GHT CORP`](https://google.com/search?q=GHT+CORP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`Fiveninefive`](https://google.com/search?q=Fiveninefive) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`PCSupport`](https://google.com/search?q=PCSupport) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`Hayat`](https://google.com/search?q=Hayat) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-13 | [` Spa`](https://google.com/search?q=+Spa) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-09-13 | [`Gallery Hotels`](https://google.com/search?q=Gallery+Hotels) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`Ferrer&Ojeda`](https://google.com/search?q=Ferrer%26Ojeda) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`Tema Litoclean Group`](https://google.com/search?q=Tema+Litoclean+Group) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`Grupo Galilea`](https://google.com/search?q=Grupo+Galilea) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`FundaciÃ³ Sant Francesc d'AssÃ­s `](https://google.com/search?q=Fundaci%C3%83%C2%B3+Sant+Francesc+d%27Ass%C3%83%C2%ADs+) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`INDIBA`](https://google.com/search?q=INDIBA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`RIVISA`](https://google.com/search?q=RIVISA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`RABAT`](https://google.com/search?q=RABAT) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
+| 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomware.live/#/profiles?id=redalert) |
 | 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-13 | [`TAP AIR PORTUGAL - 115k personal data leak`](https://google.com/search?q=TAP+AIR+PORTUGAL+-+115k+personal+data+leak) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-13 | [`OakBend Medical (USA)`](https://google.com/search?q=OakBend+Medical+%28USA%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-09-12 | [`omegaservices.com.au`](https://google.com/search?q=omegaservices.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-12 | [`TAP AIR PORTUGAL - 115k personal data leak`](https://google.com/search?q=TAP+AIR+PORTUGAL+-+115k+personal+data+leak) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-12 | [`frigobandeira.com`](https://google.com/search?q=frigobandeira.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr`](https://google.com/search?q=ch-sf.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr (old)`](https://google.com/search?q=ch-sf.fr+%28old%29) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-12 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-11 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`aralaw.cr`](https://google.com/search?q=aralaw.cr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`Davin Industries Ltd`](https://google.com/search?q=Davin+Industries+Ltd) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-11 | [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-09 | [`marugokiso.co.jp`](https://google.com/search?q=marugokiso.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`lacalera.pe`](https://google.com/search?q=lacalera.pe) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`kisan.com.tr`](https://google.com/search?q=kisan.com.tr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`diakonissen-riehen.ch`](https://google.com/search?q=diakonissen-riehen.ch) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`dcashpro.com`](https://google.com/search?q=dcashpro.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`connectvitypoint.com`](https://google.com/search?q=connectvitypoint.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-08 | [`kortrijkserijschool.be`](https://google.com/search?q=kortrijkserijschool.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-09 | [`kisan.com.tr`](https://google.com/search?q=kisan.com.tr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-09 | [`kortrijkserijschool.be`](https://google.com/search?q=kortrijkserijschool.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-08 | [`MGSMFG`](https://google.com/search?q=MGSMFG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-08 | [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-07 | [`EMEPLATING`](https://google.com/search?q=EMEPLATING) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`STEVENG`](https://google.com/search?q=STEVENG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`SHI`](https://google.com/search?q=SHI) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`marcopolohotels.com`](https://google.com/search?q=marcopolohotels.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-07 | [`hunters.com`](https://google.com/search?q=hunters.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`www3.comune.gorizia.it`](https://google.com/search?q=www3.comune.gorizia.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-06 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-07 | [`misumi.com.tw`](https://google.com/search?q=misumi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-07 | [`metaage.com.tw`](https://google.com/search?q=metaage.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-07 | [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-06 | [`California-Oregon Telecommunications Company`](https://google.com/search?q=California-Oregon+Telecommunications+Company) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-06 | [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-06 | [`metaage.com.tw`](https://google.com/search?q=metaage.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-06 | [`misumi.com.tw`](https://google.com/search?q=misumi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`lafondasantafe.com`](https://google.com/search?q=lafondasantafe.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-06 | [`gavresorts.com.br`](https://google.com/search?q=gavresorts.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-06 | [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-06 | [`psico`](https://google.com/search?q=psico) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`CleanTech`](https://google.com/search?q=CleanTech) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`augustacoop`](https://google.com/search?q=augustacoop) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-05 | [`C2CORP`](https://google.com/search?q=C2CORP) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-05 | [`psico`](https://google.com/search?q=psico) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-05 | [`www3.comune.gorizia.it`](https://google.com/search?q=www3.comune.gorizia.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`kamut.com`](https://google.com/search?q=kamut.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`divultec.pt`](https://google.com/search?q=divultec.pt) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-05 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
+| 2022-09-04 | [`Cpl Architects, Engineers`](https://google.com/search?q=Cpl+Architects%2C+Engineers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-09-04 | [`C2CORP`](https://google.com/search?q=C2CORP) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-09-04 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-04 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-09-03 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Infinitely Virtual`](https://google.com/search?q=Infinitely+Virtual) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-09-02 | [`TAP Air - First Facts`](https://google.com/search?q=TAP+Air+-+First+Facts) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-02 | [`peakinternational.com`](https://google.com/search?q=peakinternational.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-02 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-02 | [` LLC`](https://google.com/search?q=+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-09-02 | [`group`](https://google.com/search?q=group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-09-01 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-09-02 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-09-01 | [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
+| 2022-09-01 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
+| 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-09-01 | [`solidatech.com`](https://google.com/search?q=solidatech.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-01 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-01 | [`hspatent.com`](https://google.com/search?q=hspatent.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-01 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-09-01 | [`WWAY-TV, LLC`](https://google.com/search?q=WWAY-TV%2C+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-09-01 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-08-31 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-31 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-31 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-08-31 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-08-31 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-31 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-31 | [`PRICEDEX.COM FILES PART14 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART14+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-31 | [`ORBITELECTRIC.COM FILES PART21 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART21+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-31 | [`FERRAN-SERVICES.COM FILES PART14 - D\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART14+-+D%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-31 | [`SPINNEYS.COM FILES PART6 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\EXPENSES(EJ)\S`](https://google.com/search?q=SPINNEYS.COM+FILES+PART6+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CEXPENSES%28EJ%29%5CS) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-08-30 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`WWAY-TV, LLC`](https://google.com/search?q=WWAY-TV%2C+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
+| 2022-08-30 | [`PRICEDEX.COM FILES PART14 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART14+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-08-30 | [`ORBITELECTRIC.COM FILES PART21 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART21+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-08-30 | [`FERRAN-SERVICES.COM FILES PART14 - D\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART14+-+D%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-08-30 | [`SPINNEYS.COM FILES PART6 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\EXPENSES(EJ)\S`](https://google.com/search?q=SPINNEYS.COM+FILES+PART6+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CEXPENSES%28EJ%29%5CS) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`LATOURNERIE-WOLFROM.COM FILES PART14 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART14+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`FTSUMNERK12.COM FILES PART14 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART14+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`APPLEXUS.COM FILES PART6 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\HR\ PUBLIS`](https://google.com/search?q=APPLEXUS.COM+FILES+PART6+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5CHR%5C+PUBLIS) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-08-30 | [`Spalding Grammar School`](https://google.com/search?q=Spalding+Grammar+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-30 | [`skupstina`](https://google.com/search?q=skupstina) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-08-30 | [` Rudman`](https://google.com/search?q=+Rudman) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-30 | [`The Preston Partnership`](https://google.com/search?q=The+Preston+Partnership) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-30 | [`Advance Corporation`](https://google.com/search?q=Advance+Corporation) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-30 | [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-08-30 | [`Laferté`](https://google.com/search?q=Lafert%C3%A9) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-08-29 | [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-08-29 | [`Laferté`](https://google.com/search?q=Lafert%C3%A9) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-08-29 | [`Josef Saller Services e.K. - Saller Bau`](https://google.com/search?q=Josef+Saller+Services+e.K.+-+Saller+Bau) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-08-29 | [`Spalding Grammar School`](https://google.com/search?q=Spalding+Grammar+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-29 | [` Rudman`](https://google.com/search?q=+Rudman) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-29 | [`The Preston Partnership`](https://google.com/search?q=The+Preston+Partnership) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-08-29 | [`Advance Corporation`](https://google.com/search?q=Advance+Corporation) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-29 | [`International Custom Controls`](https://google.com/search?q=International+Custom+Controls) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-29 | [`currierryan.com`](https://google.com/search?q=currierryan.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-29 | [`ygboulons.com`](https://google.com/search?q=ygboulons.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-29 | [`uplexis.com.br`](https://google.com/search?q=uplexis.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-29 | [`embalajescapsa.com`](https://google.com/search?q=embalajescapsa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-29 | [`accionplus.com`](https://google.com/search?q=accionplus.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-08-28 | [`ygboulons.com`](https://google.com/search?q=ygboulons.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-08-28 | [`uplexis.com.br`](https://google.com/search?q=uplexis.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-08-28 | [`embalajescapsa.com`](https://google.com/search?q=embalajescapsa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-08-28 | [`accionplus.com`](https://google.com/search?q=accionplus.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-28 | [`Torin Drive`](https://google.com/search?q=Torin+Drive) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-08-28 | [`Grande Stevens`](https://google.com/search?q=Grande+Stevens) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-08-28 | [`goodwillnm.org`](https://google.com/search?q=goodwillnm.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-27 | [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | [pysa](https://ransomware.live/#/profiles?id=pysa) |
-| 2022-08-27 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-26 | [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -165,44 +204,5 @@ _last `200` posts_
 | 2022-08-22 | [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-08-22 | [`northwestpipe.com`](https://google.com/search?q=northwestpipe.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-21 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART1 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART1+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`PRICEDEX.COM FILES PART13 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART13+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`NEWCOURSECC.COM FILES PART14 - 10.168.0.7\Datastore\FTP_Archive\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART14+-+10.168.0.7%5CDatastore%5CFTP_Archive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`ORBITELECTRIC.COM FILES PART20 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART20+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`FERRAN-SERVICES.COM FILES PART13 - D\Company\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART13+-+D%5CCompany%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`SPINNEYS.COM FILES PART5 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\EXPENSES(EJ)\S`](https://google.com/search?q=SPINNEYS.COM+FILES+PART5+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CEXPENSES%28EJ%29%5CS) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`LATOURNERIE-WOLFROM.COM FILES PART13 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART13+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`FTSUMNERK12.COM FILES PART13 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART13+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`APPLEXUS.COM FILES PART5 - 192.168.3.15\D$\COMPANIES\Applexus Technologies PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART5+-+192.168.3.15%5CD%24%5CCOMPANIES%5CApplexus+Technologies+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-21 | [`Family Medicine Centers`](https://google.com/search?q=Family+Medicine+Centers) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-08-21 | [`BSA Hospice of the Southwest`](https://google.com/search?q=BSA+Hospice+of+the+Southwest) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-08-20 | [`*.algotrader.com`](https://google.com/search?q=%2A.algotrader.com) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.bestservers.pro`](https://google.com/search?q=%2A.bestservers.pro) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.iperactive.com.ar`](https://google.com/search?q=%2A.iperactive.com.ar) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.cco1.com`](https://google.com/search?q=%2A.cco1.com) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.vps-vds.com`](https://google.com/search?q=%2A.vps-vds.com) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.guneshosting.com`](https://google.com/search?q=%2A.guneshosting.com) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.kodhosting.com`](https://google.com/search?q=%2A.kodhosting.com) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.kru.ac.th`](https://google.com/search?q=%2A.kru.ac.th) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.directfn.net`](https://google.com/search?q=%2A.directfn.net) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.feesh.ch`](https://google.com/search?q=%2A.feesh.ch) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-20 | [`*.skifgroup.com`](https://google.com/search?q=%2A.skifgroup.com) | [icefire](https://ransomware.live/#/profiles?id=icefire) |
-| 2022-08-19 | [`Greece pipeline company breached - DESFA`](https://google.com/search?q=Greece+pipeline+company+breached+-+DESFA) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-08-19 | [`Reiter Affiliated Companies`](https://google.com/search?q=Reiter+Affiliated+Companies) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-08-19 | [`PROSOL`](https://google.com/search?q=PROSOL) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-08-19 | [`Shaw &amp; Slavsky`](https://google.com/search?q=Shaw+%26amp%3B+Slavsky) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-08-18 | [`Department of Indre-et-Loire`](https://google.com/search?q=Department+of+Indre-et-Loire) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-08-18 | [`Consejo Superior de`](https://google.com/search?q=Consejo+Superior+de) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-08-18 | [`wabteccorp.com`](https://google.com/search?q=wabteccorp.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-18 | [`traveldoc.ca`](https://google.com/search?q=traveldoc.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-18 | [`entrust.com`](https://google.com/search?q=entrust.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-18 | [`megal.com`](https://google.com/search?q=megal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-18 | [`An British Financial Company -Public`](https://google.com/search?q=An+British+Financial+Company+-Public) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
-| 2022-08-18 | [`WOOTTON ACADEMY TRUST`](https://google.com/search?q=WOOTTON+ACADEMY+TRUST) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-08-18 | [`File-tree of Tang Capital`](https://google.com/search?q=File-tree+of+Tang+Capital) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-08-17 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-08-17 | [`Accelya`](https://google.com/search?q=Accelya) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-08-17 | [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-08-16 | [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-16 | [`Vygon Spain`](https://google.com/search?q=Vygon+Spain) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Wednesday 14/09/2022 12.59 (UTC)_
+Last update : _Wednesday 14/09/2022 14.09 (UTC)_
