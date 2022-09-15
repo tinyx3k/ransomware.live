@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-15 | [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`markherder.com`](https://google.com/search?q=markherder.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`studiobarba.com`](https://google.com/search?q=studiobarba.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`ruffinlawyers.com.au`](https://google.com/search?q=ruffinlawyers.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-23 | [`robitgroup.com`](https://google.com/search?q=robitgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 15/09/2022 17.03 (UTC)_
+Last update : _Thursday 15/09/2022 19.09 (UTC)_
