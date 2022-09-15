@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-15 | [`d-securite.com`](https://google.com/search?q=d-securite.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`aliat.group`](https://google.com/search?q=aliat.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-23 | [`destinationhope.com`](https://google.com/search?q=destinationhope.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`barrydowd.com`](https://google.com/search?q=barrydowd.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`Engine Power`](https://google.com/search?q=Engine+Power) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
-| 2022-08-23 | [`Apex`](https://google.com/search?q=Apex) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Thursday 15/09/2022 05.06 (UTC)_
+Last update : _Thursday 15/09/2022 07.23 (UTC)_
