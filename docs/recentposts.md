@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-15 | [`independence.com.co`](https://google.com/search?q=independence.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`d-securite.com`](https://google.com/search?q=d-securite.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`aliat.group`](https://google.com/search?q=aliat.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-23 | [`pinjuhlaw.com`](https://google.com/search?q=pinjuhlaw.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`orioninc.com`](https://google.com/search?q=orioninc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-23 | [`destinationhope.com`](https://google.com/search?q=destinationhope.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-23 | [`barrydowd.com`](https://google.com/search?q=barrydowd.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 15/09/2022 09.08 (UTC)_
+Last update : _Thursday 15/09/2022 11.16 (UTC)_
