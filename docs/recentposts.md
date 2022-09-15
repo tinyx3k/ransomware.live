@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-15 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-09-14 | [`cnachile.cl`](https://google.com/search?q=cnachile.cl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-23 | [`Engine Power`](https://google.com/search?q=Engine+Power) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-08-23 | [`Apex`](https://google.com/search?q=Apex) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-08-23 | [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
-| 2022-08-23 | [`Announcement. Action Lab File-tree`](https://google.com/search?q=Announcement.+Action+Lab+File-tree) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Wednesday 14/09/2022 23.00 (UTC)_
+Last update : _Thursday 15/09/2022 01.41 (UTC)_
