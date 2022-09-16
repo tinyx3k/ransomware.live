@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`Laddawn Inc.`](https://google.com/search?q=Laddawn+Inc.) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-09-16 | [`scottobrothers.com`](https://google.com/search?q=scottobrothers.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-25 | [`Altice International`](https://google.com/search?q=Altice+International) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-08-25 | [`ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED`](https://google.com/search?q=ANGT+-+HACKED.+MORE+THEN+700+GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-08-25 | [`growag.ch`](https://google.com/search?q=growag.ch) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-24 | [`Baton Rouge General`](https://google.com/search?q=Baton+Rouge+General) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Friday 16/09/2022 16.58 (UTC)_
+Last update : _Friday 16/09/2022 19.19 (UTC)_
