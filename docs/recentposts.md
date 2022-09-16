@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-16 | [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-24 | [`Sando`](https://google.com/search?q=Sando) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-08-24 | [`CMZ UK`](https://google.com/search?q=CMZ+UK) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-08-24 | [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
-| 2022-08-24 | [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 
-Last update : _Friday 16/09/2022 07.25 (UTC)_
+Last update : _Friday 16/09/2022 09.42 (UTC)_
