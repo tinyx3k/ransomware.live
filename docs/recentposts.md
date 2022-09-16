@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-16 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-24 | [`Baton Rouge General`](https://google.com/search?q=Baton+Rouge+General) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-08-24 | [`Enso Detego`](https://google.com/search?q=Enso+Detego) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-08-24 | [`Sando`](https://google.com/search?q=Sando) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
-| 2022-08-24 | [`CMZ UK`](https://google.com/search?q=CMZ+UK) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 
-Last update : _Friday 16/09/2022 11.13 (UTC)_
+Last update : _Friday 16/09/2022 13.09 (UTC)_
