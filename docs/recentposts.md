@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-16 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-15 | [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-24 | [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-08-24 | [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-08-24 | [`Olamgroup`](https://google.com/search?q=Olamgroup) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-08-24 | [`GMX`](https://google.com/search?q=GMX) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Thursday 15/09/2022 23.01 (UTC)_
+Last update : _Friday 16/09/2022 01.41 (UTC)_
