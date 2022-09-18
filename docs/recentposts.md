@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-26 | [`centrodsr.it`](https://google.com/search?q=centrodsr.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-25 | [`Lampton School`](https://google.com/search?q=Lampton+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Sunday 18/09/2022 05.17 (UTC)_
+Last update : _Sunday 18/09/2022 07.27 (UTC)_
