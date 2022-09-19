@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-26 | [`canteen.com`](https://google.com/search?q=canteen.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`hikadikoy.com`](https://google.com/search?q=hikadikoy.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 19/09/2022 07.53 (UTC)_
+Last update : _Monday 19/09/2022 09.24 (UTC)_
