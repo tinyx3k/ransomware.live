@@ -4,44 +4,48 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-19 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
+| 2022-09-19 | [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`okibrasil.com`](https://google.com/search?q=okibrasil.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`mts.mektec.com`](https://google.com/search?q=mts.mektec.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`ducanh.com`](https://google.com/search?q=ducanh.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`CARITAS`](https://google.com/search?q=CARITAS) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-19 | [`TAP Air Leak of more than 1.5 million of customers and many other.`](https://google.com/search?q=TAP+Air+Leak+of+more+than+1.5+million+of+customers+and+many+other.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-09-19 | [`hering-heinz.de`](https://google.com/search?q=hering-heinz.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-19 | [`franckbeun.fr`](https://google.com/search?q=franckbeun.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`Government Brazil`](https://google.com/search?q=Government+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-09-19 | [`New York Racing Association`](https://google.com/search?q=New+York+Racing+Association) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-09-19 | [`hering-heinz.de`](https://google.com/search?q=hering-heinz.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`midway`](https://google.com/search?q=midway) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-18 | [`Biggest News`](https://google.com/search?q=Biggest+News) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-09-18 | [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
+| 2022-09-19 | [`Biggest News`](https://google.com/search?q=Biggest+News) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
+| 2022-09-19 | [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-17 | [`trisupplyhome.com`](https://google.com/search?q=trisupplyhome.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-17 | [`First bounty payout $50,000`](https://google.com/search?q=First+bounty+payout+%2450%2C000) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomware.live/#/profiles?id=0mega) |
-| 2022-09-16 | [`southamptoncounty.org`](https://google.com/search?q=southamptoncounty.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`Laddawn Inc.`](https://google.com/search?q=Laddawn+Inc.) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-09-16 | [`scottobrothers.com`](https://google.com/search?q=scottobrothers.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-15 | [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`markherder.com`](https://google.com/search?q=markherder.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`independence.com.co`](https://google.com/search?q=independence.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-15 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomware.live/#/profiles?id=0mega) |
+| 2022-09-15 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-15 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-15 | [`d-securite.com`](https://google.com/search?q=d-securite.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`aliat.group`](https://google.com/search?q=aliat.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-14 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
+| 2022-09-15 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
+| 2022-09-14 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`d-securite.com`](https://google.com/search?q=d-securite.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`aliat.group`](https://google.com/search?q=aliat.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-09-14 | [`southamptoncounty.org`](https://google.com/search?q=southamptoncounty.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-09-14 | [`independence.com.co`](https://google.com/search?q=independence.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cnachile.cl`](https://google.com/search?q=cnachile.cl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-09-14 | [`markherder.com`](https://google.com/search?q=markherder.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`inspecshawaii.com`](https://google.com/search?q=inspecshawaii.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | [pysa](https://ransomware.live/#/profiles?id=pysa) |
-| 2022-09-14 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
+| 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-14 | [`AUTO88`](https://google.com/search?q=AUTO88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-14 | [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-08-26 | [`statravel.de`](https://google.com/search?q=statravel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`sportlavit.nl`](https://google.com/search?q=sportlavit.nl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`perteet.com`](https://google.com/search?q=perteet.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`microdepot.com`](https://google.com/search?q=microdepot.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`lenax.com`](https://google.com/search?q=lenax.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`kkcsworld.com`](https://google.com/search?q=kkcsworld.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`galenica.ma`](https://google.com/search?q=galenica.ma) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 19/09/2022 21.19 (UTC)_
+Last update : _Monday 19/09/2022 22.43 (UTC)_

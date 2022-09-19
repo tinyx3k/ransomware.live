@@ -12,8 +12,8 @@
                 "version": 3,
                 "slug": "http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:07:30.394816",
-                "lastscrape": "2022-09-19 20:07:30.394797"
+                "updated": "2022-09-19 21:30:32.963855",
+                "lastscrape": "2022-09-19 21:30:32.963838"
             },
             {
                 "fqdn": "0mega.cc",
@@ -49,8 +49,8 @@
                 "version": 3,
                 "slug": "http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:08:04.067237",
-                "lastscrape": "2022-09-19 20:08:04.067224"
+                "updated": "2022-09-19 21:31:08.308038",
+                "lastscrape": "2022-09-19 21:31:08.308025"
             },
             {
                 "fqdn": "ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion",
@@ -120,9 +120,9 @@
                 "title": "Threat Actors | Onion Forums  - Internal Error",
                 "version": 3,
                 "slug": "http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion",
-                "available": false,
-                "updated": "2022-09-19 18:12:22.075745",
-                "lastscrape": "2022-09-19 18:12:22.075733"
+                "available": true,
+                "updated": "2022-09-19 21:32:02.742693",
+                "lastscrape": "2022-09-19 21:32:02.742681"
             }
         ],
         "profile": []
@@ -163,8 +163,8 @@
                 "version": 3,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/6",
                 "available": true,
-                "updated": "2022-09-19 20:09:29.311771",
-                "lastscrape": "2022-09-19 20:09:29.311758"
+                "updated": "2022-09-19 21:32:28.645146",
+                "lastscrape": "2022-09-19 21:32:28.645133"
             },
             {
                 "fqdn": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",
@@ -181,8 +181,8 @@
                 "version": 3,
                 "slug": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/search",
                 "available": true,
-                "updated": "2022-09-19 20:09:54.485919",
-                "lastscrape": "2022-09-19 20:09:54.485906"
+                "updated": "2022-09-19 21:32:53.515994",
+                "lastscrape": "2022-09-19 21:32:53.515980"
             }
         ],
         "profile": [
@@ -300,7 +300,7 @@
                 "title": "AvosLocker Access Queue",
                 "version": 3,
                 "slug": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion/",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:11:07.614212",
                 "lastscrape": "2022-09-19 20:11:07.614200"
             }
@@ -344,8 +344,8 @@
                 "version": 3,
                 "slug": "http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:11:30.063121",
-                "lastscrape": "2022-09-19 20:11:30.063109"
+                "updated": "2022-09-19 21:34:25.590400",
+                "lastscrape": "2022-09-19 21:34:25.590388"
             }
         ],
         "profile": [
@@ -388,8 +388,8 @@
                 "version": 3,
                 "slug": "http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion/companies/",
                 "available": true,
-                "updated": "2022-09-19 20:12:25.191934",
-                "lastscrape": "2022-09-19 20:12:25.191921"
+                "updated": "2022-09-19 21:35:11.500741",
+                "lastscrape": "2022-09-19 21:35:11.500726"
             }
         ],
         "profile": [
@@ -410,8 +410,8 @@
                 "version": 3,
                 "slug": "https://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:12:46.678057",
-                "lastscrape": "2022-09-19 20:12:46.678041"
+                "updated": "2022-09-19 21:35:41.817034",
+                "lastscrape": "2022-09-19 21:35:41.817017"
             },
             {
                 "fqdn": "aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion",
@@ -419,8 +419,8 @@
                 "version": 3,
                 "slug": "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:13:07.445321",
-                "lastscrape": "2022-09-19 20:13:07.445306"
+                "updated": "2022-09-19 21:36:03.895931",
+                "lastscrape": "2022-09-19 21:36:03.895913"
             }
         ],
         "profile": []
@@ -483,8 +483,8 @@
                 "version": 3,
                 "slug": "http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:14:34.264771",
-                "lastscrape": "2022-09-19 20:14:34.264758"
+                "updated": "2022-09-19 21:37:36.287504",
+                "lastscrape": "2022-09-19 21:37:36.287491"
             }
         ],
         "profile": [
@@ -552,8 +552,8 @@
                 "version": 3,
                 "slug": "http://bl@ckt0r:bl@ckt0r@bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion/0x00/data-breach.html",
                 "available": true,
-                "updated": "2022-09-19 20:14:52.986062",
-                "lastscrape": "2022-09-19 20:14:52.986050"
+                "updated": "2022-09-19 21:38:03.543136",
+                "lastscrape": "2022-09-19 21:38:03.543124"
             }
         ],
         "profile": []
@@ -571,8 +571,8 @@
                 "version": 3,
                 "slug": "http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:15:02.686225",
-                "lastscrape": "2022-09-19 20:15:02.686213"
+                "updated": "2022-09-19 21:38:13.252830",
+                "lastscrape": "2022-09-19 21:38:13.252818"
             }
         ],
         "profile": []
@@ -608,7 +608,7 @@
                 "title": "Cheers!",
                 "version": 3,
                 "slug": "http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:15:41.187087",
                 "lastscrape": "2022-09-19 20:15:41.187075"
             },
@@ -618,8 +618,8 @@
                 "version": 3,
                 "slug": "http://crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:15:52.073200",
-                "lastscrape": "2022-09-19 20:15:52.073188"
+                "updated": "2022-09-19 21:39:04.981194",
+                "lastscrape": "2022-09-19 21:39:04.981181"
             }
         ],
         "profile": []
@@ -646,8 +646,8 @@
                 "version": 3,
                 "slug": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:16:00.742366",
-                "lastscrape": "2022-09-19 20:16:00.742354"
+                "updated": "2022-09-19 21:39:18.196585",
+                "lastscrape": "2022-09-19 21:39:18.196573"
             }
         ],
         "profile": [
@@ -677,8 +677,8 @@
                 "version": 0,
                 "slug": "http://continews.click",
                 "available": true,
-                "updated": "2022-09-19 20:16:22.964068",
-                "lastscrape": "2022-09-19 20:16:22.964054"
+                "updated": "2022-09-19 21:39:45.822029",
+                "lastscrape": "2022-09-19 21:39:45.822016"
             },
             {
                 "fqdn": "continews.bz",
@@ -783,8 +783,8 @@
                 "version": 3,
                 "slug": "http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:18:02.636713",
-                "lastscrape": "2022-09-19 20:18:02.636696"
+                "updated": "2022-09-19 21:40:53.628874",
+                "lastscrape": "2022-09-19 21:40:53.628858"
             }
         ],
         "profile": [
@@ -805,9 +805,9 @@
                 "title": null,
                 "version": 3,
                 "slug": "http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion",
-                "available": false,
-                "updated": "2022-09-19 18:19:50.912451",
-                "lastscrape": "2022-09-19 18:19:50.912438"
+                "available": true,
+                "updated": "2022-09-19 21:41:03.929133",
+                "lastscrape": "2022-09-19 21:41:03.929120"
             },
             {
                 "fqdn": "7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
@@ -815,8 +815,8 @@
                 "version": 3,
                 "slug": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:18:41.125708",
-                "lastscrape": "2022-09-19 20:18:41.125694"
+                "updated": "2022-09-19 21:41:12.894311",
+                "lastscrape": "2022-09-19 21:41:12.894299"
             }
         ],
         "profile": []
@@ -861,7 +861,7 @@
                 "title": "Dark Leak Market – Leaked database & documents",
                 "version": 3,
                 "slug": "http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:19:37.144252",
                 "lastscrape": "2022-09-19 20:19:37.144239"
             },
@@ -871,17 +871,17 @@
                 "version": 3,
                 "slug": "http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:19:49.510515",
-                "lastscrape": "2022-09-19 20:19:49.510502"
+                "updated": "2022-09-19 21:42:22.765425",
+                "lastscrape": "2022-09-19 21:42:22.765412"
             },
             {
                 "fqdn": "darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
                 "title": "Dark Leak Market",
                 "version": 3,
                 "slug": "http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion",
-                "available": false,
-                "updated": "2022-09-19 18:21:14.647205",
-                "lastscrape": "2022-09-19 18:21:14.647192"
+                "available": true,
+                "updated": "2022-09-19 21:42:40.989495",
+                "lastscrape": "2022-09-19 21:42:40.989480"
             }
         ],
         "profile": []
@@ -922,8 +922,8 @@
                 "version": 3,
                 "slug": "https://7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:20:41.552761",
-                "lastscrape": "2022-09-19 20:20:41.552747"
+                "updated": "2022-09-19 21:43:24.003964",
+                "lastscrape": "2022-09-19 21:43:24.003950"
             }
         ],
         "profile": []
@@ -941,15 +941,15 @@
                 "version": 3,
                 "slug": "https://qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:20:47.182748",
-                "lastscrape": "2022-09-19 20:20:47.182735"
+                "updated": "2022-09-19 21:43:42.855183",
+                "lastscrape": "2022-09-19 21:43:42.855170"
             },
             {
                 "fqdn": "sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion",
                 "title": "D0N#T__::LEAKS::",
                 "version": 3,
                 "slug": "https://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:21:08.777638",
                 "lastscrape": "2022-09-19 20:21:08.777625"
             },
@@ -958,9 +958,9 @@
                 "title": "_d0nut.::Files_",
                 "version": 3,
                 "slug": "https://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion",
-                "available": false,
-                "updated": "2022-09-19 18:22:43.453727",
-                "lastscrape": "2022-09-19 18:22:43.453714"
+                "available": true,
+                "updated": "2022-09-19 21:44:19.305050",
+                "lastscrape": "2022-09-19 21:44:19.305037"
             }
         ],
         "profile": []
@@ -1019,8 +1019,8 @@
                 "version": 3,
                 "slug": "http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion",
                 "available": true,
-                "updated": "2022-09-19 20:22:24.253144",
-                "lastscrape": "2022-09-19 20:22:24.253129"
+                "updated": "2022-09-19 21:45:10.212192",
+                "lastscrape": "2022-09-19 21:45:10.212176"
             }
         ],
         "profile": [
@@ -1078,7 +1078,7 @@
                 "title": "Everest ransom team",
                 "version": 3,
                 "slug": "http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion/",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:23:14.727025",
                 "lastscrape": "2022-09-19 20:23:14.727013"
             }
@@ -1121,8 +1121,8 @@
                 "version": 3,
                 "slug": "http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion",
                 "available": true,
-                "updated": "2022-09-19 20:23:33.408973",
-                "lastscrape": "2022-09-19 20:23:33.408962"
+                "updated": "2022-09-19 21:46:30.100121",
+                "lastscrape": "2022-09-19 21:46:30.100108"
             }
         ],
         "profile": []
@@ -1249,15 +1249,15 @@
                 "version": 3,
                 "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:26:15.204292",
-                "lastscrape": "2022-09-19 20:26:15.204278"
+                "updated": "2022-09-19 21:48:43.818259",
+                "lastscrape": "2022-09-19 21:48:43.818242"
             },
             {
                 "fqdn": "hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
                 "title": "Hive",
                 "version": 3,
                 "slug": "http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:26:30.478747",
                 "lastscrape": "2022-09-19 20:26:30.478733"
             },
@@ -1266,7 +1266,7 @@
                 "title": null,
                 "version": 3,
                 "slug": "http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion/v1/companies/disclosed",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:26:47.400337",
                 "lastscrape": "2022-09-19 20:26:47.400324"
             }
@@ -1349,8 +1349,8 @@
                 "version": 3,
                 "slug": "https://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion",
                 "available": true,
-                "updated": "2022-09-19 20:28:58.949436",
-                "lastscrape": "2022-09-19 20:28:58.949422"
+                "updated": "2022-09-19 21:51:02.813154",
+                "lastscrape": "2022-09-19 21:51:02.813135"
             },
             {
                 "fqdn": "3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion",
@@ -1358,8 +1358,8 @@
                 "version": 3,
                 "slug": "https://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion/auction",
                 "available": true,
-                "updated": "2022-09-19 20:29:40.205355",
-                "lastscrape": "2022-09-19 20:29:40.205341"
+                "updated": "2022-09-19 21:51:30.193724",
+                "lastscrape": "2022-09-19 21:51:30.193707"
             }
         ],
         "profile": []
@@ -1402,8 +1402,8 @@
                 "version": 0,
                 "slug": "https://kelvinsecteamcyber.wixsite.com/my-site/items",
                 "available": true,
-                "updated": "2022-09-19 20:30:00.917741",
-                "lastscrape": "2022-09-19 20:30:00.917727"
+                "updated": "2022-09-19 21:51:59.286369",
+                "lastscrape": "2022-09-19 21:51:59.286356"
             }
         ],
         "profile": [
@@ -1541,8 +1541,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion",
                 "available": true,
-                "updated": "2022-09-19 20:38:55.792519",
-                "lastscrape": "2022-09-19 20:38:55.792502"
+                "updated": "2022-09-19 21:59:07.003947",
+                "lastscrape": "2022-09-19 21:59:07.003928"
             },
             {
                 "fqdn": "lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion",
@@ -1550,8 +1550,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:41:12.719744",
-                "lastscrape": "2022-09-19 20:41:12.719728"
+                "updated": "2022-09-19 22:00:14.805391",
+                "lastscrape": "2022-09-19 22:00:14.805372"
             },
             {
                 "fqdn": "lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion",
@@ -1559,8 +1559,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:41:42.974714",
-                "lastscrape": "2022-09-19 20:41:42.974697"
+                "updated": "2022-09-19 22:00:48.740368",
+                "lastscrape": "2022-09-19 22:00:48.740349"
             },
             {
                 "fqdn": "lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion",
@@ -1568,8 +1568,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:42:27.675627",
-                "lastscrape": "2022-09-19 20:42:27.675610"
+                "updated": "2022-09-19 22:02:52.821078",
+                "lastscrape": "2022-09-19 22:02:52.821059"
             },
             {
                 "fqdn": "lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
@@ -1577,8 +1577,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:42:54.870549",
-                "lastscrape": "2022-09-19 20:42:54.870533"
+                "updated": "2022-09-19 22:03:52.604242",
+                "lastscrape": "2022-09-19 22:03:52.604224"
             },
             {
                 "fqdn": "lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
@@ -1586,8 +1586,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:43:27.957112",
-                "lastscrape": "2022-09-19 20:43:27.957094"
+                "updated": "2022-09-19 22:04:20.303835",
+                "lastscrape": "2022-09-19 22:04:20.303817"
             },
             {
                 "fqdn": "lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion",
@@ -1595,8 +1595,8 @@
                 "version": 3,
                 "slug": "http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:43:57.768920",
-                "lastscrape": "2022-09-19 20:43:57.768904"
+                "updated": "2022-09-19 22:04:49.318683",
+                "lastscrape": "2022-09-19 22:04:49.318664"
             },
             {
                 "fqdn": "lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion",
@@ -1604,17 +1604,17 @@
                 "version": 3,
                 "slug": "http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:44:20.835000",
-                "lastscrape": "2022-09-19 20:44:20.834983"
+                "updated": "2022-09-19 22:06:10.062450",
+                "lastscrape": "2022-09-19 22:06:10.062431"
             },
             {
                 "fqdn": "lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion",
                 "title": "LockBit BLOG",
                 "version": 3,
                 "slug": "http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion",
-                "available": false,
-                "updated": "2022-09-19 16:36:11.707755",
-                "lastscrape": "2022-09-19 16:36:11.707677"
+                "available": true,
+                "updated": "2022-09-19 22:06:34.646357",
+                "lastscrape": "2022-09-19 22:06:34.646339"
             },
             {
                 "fqdn": "lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
@@ -1622,8 +1622,8 @@
                 "version": 3,
                 "slug": "http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:44:45.079384",
-                "lastscrape": "2022-09-19 20:44:45.079367"
+                "updated": "2022-09-19 22:06:54.939121",
+                "lastscrape": "2022-09-19 22:06:54.939099"
             },
             {
                 "fqdn": "lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion",
@@ -1631,8 +1631,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:45:27.127677",
-                "lastscrape": "2022-09-19 20:45:27.127663"
+                "updated": "2022-09-19 22:07:21.430943",
+                "lastscrape": "2022-09-19 22:07:21.430926"
             },
             {
                 "fqdn": "lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion",
@@ -1640,8 +1640,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:45:46.445797",
-                "lastscrape": "2022-09-19 20:45:46.445782"
+                "updated": "2022-09-19 22:07:40.929275",
+                "lastscrape": "2022-09-19 22:07:40.929258"
             },
             {
                 "fqdn": "lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion",
@@ -1649,17 +1649,17 @@
                 "version": 3,
                 "slug": "http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:46:11.882839",
-                "lastscrape": "2022-09-19 20:46:11.882824"
+                "updated": "2022-09-19 22:08:42.276811",
+                "lastscrape": "2022-09-19 22:08:42.276794"
             },
             {
                 "fqdn": "lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion",
-                "title": "LockBit Anti-DDoS",
+                "title": null,
                 "version": 3,
                 "slug": "http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:46:36.893643",
-                "lastscrape": "2022-09-19 20:46:36.893626"
+                "updated": "2022-09-19 22:08:57.895876",
+                "lastscrape": "2022-09-19 22:08:57.895858"
             },
             {
                 "fqdn": "lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion",
@@ -1667,8 +1667,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:46:54.709975",
-                "lastscrape": "2022-09-19 20:46:54.709960"
+                "updated": "2022-09-19 22:09:21.816477",
+                "lastscrape": "2022-09-19 22:09:21.816460"
             },
             {
                 "fqdn": "lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion",
@@ -1676,8 +1676,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:47:13.117725",
-                "lastscrape": "2022-09-19 20:47:13.117711"
+                "updated": "2022-09-19 22:09:47.193763",
+                "lastscrape": "2022-09-19 22:09:47.193745"
             },
             {
                 "fqdn": "lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion",
@@ -1685,8 +1685,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion/form",
                 "available": true,
-                "updated": "2022-09-19 20:47:39.436980",
-                "lastscrape": "2022-09-19 20:47:39.436964"
+                "updated": "2022-09-19 22:10:10.207233",
+                "lastscrape": "2022-09-19 22:10:10.207214"
             },
             {
                 "fqdn": "lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion",
@@ -1694,8 +1694,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion/form",
                 "available": true,
-                "updated": "2022-09-19 20:47:58.187968",
-                "lastscrape": "2022-09-19 20:47:58.187953"
+                "updated": "2022-09-19 22:10:34.132029",
+                "lastscrape": "2022-09-19 22:10:34.132011"
             },
             {
                 "fqdn": "lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion",
@@ -1703,8 +1703,8 @@
                 "version": 3,
                 "slug": "http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion/form",
                 "available": true,
-                "updated": "2022-09-19 20:48:16.096225",
-                "lastscrape": "2022-09-19 20:48:16.096211"
+                "updated": "2022-09-19 22:10:54.762815",
+                "lastscrape": "2022-09-19 22:10:54.762799"
             }
         ],
         "profile": []
@@ -1721,7 +1721,7 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:48:25.468229",
                 "lastscrape": "2022-09-19 20:48:25.468214"
             },
@@ -1730,9 +1730,9 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion",
-                "available": false,
-                "updated": "2022-09-19 18:53:49.678474",
-                "lastscrape": "2022-09-19 18:53:49.678459"
+                "available": true,
+                "updated": "2022-09-19 22:11:21.309078",
+                "lastscrape": "2022-09-19 22:11:21.309065"
             },
             {
                 "fqdn": "lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
@@ -1740,24 +1740,24 @@
                 "version": 3,
                 "slug": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:48:55.173265",
-                "lastscrape": "2022-09-19 20:48:55.173249"
+                "updated": "2022-09-19 22:11:29.009588",
+                "lastscrape": "2022-09-19 22:11:29.009574"
             },
             {
                 "fqdn": "lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion",
-                "available": false,
-                "updated": "2022-09-19 18:54:21.935163",
-                "lastscrape": "2022-09-19 18:54:21.935148"
+                "available": true,
+                "updated": "2022-09-19 22:11:48.057804",
+                "lastscrape": "2022-09-19 22:11:48.057788"
             },
             {
                 "fqdn": "lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:49:23.254514",
                 "lastscrape": "2022-09-19 20:49:23.254498"
             },
@@ -1767,15 +1767,15 @@
                 "version": 3,
                 "slug": "http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:49:32.015602",
-                "lastscrape": "2022-09-19 20:49:32.015587"
+                "updated": "2022-09-19 22:12:23.056326",
+                "lastscrape": "2022-09-19 22:12:23.056310"
             },
             {
                 "fqdn": "lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:49:48.266245",
                 "lastscrape": "2022-09-19 20:49:48.266229"
             },
@@ -1784,9 +1784,9 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion",
-                "available": false,
-                "updated": "2022-09-19 16:41:41.630025",
-                "lastscrape": "2022-09-19 16:41:41.630007"
+                "available": true,
+                "updated": "2022-09-19 22:12:55.825480",
+                "lastscrape": "2022-09-19 22:12:55.825466"
             },
             {
                 "fqdn": "lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion",
@@ -1794,8 +1794,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:50:23.413933",
-                "lastscrape": "2022-09-19 20:50:23.413918"
+                "updated": "2022-09-19 22:13:15.765578",
+                "lastscrape": "2022-09-19 22:13:15.765564"
             },
             {
                 "fqdn": "lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion",
@@ -1803,17 +1803,17 @@
                 "version": 3,
                 "slug": "http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:50:33.731499",
-                "lastscrape": "2022-09-19 20:50:33.731484"
+                "updated": "2022-09-19 22:13:26.665523",
+                "lastscrape": "2022-09-19 22:13:26.665508"
             },
             {
                 "fqdn": "lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion",
-                "available": false,
-                "updated": "2022-09-19 16:42:05.297014",
-                "lastscrape": "2022-09-19 16:42:05.296994"
+                "available": true,
+                "updated": "2022-09-19 22:13:43.793046",
+                "lastscrape": "2022-09-19 22:13:43.793031"
             },
             {
                 "fqdn": "lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
@@ -1821,8 +1821,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:51:09.107564",
-                "lastscrape": "2022-09-19 20:51:09.107550"
+                "updated": "2022-09-19 22:13:53.899797",
+                "lastscrape": "2022-09-19 22:13:53.899782"
             },
             {
                 "fqdn": "lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
@@ -1830,8 +1830,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:51:18.564449",
-                "lastscrape": "2022-09-19 20:51:18.564435"
+                "updated": "2022-09-19 22:14:03.276030",
+                "lastscrape": "2022-09-19 22:14:03.276015"
             },
             {
                 "fqdn": "lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
@@ -1839,8 +1839,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:51:30.825480",
-                "lastscrape": "2022-09-19 20:51:30.825464"
+                "updated": "2022-09-19 22:14:25.926432",
+                "lastscrape": "2022-09-19 22:14:25.926416"
             },
             {
                 "fqdn": "lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion",
@@ -1848,8 +1848,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:51:36.238579",
-                "lastscrape": "2022-09-19 20:51:36.238564"
+                "updated": "2022-09-19 22:14:41.481037",
+                "lastscrape": "2022-09-19 22:14:41.481022"
             },
             {
                 "fqdn": "lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion",
@@ -1857,8 +1857,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:51:43.955644",
-                "lastscrape": "2022-09-19 20:51:43.955630"
+                "updated": "2022-09-19 22:14:59.503343",
+                "lastscrape": "2022-09-19 22:14:59.503328"
             },
             {
                 "fqdn": "lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion",
@@ -1866,17 +1866,17 @@
                 "version": 3,
                 "slug": "http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:51:56.191473",
-                "lastscrape": "2022-09-19 20:51:56.191458"
+                "updated": "2022-09-19 22:15:08.185771",
+                "lastscrape": "2022-09-19 22:15:08.185756"
             },
             {
                 "fqdn": "lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion",
-                "available": false,
-                "updated": "2022-09-19 16:43:15.677055",
-                "lastscrape": "2022-09-19 16:43:15.677036"
+                "available": true,
+                "updated": "2022-09-19 22:15:17.950292",
+                "lastscrape": "2022-09-19 22:15:17.950277"
             },
             {
                 "fqdn": "lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion",
@@ -1884,8 +1884,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:52:35.294303",
-                "lastscrape": "2022-09-19 20:52:35.294289"
+                "updated": "2022-09-19 22:15:32.007206",
+                "lastscrape": "2022-09-19 22:15:32.007191"
             },
             {
                 "fqdn": "lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion",
@@ -1893,15 +1893,15 @@
                 "version": 3,
                 "slug": "http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:52:45.199025",
-                "lastscrape": "2022-09-19 20:52:45.199010"
+                "updated": "2022-09-19 22:15:52.345721",
+                "lastscrape": "2022-09-19 22:15:52.345707"
             },
             {
                 "fqdn": "lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:52:49.127792",
                 "lastscrape": "2022-09-19 20:52:49.127779"
             },
@@ -1910,7 +1910,7 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:52:54.113819",
                 "lastscrape": "2022-09-19 20:52:54.113805"
             },
@@ -1919,7 +1919,7 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 20:53:05.655227",
                 "lastscrape": "2022-09-19 20:53:05.655213"
             },
@@ -1929,8 +1929,8 @@
                 "version": 3,
                 "slug": "http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:53:33.366667",
-                "lastscrape": "2022-09-19 20:53:33.366652"
+                "updated": "2022-09-19 22:17:11.374462",
+                "lastscrape": "2022-09-19 22:17:11.374447"
             }
         ],
         "profile": []
@@ -1979,8 +1979,8 @@
                 "version": 3,
                 "slug": "http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion",
                 "available": true,
-                "updated": "2022-09-19 20:54:19.454870",
-                "lastscrape": "2022-09-19 20:54:19.454857"
+                "updated": "2022-09-19 22:18:08.939386",
+                "lastscrape": "2022-09-19 22:18:08.939374"
             },
             {
                 "fqdn": "nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion",
@@ -1988,8 +1988,8 @@
                 "version": 3,
                 "slug": "http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion",
                 "available": true,
-                "updated": "2022-09-19 20:54:26.185129",
-                "lastscrape": "2022-09-19 20:54:26.185117"
+                "updated": "2022-09-19 22:18:22.569542",
+                "lastscrape": "2022-09-19 22:18:22.569529"
             }
         ],
         "profile": []
@@ -2007,8 +2007,8 @@
                 "version": 3,
                 "slug": "http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:54:34.227818",
-                "lastscrape": "2022-09-19 20:54:34.227804"
+                "updated": "2022-09-19 22:18:38.794327",
+                "lastscrape": "2022-09-19 22:18:38.794313"
             }
         ],
         "profile": [
@@ -2162,9 +2162,9 @@
                 "title": "Ransomware blog – We will not give ourselves a nam",
                 "version": 3,
                 "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
-                "available": false,
-                "updated": "2022-09-19 16:46:51.169024",
-                "lastscrape": "2022-09-19 16:46:51.169008"
+                "available": true,
+                "updated": "2022-09-19 22:20:48.901524",
+                "lastscrape": "2022-09-19 22:20:48.901510"
             }
         ],
         "profile": []
@@ -2229,8 +2229,8 @@
                 "version": 0,
                 "slug": "https://moses-staff.se/activities/",
                 "available": true,
-                "updated": "2022-09-19 20:57:34.764629",
-                "lastscrape": "2022-09-19 20:57:34.764611"
+                "updated": "2022-09-19 22:21:43.841006",
+                "lastscrape": "2022-09-19 22:21:43.840988"
             }
         ],
         "profile": [
@@ -2254,8 +2254,8 @@
                 "version": 3,
                 "slug": "http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion/",
                 "available": true,
-                "updated": "2022-09-19 20:57:44.580596",
-                "lastscrape": "2022-09-19 20:57:44.580583"
+                "updated": "2022-09-19 22:21:55.683896",
+                "lastscrape": "2022-09-19 22:21:55.683884"
             }
         ],
         "profile": []
@@ -2469,8 +2469,8 @@
                 "version": 3,
                 "slug": "http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion",
                 "available": true,
-                "updated": "2022-09-19 20:59:21.141440",
-                "lastscrape": "2022-09-19 20:59:21.141428"
+                "updated": "2022-09-19 22:23:39.461177",
+                "lastscrape": "2022-09-19 22:23:39.461161"
             }
         ],
         "profile": []
@@ -2632,8 +2632,8 @@
                 "version": 3,
                 "slug": "http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion",
                 "available": true,
-                "updated": "2022-09-19 21:01:35.683442",
-                "lastscrape": "2022-09-19 21:01:35.683425"
+                "updated": "2022-09-19 22:25:34.845098",
+                "lastscrape": "2022-09-19 22:25:34.845080"
             }
         ],
         "profile": []
@@ -2651,8 +2651,8 @@
                 "version": 3,
                 "slug": "http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion",
                 "available": true,
-                "updated": "2022-09-19 21:01:43.990166",
-                "lastscrape": "2022-09-19 21:01:43.990154"
+                "updated": "2022-09-19 22:25:42.907648",
+                "lastscrape": "2022-09-19 22:25:42.907635"
             }
         ],
         "profile": [
@@ -2674,8 +2674,8 @@
                 "version": 3,
                 "slug": "http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion/",
                 "available": true,
-                "updated": "2022-09-19 21:01:52.276866",
-                "lastscrape": "2022-09-19 21:01:52.276852"
+                "updated": "2022-09-19 22:25:49.218611",
+                "lastscrape": "2022-09-19 22:25:49.218598"
             },
             {
                 "fqdn": "22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion",
@@ -2711,8 +2711,8 @@
                 "version": 3,
                 "slug": "http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion/",
                 "available": true,
-                "updated": "2022-09-19 21:02:26.913161",
-                "lastscrape": "2022-09-19 21:02:26.913146"
+                "updated": "2022-09-19 22:26:07.876924",
+                "lastscrape": "2022-09-19 22:26:07.876908"
             },
             {
                 "fqdn": "p6o7m73ujalhgkiv.onion",
@@ -2775,8 +2775,8 @@
                 "version": 3,
                 "slug": "http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion",
                 "available": true,
-                "updated": "2022-09-19 21:02:59.644711",
-                "lastscrape": "2022-09-19 21:02:59.644699"
+                "updated": "2022-09-19 22:27:02.163756",
+                "lastscrape": "2022-09-19 22:27:02.163744"
             }
         ],
         "profile": []
@@ -2812,8 +2812,8 @@
                 "version": 3,
                 "slug": "http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion/company/auth",
                 "available": true,
-                "updated": "2022-09-19 21:03:39.615571",
-                "lastscrape": "2022-09-19 21:03:39.615558"
+                "updated": "2022-09-19 22:27:27.082601",
+                "lastscrape": "2022-09-19 22:27:27.082588"
             }
         ],
         "profile": [
@@ -2834,8 +2834,8 @@
                 "version": 3,
                 "slug": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
                 "available": true,
-                "updated": "2022-09-19 21:03:49.051488",
-                "lastscrape": "2022-09-19 21:03:49.051475"
+                "updated": "2022-09-19 22:27:36.449551",
+                "lastscrape": "2022-09-19 22:27:36.449538"
             }
         ],
         "profile": [
@@ -2857,8 +2857,8 @@
                 "version": 3,
                 "slug": "http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion/",
                 "available": true,
-                "updated": "2022-09-19 21:04:09.069368",
-                "lastscrape": "2022-09-19 21:04:09.069353"
+                "updated": "2022-09-19 22:28:12.771455",
+                "lastscrape": "2022-09-19 22:28:12.771437"
             }
         ],
         "profile": [
@@ -2902,8 +2902,8 @@
                 "version": 3,
                 "slug": "http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion",
                 "available": true,
-                "updated": "2022-09-19 21:05:17.433821",
-                "lastscrape": "2022-09-19 21:05:17.433807"
+                "updated": "2022-09-19 22:29:02.172645",
+                "lastscrape": "2022-09-19 22:29:02.172628"
             }
         ],
         "profile": [
@@ -2963,7 +2963,7 @@
                 "title": "Not found.",
                 "version": 0,
                 "slug": "https://robinhoodleaks.tumblr.com",
-                "available": true,
+                "available": false,
                 "updated": "2022-09-19 21:11:09.028196",
                 "lastscrape": "2022-09-19 21:11:09.028180"
             }
@@ -3008,9 +3008,9 @@
                 "title": null,
                 "version": 3,
                 "slug": "http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion",
-                "available": false,
-                "updated": "2022-09-19 19:19:04.537178",
-                "lastscrape": "2022-09-19 19:19:04.537165"
+                "available": true,
+                "updated": "2022-09-19 22:36:17.329619",
+                "lastscrape": "2022-09-19 22:36:17.329604"
             }
         ],
         "profile": []
@@ -3058,8 +3058,8 @@
                 "version": 3,
                 "slug": "http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion",
                 "available": true,
-                "updated": "2022-09-19 21:12:20.134326",
-                "lastscrape": "2022-09-19 21:12:20.134314"
+                "updated": "2022-09-19 22:36:48.564680",
+                "lastscrape": "2022-09-19 22:36:48.564667"
             },
             {
                 "fqdn": "snatch.press",
@@ -3194,8 +3194,8 @@
                 "version": 3,
                 "slug": "http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion/",
                 "available": true,
-                "updated": "2022-09-19 21:14:30.325102",
-                "lastscrape": "2022-09-19 21:14:30.325089"
+                "updated": "2022-09-19 22:38:49.328819",
+                "lastscrape": "2022-09-19 22:38:49.328807"
             },
             {
                 "fqdn": "nbzzb6sa6xuura2z.onion",
@@ -3312,8 +3312,8 @@
                 "version": 3,
                 "slug": "http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion",
                 "available": true,
-                "updated": "2022-09-19 21:16:54.919820",
-                "lastscrape": "2022-09-19 21:16:54.919803"
+                "updated": "2022-09-19 22:41:18.133710",
+                "lastscrape": "2022-09-19 22:41:18.133692"
             },
             {
                 "fqdn": "ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion",
@@ -3321,8 +3321,8 @@
                 "version": 3,
                 "slug": "http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion",
                 "available": true,
-                "updated": "2022-09-19 21:17:19.283128",
-                "lastscrape": "2022-09-19 21:17:19.283114"
+                "updated": "2022-09-19 22:41:49.246634",
+                "lastscrape": "2022-09-19 22:41:49.246617"
             }
         ],
         "profile": [
@@ -3343,9 +3343,9 @@
                 "title": "BITCARDS - Prepaid cards",
                 "version": 3,
                 "slug": "http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion",
-                "available": false,
-                "updated": "2022-09-19 19:22:59.001365",
-                "lastscrape": "2022-09-19 19:22:59.001353"
+                "available": true,
+                "updated": "2022-09-19 22:41:57.655064",
+                "lastscrape": "2022-09-19 22:41:57.655051"
             }
         ],
         "profile": []
