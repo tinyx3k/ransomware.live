@@ -3,7 +3,9 @@
 
 Ransomware.live is a ransomware groups observatory based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet)
 
-## License
+Ransomware.live is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites and published [here](https://www.ransomware.live/#/recentposts)
+
+## 📜 License
 
 ransomwatch is [licensed](https://github.com/jmousqueton/ransomwatch/blob/main/LICENSE) under [unlicense.org](https://unlicense.org/)
 
@@ -20,4 +22,12 @@ I'm **Julien Mousqueton**
 - I'm a **lecturer** 🎓 in Cyber Security @ [Ecole 2600](https://www.ecole2600.com) 🏴‍☠️
 - I'm a **blogger** ✍🏻 at [julien.io](https://julien.io)
 
-You can find more in [my resume](https://cv.julien.io) in English (also available in [French](https://cv.julien.io/fr) / ausssi disponible en [français](https://cv.julien.io/fr))
+You can find more in [my resume](https://cv.julien.io) in English (also available in [French](https://cv.julien.io/fr) / aussi disponible en [français](https://cv.julien.io/fr))
+
+## 🔭 Sources 
+
+You can find all leaks in json format [here](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json)
+
+## ⚙️ Contribution
+
+Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on [Josshighet repository](https://github.com/joshhighet/ransomwatch/pulls)
