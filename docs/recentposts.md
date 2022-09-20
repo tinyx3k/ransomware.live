@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-20 | [`elementnor.no`](https://google.com/search?q=elementnor.no) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-20 | [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | [pysa](https://ransomware.live/#/profiles?id=pysa) |
 | 2022-09-19 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-19 | [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-26 | [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`statravel.de`](https://google.com/search?q=statravel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-26 | [`sportlavit.nl`](https://google.com/search?q=sportlavit.nl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 20/09/2022 07.42 (UTC)_
+Last update : _Tuesday 20/09/2022 09.24 (UTC)_
