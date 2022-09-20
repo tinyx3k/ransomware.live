@@ -2423,6 +2423,25 @@
         "meta": null,
         "locations": [
             {
+                "fqdn": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
+                "title": "Noname Leaks",
+                "version": 3,
+                "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
+                "available": false,
+                "updated": "2022-07-11 22:26:00.512463",
+                "lastscrape": "2022-07-11 22:26:00.512452"
+            }
+        ],
+        "profile": []
+    },
+    {
+        "name": "noname",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
                 "fqdn": "lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion",
                 "title": "NOKOYAWA Leaks",
                 "version": 3,

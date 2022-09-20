@@ -799,3 +799,14 @@ def sparta():
         errlog('sparta: ' + 'parsing fail')
     for post in posts:
         appender(post, 'sparta')
+
+def noname():
+    stdlog('parser: ' + 'noname')
+    parser = '''
+    grep '<h2 class="entry-title' source/noname-*.html | cut -d '>' -f 3 |  cut -d '<' -f 1 |  sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'   
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('noname: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'noname')

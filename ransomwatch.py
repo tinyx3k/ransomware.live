@@ -5,6 +5,7 @@
 ransomwatch
 does what it says on the tin
 '''
+from ast import parse
 import os
 import json
 import argparse
@@ -279,6 +280,7 @@ if args.mode == 'parse':
     parsers.icefire()
     parsers.donutleaks()
     parsers.sparta()
+    parsers.noname()
     stdlog('ransomwatch: ' + 'parse run complete')
 
 if args.mode == 'list':
