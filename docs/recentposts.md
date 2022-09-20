@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-26 | [`statravel.de`](https://google.com/search?q=statravel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`sportlavit.nl`](https://google.com/search?q=sportlavit.nl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 20/09/2022 05.14 (UTC)_
+Last update : _Tuesday 20/09/2022 07.42 (UTC)_
