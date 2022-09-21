@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-28 | [`goodwillnm.org`](https://google.com/search?q=goodwillnm.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-26 | [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 20/09/2022 23.20 (UTC)_
+Last update : _Wednesday 21/09/2022 01.44 (UTC)_
