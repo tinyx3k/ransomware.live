@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-28 | [`Grande Stevens`](https://google.com/search?q=Grande+Stevens) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-08-28 | [`goodwillnm.org`](https://google.com/search?q=goodwillnm.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 21/09/2022 09.21 (UTC)_
+Last update : _Wednesday 21/09/2022 11.24 (UTC)_
