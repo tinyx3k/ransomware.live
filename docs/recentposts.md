@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-22 | [`idtech.com.tw`](https://google.com/search?q=idtech.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`GRUPO COPISA`](https://google.com/search?q=GRUPO+COPISA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-22 | [`congerbuilt.com`](https://google.com/search?q=congerbuilt.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`webnordeste.com.br`](https://google.com/search?q=webnordeste.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-30 | [`skupstina`](https://google.com/search?q=skupstina) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-08-29 | [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-08-29 | [`Laferté`](https://google.com/search?q=Lafert%C3%A9) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-08-29 | [`Josef Saller Services e.K. - Saller Bau`](https://google.com/search?q=Josef+Saller+Services+e.K.+-+Saller+Bau) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Thursday 22/09/2022 17.47 (UTC)_
+Last update : _Thursday 22/09/2022 19.29 (UTC)_
