@@ -2418,8 +2418,8 @@
     {
         "name": "noname",
         "captcha": false,
-        "parser": false,
-        "javascript_render": false,
+        "parser": true,
+        "javascript_render": true,
         "meta": null,
         "locations": [
             {
@@ -2437,7 +2437,7 @@
     {
         "name": "nokoyawa",
         "captcha": false,
-        "parser": true,
+        "parser": false,
         "javascript_render": false,
         "meta": null,
         "locations": [
