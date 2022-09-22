@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-22 | [`thorguard.com`](https://google.com/search?q=thorguard.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`yourprivateitaly.com`](https://google.com/search?q=yourprivateitaly.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`uide.edu.ec`](https://google.com/search?q=uide.edu.ec) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`Ministerio de Economía Argentina`](https://google.com/search?q=Ministerio+de+Econom%C3%ADa+Argentina) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-29 | [` Rudman`](https://google.com/search?q=+Rudman) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-29 | [`The Preston Partnership`](https://google.com/search?q=The+Preston+Partnership) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-29 | [`Advance Corporation`](https://google.com/search?q=Advance+Corporation) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-29 | [`International Custom Controls`](https://google.com/search?q=International+Custom+Controls) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Thursday 22/09/2022 08.07 (UTC)_
+Last update : _Thursday 22/09/2022 09.33 (UTC)_
