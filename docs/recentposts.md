@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-22 | [`uide.edu.ec`](https://google.com/search?q=uide.edu.ec) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`Ministerio de Economía Argentina`](https://google.com/search?q=Ministerio+de+Econom%C3%ADa+Argentina) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-09-21 | [`BHARBERT`](https://google.com/search?q=BHARBERT) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-21 | [`scrd.ca`](https://google.com/search?q=scrd.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-29 | [`Advance Corporation`](https://google.com/search?q=Advance+Corporation) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-29 | [`International Custom Controls`](https://google.com/search?q=International+Custom+Controls) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-29 | [`currierryan.com`](https://google.com/search?q=currierryan.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-08-28 | [`ygboulons.com`](https://google.com/search?q=ygboulons.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 21/09/2022 23.10 (UTC)_
+Last update : _Thursday 22/09/2022 05.18 (UTC)_
