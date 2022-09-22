@@ -2416,25 +2416,6 @@
         ]
     },
     {
-        "name": "noname",
-        "captcha": false,
-        "parser": true,
-        "javascript_render": true,
-        "meta": null,
-        "locations": [
-            {
-                "fqdn": "z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
-                "title": "Ransomware blog",
-                "version": 3,
-                "slug": "http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion",
-                "available": false,
-                "updated": "2022-09-21 17:08:27.102005",
-                "lastscrape": "2022-09-21 17:08:27.101992"
-            }
-        ],
-        "profile": []
-    },
-    {
         "name": "nokoyawa",
         "captcha": false,
         "parser": false,
