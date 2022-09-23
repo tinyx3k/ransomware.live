@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-23 | [`Boyes Turner LLP`](https://google.com/search?q=Boyes+Turner+LLP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-22 | [`School of Oriental African Studies`](https://google.com/search?q=School+of+Oriental+African+Studies) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-22 | [`idtech.com.tw`](https://google.com/search?q=idtech.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`GRUPO COPISA`](https://google.com/search?q=GRUPO+COPISA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-30 | [`FTSUMNERK12.COM FILES PART14 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART14+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`APPLEXUS.COM FILES PART6 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\HR\ PUBLIS`](https://google.com/search?q=APPLEXUS.COM+FILES+PART6+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5CHR%5C+PUBLIS) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`skupstina`](https://google.com/search?q=skupstina) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-08-29 | [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Friday 23/09/2022 10.53 (UTC)_
+Last update : _Friday 23/09/2022 13.18 (UTC)_
