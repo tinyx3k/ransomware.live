@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-30 | [`skupstina`](https://google.com/search?q=skupstina) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-08-29 | [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Friday 23/09/2022 02.09 (UTC)_
+Last update : _Friday 23/09/2022 05.21 (UTC)_
