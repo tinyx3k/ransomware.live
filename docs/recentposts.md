@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-25 | [`melorita.com`](https://google.com/search?q=melorita.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-23 | [`rbroof.com`](https://google.com/search?q=rbroof.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-23 | [`Cornerstone Insurance Group`](https://google.com/search?q=Cornerstone+Insurance+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-23 | [`Longhorn Investments`](https://google.com/search?q=Longhorn+Investments) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-30 | [`ORBITELECTRIC.COM FILES PART21 - 192.168.10.122\C$\Users\RAMONH\Desktop\Kashmal\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART21+-+192.168.10.122%5CC%24%5CUsers%5CRAMONH%5CDesktop%5CKashmal%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`FERRAN-SERVICES.COM FILES PART14 - D\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART14+-+D%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-08-30 | [`SPINNEYS.COM FILES PART6 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\EXPENSES(EJ)\S`](https://google.com/search?q=SPINNEYS.COM+FILES+PART6+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CEXPENSES%28EJ%29%5CS) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-08-30 | [`LATOURNERIE-WOLFROM.COM FILES PART14 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART14+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Sunday 25/09/2022 13.08 (UTC)_
+Last update : _Sunday 25/09/2022 15.01 (UTC)_
