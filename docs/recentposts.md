@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-26 | [`TAKAO-UK`](https://google.com/search?q=TAKAO-UK) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`GFG`](https://google.com/search?q=GFG) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`TSMTU`](https://google.com/search?q=TSMTU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`Nihonsakari Co. , Ltd`](https://google.com/search?q=Nihonsakari+Co.+%2C+Ltd) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-08-30 | [`Magnachem`](https://google.com/search?q=Magnachem) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-30 | [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Monday 26/09/2022 21.17 (UTC)_
+Last update : _Monday 26/09/2022 23.13 (UTC)_
