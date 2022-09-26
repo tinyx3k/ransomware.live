@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-26 | [`Samuel Ryder Academy`](https://google.com/search?q=Samuel+Ryder+Academy) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-25 | [`quantumce.com`](https://google.com/search?q=quantumce.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-25 | [`FederalBank/Fedfina DataBase Leak`](https://google.com/search?q=FederalBank%2FFedfina+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-09-25 | [`KOLLITSCH`](https://google.com/search?q=KOLLITSCH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-30 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-30 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-30 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
 
-Last update : _Monday 26/09/2022 09.27 (UTC)_
+Last update : _Monday 26/09/2022 11.12 (UTC)_
