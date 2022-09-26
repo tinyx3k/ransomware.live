@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-08-30 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-30 | [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
 
-Last update : _Monday 26/09/2022 05.21 (UTC)_
+Last update : _Monday 26/09/2022 07.53 (UTC)_
