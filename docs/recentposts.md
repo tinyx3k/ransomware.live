@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-26 | [`SolarCraft`](https://google.com/search?q=SolarCraft) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-26 | [`Samuel Ryder Academy`](https://google.com/search?q=Samuel+Ryder+Academy) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-25 | [`quantumce.com`](https://google.com/search?q=quantumce.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-25 | [`FederalBank/Fedfina DataBase Leak`](https://google.com/search?q=FederalBank%2FFedfina+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-30 | [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-30 | [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-08-30 | [`4cRisk`](https://google.com/search?q=4cRisk) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-08-30 | [`Captec-group`](https://google.com/search?q=Captec-group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Monday 26/09/2022 11.12 (UTC)_
+Last update : _Monday 26/09/2022 13.34 (UTC)_
