@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-27 | [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`bliss-d.com`](https://google.com/search?q=bliss-d.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`ginspectionservices`](https://google.com/search?q=ginspectionservices) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-09-27 | [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-09-01 | [`solidatech.com`](https://google.com/search?q=solidatech.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-01 | [`precision.com`](https://google.com/search?q=precision.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 27/09/2022 13.18 (UTC)_
+Last update : _Tuesday 27/09/2022 15.27 (UTC)_
