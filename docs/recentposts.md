@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-27 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Ministerio de Relaciones Exteriores`](https://google.com/search?q=Ministerio+de+Relaciones+Exteriores) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-01 | [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-09-01 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 
-Last update : _Tuesday 27/09/2022 21.20 (UTC)_
+Last update : _Tuesday 27/09/2022 23.14 (UTC)_
