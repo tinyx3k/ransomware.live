@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-27 | [`STADLER`](https://google.com/search?q=STADLER) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`JANMARINI`](https://google.com/search?q=JANMARINI) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`TAKAO-UK`](https://google.com/search?q=TAKAO-UK) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-26 | [`GFG`](https://google.com/search?q=GFG) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-08-31 | [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-08-31 | [`NCG Medical`](https://google.com/search?q=NCG+Medical) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-08-31 | [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 27/09/2022 01.43 (UTC)_
+Last update : _Tuesday 27/09/2022 05.02 (UTC)_
