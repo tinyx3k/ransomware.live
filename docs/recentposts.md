@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Ministerio de Relaciones Exteriores`](https://google.com/search?q=Ministerio+de+Relaciones+Exteriores) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
 | 2022-09-27 | [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`bliss-d.com`](https://google.com/search?q=bliss-d.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-01 | [`Moscone Center`](https://google.com/search?q=Moscone+Center) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-09-01 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-09-01 | [`Alan Smith`](https://google.com/search?q=Alan+Smith) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-09-01 | [`Midea Group`](https://google.com/search?q=Midea+Group) | [revil](https://ransomware.live/#/profiles?id=revil) |
 
-Last update : _Tuesday 27/09/2022 17.11 (UTC)_
+Last update : _Tuesday 27/09/2022 19.26 (UTC)_
