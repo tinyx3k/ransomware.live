@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-02 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 
-Last update : _Wednesday 28/09/2022 07.46 (UTC)_
+Last update : _Wednesday 28/09/2022 09.35 (UTC)_
