@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-28 | [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-28 | [`bew.co.th`](https://google.com/search?q=bew.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-02 | [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-09-01 | [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-09-01 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 
-Last update : _Wednesday 28/09/2022 01.45 (UTC)_
+Last update : _Wednesday 28/09/2022 05.26 (UTC)_
