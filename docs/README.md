@@ -2,12 +2,12 @@
 ## 📈 Ransomware.live Statistics
 _september 29th, 2022_
 
-currently tracking `122` groups across `218` relays & mirrors - _`74` currently online_ 📡
+currently tracking `122` groups across `218` relays & mirrors - _`66` currently online_ 📡
 
 Check the recent ransomware posts [here](https://www.ransomware.live/#/recentposts)
 
 
-⏲ there have been `3` posts within the `last 24 hours`
+⏲ there have been `2` posts within the `last 24 hours`
 
 🕓 there have been `210` posts within the `month of september`
 
@@ -27,5 +27,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Thursday 29/09/2022 02.14 (UTC)_
+Last update : _Thursday 29/09/2022 05.48 (UTC)_
 

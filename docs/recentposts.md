@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-02 | [`peakinternational.com`](https://google.com/search?q=peakinternational.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-02 | [`Eurocell`](https://google.com/search?q=Eurocell) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Thursday 29/09/2022 02.14 (UTC)_
+Last update : _Thursday 29/09/2022 05.48 (UTC)_
