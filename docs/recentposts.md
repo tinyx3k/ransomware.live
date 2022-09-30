@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-03 | [`Infinitely Virtual`](https://google.com/search?q=Infinitely+Virtual) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-03 | [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 
-Last update : _Thursday 29/09/2022 23.38 (UTC)_
+Last update : _Friday 30/09/2022 02.33 (UTC)_
