@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-09-30 | [`aidsalabama.org`](https://google.com/search?q=aidsalabama.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-30 | [`toyotaalabang.com.ph`](https://google.com/search?q=toyotaalabang.com.ph) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-30 | [`Los Angeles Unified School District`](https://google.com/search?q=Los+Angeles+Unified+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-04 | [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-04 | [`hmets.com`](https://google.com/search?q=hmets.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-04 | [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-03 | [`Baer's`](https://google.com/search?q=Baer%27s) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Friday 30/09/2022 17.42 (UTC)_
+Last update : _Friday 30/09/2022 20.02 (UTC)_
