@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-01 | [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-10-01 | [`seaviewresortkhaolak.com`](https://google.com/search?q=seaviewresortkhaolak.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-01 | [`kimed.pl`](https://google.com/search?q=kimed.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-01 | [`hriindia.com`](https://google.com/search?q=hriindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-05 | [`kamut.com`](https://google.com/search?q=kamut.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`divultec.pt`](https://google.com/search?q=divultec.pt) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Saturday 01/10/2022 07.45 (UTC)_
+Last update : _Saturday 01/10/2022 09.44 (UTC)_
