@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-05 | [`divultec.pt`](https://google.com/search?q=divultec.pt) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 01/10/2022 09.44 (UTC)_
+Last update : _Saturday 01/10/2022 11.26 (UTC)_
