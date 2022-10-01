@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-05 | [`kamut.com`](https://google.com/search?q=kamut.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`divultec.pt`](https://google.com/search?q=divultec.pt) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 01/10/2022 15.38 (UTC)_
+Last update : _Saturday 01/10/2022 17.43 (UTC)_
