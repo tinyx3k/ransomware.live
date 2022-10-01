@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-01 | [`kimed.pl`](https://google.com/search?q=kimed.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-01 | [`hriindia.com`](https://google.com/search?q=hriindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-30 | [`Karl Gemünden GmbH & Co. KG`](https://google.com/search?q=Karl+Gem%C3%BCnden+GmbH+%26+Co.+KG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-30 | [`Mansfield Independent School District (MISD)`](https://google.com/search?q=Mansfield+Independent+School+District+%28MISD%29) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-05 | [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-04 | [`Cpl Architects, Engineers`](https://google.com/search?q=Cpl+Architects%2C+Engineers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-04 | [`C2CORP`](https://google.com/search?q=C2CORP) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Saturday 01/10/2022 02.23 (UTC)_
+Last update : _Saturday 01/10/2022 05.43 (UTC)_
