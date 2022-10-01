@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-01 | [`Swiss American`](https://google.com/search?q=Swiss+American) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-01 | [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-01 | [`MultiCare Home Health`](https://google.com/search?q=MultiCare+Home+Health) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-01 | [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-05 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`psico`](https://google.com/search?q=psico) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-05 | [`www3.comune.gorizia.it`](https://google.com/search?q=www3.comune.gorizia.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 01/10/2022 21.51 (UTC)_
+Last update : _Saturday 01/10/2022 23.42 (UTC)_
