@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-02 | [`Ferrari`](https://google.com/search?q=Ferrari) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-10-02 | [`Aesthetic Dermatology Associates`](https://google.com/search?q=Aesthetic+Dermatology+Associates) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-01 | [`Swiss American`](https://google.com/search?q=Swiss+American) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-01 | [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-05 | [`CleanTech`](https://google.com/search?q=CleanTech) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`augustacoop`](https://google.com/search?q=augustacoop) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 02/10/2022 21.31 (UTC)_
+Last update : _Sunday 02/10/2022 23.38 (UTC)_
