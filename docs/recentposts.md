@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-05 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`finnco.eu`](https://google.com/search?q=finnco.eu) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 02/10/2022 05.29 (UTC)_
+Last update : _Sunday 02/10/2022 07.57 (UTC)_
