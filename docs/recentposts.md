@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-05 | [`augustacoop`](https://google.com/search?q=augustacoop) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-05 | [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 03/10/2022 07.54 (UTC)_
+Last update : _Monday 03/10/2022 09.40 (UTC)_

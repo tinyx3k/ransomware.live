@@ -11,7 +11,7 @@ Check the recent ransomware posts [here](https://www.ransomware.live/#/recentpos
 
 🕓 there have been `10` posts within the `month of october`
 
-📅 there have been `650` posts within the `last 90 days`
+📅 there have been `649` posts within the `last 90 days`
 
 🏚 there have been `2546` posts since the `1st January 2022`
 
@@ -27,5 +27,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Monday 03/10/2022 07.54 (UTC)_
+Last update : _Monday 03/10/2022 09.40 (UTC)_
 
