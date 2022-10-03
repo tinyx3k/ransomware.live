@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-05 | [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`CleanTech`](https://google.com/search?q=CleanTech) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 03/10/2022 21.44 (UTC)_
+Last update : _Monday 03/10/2022 23.39 (UTC)_
