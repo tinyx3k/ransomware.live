@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-05 | [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-05 | [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 04/10/2022 17.41 (UTC)_
+Last update : _Tuesday 04/10/2022 19.46 (UTC)_
