@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-05 | [`Berg Kaprow Lewis`](https://google.com/search?q=Berg+Kaprow+Lewis) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [` Company, LLC`](https://google.com/search?q=+Company%2C+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`derach`](https://google.com/search?q=derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Seanic Ocean Systems`](https://google.com/search?q=Seanic+Ocean+Systems) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-07 | [`misumi.com.tw`](https://google.com/search?q=misumi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-07 | [`metaage.com.tw`](https://google.com/search?q=metaage.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-07 | [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-09-06 | [`California-Oregon Telecommunications Company`](https://google.com/search?q=California-Oregon+Telecommunications+Company) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Wednesday 05/10/2022 04.40 (UTC)_
+Last update : _Wednesday 05/10/2022 07.55 (UTC)_
