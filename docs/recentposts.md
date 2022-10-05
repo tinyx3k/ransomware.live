@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-05 | [`Empower Insurance`](https://google.com/search?q=Empower+Insurance) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-05 | [`Unicity`](https://google.com/search?q=Unicity) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-05 | [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-05 | [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-09 | [`kortrijkserijschool.be`](https://google.com/search?q=kortrijkserijschool.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-08 | [`MGSMFG`](https://google.com/search?q=MGSMFG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`EMEPLATING`](https://google.com/search?q=EMEPLATING) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-07 | [`STEVENG`](https://google.com/search?q=STEVENG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Wednesday 05/10/2022 19.42 (UTC)_
+Last update : _Wednesday 05/10/2022 21.49 (UTC)_
