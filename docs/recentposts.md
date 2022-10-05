@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-05 | [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-05 | [`Peter Duffy Ltd`](https://google.com/search?q=Peter+Duffy+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`Sunflower Farms Distributors, Inc`](https://google.com/search?q=Sunflower+Farms+Distributors%2C+Inc) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-07 | [`STEVENG`](https://google.com/search?q=STEVENG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`SHI`](https://google.com/search?q=SHI) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-07 | [`marcopolohotels.com`](https://google.com/search?q=marcopolohotels.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-07 | [`hunters.com`](https://google.com/search?q=hunters.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 05/10/2022 13.36 (UTC)_
+Last update : _Wednesday 05/10/2022 15.58 (UTC)_
