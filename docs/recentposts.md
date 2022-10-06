@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-06 | [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-06 | [`Rundle Eye Care`](https://google.com/search?q=Rundle+Eye+Care) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-06 | [`MultiCare pt.2`](https://google.com/search?q=MultiCare+pt.2) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-06 | [`Dorsey metrology`](https://google.com/search?q=Dorsey+metrology) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`aralaw.cr`](https://google.com/search?q=aralaw.cr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`Davin Industries Ltd`](https://google.com/search?q=Davin+Industries+Ltd) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-09-11 | [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Thursday 06/10/2022 17.40 (UTC)_
+Last update : _Thursday 06/10/2022 19.45 (UTC)_
