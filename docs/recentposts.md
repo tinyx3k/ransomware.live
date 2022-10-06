@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-06 | [`BMW of Sherman Oaks`](https://google.com/search?q=BMW+of+Sherman+Oaks) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-06 | [`McGann Facial Design`](https://google.com/search?q=McGann+Facial+Design) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-06 | [`Mayfield School`](https://google.com/search?q=Mayfield+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-06 | [`apunipima.org.au`](https://google.com/search?q=apunipima.org.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-09 | [`marugokiso.co.jp`](https://google.com/search?q=marugokiso.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`lacalera.pe`](https://google.com/search?q=lacalera.pe) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-09 | [`diakonissen-riehen.ch`](https://google.com/search?q=diakonissen-riehen.ch) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-09 | [`dcashpro.com`](https://google.com/search?q=dcashpro.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 06/10/2022 09.33 (UTC)_
+Last update : _Thursday 06/10/2022 11.39 (UTC)_
