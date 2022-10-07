@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-07 | [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-07 | [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-12 | [`omegaservices.com.au`](https://google.com/search?q=omegaservices.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`TAP AIR PORTUGAL - 115k personal data leak`](https://google.com/search?q=TAP+AIR+PORTUGAL+-+115k+personal+data+leak) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-12 | [`frigobandeira.com`](https://google.com/search?q=frigobandeira.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-12 | [`ch-sf.fr`](https://google.com/search?q=ch-sf.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 07/10/2022 13.31 (UTC)_
+Last update : _Friday 07/10/2022 15.35 (UTC)_
