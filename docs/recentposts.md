@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-11 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-11 | [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 07/10/2022 02.22 (UTC)_
+Last update : _Friday 07/10/2022 05.14 (UTC)_
