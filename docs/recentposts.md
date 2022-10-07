@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-07 | [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Midwest Petroleum`](https://google.com/search?q=Midwest+Petroleum) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Simex Defence Inc`](https://google.com/search?q=Simex+Defence+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`OakBend Medical (USA)`](https://google.com/search?q=OakBend+Medical+%28USA%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
-| 2022-09-12 | [`omegaservices.com.au`](https://google.com/search?q=omegaservices.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 07/10/2022 19.47 (UTC)_
+Last update : _Friday 07/10/2022 21.39 (UTC)_
