@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-06 | [`The UNITED GRINDING Group`](https://google.com/search?q=The+UNITED+GRINDING+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-06 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-12 | [`frigobandeira.com`](https://google.com/search?q=frigobandeira.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr`](https://google.com/search?q=ch-sf.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-12 | [`ch-sf.fr (old)`](https://google.com/search?q=ch-sf.fr+%28old%29) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-11 | [`hamiota.com`](https://google.com/search?q=hamiota.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 07/10/2022 09.43 (UTC)_
+Last update : _Friday 07/10/2022 11.56 (UTC)_
