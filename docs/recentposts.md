@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-13 | [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 08/10/2022 04.54 (UTC)_
+Last update : _Saturday 08/10/2022 07.35 (UTC)_
