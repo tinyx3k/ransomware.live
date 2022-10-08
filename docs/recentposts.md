@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-08 | [`Notos Com`](https://google.com/search?q=Notos+Com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Electricity company`](https://google.com/search?q=Electricity+company) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-07 | [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-13 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | [redalert](https://ransomware.live/#/profiles?id=redalert) |
-| 2022-09-13 | [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 08/10/2022 09.24 (UTC)_
+Last update : _Saturday 08/10/2022 11.36 (UTC)_
