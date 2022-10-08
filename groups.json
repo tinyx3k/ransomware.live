@@ -625,6 +625,25 @@
         "profile": []
     },
     {
+        "name": "chilelocker",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
+    },
+    {
         "name": "clop",
         "captcha": true,
         "parser": true,
@@ -792,6 +811,25 @@
             "https://digital.nhs.uk/cyber-alerts/2021/cc-3855",
             "https://www.ic3.gov/Media/News/2021/211203-2.pdf"
         ]
+    },
+    {
+        "name": "dagonlocker",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     },
     {
         "name": "daixin",
@@ -2634,6 +2672,15 @@
                 "available": true,
                 "updated": "2022-10-08 13:27:39.991289",
                 "lastscrape": "2022-10-08 13:27:39.991274"
+            },
+            {
+                "fqdn": "kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion/api/public/blog/list",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
         "profile": []
@@ -2995,6 +3042,25 @@
             "https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/",
             "https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/"
         ]
+    },
+    {
+        "name": "royal",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion",
+                "available": false,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     },
     {
         "name": "rransom",
