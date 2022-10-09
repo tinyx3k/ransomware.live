@@ -4,9 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-09 | [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-10-08 | [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-08 | [`Notos Com`](https://google.com/search?q=Notos+Com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-10-08 | [`dialog.com.au`](https://google.com/search?q=dialog.com.au) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-10-08 | [`scinopharm.com`](https://google.com/search?q=scinopharm.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-10-08 | [`robertbernard.com`](https://google.com/search?q=robertbernard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-10-08 | [`contempocard.com`](https://google.com/search?q=contempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-10-08 | [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-10-08 | [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-07 | [`Electricity company`](https://google.com/search?q=Electricity+company) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-07 | [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Midwest Petroleum`](https://google.com/search?q=Midwest+Petroleum) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -197,12 +204,5 @@ _last `200` posts_
 | 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`Ferrer&Ojeda`](https://google.com/search?q=Ferrer%26Ojeda) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`Tema Litoclean Group`](https://google.com/search?q=Tema+Litoclean+Group) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`Grupo Galilea`](https://google.com/search?q=Grupo+Galilea) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`FundaciÃ³ Sant Francesc d'AssÃ­s `](https://google.com/search?q=Fundaci%C3%83%C2%B3+Sant+Francesc+d%27Ass%C3%83%C2%ADs+) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`INDIBA`](https://google.com/search?q=INDIBA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`RIVISA`](https://google.com/search?q=RIVISA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`RABAT`](https://google.com/search?q=RABAT) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 
-Last update : _Sunday 09/10/2022 09.44 (UTC)_
+Last update : _Sunday 09/10/2022 11.41 (UTC)_
