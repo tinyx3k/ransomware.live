@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 
-Last update : _Sunday 09/10/2022 15.51 (UTC)_
+Last update : _Sunday 09/10/2022 17.31 (UTC)_
