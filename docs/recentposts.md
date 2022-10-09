@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-13 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`SERCOM`](https://google.com/search?q=SERCOM) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 
-Last update : _Sunday 09/10/2022 07.45 (UTC)_
+Last update : _Sunday 09/10/2022 09.44 (UTC)_
