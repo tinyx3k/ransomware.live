@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-09 | [`buydps.com`](https://google.com/search?q=buydps.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-10-08 | [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`Font Packaging`](https://google.com/search?q=Font+Packaging) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-13 | [`Ferrer&Ojeda`](https://google.com/search?q=Ferrer%26Ojeda) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`Tema Litoclean Group`](https://google.com/search?q=Tema+Litoclean+Group) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 
-Last update : _Sunday 09/10/2022 11.41 (UTC)_
+Last update : _Sunday 09/10/2022 13.39 (UTC)_
