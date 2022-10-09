@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-09 | [`dragages-ports.fr`](https://google.com/search?q=dragages-ports.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`cedemo.com`](https://google.com/search?q=cedemo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`alliedusa.com`](https://google.com/search?q=alliedusa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`buydps.com`](https://google.com/search?q=buydps.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-13 | [` Spa`](https://google.com/search?q=+Spa) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-09-13 | [`Gallery Hotels`](https://google.com/search?q=Gallery+Hotels) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-13 | [`Auto88`](https://google.com/search?q=Auto88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 
-Last update : _Sunday 09/10/2022 19.47 (UTC)_
+Last update : _Sunday 09/10/2022 21.37 (UTC)_
