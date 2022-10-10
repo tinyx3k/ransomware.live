@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-13 | [` Spa`](https://google.com/search?q=+Spa) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Monday 10/10/2022 02.24 (UTC)_
+Last update : _Monday 10/10/2022 08.07 (UTC)_
