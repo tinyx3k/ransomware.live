@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`RS.GOV.BR/Government Brazil`](https://google.com/search?q=RS.GOV.BR%2FGovernment+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-09 | [`securityalliancegroup.com`](https://google.com/search?q=securityalliancegroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`dragages-ports.fr`](https://google.com/search?q=dragages-ports.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`Fiveninefive`](https://google.com/search?q=Fiveninefive) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`PCSupport`](https://google.com/search?q=PCSupport) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`Hayat`](https://google.com/search?q=Hayat) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-14 | [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Monday 10/10/2022 11.44 (UTC)_
+Last update : _Monday 10/10/2022 13.44 (UTC)_
