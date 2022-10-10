@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-10 | [`TANG CAPITAL LEAKED`](https://google.com/search?q=TANG+CAPITAL+LEAKED) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-10 | [`Electricity company pt.2`](https://google.com/search?q=Electricity+company+pt.2) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`RS.GOV.BR/Government Brazil`](https://google.com/search?q=RS.GOV.BR%2FGovernment+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`idealtridon.com`](https://google.com/search?q=idealtridon.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`GHT CORP`](https://google.com/search?q=GHT+CORP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`Fiveninefive`](https://google.com/search?q=Fiveninefive) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-14 | [`PCSupport`](https://google.com/search?q=PCSupport) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Monday 10/10/2022 15.57 (UTC)_
+Last update : _Monday 10/10/2022 17.37 (UTC)_
