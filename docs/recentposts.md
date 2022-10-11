@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`cmb-artimmo.com`](https://google.com/search?q=cmb-artimmo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 11/10/2022 17.54 (UTC)_
+Last update : _Tuesday 11/10/2022 19.52 (UTC)_
