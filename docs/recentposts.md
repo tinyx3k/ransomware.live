@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-11 | [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-10 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-10 | [`polycube.co.th`](https://google.com/search?q=polycube.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`jtchapman.com`](https://google.com/search?q=jtchapman.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`camdomain.com`](https://google.com/search?q=camdomain.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`artdis.fr`](https://google.com/search?q=artdis.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`aipcenergy.com`](https://google.com/search?q=aipcenergy.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 10/10/2022 23.45 (UTC)_
+Last update : _Tuesday 11/10/2022 02.00 (UTC)_
