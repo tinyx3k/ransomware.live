@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-11 | [`Consorci Sanitari Integral &amp; Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26amp%3B+Geseme) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-10-11 | [`tdwood.com`](https://google.com/search?q=tdwood.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-11 | [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`daune.org`](https://google.com/search?q=daune.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cultivar.net`](https://google.com/search?q=cultivar.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cmb-artimmo.com`](https://google.com/search?q=cmb-artimmo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 11/10/2022 19.52 (UTC)_
+Last update : _Tuesday 11/10/2022 21.52 (UTC)_
