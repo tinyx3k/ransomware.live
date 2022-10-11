@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`camdomain.com`](https://google.com/search?q=camdomain.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 11/10/2022 11.48 (UTC)_
+Last update : _Tuesday 11/10/2022 13.55 (UTC)_
