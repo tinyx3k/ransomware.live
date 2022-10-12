@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-12 | [`martel.es`](https://google.com/search?q=martel.es) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`bigcenters.rs`](https://google.com/search?q=bigcenters.rs) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-11 | [`Consorci Sanitari Integral &amp; Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26amp%3B+Geseme) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`euromip.fr`](https://google.com/search?q=euromip.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`euro-modules.fr`](https://google.com/search?q=euro-modules.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`daune.org`](https://google.com/search?q=daune.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`cultivar.net`](https://google.com/search?q=cultivar.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 12/10/2022 05.06 (UTC)_
+Last update : _Wednesday 12/10/2022 07.30 (UTC)_
