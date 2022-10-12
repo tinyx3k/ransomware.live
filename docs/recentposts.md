@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`mj-donnais.fr`](https://google.com/search?q=mj-donnais.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`maleosante.fr`](https://google.com/search?q=maleosante.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 12/10/2022 21.19 (UTC)_
+Last update : _Wednesday 12/10/2022 23.06 (UTC)_
