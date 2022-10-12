@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-12 | [`ALFATECH`](https://google.com/search?q=ALFATECH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`AMPORTS`](https://google.com/search?q=AMPORTS) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`Michael Sullivan & Associates`](https://google.com/search?q=Michael+Sullivan+%26+Associates) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`martel.es`](https://google.com/search?q=martel.es) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`kwp.at`](https://google.com/search?q=kwp.at) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`kcgreenholdings.com`](https://google.com/search?q=kcgreenholdings.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`jt-engineering.com`](https://google.com/search?q=jt-engineering.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`euromip.fr`](https://google.com/search?q=euromip.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 12/10/2022 11.08 (UTC)_
+Last update : _Wednesday 12/10/2022 13.46 (UTC)_
