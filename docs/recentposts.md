@@ -4,10 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-12 | [`marktel.es`](https://google.com/search?q=marktel.es) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`ALFATECH`](https://google.com/search?q=ALFATECH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`AMPORTS`](https://google.com/search?q=AMPORTS) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`Michael Sullivan & Associates`](https://google.com/search?q=Michael+Sullivan+%26+Associates) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`martel.es`](https://google.com/search?q=martel.es) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-12 | [`MERCOLA`](https://google.com/search?q=MERCOLA) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`SMART Mechanical Solutions`](https://google.com/search?q=SMART+Mechanical+Solutions) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-12 | [`Quality Telecom Consultants Inc`](https://google.com/search?q=Quality+Telecom+Consultants+Inc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-12 | [`bigcenters.rs`](https://google.com/search?q=bigcenters.rs) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-11 | [`Consorci Sanitari Integral &amp; Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26amp%3B+Geseme) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`maleosante.fr`](https://google.com/search?q=maleosante.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`maisonloisy.fr`](https://google.com/search?q=maisonloisy.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`mackenzie-law.co.uk`](https://google.com/search?q=mackenzie-law.co.uk) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`lagence33.com`](https://google.com/search?q=lagence33.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`kwp.at`](https://google.com/search?q=kwp.at) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`kcgreenholdings.com`](https://google.com/search?q=kcgreenholdings.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`jt-engineering.com`](https://google.com/search?q=jt-engineering.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 12/10/2022 13.46 (UTC)_
+Last update : _Wednesday 12/10/2022 15.25 (UTC)_
