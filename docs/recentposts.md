@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`cultivar.net`](https://google.com/search?q=cultivar.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`cmb-artimmo.com`](https://google.com/search?q=cmb-artimmo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 11/10/2022 23.31 (UTC)_
+Last update : _Wednesday 12/10/2022 02.24 (UTC)_
