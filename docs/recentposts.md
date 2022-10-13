@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`sarassure.fr`](https://google.com/search?q=sarassure.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`quintal.com.co`](https://google.com/search?q=quintal.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 13/10/2022 21.12 (UTC)_
+Last update : _Thursday 13/10/2022 23.47 (UTC)_
