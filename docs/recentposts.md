@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-13 | [`Fashion company ZIGI NY - Leaked`](https://google.com/search?q=Fashion+company+ZIGI+NY+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-12 | [`MultiCare pt.3`](https://google.com/search?q=MultiCare+pt.3) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-12 | [`mtrx.com`](https://google.com/search?q=mtrx.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-12 | [`marktel.es`](https://google.com/search?q=marktel.es) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`quintal.com.co`](https://google.com/search?q=quintal.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`pays-colombey-sudtoulois.fr`](https://google.com/search?q=pays-colombey-sudtoulois.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`mj-donnais.fr`](https://google.com/search?q=mj-donnais.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`maleosante.fr`](https://google.com/search?q=maleosante.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 13/10/2022 15.12 (UTC)_
+Last update : _Thursday 13/10/2022 17.09 (UTC)_
