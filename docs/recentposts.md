@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-14 | [`kilvington.vic.edu.au`](https://google.com/search?q=kilvington.vic.edu.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-14 | [`Electricity company / Air Defense Solutions company`](https://google.com/search?q=Electricity+company+%2F+Air+Defense+Solutions+company) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-14 | [`heronconstruction.co.nz`](https://google.com/search?q=heronconstruction.co.nz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-14 | [`bankruptcypa.com`](https://google.com/search?q=bankruptcypa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`ville-faulquemont.fr`](https://google.com/search?q=ville-faulquemont.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`thezincgroup.com`](https://google.com/search?q=thezincgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`taxprepandmore.com`](https://google.com/search?q=taxprepandmore.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`tapcocu.org`](https://google.com/search?q=tapcocu.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 14/10/2022 19.47 (UTC)_
+Last update : _Friday 14/10/2022 22.48 (UTC)_
