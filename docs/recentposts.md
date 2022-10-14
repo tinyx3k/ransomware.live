@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-14 | [`bankruptcypa.com`](https://google.com/search?q=bankruptcypa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-13 | [`Electricity company pt.3`](https://google.com/search?q=Electricity+company+pt.3) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-13 | [`nelsonautohaus.com`](https://google.com/search?q=nelsonautohaus.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-13 | [`Fashion company ZIGI NY - Leaked`](https://google.com/search?q=Fashion+company+ZIGI+NY+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`tapcocu.org`](https://google.com/search?q=tapcocu.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`sva-avignon.concession-landrover.fr`](https://google.com/search?q=sva-avignon.concession-landrover.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`sarassure.fr`](https://google.com/search?q=sarassure.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`quintal.com.co`](https://google.com/search?q=quintal.com.co) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 14/10/2022 02.08 (UTC)_
+Last update : _Friday 14/10/2022 13.55 (UTC)_
