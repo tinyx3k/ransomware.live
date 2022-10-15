@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-14 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-14 | [`Tri-Supply`](https://google.com/search?q=Tri-Supply) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Saturday 15/10/2022 07.54 (UTC)_
+Last update : _Saturday 15/10/2022 10.40 (UTC)_
