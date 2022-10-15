@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-15 | [`centurion.com.pl`](https://google.com/search?q=centurion.com.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`castemark.tw`](https://google.com/search?q=castemark.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`Quantumce.com`](https://google.com/search?q=Quantumce.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`MultiCare DataBase Leak`](https://google.com/search?q=MultiCare+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`inspecshawaii.com`](https://google.com/search?q=inspecshawaii.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-14 | [`AUTO88`](https://google.com/search?q=AUTO88) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 
-Last update : _Saturday 15/10/2022 19.48 (UTC)_
+Last update : _Saturday 15/10/2022 22.37 (UTC)_
