@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-15 | [`villajuris.be`](https://google.com/search?q=villajuris.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`tamhash.co.il`](https://google.com/search?q=tamhash.co.il) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-15 | [`mk.co.th`](https://google.com/search?q=mk.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-14 | [`kilvington.vic.edu.au`](https://google.com/search?q=kilvington.vic.edu.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
 | 2022-09-14 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | [cheers](https://ransomware.live/#/profiles?id=cheers) |
 | 2022-09-14 | [`Tri-Supply`](https://google.com/search?q=Tri-Supply) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-14 | [`ville-faulquemont.fr`](https://google.com/search?q=ville-faulquemont.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 15/10/2022 05.52 (UTC)_
+Last update : _Saturday 15/10/2022 07.54 (UTC)_
