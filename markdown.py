@@ -176,14 +176,14 @@ def recentposts(top):
     return recentposts
 
 def recentpage():
-    '''create a markdown table for the last 100 posts based on the discovered value'''
+    '''create a markdown table for the last 200 posts based on the discovered value'''
     fetching_count = 200
     stdlog('generating recent posts page')
     recentpage = 'docs/recentposts.md'
     # delete contents of file
     with open(recentpage, 'w', encoding='utf-8') as f:
         f.close()
-    writeline(recentpage, '# 📰 recent posts')
+    writeline(recentpage, '# 📰 200 last posts')
     writeline(recentpage, '')
     writeline(recentpage, '_last `' + str(fetching_count) + '` posts_')
     writeline(recentpage, '')
@@ -272,7 +272,7 @@ def profilepage():
     stdlog('profile page generation complete')
 
 def main():
-    stdlog('generating doco')
+    stdlog('generating docs')
     mainpage()
     indexpage()
     # sidebar()
