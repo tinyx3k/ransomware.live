@@ -249,10 +249,10 @@ def profilepage():
             time = time.split(':')
             time = time[0] + ':' + time[1]
             if host['title'] is not None:
-                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `' + host['fqdn'] + '` |'
+                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` |'
                 writeline(profilepage, line)
             else:
-                line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `' + host['fqdn'] + '` |'
+                line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` |'
                 writeline(profilepage, line)
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
