@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-15 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-09-14 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 17/10/2022 20.03 (UTC)_
+Last update : _Monday 17/10/2022 21.51 (UTC)_
