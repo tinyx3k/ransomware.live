@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-17 | [`Döhler HACKED! More then 800 GB sensitive data LEAKED!`](https://google.com/search?q=D%C3%B6hler+HACKED%21+More+then+800+GB+sensitive+data+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-17 | [`Jam Filled Entertainment`](https://google.com/search?q=Jam+Filled+Entertainment) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-17 | [`RecordTV`](https://google.com/search?q=RecordTV) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-16 | [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`d-securite.com`](https://google.com/search?q=d-securite.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`aliat.group`](https://google.com/search?q=aliat.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Monday 17/10/2022 13.34 (UTC)_
+Last update : _Monday 17/10/2022 16.04 (UTC)_
