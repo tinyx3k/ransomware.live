@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-17 | [`RecordTV`](https://google.com/search?q=RecordTV) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-16 | [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-16 | [`oomiya.co.jp`](https://google.com/search?q=oomiya.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-16 | [`kingteam.com.tw`](https://google.com/search?q=kingteam.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-14 | [`aliat.group`](https://google.com/search?q=aliat.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-14 | [`Triten`](https://google.com/search?q=Triten) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-14 | [`southamptoncounty.org`](https://google.com/search?q=southamptoncounty.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-14 | [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 17/10/2022 09.34 (UTC)_
+Last update : _Monday 17/10/2022 11.26 (UTC)_
