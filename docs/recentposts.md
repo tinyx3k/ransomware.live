@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-18 | [`CSW GmbH`](https://google.com/search?q=CSW+GmbH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-17 | [`kingfisherinsurance.com`](https://google.com/search?q=kingfisherinsurance.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-17 | [`The Hibbert Group`](https://google.com/search?q=The+Hibbert+Group) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-17 | [`Döhler HACKED! More then 800 GB sensitive data LEAKED!`](https://google.com/search?q=D%C3%B6hler+HACKED%21+More+then+800+GB+sensitive+data+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-15 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-09-14 | [`medical69.com`](https://google.com/search?q=medical69.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 17/10/2022 23.46 (UTC)_
+Last update : _Tuesday 18/10/2022 03.19 (UTC)_
