@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-15 | [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | [everest](https://ransomware.live/#/profiles?id=everest) |
 
-Last update : _Tuesday 18/10/2022 08.26 (UTC)_
+Last update : _Tuesday 18/10/2022 10.07 (UTC)_
