@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-18 | [`DIPF-INTERN - Leaked`](https://google.com/search?q=DIPF-INTERN+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-18 | [`Wes-tec inc.`](https://google.com/search?q=Wes-tec+inc.) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-10-18 | [`MultiCareInc pt.3`](https://google.com/search?q=MultiCareInc+pt.3) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-18 | [`MultiCareInc DataBase Leak`](https://google.com/search?q=MultiCareInc+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-15 | [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-15 | [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-15 | [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomware.live/#/profiles?id=0mega) |
 
-Last update : _Tuesday 18/10/2022 21.57 (UTC)_
+Last update : _Tuesday 18/10/2022 23.41 (UTC)_
