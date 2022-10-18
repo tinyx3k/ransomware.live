@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-18 | [`MultiCareInc DataBase Leak`](https://google.com/search?q=MultiCareInc+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-18 | [`Stages Pediatric Care new personal data`](https://google.com/search?q=Stages+Pediatric+Care+new+personal+data) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-18 | [`CSW GmbH`](https://google.com/search?q=CSW+GmbH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-17 | [`kingfisherinsurance.com`](https://google.com/search?q=kingfisherinsurance.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-15 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | [0mega](https://ransomware.live/#/profiles?id=0mega) |
 | 2022-09-15 | [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-15 | [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Tuesday 18/10/2022 14.10 (UTC)_
+Last update : _Tuesday 18/10/2022 16.10 (UTC)_
