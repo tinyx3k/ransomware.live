@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART7 - cwc PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART7+-+cwc+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`PRICEDEX.COM FILES PART20 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART20+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`MARCELSOLUTION.COM  FILES PART2 - SRVTS7 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM++FILES+PART2+-+SRVTS7+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`SPINNEYS.COM FILES PART12 - 202.0.0.131 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART12+-+202.0.0.131+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-17 | [`First bounty payout $50,000`](https://google.com/search?q=First+bounty+payout+%2450%2C000) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`Laddawn Inc.`](https://google.com/search?q=Laddawn+Inc.) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-09-16 | [`scottobrothers.com`](https://google.com/search?q=scottobrothers.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 19/10/2022 18.00 (UTC)_
+Last update : _Wednesday 19/10/2022 20.23 (UTC)_
