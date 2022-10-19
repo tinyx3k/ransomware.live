@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-19 | [`Weidmuller`](https://google.com/search?q=Weidmuller) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-19 | [`Rosenblatt Securities`](https://google.com/search?q=Rosenblatt+Securities) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-10-19 | [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-10-19 | [`Dollmar SpA - Leaked`](https://google.com/search?q=Dollmar+SpA+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`software-line.it`](https://google.com/search?q=software-line.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-15 | [`asecna.org`](https://google.com/search?q=asecna.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 19/10/2022 08.28 (UTC)_
+Last update : _Wednesday 19/10/2022 10.17 (UTC)_
