@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-19 | [`MARCELSOLUTION.COM  FILES PART2 - SRVTS7 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM++FILES+PART2+-+SRVTS7+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`SPINNEYS.COM FILES PART12 - 202.0.0.131 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART12+-+202.0.0.131+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`Weidmuller`](https://google.com/search?q=Weidmuller) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-19 | [`Rosenblatt Securities`](https://google.com/search?q=Rosenblatt+Securities) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-16 | [`scottobrothers.com`](https://google.com/search?q=scottobrothers.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-16 | [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-16 | [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 19/10/2022 14.25 (UTC)_
+Last update : _Wednesday 19/10/2022 16.10 (UTC)_
