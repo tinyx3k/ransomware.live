@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-20 | [`Pitman Family Farms`](https://google.com/search?q=Pitman+Family+Farms) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-20 | [`APPLEXUS.COM FILES PART9 - 192.168.5.8 PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART9+-+192.168.5.8+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART5 - water\10.80.74.23\data$\Echo\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART5+-+water%5C10.80.74.23%5Cdata%24%5CEcho%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`PRICEDEX.COM FILES PART18 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART18+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-19 | [`ducanh.com`](https://google.com/search?q=ducanh.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`CARITAS`](https://google.com/search?q=CARITAS) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-09-19 | [`TAP Air Leak of more than 1.5 million of customers and many other.`](https://google.com/search?q=TAP+Air+Leak+of+more+than+1.5+million+of+customers+and+many+other.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-09-19 | [`franckbeun.fr`](https://google.com/search?q=franckbeun.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 20/10/2022 20.07 (UTC)_
+Last update : _Thursday 20/10/2022 21.51 (UTC)_
