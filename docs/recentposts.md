@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-20 | [`PRICEDEX.COM FILES PART19 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART19+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`MARCELSOLUTION.COM FILES PART1 - DC01, EPEREZ2 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART1+-+DC01%2C+EPEREZ2+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`SPINNEYS.COM FILES PART11 - 10.114.20.92 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART11+-+10.114.20.92+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-19 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART7 - cwc PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART7+-+cwc+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-19 | [`Biggest News`](https://google.com/search?q=Biggest+News) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-19 | [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-09-17 | [`trisupplyhome.com`](https://google.com/search?q=trisupplyhome.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-17 | [`First bounty payout $50,000`](https://google.com/search?q=First+bounty+payout+%2450%2C000) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 20/10/2022 03.25 (UTC)_
+Last update : _Thursday 20/10/2022 05.38 (UTC)_
