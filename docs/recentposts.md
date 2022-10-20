@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-20 | [`PRICEDEX.COM FILES PART18 - 10.0.10.137\D$\Servers\ PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART18+-+10.0.10.137%5CD%24%5CServers%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`FERRAN-SERVICES.COM FILES PART18 - ferran.rserfozo, ferran.SQL01 PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART18+-+ferran.rserfozo%2C+ferran.SQL01+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`SPINNEYS.COM FILES PART10 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\ PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART10+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`APPLEXUS.COM FILES PART10 - 192.168.7.4 PUBLISHED`](https://google.com/search?q=APPLEXUS.COM+FILES+PART10+-+192.168.7.4+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-19 | [`franckbeun.fr`](https://google.com/search?q=franckbeun.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`Government Brazil`](https://google.com/search?q=Government+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-09-19 | [`New York Racing Association`](https://google.com/search?q=New+York+Racing+Association) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-19 | [`hering-heinz.de`](https://google.com/search?q=hering-heinz.de) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 20/10/2022 14.17 (UTC)_
+Last update : _Thursday 20/10/2022 16.13 (UTC)_
