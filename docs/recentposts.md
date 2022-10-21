@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-21 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART4 - EMS, F$, hydrosave, iws, onsite PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART4+-+EMS%2C+F%24%2C+hydrosave%2C+iws%2C+onsite+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`PRICEDEX.COM FILES PART17 - 10.0.10.28, 10.0.101.176 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART17+-+10.0.10.28%2C+10.0.101.176+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`FERRAN-SERVICES.COM FILES PART17 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART17+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`SPINNEYS.COM FILES PART9 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2020\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART9+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2020%5C+PUBLI) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-20 | [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | [pysa](https://ransomware.live/#/profiles?id=pysa) |
 | 2022-09-19 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-19 | [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-19 | [`okibrasil.com`](https://google.com/search?q=okibrasil.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 21/10/2022 08.04 (UTC)_
+Last update : _Friday 21/10/2022 09.53 (UTC)_
