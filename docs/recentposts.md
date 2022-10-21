@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-21 | [`FERRAN-SERVICES.COM FILES PART17 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART17+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`SPINNEYS.COM FILES PART9 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2020\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART9+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2020%5C+PUBLI) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`FTSUMNERK12.COM FILES PART17 - 192.168.3.206 PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART17+-+192.168.3.206+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-20 | [`Pitman Family Farms`](https://google.com/search?q=Pitman+Family+Farms) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-19 | [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`okibrasil.com`](https://google.com/search?q=okibrasil.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`mts.mektec.com`](https://google.com/search?q=mts.mektec.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-19 | [`ducanh.com`](https://google.com/search?q=ducanh.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 21/10/2022 02.56 (UTC)_
+Last update : _Friday 21/10/2022 05.17 (UTC)_
