@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-21 | [`PRICEDEX.COM FILES PART17 - 10.0.10.28, 10.0.101.176 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART17+-+10.0.10.28%2C+10.0.101.176+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`FERRAN-SERVICES.COM FILES PART17 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART17+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`SPINNEYS.COM FILES PART9 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2020\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART9+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2020%5C+PUBLI) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`FTSUMNERK12.COM FILES PART17 - 192.168.3.206 PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART17+-+192.168.3.206+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-19 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-09-19 | [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-19 | [`okibrasil.com`](https://google.com/search?q=okibrasil.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-19 | [`mts.mektec.com`](https://google.com/search?q=mts.mektec.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 21/10/2022 05.17 (UTC)_
+Last update : _Friday 21/10/2022 08.04 (UTC)_
