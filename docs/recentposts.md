@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-21 | [`UNE`](https://google.com/search?q=UNE) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-21 | [`FERRAN-SERVICES.COM FILES PART16 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART16+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`SPINNEYS.COM FILES PART8 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2019\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART8+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2019%5C+PUBLI) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`LATOURNERIE-WOLFROM.COM FILES PART16 - 10.100.57.143, 10.100.57.146 PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART16+-+10.100.57.143%2C+10.100.57.146+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-21 | [`Foreman Watson Land Title, LLC.`](https://google.com/search?q=Foreman+Watson+Land+Title%2C+LLC.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-21 | [`ifwglobal.com`](https://google.com/search?q=ifwglobal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-20 | [`CORNERSTONE`](https://google.com/search?q=CORNERSTONE) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-20 | [`Sierra College`](https://google.com/search?q=Sierra+College) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Friday 21/10/2022 19.59 (UTC)_
+Last update : _Friday 21/10/2022 21.57 (UTC)_
