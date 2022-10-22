@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-22 | [`APPLEXUS.COM FILES PART7 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\HR\ PUBLIS`](https://google.com/search?q=APPLEXUS.COM+FILES+PART7+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5CHR%5C+PUBLIS) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART3 - 10.80.74.230\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART3+-+10.80.74.230%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`PRICEDEX.COM FILES PART16 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART16+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`NEWCOURSECC.COM FILES PART17 - 10.168.40.27\D$\FTP\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART17+-+10.168.40.27%5CD%24%5CFTP%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-21 | [`BHARBERT`](https://google.com/search?q=BHARBERT) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-21 | [`scrd.ca`](https://google.com/search?q=scrd.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`parrottsims.com`](https://google.com/search?q=parrottsims.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-21 | [`Admiral Merchants`](https://google.com/search?q=Admiral+Merchants) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Saturday 22/10/2022 08.16 (UTC)_
+Last update : _Saturday 22/10/2022 09.54 (UTC)_
