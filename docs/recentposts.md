@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-22 | [`PRICEDEX.COM FILES PART16 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART16+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`NEWCOURSECC.COM FILES PART17 - 10.168.40.27\D$\FTP\ PUBLISHED`](https://google.com/search?q=NEWCOURSECC.COM+FILES+PART17+-+10.168.40.27%5CD%24%5CFTP%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-21 | [`UNE`](https://google.com/search?q=UNE) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-21 | [`FERRAN-SERVICES.COM FILES PART16 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART16+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-21 | [`parrottsims.com`](https://google.com/search?q=parrottsims.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`Admiral Merchants`](https://google.com/search?q=Admiral+Merchants) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-21 | [`Foreman Watson Land Title, LLC.`](https://google.com/search?q=Foreman+Watson+Land+Title%2C+LLC.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-21 | [`ifwglobal.com`](https://google.com/search?q=ifwglobal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 22/10/2022 03.22 (UTC)_
+Last update : _Saturday 22/10/2022 05.32 (UTC)_
