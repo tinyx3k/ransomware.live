@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-22 | [`ORBITELECTRIC.COM FILES PART22 - F\ PUBLISHED`](https://google.com/search?q=ORBITELECTRIC.COM+FILES+PART22+-+F%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`FERRAN-SERVICES.COM FILES PART15 - D\Users Shared Drive\ PUBLISHED`](https://google.com/search?q=FERRAN-SERVICES.COM+FILES+PART15+-+D%5CUsers+Shared+Drive%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`SPINNEYS.COM FILES PART7 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2019\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART7+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2019%5C+PUBLI) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`LATOURNERIE-WOLFROM.COM FILES PART15 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART15+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-22 | [`www.bbadmin.com`](https://google.com/search?q=www.bbadmin.com) | [redalert](https://ransomware.live/#/profiles?id=redalert) |
 | 2022-09-22 | [`thorguard.com`](https://google.com/search?q=thorguard.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`yourprivateitaly.com`](https://google.com/search?q=yourprivateitaly.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-22 | [`uide.edu.ec`](https://google.com/search?q=uide.edu.ec) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 22/10/2022 19.25 (UTC)_
+Last update : _Saturday 22/10/2022 21.48 (UTC)_
