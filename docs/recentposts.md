@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-22 | [`SPINNEYS.COM FILES PART7 - 10.20.50.10\F$\Retail_Finance\Private\SKN\COMMON\F2\2019\ PUBLI`](https://google.com/search?q=SPINNEYS.COM+FILES+PART7+-+10.20.50.10%5CF%24%5CRetail_Finance%5CPrivate%5CSKN%5CCOMMON%5CF2%5C2019%5C+PUBLI) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`LATOURNERIE-WOLFROM.COM FILES PART15 - 10.100.57.131\C$\Users\CW\Documents\ PUBLISHED`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM+FILES+PART15+-+10.100.57.131%5CC%24%5CUsers%5CCW%5CDocuments%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`FTSUMNERK12.COM FILES PART15 - 192.168.0.244\StudentShare\GATE\Fikany YB\ PUBLISHED`](https://google.com/search?q=FTSUMNERK12.COM+FILES+PART15+-+192.168.0.244%5CStudentShare%5CGATE%5CFikany+YB%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-22 | [`APPLEXUS.COM FILES PART7 - 192.168.4.4\D$\COMPANIES\Applexus Software Solutions\HR\ PUBLIS`](https://google.com/search?q=APPLEXUS.COM+FILES+PART7+-+192.168.4.4%5CD%24%5CCOMPANIES%5CApplexus+Software+Solutions%5CHR%5C+PUBLIS) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-22 | [`yourprivateitaly.com`](https://google.com/search?q=yourprivateitaly.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`uide.edu.ec`](https://google.com/search?q=uide.edu.ec) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-21 | [`Ministerio de Economía Argentina`](https://google.com/search?q=Ministerio+de+Econom%C3%ADa+Argentina) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-09-21 | [`BHARBERT`](https://google.com/search?q=BHARBERT) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Saturday 22/10/2022 13.46 (UTC)_
+Last update : _Saturday 22/10/2022 17.26 (UTC)_
