@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-23 | [`SPINNEYS.COM FILES PART13 - 192.6.14.205 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART13+-+192.6.14.205+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-23 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-27 | [`ginspectionservices`](https://google.com/search?q=ginspectionservices) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-09-27 | [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-27 | [`STADLER`](https://google.com/search?q=STADLER) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Sunday 23/10/2022 21.54 (UTC)_
+Last update : _Sunday 23/10/2022 23.41 (UTC)_
