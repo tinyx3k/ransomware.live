@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-23 | [`Stages Pediatric Care New 40 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+40+personal+records) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-23 | [`Stages Pediatric Care New 250 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+250+personal+records) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART2 - water\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART2+-+water%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-23 | [`PRICEDEX.COM FILES PART15 - 10.0.10.1\E$\Shares\projects\Marketing and Business\Opticat\ P`](https://google.com/search?q=PRICEDEX.COM+FILES+PART15+-+10.0.10.1%5CE%24%5CShares%5Cprojects%5CMarketing+and+Business%5COpticat%5C+P) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-22 | [`School of Oriental African Studies`](https://google.com/search?q=School+of+Oriental+African+Studies) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-22 | [`idtech.com.tw`](https://google.com/search?q=idtech.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-22 | [`GRUPO COPISA`](https://google.com/search?q=GRUPO+COPISA) | [sparta](https://ransomware.live/#/profiles?id=sparta) |
-| 2022-09-22 | [`congerbuilt.com`](https://google.com/search?q=congerbuilt.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 23/10/2022 07.58 (UTC)_
+Last update : _Sunday 23/10/2022 09.40 (UTC)_
