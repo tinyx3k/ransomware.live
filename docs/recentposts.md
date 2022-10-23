@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-27 | [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-27 | [`STADLER`](https://google.com/search?q=STADLER) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Sunday 23/10/2022 13.57 (UTC)_
+Last update : _Sunday 23/10/2022 15.34 (UTC)_
