@@ -4,6 +4,25 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-23 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`EDC3`](https://google.com/search?q=EDC3) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`J.M. Rodgers Co.`](https://google.com/search?q=J.M.+Rodgers+Co.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`ALRO`](https://google.com/search?q=ALRO) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`STONE1`](https://google.com/search?q=STONE1) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-10-23 | [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`TMShipping`](https://google.com/search?q=TMShipping) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`HALYVOURGIKI.S.A.`](https://google.com/search?q=HALYVOURGIKI.S.A.) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Marist College Ashgrove`](https://google.com/search?q=Marist+College+Ashgrove) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Pate's Grammar School`](https://google.com/search?q=Pate%27s+Grammar+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Test Valley School`](https://google.com/search?q=Test+Valley+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Mars Area School District`](https://google.com/search?q=Mars+Area+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`Maternite des Bluets`](https://google.com/search?q=Maternite+des+Bluets) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
+| 2022-10-23 | [`KEMET`](https://google.com/search?q=KEMET) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-10-23 | [`Egyptian Electric Cooperative Association`](https://google.com/search?q=Egyptian+Electric+Cooperative+Association) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-10-23 | [`rjyoung.com`](https://google.com/search?q=rjyoung.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-10-23 | [`mdaemon technologies`](https://google.com/search?q=mdaemon+technologies) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-23 | [`Lightbank`](https://google.com/search?q=Lightbank) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-10-23 | [`Stages Pediatric Care New 40 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+40+personal+records) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-23 | [`Stages Pediatric Care New 250 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+250+personal+records) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -185,24 +204,5 @@ _last `200` posts_
 | 2022-09-27 | [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-27 | [`STADLER`](https://google.com/search?q=STADLER) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-27 | [`JANMARINI`](https://google.com/search?q=JANMARINI) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`TAKAO-UK`](https://google.com/search?q=TAKAO-UK) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`GFG`](https://google.com/search?q=GFG) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`TSMTU`](https://google.com/search?q=TSMTU) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-09-26 | [`Nihonsakari Co. , Ltd`](https://google.com/search?q=Nihonsakari+Co.+%2C+Ltd) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-26 | [`( POST HAS BEEN UPDATED 800GB LEAK AVAILABLE N) County Suffolk and contractors`](https://google.com/search?q=%28+POST+HAS+BEEN+UPDATED+800GB+LEAK+AVAILABLE+N%29+County+Suffolk+and+contractors) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-26 | [`SolarCraft`](https://google.com/search?q=SolarCraft) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-26 | [`Samuel Ryder Academy`](https://google.com/search?q=Samuel+Ryder+Academy) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-09-25 | [`quantumce.com`](https://google.com/search?q=quantumce.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-25 | [`FederalBank/Fedfina DataBase Leak`](https://google.com/search?q=FederalBank%2FFedfina+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-09-25 | [`KOLLITSCH`](https://google.com/search?q=KOLLITSCH) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-25 | [`multicareinc.com`](https://google.com/search?q=multicareinc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-25 | [`melorita.com`](https://google.com/search?q=melorita.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-23 | [`rbroof.com`](https://google.com/search?q=rbroof.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-23 | [`Cornerstone Insurance Group`](https://google.com/search?q=Cornerstone+Insurance+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-23 | [`Longhorn Investments`](https://google.com/search?q=Longhorn+Investments) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-23 | [`Boyes Turner LLP`](https://google.com/search?q=Boyes+Turner+LLP) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-09-22 | [`School of Oriental African Studies`](https://google.com/search?q=School+of+Oriental+African+Studies) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-09-22 | [`idtech.com.tw`](https://google.com/search?q=idtech.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 23/10/2022 11.41 (UTC)_
+Last update : _Sunday 23/10/2022 13.57 (UTC)_

@@ -298,6 +298,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `Jam Filled Entertainment` | 17/10/2022 |
 | `Döhler HACKED! More then 800 GB sensitive data LEAKED!` | 17/10/2022 |
 | `The Hibbert Group` | 17/10/2022 |
+| `mdaemon technologies` | 23/10/2022 |
+| `rjyoung.com` | 23/10/2022 |
+| `Egyptian Electric Cooperative Association` | 23/10/2022 |
+| `KEMET` | 23/10/2022 |
 
 ## arvinclub
 
@@ -806,6 +810,13 @@ _parsing : `enabled`_
 | `SMART Mechanical Solutions` | 12/10/2022 |
 | `MERCOLA` | 12/10/2022 |
 | `CSW GmbH` | 18/10/2022 |
+| `STONE1` | 23/10/2022 |
+| `ALRO` | 23/10/2022 |
+| `J.M. Rodgers Co.` | 23/10/2022 |
+| `EDC3` | 23/10/2022 |
+| `BOOTZ` | 23/10/2022 |
+| `Diamond Mowers` | 23/10/2022 |
+| `A G Equipment Company` | 23/10/2022 |
 
 ## blackbyte
 
@@ -6793,6 +6804,14 @@ _`ecdmr42axxx.onion - fileserver`_
 | `School of Oriental African Studies` | 22/09/2022 |
 | `Samuel Ryder Academy` | 26/09/2022 |
 | `Los Angeles Unified School District` | 30/09/2022 |
+| `Maternite des Bluets` | 23/10/2022 |
+| `Mars Area School District` | 23/10/2022 |
+| `Test Valley School` | 23/10/2022 |
+| `Pate's Grammar School` | 23/10/2022 |
+| `Marist College Ashgrove` | 23/10/2022 |
+| `HALYVOURGIKI.S.A.` | 23/10/2022 |
+| `TMShipping` | 23/10/2022 |
+| `Grupo Jaime Camara` | 23/10/2022 |
 
 ## x001xs
 
@@ -6891,4 +6910,4 @@ _parsing : `disabled`_
 |---|---|
 
 
-Last update : _Sunday 23/10/2022 11.41 (UTC)_
+Last update : _Sunday 23/10/2022 13.57 (UTC)_
