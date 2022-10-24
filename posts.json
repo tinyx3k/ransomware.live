@@ -25008,5 +25008,10 @@
         "post_title": "ORDEREXPRESS.COM.MX FILES PART2 - 10.10.1.22, 10.10.1.23, 10.10.1.73, 10.10.1.170, 10.10.1",
         "group_name": "clop",
         "discovered": "2022-10-24 05:45:51.162778"
+    },
+    {
+        "post_title": "LOESCHGROUP.DE FILES PART1 - 192.168.12.20, 192.168.12.65, 192.168.12.122, ls-srv-fs02 PUB",
+        "group_name": "clop",
+        "discovered": "2022-10-24 08:27:57.043299"
     }
 ]
