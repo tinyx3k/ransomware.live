@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-27 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Monday 24/10/2022 17.58 (UTC)_
+Last update : _Monday 24/10/2022 19.44 (UTC)_
