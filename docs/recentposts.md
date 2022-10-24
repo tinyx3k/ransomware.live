@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-28 | [`bew.co.th`](https://google.com/search?q=bew.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 24/10/2022 21.40 (UTC)_
+Last update : _Monday 24/10/2022 23.16 (UTC)_
