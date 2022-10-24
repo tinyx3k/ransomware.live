@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 24/10/2022 14.14 (UTC)_
+Last update : _Monday 24/10/2022 15.55 (UTC)_
