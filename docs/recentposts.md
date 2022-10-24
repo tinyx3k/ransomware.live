@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-24 | [`Tata Power`](https://google.com/search?q=Tata+Power) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-10-24 | [`pendragonplc.com`](https://google.com/search?q=pendragonplc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-24 | [`Kenosha Unified School District`](https://google.com/search?q=Kenosha+Unified+School+District) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-24 | [`SOUTH-STAFFS-WATER.CO.UK FILES WATER\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+WATER%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-28 | [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-28 | [`bew.co.th`](https://google.com/search?q=bew.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-27 | [`Cremo`](https://google.com/search?q=Cremo) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Monday 24/10/2022 19.44 (UTC)_
+Last update : _Monday 24/10/2022 21.40 (UTC)_
