@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-24 | [`SOUTH-STAFFS-WATER.CO.UK FILES WATER\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+WATER%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-24 | [`PRICEDEX.COM FILES PART21 - 10.0.100.45 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART21+-+10.0.100.45+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-24 | [`LOESCHGROUP.DE FILES PART1 - 192.168.12.20, 192.168.12.65, 192.168.12.122, ls-srv-fs02 PUB`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART1+-+192.168.12.20%2C+192.168.12.65%2C+192.168.12.122%2C+ls-srv-fs02+PUB) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-24 | [`ORDEREXPRESS.COM.MX FILES PART2 - 10.10.1.22, 10.10.1.23, 10.10.1.73, 10.10.1.170, 10.10.1`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART2+-+10.10.1.22%2C+10.10.1.23%2C+10.10.1.73%2C+10.10.1.170%2C+10.10.1) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-27 | [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-27 | [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-27 | [`Ministerio de Relaciones Exteriores`](https://google.com/search?q=Ministerio+de+Relaciones+Exteriores) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-09-27 | [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 24/10/2022 10.01 (UTC)_
+Last update : _Monday 24/10/2022 11.55 (UTC)_
