@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-25 | [`sskb.com.au`](https://google.com/search?q=sskb.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-25 | [`Rundle Eye Care DataBase Leak`](https://google.com/search?q=Rundle+Eye+Care+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-24 | [`Tata Power`](https://google.com/search?q=Tata+Power) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-10-24 | [`pendragonplc.com`](https://google.com/search?q=pendragonplc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-28 | [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-09-28 | [`yehu.org`](https://google.com/search?q=yehu.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-28 | [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-28 | [`bew.co.th`](https://google.com/search?q=bew.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 25/10/2022 18.22 (UTC)_
+Last update : _Tuesday 25/10/2022 21.55 (UTC)_
