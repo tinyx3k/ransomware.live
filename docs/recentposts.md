@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-28 | [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
 | 2022-09-28 | [`yehu.org`](https://google.com/search?q=yehu.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 26/10/2022 13.41 (UTC)_
+Last update : _Wednesday 26/10/2022 16.01 (UTC)_
