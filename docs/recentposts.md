@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-26 | [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`Essick Air Products`](https://google.com/search?q=Essick+Air+Products) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-30 | [`Los Angeles Unified School District`](https://google.com/search?q=Los+Angeles+Unified+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-09-29 | [`Stages Pediatric Care`](https://google.com/search?q=Stages+Pediatric+Care) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-09-29 | [`samyang.com`](https://google.com/search?q=samyang.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 26/10/2022 19.55 (UTC)_
+Last update : _Wednesday 26/10/2022 23.50 (UTC)_
