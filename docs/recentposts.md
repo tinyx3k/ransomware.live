@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-28 | [`yehu.org`](https://google.com/search?q=yehu.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-28 | [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 25/10/2022 21.55 (UTC)_
+Last update : _Wednesday 26/10/2022 00.11 (UTC)_
