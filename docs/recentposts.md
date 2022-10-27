@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-27 | [`tiffinmetal.com`](https://google.com/search?q=tiffinmetal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-27 | [`Stages Pediatric Care DataBase on Sale`](https://google.com/search?q=Stages+Pediatric+Care+DataBase+on+Sale) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-26 | [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-09-30 | [`aidsalabama.org`](https://google.com/search?q=aidsalabama.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-30 | [`toyotaalabang.com.ph`](https://google.com/search?q=toyotaalabang.com.ph) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-09-30 | [`Los Angeles Unified School District`](https://google.com/search?q=Los+Angeles+Unified+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Thursday 27/10/2022 06.21 (UTC)_
+Last update : _Thursday 27/10/2022 09.43 (UTC)_
