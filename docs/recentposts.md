@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-30 | [`Mansfield Independent School District (MISD)`](https://google.com/search?q=Mansfield+Independent+School+District+%28MISD%29) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-09-30 | [`aidsalabama.org`](https://google.com/search?q=aidsalabama.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 27/10/2022 13.35 (UTC)_
+Last update : _Thursday 27/10/2022 15.47 (UTC)_
