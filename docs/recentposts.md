@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-09-30 | [`Los Angeles Unified School District`](https://google.com/search?q=Los+Angeles+Unified+School+District) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-09-29 | [`Associated Bag`](https://google.com/search?q=Associated+Bag) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Thursday 27/10/2022 03.16 (UTC)_
+Last update : _Thursday 27/10/2022 06.21 (UTC)_
