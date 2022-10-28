@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-28 | [`unipiloto.edu.co`](https://google.com/search?q=unipiloto.edu.co) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-27 | [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-27 | [`steelesolutions.com`](https://google.com/search?q=steelesolutions.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-01 | [`seaviewresortkhaolak.com`](https://google.com/search?q=seaviewresortkhaolak.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-01 | [`kimed.pl`](https://google.com/search?q=kimed.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-01 | [`hriindia.com`](https://google.com/search?q=hriindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-09-30 | [`Karl Gemünden GmbH & Co. KG`](https://google.com/search?q=Karl+Gem%C3%BCnden+GmbH+%26+Co.+KG) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Thursday 27/10/2022 21.59 (UTC)_
+Last update : _Friday 28/10/2022 03.04 (UTC)_
