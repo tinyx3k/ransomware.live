@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-28 | [`ORDEREXPRESS.COM.MX FILES PART3 - customerDataBase PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART3+-+customerDataBase+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-28 | [`MARCELSOLUTION.COM FILES PART4 - SYMASOFT31-39 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART4+-+SYMASOFT31-39+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-28 | [`SPINNEYS.COM FILES PART14 - 192.168.254.2, SHYJU--LT.itretgrp.net PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART14+-+192.168.254.2%2C+SHYJU--LT.itretgrp.net+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-01 | [`Swiss American`](https://google.com/search?q=Swiss+American) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-01 | [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-01 | [`MultiCare Home Health`](https://google.com/search?q=MultiCare+Home+Health) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-01 | [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 
-Last update : _Friday 28/10/2022 17.13 (UTC)_
+Last update : _Friday 28/10/2022 19.26 (UTC)_
