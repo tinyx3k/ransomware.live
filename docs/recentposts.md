@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-28 | [`SPINNEYS.COM FILES PART14 - 192.168.254.2, SHYJU--LT.itretgrp.net PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART14+-+192.168.254.2%2C+SHYJU--LT.itretgrp.net+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-28 | [`Mdaemon Technologies`](https://google.com/search?q=Mdaemon+Technologies) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-28 | [`unipiloto.edu.co`](https://google.com/search?q=unipiloto.edu.co) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-01 | [`MultiCare Home Health`](https://google.com/search?q=MultiCare+Home+Health) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-01 | [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | [ransomexx](https://ransomware.live/#/profiles?id=ransomexx) |
 | 2022-10-01 | [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | [donutleaks](https://ransomware.live/#/profiles?id=donutleaks) |
-| 2022-10-01 | [`seaviewresortkhaolak.com`](https://google.com/search?q=seaviewresortkhaolak.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 28/10/2022 13.48 (UTC)_
+Last update : _Friday 28/10/2022 15.23 (UTC)_
