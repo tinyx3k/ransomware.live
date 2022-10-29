@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-29 | [`Asahi Group`](https://google.com/search?q=Asahi+Group) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-29 | [`fvsra.org`](https://google.com/search?q=fvsra.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-05 | [`derach`](https://google.com/search?q=derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Seanic Ocean Systems`](https://google.com/search?q=Seanic+Ocean+Systems) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Bartelt`](https://google.com/search?q=Bartelt) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-04 | [`Rick Shipman Construction`](https://google.com/search?q=Rick+Shipman+Construction) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Saturday 29/10/2022 20.58 (UTC)_
+Last update : _Saturday 29/10/2022 23.02 (UTC)_
