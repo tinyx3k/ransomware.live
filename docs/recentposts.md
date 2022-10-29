@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-29 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-29 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-04 | [`Rick Shipman Construction`](https://google.com/search?q=Rick+Shipman+Construction) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-04 | [`Gate Precast`](https://google.com/search?q=Gate+Precast) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-03 | [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-10-03 | [`Malayan Flour Mills Bhd. Data Leak`](https://google.com/search?q=Malayan+Flour+Mills+Bhd.+Data+Leak) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Saturday 29/10/2022 09.14 (UTC)_
+Last update : _Saturday 29/10/2022 12.14 (UTC)_
