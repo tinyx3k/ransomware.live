@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-04 | [`Bartelt`](https://google.com/search?q=Bartelt) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Rick Shipman Construction`](https://google.com/search?q=Rick+Shipman+Construction) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Saturday 29/10/2022 17.12 (UTC)_
+Last update : _Saturday 29/10/2022 18.58 (UTC)_
