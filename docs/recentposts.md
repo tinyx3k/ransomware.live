@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-04 | [`Gate Precast`](https://google.com/search?q=Gate+Precast) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-03 | [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Saturday 29/10/2022 11.32 (UTC)_
+Last update : _Saturday 29/10/2022 13.35 (UTC)_
