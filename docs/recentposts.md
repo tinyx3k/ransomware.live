@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-05 | [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`Berg Kaprow Lewis`](https://google.com/search?q=Berg+Kaprow+Lewis) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Sunday 30/10/2022 07.07 (UTC)_
+Last update : _Sunday 30/10/2022 08.53 (UTC)_
