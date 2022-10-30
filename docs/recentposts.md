@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-30 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-29 | [`Asahi Group`](https://google.com/search?q=Asahi+Group) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-29 | [`fvsra.org`](https://google.com/search?q=fvsra.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-05 | [` Company, LLC`](https://google.com/search?q=+Company%2C+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`derach`](https://google.com/search?q=derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-04 | [`Seanic Ocean Systems`](https://google.com/search?q=Seanic+Ocean+Systems) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-04 | [`Bartelt`](https://google.com/search?q=Bartelt) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Saturday 29/10/2022 23.02 (UTC)_
+Last update : _Sunday 30/10/2022 02.17 (UTC)_
