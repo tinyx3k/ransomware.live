@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-30 | [`saurer.com`](https://google.com/search?q=saurer.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`lincare.com`](https://google.com/search?q=lincare.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-05 | [`Sunflower Farms Distributors, Inc`](https://google.com/search?q=Sunflower+Farms+Distributors%2C+Inc) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-10-05 | [`Berg Kaprow Lewis`](https://google.com/search?q=Berg+Kaprow+Lewis) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-05 | [` Company, LLC`](https://google.com/search?q=+Company%2C+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Sunday 30/10/2022 05.37 (UTC)_
+Last update : _Sunday 30/10/2022 07.07 (UTC)_
