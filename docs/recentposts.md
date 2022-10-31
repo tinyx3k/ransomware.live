@@ -4,6 +4,16 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-31 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`will-b.jp`](https://google.com/search?q=will-b.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`sociedadbilbaina.com`](https://google.com/search?q=sociedadbilbaina.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`seamlessglobalsolutions.com`](https://google.com/search?q=seamlessglobalsolutions.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`santimuni.com`](https://google.com/search?q=santimuni.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`macrotel.com.ar`](https://google.com/search?q=macrotel.com.ar) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`hoosierco.com`](https://google.com/search?q=hoosierco.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-10-31 | [`gruposanford.com`](https://google.com/search?q=gruposanford.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -194,15 +204,5 @@ _last `200` posts_
 | 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-06 | [`The UNITED GRINDING Group`](https://google.com/search?q=The+UNITED+GRINDING+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-06 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-06 | [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-06 | [`Rundle Eye Care`](https://google.com/search?q=Rundle+Eye+Care) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-06 | [`MultiCare pt.2`](https://google.com/search?q=MultiCare+pt.2) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-06 | [`Dorsey metrology`](https://google.com/search?q=Dorsey+metrology) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-06 | [`BMW of Sherman Oaks`](https://google.com/search?q=BMW+of+Sherman+Oaks) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-06 | [`McGann Facial Design`](https://google.com/search?q=McGann+Facial+Design) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-06 | [`Mayfield School`](https://google.com/search?q=Mayfield+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-10-06 | [`apunipima.org.au`](https://google.com/search?q=apunipima.org.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-06 | [`Willemen Group`](https://google.com/search?q=Willemen+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-05 | [`OPPLE Lighting`](https://google.com/search?q=OPPLE+Lighting) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Monday 31/10/2022 06.53 (UTC)_
+Last update : _Monday 31/10/2022 09.33 (UTC)_
