@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Monday 31/10/2022 19.02 (UTC)_
+Last update : _Monday 31/10/2022 20.56 (UTC)_
