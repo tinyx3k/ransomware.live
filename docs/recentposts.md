@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`will-b.jp`](https://google.com/search?q=will-b.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-06 | [`The UNITED GRINDING Group`](https://google.com/search?q=The+UNITED+GRINDING+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-06 | [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Monday 31/10/2022 09.33 (UTC)_
+Last update : _Monday 31/10/2022 11.02 (UTC)_
