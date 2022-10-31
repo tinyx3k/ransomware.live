@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-31 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`cacula.com`](https://google.com/search?q=cacula.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`bellettiascensori.it`](https://google.com/search?q=bellettiascensori.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-06 | [`Willemen Group`](https://google.com/search?q=Willemen+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-05 | [`OPPLE Lighting`](https://google.com/search?q=OPPLE+Lighting) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-05 | [`Empower Insurance`](https://google.com/search?q=Empower+Insurance) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-10-05 | [`Unicity`](https://google.com/search?q=Unicity) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Monday 31/10/2022 04.26 (UTC)_
+Last update : _Monday 31/10/2022 05.24 (UTC)_
