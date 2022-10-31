@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-31 | [`cacula.com`](https://google.com/search?q=cacula.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`bellettiascensori.it`](https://google.com/search?q=bellettiascensori.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`aaanchorbolt.com`](https://google.com/search?q=aaanchorbolt.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`HENSOLDT France`](https://google.com/search?q=HENSOLDT+France) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-05 | [`Empower Insurance`](https://google.com/search?q=Empower+Insurance) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-05 | [`Unicity`](https://google.com/search?q=Unicity) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-10-05 | [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-10-05 | [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Sunday 30/10/2022 22.53 (UTC)_
+Last update : _Monday 31/10/2022 02.20 (UTC)_
