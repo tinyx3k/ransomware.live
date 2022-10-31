@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-10-31 | [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-07 | [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-07 | [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-07 | [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Monday 31/10/2022 20.56 (UTC)_
+Last update : _Monday 31/10/2022 22.50 (UTC)_
