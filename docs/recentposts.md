@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-08 | [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-07 | [`Electricity company`](https://google.com/search?q=Electricity+company) | [everest](https://ransomware.live/#/profiles?id=everest) |
 
-Last update : _Tuesday 01/11/2022 17.07 (UTC)_
+Last update : _Tuesday 01/11/2022 17.00 (UTC)_
