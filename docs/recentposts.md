@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-01 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-08 | [`scinopharm.com`](https://google.com/search?q=scinopharm.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`robertbernard.com`](https://google.com/search?q=robertbernard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`contempocard.com`](https://google.com/search?q=contempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-10-08 | [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 
-Last update : _Tuesday 01/11/2022 21.05 (UTC)_
+Last update : _Tuesday 01/11/2022 22.54 (UTC)_
