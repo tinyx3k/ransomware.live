@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-07 | [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Tuesday 01/11/2022 02.23 (UTC)_
+Last update : _Tuesday 01/11/2022 04.48 (UTC)_
