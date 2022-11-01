@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-01 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
+| 2022-11-01 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
+| 2022-11-01 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
+| 2022-11-01 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
+| 2022-11-01 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-10-31 | [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -198,11 +204,5 @@ _last `200` posts_
 | 2022-10-08 | [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-07 | [`Electricity company`](https://google.com/search?q=Electricity+company) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-07 | [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-07 | [`Midwest Petroleum`](https://google.com/search?q=Midwest+Petroleum) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-07 | [`Simex Defence Inc`](https://google.com/search?q=Simex+Defence+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-07 | [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-07 | [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-07 | [`Knoll`](https://google.com/search?q=Knoll) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Tuesday 01/11/2022 14.55 (UTC)_
+Last update : _Tuesday 01/11/2022 17.07 (UTC)_
