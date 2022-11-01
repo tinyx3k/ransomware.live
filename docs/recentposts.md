@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-01 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
 | 2022-11-01 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
 | 2022-11-01 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-08 | [`contempocard.com`](https://google.com/search?q=contempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-10-07 | [`Electricity company`](https://google.com/search?q=Electricity+company) | [everest](https://ransomware.live/#/profiles?id=everest) |
 
-Last update : _Tuesday 01/11/2022 17.00 (UTC)_
+Last update : _Tuesday 01/11/2022 19.01 (UTC)_
