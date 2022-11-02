@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-02 | [`SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN`](https://google.com/search?q=SUBCARN+WAS+HACKED+AND+OVER+200+GB+OF+SENSETIVE+DATA+WAS+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED`](https://google.com/search?q=KINETIC.PH+WAS+HACKED.+200+GB+ENGINEERING+AND+CONFIDENTIAL+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`SICOTEC WAS HACKED. 200GB SENSETIVE DATA LEAKED`](https://google.com/search?q=SICOTEC+WAS+HACKED.+200GB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-08 | [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-08 | [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-08 | [`Notos Com`](https://google.com/search?q=Notos+Com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-08 | [`dialog.com.au`](https://google.com/search?q=dialog.com.au) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 
-Last update : _Wednesday 02/11/2022 05.34 (UTC)_
+Last update : _Wednesday 02/11/2022 06.58 (UTC)_
