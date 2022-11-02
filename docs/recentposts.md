@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-02 | [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-08 | [`dialog.com.au`](https://google.com/search?q=dialog.com.au) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`scinopharm.com`](https://google.com/search?q=scinopharm.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-10-08 | [`robertbernard.com`](https://google.com/search?q=robertbernard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-10-08 | [`contempocard.com`](https://google.com/search?q=contempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 
-Last update : _Tuesday 01/11/2022 22.54 (UTC)_
+Last update : _Wednesday 02/11/2022 02.02 (UTC)_
