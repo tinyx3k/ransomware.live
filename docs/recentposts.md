@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-02 | [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | [lv](https://ransomware.live/#/profiles?id=lv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-09 | [`cedemo.com`](https://google.com/search?q=cedemo.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`alliedusa.com`](https://google.com/search?q=alliedusa.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-09 | [`buydps.com`](https://google.com/search?q=buydps.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-09 | [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Wednesday 02/11/2022 13.17 (UTC)_
+Last update : _Wednesday 02/11/2022 15.27 (UTC)_
