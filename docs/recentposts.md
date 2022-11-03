@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-03 | [`continental.com`](https://google.com/search?q=continental.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-03 | [`tekniplex.be`](https://google.com/search?q=tekniplex.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-03 | [`CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED`](https://google.com/search?q=CONSUMAX.COM.AR+-+WAS+HACKED+AND+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-03 | [`Bitron`](https://google.com/search?q=Bitron) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-10 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-10 | [`polycube.co.th`](https://google.com/search?q=polycube.co.th) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`jtchapman.com`](https://google.com/search?q=jtchapman.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-10 | [`TANG CAPITAL LEAKED`](https://google.com/search?q=TANG+CAPITAL+LEAKED) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Thursday 03/11/2022 15.00 (UTC)_
+Last update : _Thursday 03/11/2022 17.11 (UTC)_
