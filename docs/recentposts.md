@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-03 | [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-02 | [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-02 | [`Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=Saint+Jean+Industries++-+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-10 | [`Electricity company pt.2`](https://google.com/search?q=Electricity+company+pt.2) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`RS.GOV.BR/Government Brazil`](https://google.com/search?q=RS.GOV.BR%2FGovernment+Brazil) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-09 | [`securityalliancegroup.com`](https://google.com/search?q=securityalliancegroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 02/11/2022 22.59 (UTC)_
+Last update : _Thursday 03/11/2022 02.01 (UTC)_
