@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-03 | [`CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED`](https://google.com/search?q=CONSUMAX.COM.AR+-+WAS+HACKED+AND+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-03 | [`Bitron`](https://google.com/search?q=Bitron) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-03 | [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-02 | [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-10 | [`jtchapman.com`](https://google.com/search?q=jtchapman.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-10 | [`TANG CAPITAL LEAKED`](https://google.com/search?q=TANG+CAPITAL+LEAKED) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-10 | [`Electricity company pt.2`](https://google.com/search?q=Electricity+company+pt.2) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-10 | [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 03/11/2022 04.06 (UTC)_
+Last update : _Thursday 03/11/2022 05.17 (UTC)_
