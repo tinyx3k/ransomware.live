@@ -69,12 +69,13 @@ def appender(post_title, group_name):
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
         # if socials are set try post
         if os.environ.get('DISCORD_WEBHOOK') is not None:
-            todiscord(newpost['post_title'], newpost['group_name'])
+            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK'))
+        if os.environ.get('DISCORD_WEBHOOK_2') is not None:
+            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
         if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
             totwitter(newpost['post_title'], newpost['group_name'])
-        if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
-            stdlog('Post to Ms-Teams')
-            toteams(newpost['post_title'], newpost['group_name'])
+        #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
+        #    toteams(newpost['post_title'], newpost['group_name'])
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run
@@ -308,8 +309,9 @@ def ransomexx():
 def cuba():
     stdlog('parser: ' + 'cuba')
     # grep '<p>' source/cuba-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
+    # grep '<a href="http://' source/cuba-cuba4i* | cut -d '/' -f 4 | sort -u
     parser = '''
-    grep '<a href="http://' source/cuba-cuba4i* | cut -d '/' -f 4 | sort -u
+    grep --no-filename '<a href="/company/' source/cuba-*.html | cut -d '/' -f 3 | cut -d '"' -f 1 | sort --uniq | grep -v company
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -467,7 +469,7 @@ def quantum():
 def atomsilo():
     stdlog('parser: ' + 'atomsilo')
     parser = '''
-    cat source/atomsilo-*.html | grep "h4" | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep "h4" source/atomsilo-*.html | cut -d '>' -f 3 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -523,7 +525,7 @@ def snatch():
 def marketo():
     stdlog('parser: ' + 'marketo')
     parser = '''
-    cat source/marketo-*.html | grep '<a href="/lot' | sed -e 's/^ *//g' -e '/Show more/d' -e 's/<strong>//g' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^$/d'
+    grep '<a href="/lot' source/marketo-*.html | sed -e 's/^ *//g' -e '/Show more/d' -e 's/<strong>//g' | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^$/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -693,7 +695,7 @@ def ransomhouse():
 def cheers():
     stdlog('parser: ' + 'cheers')
     parser = '''
-    cat  source/cheers-*.html | grep '<a href="' | grep -v title | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Cheers/d' -e '/Home/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<a href="' source/cheers-*.html | grep -v title | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/Cheers/d' -e '/Home/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -788,7 +790,7 @@ def donutleaks():
         errlog('donutleaks: ' + 'parsing fail')
     for post in posts:
         appender(post, 'donutleaks')
-
+        
 def sparta():
     stdlog('parser: ' + 'sparta')
     parser = '''
@@ -799,17 +801,6 @@ def sparta():
         errlog('sparta: ' + 'parsing fail')
     for post in posts:
         appender(post, 'sparta')
-
-#def noname():
-#    stdlog('parser: ' + 'noname')
-#    parser = '''
-#    grep '<h2 class="entry-title' source/noname-*.html | cut -d '>' -f 3 |  cut -d '<' -f 1 |  sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'   
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('noname: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'noname')
 
 def qilin():
     stdlog('parser: ' + 'qilin')
@@ -832,3 +823,25 @@ def shaoleaks():
         errlog('shaoleaks: ' + 'parsing fail')
     for post in posts:
         appender(post, 'shaoleaks')
+
+def mallox():
+    stdlog('parser: ' + 'mallox')
+    parser = '''
+    grep 'class="card-title"' source/mallox-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('mallox: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'mallox')
+    
+def royal():
+    stdlog('parser: ' + 'royal')
+    parser = '''
+    jq -r '.data[].url' source/royal-royal4ezp7xr*.html || true
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('royal: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'royal')
