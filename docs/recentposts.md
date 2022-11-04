@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-11 | [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-10 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Friday 04/11/2022 07.04 (UTC)_
+Last update : _Friday 04/11/2022 09.01 (UTC)_
