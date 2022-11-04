@@ -2095,6 +2095,25 @@
         ]
     },
     {
+        "name": "mallox",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": true,
+        "meta": "wtyafjyhwqrg[...].onion/post?get_listBlog",
+        "locations": [
+            {
+                "fqdn": "wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
+                "title": "Mallox | Blog",
+                "version": 3,
+                "slug": "http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion",
+                "available": true,
+                "updated": "2022-11-04 09:51:13.469134",
+                "lastscrape": "2022-11-04 09:51:13.469106"
+            }
+        ],
+        "profile": []
+    },
+    {
         "name": "marketo",
         "captcha": false,
         "parser": true,
@@ -3064,7 +3083,7 @@
     {
         "name": "royal",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -3076,6 +3095,15 @@
                 "available": true,
                 "updated": "2022-11-04 15:05:57.824340",
                 "lastscrape": "2022-11-04 15:05:57.824326"
+            },
+            {
+                "fqdn": "royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion/api/posts/list",
+                "available": true,
+                "updated": "2022-11-04 09:50:47.842730",
+                "lastscrape": "2022-11-04 09:50:47.842708"
             }
         ],
         "profile": []
