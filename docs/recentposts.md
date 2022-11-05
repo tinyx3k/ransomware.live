@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-05 | [`MITCON Consultancy & Engineering Services Limited`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services+Limited) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-05 | [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-05 | [`Broto Legal`](https://google.com/search?q=Broto+Legal) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-23 | [`HALYVOURGIKI.S.A.`](https://google.com/search?q=HALYVOURGIKI.S.A.) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-23 | [`Marist College Ashgrove`](https://google.com/search?q=Marist+College+Ashgrove) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-23 | [`Pate's Grammar School`](https://google.com/search?q=Pate%27s+Grammar+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-10-23 | [`Test Valley School`](https://google.com/search?q=Test+Valley+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Saturday 05/11/2022 11.15 (UTC)_
+Last update : _Saturday 05/11/2022 13.33 (UTC)_
