@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-23 | [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-23 | [`TMShipping`](https://google.com/search?q=TMShipping) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Saturday 05/11/2022 17.09 (UTC)_
+Last update : _Saturday 05/11/2022 19.02 (UTC)_
