@@ -682,6 +682,7 @@ _parsing : `enabled`_
 | ` Meisenkothen` | 06/10/2022 |
 | `Veritas Solicitors` | 06/10/2022 |
 | `Läderach` | 01/11/2022 |
+| `Läderach` | 04/11/2022 |
 
 ## blackbasta
 
@@ -2651,6 +2652,43 @@ _parsing : `enabled`_
 | `Murphyfamilyventures` | 04/11/2022 |
 | `Ville-chaville` | 04/11/2022 |
 | `bfw` | 04/11/2022 |
+| `Dialogsas` | 04/11/2022 |
+| `Ginspectionservices` | 04/11/2022 |
+| `Murphyfamilyventures` | 04/11/2022 |
+| `Skupstina` | 04/11/2022 |
+| `Ville-chaville` | 04/11/2022 |
+| `afts` | 04/11/2022 |
+| `axley` | 04/11/2022 |
+| `bcintlgroup.com` | 04/11/2022 |
+| `berding-weil` | 04/11/2022 |
+| `bfw` | 04/11/2022 |
+| `blackhawk` | 04/11/2022 |
+| `creditriskmonitor` | 04/11/2022 |
+| `datamatics` | 04/11/2022 |
+| `e.h._wachs_pipe_cutters` | 04/11/2022 |
+| `first_coast_logistics_services` | 04/11/2022 |
+| `forefront_dermatology` | 04/11/2022 |
+| `gascaribe` | 04/11/2022 |
+| `get-integrated` | 04/11/2022 |
+| `innovairre` | 04/11/2022 |
+| `landofrost` | 04/11/2022 |
+| `learning_resources` | 04/11/2022 |
+| `linkmfg` | 04/11/2022 |
+| `lycra` | 04/11/2022 |
+| `megaforce` | 04/11/2022 |
+| `meriplex` | 04/11/2022 |
+| `ncmutuallife2` | 04/11/2022 |
+| `nwdusa` | 04/11/2022 |
+| `ohagin` | 04/11/2022 |
+| `otrcapital` | 04/11/2022 |
+| `quercus` | 04/11/2022 |
+| `schultheis-ins` | 04/11/2022 |
+| `site-technology_` | 04/11/2022 |
+| `stm.com.tw` | 04/11/2022 |
+| `technicote` | 04/11/2022 |
+| `the_rose_executive_team` | 04/11/2022 |
+| `trant.co.uk` | 04/11/2022 |
+| `usairports` | 04/11/2022 |
 
 ## dagonlocker
 
@@ -5101,6 +5139,10 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 | `Aerotech Precision Manufacturing` | 04/11/2022 |
 | `API MDC Technical Research Centre Sdn Bhd` | 04/11/2022 |
 | `Canny Elevator Co Ltd` | 04/11/2022 |
+| `CLUB DE TENIS LA PAZ` | 04/11/2022 |
+| `Aerotech Precision Manufacturing` | 04/11/2022 |
+| `API MDC Technical Research Centre Sdn Bhd` | 04/11/2022 |
+| `Canny Elevator Co Ltd` | 04/11/2022 |
 
 ## marketo
 
@@ -6472,6 +6514,26 @@ _parsing : `enabled`_
 | `https://happysapiensdental.com` | 04/11/2022 |
 | `https://www.prioritypower.net` | 04/11/2022 |
 | `https://nmhsi.org` | 04/11/2022 |
+| `https://quantumplastics.com` | 04/11/2022 |
+| `https://fishmans.ca` | 04/11/2022 |
+| `http://www.cymax.com` | 04/11/2022 |
+| `http://www.pressco.com` | 04/11/2022 |
+| `http://www.veroni.it` | 04/11/2022 |
+| `http://www.pandafunds.com` | 04/11/2022 |
+| `https://www.whitneyoilco.com` | 04/11/2022 |
+| `http://www.royalimaging.com` | 04/11/2022 |
+| `http://www.wiseyes.net` | 04/11/2022 |
+| `https://www.infocision.com` | 04/11/2022 |
+| `https://www.mmemed.com` | 04/11/2022 |
+| `https://orthoexperts.com/` | 04/11/2022 |
+| `http://www.power-soft.com` | 04/11/2022 |
+| `https://www.sunwell.com` | 04/11/2022 |
+| `https://millermilling.com` | 04/11/2022 |
+| `https://www.benbrooklibrary.org` | 04/11/2022 |
+| `https://www.caminorealkitchens.com` | 04/11/2022 |
+| `https://happysapiensdental.com` | 04/11/2022 |
+| `https://www.prioritypower.net` | 04/11/2022 |
+| `https://nmhsi.org` | 04/11/2022 |
 
 ## rransom
 
@@ -7066,4 +7128,4 @@ _parsing : `disabled`_
 |---|---|
 
 
-Last update : _Saturday 05/11/2022 08.59 (UTC)_
+Last update : _Saturday 05/11/2022 11.04 (UTC)_
