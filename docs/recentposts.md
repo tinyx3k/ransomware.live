@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-05 | [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
+| 2022-11-05 | [`Broto Legal`](https://google.com/search?q=Broto+Legal) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-10-17 | [`Döhler HACKED! More then 800 GB sensitive data LEAKED!`](https://google.com/search?q=D%C3%B6hler+HACKED%21+More+then+800+GB+sensitive+data+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-17 | [`Jam Filled Entertainment`](https://google.com/search?q=Jam+Filled+Entertainment) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-17 | [`RecordTV`](https://google.com/search?q=RecordTV) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-16 | [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-16 | [`oomiya.co.jp`](https://google.com/search?q=oomiya.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 05/11/2022 07.00 (UTC)_
+Last update : _Saturday 05/11/2022 08.59 (UTC)_
