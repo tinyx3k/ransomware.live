@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-23 | [`STONE1`](https://google.com/search?q=STONE1) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Sunday 06/11/2022 17.17 (UTC)_
+Last update : _Sunday 06/11/2022 19.32 (UTC)_
