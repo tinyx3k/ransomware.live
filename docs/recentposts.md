@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-06 | [`optiprint.ca`](https://google.com/search?q=optiprint.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-06 | [`CR&amp;R Environmental Services`](https://google.com/search?q=CR%26amp%3BR+Environmental+Services) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-06 | [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-05 | [`everstrong.com`](https://google.com/search?q=everstrong.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-05 | [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-10-23 | [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`EDC3`](https://google.com/search?q=EDC3) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`J.M. Rodgers Co.`](https://google.com/search?q=J.M.+Rodgers+Co.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`ALRO`](https://google.com/search?q=ALRO) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`STONE1`](https://google.com/search?q=STONE1) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Sunday 06/11/2022 19.32 (UTC)_
+Last update : _Sunday 06/11/2022 21.14 (UTC)_
