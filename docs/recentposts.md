@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`METRO`](https://google.com/search?q=METRO) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-11-07 | [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-07 | [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`ALTEK`](https://google.com/search?q=ALTEK) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
@@ -201,8 +204,5 @@ _last `200` posts_
 | 2022-10-25 | [`sskb.com.au`](https://google.com/search?q=sskb.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-25 | [`Rundle Eye Care DataBase Leak`](https://google.com/search?q=Rundle+Eye+Care+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-24 | [`Tata Power`](https://google.com/search?q=Tata+Power) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-10-24 | [`pendragonplc.com`](https://google.com/search?q=pendragonplc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-24 | [`Kenosha Unified School District`](https://google.com/search?q=Kenosha+Unified+School+District) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-10-24 | [`SOUTH-STAFFS-WATER.CO.UK FILES WATER\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+WATER%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Monday 07/11/2022 21.13 (UTC)_
+Last update : _Monday 07/11/2022 23.08 (UTC)_
