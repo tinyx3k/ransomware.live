@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`http://ivacorm.com`](https://google.com/search?q=http%3A%2F%2Fivacorm.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-11-07 | [`Wilken Software Group`](https://google.com/search?q=Wilken+Software+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-07 | [`richard-wolf.com`](https://google.com/search?q=richard-wolf.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomware.live/#/profiles?id=revil) |
@@ -201,8 +204,5 @@ _last `200` posts_
 | 2022-10-24 | [`PRICEDEX.COM FILES PART21 - 10.0.100.45 PUBLISHED`](https://google.com/search?q=PRICEDEX.COM+FILES+PART21+-+10.0.100.45+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-24 | [`LOESCHGROUP.DE FILES PART1 - 192.168.12.20, 192.168.12.65, 192.168.12.122, ls-srv-fs02 PUB`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART1+-+192.168.12.20%2C+192.168.12.65%2C+192.168.12.122%2C+ls-srv-fs02+PUB) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-24 | [`ORDEREXPRESS.COM.MX FILES PART2 - 10.10.1.22, 10.10.1.23, 10.10.1.73, 10.10.1.170, 10.10.1`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART2+-+10.10.1.22%2C+10.10.1.23%2C+10.10.1.73%2C+10.10.1.170%2C+10.10.1) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-24 | [`MARCELSOLUTION.COM FILES PART3 - SYMASOFT10,11,12,15,17,19,21,22,23 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART3+-+SYMASOFT10%2C11%2C12%2C15%2C17%2C19%2C21%2C22%2C23+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-23 | [`SPINNEYS.COM FILES PART13 - 192.6.14.205 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART13+-+192.6.14.205+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-23 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 07/11/2022 17.28 (UTC)_
+Last update : _Monday 07/11/2022 19.17 (UTC)_
