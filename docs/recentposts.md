@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-11-07 | [`richard-wolf.com`](https://google.com/search?q=richard-wolf.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-10-24 | [`MARCELSOLUTION.COM FILES PART3 - SYMASOFT10,11,12,15,17,19,21,22,23 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART3+-+SYMASOFT10%2C11%2C12%2C15%2C17%2C19%2C21%2C22%2C23+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-23 | [`SPINNEYS.COM FILES PART13 - 192.6.14.205 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART13+-+192.6.14.205+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-23 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 07/11/2022 13.27 (UTC)_
+Last update : _Monday 07/11/2022 15.10 (UTC)_
