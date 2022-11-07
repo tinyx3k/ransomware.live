@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-06 | [`optiprint.ca`](https://google.com/search?q=optiprint.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-23 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-23 | [`EDC3`](https://google.com/search?q=EDC3) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 07/11/2022 11.20 (UTC)_
+Last update : _Monday 07/11/2022 13.27 (UTC)_
