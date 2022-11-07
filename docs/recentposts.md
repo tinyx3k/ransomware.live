@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-23 | [`BOOTZ`](https://google.com/search?q=BOOTZ) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-23 | [`EDC3`](https://google.com/search?q=EDC3) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 07/11/2022 05.28 (UTC)_
+Last update : _Monday 07/11/2022 07.29 (UTC)_
