@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-23 | [`SPINNEYS.COM FILES PART13 - 192.6.14.205 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART13+-+192.6.14.205+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-23 | [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 07/11/2022 15.10 (UTC)_
+Last update : _Monday 07/11/2022 17.28 (UTC)_
