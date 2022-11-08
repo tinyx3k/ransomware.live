@@ -2,22 +2,22 @@
 ## 📈 Ransomware.live Statistics
 _november 8th, 2022_
 
-currently tracking `127` groups across `230` relays & mirrors - _`92` currently online_ 📡
+currently tracking `127` groups across `230` relays & mirrors - _`98` currently online_ 📡
 
 Check the recent ransomware posts [here](https://www.ransomware.live/#/recentposts)
 
 
-⏲ there have been `7` posts within the `last 24 hours`
+⏲ there have been `6` posts within the `last 24 hours`
 
-🕓 there have been `151` posts within the `month of november`
+🕓 there have been `153` posts within the `month of november`
 
-📅 there have been `752` posts within the `last 90 days`
+📅 there have been `754` posts within the `last 90 days`
 
-🏚 there have been `2926` posts since the `1st January 2022`
+🏚 there have been `2928` posts since the `1st January 2022`
 
 🚀 there have been `2252` posts `last year`
 
-🦕 there have been `5212` posts `since the dawn of ransomwatch` 🐣
+🦕 there have been `5214` posts `since the dawn of ransomwatch` 🐣
 
 there are `61` custom parsers indexing posts
 
@@ -27,5 +27,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Tuesday 08/11/2022 21.28 (UTC)_
+Last update : _Tuesday 08/11/2022 23.16 (UTC)_
 

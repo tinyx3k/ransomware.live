@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-11-08 | [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-08 | [`Motional`](https://google.com/search?q=Motional) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-08 | [`APM Terminals`](https://google.com/search?q=APM+Terminals) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-08 | [`thaiho.com`](https://google.com/search?q=thaiho.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-10-27 | [`tiffinmetal.com`](https://google.com/search?q=tiffinmetal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-27 | [`Stages Pediatric Care DataBase on Sale`](https://google.com/search?q=Stages+Pediatric+Care+DataBase+on+Sale) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-26 | [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Tuesday 08/11/2022 21.28 (UTC)_
+Last update : _Tuesday 08/11/2022 23.16 (UTC)_
