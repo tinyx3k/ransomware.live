@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-08 | [`thaiho.com`](https://google.com/search?q=thaiho.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-08 | [`crtl.com`](https://google.com/search?q=crtl.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-07 | [`METRO`](https://google.com/search?q=METRO) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`Essick Air Products`](https://google.com/search?q=Essick+Air+Products) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-25 | [`sskb.com.au`](https://google.com/search?q=sskb.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-25 | [`Rundle Eye Care DataBase Leak`](https://google.com/search?q=Rundle+Eye+Care+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-24 | [`Tata Power`](https://google.com/search?q=Tata+Power) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Tuesday 08/11/2022 09.21 (UTC)_
+Last update : _Tuesday 08/11/2022 13.28 (UTC)_
