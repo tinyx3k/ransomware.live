@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-26 | [`Essick Air Products`](https://google.com/search?q=Essick+Air+Products) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-25 | [`sskb.com.au`](https://google.com/search?q=sskb.com.au) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Tuesday 08/11/2022 13.28 (UTC)_
+Last update : _Tuesday 08/11/2022 15.16 (UTC)_
