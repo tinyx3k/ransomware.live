@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-25 | [`Rundle Eye Care DataBase Leak`](https://google.com/search?q=Rundle+Eye+Care+DataBase+Leak) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-10-24 | [`Tata Power`](https://google.com/search?q=Tata+Power) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Monday 07/11/2022 23.08 (UTC)_
+Last update : _Tuesday 08/11/2022 02.03 (UTC)_
