@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-08 | [`Motional`](https://google.com/search?q=Motional) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-08 | [`APM Terminals`](https://google.com/search?q=APM+Terminals) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-08 | [`thaiho.com`](https://google.com/search?q=thaiho.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-08 | [`crtl.com`](https://google.com/search?q=crtl.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-26 | [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-10-26 | [`Essick Air Products`](https://google.com/search?q=Essick+Air+Products) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Tuesday 08/11/2022 17.18 (UTC)_
+Last update : _Tuesday 08/11/2022 19.25 (UTC)_
