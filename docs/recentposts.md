@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-26 | [`CCLint`](https://google.com/search?q=CCLint) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-26 | [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Tuesday 08/11/2022 19.25 (UTC)_
+Last update : _Tuesday 08/11/2022 21.28 (UTC)_
