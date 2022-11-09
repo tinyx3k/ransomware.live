@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-27 | [`steelesolutions.com`](https://google.com/search?q=steelesolutions.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-27 | [`Miracapo pizza company`](https://google.com/search?q=Miracapo+pizza+company) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Wednesday 09/11/2022 04.33 (UTC)_
+Last update : _Wednesday 09/11/2022 05.49 (UTC)_
