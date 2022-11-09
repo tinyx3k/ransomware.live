@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-27 | [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Wednesday 09/11/2022 15.34 (UTC)_
+Last update : _Wednesday 09/11/2022 17.30 (UTC)_
