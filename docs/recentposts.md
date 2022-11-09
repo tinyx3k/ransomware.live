@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-09 | [`waltersandwolf`](https://google.com/search?q=waltersandwolf) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-09 | [`http://www.silverstone.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.silverstone.co.uk) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-09 | [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-09 | [`LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.`](https://google.com/search?q=LAW+OFFICES+OF+JOHN+T+ORCUTT+WAS+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-10-27 | [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-27 | [`steelesolutions.com`](https://google.com/search?q=steelesolutions.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-27 | [`Miracapo pizza company`](https://google.com/search?q=Miracapo+pizza+company) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Wednesday 09/11/2022 07.21 (UTC)_
+Last update : _Wednesday 09/11/2022 09.26 (UTC)_
