@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-09 | [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-09 | [`sinopecthc.com`](https://google.com/search?q=sinopecthc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-09 | [`oehc.corsica`](https://google.com/search?q=oehc.corsica) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-09 | [`carone.com.mx`](https://google.com/search?q=carone.com.mx) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`shmcomputers.screenconnect.com`](https://google.com/search?q=shmcomputers.screenconnect.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`http://www.adven.com`](https://google.com/search?q=http%3A%2F%2Fwww.adven.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-09 | [`waltersandwolf`](https://google.com/search?q=waltersandwolf) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-10-28 | [`ORDEREXPRESS.COM.MX FILES PART3 - customerDataBase PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART3+-+customerDataBase+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-28 | [`MARCELSOLUTION.COM FILES PART4 - SYMASOFT31-39 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART4+-+SYMASOFT31-39+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-10-28 | [`SPINNEYS.COM FILES PART14 - 192.168.254.2, SHYJU--LT.itretgrp.net PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART14+-+192.168.254.2%2C+SHYJU--LT.itretgrp.net+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-28 | [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-28 | [`Mdaemon Technologies`](https://google.com/search?q=Mdaemon+Technologies) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-28 | [`unipiloto.edu.co`](https://google.com/search?q=unipiloto.edu.co) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-27 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 
-Last update : _Wednesday 09/11/2022 19.22 (UTC)_
+Last update : _Wednesday 09/11/2022 21.02 (UTC)_
