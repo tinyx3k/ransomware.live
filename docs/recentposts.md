@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-09 | [`chahousing.org`](https://google.com/search?q=chahousing.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-09 | [`adnec.ae`](https://google.com/search?q=adnec.ae) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-09 | [`Hartnell College`](https://google.com/search?q=Hartnell+College) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-09 | [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`sinopecthc.com`](https://google.com/search?q=sinopecthc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`oehc.corsica`](https://google.com/search?q=oehc.corsica) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-10-29 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-29 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-28 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART9 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART9+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-28 | [`LOESCHGROUP.DE FILES PART2 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART2+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-28 | [`ORDEREXPRESS.COM.MX FILES PART3 - customerDataBase PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART3+-+customerDataBase+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-28 | [`MARCELSOLUTION.COM FILES PART4 - SYMASOFT31-39 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART4+-+SYMASOFT31-39+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-10-28 | [`SPINNEYS.COM FILES PART14 - 192.168.254.2, SHYJU--LT.itretgrp.net PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART14+-+192.168.254.2%2C+SHYJU--LT.itretgrp.net+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Wednesday 09/11/2022 21.02 (UTC)_
+Last update : _Wednesday 09/11/2022 23.09 (UTC)_
