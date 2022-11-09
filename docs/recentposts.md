@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-09 | [`http://www.silverstone.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.silverstone.co.uk) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-11-09 | [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-11-09 | [`LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.`](https://google.com/search?q=LAW+OFFICES+OF+JOHN+T+ORCUTT+WAS+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-08 | [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-08 | [`Motional`](https://google.com/search?q=Motional) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -201,8 +204,5 @@ _last `200` posts_
 | 2022-10-27 | [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-27 | [`steelesolutions.com`](https://google.com/search?q=steelesolutions.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-27 | [`Miracapo pizza company`](https://google.com/search?q=Miracapo+pizza+company) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
-| 2022-10-27 | [`tiffinmetal.com`](https://google.com/search?q=tiffinmetal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-27 | [`Stages Pediatric Care DataBase on Sale`](https://google.com/search?q=Stages+Pediatric+Care+DataBase+on+Sale) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-10-26 | [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Wednesday 09/11/2022 02.13 (UTC)_
+Last update : _Wednesday 09/11/2022 04.33 (UTC)_
