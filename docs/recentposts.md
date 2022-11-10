@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-29 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-29 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Thursday 10/11/2022 09.16 (UTC)_
+Last update : _Thursday 10/11/2022 11.13 (UTC)_
