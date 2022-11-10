@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Thursday 10/11/2022 19.21 (UTC)_
+Last update : _Thursday 10/11/2022 21.42 (UTC)_
