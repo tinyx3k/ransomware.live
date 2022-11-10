@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-10 | [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`chahousing.org`](https://google.com/search?q=chahousing.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`adnec.ae`](https://google.com/search?q=adnec.ae) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-29 | [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-29 | [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-10-29 | [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-28 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART9 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART9+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Thursday 10/11/2022 05.20 (UTC)_
+Last update : _Thursday 10/11/2022 07.14 (UTC)_
