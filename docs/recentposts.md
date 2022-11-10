@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-10 | [`Kreisverwaltung Rhein-Pfalz-Kreis`](https://google.com/search?q=Kreisverwaltung+Rhein-Pfalz-Kreis) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-10 | [`Main & Main Capital Group`](https://google.com/search?q=Main+%26+Main+Capital+Group) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-10 | [`MCCROSSAN`](https://google.com/search?q=MCCROSSAN) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-10 | [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-29 | [`Asahi Group`](https://google.com/search?q=Asahi+Group) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-29 | [`fvsra.org`](https://google.com/search?q=fvsra.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-29 | [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Thursday 10/11/2022 21.42 (UTC)_
+Last update : _Thursday 10/11/2022 23.39 (UTC)_
