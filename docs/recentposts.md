@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-30 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Friday 11/11/2022 09.31 (UTC)_
+Last update : _Friday 11/11/2022 11.40 (UTC)_
