@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-11 | [`http://bfernandez.com`](https://google.com/search?q=http%3A%2F%2Fbfernandez.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-11 | [`J & D Pierce Contracts Ltd`](https://google.com/search?q=J+%26+D+Pierce+Contracts+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-11 | [`amarillogeeks.webhop.org`](https://google.com/search?q=amarillogeeks.webhop.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-11 | [`Aeronautics company Canada`](https://google.com/search?q=Aeronautics+company+Canada) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-30 | [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`lincare.com`](https://google.com/search?q=lincare.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-30 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Friday 11/11/2022 11.40 (UTC)_
+Last update : _Friday 11/11/2022 13.55 (UTC)_
