@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-11 | [`Aeronautics company Canada`](https://google.com/search?q=Aeronautics+company+Canada) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-11-10 | [`Kreisverwaltung Rhein-Pfalz-Kreis`](https://google.com/search?q=Kreisverwaltung+Rhein-Pfalz-Kreis) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-10 | [`Main & Main Capital Group`](https://google.com/search?q=Main+%26+Main+Capital+Group) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-10 | [`MCCROSSAN`](https://google.com/search?q=MCCROSSAN) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-29 | [`Asahi Group`](https://google.com/search?q=Asahi+Group) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-10-29 | [`fvsra.org`](https://google.com/search?q=fvsra.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-29 | [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 10/11/2022 23.39 (UTC)_
+Last update : _Friday 11/11/2022 02.26 (UTC)_
