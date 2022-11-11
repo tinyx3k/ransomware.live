@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-11 | [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-11 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
 | 2022-11-11 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
 | 2022-11-11 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-31 | [`gruposanford.com`](https://google.com/search?q=gruposanford.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-31 | [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 11/11/2022 16.34 (UTC)_
+Last update : _Friday 11/11/2022 17.48 (UTC)_
