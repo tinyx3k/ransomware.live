@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-11 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
+| 2022-11-11 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
+| 2022-11-11 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
+| 2022-11-11 | [`http://sterlingbattery.com`](https://google.com/search?q=http%3A%2F%2Fsterlingbattery.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
+| 2022-11-11 | [`http://doctorscenterhospital.com`](https://google.com/search?q=http%3A%2F%2Fdoctorscenterhospital.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
+| 2022-11-11 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART11 - water\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART11+-+water%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-11-11 | [`LOESCHGROUP.DE FILES PART4 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART4+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-11-11 | [`ORDEREXPRESS.COM.MX FILES PART5 - 10.10.2.224 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART5+-+10.10.2.224+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
+| 2022-11-11 | [`MARCELSOLUTION.COM FILES PART6 - SRVTS3\C$\QB16\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART6+-+SRVTS3%5CC%24%5CQB16%5CDATA%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-11 | [`http://bfernandez.com`](https://google.com/search?q=http%3A%2F%2Fbfernandez.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-11 | [`J & D Pierce Contracts Ltd`](https://google.com/search?q=J+%26+D+Pierce+Contracts+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-11 | [`amarillogeeks.webhop.org`](https://google.com/search?q=amarillogeeks.webhop.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -195,14 +204,5 @@ _last `200` posts_
 | 2022-10-31 | [`exco.fr`](https://google.com/search?q=exco.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-31 | [`cacula.com`](https://google.com/search?q=cacula.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`bellettiascensori.it`](https://google.com/search?q=bellettiascensori.it) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`aaanchorbolt.com`](https://google.com/search?q=aaanchorbolt.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`HENSOLDT France`](https://google.com/search?q=HENSOLDT+France) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-10-30 | [`byp-global.com`](https://google.com/search?q=byp-global.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`saurer.com`](https://google.com/search?q=saurer.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`lincare.com`](https://google.com/search?q=lincare.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-30 | [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Friday 11/11/2022 13.55 (UTC)_
+Last update : _Friday 11/11/2022 16.34 (UTC)_
