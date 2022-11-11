@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-29 | [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-10-29 | [`Asahi Group`](https://google.com/search?q=Asahi+Group) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Friday 11/11/2022 04.26 (UTC)_
+Last update : _Friday 11/11/2022 06.01 (UTC)_
