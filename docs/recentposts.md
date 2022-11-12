@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-31 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`gruposanford.com`](https://google.com/search?q=gruposanford.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 12/11/2022 02.11 (UTC)_
+Last update : _Saturday 12/11/2022 04.19 (UTC)_
