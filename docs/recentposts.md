@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-11-12 | [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-11 | [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-11 | [`Motional.com`](https://google.com/search?q=Motional.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-31 | [`santimuni.com`](https://google.com/search?q=santimuni.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`macrotel.com.ar`](https://google.com/search?q=macrotel.com.ar) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`hoosierco.com`](https://google.com/search?q=hoosierco.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-31 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 13/11/2022 17.48 (UTC)_
+Last update : _Sunday 13/11/2022 19.41 (UTC)_
