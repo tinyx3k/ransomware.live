@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-31 | [`hoosierco.com`](https://google.com/search?q=hoosierco.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 13/11/2022 15.32 (UTC)_
+Last update : _Sunday 13/11/2022 17.48 (UTC)_
