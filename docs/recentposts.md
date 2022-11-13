@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-13 | [`YASH Technologies`](https://google.com/search?q=YASH+Technologies) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-13 | [`Popp Hutcheson PLLC`](https://google.com/search?q=Popp+Hutcheson+PLLC) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-13 | [`Saurer`](https://google.com/search?q=Saurer) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-31 | [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`sociedadbilbaina.com`](https://google.com/search?q=sociedadbilbaina.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`seamlessglobalsolutions.com`](https://google.com/search?q=seamlessglobalsolutions.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-31 | [`santimuni.com`](https://google.com/search?q=santimuni.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 13/11/2022 21.59 (UTC)_
+Last update : _Sunday 13/11/2022 23.52 (UTC)_
