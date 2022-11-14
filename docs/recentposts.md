@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-14 | [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-14 | [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-14 | [`CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.`](https://google.com/search?q=CENTRAL+BANK+OF+GAMBIA+HACKED.+2+TB+OF+CRITICAL+DATA+WAS+STOLEN.) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-10-31 | [`will-b.jp`](https://google.com/search?q=will-b.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 14/11/2022 14.28 (UTC)_
+Last update : _Monday 14/11/2022 17.51 (UTC)_
