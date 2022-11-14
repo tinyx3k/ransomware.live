@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-31 | [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`STECINT_2`](https://google.com/search?q=STECINT_2) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Monday 14/11/2022 21.18 (UTC)_
+Last update : _Monday 14/11/2022 23.30 (UTC)_
