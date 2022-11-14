@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-31 | [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-10-31 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 14/11/2022 17.51 (UTC)_
+Last update : _Monday 14/11/2022 19.42 (UTC)_
