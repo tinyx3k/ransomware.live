@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-31 | [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`sociedadbilbaina.com`](https://google.com/search?q=sociedadbilbaina.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 14/11/2022 04.55 (UTC)_
+Last update : _Monday 14/11/2022 09.56 (UTC)_
