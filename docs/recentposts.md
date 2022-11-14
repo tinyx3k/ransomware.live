@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-10-31 | [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-10-31 | [`will-b.jp`](https://google.com/search?q=will-b.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 14/11/2022 11.52 (UTC)_
+Last update : _Monday 14/11/2022 14.28 (UTC)_
