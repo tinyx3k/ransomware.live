@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-15 | [`linkplus.com.hk`](https://google.com/search?q=linkplus.com.hk) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-15 | [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-02 | [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-01 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
 
-Last update : _Tuesday 15/11/2022 15.40 (UTC)_
+Last update : _Tuesday 15/11/2022 17.38 (UTC)_
