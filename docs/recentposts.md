@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-14 | [`Baysgarth School`](https://google.com/search?q=Baysgarth+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-01 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
 | 2022-11-01 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-10-31 | [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Tuesday 15/11/2022 04.50 (UTC)_
+Last update : _Tuesday 15/11/2022 07.38 (UTC)_
