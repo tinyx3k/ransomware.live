@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-01 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
 
-Last update : _Tuesday 15/11/2022 13.52 (UTC)_
+Last update : _Tuesday 15/11/2022 15.40 (UTC)_
