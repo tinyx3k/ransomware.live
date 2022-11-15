@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-01 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 
-Last update : _Tuesday 15/11/2022 07.38 (UTC)_
+Last update : _Tuesday 15/11/2022 09.53 (UTC)_
