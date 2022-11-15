@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`linkplus.com.hk`](https://google.com/search?q=linkplus.com.hk) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`gulfcoastwindows.com`](https://google.com/search?q=gulfcoastwindows.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`amend.com.br`](https://google.com/search?q=amend.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -199,10 +204,5 @@ _last `200` posts_
 | 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-01 | [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-01 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
-| 2022-11-01 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
-| 2022-11-01 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
-| 2022-11-01 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [shaoleaks](https://ransomware.live/#/profiles?id=shaoleaks) |
-| 2022-11-01 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-11-01 | [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 
-Last update : _Tuesday 15/11/2022 11.42 (UTC)_
+Last update : _Tuesday 15/11/2022 13.52 (UTC)_
