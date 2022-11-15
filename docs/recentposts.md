@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-01 | [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 
-Last update : _Tuesday 15/11/2022 17.38 (UTC)_
+Last update : _Tuesday 15/11/2022 19.30 (UTC)_
