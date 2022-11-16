@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-16 | [`IMA Financial Group, Inc.`](https://google.com/search?q=IMA+Financial+Group%2C+Inc.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-15 | [`https://www.cristalcontrols.com`](https://google.com/search?q=https%3A%2F%2Fwww.cristalcontrols.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-15 | [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-02 | [`KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED`](https://google.com/search?q=KINETIC.PH+WAS+HACKED.+200+GB+ENGINEERING+AND+CONFIDENTIAL+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`SICOTEC WAS HACKED. 200GB SENSETIVE DATA LEAKED`](https://google.com/search?q=SICOTEC+WAS+HACKED.+200GB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Wednesday 16/11/2022 13.57 (UTC)_
+Last update : _Wednesday 16/11/2022 16.06 (UTC)_
