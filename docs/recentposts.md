@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-11-01 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Wednesday 16/11/2022 02.34 (UTC)_
+Last update : _Wednesday 16/11/2022 04.17 (UTC)_
