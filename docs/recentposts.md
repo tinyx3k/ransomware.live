@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN`](https://google.com/search?q=SUBCARN+WAS+HACKED+AND+OVER+200+GB+OF+SENSETIVE+DATA+WAS+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED`](https://google.com/search?q=KINETIC.PH+WAS+HACKED.+200+GB+ENGINEERING+AND+CONFIDENTIAL+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Wednesday 16/11/2022 23.53 (UTC)_
+Last update : _Thursday 17/11/2022 02.37 (UTC)_
