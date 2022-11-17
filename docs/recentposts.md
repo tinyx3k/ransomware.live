@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Thursday 17/11/2022 17.44 (UTC)_
+Last update : _Thursday 17/11/2022 19.55 (UTC)_
