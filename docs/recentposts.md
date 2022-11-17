@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Thursday 17/11/2022 13.57 (UTC)_
+Last update : _Thursday 17/11/2022 15.56 (UTC)_
