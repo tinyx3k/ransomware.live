@@ -7,7 +7,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | 0mega - Blog | False | 3 | 03:10 17/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` |
-| 0mega - Blog | True | 0 | 14:13 17/11/2022 | `http://0mega.cc` |
+| 0mega - Blog | True | 0 | 16:20 17/11/2022 | `http://0mega.cc` |
 
 | post | date |
 |---|---|
@@ -67,7 +67,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Threat Actors - Onion Forums  - Internal Error | False | 3 | 08:22 17/11/2022 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
+| Threat Actors - Onion Forums  - Internal Error | True | 3 | 16:21 17/11/2022 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
 
 | post | date |
 |---|---|
@@ -105,9 +105,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | False | 3 | 12:32 17/11/2022 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
+| none | True | 3 | 16:22 17/11/2022 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
 | none | False | 3 | 00:00 01/05/2021 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |
-|   | True | 3 | 14:16 17/11/2022 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` |
+|   | False | 3 | 14:16 17/11/2022 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` |
 
 | post | date |
 |---|---|
@@ -316,6 +316,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `Motional.com` | 11/11/2022 |
 | `nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com` | 12/11/2022 |
 | `CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.` | 14/11/2022 |
+| `Giambalvo, Stalzer & Co.` | 17/11/2022 |
 
 ## arvinclub
 
@@ -562,7 +563,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| AvosLocker Access Queue | False | 3 | 08:24 17/11/2022 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
+| AvosLocker Access Queue | True | 3 | 16:23 17/11/2022 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
 
 | post | date |
 |---|---|
@@ -610,7 +611,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Babuk - Leaks site | False | 3 | 12:34 17/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+| Babuk - Leaks site | True | 3 | 16:24 17/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
 
 | post | date |
 |---|---|
@@ -646,7 +647,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Companies - BianLian | True | 3 | 14:21 17/11/2022 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` |
+| Companies - BianLian | True | 3 | 16:25 17/11/2022 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` |
 
 | post | date |
 |---|---|
@@ -700,8 +701,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Black Basta Blog | True | 3 | 14:21 17/11/2022 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` |
-| Chat Black Basta | True | 3 | 14:22 17/11/2022 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` |
+| Black Basta Blog | True | 3 | 16:26 17/11/2022 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` |
+| Chat Black Basta | True | 3 | 16:26 17/11/2022 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` |
 
 | post | date |
 |---|---|
@@ -869,7 +870,7 @@ _parsing : `enabled`_
 | BlackByte BLOG | False | 3 | 11:17 28/03/2022 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` |
 | BlackByte BLOG | False | 3 | 20:21 24/04/2022 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` |
 | BlackByte BLOG | False | 3 | 20:09 12/07/2022 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` |
-| BB Auction | True | 3 | 14:24 17/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` |
+| BB Auction | False | 3 | 14:24 17/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` |
 
 | post | date |
 |---|---|
@@ -1036,7 +1037,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | False | 3 | 12:39 17/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 16:29 17/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
 
 | post | date |
 |---|---|
@@ -1106,7 +1107,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Login | True | 3 | 14:26 17/11/2022 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` |
+| Login | False | 3 | 14:26 17/11/2022 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` |
 
 | post | date |
 |---|---|
@@ -1124,7 +1125,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://ekbgzchl6x2ias37.onion` |
-| HOME - CL0P^_- LEAKS | True | 3 | 14:26 17/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| HOME - CL0P^_- LEAKS | False | 3 | 14:26 17/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
 
 | post | date |
 |---|---|
@@ -2217,7 +2218,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | CONTI.News | False | 3 | 06:25 22/06/2022 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
-| none | True | 0 | 14:27 17/11/2022 | `http://continews.click` |
+| none | True | 0 | 16:31 17/11/2022 | `http://continews.click` |
 | Error Response Page | False | 0 | 01:31 16/11/2022 | `http://continews.bz` |
 
 | post | date |
@@ -2620,7 +2621,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://cuba4mp6ximo2zlo.onion` |
-| Cuba | True | 3 | 14:30 17/11/2022 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
+| Cuba | True | 3 | 16:33 17/11/2022 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
 
 | post | date |
 |---|---|
@@ -2728,7 +2729,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 22:30 10/11/2022 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` |
-| Data Leak | True | 3 | 14:31 17/11/2022 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
+| Data Leak | False | 3 | 14:31 17/11/2022 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
 
 | post | date |
 |---|---|
@@ -2760,8 +2761,8 @@ _`marketplace - not a ransomware group, reputation questionable`_
 |---|---|---|---|---|
 | Dark Leak Market | False | 3 | 16:14 07/10/2021 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |
 | anonymous Marketplace - best onion market - DarkHi | False | 3 | 01:29 17/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` |
-| Dark Leak Market | False | 3 | 12:44 17/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` |
-| Dark Leak Market | False | 3 | 12:44 17/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` |
+| Dark Leak Market | True | 3 | 16:35 17/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` |
+| Dark Leak Market | True | 3 | 16:35 17/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` |
 
 | post | date |
 |---|---|
@@ -3187,8 +3188,8 @@ _`aka hive`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | Hive | False | 3 | 12:49 17/11/2022 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
-| Hive | False | 3 | 12:50 17/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` |
-| none | True | 3 | 14:41 17/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |
+| Hive | True | 3 | 16:44 17/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` |
+| none | True | 3 | 16:44 17/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |
 
 | post | date |
 |---|---|
@@ -3436,8 +3437,8 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Chat | True | 3 | 14:42 17/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` |
-| Auction | True | 3 | 14:43 17/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` |
+| Chat | True | 3 | 16:45 17/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` |
+| Auction | True | 3 | 16:46 17/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` |
 | none | False | 0 | 00:00 01/05/2021 | `http://karaleaks.com` |
 
 | post | date |
@@ -3481,7 +3482,7 @@ _`not a ransomware group`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 0 | 14:46 17/11/2022 | `http://kelvinsecteamcyber.wixsite.com` |
+| none | True | 0 | 16:50 17/11/2022 | `http://kelvinsecteamcyber.wixsite.com` |
 
 | post | date |
 |---|---|
@@ -4608,25 +4609,25 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit BLOG | True | 3 | 14:56 17/11/2022 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |
-| LockBit BLOG | True | 3 | 14:57 17/11/2022 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
-| LockBit BLOG | True | 3 | 14:57 17/11/2022 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
-| LockBit BLOG | True | 3 | 14:59 17/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
-| LockBit BLOG | True | 3 | 14:59 17/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
-| LockBit BLOG | True | 3 | 15:01 17/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
-| LockBit BLOG | True | 3 | 15:02 17/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` |
-| LockBit BLOG | True | 3 | 15:03 17/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` |
-| LockBit BLOG | True | 3 | 15:04 17/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
-| LockBit BLOG | True | 3 | 15:04 17/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
-| LockBit Anti-DDoS | True | 3 | 15:05 17/11/2022 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` |
-| LockBit Anti-DDoS | True | 3 | 15:06 17/11/2022 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` |
-| LockBit Anti-DDoS | True | 3 | 15:07 17/11/2022 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` |
-| LockBit Anti-DDoS | True | 3 | 15:08 17/11/2022 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` |
-| none | True | 3 | 15:08 17/11/2022 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` |
-| LockBit Anti-DDoS | True | 3 | 15:10 17/11/2022 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` |
-| none | True | 3 | 15:10 17/11/2022 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` |
-| none | True | 3 | 15:10 17/11/2022 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` |
-| none | True | 3 | 15:11 17/11/2022 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` |
+| LockBit BLOG | False | 3 | 14:56 17/11/2022 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |
+| LockBit BLOG | True | 3 | 16:57 17/11/2022 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
+| LockBit BLOG | True | 3 | 16:58 17/11/2022 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
+| LockBit BLOG | True | 3 | 16:58 17/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
+| LockBit BLOG | True | 3 | 16:59 17/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
+| LockBit BLOG | True | 3 | 16:59 17/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
+| LockBit BLOG | True | 3 | 17:01 17/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` |
+| LockBit BLOG | True | 3 | 17:01 17/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` |
+| LockBit BLOG | True | 3 | 17:02 17/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
+| LockBit BLOG | True | 3 | 17:02 17/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
+| LockBit Anti-DDoS | True | 3 | 17:03 17/11/2022 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` |
+| none | True | 3 | 17:04 17/11/2022 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` |
+| LockBit Anti-DDoS | True | 3 | 17:04 17/11/2022 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` |
+| LockBit Anti-DDoS | True | 3 | 17:05 17/11/2022 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` |
+| none | True | 3 | 17:05 17/11/2022 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` |
+| none | True | 3 | 17:05 17/11/2022 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` |
+| none | True | 3 | 17:06 17/11/2022 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` |
+| none | True | 3 | 17:06 17/11/2022 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` |
+| none | True | 3 | 17:07 17/11/2022 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` |
 
 | post | date |
 |---|---|
@@ -4969,30 +4970,30 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| LockBit - Leaked | True | 3 | 15:11 17/11/2022 | `http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
-| LockBit - Leaked | True | 3 | 15:11 17/11/2022 | `http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
-| LockBit - Leaked | False | 3 | 13:20 17/11/2022 | `http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
-| LockBit - Leaked | True | 3 | 15:12 17/11/2022 | `http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
-| LockBit - Leaked | False | 3 | 11:12 17/11/2022 | `http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
-| LockBit - Leaked | False | 3 | 13:21 17/11/2022 | `http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
-| LockBit - Leaked | True | 3 | 15:13 17/11/2022 | `http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
+| LockBit - Leaked | True | 3 | 17:07 17/11/2022 | `http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
+| LockBit - Leaked | True | 3 | 17:07 17/11/2022 | `http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
+| LockBit - Leaked | True | 3 | 17:07 17/11/2022 | `http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
+| LockBit - Leaked | True | 3 | 17:08 17/11/2022 | `http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
+| LockBit - Leaked | True | 3 | 17:08 17/11/2022 | `http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
+| LockBit - Leaked | True | 3 | 17:08 17/11/2022 | `http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
+| LockBit - Leaked | True | 3 | 17:08 17/11/2022 | `http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
 | LockBit - Leaked | False | 3 | 13:21 17/11/2022 | `http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` |
 | LockBit - Leaked | False | 3 | 13:21 17/11/2022 | `http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` |
-| LockBit - Leaked | True | 3 | 15:13 17/11/2022 | `http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
+| LockBit - Leaked | True | 3 | 17:09 17/11/2022 | `http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
 | LockBit - Leaked | False | 3 | 13:22 17/11/2022 | `http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` |
-| LockBit - Leaked | False | 3 | 13:22 17/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
+| LockBit - Leaked | True | 3 | 17:10 17/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
 | LockBit - Leaked | False | 3 | 11:14 17/11/2022 | `http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` |
-| LockBit - Leaked | True | 3 | 15:15 17/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
-| LockBit - Leaked | True | 3 | 15:15 17/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
-| LockBit - Leaked | True | 3 | 15:15 17/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
-| LockBit - Leaked | True | 3 | 15:15 17/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
-| LockBit - Leaked | True | 3 | 15:16 17/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |
-| LockBit - Leaked | True | 3 | 15:16 17/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
-| LockBit - Leaked | True | 3 | 15:16 17/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
-| LockBit - Leaked | True | 3 | 15:16 17/11/2022 | `http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
-| LockBit - Leaked | True | 3 | 15:16 17/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |
-| LockBit - Leaked | True | 3 | 15:17 17/11/2022 | `http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
-| LockBit - Leaked | True | 3 | 15:17 17/11/2022 | `http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
+| LockBit - Leaked | True | 3 | 17:10 17/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
+| LockBit - Leaked | True | 3 | 17:10 17/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
+| LockBit - Leaked | False | 3 | 15:15 17/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
+| LockBit - Leaked | True | 3 | 17:11 17/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
+| LockBit - Leaked | True | 3 | 17:11 17/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |
+| LockBit - Leaked | True | 3 | 17:11 17/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
+| LockBit - Leaked | True | 3 | 17:12 17/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
+| LockBit - Leaked | False | 3 | 15:16 17/11/2022 | `http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
+| LockBit - Leaked | True | 3 | 17:12 17/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |
+| LockBit - Leaked | True | 3 | 17:13 17/11/2022 | `http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
+| LockBit - Leaked | True | 3 | 17:13 17/11/2022 | `http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
 
 | post | date |
 |---|---|
@@ -5026,7 +5027,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 08:28 27/08/2022 | `http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
-| none | True | 3 | 15:18 17/11/2022 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` |
+| none | True | 3 | 17:14 17/11/2022 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` |
 | none | False | 3 | 05:15 01/10/2022 | `http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` |
 
 | post | date |
@@ -5044,7 +5045,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Lorenz | False | 3 | 11:18 17/11/2022 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+| Lorenz | True | 3 | 17:14 17/11/2022 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
 
 | post | date |
 |---|---|
@@ -5112,7 +5113,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 15:26 17/11/2022 | `http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
+| none | True | 3 | 17:19 17/11/2022 | `http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
 | Start-maximized.com | False | 3 | 13:09 02/12/2021 | `http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
 
 | post | date |
@@ -5189,7 +5190,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Mallox - Blog | True | 3 | 15:27 17/11/2022 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` |
+| Mallox - Blog | True | 3 | 17:20 17/11/2022 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` |
 
 | post | date |
 |---|---|
@@ -5293,7 +5294,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` |
-| 502 Bad Gateway | False | 3 | 11:23 17/11/2022 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` |
+| 502 Bad Gateway | True | 3 | 17:21 17/11/2022 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` |
 
 | post | date |
 |---|---|
@@ -5398,7 +5399,7 @@ _`not a ransomware group`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://mosesstaffm7hptp.onion` |
-| Activities – Moses Staff | True | 0 | 15:29 17/11/2022 | `http://moses-staff.se` |
+| Activities – Moses Staff | True | 0 | 17:22 17/11/2022 | `http://moses-staff.se` |
 
 | post | date |
 |---|---|
@@ -5585,7 +5586,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| VSOP NEWS | True | 3 | 15:31 17/11/2022 | `http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion` |
+| VSOP NEWS | True | 3 | 17:24 17/11/2022 | `http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion` |
 
 | post | date |
 |---|---|
@@ -6061,8 +6062,8 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Qilin | True | 3 | 15:33 17/11/2022 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` |
-| Not Found (#404) | True | 3 | 15:36 17/11/2022 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` |
+| Qilin | True | 3 | 17:25 17/11/2022 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` |
+| Not Found (#404) | True | 3 | 17:26 17/11/2022 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` |
 
 | post | date |
 |---|---|
@@ -6177,7 +6178,7 @@ _parsing : `enabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://rgleak7op734elep.onion` |
-| Home Page of Ragnar_Locker Leaks site | False | 3 | 11:29 17/11/2022 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
+| Home Page of Ragnar_Locker Leaks site | True | 3 | 17:27 17/11/2022 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `http://p6o7m73ujalhgkiv.onion` |
 
 | post | date |
@@ -6300,7 +6301,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | True | 3 | 15:38 17/11/2022 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |
+| none | True | 3 | 17:28 17/11/2022 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |
 
 | post | date |
 |---|---|
@@ -6334,7 +6335,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| ransomexx2 | True | 3 | 15:38 17/11/2022 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+| ransomexx2 | True | 3 | 17:29 17/11/2022 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
 
 | post | date |
 |---|---|
@@ -6390,7 +6391,7 @@ _parsing : `disabled`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | ©RansomHouse | False | 3 | 13:32 01/10/2022 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` |
-| none | True | 3 | 15:39 17/11/2022 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
+| none | True | 3 | 17:30 17/11/2022 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
 
 | post | date |
 |---|---|
@@ -6431,7 +6432,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Board of shame | True | 3 | 15:39 17/11/2022 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion` |
+| Board of shame | True | 3 | 17:31 17/11/2022 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion` |
 
 | post | date |
 |---|---|
@@ -6458,7 +6459,7 @@ _parsing : `enabled`_
 |---|---|---|---|---|
 | 404 Not Found | False | 3 | 12:16 19/08/2022 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
 | 404 Not Found | False | 3 | 12:17 19/08/2022 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
-| Blog | True | 3 | 15:45 17/11/2022 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` |
+| Blog | True | 3 | 17:35 17/11/2022 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` |
 
 | post | date |
 |---|---|
@@ -6514,7 +6515,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| Not found. | True | 0 | 15:45 17/11/2022 | `http://robinhoodleaks.tumblr.com` |
+| Not found. | True | 0 | 17:35 17/11/2022 | `http://robinhoodleaks.tumblr.com` |
 
 | post | date |
 |---|---|
@@ -6617,7 +6618,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| none | False | 3 | 13:51 17/11/2022 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
+| none | True | 3 | 17:36 17/11/2022 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
 
 | post | date |
 |---|---|
@@ -6682,8 +6683,8 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | False | 3 | 13:51 17/11/2022 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
-| News | True | 0 | 15:47 17/11/2022 | `http://snatch.press` |
+| News | True | 3 | 17:37 17/11/2022 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
+| News | True | 0 | 17:37 17/11/2022 | `http://snatch.press` |
 
 | post | date |
 |---|---|
@@ -6891,7 +6892,7 @@ _parsing : `enabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| News | True | 3 | 15:49 17/11/2022 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
+| News | True | 3 | 17:38 17/11/2022 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
 | none | False | 2 | 00:00 01/05/2021 | `http://nbzzb6sa6xuura2z.onion` |
 
 | post | date |
@@ -6985,11 +6986,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://4hzyuotli6maqa4u.onion` |
-| Vice Society - Official Site | True | 3 | 15:50 17/11/2022 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
+| Vice Society - Official Site | True | 3 | 17:40 17/11/2022 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
 | there is nothing... | False | 3 | 17:27 21/09/2022 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` |
-| Vice Society - Official Site | True | 3 | 15:51 17/11/2022 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` |
-| Vice Society - Official Site | True | 3 | 15:53 17/11/2022 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` |
-| Vice Society - Official Site | True | 3 | 15:54 17/11/2022 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` |
+| Vice Society - Official Site | True | 3 | 17:41 17/11/2022 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` |
+| Vice Society - Official Site | True | 3 | 17:42 17/11/2022 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` |
+| Vice Society - Official Site | True | 3 | 17:43 17/11/2022 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` |
 
 | post | date |
 |---|---|
@@ -7119,7 +7120,7 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| BITCARDS - Prepaid cards | True | 3 | 15:54 17/11/2022 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` |
+| BITCARDS - Prepaid cards | True | 3 | 17:43 17/11/2022 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` |
 
 | post | date |
 |---|---|
@@ -7204,10 +7205,10 @@ _parsing : `disabled`_
 
 | title | available | version | last visit | fqdn
 |---|---|---|---|---|
-| ZEON.Recovery - Enter the key | True | 3 | 15:55 17/11/2022 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` |
+| ZEON.Recovery - Enter the key | True | 3 | 17:43 17/11/2022 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` |
 
 | post | date |
 |---|---|
 
 
-Last update : _Thursday 17/11/2022 15.56 (UTC)_
+Last update : _Thursday 17/11/2022 17.44 (UTC)_

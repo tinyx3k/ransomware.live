@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-17 | [`Giambalvo, Stalzer & Co.`](https://google.com/search?q=Giambalvo%2C+Stalzer+%26+Co.) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-17 | [`Kessing Rechtsanwälte und Fachanwälte in PartGmbB`](https://google.com/search?q=Kessing+Rechtsanw%C3%A4lte+und+Fachanw%C3%A4lte+in+PartGmbB) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-17 | [`https://www.m2selectronics.com`](https://google.com/search?q=https%3A%2F%2Fwww.m2selectronics.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-16 | [`Aeronautics company Canada / Production of parts for aircraft engines`](https://google.com/search?q=Aeronautics+company+Canada+%2F+Production+of+parts+for+aircraft+engines) | [everest](https://ransomware.live/#/profiles?id=everest) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-02 | [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-02 | [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Thursday 17/11/2022 15.56 (UTC)_
+Last update : _Thursday 17/11/2022 17.44 (UTC)_
