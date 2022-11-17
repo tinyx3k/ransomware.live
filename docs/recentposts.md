@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-17 | [`Institute of Science and Technology Austria`](https://google.com/search?q=Institute+of+Science+and+Technology+Austria) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-17 | [`Giambalvo, Stalzer & Co.`](https://google.com/search?q=Giambalvo%2C+Stalzer+%26+Co.) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-17 | [`Kessing Rechtsanwälte und Fachanwälte in PartGmbB`](https://google.com/search?q=Kessing+Rechtsanw%C3%A4lte+und+Fachanw%C3%A4lte+in+PartGmbB) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-17 | [`https://www.m2selectronics.com`](https://google.com/search?q=https%3A%2F%2Fwww.m2selectronics.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-02 | [`WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!`](https://google.com/search?q=WICKERSHAMCONSTRUCTION.COM+-+HACKED+AND+MORE+THEN+1000GB+DATA+LEAKED%21) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-02 | [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Thursday 17/11/2022 19.55 (UTC)_
+Last update : _Thursday 17/11/2022 21.25 (UTC)_
