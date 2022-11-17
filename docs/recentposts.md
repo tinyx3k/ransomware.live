@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Thursday 17/11/2022 21.25 (UTC)_
+Last update : _Thursday 17/11/2022 23.36 (UTC)_
