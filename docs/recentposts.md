@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN`](https://google.com/search?q=SUBCARN+WAS+HACKED+AND+OVER+200+GB+OF+SENSETIVE+DATA+WAS+STOLEN) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Thursday 17/11/2022 09.54 (UTC)_
+Last update : _Thursday 17/11/2022 11.52 (UTC)_
