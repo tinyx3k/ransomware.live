@@ -21,6 +21,27 @@ _last `200` posts_
 | 2022-11-15 | [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-15 | [`gulfcoastwindows.com`](https://google.com/search?q=gulfcoastwindows.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-15 | [`amend.com.br`](https://google.com/search?q=amend.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`AURIS KONINKLIJKE AURIS GROEP`](https://google.com/search?q=AURIS+KONINKLIJKE+AURIS+GROEP) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`exheat.com`](https://google.com/search?q=exheat.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`Salmon Software`](https://google.com/search?q=Salmon+Software) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`archimages inc`](https://google.com/search?q=archimages+inc) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
+| 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -183,26 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`datamatics`](https://google.com/search?q=datamatics) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`blackhawk`](https://google.com/search?q=blackhawk) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`bfw`](https://google.com/search?q=bfw) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`berding-weil`](https://google.com/search?q=berding-weil) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`bcintlgroup.com`](https://google.com/search?q=bcintlgroup.com) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`axley`](https://google.com/search?q=axley) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`afts`](https://google.com/search?q=afts) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Ville-chaville`](https://google.com/search?q=Ville-chaville) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Skupstina`](https://google.com/search?q=Skupstina) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Murphyfamilyventures`](https://google.com/search?q=Murphyfamilyventures) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Ginspectionservices`](https://google.com/search?q=Ginspectionservices) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Dialogsas`](https://google.com/search?q=Dialogsas) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-03 | [`hettichbenelux.com`](https://google.com/search?q=hettichbenelux.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-03 | [`Landi Renzo`](https://google.com/search?q=Landi+Renzo) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-11-03 | [`continental.com`](https://google.com/search?q=continental.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-03 | [`tekniplex.be`](https://google.com/search?q=tekniplex.be) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-03 | [`CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED`](https://google.com/search?q=CONSUMAX.COM.AR+-+WAS+HACKED+AND+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-03 | [`Bitron`](https://google.com/search?q=Bitron) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-11-03 | [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-02 | [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-02 | [`Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=Saint+Jean+Industries++-+MORE+THEN+1.5+TB+DATA+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-02 | [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-02 | [`WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!`](https://google.com/search?q=WICKERSHAMCONSTRUCTION.COM+-+HACKED+AND+MORE+THEN+1000GB+DATA+LEAKED%21) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Friday 18/11/2022 11.47 (UTC)_
+Last update : _Friday 18/11/2022 15.02 (UTC)_
