@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-02 | [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-02 | [`WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!`](https://google.com/search?q=WICKERSHAMCONSTRUCTION.COM+-+HACKED+AND+MORE+THEN+1000GB+DATA+LEAKED%21) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Friday 18/11/2022 09.54 (UTC)_
+Last update : _Friday 18/11/2022 11.47 (UTC)_
