@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`blackhawk`](https://google.com/search?q=blackhawk) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Friday 18/11/2022 15.02 (UTC)_
+Last update : _Friday 18/11/2022 15.34 (UTC)_
