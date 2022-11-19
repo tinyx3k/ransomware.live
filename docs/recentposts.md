@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`datamatics`](https://google.com/search?q=datamatics) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Saturday 19/11/2022 02.42 (UTC)_
+Last update : _Saturday 19/11/2022 04.47 (UTC)_
