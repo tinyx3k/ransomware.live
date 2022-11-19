@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-19 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-18 | [`https://www.vafb.com`](https://google.com/search?q=https%3A%2F%2Fwww.vafb.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-18 | [`KlamoyaCasino`](https://google.com/search?q=KlamoyaCasino) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-18 | [`https://naulty.com/`](https://google.com/search?q=https%3A%2F%2Fnaulty.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`first_coast_logistics_services`](https://google.com/search?q=first_coast_logistics_services) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`e.h._wachs_pipe_cutters`](https://google.com/search?q=e.h._wachs_pipe_cutters) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`datamatics`](https://google.com/search?q=datamatics) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Saturday 19/11/2022 04.47 (UTC)_
+Last update : _Saturday 19/11/2022 07.40 (UTC)_
