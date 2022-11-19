@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`first_coast_logistics_services`](https://google.com/search?q=first_coast_logistics_services) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`e.h._wachs_pipe_cutters`](https://google.com/search?q=e.h._wachs_pipe_cutters) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Saturday 19/11/2022 13.49 (UTC)_
+Last update : _Saturday 19/11/2022 15.18 (UTC)_
