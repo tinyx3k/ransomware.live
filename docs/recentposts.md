@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`forefront_dermatology`](https://google.com/search?q=forefront_dermatology) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Sunday 20/11/2022 07.32 (UTC)_
+Last update : _Sunday 20/11/2022 09.26 (UTC)_
