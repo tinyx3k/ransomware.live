@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-11-19 | [`norseman.ca`](https://google.com/search?q=norseman.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-19 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | [lv](https://ransomware.live/#/profiles?id=lv) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`get-integrated`](https://google.com/search?q=get-integrated) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`forefront_dermatology`](https://google.com/search?q=forefront_dermatology) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`first_coast_logistics_services`](https://google.com/search?q=first_coast_logistics_services) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Saturday 19/11/2022 23.37 (UTC)_
+Last update : _Sunday 20/11/2022 02.55 (UTC)_
