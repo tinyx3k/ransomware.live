@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`get-integrated`](https://google.com/search?q=get-integrated) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Sunday 20/11/2022 19.50 (UTC)_
+Last update : _Sunday 20/11/2022 22.00 (UTC)_
