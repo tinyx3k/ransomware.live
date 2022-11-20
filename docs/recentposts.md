@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
+| 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`learning_resources`](https://google.com/search?q=learning_resources) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`landofrost`](https://google.com/search?q=landofrost) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`innovairre`](https://google.com/search?q=innovairre) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`get-integrated`](https://google.com/search?q=get-integrated) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Sunday 20/11/2022 22.00 (UTC)_
+Last update : _Sunday 20/11/2022 23.43 (UTC)_
