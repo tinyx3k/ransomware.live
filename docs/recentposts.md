@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 | 2022-11-19 | [`norseman.ca`](https://google.com/search?q=norseman.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`innovairre`](https://google.com/search?q=innovairre) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`get-integrated`](https://google.com/search?q=get-integrated) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`gascaribe`](https://google.com/search?q=gascaribe) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`forefront_dermatology`](https://google.com/search?q=forefront_dermatology) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Sunday 20/11/2022 15.39 (UTC)_
+Last update : _Sunday 20/11/2022 17.56 (UTC)_
