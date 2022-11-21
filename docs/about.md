@@ -30,4 +30,4 @@ You can find all leaks in json format [here](https://raw.githubusercontent.com/J
 
 ## ⚙️ Contribution
 
-Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on [Josshighet repository](https://github.com/joshhighet/ransomwatch/pulls)
+Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on [Joshhighet repository](https://github.com/joshhighet/ransomwatch/pulls)

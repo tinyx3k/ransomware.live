@@ -4,6 +4,11 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-21 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://lojastorra.com.br`](https://google.com/search?q=https%3A%2F%2Flojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
+| 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -199,10 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`ncmutuallife2`](https://google.com/search?q=ncmutuallife2) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`meriplex`](https://google.com/search?q=meriplex) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`megaforce`](https://google.com/search?q=megaforce) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`lycra`](https://google.com/search?q=lycra) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`linkmfg`](https://google.com/search?q=linkmfg) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`learning_resources`](https://google.com/search?q=learning_resources) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`landofrost`](https://google.com/search?q=landofrost) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`innovairre`](https://google.com/search?q=innovairre) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Monday 21/11/2022 09.41 (UTC)_
+Last update : _Monday 21/11/2022 13.48 (UTC)_

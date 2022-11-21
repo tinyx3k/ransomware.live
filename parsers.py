@@ -805,7 +805,7 @@ def sparta():
 def qilin():
     stdlog('parser: ' + 'qilin')
     parser = '''
-    jq '.[].target_utl' -r source/qilin-kb*.html || true
+    grep 'class="item_box-info__link"' source/qilin-kb*.html | cut -d '"' -f 2 | sed '/#/d'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
