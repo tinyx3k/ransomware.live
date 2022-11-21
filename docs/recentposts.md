@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 
-Last update : _Monday 21/11/2022 17.46 (UTC)_
+Last update : _Monday 21/11/2022 20.07 (UTC)_
