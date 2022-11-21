@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`landofrost`](https://google.com/search?q=landofrost) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`innovairre`](https://google.com/search?q=innovairre) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Sunday 20/11/2022 23.43 (UTC)_
+Last update : _Monday 21/11/2022 02.26 (UTC)_
