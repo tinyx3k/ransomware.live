@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-21 | [`Nok Air`](https://google.com/search?q=Nok+Air) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-21 | [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
 | 2022-11-21 | [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
 | 2022-11-21 | [`www.candcfarmsupply.com`](https://google.com/search?q=www.candcfarmsupply.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
-| 2022-11-04 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 
-Last update : _Monday 21/11/2022 16.05 (UTC)_
+Last update : _Monday 21/11/2022 17.46 (UTC)_
