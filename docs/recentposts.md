@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-21 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace+partners) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-11-21 | [`Nok Air`](https://google.com/search?q=Nok+Air) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-21 | [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
 | 2022-11-21 | [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
-| 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 
-Last update : _Monday 21/11/2022 20.07 (UTC)_
+Last update : _Monday 21/11/2022 21.38 (UTC)_
