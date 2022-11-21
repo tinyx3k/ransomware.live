@@ -4,6 +4,20 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-21 | [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.candcfarmsupply.com`](https://google.com/search?q=www.candcfarmsupply.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.ackermanplumbinginc.com`](https://google.com/search?q=www.ackermanplumbinginc.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.semaphorehq.com`](https://google.com/search?q=www.semaphorehq.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.baltholding.eu`](https://google.com/search?q=www.baltholding.eu) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.pacmaritime.com`](https://google.com/search?q=www.pacmaritime.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.waynefamilypractice.com`](https://google.com/search?q=www.waynefamilypractice.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.advantagedirectcare.com`](https://google.com/search?q=www.advantagedirectcare.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.cucafresca.com.br`](https://google.com/search?q=www.cucafresca.com.br) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.arisaseguros.com`](https://google.com/search?q=www.arisaseguros.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.jaspercountysheriffoffice.com`](https://google.com/search?q=www.jaspercountysheriffoffice.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.minex.gob.gt`](https://google.com/search?q=www.minex.gob.gt) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
+| 2022-11-21 | [`www.projectredirectdc.org`](https://google.com/search?q=www.projectredirectdc.org) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
 | 2022-11-21 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-21 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-21 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
@@ -190,19 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`Läderach`](https://google.com/search?q=L%C3%A4derach) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-11-04 | [`usairports`](https://google.com/search?q=usairports) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`trant.co.uk`](https://google.com/search?q=trant.co.uk) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`the_rose_executive_team`](https://google.com/search?q=the_rose_executive_team) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`technicote`](https://google.com/search?q=technicote) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`stm.com.tw`](https://google.com/search?q=stm.com.tw) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`site-technology_`](https://google.com/search?q=site-technology_) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`schultheis-ins`](https://google.com/search?q=schultheis-ins) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`quercus`](https://google.com/search?q=quercus) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`otrcapital`](https://google.com/search?q=otrcapital) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`ohagin`](https://google.com/search?q=ohagin) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`nwdusa`](https://google.com/search?q=nwdusa) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`ncmutuallife2`](https://google.com/search?q=ncmutuallife2) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`meriplex`](https://google.com/search?q=meriplex) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`megaforce`](https://google.com/search?q=megaforce) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 
-Last update : _Monday 21/11/2022 13.48 (UTC)_
+Last update : _Monday 21/11/2022 14.16 (UTC)_

@@ -5636,6 +5636,20 @@ _`aka vsop`_
 | `ARISA CORREDORES DE SEGUROS` | 01/08/2022 |
 | `Borough of Union Beach` | 05/08/2022 |
 | `Ministerio de Relaciones Exteriores` | 27/09/2022 |
+| `www.projectredirectdc.org` | 21/11/2022 |
+| `www.minex.gob.gt` | 21/11/2022 |
+| `www.jaspercountysheriffoffice.com` | 21/11/2022 |
+| `www.arisaseguros.com` | 21/11/2022 |
+| `www.cucafresca.com.br` | 21/11/2022 |
+| `www.advantagedirectcare.com` | 21/11/2022 |
+| `www.waynefamilypractice.com` | 21/11/2022 |
+| `www.pacmaritime.com` | 21/11/2022 |
+| `www.baltholding.eu` | 21/11/2022 |
+| `www.semaphorehq.com` | 21/11/2022 |
+| `www.ackermanplumbinginc.com` | 21/11/2022 |
+| `www.candcfarmsupply.com` | 21/11/2022 |
+| `www.wayan.com.mx` | 21/11/2022 |
+| `www.artisticstairs.com` | 21/11/2022 |
 
 ## pandora
 
@@ -7270,4 +7284,4 @@ _parsing : `disabled`_
 |---|---|
 
 
-Last update : _Monday 21/11/2022 13.48 (UTC)_
+Last update : _Monday 21/11/2022 14.16 (UTC)_
