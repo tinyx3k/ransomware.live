@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 
-Last update : _Tuesday 22/11/2022 03.02 (UTC)_
+Last update : _Tuesday 22/11/2022 04.58 (UTC)_
