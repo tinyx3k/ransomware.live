@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-22 | [`lapiamontesa`](https://google.com/search?q=lapiamontesa) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-22 | [`Leak Announcement - IT company ITonCLOUD`](https://google.com/search?q=Leak+Announcement+-+IT+company+ITonCLOUD) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-11-22 | [`ssp-worldwide.com`](https://google.com/search?q=ssp-worldwide.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-22 | [`ryokikogyo.co.jp`](https://google.com/search?q=ryokikogyo.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`http://www.pressco.com`](https://google.com/search?q=http%3A%2F%2Fwww.pressco.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`http://www.cymax.com`](https://google.com/search?q=http%3A%2F%2Fwww.cymax.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 22/11/2022 14.23 (UTC)_
+Last update : _Tuesday 22/11/2022 17.31 (UTC)_
