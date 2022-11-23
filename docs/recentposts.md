@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`http://www.cymax.com`](https://google.com/search?q=http%3A%2F%2Fwww.cymax.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 22/11/2022 23.32 (UTC)_
+Last update : _Wednesday 23/11/2022 02.46 (UTC)_
