@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-23 | [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-11-23 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-11-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART12 - 10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART12+-+10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-23 | [`LOESCHGROUP.DE FILES PART5 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART5+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-23 | [`ORDEREXPRESS.COM.MX FILES PART6 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART6+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`https://www.infocision.com`](https://google.com/search?q=https%3A%2F%2Fwww.infocision.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`http://www.wiseyes.net`](https://google.com/search?q=http%3A%2F%2Fwww.wiseyes.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`http://www.royalimaging.com`](https://google.com/search?q=http%3A%2F%2Fwww.royalimaging.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.whitneyoilco.com`](https://google.com/search?q=https%3A%2F%2Fwww.whitneyoilco.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.pandafunds.com`](https://google.com/search?q=http%3A%2F%2Fwww.pandafunds.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Wednesday 23/11/2022 15.07 (UTC)_
+Last update : _Wednesday 23/11/2022 17.19 (UTC)_
