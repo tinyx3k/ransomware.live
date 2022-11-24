@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Centura College`](https://google.com/search?q=Centura+College) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Versah`](https://google.com/search?q=Versah) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-11-24 | [`Ta Chen Stainless Pipe Co., Ltd`](https://google.com/search?q=Ta+Chen+Stainless+Pipe+Co.%2C+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-24 | [`https://www.labusinessjournal.com`](https://google.com/search?q=https%3A%2F%2Fwww.labusinessjournal.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-24 | [`Cincinnati State`](https://google.com/search?q=Cincinnati+State) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-24 | [`Pmc-group`](https://google.com/search?q=Pmc-group) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
@@ -195,14 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`ORDEREXPRESS.COM.MX FILES PART4 - 10.10.1.54, 10.10.1.84, 10.10.1.106, 10.10.1.110, 10.10.`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART4+-+10.10.1.54%2C+10.10.1.84%2C+10.10.1.106%2C+10.10.1.110%2C+10.10.) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-04 | [`MARCELSOLUTION.COM FILES PART5 - SYMASOFT7,8,24,27,28,30 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART5+-+SYMASOFT7%2C8%2C24%2C27%2C28%2C30+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-04 | [`SPINNEYS.COM FILES PART15 - 202.0.0.200 PUBLISHED`](https://google.com/search?q=SPINNEYS.COM+FILES+PART15+-+202.0.0.200+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://millermilling.com`](https://google.com/search?q=https%3A%2F%2Fmillermilling.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.sunwell.com`](https://google.com/search?q=https%3A%2F%2Fwww.sunwell.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.power-soft.com`](https://google.com/search?q=http%3A%2F%2Fwww.power-soft.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://orthoexperts.com/`](https://google.com/search?q=https%3A%2F%2Forthoexperts.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Thursday 24/11/2022 21.27 (UTC)_
+Last update : _Thursday 24/11/2022 23.19 (UTC)_
