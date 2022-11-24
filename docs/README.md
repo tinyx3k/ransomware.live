@@ -7,7 +7,7 @@ currently tracking `128` groups across `233` relays & mirrors - _`98` currently 
 Check the recent ransomware posts [here](https://www.ransomware.live/#/recentposts)
 
 
-⏲ there have been `7` posts within the `last 24 hours`
+⏲ there have been `3` posts within the `last 24 hours`
 
 🕓 there have been `278` posts within the `month of november`
 
@@ -27,5 +27,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Thursday 24/11/2022 03.47 (UTC)_
+Last update : _Thursday 24/11/2022 05.05 (UTC)_
 
