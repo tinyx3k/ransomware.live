@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`https://www.infocision.com`](https://google.com/search?q=https%3A%2F%2Fwww.infocision.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`http://www.wiseyes.net`](https://google.com/search?q=http%3A%2F%2Fwww.wiseyes.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Thursday 24/11/2022 05.05 (UTC)_
+Last update : _Thursday 24/11/2022 07.15 (UTC)_
