@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-04 | [`LOESCHGROUP.DE FILES PART3 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART3+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Friday 25/11/2022 17.12 (UTC)_
+Last update : _Friday 25/11/2022 19.18 (UTC)_
