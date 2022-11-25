@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`Dialogsas`](https://google.com/search?q=Dialogsas) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-04 | [`LOESCHGROUP.DE FILES PART3 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART3+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-04 | [`ORDEREXPRESS.COM.MX FILES PART4 - 10.10.1.54, 10.10.1.84, 10.10.1.106, 10.10.1.110, 10.10.`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART4+-+10.10.1.54%2C+10.10.1.84%2C+10.10.1.106%2C+10.10.1.110%2C+10.10.) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-04 | [`MARCELSOLUTION.COM FILES PART5 - SYMASOFT7,8,24,27,28,30 PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART5+-+SYMASOFT7%2C8%2C24%2C27%2C28%2C30+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Friday 25/11/2022 13.24 (UTC)_
+Last update : _Friday 25/11/2022 15.09 (UTC)_
