@@ -3632,7 +3632,7 @@
         ]
     },
     {
-        "name": "playnews",
+        "name": "play",
         "captcha": false,
         "parser": false,
         "javascript_render": false,
