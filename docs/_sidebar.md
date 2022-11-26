@@ -1,6 +1,6 @@
 - [Home](README.md)
 - [Recent posts](recentposts.md)
-- [Group index](INDEX.md)
+- [Groups status](INDEX.md)
 - [Group profiles](profiles.md)
 - [Stats & graphs](stats.md)
 - [About](about.md)

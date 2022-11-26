@@ -11,7 +11,7 @@
                 "title": "0mega | Blog",
                 "version": 3,
                 "slug": "http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion",
-                "available": false,
+                "available": true,
                 "updated": "2022-11-26 08:16:32.043006",
                 "lastscrape": "2022-11-26 08:16:32.042988"
             },
@@ -20,7 +20,7 @@
                 "title": "0mega | Blog",
                 "version": 0,
                 "slug": "http://0mega.cc",
-                "available": false,
+                "available": true,
                 "updated": "2022-11-26 08:16:46.022292",
                 "lastscrape": "2022-11-26 08:16:46.022277"
             }
