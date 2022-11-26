@@ -99,7 +99,7 @@ def indexpage():
     with open(index_sheet, 'w', encoding='utf-8') as f:
         f.close()
     groups = openjson('groups.json')
-    writeline(index_sheet, '# 📚 index')
+    writeline(index_sheet, '# 🚦 Groups Status')
     writeline(index_sheet, '')
     header = '| group | title | status | last seen | location | Screenshoot |'
     writeline(index_sheet, header)

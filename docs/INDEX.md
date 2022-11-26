@@ -1,4 +1,4 @@
-# 📚 index
+# 🚦 Groups Status
 
 | group | title | status | last seen | location | Screenshoot |
 |---|---|---|---|---|---|
