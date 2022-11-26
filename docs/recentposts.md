@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`Dialogsas`](https://google.com/search?q=Dialogsas) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Saturday 26/11/2022 14.49 (UTC)_
+Last update : _Saturday 26/11/2022 14.53 (UTC)_

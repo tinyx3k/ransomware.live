@@ -251,9 +251,9 @@ def profilepage():
             screenshot=host['fqdn'].replace('.', '-') + '.png'
             screen=''
             if os.path.exists('docs/screenshots/'+screenshot):
-                screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + ' target=_blank>📸</a>'
+                screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
             if host['title'] is not None:
-                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + ' | ' + screen + ' | ' 
+                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
             else:
                 line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
