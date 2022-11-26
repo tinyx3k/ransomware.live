@@ -9,3 +9,4 @@ source/screenshots/*.png
 source/linkanalysis/*.json
 assets/tmp/**
 assets/diffpost.sh
+screenshotv2.py
