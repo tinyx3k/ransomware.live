@@ -3630,5 +3630,24 @@
         "profile": [
             "https://id-ransomware.blogspot.com/2022/02/zeon-ransomware.html"
         ]
+    },
+    {
+        "name": "playnews",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
+                "available": true,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000"
+            }
+        ],
+        "profile": []
     }
 ]

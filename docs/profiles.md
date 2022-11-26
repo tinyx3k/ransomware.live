@@ -586,7 +586,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Babuk - Leaks site | True | 3 | 12:27 26/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |  | 
+| Babuk - Leaks site | True | 3 | 12:27 26/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -846,7 +846,7 @@ _`captcha prevents indexing`_
 | BlackByte BLOG | False | 3 | 11:17 28/03/2022 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` |  | 
 | BlackByte BLOG | False | 3 | 20:21 24/04/2022 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` |  | 
 | BlackByte BLOG | False | 3 | 20:09 12/07/2022 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` |  | 
-| BB Auction | True | 3 | 12:31 26/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` |  | 
+| BB Auction | True | 3 | 12:31 26/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1008,7 +1008,7 @@ _`previous clearnet domain blackshadow.cc`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 12:31 26/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |  | 
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 12:31 26/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1086,7 +1086,7 @@ _`claim to donate 80% of earnings to charity`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://ekbgzchl6x2ias37.onion` |  | 
-| HOME - CL0P^_- LEAKS | True | 3 | 12:32 26/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |  | 
+| HOME - CL0P^_- LEAKS | True | 3 | 12:32 26/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2710,9 +2710,9 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | Dark Leak Market | False | 3 | 16:14 07/10/2021 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |  | 
-| anonymous Marketplace - best onion market - DarkHi | True | 3 | 12:35 26/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` |  | 
+| anonymous Marketplace - best onion market - DarkHi | True | 3 | 12:35 26/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | <a href="https://www.ransomware.live/screenshots/aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd-onion.png" target=_blank>📸</a> | 
 | Dark Leak Market | False | 3 | 10:23 25/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` |  | 
-| Dark Leak Market | True | 3 | 12:35 26/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` |  | 
+| Dark Leak Market | True | 3 | 12:35 26/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | <a href="https://www.ransomware.live/screenshots/darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -3107,7 +3107,7 @@ _`aka hive`_
 |---|---|---|---|---|---|
 | Hive | True | 3 | 12:40 26/11/2022 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
 | Hive | True | 3 | 12:41 26/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 12:41 26/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |  | 
+| none | True | 3 | 12:41 26/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -3349,7 +3349,7 @@ _`aka hotarus corp`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Chat | True | 3 | 12:42 26/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` |  | 
+| Chat | True | 3 | 12:42 26/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
 | Auction | True | 3 | 12:42 26/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | False | 0 | 00:00 01/05/2021 | `http://karaleaks.com` |  | 
 
@@ -4513,7 +4513,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | True | 3 | 12:55 26/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` |  | 
+| LockBit BLOG | True | 3 | 12:55 26/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | True | 3 | 12:56 26/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | True | 3 | 12:56 26/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |  | 
 | LockBit BLOG | True | 3 | 12:57 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
@@ -7056,5 +7056,14 @@ _`aka fonix`_
 | post | date |
 |---|---|
 
+## playnews
 
-Last update : _Saturday 26/11/2022 15.06 (UTC)_
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 3 | 00:00 01/05/2021 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` |  | 
+
+| post | date |
+|---|---|
+
+
+Last update : _Saturday 26/11/2022 15.33 (UTC)_
