@@ -5959,7 +5959,7 @@ _`aka pwndlocker`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | Qilin | True | 3 | 13:18 26/11/2022 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
-| Qilin blog | True | 3 | 13:19 26/11/2022 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` |  | 
+| Qilin blog | True | 3 | 13:19 26/11/2022 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -5996,7 +5996,7 @@ _`login page, no posts`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Quantum Blog | True | 3 | 13:19 26/11/2022 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |  | 
+| Quantum Blog | True | 3 | 13:19 26/11/2022 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
 | Secure Chat | False | 3 | 08:32 29/08/2022 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` |  | 
 
 | post | date |
@@ -6194,7 +6194,7 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| none | True | 3 | 13:20 26/11/2022 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |  | 
+| none | True | 3 | 13:20 26/11/2022 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6209,7 +6209,7 @@ _`shut down & offering a decryptor`_
 |---|---|---|---|---|---|
 | Ransomware - Control Panel | False | 3 | 18:21 03/03/2022 | `http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion` |  | 
 | none | False | 3 | 00:00 01/05/2021 | `http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion` |  | 
-| Ransom Cartel | True | 3 | 13:21 26/11/2022 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion` |  | 
+| Ransom Cartel | True | 3 | 13:21 26/11/2022 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion` | <a href="https://www.ransomware.live/screenshots/cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6224,7 +6224,7 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| ransomexx2 | True | 3 | 13:21 26/11/2022 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |  | 
+| ransomexx2 | True | 3 | 13:21 26/11/2022 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6278,7 +6278,7 @@ _`shut down & offering a decryptor`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | ©RansomHouse | False | 3 | 13:32 01/10/2022 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` |  | 
-| none | True | 3 | 13:23 26/11/2022 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |  | 
+| none | True | 3 | 13:23 26/11/2022 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6315,7 +6315,7 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Board of shame | True | 3 | 13:23 26/11/2022 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion` |  | 
+| Board of shame | True | 3 | 13:23 26/11/2022 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion` | <a href="https://www.ransomware.live/screenshots/blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6340,7 +6340,7 @@ _`shut down & offering a decryptor`_
 |---|---|---|---|---|---|
 | 404 Not Found | False | 3 | 12:16 19/08/2022 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |  | 
 | 404 Not Found | False | 3 | 12:17 19/08/2022 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |  | 
-| Blog | True | 3 | 13:27 26/11/2022 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` |  | 
+| Blog | True | 3 | 13:27 26/11/2022 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` | <a href="https://www.ransomware.live/screenshots/blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6426,8 +6426,8 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Royal | True | 3 | 13:28 26/11/2022 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` |  | 
-| none | True | 3 | 13:28 26/11/2022 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` |  | 
+| Royal | True | 3 | 13:28 26/11/2022 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | True | 3 | 13:28 26/11/2022 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6496,7 +6496,7 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| none | True | 3 | 13:28 26/11/2022 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |  | 
+| none | True | 3 | 13:28 26/11/2022 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | <a href="https://www.ransomware.live/screenshots/t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6555,7 +6555,7 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| News | True | 3 | 13:29 26/11/2022 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |  | 
+| News | True | 3 | 13:29 26/11/2022 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
 | News | True | 0 | 13:29 26/11/2022 | `http://snatch.press` | <a href="https://www.ransomware.live/screenshots/snatch-press.png" target=_blank>📸</a> | 
 
 | post | date |
@@ -6739,7 +6739,7 @@ _`shut down & offering a decryptor`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| none | True | 3 | 13:30 26/11/2022 | `http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` |  | 
+| none | True | 3 | 13:30 26/11/2022 | `http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` | <a href="https://www.ransomware.live/screenshots/chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6840,11 +6840,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://4hzyuotli6maqa4u.onion` |  | 
-| Vice Society - Official Site | True | 3 | 13:32 26/11/2022 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |  | 
+| Vice Society - Official Site | True | 3 | 13:32 26/11/2022 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | False | 3 | 17:27 21/09/2022 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` |  | 
-| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` |  | 
-| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` |  | 
-| Vice Society - Official Site | True | 3 | 13:34 26/11/2022 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` |  | 
+| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | True | 3 | 13:34 26/11/2022 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6974,7 +6974,7 @@ _`ecdmr42axxx.onion - fileserver`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| BITCARDS - Prepaid cards | True | 3 | 13:34 26/11/2022 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` |  | 
+| BITCARDS - Prepaid cards | True | 3 | 13:34 26/11/2022 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` | <a href="https://www.ransomware.live/screenshots/nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -7051,7 +7051,7 @@ _`aka fonix`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| ZEON.Recovery - Enter the key | True | 3 | 13:34 26/11/2022 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` |  | 
+| ZEON.Recovery - Enter the key | True | 3 | 13:34 26/11/2022 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` | <a href="https://www.ransomware.live/screenshots/zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -7066,4 +7066,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Saturday 26/11/2022 15.49 (UTC)_
+Last update : _Saturday 26/11/2022 16.04 (UTC)_
