@@ -4,8 +4,8 @@
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| 0mega - Blog | False | 3 | 08:16 26/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
-| 0mega - Blog | False | 0 | 08:16 26/11/2022 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
+| 0mega - Blog | True | 3 | 08:16 26/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
+| 0mega - Blog | True | 0 | 08:16 26/11/2022 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -4883,13 +4883,13 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd-onion.png" target=_blank>📸</a> | 
 | LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd-onion.png" target=_blank>📸</a> | 
 | LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` |  | 
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad-onion.png" target=_blank>📸</a> | 
 | LockBit - Leaked | False | 3 | 10:51 26/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |  | 
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |  | 
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |  | 
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |  | 
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |  | 
-| LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |  | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid-onion.png" target=_blank>📸</a> | 
 | LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |  | 
 | LockBit - Leaked | False | 3 | 09:04 26/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |  | 
 | LockBit - Leaked | True | 3 | 13:03 26/11/2022 | `http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |  | 
@@ -7057,4 +7057,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Saturday 26/11/2022 14.59 (UTC)_
+Last update : _Saturday 26/11/2022 15.04 (UTC)_
