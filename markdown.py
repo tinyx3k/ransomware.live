@@ -101,9 +101,9 @@ def indexpage():
     groups = openjson('groups.json')
     writeline(index_sheet, '# 📚 index')
     writeline(index_sheet, '')
-    header = '| group | title | status | last seen | location |'
+    header = '| group | title | status | last seen | location | Screenshoot |'
     writeline(index_sheet, header)
-    writeline(index_sheet, '|---|---|---|---|---|')
+    writeline(index_sheet, '|---|---|---|---|---|---|')
     for group in groups:
         stdlog('generating group report for ' + group['name'])
         for host in group['locations']:
@@ -119,7 +119,11 @@ def indexpage():
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| [' + group['name'] + '](https://ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            screenshot=host['fqdn'].replace('.', '-') + '.png'
+            screen=''
+            if os.path.exists('docs/screenshots/'+screenshot):
+                screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
+            line = '| [' + group['name'] + '](https://ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
             writeline(index_sheet, line)
 
 def sidebar():
