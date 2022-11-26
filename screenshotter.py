@@ -4,15 +4,10 @@
 screenshot up hosts using playwright 
 inspired by Ransomwatch & Ransomlook 
 '''
-import os
-import requests
+
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
-
-
-from sharedutils import sockshost, socksport
-# from sharedutils import stdlog, dbglog, errlog, honk
-from sharedutils import stdlog, errlog, honk
-from sharedutils import checktcp, openjson, randomagent        
+from sharedutils import stdlog, errlog
+from sharedutils import checktcp, openjson        
 
 def screenshot(webpage,fqdn):
     stdlog('webshot: {}'.format(webpage))
