@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-screenshot up hosts using playwright
+screenshot up hosts using playwright 
+inspired by Ransomwatch & Ransomlook 
 '''
 import os
 import requests
