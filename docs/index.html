@@ -61,6 +61,8 @@
 <meta name="msapplication-TileImage" content="/icon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 <link href="https://infosec.exchange/@JMousqueton" rel="me">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-changelog-plugin@latest/dist/style.css"/>
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
 </head>
 <body>
   <nav>
@@ -78,6 +80,8 @@
       autoHeader: true,
       name: '🏴‍☠️💰<br>Ransomware.live',
       externalLinkTarget: '_blank',
+      loadNavbar : false, // IMPORTANT
+      changelog : 'CHANGELOG.md' 
       repo: 'https://github.com/jmousqueton/ransomwatch',  
       search: 'auto',
       search : [
@@ -95,6 +99,7 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-changelog-plugin@latest/dist/index.js"></script>
   <!-- Matomo Image Tracker-->
 <img referrerpolicy="no-referrer-when-downgrade" src="https://stats.mousqueton.io/matomo.php?idsite=10&amp;rec=1" style="border:0" alt="" />
 <!-- End Matomo -->
