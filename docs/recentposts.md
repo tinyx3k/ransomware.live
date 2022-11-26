@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 
-Last update : _Saturday 26/11/2022 19.33 (UTC)_
+Last update : _Saturday 26/11/2022 20.27 (UTC)_
