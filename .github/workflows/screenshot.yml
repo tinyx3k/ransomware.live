@@ -1,0 +1,38 @@
+name: ransomwatch
+
+on:
+  schedule:
+    - cron: '0 0 45 * *'
+  workflow_dispatch:
+
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
+jobs:
+  torsocks-job:
+    runs-on: ubuntu-latest
+    timeout-minutes: 115
+    environment: CI
+    services:
+      torproxy:
+        image: ghcr.io/jmousqueton/ransomwatch/torproxy:latest
+        ports:
+        - 9050:9050
+    steps:
+      - name: checkout the repo
+        uses: actions/checkout@v2
+      - name: install dependencies
+        run: |
+          pip3 install -r requirements.txt
+          playwright install
+      - name: run screenshot
+        run: |
+          python3 screenshotter.py 
+      - name: save changes
+        # git config --global user.email "joshhighet@users.noreply.github.com"
+        # git config --global user.name "josh"
+        run: |  
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
+          git push

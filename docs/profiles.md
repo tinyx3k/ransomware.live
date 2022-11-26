@@ -2,12 +2,10 @@
 
 ## 0mega
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| 0mega - Blog | False | 3 | 08:16 26/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` |
-| 0mega - Blog | False | 0 | 08:16 26/11/2022 | `http://0mega.cc` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| 0mega - Blog | False | 3 | 08:16 26/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png target=_blank>📸</a> | 
+| 0mega - Blog | False | 0 | 08:16 26/11/2022 | `http://0mega.cc | <a href="https://www.ransomware.live/screenshots/0mega-cc.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -16,65 +14,55 @@ _parsing : `enabled`_
 
 ## RAMP
 
-_parsing : `disabled`_
-
 - https://ke-la.com/new-russian-speaking-forum-a-new-place-for-raas/
 
 - https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/
 
 - https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |
-| Log in - RAMP | False | 3 | 10:14 26/11/2022 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |
-| none | False | 3 | 00:00 01/05/2021 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |  | 
+| Log in - RAMP | False | 3 | 10:14 26/11/2022 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion |  | 
+| none | False | 3 | 00:00 01/05/2021 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## aGl0bGVyCg
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Error Response Page | False | 0 | 18:20 30/10/2022 | `http://hitleransomware.cf` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Error Response Page | False | 0 | 18:20 30/10/2022 | `http://hitleransomware.cf |  | 
 
 | post | date |
 |---|---|
 
 ## adminlocker
 
-_parsing : `disabled`_
-
 _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 
 - http://t.me/dotADMINbot
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Admin Locker | False | 3 | 03:49 20/05/2022 | `http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Admin Locker | False | 3 | 03:49 20/05/2022 | `http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## againstthewest
 
-_parsing : `disabled`_
-
 _`closed forum, access sold from https://sellix.io/atwforums`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Threat Actors - Onion Forums  - Internal Error | False | 3 | 22:15 21/11/2022 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Threat Actors - Onion Forums  - Internal Error | False | 3 | 22:15 21/11/2022 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## ako
-
-_parsing : `disabled`_
 
 - https://digital.nhs.uk/cyber-alerts/2020/cc-3345
 
@@ -82,16 +70,14 @@ _parsing : `disabled`_
 
 - https://malwiki.org/index.php?title=Ako
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## alphv
-
-_parsing : `enabled`_
 
 _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2wrbyd.onion``_
 
@@ -103,11 +89,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 - https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/noberus-blackcat-alphv-rust-ransomware
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-|   | True | 3 | 12:26 26/11/2022 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` |
-| none | False | 3 | 00:00 01/05/2021 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |
-|   | True | 3 | 12:26 26/11/2022 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+|   | True | 3 | 12:26 26/11/2022 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png target=_blank>📸</a> | 
+| none | False | 3 | 00:00 01/05/2021 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |  | 
+|   | True | 3 | 12:26 26/11/2022 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -323,17 +309,15 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ## arvinclub
 
-_parsing : `enabled`_
-
 - http://t.me/arvin_club
 
 - https://sosintel.co.uk/a-special-investigation-exposing-a-ransomware-groups-clear-web-ip-and-their-duplicate-identities/
 
 - D6164C90642CD93D9D3F353511B4BDBD1428309C90CDE13D3D7088AA5BE3010A52E485834E84
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Arvin Club – آزادی برای اتصال | False | 3 | 20:10 01/08/2022 | `http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Arvin Club – آزادی برای اتصال | False | 3 | 20:10 01/08/2022 | `http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion |  | 
 
 | post | date |
 |---|---|
@@ -360,18 +344,16 @@ _parsing : `enabled`_
 
 ## atomsilo
 
-_parsing : `enabled`_
-
 - https://www.cyfirma.com/outofband/malware-research-on-atomsilo-ransomware/
 
 - https://www.zscaler.com/blogs/security-research/atomsilo-ransomware-enters-league-double-extortion
 
 - https://twitter.com/vinopaljiri/status/1449550289204391940
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| AtomSilo | False | 3 | 05:02 17/12/2021 | `http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion` |
-| AtomSilo | False | 3 | 06:15 25/01/2022 | `http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| AtomSilo | False | 3 | 05:02 17/12/2021 | `http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion |  | 
+| AtomSilo | False | 3 | 06:15 25/01/2022 | `http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion |  | 
 
 | post | date |
 |---|---|
@@ -382,15 +364,13 @@ _parsing : `enabled`_
 
 ## avaddon
 
-_parsing : `enabled`_
-
 - https://www.acronis.com/en-us/articles/avaddon-ransomware
 
 - https://www.cyber.gov.au/sites/default/files/2021-05/2021-003%20Ongoing%20campaign%20using%20Avaddon%20Ransomware%20-%2020210508.pdf
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://avaddongun7rngel.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://avaddongun7rngel.onion` |  | 
 
 | post | date |
 |---|---|
@@ -539,11 +519,9 @@ _parsing : `enabled`_
 
 ## avos
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://avos2fuj6olp6x36.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://avos2fuj6olp6x36.onion` |  | 
 
 | post | date |
 |---|---|
@@ -551,8 +529,6 @@ _parsing : `disabled`_
 ## avoslocker
 
 :warning: _has a captcha_
-
-_parsing : `disabled`_
 
 _`captcha prevents indexing`_
 
@@ -564,9 +540,9 @@ _`captcha prevents indexing`_
 
 - previous parser: ZWdyZXAgLW8gJ3RpdGxlPSIoW1s6YWxudW06XV18IHxcLikrIicgc291cmNlL2F2b3Nsb2NrZXItKi5odG1sIHwgY3V0IC1kICciJyAtZjI=
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| AvosLocker Access Queue | False | 3 | 10:17 26/11/2022 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| AvosLocker Access Queue | False | 3 | 10:17 26/11/2022 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion |  | 
 
 | post | date |
 |---|---|
@@ -593,18 +569,14 @@ _`captcha prevents indexing`_
 
 ## aztroteam
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## babuk
-
-_parsing : `enabled`_
 
 - https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks
 
@@ -612,9 +584,9 @@ _parsing : `enabled`_
 
 - https://blog.cyberint.com/babuk-locker
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Babuk - Leaks site | True | 3 | 12:27 26/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Babuk - Leaks site | True | 3 | 12:27 26/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion |  | 
 
 | post | date |
 |---|---|
@@ -627,20 +599,16 @@ _parsing : `enabled`_
 
 ## babyduck
 
-_parsing : `disabled`_
-
 - https://twitter.com/PolarToffee/status/1445873002801889280?s=20
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## bianlian
-
-_parsing : `enabled`_
 
 > fetching this site requires a headless browser
 
@@ -648,9 +616,9 @@ _parsing : `enabled`_
 
 - SWikipedia@mail2tor.com
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Companies - BianLian | True | 3 | 12:28 26/11/2022 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Companies - BianLian | True | 3 | 12:28 26/11/2022 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -706,14 +674,12 @@ _parsing : `enabled`_
 
 ## blackbasta
 
-_parsing : `enabled`_
-
 > fetching this site requires a headless browser
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Black Basta Blog | True | 3 | 12:29 26/11/2022 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` |
-| Chat Black Basta | True | 3 | 12:29 26/11/2022 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Black Basta Blog | True | 3 | 12:29 26/11/2022 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png target=_blank>📸</a> | 
+| Chat Black Basta | True | 3 | 12:29 26/11/2022 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -861,8 +827,6 @@ _parsing : `enabled`_
 
 ## blackbyte
 
-_parsing : `enabled`_
-
 - 61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47
 
 - BlackByteSupp0rt@onionmail.org
@@ -875,14 +839,14 @@ _parsing : `enabled`_
 
 - https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion` |
-| BlackByte BLOG | False | 3 | 09:14 30/12/2021 | `http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion` |
-| BlackByte BLOG | False | 3 | 11:17 28/03/2022 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` |
-| BlackByte BLOG | False | 3 | 20:21 24/04/2022 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` |
-| BlackByte BLOG | False | 3 | 20:09 12/07/2022 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` |
-| BB Auction | True | 3 | 12:31 26/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion` |  | 
+| BlackByte BLOG | False | 3 | 09:14 30/12/2021 | `http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion |  | 
+| BlackByte BLOG | False | 3 | 11:17 28/03/2022 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion |  | 
+| BlackByte BLOG | False | 3 | 20:21 24/04/2022 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion |  | 
+| BlackByte BLOG | False | 3 | 20:09 12/07/2022 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion |  | 
+| BB Auction | True | 3 | 12:31 26/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion |  | 
 
 | post | date |
 |---|---|
@@ -978,17 +942,15 @@ _parsing : `enabled`_
 
 ## blackmatter
 
-_parsing : `enabled`_
-
 _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 
 - https://www.tripwire.com/state-of-security/featured/blackmatter-pose-new-ransomware-threat
 
 - https://venturebeat.com/2021/08/23/sophoslabs-research-shows-blackmatter-ransomware-is-closely-acquainted-with-darkside
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| BlackMatter | False | 3 | 21:45 04/11/2021 | `http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| BlackMatter | False | 3 | 21:45 04/11/2021 | `http://blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |  | 
 
 | post | date |
 |---|---|
@@ -1026,17 +988,15 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 
 ## blackshadow
 
-_parsing : `disabled`_
-
 _`previous clearnet domain blackshadow.cc`_
 
 > fetching this site requires a headless browser
 
 - previous parser: ZWdyZXAgLW8gJ19zZWxmIj4oW1s6YWxudW06XV18IHxcLikrPC9hPicgIHNvdXJjZS9ibGFja3NoYWRvdy1ibGFja3NoYWRvdy5odG1sIHwgY3V0IC1kICc+JyAtZiAyIHwgY3V0IC1kICc8JyAtZiAxIHwgc2VkIC1lICcvRG9uYXRlL2QnIC1lICcvSG9tZS9kJyAtZSAnL0NvbnRhY3QgVVMvZCcgLWUgJy9UZWxlZ3JhbSBjaGFubmVsL2QnIHwgc29ydCAtdQ==
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://544corkfh5hwhtn4.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://544corkfh5hwhtn4.onion` |  | 
 
 | post | date |
 |---|---|
@@ -1046,11 +1006,9 @@ _`previous clearnet domain blackshadow.cc`_
 
 ## blacktor
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 12:31 26/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 12:31 26/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion |  | 
 
 | post | date |
 |---|---|
@@ -1062,24 +1020,20 @@ _parsing : `enabled`_
 
 ## bluesky
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| BlueSky DECRYPTOR | True | 3 | 12:31 26/11/2022 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| BlueSky DECRYPTOR | True | 3 | 12:31 26/11/2022 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
 
 ## bonacigroup
 
-_parsing : `disabled`_
-
 _`claim to donate 80% of earnings to charity`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| 502 Bad Gateway | False | 3 | 14:14 28/12/2021 | `http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| 502 Bad Gateway | False | 3 | 14:14 28/12/2021 | `http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion |  | 
 
 | post | date |
 |---|---|
@@ -1089,12 +1043,10 @@ _`claim to donate 80% of earnings to charity`_
 
 ## cheers
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Cheers! | False | 3 | 06:46 20/09/2022 | `http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion` |
-| sembmarine | False | 3 | 08:22 20/09/2022 | `http://crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Cheers! | False | 3 | 06:46 20/09/2022 | `http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion |  | 
+| sembmarine | False | 3 | 08:22 20/09/2022 | `http://crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion |  | 
 
 | post | date |
 |---|---|
@@ -1116,11 +1068,9 @@ _parsing : `enabled`_
 
 ## chilelocker
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Login | True | 3 | 12:32 26/11/2022 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Login | True | 3 | 12:32 26/11/2022 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1129,16 +1079,14 @@ _parsing : `disabled`_
 
 :warning: _has a captcha_
 
-_parsing : `enabled`_
-
 - https://blog.malwarebytes.com/malwarebytes-news/2021/02/clop-targets-execs-ransomware-tactics-get-another-new-twist
 
 - https://unit42.paloaltonetworks.com/clop-ransomware
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://ekbgzchl6x2ias37.onion` |
-| HOME - CL0P^_- LEAKS | True | 3 | 12:32 26/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://ekbgzchl6x2ias37.onion` |  | 
+| HOME - CL0P^_- LEAKS | True | 3 | 12:32 26/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |  | 
 
 | post | date |
 |---|---|
@@ -2224,19 +2172,17 @@ _parsing : `enabled`_
 
 ## conti
 
-_parsing : `enabled`_
-
 _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 - https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442
 
 - https://unit42.paloaltonetworks.com/conti-ransomware-gang
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| CONTI.News | False | 3 | 06:25 22/06/2022 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |
-| none | True | 0 | 12:32 26/11/2022 | `http://continews.click` |
-| Error Response Page | False | 0 | 12:36 23/11/2022 | `http://continews.bz` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| CONTI.News | False | 3 | 06:25 22/06/2022 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |  | 
+| none | True | 0 | 12:32 26/11/2022 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png target=_blank>📸</a> | 
+| Error Response Page | False | 0 | 12:36 23/11/2022 | `http://continews.bz |  | 
 
 | post | date |
 |---|---|
@@ -2576,38 +2522,32 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 ## cooming
 
-_parsing : `disabled`_
-
 _`previous clearnet domain coomingproject.com`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| CoomingProject announcement | False | 3 | 23:26 04/02/2022 | `http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion` |
-| none | False | 2 | 00:00 01/05/2021 | `http://teo7aj5mfgzxyeme.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| CoomingProject announcement | False | 3 | 23:26 04/02/2022 | `http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |  | 
+| none | False | 2 | 00:00 01/05/2021 | `http://teo7aj5mfgzxyeme.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## crylock
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://d57uremugxjrafyg.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://d57uremugxjrafyg.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## cryp70n1c0d3
 
-_parsing : `enabled`_
-
 _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| -*- CRYP70N1C0D3 Team -*- | False | 3 | 14:33 23/09/2022 | `http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| -*- CRYP70N1C0D3 Team -*- | False | 3 | 14:33 23/09/2022 | `http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |  | 
 
 | post | date |
 |---|---|
@@ -2625,8 +2565,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 ## cuba
 
-_parsing : `enabled`_
-
 > fetching this site requires a headless browser
 
 - https://www.mcafee.com/enterprise/en-us/assets/reports/rp-cuba-ransomware.pdf
@@ -2635,10 +2573,10 @@ _parsing : `enabled`_
 
 - https://www.ic3.gov/Media/News/2021/211203-2.pdf
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://cuba4mp6ximo2zlo.onion` |
-| Cuba | True | 3 | 12:34 26/11/2022 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://cuba4mp6ximo2zlo.onion` |  | 
+| Cuba | True | 3 | 12:34 26/11/2022 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2731,23 +2669,19 @@ _parsing : `enabled`_
 
 ## dagonlocker
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| The Chat | False | 3 | 20:33 10/11/2022 | `http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| The Chat | False | 3 | 20:33 10/11/2022 | `http://dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## daixin
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 22:30 10/11/2022 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` |
-| Data Leak | False | 3 | 10:26 26/11/2022 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 22:30 10/11/2022 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` |  | 
+| Data Leak | False | 3 | 10:26 26/11/2022 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2760,29 +2694,25 @@ _parsing : `disabled`_
 
 ## darkangels
 
-_parsing : `disabled`_
-
 _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Home | False | 3 | 23:41 18/07/2022 | `http://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Home | False | 3 | 23:41 18/07/2022 | `http://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion |  | 
 
 | post | date |
 |---|---|
 
 ## darkleakmarket
 
-_parsing : `enabled`_
-
 _`marketplace - not a ransomware group, reputation questionable`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Dark Leak Market | False | 3 | 16:14 07/10/2021 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |
-| anonymous Marketplace - best onion market - DarkHi | True | 3 | 12:35 26/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` |
-| Dark Leak Market | False | 3 | 10:23 25/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` |
-| Dark Leak Market | True | 3 | 12:35 26/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Dark Leak Market | False | 3 | 16:14 07/10/2021 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |  | 
+| anonymous Marketplace - best onion market - DarkHi | True | 3 | 12:35 26/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion |  | 
+| Dark Leak Market | False | 3 | 10:23 25/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |  | 
+| Dark Leak Market | True | 3 | 12:35 26/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion |  | 
 
 | post | date |
 |---|---|
@@ -2828,41 +2758,35 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 ## darkside
 
-_parsing : `disabled`_
-
 - https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware
 
 - https://www.varonis.com/blog/darkside-ransomware
 
 - https://github.com/advanced-threat-research/DarkSide-Config-Extract
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://darksidc3iux462n6yunevoag52ntvwp6wulaz3zirkmh4cnz6hhj7id.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## diavol
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Chat | False | 3 | 16:33 31/10/2022 | `http://7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Chat | False | 3 | 16:33 31/10/2022 | `http://7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## donutleaks
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| _D0#Nut::__chat | False | 3 | 20:39 21/10/2022 | `http://qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion` |
-| D0N#T__::LEAKS:: | False | 3 | 18:47 21/10/2022 | `http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion` |
-| _d0nut.::Files_ | False | 3 | 20:39 21/10/2022 | `http://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| _D0#Nut::__chat | False | 3 | 20:39 21/10/2022 | `http://qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion |  | 
+| D0N#T__::LEAKS:: | False | 3 | 18:47 21/10/2022 | `http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion |  | 
+| _d0nut.::Files_ | False | 3 | 20:39 21/10/2022 | `http://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion |  | 
 
 | post | date |
 |---|---|
@@ -2879,45 +2803,39 @@ _parsing : `enabled`_
 
 :warning: _has a captcha_
 
-_parsing : `disabled`_
-
 > fetching this site requires a headless browser
 
 - https://aithority.com/security/doppelpaymer-ransomware-attack-sinks-a-global-motor-companys-20-million
 
 - https://www.zscaler.com/blogs/security-research/doppelpaymer-continues-cause-grief-through-rebranding
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Start-maximized.com | False | 3 | 10:08 23/09/2021 | `http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Start-maximized.com | False | 3 | 10:08 23/09/2021 | `http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## dread
 
-_parsing : `disabled`_
-
 _`marketplace - not a ransomware group`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Dread Access Queue | False | 3 | 10:28 26/11/2022 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Dread Access Queue | False | 3 | 10:28 26/11/2022 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## ech0raix
 
-_parsing : `disabled`_
-
 - https://www.anomali.com/blog/the-ech0raix-ransomware
 
 - https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | True | 3 | 12:37 26/11/2022 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 3 | 12:37 26/11/2022 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2926,37 +2844,31 @@ _parsing : `disabled`_
 
 :warning: _has a captcha_
 
-_parsing : `disabled`_
-
 _`captcha prevents indexing`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Entropy hall of fall | False | 3 | 08:16 27/02/2022 | `http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Entropy hall of fall | False | 3 | 08:16 27/02/2022 | `http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## ep918
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## everest
 
-_parsing : `enabled`_
-
 - https://www.reuters.com/article/us-usa-products-colonial-pipeline-ransom/more-ransomware-websites-disappear-in-aftermath-of-colonial-pipeline-hack-idUSKCN2CX0KT
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Everest Ransomware Group | False | 3 | 10:29 26/11/2022 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Everest Ransomware Group | False | 3 | 10:29 26/11/2022 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -3075,24 +2987,20 @@ _parsing : `enabled`_
 
 ## exorcist
 
-_parsing : `disabled`_
-
 - https://medium.com/@velasco.l.n/exorcist-ransomware-from-triaging-to-deep-dive-5b7da4263d81
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## freecivilian
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Free Civilian | False | 3 | 03:31 22/11/2022 | `http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Free Civilian | False | 3 | 03:31 22/11/2022 | `http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion |  | 
 
 | post | date |
 |---|---|
@@ -3100,8 +3008,6 @@ _parsing : `disabled`_
 ## grief
 
 :warning: _has a captcha_
-
-_parsing : `disabled`_
 
 _`captcha prevents indexing`_
 
@@ -3111,24 +3017,22 @@ _`captcha prevents indexing`_
 
 - https://www.bleepingcomputer.com/news/security/nra-no-comment-on-russian-ransomware-gang-attack-claims/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Grief list | False | 3 | 11:11 02/05/2022 | `http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Grief list | False | 3 | 11:11 02/05/2022 | `http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion |  | 
 
 | post | date |
 |---|---|
 
 ## groove
 
-_parsing : `enabled`_
-
 - https://intel471.com/blog/groove-gang-ransomware-babuk-revil-blackmatter
 
 - https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/how-groove-gang-is-shaking-up-the-ransomware-as-a-service-market-to-empower-affiliates
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Утечки - Groove | False | 3 | 10:50 30/10/2021 | `http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Утечки - Groove | False | 3 | 10:50 30/10/2021 | `http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion |  | 
 
 | post | date |
 |---|---|
@@ -3148,18 +3052,14 @@ _parsing : `enabled`_
 
 ## hades
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://ixltdyumdlthrtgx.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://ixltdyumdlthrtgx.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## haron
-
-_parsing : `disabled`_
 
 _`login page, no posts`_
 
@@ -3167,16 +3067,14 @@ _`login page, no posts`_
 
 - https://threatpost.com/ransomware-gangs-haron-blackmatter/168212
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Clients page | False | 3 | 20:17 31/01/2022 | `http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Clients page | False | 3 | 20:17 31/01/2022 | `http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## hellokitty
-
-_parsing : `disabled`_
 
 _`aka fivehands`_
 
@@ -3188,16 +3086,14 @@ _`aka fivehands`_
 
 - https://www.mandiant.com/resources/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| News | False | 3 | 15:17 02/10/2021 | `http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| News | False | 3 | 15:17 02/10/2021 | `http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## hiveleak
-
-_parsing : `enabled`_
 
 _`aka hive`_
 
@@ -3207,11 +3103,11 @@ _`aka hive`_
 
 - https://blogs.blackberry.com/en/2021/07/threat-thursday-hive-ransomware
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Hive | True | 3 | 12:40 26/11/2022 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` |
-| Hive | True | 3 | 12:41 26/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` |
-| none | True | 3 | 12:41 26/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Hive | True | 3 | 12:40 26/11/2022 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png target=_blank>📸</a> | 
+| Hive | True | 3 | 12:41 26/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png target=_blank>📸</a> | 
+| none | True | 3 | 12:41 26/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` |  | 
 
 | post | date |
 |---|---|
@@ -3407,37 +3303,31 @@ _`aka hive`_
 
 ## holyghost
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| HolyGhost | False | 3 | 17:36 22/04/2022 | `http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| HolyGhost | False | 3 | 17:36 22/04/2022 | `http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## hotarus
 
-_parsing : `disabled`_
-
 _`aka hotarus corp`_
 
 - https://www.bleepingcomputer.com/news/security/ransomware-gang-hacks-ecuadors-largest-private-bank-ministry-of-finance/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Hotarus Corp | False | 3 | 04:52 22/10/2021 | `http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Hotarus Corp | False | 3 | 04:52 22/10/2021 | `http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## icefire
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Leakage List | False | 3 | 13:04 24/08/2022 | `http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Leakage List | False | 3 | 13:04 24/08/2022 | `http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion |  | 
 
 | post | date |
 |---|---|
@@ -3455,22 +3345,18 @@ _parsing : `enabled`_
 
 ## karakurt
 
-_parsing : `disabled`_
-
 > fetching this site requires a headless browser
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Chat | True | 3 | 12:42 26/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` |
-| Auction | True | 3 | 12:42 26/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` |
-| none | False | 0 | 00:00 01/05/2021 | `http://karaleaks.com` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Chat | True | 3 | 12:42 26/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion |  | 
+| Auction | True | 3 | 12:42 26/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png target=_blank>📸</a> | 
+| none | False | 0 | 00:00 01/05/2021 | `http://karaleaks.com` |  | 
 
 | post | date |
 |---|---|
 
 ## karma
-
-_parsing : `enabled`_
 
 - https://www.sentinelone.com/labs/karma-ransomware-an-emerging-threat-with-a-hint-of-nemty-pedigree/
 
@@ -3482,9 +3368,9 @@ _parsing : `enabled`_
 
 - https://securityaffairs.co/wordpress/123568/malware/karma-ransomware-nemty-similarities.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Karma Leaks | False | 3 | 02:09 05/11/2021 | `http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Karma Leaks | False | 3 | 02:09 05/11/2021 | `http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |  | 
 
 | post | date |
 |---|---|
@@ -3498,15 +3384,13 @@ _parsing : `enabled`_
 
 ## kelvinsecurity
 
-_parsing : `enabled`_
-
 _`not a ransomware group`_
 
 - https://twitter.com/Ksecureteamlab
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | True | 0 | 12:46 26/11/2022 | `http://kelvinsecteamcyber.wixsite.com` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 0 | 12:46 26/11/2022 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -3539,13 +3423,11 @@ _`not a ransomware group`_
 
 ## leaktheanalyst
 
-_parsing : `enabled`_
-
 _`not a ransomware group`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| #LeakTheAnalyst | False | 3 | 10:37 05/08/2022 | `http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| #LeakTheAnalyst | False | 3 | 10:37 05/08/2022 | `http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion |  | 
 
 | post | date |
 |---|---|
@@ -3572,31 +3454,25 @@ _`not a ransomware group`_
 
 ## lilith
 
-_parsing : `disabled`_
-
 - BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Lilith | False | 3 | 14:56 09/08/2022 | `http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Lilith | False | 3 | 14:56 09/08/2022 | `http://yeuajcizwytgmrntijhxphs6wn5txp2prs6rpndafbsapek3zd4ubcid.onion |  | 
 
 | post | date |
 |---|---|
 
 ## lockbit
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://lockbitkodidilol.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://lockbitkodidilol.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## lockbit2
-
-_parsing : `enabled`_
 
 _`previous clearnet fqdn lockbitapt.uz`_
 
@@ -3608,13 +3484,13 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 - https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| LOCKFILE | False | 3 | 19:05 21/11/2021 | `http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion` |
-| LockBit BLOG | False | 3 | 16:10 17/06/2022 | `http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` |
-| LockBit BLOG | False | 3 | 16:10 17/06/2022 | `http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion` |
-| LockBit BLOG | False | 3 | 16:11 17/06/2022 | `http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion` |
-| LockBit BLOG | False | 3 | 16:11 17/06/2022 | `http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| LOCKFILE | False | 3 | 19:05 21/11/2021 | `http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |  | 
+| LockBit BLOG | False | 3 | 16:10 17/06/2022 | `http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |  | 
+| LockBit BLOG | False | 3 | 16:10 17/06/2022 | `http://oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |  | 
+| LockBit BLOG | False | 3 | 16:11 17/06/2022 | `http://lockbitaptstzf3er2lz6ku3xuifafq2yh5lmiqj5ncur6rtlmkteiqd.onion |  | 
+| LockBit BLOG | False | 3 | 16:11 17/06/2022 | `http://lockbitaptq7ephv2oigdncfhtwhpqgwmqojnxqdyhprxxfpcllqdxad.onion |  | 
 
 | post | date |
 |---|---|
@@ -4627,31 +4503,29 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ## lockbit3
 
-_parsing : `enabled`_
-
 > fetching this site requires a headless browser
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| LockBit BLOG | False | 3 | 10:40 26/11/2022 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |
-| LockBit BLOG | True | 3 | 12:52 26/11/2022 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` |
-| LockBit BLOG | False | 3 | 10:41 26/11/2022 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` |
-| LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` |
-| LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` |
-| LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
-| LockBit BLOG | True | 3 | 12:55 26/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` |
-| LockBit BLOG | True | 3 | 12:56 26/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` |
-| LockBit BLOG | True | 3 | 12:56 26/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |
-| LockBit BLOG | True | 3 | 12:57 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` |
-| LockBit LOGIN | True | 3 | 12:57 26/11/2022 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` |
-| LockBit LOGIN | True | 3 | 12:57 26/11/2022 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` |
-| LockBit LOGIN | True | 3 | 12:57 26/11/2022 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` |
-| none | True | 3 | 12:58 26/11/2022 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` |
-| none | True | 3 | 12:58 26/11/2022 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` |
-| LockBit Anti-DDoS | True | 3 | 12:59 26/11/2022 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` |
-| LockBit LOGIN | True | 3 | 12:59 26/11/2022 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` |
-| LockBit LOGIN | True | 3 | 13:00 26/11/2022 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` |
-| none | True | 3 | 13:00 26/11/2022 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| LockBit BLOG | False | 3 | 10:40 26/11/2022 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion |  | 
+| LockBit BLOG | True | 3 | 12:52 26/11/2022 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png target=_blank>📸</a> | 
+| LockBit BLOG | False | 3 | 10:41 26/11/2022 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 12:53 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 12:55 26/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion |  | 
+| LockBit BLOG | True | 3 | 12:56 26/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 12:56 26/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |  | 
+| LockBit BLOG | True | 3 | 12:57 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png target=_blank>📸</a> | 
+| LockBit LOGIN | True | 3 | 12:57 26/11/2022 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png target=_blank>📸</a> | 
+| LockBit LOGIN | True | 3 | 12:57 26/11/2022 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png target=_blank>📸</a> | 
+| LockBit LOGIN | True | 3 | 12:57 26/11/2022 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png target=_blank>📸</a> | 
+| none | True | 3 | 12:58 26/11/2022 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` |  | 
+| none | True | 3 | 12:58 26/11/2022 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` |  | 
+| LockBit Anti-DDoS | True | 3 | 12:59 26/11/2022 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion |  | 
+| LockBit LOGIN | True | 3 | 12:59 26/11/2022 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion |  | 
+| LockBit LOGIN | True | 3 | 13:00 26/11/2022 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion |  | 
+| none | True | 3 | 13:00 26/11/2022 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` |  | 
 
 | post | date |
 |---|---|
@@ -4994,43 +4868,39 @@ _parsing : `enabled`_
 
 ## lockbit3_fs
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` |
-| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` |
-| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` |
-| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` |
-| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` |
-| LockBit - Leaked | False | 3 | 10:51 26/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` |
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` |
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` |
-| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` |
-| LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` |
-| LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |
-| LockBit - Leaked | False | 3 | 09:04 26/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |
-| LockBit - Leaked | True | 3 | 13:03 26/11/2022 | `http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` |
-| LockBit - Leaked | True | 3 | 13:03 26/11/2022 | `http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` |
-| LockBit File Share | True | 3 | 13:04 26/11/2022 | `http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion` |
-| LockBit Private Note | True | 3 | 13:04 26/11/2022 | `http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion |  | 
+| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:00 26/11/2022 | `http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion |  | 
+| LockBit - Leaked | True | 3 | 13:01 26/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion |  | 
+| LockBit - Leaked | False | 3 | 10:51 26/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion |  | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:02 26/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion |  | 
+| LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion |  | 
+| LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion |  | 
+| LockBit - Leaked | False | 3 | 09:04 26/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:03 26/11/2022 | `http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion |  | 
+| LockBit - Leaked | True | 3 | 13:03 26/11/2022 | `http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion |  | 
+| LockBit File Share | True | 3 | 13:04 26/11/2022 | `http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion |  | 
+| LockBit Private Note | True | 3 | 13:04 26/11/2022 | `http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## lockdata
-
-_parsing : `enabled`_
 
 _`marketplace - not a ransomware group`_
 
@@ -5038,9 +4908,9 @@ _`marketplace - not a ransomware group`_
 
 - https://twitter.com/darktracer_int/status/1418318232885153792
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| LockData Auction | False | 3 | 16:16 09/04/2022 | `http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| LockData Auction | False | 3 | 16:16 09/04/2022 | `http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion |  | 
 
 | post | date |
 |---|---|
@@ -5052,20 +4922,16 @@ _`marketplace - not a ransomware group`_
 
 ## lolnek
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 08:28 27/08/2022 | `http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |
-| none | True | 3 | 13:04 26/11/2022 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` |
-| none | False | 3 | 05:15 01/10/2022 | `http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 08:28 27/08/2022 | `http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` |  | 
+| none | True | 3 | 13:04 26/11/2022 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` |  | 
+| none | False | 3 | 05:15 01/10/2022 | `http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## lorenz
-
-_parsing : `enabled`_
 
 _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/index.php`_
 
@@ -5073,9 +4939,9 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 - https://www.cybertalk.org/the-worst-outcomes-lorenz-ransomware-a-new-double-extortion-strategy
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Lorenz | True | 3 | 13:04 26/11/2022 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Lorenz | True | 3 | 13:04 26/11/2022 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |  | 
 
 | post | date |
 |---|---|
@@ -5135,16 +5001,14 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 ## lv
 
-_parsing : `enabled`_
-
 - https://www.secureworks.com/research/lv-ransomware
 
 - https://securityaffairs.co/wordpress/119306/malware/lv-ransomware-repurposed-revil-binary.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | True | 3 | 13:12 26/11/2022 | `http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |
-| Start-maximized.com | False | 3 | 13:09 02/12/2021 | `http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 3 | 13:12 26/11/2022 | `http://rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion` |  | 
+| Start-maximized.com | False | 3 | 13:09 02/12/2021 | `http://4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |  | 
 
 | post | date |
 |---|---|
@@ -5213,15 +5077,13 @@ _parsing : `enabled`_
 
 ## mallox
 
-_parsing : `enabled`_
-
 _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 > fetching this site requires a headless browser
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Mallox - Blog | True | 3 | 13:12 26/11/2022 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Mallox - Blog | True | 3 | 13:12 26/11/2022 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion |  | 
 
 | post | date |
 |---|---|
@@ -5236,8 +5098,6 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 ## marketo
 
-_parsing : `enabled`_
-
 _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 - https://www.digitalshadows.com/blog-and-research/marketo-a-return-to-simple-extortion
@@ -5248,12 +5108,12 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 - https://t.me/marketocloud
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://marketojbwagqnwx.onion` |
-| none | False | 2 | 00:00 01/05/2021 | `http://g5sbltooh2okkcb2.onion` |
-| 404 Not Found | False | 3 | 08:05 04/10/2021 | `http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion` |
-| 502 Bad Gateway | False | 3 | 05:12 14/03/2022 | `http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://marketojbwagqnwx.onion` |  | 
+| none | False | 2 | 00:00 01/05/2021 | `http://g5sbltooh2okkcb2.onion` |  | 
+| 404 Not Found | False | 3 | 08:05 04/10/2021 | `http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion |  | 
+| 502 Bad Gateway | False | 3 | 05:12 14/03/2022 | `http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion |  | 
 
 | post | date |
 |---|---|
@@ -5292,40 +5152,34 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 ## maze
 
-_parsing : `disabled`_
-
 - https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down
 
 - https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://xfr3txoorcyy7tikjgj5dk3rvo3vsrpyaxnclyohkbfp3h277ap4tiad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## mbc
 
-_parsing : `disabled`_
-
 - https://www.thenationalnews.com/business/2021/08/21/mbc-ransomware-group-claims-responsibility-for-cyber-attack-on-irans-railway-network/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## medusa
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` |
-| 502 Bad Gateway | False | 3 | 11:03 26/11/2022 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` |  | 
+| 502 Bad Gateway | False | 3 | 11:03 26/11/2022 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion |  | 
 
 | post | date |
 |---|---|
@@ -5353,11 +5207,9 @@ _parsing : `disabled`_
 
 ## midas
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Info | False | 3 | 00:21 15/04/2022 | `http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Info | False | 3 | 00:21 15/04/2022 | `http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion |  | 
 
 | post | date |
 |---|---|
@@ -5408,11 +5260,9 @@ _parsing : `enabled`_
 
 ## mindware
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| DataLeakBlog | False | 3 | 10:33 16/08/2022 | `http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| DataLeakBlog | False | 3 | 10:33 16/08/2022 | `http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion |  | 
 
 | post | date |
 |---|---|
@@ -5432,8 +5282,6 @@ _parsing : `disabled`_
 
 ## mosesstaff
 
-_parsing : `enabled`_
-
 _`not a ransomware group`_
 
 > fetching this site requires a headless browser
@@ -5448,10 +5296,10 @@ _`not a ransomware group`_
 
 - https://research.checkpoint.com/2021/mosesstaff-targeting-israeli-companies/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://mosesstaffm7hptp.onion` |
-| Activities – Moses Staff | True | 0 | 13:15 26/11/2022 | `http://moses-staff.se` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://mosesstaffm7hptp.onion` |  | 
+| Activities – Moses Staff | True | 0 | 13:15 26/11/2022 | `http://moses-staff.se |  | 
 
 | post | date |
 |---|---|
@@ -5474,59 +5322,49 @@ _`not a ransomware group`_
 
 ## monti
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| 404 Not Found | False | 3 | 17:13 10/10/2022 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| 404 Not Found | False | 3 | 17:13 10/10/2022 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## mount-locker
 
-_parsing : `enabled`_
-
 - https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game
 
 - https://www.securitymagazine.com/articles/94954-sophos-identifies-connection-between-mount-locker-and-astro-locker-team-ransomware
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://mountnewsokhwilx.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://mountnewsokhwilx.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## mydecryptor
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://5s4ixqul2enwxrqv.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://5s4ixqul2enwxrqv.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## n3tworm
 
-_parsing : `disabled`_
-
 - https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/
 
 - https://www.haaretz.com/israel-news/tech-news/.premium-iranian-hackers-hit-h-m-israel-amid-new-wave-of-cyberattacks-1.9766404
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## nefilim
-
-_parsing : `enabled`_
 
 > fetching this site requires a headless browser
 
@@ -5534,9 +5372,9 @@ _parsing : `enabled`_
 
 - https://www.trendmicro.com/en_nz/research/21/f/nefilim-modern-ransomware-attack-story.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://hxt254aygrsziejn.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://hxt254aygrsziejn.onion` |  | 
 
 | post | date |
 |---|---|
@@ -5553,8 +5391,6 @@ _parsing : `enabled`_
 
 ## nemty
 
-_parsing : `disabled`_
-
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/nemty-ransomware-learning-by-doing/
 
 - https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/nemty-ransomware-trik-botnet
@@ -5565,16 +5401,14 @@ _parsing : `disabled`_
 
 - https://www.infoblox.com/wp-content/uploads/threat-intelligence-report-nemty-ransomware-loves-you.pdf
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## netwalker
-
-_parsing : `disabled`_
 
 - https://threatpost.com/netwalker-ransomware-suspect-charged/163405
 
@@ -5582,24 +5416,22 @@ _parsing : `disabled`_
 
 - https://www.ncsc.org/trends/monthly-trends-articles/2020/netwalker-ransomware
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## nightsky
 
-_parsing : `enabled`_
-
 - https://t.me/arvin_club/5081
 
 - https://twitter.com/malwrhunterteam/status/1477381209147723788?s=20
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Night Sky | False | 3 | 05:22 25/01/2022 | `http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Night Sky | False | 3 | 05:22 25/01/2022 | `http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |  | 
 
 | post | date |
 |---|---|
@@ -5608,41 +5440,35 @@ _parsing : `enabled`_
 
 ## nokoyawa
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| NOKOYAWA Leaks | False | 3 | 22:26 11/07/2022 | `http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| NOKOYAWA Leaks | False | 3 | 22:26 11/07/2022 | `http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion |  | 
 
 | post | date |
 |---|---|
 
 ## onepercent
 
-_parsing : `disabled`_
-
 - https://www.ic3.gov/Media/News/2021/210823.pdf
 
 - https://www.csoonline.com/article/3630635/onepercent-ransomware-group-hits-companies-via-iceid-banking-trojan.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## onyx
 
-_parsing : `disabled`_
-
 _`aka vsop`_
 
 - vsop@onionmail.org
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| VSOP NEWS | True | 3 | 13:16 26/11/2022 | `http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| VSOP NEWS | True | 3 | 13:16 26/11/2022 | `http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion |  | 
 
 | post | date |
 |---|---|
@@ -5677,14 +5503,12 @@ _`aka vsop`_
 
 ## pandora
 
-_parsing : `enabled`_
-
 - contact@pandoraxyz.xyz
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Pandora Data Leak | False | 3 | 11:24 03/05/2022 | `http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion` |
-| none | False | 0 | 00:00 01/05/2021 | `http://pandoraxyz.xyz` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Pandora Data Leak | False | 3 | 11:24 03/05/2022 | `http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |  | 
+| none | False | 0 | 00:00 01/05/2021 | `http://pandoraxyz.xyz` |  | 
 
 | post | date |
 |---|---|
@@ -5696,8 +5520,6 @@ _parsing : `enabled`_
 
 ## pay2key
 
-_parsing : `enabled`_
-
 - https://research.checkpoint.com/2020/ransomware-alert-pay2key
 
 - https://www.twitter.com/p2ktwtacc
@@ -5706,9 +5528,9 @@ _parsing : `enabled`_
 
 - pay2key@tuta.io
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Pay2Key Leak Directory! | False | 3 | 21:12 15/03/2022 | `http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Pay2Key Leak Directory! | False | 3 | 21:12 15/03/2022 | `http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |  | 
 
 | post | date |
 |---|---|
@@ -5721,13 +5543,11 @@ _parsing : `enabled`_
 
 ## payloadbin
 
-_parsing : `enabled`_
-
 - https://cyberintelmag.com/malware-viruses/payloadbin-ransomware-attributed-to-evil-corp
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Payload.bin | False | 3 | 20:21 28/08/2022 | `http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Payload.bin | False | 3 | 20:21 28/08/2022 | `http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |  | 
 
 | post | date |
 |---|---|
@@ -5763,8 +5583,6 @@ _parsing : `enabled`_
 
 ## prolock
 
-_parsing : `disabled`_
-
 _`aka pwndlocker`_
 
 - https://www.zdnet.com/article/prolock-ransomware-everything-you-need-to-know/
@@ -5777,20 +5595,18 @@ _`aka pwndlocker`_
 
 - https://iacc.memberclicks.net/assets/docs/COVID19/FBI%20-%20FLASH%20TLP%20Green%20-%20Indicators%20of%20Compromise%20Associated%20with%20ProLock....pdf
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## projectrelic
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Project Relic. Dumps, leaks, news, announcements | True | 3 | 13:17 26/11/2022 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Project Relic. Dumps, leaks, news, announcements | True | 3 | 13:17 26/11/2022 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion |  | 
 
 | post | date |
 |---|---|
@@ -5802,32 +5618,28 @@ _parsing : `disabled`_
 
 ## prometheus
 
-_parsing : `disabled`_
-
 > fetching this site requires a headless browser
 
 - https://therecord.media/decryptor-released-for-prometheus-ransomware-victims
 
 - https://unit42.paloaltonetworks.com/prometheus-ransomwar
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://promethw27cbrcot.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://promethw27cbrcot.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## pysa
 
-_parsing : `enabled`_
-
 - https://www.ic3.gov/Media/News/2021/210316.pdf
 
 - https://blog.malwarebytes.com/threat-spotlight/2021/03/pysa-the-ransomware-attacking-schools
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Pysa's Partners | False | 3 | 10:11 22/02/2022 | `http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Pysa's Partners | False | 3 | 10:11 22/02/2022 | `http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion |  | 
 
 | post | date |
 |---|---|
@@ -6142,14 +5954,12 @@ _parsing : `enabled`_
 
 ## qilin
 
-_parsing : `enabled`_
-
 > fetching this site requires a headless browser
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Qilin | True | 3 | 13:18 26/11/2022 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` |
-| Qilin blog | True | 3 | 13:19 26/11/2022 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Qilin | True | 3 | 13:18 26/11/2022 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion |  | 
+| Qilin blog | True | 3 | 13:19 26/11/2022 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion |  | 
 
 | post | date |
 |---|---|
@@ -6167,8 +5977,6 @@ _parsing : `enabled`_
 
 ## qlocker
 
-_parsing : `disabled`_
-
 _`login page, no posts`_
 
 - https://www.qnap.com/en/security-advisory/QSA-21-13
@@ -6177,21 +5985,19 @@ _`login page, no posts`_
 
 - https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 04:04 08/11/2022 | `http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 04:04 08/11/2022 | `http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## quantum
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Quantum Blog | True | 3 | 13:19 26/11/2022 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` |
-| Secure Chat | False | 3 | 08:32 29/08/2022 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Quantum Blog | True | 3 | 13:19 26/11/2022 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion |  | 
+| Secure Chat | False | 3 | 08:32 29/08/2022 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion |  | 
 
 | post | date |
 |---|---|
@@ -6260,17 +6066,15 @@ _parsing : `enabled`_
 
 ## ragnarlocker
 
-_parsing : `enabled`_
-
 - https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security
 
 - https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://rgleak7op734elep.onion` |
-| Home Page of Ragnar_Locker Leaks site | False | 3 | 11:08 26/11/2022 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |
-| none | False | 2 | 00:00 01/05/2021 | `http://p6o7m73ujalhgkiv.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://rgleak7op734elep.onion` |  | 
+| Home Page of Ragnar_Locker Leaks site | False | 3 | 11:08 26/11/2022 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |  | 
+| none | False | 2 | 00:00 01/05/2021 | `http://p6o7m73ujalhgkiv.onion` |  | 
 
 | post | date |
 |---|---|
@@ -6366,8 +6170,6 @@ _parsing : `enabled`_
 
 ## ragnarok
 
-_parsing : `disabled`_
-
 _`shut down & offering a decryptor`_
 
 - https://techcrunch.com/2021/08/30/ragnarok-ransomware-gang-shuts-down-and-releases-its-decryption-key
@@ -6378,10 +6180,10 @@ _`shut down & offering a decryptor`_
 
 - previous parser: Z3JlcCAndmFyIHBvc3RfbGlua3MgPScgc291cmNlL3JhZ25hcm9rLSouaHRtbCAtLW5vLWZpbGVuYW1lIHwgY3V0IC1kICc9JyAtZiAyIHwgc2VkICdzL14gKi8vZycgfCBzZWQgLWUgJ3MvLiQvLycgLWUgJ3MvLiQvLycgIC1lICdzLy4kLy8nIHwgIGpxIC1yICcuW10udGl0bGUn
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion` |
-| Decrypt Site | False | 3 | 00:03 27/08/2021 | `http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://wobpitin77vdsdiswr43duntv6eqw4rvphedutpaxycjdie6gg3binad.onion` |  | 
+| Decrypt Site | False | 3 | 00:03 27/08/2021 | `http://sushlnty2j7qdzy64qnvyb6ajkwg7resd3p6agc2widnawodtcedgjid.onion |  | 
 
 | post | date |
 |---|---|
@@ -6390,35 +6192,29 @@ _`shut down & offering a decryptor`_
 
 ## ranion
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | True | 3 | 13:20 26/11/2022 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 3 | 13:20 26/11/2022 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## ransomcartel
 
-_parsing : `disabled`_
-
 - https://t.me/arvin_club/5075
 
 - https://twitter.com/i/web/status/1476488238521065476
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Ransomware - Control Panel | False | 3 | 18:21 03/03/2022 | `http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion` |
-| none | False | 3 | 00:00 01/05/2021 | `http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion` |
-| Ransom Cartel | True | 3 | 13:21 26/11/2022 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Ransomware - Control Panel | False | 3 | 18:21 03/03/2022 | `http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |  | 
+| none | False | 3 | 00:00 01/05/2021 | `http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion` |  | 
+| Ransom Cartel | True | 3 | 13:21 26/11/2022 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion |  | 
 
 | post | date |
 |---|---|
 
 ## ransomexx
-
-_parsing : `enabled`_
 
 - https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware
 
@@ -6426,9 +6222,9 @@ _parsing : `enabled`_
 
 - https://www.infosecurity-magazine.com/news/aerospace-giant-embraer-hit
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| ransomexx2 | True | 3 | 13:21 26/11/2022 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| ransomexx2 | True | 3 | 13:21 26/11/2022 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion |  | 
 
 | post | date |
 |---|---|
@@ -6475,16 +6271,14 @@ _parsing : `enabled`_
 
 ## ransomhouse
 
-_parsing : `disabled`_
-
 > fetching this site requires a headless browser
 
 - https://t.me/ransom_house
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| ©RansomHouse | False | 3 | 13:32 01/10/2022 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` |
-| none | True | 3 | 13:23 26/11/2022 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| ©RansomHouse | False | 3 | 13:32 01/10/2022 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion |  | 
+| none | True | 3 | 13:23 26/11/2022 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` |  | 
 
 | post | date |
 |---|---|
@@ -6498,8 +6292,6 @@ _parsing : `disabled`_
 
 ## ranzy
 
-_parsing : `disabled`_
-
 - https://blog.malwarebytes.com/ransomware/2021/10/threat-profile-ranzy-locker-ransomware/
 
 - https://www.picussecurity.com/resource/blog/a-detailed-walkthrough-of-ranzy-locker-ransomware-ttps
@@ -6508,24 +6300,22 @@ _parsing : `disabled`_
 
 - https://www.ic3.gov/Media/News/2021/211026.pdf
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://37rckgo66iydpvgpwve7b2el5q2zhjw4tv4lmyewufnpx4lhkekxkoqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## redalert
 
-_parsing : `enabled`_
-
 > fetching this site requires a headless browser
 
 - https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Board of shame | True | 3 | 13:23 26/11/2022 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Board of shame | True | 3 | 13:23 26/11/2022 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion |  | 
 
 | post | date |
 |---|---|
@@ -6538,8 +6328,6 @@ _parsing : `enabled`_
 
 ## revil
 
-_parsing : `enabled`_
-
 > fetching this site requires a headless browser
 
 - https://www.zdnet.com/article/revil-ransomware-group-resurfaces-after-brief-hiatus
@@ -6548,11 +6336,11 @@ _parsing : `enabled`_
 
 - https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| 404 Not Found | False | 3 | 12:16 19/08/2022 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` |
-| 404 Not Found | False | 3 | 12:17 19/08/2022 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` |
-| Blog | True | 3 | 13:27 26/11/2022 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| 404 Not Found | False | 3 | 12:16 19/08/2022 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |  | 
+| 404 Not Found | False | 3 | 12:17 19/08/2022 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion |  | 
+| Blog | True | 3 | 13:27 26/11/2022 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion |  | 
 
 | post | date |
 |---|---|
@@ -6598,17 +6386,15 @@ _parsing : `enabled`_
 
 ## robinhood
 
-_parsing : `disabled`_
-
 - https://www.sentinelone.com/labs/robinhood-ransomware-coolmaker-functions-not-so-cool/
 
 - https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/
 
 - previous parser: Z3JlcCAnPGgyIGNsYXNzPSJ0aXRsZSInIHNvdXJjZS9yb2Jpbmhvb2QtKi5odG1sIC0tbm8tZmlsZW5hbWUgfCBjdXQgLWQgJz4nIC1mIDMgfCBjdXQgLWQgJzwnIC1mIDE=
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Not found. | True | 0 | 13:27 26/11/2022 | `http://robinhoodleaks.tumblr.com` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Not found. | True | 0 | 13:27 26/11/2022 | `http://robinhoodleaks.tumblr.com | <a href="https://www.ransomware.live/screenshots/robinhoodleaks-tumblr-com.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6616,15 +6402,13 @@ _parsing : `disabled`_
 
 ## rook
 
-_parsing : `enabled`_
-
 - https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/
 
 - https://www.bleepingcomputer.com/news/security/rook-ransomware-is-yet-another-spawn-of-the-leaked-babuk-code/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| We Are Rook!!! | False | 3 | 15:24 26/01/2022 | `http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| We Are Rook!!! | False | 3 | 15:24 26/01/2022 | `http://gamol6n6p2p4c3ad7gxmx3ur7wwdwlywebo2azv3vv5qlmjmole2zbyd.onion |  | 
 
 | post | date |
 |---|---|
@@ -6640,12 +6424,10 @@ _parsing : `enabled`_
 
 ## royal
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Royal | True | 3 | 13:28 26/11/2022 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` |
-| none | True | 3 | 13:28 26/11/2022 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Royal | True | 3 | 13:28 26/11/2022 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion |  | 
+| none | True | 3 | 13:28 26/11/2022 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` |  | 
 
 | post | date |
 |---|---|
@@ -6712,25 +6494,21 @@ _parsing : `enabled`_
 
 ## rransom
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | True | 3 | 13:28 26/11/2022 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 3 | 13:28 26/11/2022 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## sabbath
 
-_parsing : `enabled`_
-
 - https://www.mandiant.com/resources/sabbath-ransomware-affiliate
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| BLOG | False | 3 | 03:45 13/11/2021 | `http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion` |
-| none | False | 0 | 03:32 13/04/2022 | `http://54bb47h.blog` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| BLOG | False | 3 | 03:45 13/11/2021 | `http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion |  | 
+| none | False | 0 | 03:32 13/04/2022 | `http://54bb47h.blog` |  | 
 
 | post | date |
 |---|---|
@@ -6754,11 +6532,9 @@ _parsing : `enabled`_
 
 ## shaoleaks
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Shao leaks team | False | 3 | 16:55 01/11/2022 | `http://crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Shao leaks team | False | 3 | 16:55 01/11/2022 | `http://crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion |  | 
 
 | post | date |
 |---|---|
@@ -6769,8 +6545,6 @@ _parsing : `enabled`_
 
 ## snatch
 
-_parsing : `enabled`_
-
 - https://t.me/snatch_news
 
 - https://lifars.com/wp-content/uploads/2020/07/Snatch-Ransomware-Malware-Analysis-Case-Study.pdf
@@ -6779,10 +6553,10 @@ _parsing : `enabled`_
 
 - https://thedfirreport.com/2020/06/21/snatch-ransomware/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| News | True | 3 | 13:29 26/11/2022 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` |
-| News | True | 0 | 13:29 26/11/2022 | `http://snatch.press` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| News | True | 3 | 13:29 26/11/2022 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion |  | 
+| News | True | 0 | 13:29 26/11/2022 | `http://snatch.press | <a href="https://www.ransomware.live/screenshots/snatch-press.png target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -6848,13 +6622,11 @@ _parsing : `enabled`_
 
 ## sparta
 
-_parsing : `enabled`_
-
 - spartaprogroup@strong.pm
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Blog | False | 3 | 15:29 01/10/2022 | `http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Blog | False | 3 | 15:29 01/10/2022 | `http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion |  | 
 
 | post | date |
 |---|---|
@@ -6877,22 +6649,18 @@ _parsing : `enabled`_
 
 ## solidbit
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| SOLIDBIT LOGIN | False | 3 | 10:45 27/08/2022 | `http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| SOLIDBIT LOGIN | False | 3 | 10:45 27/08/2022 | `http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion |  | 
 
 | post | date |
 |---|---|
 
 ## spook
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Spook | False | 3 | 02:30 26/10/2021 | `http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Spook | False | 3 | 02:30 26/10/2021 | `http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion |  | 
 
 | post | date |
 |---|---|
@@ -6934,13 +6702,11 @@ _parsing : `enabled`_
 
 ## stormous
 
-_parsing : `enabled`_
-
 - stormouss21@dnmx.org
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Database Shop | False | 3 | 22:27 09/05/2022 | `http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Database Shop | False | 3 | 22:27 09/05/2022 | `http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion |  | 
 
 | post | date |
 |---|---|
@@ -6965,24 +6731,20 @@ _parsing : `enabled`_
 
 ## sugar
 
-_parsing : `disabled`_
-
 - https://tria.ge/211112-lbfz1adab7
 
 - https://medium.com/walmartglobaltech/sugar-ransomware-a-new-raas-a5d94d58d9fb
 
 - https://www.bleepingcomputer.com/news/security/a-look-at-the-new-sugar-ransomware-demanding-low-ransoms/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | True | 3 | 13:30 26/11/2022 | `http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | True | 3 | 13:30 26/11/2022 | `http://chat5sqrnzqewampznybomgn4hf2m53tybkarxk4sfaktwt7oqpkcvyd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## suncrypt
-
-_parsing : `enabled`_
 
 - https://www.tetradefense.com/incident-response-services/cause-and-effect-suncrypt-ransomware-analysis
 
@@ -6990,10 +6752,10 @@ _parsing : `enabled`_
 
 - https://medium.com/s2wblog/case-analysis-of-suncrypt-ransomware-negotiation-and-bitcoin-transaction-43a2194ac0bc
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| News | True | 3 | 13:30 26/11/2022 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` |
-| none | False | 2 | 00:00 01/05/2021 | `http://nbzzb6sa6xuura2z.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| News | True | 3 | 13:30 26/11/2022 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion |  | 
+| none | False | 2 | 00:00 01/05/2021 | `http://nbzzb6sa6xuura2z.onion` |  | 
 
 | post | date |
 |---|---|
@@ -7030,48 +6792,40 @@ _parsing : `enabled`_
 
 ## synack
 
-_parsing : `enabled`_
-
 _`no longer in operation - rebrand`_
 
 - https://www.zdnet.com/article/synack-ransomware-group-releases-decryption-keys-as-they-rebrand-to-el-cometa
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| end of game | False | 3 | 00:02 18/08/2021 | `http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| end of game | False | 3 | 00:02 18/08/2021 | `http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion |  | 
 
 | post | date |
 |---|---|
 
 ## unknown
 
-_parsing : `disabled`_
-
 _`nodes or hosts with no current attribution or identification`_
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion` |
-| none | False | 3 | 00:00 01/05/2021 | `http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion` |  | 
+| none | False | 3 | 00:00 01/05/2021 | `http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## vfokx
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion` |
-| none | False | 3 | 00:00 01/05/2021 | `http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion` |  | 
+| none | False | 3 | 00:00 01/05/2021 | `http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## vicesociety
-
-_parsing : `enabled`_
 
 _`ecdmr42axxx.onion - fileserver`_
 
@@ -7083,14 +6837,14 @@ _`ecdmr42axxx.onion - fileserver`_
 
 - https://blog.talosintelligence.com/2021/08/vice-society-ransomware-printnightmare.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 2 | 00:00 01/05/2021 | `http://4hzyuotli6maqa4u.onion` |
-| Vice Society - Official Site | True | 3 | 13:32 26/11/2022 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` |
-| there is nothing... | False | 3 | 17:27 21/09/2022 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` |
-| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` |
-| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` |
-| Vice Society - Official Site | True | 3 | 13:34 26/11/2022 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 2 | 00:00 01/05/2021 | `http://4hzyuotli6maqa4u.onion` |  | 
+| Vice Society - Official Site | True | 3 | 13:32 26/11/2022 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |  | 
+| there is nothing... | False | 3 | 17:27 21/09/2022 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion |  | 
+| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion |  | 
+| Vice Society - Official Site | True | 3 | 13:33 26/11/2022 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion |  | 
+| Vice Society - Official Site | True | 3 | 13:34 26/11/2022 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion |  | 
 
 | post | date |
 |---|---|
@@ -7218,18 +6972,14 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ## x001xs
 
-_parsing : `disabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| BITCARDS - Prepaid cards | True | 3 | 13:34 26/11/2022 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| BITCARDS - Prepaid cards | True | 3 | 13:34 26/11/2022 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion |  | 
 
 | post | date |
 |---|---|
 
 ## xinglocker
-
-_parsing : `enabled`_
 
 _`xing use a custom mountlocker exe`_
 
@@ -7237,9 +6987,9 @@ _`xing use a custom mountlocker exe`_
 
 - https://itsecuritywire.com/quick-bytes/xinglocker-spreading-worm-using-mountlocker
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| 星Team News | False | 3 | 06:12 24/01/2022 | `http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| 星Team News | False | 3 | 06:12 24/01/2022 | `http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |  | 
 
 | post | date |
 |---|---|
@@ -7267,28 +7017,24 @@ _`xing use a custom mountlocker exe`_
 
 ## xinof
 
-_parsing : `disabled`_
-
 _`aka fonix`_
 
 - https://www.bleepingcomputer.com/news/security/fonix-ransomware-shuts-down-and-releases-master-decryption-key/
 
 - https://www.sentinelone.com/labs/the-fonix-raas-new-low-key-threat-with-unnecessary-complexities/
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| none | False | 3 | 00:00 01/05/2021 | `http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion` |  | 
 
 | post | date |
 |---|---|
 
 ## yanluowang
 
-_parsing : `enabled`_
-
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| Yanluowang | False | 3 | 16:59 01/11/2022 | `http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| Yanluowang | False | 3 | 16:59 01/11/2022 | `http://jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion |  | 
 
 | post | date |
 |---|---|
@@ -7301,16 +7047,14 @@ _parsing : `enabled`_
 
 ## zeon
 
-_parsing : `disabled`_
-
 - https://id-ransomware.blogspot.com/2022/02/zeon-ransomware.html
 
-| title | available | version | last visit | fqdn
-|---|---|---|---|---|
-| ZEON.Recovery - Enter the key | True | 3 | 13:34 26/11/2022 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion` |
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| ZEON.Recovery - Enter the key | True | 3 | 13:34 26/11/2022 | `http://zeonrefpbompx6rwdqa5hxgtp2cxgfmoymlli3azoanisze33pp3x3yd.onion |  | 
 
 | post | date |
 |---|---|
 
 
-Last update : _Saturday 26/11/2022 13.35 (UTC)_
+Last update : _Saturday 26/11/2022 14.49 (UTC)_

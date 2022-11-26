@@ -221,12 +221,12 @@ def profilepage():
         if group['captcha'] is True:
             writeline(profilepage, ':warning: _has a captcha_')
             writeline(profilepage, '')
-        if group['parser'] is True:
-            writeline(profilepage, '_parsing : `enabled`_')
-            writeline(profilepage, '')
-        else:
-            writeline(profilepage, '_parsing : `disabled`_')
-            writeline(profilepage, '')
+        #if group['parser'] is True:
+        #    writeline(profilepage, '_parsing : `enabled`_')
+        #    writeline(profilepage, '')
+        #else:
+        #    writeline(profilepage, '_parsing : `disabled`_')
+        #    writeline(profilepage, '')
         # add notes if present
         if group['meta'] is not None:
             writeline(profilepage, '_`' + group['meta'] + '`_')
@@ -238,8 +238,8 @@ def profilepage():
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
-        writeline(profilepage, '| title | available | version | last visit | fqdn')
-        writeline(profilepage, '|---|---|---|---|---|')        
+        writeline(profilepage, '| title | available | version | last visit | fqdn | screen ')
+        writeline(profilepage, '|---|---|---|---|---|---|')        
         for host in group['locations']:
             # convert date to ddmmyyyy hh:mm
             date = host['lastscrape'].split(' ')[0]
@@ -248,11 +248,15 @@ def profilepage():
             time = host['lastscrape'].split(' ')[1]
             time = time.split(':')
             time = time[0] + ':' + time[1]
+            screenshot=host['fqdn'].replace('.', '-') + '.png'
+            screen=''
+            if os.path.exists('docs/screenshots/'+screenshot):
+                screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + ' target=_blank>📸</a>'
             if host['title'] is not None:
-                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` |'
+                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + ' | ' + screen + ' | ' 
                 writeline(profilepage, line)
             else:
-                line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` |'
+                line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
