@@ -16,7 +16,7 @@ from sharedutils import stdlog, dbglog, errlog, honk
 
 # on macOS we use 'grep -oE' over 'grep -oP'
 if platform == 'darwin':
-    fancygrep = 'grep -oE'
+    fancygrep = 'ggrep -oP'
 else:
     fancygrep = 'grep -oP'
 
@@ -867,3 +867,14 @@ def medusa():
         errlog('medusa: ' + 'parsing fail')
     for post in posts:
         appender(post, 'medusa')
+
+def play():
+    stdlog('parser: ' + 'play')
+    parser = '''
+    %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\?
+    ''' % (fancygrep)
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('play: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'play')

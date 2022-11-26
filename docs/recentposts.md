@@ -4,6 +4,13 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-26 | [`PVFCCo`](https://google.com/search?q=PVFCCo) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-26 | [`Leadtek`](https://google.com/search?q=Leadtek) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-26 | [`Alcomet`](https://google.com/search?q=Alcomet) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-26 | [`Ministry of Transport and Public Works`](https://google.com/search?q=Ministry+of+Transport+and+Public+Works) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-26 | [`Itsgroup`](https://google.com/search?q=Itsgroup) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-26 | [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-26 | [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-26 | [`https://www.friedmanlawoffices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.friedmanlawoffices.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
@@ -197,12 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
-| 2022-11-04 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
-| 2022-11-04 | [`bfw`](https://google.com/search?q=bfw) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Ville-chaville`](https://google.com/search?q=Ville-chaville) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Murphyfamilyventures`](https://google.com/search?q=Murphyfamilyventures) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Ginspectionservices`](https://google.com/search?q=Ginspectionservices) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`Dialogsas`](https://google.com/search?q=Dialogsas) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-04 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART10 - WATER\10.80.74.231\ithome$\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART10+-+WATER%5C10.80.74.231%5Cithome%24%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Saturday 26/11/2022 16.32 (UTC)_
+Last update : _Saturday 26/11/2022 19.33 (UTC)_

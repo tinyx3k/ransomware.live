@@ -4,8 +4,8 @@
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| 0mega - Blog | True | 3 | 15:14 26/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
-| 0mega - Blog | True | 0 | 15:14 26/11/2022 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
+| 0mega - Blog | True | 3 | 18:24 26/11/2022 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
+| 0mega - Blog | True | 0 | 18:24 26/11/2022 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -23,7 +23,7 @@
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 3 | 00:00 01/05/2021 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` |  | 
-| Log in - RAMP | True | 3 | 15:15 26/11/2022 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |  | 
+| Log in - RAMP | True | 3 | 18:24 26/11/2022 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` |  | 
 | none | False | 3 | 00:00 01/05/2021 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` |  | 
 
 | post | date |
@@ -91,7 +91,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-|   | True | 3 | 15:16 26/11/2022 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | False | 3 | 15:16 26/11/2022 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | False | 3 | 00:00 01/05/2021 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` |  | 
 |   | False | 3 | 12:26 26/11/2022 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -586,7 +586,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Babuk - Leaks site | True | 3 | 15:18 26/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
+| Babuk - Leaks site | True | 3 | 18:28 26/11/2022 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -618,7 +618,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Companies - BianLian | True | 3 | 15:19 26/11/2022 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| Companies - BianLian | True | 3 | 18:28 26/11/2022 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -678,8 +678,8 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Black Basta Blog | True | 3 | 15:20 26/11/2022 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | True | 3 | 15:20 26/11/2022 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
+| Black Basta Blog | True | 3 | 18:29 26/11/2022 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
+| Chat Black Basta | True | 3 | 18:29 26/11/2022 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -846,7 +846,7 @@ _`captcha prevents indexing`_
 | BlackByte BLOG | False | 3 | 11:17 28/03/2022 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` |  | 
 | BlackByte BLOG | False | 3 | 20:21 24/04/2022 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` |  | 
 | BlackByte BLOG | False | 3 | 20:09 12/07/2022 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` |  | 
-| BB Auction | True | 3 | 15:21 26/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+| BB Auction | True | 3 | 18:30 26/11/2022 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1008,7 +1008,7 @@ _`previous clearnet domain blackshadow.cc`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 15:22 26/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | True | 3 | 18:31 26/11/2022 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1022,7 +1022,7 @@ _`previous clearnet domain blackshadow.cc`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| BlueSky DECRYPTOR | True | 3 | 15:22 26/11/2022 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
+| BlueSky DECRYPTOR | True | 3 | 18:31 26/11/2022 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1070,7 +1070,7 @@ _`claim to donate 80% of earnings to charity`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Login | True | 3 | 15:23 26/11/2022 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
+| Login | True | 3 | 18:32 26/11/2022 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -1086,7 +1086,7 @@ _`claim to donate 80% of earnings to charity`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://ekbgzchl6x2ias37.onion` |  | 
-| HOME - CL0P^_- LEAKS | True | 3 | 15:23 26/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | False | 3 | 15:23 26/11/2022 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2181,7 +2181,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | CONTI.News | False | 3 | 06:25 22/06/2022 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` |  | 
-| continews.click - continews Resources and Informat | True | 0 | 15:23 26/11/2022 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| none | True | 0 | 18:32 26/11/2022 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
 | Error Response Page | False | 0 | 12:36 23/11/2022 | `http://continews.bz` |  | 
 
 | post | date |
@@ -2576,7 +2576,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://cuba4mp6ximo2zlo.onion` |  | 
-| Cuba | True | 3 | 15:25 26/11/2022 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| Cuba | True | 3 | 18:34 26/11/2022 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2681,7 +2681,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 3 | 22:30 10/11/2022 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` |  | 
-| Data Leak | True | 3 | 15:25 26/11/2022 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
+| Data Leak | True | 3 | 18:35 26/11/2022 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2710,9 +2710,9 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | Dark Leak Market | False | 3 | 16:14 07/10/2021 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` |  | 
-| anonymous Marketplace - best onion market - DarkHi | True | 3 | 15:26 26/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | <a href="https://www.ransomware.live/screenshots/aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd-onion.png" target=_blank>📸</a> | 
-| Dark Leak Market | False | 3 | 10:23 25/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` |  | 
-| Dark Leak Market | True | 3 | 15:26 26/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | <a href="https://www.ransomware.live/screenshots/darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd-onion.png" target=_blank>📸</a> | 
+| anonymous Marketplace - best onion market - DarkHi | True | 3 | 18:35 26/11/2022 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | <a href="https://www.ransomware.live/screenshots/aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd-onion.png" target=_blank>📸</a> | 
+| Dark Leak Market | True | 3 | 18:35 26/11/2022 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` |  | 
+| Dark Leak Market | True | 3 | 18:35 26/11/2022 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | <a href="https://www.ransomware.live/screenshots/darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2835,7 +2835,7 @@ _`marketplace - not a ransomware group`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| none | True | 3 | 15:28 26/11/2022 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png" target=_blank>📸</a> | 
+| none | True | 3 | 18:37 26/11/2022 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -2868,7 +2868,7 @@ _`captcha prevents indexing`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Everest Ransomware Group | False | 3 | 10:29 26/11/2022 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
+| Everest Ransomware Group | True | 3 | 18:38 26/11/2022 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -3105,9 +3105,9 @@ _`aka hive`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Hive | True | 3 | 15:31 26/11/2022 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
-| Hive | True | 3 | 15:31 26/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 15:31 26/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
+| Hive | False | 3 | 15:31 26/11/2022 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
+| Hive | False | 3 | 15:31 26/11/2022 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
+| none | False | 3 | 15:31 26/11/2022 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -3349,8 +3349,8 @@ _`aka hotarus corp`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| Chat | True | 3 | 15:32 26/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
-| Auction | True | 3 | 15:32 26/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
+| Chat | True | 3 | 18:41 26/11/2022 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
+| Auction | True | 3 | 18:42 26/11/2022 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | False | 0 | 00:00 01/05/2021 | `http://karaleaks.com` |  | 
 
 | post | date |
@@ -3390,7 +3390,7 @@ _`not a ransomware group`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| none | False | 0 | 12:46 26/11/2022 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
+| none | True | 0 | 18:45 26/11/2022 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -4507,25 +4507,25 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| LockBit BLOG | False | 3 | 10:40 26/11/2022 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |  | 
-| LockBit BLOG | True | 3 | 15:46 26/11/2022 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | True | 3 | 15:46 26/11/2022 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | True | 3 | 15:47 26/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | True | 3 | 15:47 26/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | True | 3 | 15:48 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | False | 3 | 12:55 26/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | True | 3 | 15:49 26/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | False | 3 | 12:56 26/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |  | 
-| LockBit BLOG | True | 3 | 15:51 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 15:51 26/11/2022 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 15:51 26/11/2022 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit Anti-DDoS | True | 3 | 15:52 26/11/2022 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit Anti-DDoS | True | 3 | 15:53 26/11/2022 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 15:53 26/11/2022 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit Anti-DDoS | True | 3 | 15:53 26/11/2022 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 15:54 26/11/2022 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| none | True | 3 | 15:54 26/11/2022 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | True | 3 | 15:54 26/11/2022 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 18:50 26/11/2022 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` |  | 
+| LockBit BLOG | True | 3 | 18:51 26/11/2022 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | False | 3 | 15:46 26/11/2022 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 18:54 26/11/2022 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 18:54 26/11/2022 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | False | 3 | 15:48 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 18:58 26/11/2022 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 18:58 26/11/2022 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | True | 3 | 18:59 26/11/2022 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` |  | 
+| LockBit BLOG | True | 3 | 19:00 26/11/2022 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| none | False | 3 | 15:51 26/11/2022 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| none | False | 3 | 15:51 26/11/2022 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit Anti-DDoS | False | 3 | 15:52 26/11/2022 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| none | True | 3 | 19:10 26/11/2022 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| none | False | 3 | 15:53 26/11/2022 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit Anti-DDoS | False | 3 | 15:53 26/11/2022 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| none | False | 3 | 15:54 26/11/2022 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| none | False | 3 | 15:54 26/11/2022 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | False | 3 | 15:54 26/11/2022 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -4870,28 +4870,28 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| LockBit - Leaked | True | 3 | 15:54 26/11/2022 | `http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:54 26/11/2022 | `http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:55 26/11/2022 | `http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |  | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:56 26/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd-onion.png" target=_blank>📸</a> | 
-| LockBit - Leaked | True | 3 | 15:57 26/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:54 26/11/2022 | `http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:54 26/11/2022 | `http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | True | 3 | 19:27 26/11/2022 | `http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:55 26/11/2022 | `http://lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:55 26/11/2022 | `http://lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:55 26/11/2022 | `http://lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:55 26/11/2022 | `http://lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:55 26/11/2022 | `http://lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:55 26/11/2022 | `http://lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z3ujnkhxwahhjduh5me2updvzxewhhc5qvk2snxezoi5drad-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4bsm63m3dagp5xglyacr4z4bwytkvkkwtn6enmuo5fi5iyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4cgxvictidwfxpuiov4scdw34nxotmbdjyxpkvkg34mykyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4k5zer5fbqi2vdq5sx2vuggatwyqvoodrkhubxftyrvncid-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z4ndl6thsct34yd47jrzdkpnfg3acfvpacuccb45pnars2ad-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | True | 3 | 19:31 26/11/2022 | `http://lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion` |  | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:56 26/11/2022 | `http://lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd-onion.png" target=_blank>📸</a> | 
+| LockBit - Leaked | False | 3 | 15:57 26/11/2022 | `http://lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid-onion.png" target=_blank>📸</a> | 
 | LockBit - Leaked | False | 3 | 10:52 26/11/2022 | `http://lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion` |  | 
-| LockBit - Leaked | True | 3 | 15:57 26/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |  | 
+| LockBit - Leaked | True | 3 | 19:33 26/11/2022 | `http://lockbit7z6f3gu6rjvrysn5gjbsqj3hk3bvsg64ns6pjldqr2xhvhsyd.onion` |  | 
 | LockBit - Leaked | False | 3 | 13:03 26/11/2022 | `http://lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z6qinyhhmibvycu5kwmcvgrbpvtztkvvmdce5zwtucaeyrqd-onion.png" target=_blank>📸</a> | 
 | LockBit - Leaked | True | 3 | 15:57 26/11/2022 | `http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd-onion.png" target=_blank>📸</a> | 
 | LockBit File Share | True | 3 | 15:58 26/11/2022 | `http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad-onion.png" target=_blank>📸</a> | 
@@ -7064,6 +7064,13 @@ _`aka fonix`_
 
 | post | date |
 |---|---|
+| `Origin Property Company Limited` | 26/11/2022 |
+| `Conseil departemental - Alpes-Maritimes` | 26/11/2022 |
+| `Itsgroup` | 26/11/2022 |
+| `Ministry of Transport and Public Works` | 26/11/2022 |
+| `Alcomet` | 26/11/2022 |
+| `Leadtek` | 26/11/2022 |
+| `PVFCCo` | 26/11/2022 |
 
 
-Last update : _Saturday 26/11/2022 16.32 (UTC)_
+Last update : _Saturday 26/11/2022 19.33 (UTC)_
