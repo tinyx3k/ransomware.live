@@ -2648,7 +2648,16 @@
                 "title": null,
                 "version": 3,
                 "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
-                "available": false,
+                "available": true,
+                "updated": "2022-11-27 18:32:07.184362",
+                "lastscrape": "2022-11-27 18:32:07.184311"
+            },
+            {
+                "fqdn": "k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
+                "available": true,
                 "updated": "2022-11-27 18:32:07.184362",
                 "lastscrape": "2022-11-27 18:32:07.184311"
             }
