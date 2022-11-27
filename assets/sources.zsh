@@ -72,7 +72,7 @@ echo $ddcti_ransomgang > /tmp/ddcti_ransomgang.md
 if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:ransomgang"
 fi
-echo ${ddcti_ransomgang} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_ransomgang
+echo ${ddcti_ransomgang} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1  | tr -d \) | sed 's/onion.ws/onion/g' | sed 's/onion.pet/onion/g' | sed 's/onion.ly/onion/g' > assets/tmp/sources.ddcti_ransomgang
 ddcti_ransomgang_count=`cat assets/tmp/sources.ddcti_ransomgang | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_ransomgang_count} | github:deepdarkCTI:ransomgang"
 
@@ -82,7 +82,7 @@ echo $ddcti_maas > /tmp/ddcti_maas.md
 if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:maas"
 fi
-echo ${ddcti_maas} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_maas
+echo ${ddcti_maas} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 | tr -d \) > assets/tmp/sources.ddcti_maas
 ddcti_maas_count=`cat assets/tmp/sources.ddcti_maas | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_maas_count} | github:deepdarkCTI:maas"
 
@@ -92,7 +92,7 @@ echo $ddcti_markets > /tmp/ddcti_markets.md
 if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:markets"
 fi
-echo ${ddcti_markets} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_markets
+echo ${ddcti_markets} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 |  tr -d \) > assets/tmp/sources.ddcti_markets
 ddcti_markets_count=`cat assets/tmp/sources.ddcti_markets | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_markets_count} | github:deepdarkCTI:markets"
 
@@ -102,7 +102,7 @@ echo $ddcti_forum > /tmp/ddcti_forum.md
 if [ $? -ne 0 ]; then
     echo "failed to fetch from github:deepdarkCTI:forum"
 fi
-echo ${ddcti_forum} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 > assets/tmp/sources.ddcti_forum
+echo ${ddcti_forum} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d ' ' -f 1 | cut -d '|' -f 1 | tr -d \) > assets/tmp/sources.ddcti_forum
 ddcti_forum_count=`cat assets/tmp/sources.ddcti_forum | wc -w | awk '{$1=$1};1'`
 echo "${ddcti_forum_count} | github:deepdarkCTI:forum"
 
@@ -122,7 +122,7 @@ echo $breachsense > /tmp/breachsense.html
 if [ $? -ne 0 ]; then
     echo "failed to fetch from breachsense.io"
 fi
-echo ${breachsense} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '>' -f 1 | sed 's/onion.ws/onion/g' > assets/tmp/sources.breachsense
+echo ${breachsense} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '>' -f 1 | sed 's/onion.ws/onion/g' | sed 's/onion.pet/onion/g' | sed 's/onion.ly/onion/g'  > assets/tmp/sources.breachsense
 breachsense_count=`cat assets/tmp/sources.breachsense | wc -w | awk '{$1=$1};1'`
 echo "${breachsense_count} | breachsense"
 
@@ -141,7 +141,7 @@ echo "fetching: inh"
 echo $inh > /tmp/inh.html
 if [ $? -ne 0 ]; then
     echo "failed to fetch from onion:inhx4x4y6"
-fi
+ficle
 echo ${inh} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '"' -f 1 > assets/tmp/sources.inh
 inh_count=`cat assets/tmp/sources.inh | wc -w | awk '{$1=$1};1'`
 echo "${inh_count} | onion:inhx4x4y6"
@@ -162,4 +162,4 @@ do
         fi
     fi
 done <<< "${hosts}"
-#rm assets/tmp/sources.*
+# rm assets/tmp/sources.*
