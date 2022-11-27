@@ -5583,6 +5583,10 @@ _`aka vsop`_
 
 ## play
 
+- https://socradar.io/dark-web-profile-play-ransomware/
+
+- https://www.trendmicro.com/en_us/research/22/i/play-ransomware-s-attack-playbook-unmasks-it-as-another-hive-aff.html
+
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | PLAY NEWS | False | 3 | 05:54 27/11/2022 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
@@ -7073,4 +7077,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Sunday 27/11/2022 09.06 (UTC)_
+Last update : _Sunday 27/11/2022 09.34 (UTC)_
