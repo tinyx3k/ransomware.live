@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-04 | [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 
-Last update : _Sunday 27/11/2022 14.03 (UTC)_
+Last update : _Sunday 27/11/2022 15.53 (UTC)_
