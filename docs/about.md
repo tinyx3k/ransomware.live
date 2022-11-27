@@ -28,6 +28,10 @@ You can find more in [my resume](https://cv.julien.io) in English (also availabl
 
 You can find all leaks in json format [here](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json)
 
+## ♻️ Changelog 
+
+You can find the changelog [here](https://www.ransomware.live/#/CHANGELOG)
+
 ## ⚙️ Contribution
 
 Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on [Joshhighet repository](https://github.com/joshhighet/ransomwatch/pulls)
