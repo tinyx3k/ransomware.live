@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-28 | [`STGi`](https://google.com/search?q=STGi) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-27 | [`Samrin Services Pvt Ltd`](https://google.com/search?q=Samrin+Services+Pvt+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`http://www.royalimaging.com`](https://google.com/search?q=http%3A%2F%2Fwww.royalimaging.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.whitneyoilco.com`](https://google.com/search?q=https%3A%2F%2Fwww.whitneyoilco.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`http://www.pandafunds.com`](https://google.com/search?q=http%3A%2F%2Fwww.pandafunds.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.veroni.it`](https://google.com/search?q=http%3A%2F%2Fwww.veroni.it) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Sunday 27/11/2022 19.46 (UTC)_
+Last update : _Monday 28/11/2022 00.46 (UTC)_
