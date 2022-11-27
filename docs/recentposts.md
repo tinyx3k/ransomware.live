@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-27 | [`GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA`](https://google.com/search?q=GLEN+DIMPLEX+GROUP+UNITS+WERE+HACKED+%28DEFOND%2C+DEFONDTECH+AND+OTHER%29.+MORE+THAN+1TB+DATA+WA) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-26 | [`PVFCCo`](https://google.com/search?q=PVFCCo) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-26 | [`Leadtek`](https://google.com/search?q=Leadtek) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-26 | [`Alcomet`](https://google.com/search?q=Alcomet) | [play](https://ransomware.live/#/profiles?id=play) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 | 2022-11-04 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
-| 2022-11-04 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | [mallox](https://ransomware.live/#/profiles?id=mallox) |
 
-Last update : _Sunday 27/11/2022 09.34 (UTC)_
+Last update : _Sunday 27/11/2022 14.03 (UTC)_
