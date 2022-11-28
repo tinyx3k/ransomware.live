@@ -872,7 +872,7 @@ def play():
     stdlog('parser: ' + 'play')
     # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
     parser = '''
-    %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
+    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
     ''' % (fancygrep)
     posts = runshellcmd(parser)
     if len(posts) == 1:
