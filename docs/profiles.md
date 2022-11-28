@@ -5601,7 +5601,7 @@ _`aka vsop`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 3 | 18:32 27/11/2022 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | False | 3 | 14:31 28/11/2022 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` |  | 
+| PLAY NEWS | False | 3 | 14:31 28/11/2022 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -5615,6 +5615,7 @@ _`aka vsop`_
 | `???? ?????` | 28/11/2022 |
 | `???????????` | 28/11/2022 |
 | `Verity cloud` | 28/11/2022 |
+| `???` | 29/11/2022 |
 
 ## prolock
 
@@ -6108,7 +6109,7 @@ _`login page, no posts`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | none | False | 2 | 00:00 01/05/2021 | `http://rgleak7op734elep.onion` |  | 
-| Home Page of Ragnar_Locker Leaks site | True | 3 | 22:46 28/11/2022 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` |  | 
+| Home Page of Ragnar_Locker Leaks site | True | 3 | 22:46 28/11/2022 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
 | none | False | 2 | 00:00 01/05/2021 | `http://p6o7m73ujalhgkiv.onion` |  | 
 
 | post | date |
@@ -7098,4 +7099,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Monday 28/11/2022 23.02 (UTC)_
+Last update : _Tuesday 29/11/2022 00.13 (UTC)_
