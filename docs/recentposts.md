@@ -4,6 +4,17 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Verity cloud`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AVerity+cloud) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:???????????`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3A%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:PVFCCo`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3APVFCCo) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Leadtek`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3ALeadtek) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Alcomet`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AAlcomet) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Ministry of Tran`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AMinistry+of+Tran) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Itsgroup`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AItsgroup) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Origin Property `](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AOrigin+Property+) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Conseil departem`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AConseil+departem) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:???? ?????`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3A%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-11-28 | [`IKEA Morocco`](https://google.com/search?q=IKEA+Morocco) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-28 | [`STGi`](https://google.com/search?q=STGi) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -193,16 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://millermilling.com`](https://google.com/search?q=https%3A%2F%2Fmillermilling.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.sunwell.com`](https://google.com/search?q=https%3A%2F%2Fwww.sunwell.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.power-soft.com`](https://google.com/search?q=http%3A%2F%2Fwww.power-soft.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://orthoexperts.com/`](https://google.com/search?q=https%3A%2F%2Forthoexperts.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.mmemed.com`](https://google.com/search?q=https%3A%2F%2Fwww.mmemed.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.infocision.com`](https://google.com/search?q=https%3A%2F%2Fwww.infocision.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.wiseyes.net`](https://google.com/search?q=http%3A%2F%2Fwww.wiseyes.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.royalimaging.com`](https://google.com/search?q=http%3A%2F%2Fwww.royalimaging.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.whitneyoilco.com`](https://google.com/search?q=https%3A%2F%2Fwww.whitneyoilco.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`http://www.pandafunds.com`](https://google.com/search?q=http%3A%2F%2Fwww.pandafunds.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Monday 28/11/2022 00.46 (UTC)_
+Last update : _Monday 28/11/2022 03.38 (UTC)_
