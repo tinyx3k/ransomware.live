@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-28 | [`https://tubularsteel.ca`](https://google.com/search?q=https%3A%2F%2Ftubularsteel.ca) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:Verity cloud`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3AVerity+cloud) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:???????????`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3A%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-28 | [`source/play-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html:PVFCCo`](https://google.com/search?q=source%2Fplay-k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.html%3APVFCCo) | [play](https://ransomware.live/#/profiles?id=play) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Monday 28/11/2022 03.38 (UTC)_
+Last update : _Monday 28/11/2022 05.59 (UTC)_
