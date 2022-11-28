@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-28 | [`kusd.edu`](https://google.com/search?q=kusd.edu) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-11-28 | [`Sunknowledge Services Inc`](https://google.com/search?q=Sunknowledge+Services+Inc) | [revil](https://ransomware.live/#/profiles?id=revil) |
 | 2022-11-28 | [`Verity cloud`](https://google.com/search?q=Verity+cloud) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-28 | [`???????????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-04 | [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Monday 28/11/2022 17.33 (UTC)_
+Last update : _Monday 28/11/2022 20.35 (UTC)_
