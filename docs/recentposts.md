@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-29 | [`https://www.rmclaw.net/`](https://google.com/search?q=https%3A%2F%2Fwww.rmclaw.net%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-29 | [`???`](https://google.com/search?q=%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-28 | [`https://www.cates.com`](https://google.com/search?q=https%3A%2F%2Fwww.cates.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-28 | [`kusd.edu`](https://google.com/search?q=kusd.edu) | [revil](https://ransomware.live/#/profiles?id=revil) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-05 | [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-05 | [`Broto Legal`](https://google.com/search?q=Broto+Legal) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-04 | [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 29/11/2022 00.13 (UTC)_
+Last update : _Tuesday 29/11/2022 03.25 (UTC)_
