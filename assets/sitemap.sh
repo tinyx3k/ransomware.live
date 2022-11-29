@@ -1,12 +1,3 @@
-
-
-for group in $(grep name groups.json  | cut -d: -f2  | tr -d , | tr -d \")
-	do
-        	echo $group
-	done
-
-
-
 #!/bin/bash
 
 # url configuration
@@ -26,8 +17,7 @@ echo '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
 # print urls
 for GROUP in $(grep name groups.json  | cut -d: -f2  | tr -d , | tr -d \")
 do 
- DATE=${line:0:10}
-  FILE=${line:12}
+  DATE=$(date +%F)
   echo "<url>"
   echo " <loc>${URL}${GROUP}</loc>"
   echo " <lastmod>$DATE</lastmod>"
