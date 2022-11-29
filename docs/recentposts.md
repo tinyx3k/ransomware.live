@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-05 | [`https://www.zoominfo.com/c/maynards-industries-ltd/24117794`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fmaynards-industries-ltd%2F24117794) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-05 | [`MITCON Consultancy & Engineering Services Limited`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services+Limited) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 
-Last update : _Tuesday 29/11/2022 14.10 (UTC)_
+Last update : _Tuesday 29/11/2022 16.58 (UTC)_
