@@ -25,5 +25,12 @@ do
   echo "</url>"
 done
 
+
+echo "<url>"
+  echo " <loc>https://www.ransomware.live/#/recentposts</loc>"
+  echo " <lastmod>$DATE</lastmod>"
+  echo " <changefreq>$FREQ</changefreq>"
+  echo "</url>"
+
 # print foot
 echo "</urlset>"
