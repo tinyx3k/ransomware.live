@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-05 | [`Broto Legal`](https://google.com/search?q=Broto+Legal) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 | 2022-11-04 | [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 29/11/2022 03.25 (UTC)_
+Last update : _Tuesday 29/11/2022 08.02 (UTC)_
