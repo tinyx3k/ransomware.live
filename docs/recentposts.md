@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-29 | [`colonialgeneral.com`](https://google.com/search?q=colonialgeneral.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-29 | [`Vision Technologies`](https://google.com/search?q=Vision+Technologies) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-29 | [`Stibbs & Co`](https://google.com/search?q=Stibbs+%26+Co) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-29 | [`https://www.rmclaw.net/`](https://google.com/search?q=https%3A%2F%2Fwww.rmclaw.net%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-05 | [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-05 | [`https://www.zoominfo.com/c/maynards-industries-ltd/24117794`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fmaynards-industries-ltd%2F24117794) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-05 | [`MITCON Consultancy & Engineering Services Limited`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services+Limited) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-11-05 | [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
 
-Last update : _Tuesday 29/11/2022 10.59 (UTC)_
+Last update : _Tuesday 29/11/2022 14.10 (UTC)_
