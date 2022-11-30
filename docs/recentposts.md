@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-05 | [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-05 | [`https://www.zoominfo.com/c/maynards-industries-ltd/24117794`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fmaynards-industries-ltd%2F24117794) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 29/11/2022 22.51 (UTC)_
+Last update : _Wednesday 30/11/2022 03.22 (UTC)_
