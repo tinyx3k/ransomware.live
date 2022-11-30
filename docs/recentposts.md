@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-11-30 | [`Holler-Classic`](https://google.com/search?q=Holler-Classic) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-30 | [`Patton`](https://google.com/search?q=Patton) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-29 | [`Plascar Participacoes Industriais`](https://google.com/search?q=Plascar+Participacoes+Industriais) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-29 | [`colonialgeneral.com`](https://google.com/search?q=colonialgeneral.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-06 | [`CR&amp;R Environmental Services`](https://google.com/search?q=CR%26amp%3BR+Environmental+Services) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-06 | [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-05 | [`everstrong.com`](https://google.com/search?q=everstrong.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-05 | [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Wednesday 30/11/2022 14.30 (UTC)_
+Last update : _Wednesday 30/11/2022 17.13 (UTC)_
