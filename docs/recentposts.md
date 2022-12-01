@@ -4,6 +4,14 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-01 | [`Maple Leaf Foods`](https://google.com/search?q=Maple+Leaf+Foods) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-01 | [`ENPPI - HACKED AND MORE THEN 1100 GB DATA LEAKED!`](https://google.com/search?q=ENPPI+-+HACKED+AND+MORE+THEN+1100+GB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-01 | [`Jubilant`](https://google.com/search?q=Jubilant) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-01 | [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-01 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-01 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
+| 2022-12-01 | [`Generator-power`](https://google.com/search?q=Generator-power) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
+| 2022-12-01 | [`Boss-inc`](https://google.com/search?q=Boss-inc) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-30 | [`Holler-Classic`](https://google.com/search?q=Holler-Classic) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-30 | [`Patton`](https://google.com/search?q=Patton) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-29 | [`Plascar Participacoes Industriais`](https://google.com/search?q=Plascar+Participacoes+Industriais) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -196,13 +204,5 @@ _last `200` posts_
 | 2022-11-07 | [`Wilken Software Group`](https://google.com/search?q=Wilken+Software+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-07 | [`richard-wolf.com`](https://google.com/search?q=richard-wolf.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-07 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | [revil](https://ransomware.live/#/profiles?id=revil) |
-| 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-06 | [`optiprint.ca`](https://google.com/search?q=optiprint.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-06 | [`CR&amp;R Environmental Services`](https://google.com/search?q=CR%26amp%3BR+Environmental+Services) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-06 | [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-05 | [`everstrong.com`](https://google.com/search?q=everstrong.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 01/12/2022 09.25 (UTC)_
+Last update : _Thursday 01/12/2022 14.26 (UTC)_
