@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-06 | [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-05 | [`everstrong.com`](https://google.com/search?q=everstrong.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Thursday 01/12/2022 03.42 (UTC)_
+Last update : _Thursday 01/12/2022 06.31 (UTC)_
