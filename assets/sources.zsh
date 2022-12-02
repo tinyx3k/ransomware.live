@@ -146,7 +146,7 @@ echo ${inh} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d 
 inh_count=`cat assets/tmp/sources.inh | wc -w | awk '{$1=$1};1'`
 echo "${inh_count} | onion:inhx4x4y6"
 
-cat assets/tmp/sources.* | sort | uniq | tr '[:upper:]' '[:lower:]' | grep -Eo '^([a-z0-9][a-z0-9_-]*\.)*[a-z2-7]{56}\.onion' | while read host;
+cat assets/tmp/sources.* | sort | tr '[:upper:]' '[:lower:]' | grep -Eo '^([a-z0-9][a-z0-9_-]*\.)*[a-z2-7]{56}\.onion' | uniq | while read host;
 do
     if ! grep -q "${host}" assets/sources.exclusions && ! grep -q "${host}" groups.json; then
         if [ "${PROBE}" = "TRUE" ]; then
