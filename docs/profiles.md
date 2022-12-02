@@ -7113,5 +7113,20 @@ _`aka fonix`_
 | post | date |
 |---|---|
 
+## dataleak
 
-Last update : _Friday 02/12/2022 08.06 (UTC)_
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| none | False | 3 | 00:00 01/05/2021 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` |  | 
+
+| post | date |
+|---|---|
+| `The Beacon Insurance Company Limited` | 02/12/2022 |
+| `grantweber.com` | 02/12/2022 |
+| `wiesauplast.de` | 02/12/2022 |
+| `ni*usa.com` | 02/12/2022 |
+| `rkw-group.com Disclose the compressed package password` | 02/12/2022 |
+| `nissin.com.br Disclose the compressed package password` | 02/12/2022 |
+
+
+Last update : _Friday 02/12/2022 09.45 (UTC)_

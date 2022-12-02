@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-02 | [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | [dataleak](https://ransomware.live/#/profiles?id=dataleak) |
+| 2022-12-02 | [`rkw-group.com Disclose the compressed package password`](https://google.com/search?q=rkw-group.com+Disclose+the+compressed+package+password) | [dataleak](https://ransomware.live/#/profiles?id=dataleak) |
+| 2022-12-02 | [`ni*usa.com`](https://google.com/search?q=ni%2Ausa.com) | [dataleak](https://ransomware.live/#/profiles?id=dataleak) |
+| 2022-12-02 | [`wiesauplast.de`](https://google.com/search?q=wiesauplast.de) | [dataleak](https://ransomware.live/#/profiles?id=dataleak) |
+| 2022-12-02 | [`grantweber.com`](https://google.com/search?q=grantweber.com) | [dataleak](https://ransomware.live/#/profiles?id=dataleak) |
+| 2022-12-02 | [`The Beacon Insurance Company Limited`](https://google.com/search?q=The+Beacon+Insurance+Company+Limited) | [dataleak](https://ransomware.live/#/profiles?id=dataleak) |
 | 2022-12-01 | [`Maple Leaf Foods`](https://google.com/search?q=Maple+Leaf+Foods) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-01 | [`ENPPI - HACKED AND MORE THEN 1100 GB DATA LEAKED!`](https://google.com/search?q=ENPPI+-+HACKED+AND+MORE+THEN+1100+GB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-01 | [`Jubilant`](https://google.com/search?q=Jubilant) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -198,11 +204,5 @@ _last `200` posts_
 | 2022-11-07 | [`TCQ`](https://google.com/search?q=TCQ) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-07 | [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-11-07 | [`ALTEK`](https://google.com/search?q=ALTEK) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-11-07 | [`http://ivacorm.com`](https://google.com/search?q=http%3A%2F%2Fivacorm.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-07 | [`Wilken Software Group`](https://google.com/search?q=Wilken+Software+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Friday 02/12/2022 08.06 (UTC)_
+Last update : _Friday 02/12/2022 09.45 (UTC)_
