@@ -879,3 +879,15 @@ def play():
         errlog('play: ' + 'parsing fail')
     for post in posts:
         appender(post, 'play')
+
+def dataleak():
+    stdlog('parser: ' + 'play')
+    # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
+    parser = '''
+    grep '<h2 class="post-title">' source/dataleak-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('play: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'dataleak')
