@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-02 | [`http://www.pgtinnovations.com`](https://google.com/search?q=http%3A%2F%2Fwww.pgtinnovations.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-12-02 | [`http://www.yoursummit.com`](https://google.com/search?q=http%3A%2F%2Fwww.yoursummit.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-12-02 | [`thorntontomasetti.com`](https://google.com/search?q=thorntontomasetti.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-02 | [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-09 | [`http://www.silverstone.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.silverstone.co.uk) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-09 | [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-09 | [`LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.`](https://google.com/search?q=LAW+OFFICES+OF+JOHN+T+ORCUTT+WAS+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-08 | [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Friday 02/12/2022 16.46 (UTC)_
+Last update : _Friday 02/12/2022 19.49 (UTC)_
