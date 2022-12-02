@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-08 | [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-08 | [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Friday 02/12/2022 11.06 (UTC)_
+Last update : _Friday 02/12/2022 14.05 (UTC)_
