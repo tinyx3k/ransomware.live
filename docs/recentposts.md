@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-07 | [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-07 | [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Friday 02/12/2022 03.14 (UTC)_
+Last update : _Friday 02/12/2022 04.59 (UTC)_
