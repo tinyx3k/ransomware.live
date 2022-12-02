@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-07 | [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-07 | [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Friday 02/12/2022 09.45 (UTC)_
+Last update : _Friday 02/12/2022 09.50 (UTC)_
