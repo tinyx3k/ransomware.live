@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-09 | [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-09 | [`LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.`](https://google.com/search?q=LAW+OFFICES+OF+JOHN+T+ORCUTT+WAS+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Friday 02/12/2022 19.49 (UTC)_
+Last update : _Friday 02/12/2022 22.28 (UTC)_
