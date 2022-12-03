@@ -5,4 +5,3 @@
 - [Group profiles](profiles.md)
 - [Stats & graphs](stats.md)
 - [About](about.md)
-git
