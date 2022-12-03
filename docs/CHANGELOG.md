@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## 2022-12-03
+
+* Add ransom notes when available (source : [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes))
+
 ## 2022-12-02 
 
 * Add Dataleak Ransomware
