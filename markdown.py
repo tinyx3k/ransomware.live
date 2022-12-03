@@ -161,7 +161,7 @@ def statspage():
         f.close()
     writeline(statspage, '# 📊 stats')
     writeline(statspage, '')
-    writeline(statspage, '_timestamp association commenced october 21"_')
+    writeline(statspage, '_timestamp association commenced october 2021_')
     writeline(statspage, '')
     writeline(statspage, '| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |')
     writeline(statspage, '|---|---|')
