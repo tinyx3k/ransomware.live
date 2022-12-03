@@ -267,9 +267,13 @@ def profilepage():
                 line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
         if os.path.exists('docs/ransomware_notes/'+ group['name']):
-             writeline(profilepage, '')
-             writeline(profilepage, '_<a href="/ransomware_notes/'+group['name']+'" target=_blank>`Check ransom note`</a>')
-             writeline(profilepage, '')
+            if os.path.exists('docs/ransomware_notes/'+ group['name'] + '/' + group['name'] + '.txt'):
+                ransom_note=group['name'] + '.txt'
+            else:
+                ransom_note=group['name'] + '1.txt'  
+            writeline(profilepage, '')
+            writeline(profilepage, '_ 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransom note`</a>')
+            writeline(profilepage, '')
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')
