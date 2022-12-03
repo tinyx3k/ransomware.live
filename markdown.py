@@ -62,6 +62,8 @@ def mainpage():
     uptime_sheet = 'docs/README.md'
     dir_path = r'docs/screenshots'
     screenshots=(len([entry for entry in os.listdir(dir_path) if os.path.isfile(os.path.join(dir_path, entry))]))
+    dir_path = r'docs/ransomware_notes'
+    nbransom_notes=sum([len(folder) for r, d, folder in os.walk(dir_path)])-4
     with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
     writeline(uptime_sheet, '')
@@ -82,6 +84,8 @@ def mainpage():
     writeline(uptime_sheet, '🏚 there have been `' + str(poststhisyear()) + '` posts since the `1st January ' + str(dt.now().year) + '`')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '📸 there is `' +  str(screenshots) + '` ransomware goup hosts screenshots')
+    writeline(uptime_sheet, '')
+    writeline(uptime_sheet, '📝 there is `' +  str(nbransom_notes) + '` ransomware notes')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '🚀 there have been `' + str(postslastyear()) + '` posts `last year`')
     writeline(uptime_sheet, '')
@@ -272,7 +276,7 @@ def profilepage():
             else:
                 ransom_note=group['name'] + '1.txt'  
             writeline(profilepage, '')
-            writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransom note`</a>')
+            writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransomware note`</a>')
             writeline(profilepage, '')
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
