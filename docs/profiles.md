@@ -2800,6 +2800,21 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | post | date |
 |---|---|
 
+## dataleak
+
+| title | available | version | last visit | fqdn | screen 
+|---|---|---|---|---|---|
+| DataLeak | True | 3 | 07:44 03/12/2022 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` |  | 
+
+| post | date |
+|---|---|
+| `The Beacon Insurance Company Limited` | 02/12/2022 |
+| `grantweber.com` | 02/12/2022 |
+| `wiesauplast.de` | 02/12/2022 |
+| `ni*usa.com` | 02/12/2022 |
+| `rkw-group.com Disclose the compressed package password` | 02/12/2022 |
+| `nissin.com.br Disclose the compressed package password` | 02/12/2022 |
+
 ## donutleaks
 
 | title | available | version | last visit | fqdn | screen 
@@ -5621,8 +5636,8 @@ _`aka vsop`_
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
-| PLAY NEWS | False | 3 | 04:10 03/12/2022 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | False | 3 | 04:10 03/12/2022 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | True | 3 | 04:10 03/12/2022 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | True | 3 | 04:10 03/12/2022 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -7123,20 +7138,5 @@ _`aka fonix`_
 | post | date |
 |---|---|
 
-## dataleak
 
-| title | available | version | last visit | fqdn | screen 
-|---|---|---|---|---|---|
-| DataLeak | True | 3 | 07:44 03/12/2022 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` |  | 
-
-| post | date |
-|---|---|
-| `The Beacon Insurance Company Limited` | 02/12/2022 |
-| `grantweber.com` | 02/12/2022 |
-| `wiesauplast.de` | 02/12/2022 |
-| `ni*usa.com` | 02/12/2022 |
-| `rkw-group.com Disclose the compressed package password` | 02/12/2022 |
-| `nissin.com.br Disclose the compressed package password` | 02/12/2022 |
-
-
-Last update : _Saturday 03/12/2022 07.44 (UTC)_
+Last update : _Saturday 03/12/2022 10.22 (UTC)_
