@@ -6,3 +6,4 @@ tldextract==3.1.2
 matplotlib==3.5.0
 BeautifulSoup4==4.7.1
 requests[socks]==2.26.0
+playwright
