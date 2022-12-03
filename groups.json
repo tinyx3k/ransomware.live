@@ -967,6 +967,25 @@
         "profile": []
     },
     {
+        "name": "dataleak",
+        "captcha": false,
+        "parser": false,
+        "javascript_render": false,
+        "meta": null,
+        "locations": [
+            {
+                "fqdn": "woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion",
+                "title": "DataLeak",
+                "version": 3,
+                "slug": "http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion/",
+                "available": true,
+                "updated": "2022-12-03 07:44:21.290421",
+                "lastscrape": "2022-12-03 07:44:21.290409"
+            }
+        ],
+        "profile": []
+    },
+    {
         "name": "donutleaks",
         "captcha": false,
         "parser": true,
@@ -2648,7 +2667,7 @@
                 "title": "PLAY NEWS",
                 "version": 3,
                 "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-03 04:10:05.547845",
                 "lastscrape": "2022-12-03 04:10:05.547826"
             },
@@ -2657,7 +2676,7 @@
                 "title": "PLAY NEWS",
                 "version": 3,
                 "slug": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-03 04:10:14.991390",
                 "lastscrape": "2022-12-03 04:10:14.991372"
             }
@@ -3661,24 +3680,5 @@
         "profile": [
             "https://id-ransomware.blogspot.com/2022/02/zeon-ransomware.html"
         ]
-    },
-    {
-        "name": "dataleak",
-        "captcha": false,
-        "parser": false,
-        "javascript_render": false,
-        "meta": null,
-        "locations": [
-            {
-                "fqdn": "woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion",
-                "title": "DataLeak",
-                "version": 3,
-                "slug": "http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion/",
-                "available": true,
-                "updated": "2022-12-03 07:44:21.290421",
-                "lastscrape": "2022-12-03 07:44:21.290409"
-            }
-        ],
-        "profile": []
     }
 ]
