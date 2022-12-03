@@ -116,7 +116,7 @@ echo ${gistteix} | cut -d ',' -f 2 | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_'
 gistteix_count=`cat assets/tmp/sources.gistteix | wc -w | awk '{$1=$1};1'`
 echo "${gistteix_count} | gist:teixeira0xfffff:ransomwarefeed.csv"
 
-breachsense=`curl -s https://www.breachsense.io/ransomware-gangs/ -H 'User-Agent: '${random_useragent}''`
+breachsense=`curl -s 2 -H 'User-Agent: '${random_useragent}''`
 echo "fetching: breachsense"
 echo $breachsense > /tmp/breachsense.html
 if [ $? -ne 0 ]; then
@@ -145,6 +145,18 @@ fi
 echo ${inh} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '"' -f 1 > assets/tmp/sources.inh
 inh_count=`cat assets/tmp/sources.inh | wc -w | awk '{$1=$1};1'`
 echo "${inh_count} | onion:inhx4x4y6"
+
+
+hypo=`curl -s https://raw.githubusercontent.com/hypoweb/ransomware-pr/main/onions.txt -H 'User-Agent: '${random_useragent}''`
+echo "fetching: hypo"
+echo $hypo > /tmp/hypo.txt
+if [ $? -ne 0 ]; then
+    echo "failed to fetch from hypoweb"
+fi
+echo ${hypo}  | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep -v t.me > assets/tmp/sources.hypo
+hypo_count=`cat assets/tmp/sources.hypo | wc -w | awk '{$1=$1};1'`
+echo "${hypo_count} | hypoweb"
+
 
 cat assets/tmp/sources.* | sort | tr '[:upper:]' '[:lower:]' | grep -Eo '^([a-z0-9][a-z0-9_-]*\.)*[a-z2-7]{56}\.onion' | uniq | while read host;
 do
