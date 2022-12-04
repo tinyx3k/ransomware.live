@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-09 | [`Hartnell College`](https://google.com/search?q=Hartnell+College) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-09 | [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 04/12/2022 12.28 (UTC)_
+Last update : _Sunday 04/12/2022 14.19 (UTC)_
