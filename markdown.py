@@ -232,14 +232,14 @@ def profilepage():
         writeline(profilepage, '')
         description_file = './source/descriptions/'+ group['name']+'.txt'
         if os.path.exists(description_file):
-            writeline(profilepage, '_ Description :_')
+            writeline(profilepage, '')
             with open(description_file, 'r') as file:
                 data = file.read().replace('\n', ' ')
-            writeline(profilepage, data)
+            writeline(profilepage,'>'+data)
             writeline(profilepage, '')
-        if group['captcha'] is True:
-            writeline(profilepage, ':warning: _has a captcha_')
-            writeline(profilepage, '')
+        #if group['captcha'] is True:
+        #    writeline(profilepage, ':warning: _has a captcha_')
+        #    writeline(profilepage, '')
         #if group['parser'] is True:
         #    writeline(profilepage, '_parsing : `enabled`_')
         #    writeline(profilepage, '')
@@ -250,9 +250,9 @@ def profilepage():
         if group['meta'] is not None:
             writeline(profilepage, '_`' + group['meta'] + '`_')
             writeline(profilepage, '')
-        if group['javascript_render'] is True:
-            writeline(profilepage, '> fetching this site requires a headless browser')
-            writeline(profilepage, '')
+        #if group['javascript_render'] is True:
+        #    writeline(profilepage, '> fetching this site requires a headless browser')
+        #    writeline(profilepage, '')
         if group['profile'] is not None:
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)
