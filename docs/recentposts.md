@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-04 | [`https://www.trussbilt.com`](https://google.com/search?q=https%3A%2F%2Fwww.trussbilt.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-12-04 | [`https://duplicatorsales.net/`](https://google.com/search?q=https%3A%2F%2Fduplicatorsales.net%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
+| 2022-12-04 | [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-04 | [`Cappagh Contractors Construction (London) Ltd`](https://google.com/search?q=Cappagh+Contractors+Construction+%28London%29+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-04 | [`abilways.com`](https://google.com/search?q=abilways.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`LOESCHGROUP.DE FILES PART7 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART7+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-12-04 | [`ORDEREXPRESS.COM.MX FILES PART8 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART8+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-11-09 | [`adnec.ae`](https://google.com/search?q=adnec.ae) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-09 | [`Hartnell College`](https://google.com/search?q=Hartnell+College) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-09 | [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`sinopecthc.com`](https://google.com/search?q=sinopecthc.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`oehc.corsica`](https://google.com/search?q=oehc.corsica) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`carone.com.mx`](https://google.com/search?q=carone.com.mx) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`shmcomputers.screenconnect.com`](https://google.com/search?q=shmcomputers.screenconnect.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 04/12/2022 03.13 (UTC)_
+Last update : _Sunday 04/12/2022 05.04 (UTC)_
