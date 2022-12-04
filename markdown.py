@@ -72,7 +72,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_ 📡')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'Check the recent ransomware posts [here](recentposts.md)')
+    writeline(uptime_sheet, 'Check recent ransomware posts `[here](recentposts.md)`')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')

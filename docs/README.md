@@ -4,7 +4,7 @@ _december 4th, 2022_
 
 currently tracking `130` groups across `236` relays & mirrors - _`76` currently online_ 📡
 
-Check the recent ransomware posts [here](recentposts.md)
+Check recent ransomware posts `[here](recentposts.md)`
 
 
 ⏲ there have been `9` posts within the `last 24 hours`
