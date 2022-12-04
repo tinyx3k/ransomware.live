@@ -64,6 +64,9 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 ## ako
 
+
+>A Windows ransomware that will run certain tasks to prepare the target system for the encryption of files. MedusaLocker avoids executable files, probably to avoid rendering the targeted system unusable for paying the ransom. It uses a combination of AES and RSA-2048, and reportedly appends extensions such as .encrypted, .bomber, .boroff, .breakingbad, .locker16, .newlock, .nlocker, and .skynet.
+
 - https://digital.nhs.uk/cyber-alerts/2020/cc-3345
 
 - https://www.bleepingcomputer.com/news/security/ako-ransomware-another-day-another-infection-attacking-businesses/
@@ -78,6 +81,9 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 |---|---|
 
 ## alphv
+
+
+>ALPHV, also known as BlackCat or Noberus, is a ransomware family that is deployed as part of Ransomware as a Service (RaaS) operations. ALPHV is written in the Rust programming language and supports execution on Windows, Linux-based operating systems (Debian, Ubuntu, ReadyNAS, Synology), and VMWare ESXi. ALPHV is marketed as ALPHV on cybercrime forums, but is commonly called BlackCat by security researchers due to an icon of a black cat appearing on its leak site. ALPHV has been observed being deployed in ransomware attacks since November 18, 2021. ALPHV can be configured to encrypt files using either the AES or ChaCha20 algorithms. In order to maximize the amount of ransomed data, ALPHV can delete volume shadow copies, stop processes and services, and stop virtual machines on ESXi servers. ALPHV can self-propagate by using PsExec to remote execute itself on other hosts on the local network.
 
 _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2wrbyd.onion``_
 
@@ -7324,4 +7330,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Sunday 04/12/2022 16.20 (UTC)_
+Last update : _Sunday 04/12/2022 16.40 (UTC)_
