@@ -116,7 +116,7 @@ echo ${gistteix} | cut -d ',' -f 2 | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_'
 gistteix_count=`cat assets/tmp/sources.gistteix | wc -w | awk '{$1=$1};1'`
 echo "${gistteix_count} | gist:teixeira0xfffff:ransomwarefeed.csv"
 
-breachsense=`curl -s 2 -H 'User-Agent: '${random_useragent}''`
+breachsense=`curl -s https://www.breachsense.io/ransomware-gangs/ -H 'User-Agent: '${random_useragent}''`
 echo "fetching: breachsense"
 echo $breachsense > /tmp/breachsense.html
 if [ $? -ne 0 ]; then
