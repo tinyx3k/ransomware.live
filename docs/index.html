@@ -28,21 +28,6 @@
         color: #5e5e5e;
     }
 </style>
-<!-- Statistics -->
-<script>
-  var _paq = window._paq = window._paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="https://stats.mousqueton.io/";
-    _paq.push(['setTrackerUrl', u+'matomo.php']);
-    _paq.push(['setSiteId', '10']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Statistics Code -->
 <link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/icon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/icon/apple-icon-72x72.png">
@@ -82,7 +67,15 @@
       name: '🏴‍☠️💰<br>Ransomware.live',
       externalLinkTarget: '_blank',
       loadNavbar : false, // IMPORTANT
-      changelog : 'CHANGELOG.md', 
+      changelog : 'CHANGELOG.md',
+      matomo: {
+          host: '//stats.mousqueton.io',
+          id: 10,
+        },
+      alias: {
+        '/allpost': 'https://posts.ransomware.live'
+
+      },
       repo: 'https://github.com/jmousqueton/ransomwatch',  
       search: 'auto',
       search : [
@@ -95,12 +88,13 @@
         pre: '<hr/>',
         style: 'text-align: right;',
       }, 
-    }
+    };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-changelog-plugin@latest/dist/index.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js"></script>
   <script 
     src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
     type="text/javascript">
