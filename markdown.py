@@ -230,6 +230,13 @@ def profilepage():
     for group in groups:
         writeline(profilepage, '## ' + group['name'])
         writeline(profilepage, '')
+        description_file = './source/descriptions/'+ group['name']+'.txt'
+        if os.path.exists(description_file):
+            writeline(profilepage, '_ Description :_')
+            with open(description_file, 'r') as file:
+                data = file.read().replace('\n', ' ')
+            writeline(profilepage, data)
+            writeline(profilepage, '')
         if group['captcha'] is True:
             writeline(profilepage, ':warning: _has a captcha_')
             writeline(profilepage, '')

@@ -378,6 +378,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ## avaddon
 
+_ Description :_
+Avaddon is a ransomware malware targeting Windows systems often spread via malicious spam. The first known attack where Avaddon ransomware was distributed was in February 2020. Avaddon encrypts files using the extension .avdn and uses a TOR payment site for the ransom payment. 
+
 - https://www.acronis.com/en-us/articles/avaddon-ransomware
 
 - https://www.cyber.gov.au/sites/default/files/2021-05/2021-003%20Ongoing%20campaign%20using%20Avaddon%20Ransomware%20-%2020210508.pdf
@@ -598,6 +601,9 @@ _`captcha prevents indexing`_
 
 ## babuk
 
+_ Description :_
+Babuk Ransomware is a sophisticated ransomware compiled for several platforms. Windows and ARM for Linux are the most used compiled versions, but ESX and a 32bit old PE executable were observed over time. as well It uses an Elliptic Curve Algorithm (Montgomery Algorithm) to build the encryption keys. 
+
 - https://www.bleepingcomputer.com/news/security/leaked-babuk-locker-ransomware-builder-used-in-new-attacks
 
 - https://www.bleepingcomputer.com/news/security/babuk-ransomwares-full-source-code-leaked-on-hacker-forum
@@ -699,6 +705,9 @@ _`captcha prevents indexing`_
 | `VANOSS Public School` | 27/11/2022 |
 
 ## blackbasta
+
+_ Description :_
+"Black Basta" is a new ransomware strain discovered during April 2022 - looks in dev since at least early February 2022 - and due to their ability to quickly amass new victims and the style of their negotiations, this is likely not a new operation but rather a rebrand of a previous top-tier ransomware gang that brought along their affiliates. 
 
 > fetching this site requires a headless browser
 
@@ -857,6 +866,9 @@ _`captcha prevents indexing`_
 
 ## blackbyte
 
+_ Description :_
+Ransomware. Uses dropper written in JavaScript to deploy a .NET payload. 
+
 - 61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47
 
 - BlackByteSupp0rt@onionmail.org
@@ -974,6 +986,9 @@ _`captcha prevents indexing`_
 | `lapiamontesa` | 22/11/2022 |
 
 ## blackmatter
+
+_ Description :_
+Ransomware-as-a-Service  
 
 _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 
@@ -1115,6 +1130,9 @@ _`claim to donate 80% of earnings to charity`_
 |---|---|
 
 ## clop
+
+_ Description :_
+Clop is a ransomware which uses the .clop extension after having encrypted the victim's files. Another unique characteristic belonging with Clop is in the string: "Dont Worry C|0P" included into the ransom notes. It is a variant of CryptoMix ransomware, but it additionally attempts to disable Windows Defender and to remove the Microsoft Security Essentials in order to avoid user space detection. 
 
 :warning: _has a captcha_
 
@@ -2220,6 +2238,9 @@ _`claim to donate 80% of earnings to charity`_
 
 ## conti
 
+_ Description :_
+Conti is an extremely damaging ransomware due to the speed with which it encrypts data and spreads to other systems. It was first observed in 2020 and it is thought to be led by a Russia-based cybercrime group that goes under the Wizard Spider pseudonym. In early May 2022, the US government announced a reward of up to $10 million for information on the Conti ransomware gang. 
+
 _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 - https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442
@@ -2822,6 +2843,9 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 ## darkside
 
+_ Description :_
+FireEye describes DARKSIDE as a ransomware written in C and configurable to target files whether on fixed, removable disks, or network shares. The malware can be customized by the affiliates to create a build for specific victims. 
+
 - https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware
 
 - https://www.varonis.com/blog/darkside-ransomware
@@ -2839,6 +2863,9 @@ _`marketplace - not a ransomware group, reputation questionable`_
 |---|---|
 
 ## diavol
+
+_ Description :_
+A ransomware with potential ties to Wizard Spider. 
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
@@ -2886,6 +2913,9 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 ## doppelpaymer
 
+_ Description :_
+Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: ".how2decrypt.txt". 
+
 :warning: _has a captcha_
 
 > fetching this site requires a headless browser
@@ -2929,6 +2959,9 @@ _`marketplace - not a ransomware group`_
 |---|---|
 
 ## entropy
+
+_ Description :_
+Entropy is a ransomware first seen in 1st quarter of 2022, is being used in conjunction of Dridex infection. The ransomware uses a custom packer to pack itself which has been seen in some early dridex samples.  
 
 :warning: _has a captcha_
 
@@ -3169,6 +3202,9 @@ _`login page, no posts`_
 |---|---|
 
 ## hellokitty
+
+_ Description :_
+Unit42 states that HelloKitty is a ransomware family that first surfaced at the end of 2020, primarily targeting Windows systems. The malware family got its name due to its use of a Mutex with the same name: HelloKittyMutex. The ransomware samples seem to evolve quickly and frequently, with different versions making use of the .crypted or .kitty file extensions for encrypted files. Some newer samples make use of a Golang packer that ensures the final ransomware code is only loaded in memory, most likely to evade detection by security solutions. 
 
 _`aka fivehands`_
 
@@ -5050,6 +5086,9 @@ _`marketplace - not a ransomware group`_
 
 ## lorenz
 
+_ Description :_
+Tesorion describes Lorenz as a ransomware with design and implementation flaws, leading to impossible decryption with tools provided by the attackers. A free decryptor for 2021 versions was made available via the NoMoreRansom initiative. A new version of the malware was discovered in March 2022, for which again was provided a free decryptor, while the ransomware operators are not able to provide tools to decrypt affected files. 
+
 _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/index.php`_
 
 - https://www.zdnet.com/article/lorenz-ransomware-attack-victims-can-now-retrieve-their-files-for-free-with-this-decryption-tool
@@ -5277,6 +5316,9 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 ## maze
 
+_ Description :_
+Maze Ransomware encrypts files and makes them inaccessible while adding a custom extension containing part of the ID of the victim. The ransom note is placed inside a text file and an htm file. There are a few different extensions appended to files which are randomly generated.  Actors are known to exfiltrate the data from the network for further extortion. It spreads mainly using email spam and various exploit kits (Spelevo, Fallout).   The code of Maze ransomware is highly complicated and obfuscated, which helps to evade security solutions using signature-based detections. 
+
 - https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down
 
 - https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
@@ -5303,6 +5345,9 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|
 
 ## medusa
+
+_ Description :_
+Medusa is a DDoS bot written in .NET 2.0. In its current incarnation its C&C protocol is based on HTTP, while its predecessor made use of IRC. 
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
@@ -5334,6 +5379,9 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | `DGLEGAL` | 15/11/2022 |
 
 ## midas
+
+_ Description :_
+This malware written in C# is a variant of the Thanos ransomware family and emerged in October 2021 and is obfuscated using SmartAssembly. In 2022, ThreatLabz analysed a report of Midas ransomware was slowly deployed over a two month period (ZScaler). This ransomware features also its own data leak site as part of its double extortion strategy. 
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
@@ -5387,6 +5435,9 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | `Basra Multipurposr Terminal` | 14/04/2022 |
 
 ## mindware
+
+_ Description :_
+Ransomware, potential rebranding of win.sfile. 
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
@@ -5494,6 +5545,9 @@ _`not a ransomware group`_
 
 ## nefilim
 
+_ Description :_
+According to Vitali Kremez and Michael Gillespie, this ransomware shares much code with Nemty 2.5. A difference is removal of the RaaS component, which was switched to email communications for payments. Uses AES-128, which is then protected RSA2048. 
+
 > fetching this site requires a headless browser
 
 - https://www.zdnet.com/article/a-deep-dive-into-nefilim-a-double-extortion-ransomware-group
@@ -5521,6 +5575,9 @@ _`not a ransomware group`_
 | `Atlanta Allergy &#038; Asthma. Part 1.` | 09/09/2021 |
 
 ## nemty
+
+_ Description :_
+Nemty is a ransomware that was discovered in September 2019. Fortinet states that they found it being distributed through similar ways as Sodinokibi and also noted artfifacts they had seen before in Gandcrab. 
 
 - https://www.mcafee.com/blogs/other-blogs/mcafee-labs/nemty-ransomware-learning-by-doing/
 
@@ -5643,6 +5700,9 @@ _`aka vsop`_
 
 ## pandora
 
+_ Description :_
+Pandora ransomware was obtained by vx-underground at 2022-03-14. 
+
 - contact@pandoraxyz.xyz
 
 | title | available | version | last visit | fqdn | screen 
@@ -5723,6 +5783,9 @@ _`aka vsop`_
 
 ## play
 
+_ Description :_
+Ransomware 
+
 - https://socradar.io/dark-web-profile-play-ransomware/
 
 - https://www.trendmicro.com/en_us/research/22/i/play-ransomware-s-attack-playbook-unmasks-it-as-another-hive-aff.html
@@ -5785,6 +5848,9 @@ _`aka pwndlocker`_
 | `http://willisklein.com` | 11/11/2022 |
 
 ## prometheus
+
+_ Description :_
+Ransomware written in .NET, apparently derived from the codebase of win.hakbit (Thanos) ransomware. 
 
 > fetching this site requires a headless browser
 
@@ -6347,6 +6413,9 @@ _`login page, no posts`_
 
 ## ragnarok
 
+_ Description :_
+According to Bleeping Computer, the ransomware is used in targeted attacks against unpatched Citrix servers. It excludes Russian and Chinese targets using the system's Language ID for filtering. It also tries to disable Windows Defender and has a number of UNIX filepath references in its strings. Encryption method is AES using a dynamically generated key, then bundling this key up via RSA. 
+
 _`shut down & offering a decryptor`_
 
 - https://techcrunch.com/2021/08/30/ragnarok-ransomware-gang-shuts-down-and-releases-its-decryption-key
@@ -6395,6 +6464,9 @@ _`shut down & offering a decryptor`_
 |---|---|
 
 ## ransomexx
+
+_ Description :_
+RansomExx is a ransomware family that targeted multiple companies starting in mid-2020. It shares commonalities with Defray777. 
 
 - https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware
 
@@ -6516,6 +6588,9 @@ _`shut down & offering a decryptor`_
 | `www.bbadmin.com` | 22/09/2022 |
 
 ## revil
+
+_ Description :_
+REvil Beta MD5: bed6fc04aeb785815744706239a1f243 SHA1: 3d0649b5f76dbbff9f86b926afbd18ae028946bf SHA256: 3641b09bf6eae22579d4fd5aae420476a134f5948966944189a70afd8032cb45 * Privilege escalation via CVE-2018-8453 (64-bit only) * Rerun with RunAs to elevate privileges * Implements a requirement that if "exp" is set, privilege escalation must be successful for full execution to occur * Implements target whitelisting using GetKetboardLayoutList * Contains debug console logging functionality * Defines the REvil registry root key as SOFTWARE\!test * Includes two variable placeholders in the ransom note: UID & KEY * Terminates processes specified in the "prc" configuration key prior to encryption * Deletes shadow copies and disables recovery * Wipes contents of folders specified in the "wfld" configuration key prior to encryption * Encrypts all non-whitelisted files on fixed drives * Encrypts all non-whitelisted files on network mapped drives if it is running with System-level privileges or can impersonate the security context of explorer.exe * Partially implements a background image setting to display a basic "Image text" message * Sends encrypted system data to a C2 domain via an HTTPS POST request (URI path building is not implemented.) ------------------------------------ REvil 1.00 MD5: 65aa793c000762174b2f86077bdafaea SHA1: 95a21e764ad0c98ea3d034d293aee5511e7c8457 SHA256: f0c60f62ef9ffc044d0b4aeb8cc26b971236f24a2611cb1be09ff4845c3841bc * Adds 32-bit implementation of CVE-2018-8453 exploit * Removes console debug logging * Changes the REvil registry root key to SOFTWARE ecfg * Removes the System/Impersonation success requirement for encrypting network mapped drives * Adds a "wipe" key to the configuration for optional folder wiping * Fully implements the background image setting and leverages values defined in the "img" configuration key * Adds an EXT variable placeholder to the ransom note to support UID, KEY, and EXT * Implements URI path building so encrypted system data is sent to a C2 pseudo-random URL * Fixes the function that returns the victim's username so the correct value is placed in the stats JSON data ------------------------------------ REvil 1.01 MD5: 2abff29b4d87f30f011874b6e98959e9 SHA1: 9d1b61b1cba411ee6d4664ba2561fa59cdb0732c SHA256: a88e2857a2f3922b44247316642f08ba8665185297e3cd958bbd22a83f380feb * Removes the exp/privilege escalation requirement for full execution and encrypts data regardless of privilege level * Makes encryption of network mapped drives optional by adding the "-nolan" argument ------------------------------------ REvil 1.02 MD5: 4af953b20f3a1f165e7cf31d6156c035 SHA1: b859de5ffcb90e4ca8e304d81a4f81e8785bb299 SHA256: 89d80016ff4c6600e8dd8cfad1fa6912af4d21c5457b4e9866d1796939b48dc4 * Enhances whitelisting validation by adding inspection of GetUserDefaultUILanguage and GetSystemDefaultUILanguage * Partially implements "lock file" logic by generating a lock filename based on the first four bytes of the Base64-decoded pk key, appending a .lock file extension, and adding the filename to the list of whitelisted files in the REvil configuration (It does not appear that this value is referenced after it is created and stored in memory. There is no evidence that a lock file is dropped to disk.) * Enhances folder whitelisting logic that take special considerations if the folder is associated with "program files" directories * Hard-codes whitelisting of all direct content within the Program Files or Program Files x86 directories * Hard-codes whitelisting of "sql" subfolders within program files * Encrypts program files sub-folders that does not contain "sql" in the path * Compares other folders to the list of whitelisted folders specified in the REvil configuration to determine if they are whitelisted * Encodes stored strings used for URI building within the binary and decodes them in memory right before use * Introduces a REvil registry root key "sub_key" registry value containing the attacker's public key ------------------------------------ REvil 1.03 MD5: 3cae02306a95564b1fff4ea45a7dfc00 SHA1: 0ce2cae5287a64138d273007b34933362901783d SHA256: 78fa32f179224c46ae81252c841e75ee4e80b57e6b026d0a05bb07d34ec37bbf * Removes lock file logic that was partially implemented in 1.02 * Leverages WMI to continuously monitor for and kill newly launched processes whose names are listed in the prc configuration key (Previous versions performed this action once.) * Encodes stored shellcode * Adds the -path argument: * Does not wipe folders (even if wipe == true) * Does not set desktop background * Does not contact the C2 server (even if net == true) * Encrypts files in the specified folder and drops the ransom note * Changes the REvil registry root key to SOFTWARE\QtProject\OrganizationDefaults * Changes registry key values from --> to:   * sub_key --> pvg   * pk_key --> sxsP   * sk_key --> BDDC8   * 0_key --> f7gVD7   * rnd_ext --> Xu7Nnkd   * stat --> sMMnxpgk ------------------------------------ REvil 1.04 MD5: 6e3efb83299d800edf1624ecbc0665e7 SHA1: 0bd22f204c5373f1a22d9a02c59f69f354a2cc0d SHA256: 2ca64feaaf5ab6cf96677fbc2bc0e1995b3bc93472d7af884139aa757240e3f6 * Leverages PowerShell and WMI to delete shadow copies if the victim's operating system is newer than Windows XP (For Windows XP or older, it uses the original command that was executed in all previous REvil versions.) * Removes the folder wipe capability * Changes the REvil registry root key to SOFTWARE\GitForWindows * Changes registry key values from --> to:   * pvg --> QPM   * sxsP --> cMtS   * BDDC8 --> WGg7j   * f7gVD7 --> zbhs8h   * Xu7Nnkd --> H85TP10   * sMMnxpgk --> GCZg2PXD ------------------------------------ REvil v1.05 MD5: cfefcc2edc5c54c74b76e7d1d29e69b2 SHA1: 7423c57db390def08154b77e2b5e043d92d320c7 SHA256: e430479d1ca03a1bc5414e28f6cdbb301939c4c95547492cdbe27b0a123344ea * Add new 'arn' configuration key that contains a boolean true/false value that controls whether or not to implement persistence. * Implements persistence functionality via registry Run key. Data for value is set to the full path and filename of the currently running executable. The executable is never moved into any 'working directory' such as %AppData% or %TEMP% as part of the persistence setup. The Reg Value used is the hardcoded value of 'lNOWZyAWVv' :   * SOFTWARE\Microsoft\Windows\CurrentVersion\Run\lNOWZyAWVv * Before exiting, REvil sets up its malicious executable to be deleted upon reboot by issuing a call to MoveFileExW and setting the destination to NULL and the flags to 4 (MOVEFILE_DELAY_UNTIL_REBOOT). This breaks persistence however as the target executable specified in the Run key will no longer exist once this is done. * Changes registry key values from --> to:   * QPM --> tgE   * cMtS --> 8K09   * WGg7j --> xMtNc   * zbhs8h --> CTgE4a   * H85TP10 --> oE5bZg0   * GCZg2PXD --> DC408Qp4 ------------------------------------ REvil v1.06 MD5: 65ff37973426c09b9ff95f354e62959e SHA1: b53bc09cfbd292af7b3609734a99d101bd24d77e SHA256: 0e37d9d0a7441a98119eb1361a0605042c4db0e8369b54ba26e6ba08d9b62f1e * Updated string decoding function to break existing yara rules. Likely the result of the blog posted by us. * Modified handling of network file encryption. Now explicitly passes every possible "Scope" constant to the WNetOpenEnum function when looking for files to encrypt. It also changed the 'Resource Type" from RESOURCETYPE_DISK to RESOURCETYPE_ANY which will now include things like mapped printers. * Persistence registry value changed from 'lNOWZyAWVv' to 'sNpEShi30R' * Changes registry key values from --> to:   * tgE --> 73g   * 8K09 --> vTGj   * xMtNc --> Q7PZe   * CTgE4a --> BuCrIp   * oE5bZg0 --> lcZd7OY   * DC408Qp4 --> sLF86MWC ------------------------------------ REvil v1.07 MD5: ea4cae3d6d8150215a4d90593a4c30f2 SHA1: 8dcbcbefaedf5675b170af3fd44db93ad864894e SHA256: 6a2bd52a5d68a7250d1de481dcce91a32f54824c1c540f0a040d05f757220cd3 TBD 
 
 > fetching this site requires a headless browser
 
@@ -6753,6 +6828,9 @@ _`shut down & offering a decryptor`_
 
 ## snatch
 
+_ Description :_
+Snatch is a ransomware which infects victims by rebooting the PC into Safe Mode. Most of the existing security protections do not run in Safe Mode so that it the malware can act without expected countermeasures and it can encrypt as many files as it finds. It uses common packers such as UPX to hide its payload. 
+
 - https://t.me/snatch_news
 
 - https://lifars.com/wp-content/uploads/2020/07/Snatch-Ransomware-Malware-Analysis-Case-Study.pdf
@@ -6861,6 +6939,9 @@ _`shut down & offering a decryptor`_
 
 ## solidbit
 
+_ Description :_
+Ransomware, written in .NET. 
+
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | SOLIDBIT LOGIN | False | 3 | 10:45 27/08/2022 | `http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion` |  | 
@@ -6942,6 +7023,9 @@ _`shut down & offering a decryptor`_
 | `ioi` | 09/05/2022 |
 
 ## sugar
+
+_ Description :_
+Ransomware, written in Delphi. 
 
 - https://tria.ge/211112-lbfz1adab7
 
@@ -7286,4 +7370,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Sunday 04/12/2022 15.25 (UTC)_
+Last update : _Sunday 04/12/2022 16.14 (UTC)_

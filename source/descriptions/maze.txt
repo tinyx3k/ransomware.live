@@ -1,0 +1,5 @@
+Maze Ransomware encrypts files and makes them inaccessible while adding a custom extension containing part of the ID of the victim. The ransom note is placed inside a text file and an htm file. There are a few different extensions appended to files which are randomly generated.
+
+Actors are known to exfiltrate the data from the network for further extortion. It spreads mainly using email spam and various exploit kits (Spelevo, Fallout). 
+
+The code of Maze ransomware is highly complicated and obfuscated, which helps to evade security solutions using signature-based detections.

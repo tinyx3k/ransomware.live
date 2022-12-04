@@ -1,0 +1,126 @@
+REvil Beta
+MD5: bed6fc04aeb785815744706239a1f243
+SHA1: 3d0649b5f76dbbff9f86b926afbd18ae028946bf
+SHA256: 3641b09bf6eae22579d4fd5aae420476a134f5948966944189a70afd8032cb45
+* Privilege escalation via CVE-2018-8453 (64-bit only)
+* Rerun with RunAs to elevate privileges
+* Implements a requirement that if "exp" is set, privilege escalation must be successful for full execution to occur
+* Implements target whitelisting using GetKetboardLayoutList
+* Contains debug console logging functionality
+* Defines the REvil registry root key as SOFTWARE\!test
+* Includes two variable placeholders in the ransom note: UID & KEY
+* Terminates processes specified in the "prc" configuration key prior to encryption
+* Deletes shadow copies and disables recovery
+* Wipes contents of folders specified in the "wfld" configuration key prior to encryption
+* Encrypts all non-whitelisted files on fixed drives
+* Encrypts all non-whitelisted files on network mapped drives if it is running with System-level privileges or can impersonate the security context of explorer.exe
+* Partially implements a background image setting to display a basic "Image text" message
+* Sends encrypted system data to a C2 domain via an HTTPS POST request (URI path building is not implemented.)
+------------------------------------
+REvil 1.00
+MD5: 65aa793c000762174b2f86077bdafaea
+SHA1: 95a21e764ad0c98ea3d034d293aee5511e7c8457
+SHA256: f0c60f62ef9ffc044d0b4aeb8cc26b971236f24a2611cb1be09ff4845c3841bc
+* Adds 32-bit implementation of CVE-2018-8453 exploit
+* Removes console debug logging
+* Changes the REvil registry root key to SOFTWAREecfg
+* Removes the System/Impersonation success requirement for encrypting network mapped drives
+* Adds a "wipe" key to the configuration for optional folder wiping
+* Fully implements the background image setting and leverages values defined in the "img" configuration key
+* Adds an EXT variable placeholder to the ransom note to support UID, KEY, and EXT
+* Implements URI path building so encrypted system data is sent to a C2 pseudo-random URL
+* Fixes the function that returns the victim's username so the correct value is placed in the stats JSON data
+------------------------------------
+REvil 1.01
+MD5: 2abff29b4d87f30f011874b6e98959e9
+SHA1: 9d1b61b1cba411ee6d4664ba2561fa59cdb0732c
+SHA256: a88e2857a2f3922b44247316642f08ba8665185297e3cd958bbd22a83f380feb
+* Removes the exp/privilege escalation requirement for full execution and encrypts data regardless of privilege level
+* Makes encryption of network mapped drives optional by adding the "-nolan" argument
+------------------------------------
+REvil 1.02
+MD5: 4af953b20f3a1f165e7cf31d6156c035
+SHA1: b859de5ffcb90e4ca8e304d81a4f81e8785bb299
+SHA256: 89d80016ff4c6600e8dd8cfad1fa6912af4d21c5457b4e9866d1796939b48dc4
+* Enhances whitelisting validation by adding inspection of GetUserDefaultUILanguage and GetSystemDefaultUILanguage
+* Partially implements "lock file" logic by generating a lock filename based on the first four bytes of the Base64-decoded pk key, appending a .lock file extension, and adding the filename to the list of whitelisted files in the REvil configuration (It does not appear that this value is referenced after it is created and stored in memory. There is no evidence that a lock file is dropped to disk.)
+* Enhances folder whitelisting logic that take special considerations if the folder is associated with "program files" directories
+* Hard-codes whitelisting of all direct content within the Program Files or Program Files x86 directories
+* Hard-codes whitelisting of "sql" subfolders within program files
+* Encrypts program files sub-folders that does not contain "sql" in the path
+* Compares other folders to the list of whitelisted folders specified in the REvil configuration to determine if they are whitelisted
+* Encodes stored strings used for URI building within the binary and decodes them in memory right before use
+* Introduces a REvil registry root key "sub_key" registry value containing the attacker's public key
+------------------------------------
+REvil 1.03
+MD5: 3cae02306a95564b1fff4ea45a7dfc00
+SHA1: 0ce2cae5287a64138d273007b34933362901783d
+SHA256: 78fa32f179224c46ae81252c841e75ee4e80b57e6b026d0a05bb07d34ec37bbf
+* Removes lock file logic that was partially implemented in 1.02
+* Leverages WMI to continuously monitor for and kill newly launched processes whose names are listed in the prc configuration key (Previous versions performed this action once.)
+* Encodes stored shellcode
+* Adds the -path argument:
+* Does not wipe folders (even if wipe == true)
+* Does not set desktop background
+* Does not contact the C2 server (even if net == true)
+* Encrypts files in the specified folder and drops the ransom note
+* Changes the REvil registry root key to SOFTWARE\QtProject\OrganizationDefaults
+* Changes registry key values from --> to:
+  * sub_key --> pvg
+  * pk_key --> sxsP
+  * sk_key --> BDDC8
+  * 0_key --> f7gVD7
+  * rnd_ext --> Xu7Nnkd
+  * stat --> sMMnxpgk
+------------------------------------
+REvil 1.04
+MD5: 6e3efb83299d800edf1624ecbc0665e7
+SHA1: 0bd22f204c5373f1a22d9a02c59f69f354a2cc0d
+SHA256: 2ca64feaaf5ab6cf96677fbc2bc0e1995b3bc93472d7af884139aa757240e3f6
+* Leverages PowerShell and WMI to delete shadow copies if the victim's operating system is newer than Windows XP (For Windows XP or older, it uses the original command that was executed in all previous REvil versions.)
+* Removes the folder wipe capability
+* Changes the REvil registry root key to SOFTWARE\GitForWindows
+* Changes registry key values from --> to:
+  * pvg --> QPM
+  * sxsP --> cMtS
+  * BDDC8 --> WGg7j
+  * f7gVD7 --> zbhs8h
+  * Xu7Nnkd --> H85TP10
+  * sMMnxpgk --> GCZg2PXD
+------------------------------------
+REvil v1.05
+MD5: cfefcc2edc5c54c74b76e7d1d29e69b2
+SHA1: 7423c57db390def08154b77e2b5e043d92d320c7
+SHA256: e430479d1ca03a1bc5414e28f6cdbb301939c4c95547492cdbe27b0a123344ea
+* Add new 'arn' configuration key that contains a boolean true/false value that controls whether or not to implement persistence.
+* Implements persistence functionality via registry Run key. Data for value is set to the full path and filename of the currently running executable. The executable is never moved into any 'working directory' such as %AppData% or %TEMP% as part of the persistence setup. The Reg Value used is the hardcoded value of 'lNOWZyAWVv' :
+  * SOFTWARE\Microsoft\Windows\CurrentVersion\Run\lNOWZyAWVv
+* Before exiting, REvil sets up its malicious executable to be deleted upon reboot by issuing a call to MoveFileExW and setting the destination to NULL and the flags to 4 (MOVEFILE_DELAY_UNTIL_REBOOT). This breaks persistence however as the target executable specified in the Run key will no longer exist once this is done.
+* Changes registry key values from --> to:
+  * QPM --> tgE
+  * cMtS --> 8K09
+  * WGg7j --> xMtNc
+  * zbhs8h --> CTgE4a
+  * H85TP10 --> oE5bZg0
+  * GCZg2PXD --> DC408Qp4
+------------------------------------
+REvil v1.06
+MD5: 65ff37973426c09b9ff95f354e62959e
+SHA1: b53bc09cfbd292af7b3609734a99d101bd24d77e
+SHA256: 0e37d9d0a7441a98119eb1361a0605042c4db0e8369b54ba26e6ba08d9b62f1e
+* Updated string decoding function to break existing yara rules. Likely the result of the blog posted by us.
+* Modified handling of network file encryption. Now explicitly passes every possible "Scope" constant to the WNetOpenEnum function when looking for files to encrypt. It also changed the 'Resource Type" from RESOURCETYPE_DISK to RESOURCETYPE_ANY which will now include things like mapped printers.
+* Persistence registry value changed from 'lNOWZyAWVv' to 'sNpEShi30R'
+* Changes registry key values from --> to:
+  * tgE --> 73g
+  * 8K09 --> vTGj
+  * xMtNc --> Q7PZe
+  * CTgE4a --> BuCrIp
+  * oE5bZg0 --> lcZd7OY
+  * DC408Qp4 --> sLF86MWC
+------------------------------------
+REvil v1.07
+MD5: ea4cae3d6d8150215a4d90593a4c30f2
+SHA1: 8dcbcbefaedf5675b170af3fd44db93ad864894e
+SHA256: 6a2bd52a5d68a7250d1de481dcce91a32f54824c1c540f0a040d05f757220cd3
+TBD
