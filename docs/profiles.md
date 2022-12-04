@@ -3116,6 +3116,9 @@ _`captcha prevents indexing`_
 
 ## grief
 
+
+>Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: ".how2decrypt.txt".
+
 _`captcha prevents indexing`_
 
 - https://heimdalsecurity.com/blog/doppelpaymer-gets-a-rebranding
@@ -3208,6 +3211,9 @@ _`aka fivehands`_
 |---|---|
 
 ## hiveleak
+
+
+>Hive is a strain of ransomware that was first discovered in June 2021. Hive was designed to be used by Ransomware-as-a-service providers, to enable novice cyber-criminals to launch ransomware attacks on healthcare providers, energy providers, charities, and retailers across the globe. In 2022 there was a switch from GoLang to Rust.
 
 _`aka hive`_
 
@@ -5437,6 +5443,9 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 ## mosesstaff
 
+
+>Cybereason Nocturnus describes Moses Staff as an Iranian hacker group, first spotted in October 2021. Their motivation appears to be to harm Israeli companies by leaking sensitive, stolen data.
+
 _`not a ransomware group`_
 
 - https://twitter.com/moses_staff_se
@@ -6160,6 +6169,9 @@ _`aka pwndlocker`_
 | `Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥` | 20/09/2022 |
 
 ## qilin
+
+
+>Ransomware written in Go.
 
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
@@ -7330,4 +7342,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Sunday 04/12/2022 20.21 (UTC)_
+Last update : _Sunday 04/12/2022 21.23 (UTC)_
