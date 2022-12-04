@@ -1,6 +1,6 @@
 - [Home](README.md)
 - [Recent posts](recentposts.md)
-- [All posts](allposts)
+- [All posts](https://posts.ransomware.live/)
 - [Groups status](INDEX.md)
 - [Group profiles](profiles.md)
 - [Stats & graphs](stats.md)
