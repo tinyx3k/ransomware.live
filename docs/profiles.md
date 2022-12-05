@@ -718,7 +718,7 @@ _`captcha prevents indexing`_
 | `IM Group` | 05/12/2022 |
 | `CROWN TECHNOLOGY Ltd` | 05/12/2022 |
 | `Ability Commerce` | 05/12/2022 |
-| ` Restaurant` | 05/12/2022 |
+| `Golden Coin Bake Shop and Restaurant` | 05/12/2022 |
 | `Bonn Nutrients Pvt` | 05/12/2022 |
 
 ## blackbasta
@@ -7361,4 +7361,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Monday 05/12/2022 19.31 (UTC)_
+Last update : _Monday 05/12/2022 20.17 (UTC)_
