@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-05 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-05 | [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-05 | [`brunoy.fr`](https://google.com/search?q=brunoy.fr) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-04 | [`https://www.trussbilt.com`](https://google.com/search?q=https%3A%2F%2Fwww.trussbilt.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-12-04 | [`https://duplicatorsales.net/`](https://google.com/search?q=https%3A%2F%2Fduplicatorsales.net%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-12-04 | [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-11-10 | [`MCCROSSAN`](https://google.com/search?q=MCCROSSAN) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-10 | [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`chahousing.org`](https://google.com/search?q=chahousing.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`adnec.ae`](https://google.com/search?q=adnec.ae) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-09 | [`Hartnell College`](https://google.com/search?q=Hartnell+College) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-09 | [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Sunday 04/12/2022 22.54 (UTC)_
+Last update : _Monday 05/12/2022 05.17 (UTC)_
