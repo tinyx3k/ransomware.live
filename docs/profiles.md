@@ -708,9 +708,13 @@ _`captcha prevents indexing`_
 | `Samrin Services Pvt Ltd` | 27/11/2022 |
 | `Power Plant Services LLC` | 27/11/2022 |
 | `VANOSS Public School` | 27/11/2022 |
-| `Technologies` | 05/12/2022 |
+| `B****** *b*` | 05/12/2022 |
+| `**a***** H****** ******r****` | 05/12/2022 |
+| `**i* **s****` | 05/12/2022 |
+| `*** Technologies` | 05/12/2022 |
 | `AV Solutions` | 05/12/2022 |
-| ` School` | 05/12/2022 |
+| `****** ******* School` | 05/12/2022 |
+| `*u****` | 05/12/2022 |
 | `IM Group` | 05/12/2022 |
 | `CROWN TECHNOLOGY Ltd` | 05/12/2022 |
 | `Ability Commerce` | 05/12/2022 |
@@ -7357,4 +7361,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Monday 05/12/2022 17.00 (UTC)_
+Last update : _Monday 05/12/2022 19.31 (UTC)_

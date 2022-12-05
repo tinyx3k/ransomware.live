@@ -9,9 +9,13 @@ _last `200` posts_
 | 2022-12-05 | [`Ability Commerce`](https://google.com/search?q=Ability+Commerce) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-12-05 | [`CROWN TECHNOLOGY Ltd`](https://google.com/search?q=CROWN+TECHNOLOGY+Ltd) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-12-05 | [`IM Group`](https://google.com/search?q=IM+Group) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-12-05 | [` School`](https://google.com/search?q=+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-12-05 | [`*u****`](https://google.com/search?q=%2Au%2A%2A%2A%2A) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-12-05 | [`****** ******* School`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-12-05 | [`AV Solutions`](https://google.com/search?q=AV+Solutions) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
-| 2022-12-05 | [`Technologies`](https://google.com/search?q=Technologies) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-12-05 | [`*** Technologies`](https://google.com/search?q=%2A%2A%2A+Technologies) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-12-05 | [`**i* **s****`](https://google.com/search?q=%2A%2Ai%2A+%2A%2As%2A%2A%2A%2A) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-12-05 | [`**a***** H****** ******r****`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2Ar%2A%2A%2A%2A) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
+| 2022-12-05 | [`B****** *b*`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2Ab%2A) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-12-05 | [`LJ Hooker Palm Beach`](https://google.com/search?q=LJ+Hooker+Palm+Beach) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-05 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -200,9 +204,5 @@ _last `200` posts_
 | 2022-11-11 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
 | 2022-11-11 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
 | 2022-11-11 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
-| 2022-11-11 | [`http://sterlingbattery.com`](https://google.com/search?q=http%3A%2F%2Fsterlingbattery.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
-| 2022-11-11 | [`http://doctorscenterhospital.com`](https://google.com/search?q=http%3A%2F%2Fdoctorscenterhospital.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
-| 2022-11-11 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART11 - water\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART11+-+water%5C10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-11 | [`LOESCHGROUP.DE FILES PART4 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART4+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 
-Last update : _Monday 05/12/2022 17.00 (UTC)_
+Last update : _Monday 05/12/2022 19.31 (UTC)_
