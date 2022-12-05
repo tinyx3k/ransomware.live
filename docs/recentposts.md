@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-10 | [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 05/12/2022 10.46 (UTC)_
+Last update : _Monday 05/12/2022 13.57 (UTC)_
