@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`LJ Hooker Palm Beach`](https://google.com/search?q=LJ+Hooker+Palm+Beach) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-05 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-05 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-05 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-05 | [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -201,8 +204,5 @@ _last `200` posts_
 | 2022-11-11 | [`Aeronautics company Canada`](https://google.com/search?q=Aeronautics+company+Canada) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-11-10 | [`Kreisverwaltung Rhein-Pfalz-Kreis`](https://google.com/search?q=Kreisverwaltung+Rhein-Pfalz-Kreis) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-10 | [`Main & Main Capital Group`](https://google.com/search?q=Main+%26+Main+Capital+Group) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
-| 2022-11-10 | [`MCCROSSAN`](https://google.com/search?q=MCCROSSAN) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-11-10 | [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-09 | [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Monday 05/12/2022 13.57 (UTC)_
+Last update : _Monday 05/12/2022 15.15 (UTC)_

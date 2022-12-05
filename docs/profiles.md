@@ -323,6 +323,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `ENPPI - HACKED AND MORE THEN 1100 GB DATA LEAKED!` | 01/12/2022 |
 | `Cappagh Contractors Construction (London) Ltd` | 04/12/2022 |
 | `Philippine Economic Zone Authority (PEZA) peza.gov.ph` | 04/12/2022 |
+| `moruga it` | 05/12/2022 |
+| `Grupo NGN` | 05/12/2022 |
+| `LJ Hooker Palm Beach` | 05/12/2022 |
 
 ## arvinclub
 
@@ -7346,4 +7349,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Monday 05/12/2022 13.57 (UTC)_
+Last update : _Monday 05/12/2022 15.15 (UTC)_
