@@ -6543,6 +6543,15 @@ _`shut down & offering a decryptor`_
 | `SHOPRITE HOLDINGS LTD` | 14/06/2022 |
 | `Summit Care` | 11/07/2022 |
 | `8 Italy Districts` | 09/08/2022 |
+| `BRYCON Construction` | 05/12/2022 |
+| `SMB Solutions` | 05/12/2022 |
+| `Severn Glocon Group` | 05/12/2022 |
+| `ADATA Technology` | 05/12/2022 |
+| `ROFA INDUSTRIAL AUTOMATION` | 05/12/2022 |
+| `Carmen Copper Corporation` | 05/12/2022 |
+| `Ipca Laboratories` | 05/12/2022 |
+| `Fairfax - Crum & Forster` | 05/12/2022 |
+| `Advanced Micro Devices, Inc` | 05/12/2022 |
 
 ## ranzy
 
@@ -7364,4 +7373,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Monday 05/12/2022 22.48 (UTC)_
+Last update : _Monday 05/12/2022 23.53 (UTC)_

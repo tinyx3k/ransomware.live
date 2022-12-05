@@ -4,6 +4,15 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`ROFA INDUSTRIAL AUTOMATION`](https://google.com/search?q=ROFA+INDUSTRIAL+AUTOMATION) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`SMB Solutions`](https://google.com/search?q=SMB+Solutions) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
+| 2022-12-05 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`prinovaglobal.com`](https://google.com/search?q=prinovaglobal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-05 | [`littleswitzerland.com`](https://google.com/search?q=littleswitzerland.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-05 | [`Glutz`](https://google.com/search?q=Glutz) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -195,14 +204,5 @@ _last `200` posts_
 | 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-14 | [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-14 | [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
-| 2022-11-14 | [`CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.`](https://google.com/search?q=CENTRAL+BANK+OF+GAMBIA+HACKED.+2+TB+OF+CRITICAL+DATA+WAS+STOLEN.) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-13 | [`YASH Technologies`](https://google.com/search?q=YASH+Technologies) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-11-13 | [`Popp Hutcheson PLLC`](https://google.com/search?q=Popp+Hutcheson+PLLC) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-11-13 | [`Saurer`](https://google.com/search?q=Saurer) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-11-13 | [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
-| 2022-11-12 | [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-11 | [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-11 | [`Motional.com`](https://google.com/search?q=Motional.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-11 | [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Monday 05/12/2022 22.48 (UTC)_
+Last update : _Monday 05/12/2022 23.53 (UTC)_
