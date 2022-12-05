@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-05 | [`prinovaglobal.com`](https://google.com/search?q=prinovaglobal.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-05 | [`littleswitzerland.com`](https://google.com/search?q=littleswitzerland.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-05 | [`Glutz`](https://google.com/search?q=Glutz) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-12-05 | [`Bonn Nutrients Pvt`](https://google.com/search?q=Bonn+Nutrients+Pvt) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-12-05 | [`Golden Coin Bake Shop and Restaurant`](https://google.com/search?q=Golden+Coin+Bake+Shop+and+Restaurant) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-12-05 | [`Ability Commerce`](https://google.com/search?q=Ability+Commerce) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -201,8 +204,5 @@ _last `200` posts_
 | 2022-11-11 | [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-11 | [`Motional.com`](https://google.com/search?q=Motional.com) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-11-11 | [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-11 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
-| 2022-11-11 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
-| 2022-11-11 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](https://ransomware.live/#/profiles?id=projectrelic) |
 
-Last update : _Monday 05/12/2022 20.17 (UTC)_
+Last update : _Monday 05/12/2022 22.48 (UTC)_
