@@ -99,7 +99,7 @@ def mainpage():
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (GMT)_')
+    writeline(uptime_sheet, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     writeline(uptime_sheet, '')
 
 def indexpage():
@@ -167,7 +167,7 @@ def statspage():
     writeline(statspage, '|---|---|')
     writeline(statspage, '![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |')
     writeline(statspage, '')
-    writeline(statspage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (GMT)_')
+    writeline(statspage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('stats page generated')
 
 def recentposts(top):
@@ -212,7 +212,7 @@ def recentpage():
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     writeline(recentpage, '')
-    writeline(recentpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + '(GMT))_')
+    writeline(recentpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('recent posts page generated')
 
 def profilepage():
@@ -299,7 +299,7 @@ def profilepage():
         writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')
     writeline(profilepage, '')
-    writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (GMT)_')
+    writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('profile page generation complete')
 
 def main():
