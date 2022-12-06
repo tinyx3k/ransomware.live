@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-06 | [`myersontooth.com`](https://google.com/search?q=myersontooth.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-06 | [`PANOLAM`](https://google.com/search?q=PANOLAM) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-06 | [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-06 | [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-06 | [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 06/12/2022 10.48 (UTC)_
+Last update : _Tuesday 06/12/2022 14.22 (UTC)_
