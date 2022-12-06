@@ -4,6 +4,9 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-06 | [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-06 | [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
+| 2022-12-06 | [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-06 | [`CIBTvisas`](https://google.com/search?q=CIBTvisas) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-06 | [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-12-05 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
@@ -201,8 +204,5 @@ _last `200` posts_
 | 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-14 | [`Baysgarth School`](https://google.com/search?q=Baysgarth+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Tuesday 06/12/2022 07.55 (UTC)_
+Last update : _Tuesday 06/12/2022 09.04 (UTC)_
