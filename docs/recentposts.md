@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-06 | [`CIBTvisas`](https://google.com/search?q=CIBTvisas) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-06 | [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-12-05 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-14 | [`Baysgarth School`](https://google.com/search?q=Baysgarth+School) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-14 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | [lv](https://ransomware.live/#/profiles?id=lv) |
-| 2022-11-14 | [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
-| 2022-11-14 | [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Tuesday 06/12/2022 04.59 (UTC)_
+Last update : _Tuesday 06/12/2022 07.55 (UTC)_
