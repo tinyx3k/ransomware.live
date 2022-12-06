@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Tuesday 06/12/2022 09.04 (UTC)_
+Last update : _Tuesday 06/12/2022 10.48 (UTC)_
