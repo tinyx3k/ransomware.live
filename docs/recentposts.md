@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Tuesday 06/12/2022 19.48 (UTC)_
+Last update : _Tuesday 06/12/2022 22.42 (UTC)_
