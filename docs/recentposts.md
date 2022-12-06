@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-14 | [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-11-14 | [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Tuesday 06/12/2022 03.10 (UTC)_
+Last update : _Tuesday 06/12/2022 04.59 (UTC)_
