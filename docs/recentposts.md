@@ -4,6 +4,8 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-06 | [`g4s.com`](https://google.com/search?q=g4s.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-06 | [`amundson.co.nz`](https://google.com/search?q=amundson.co.nz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-06 | [`myersontooth.com`](https://google.com/search?q=myersontooth.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-06 | [`PANOLAM`](https://google.com/search?q=PANOLAM) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-06 | [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
@@ -202,7 +204,5 @@ _last `200` posts_
 | 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Tuesday 06/12/2022 14.22 (UTC)_
+Last update : _Tuesday 06/12/2022 17.01 (UTC)_
