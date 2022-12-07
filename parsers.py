@@ -888,6 +888,17 @@ def dataleak():
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
-        errlog('play: ' + 'parsing fail')
+        errlog('dataleak: ' + 'parsing fail')
     for post in posts:
         appender(post, 'dataleak')
+
+def monti():
+    stdlog('parser: ' + 'play')
+    parser = '''
+    grep '<h5 style="color:#dbdbdb" >' source/monti-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('monti: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'monti')
