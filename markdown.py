@@ -250,7 +250,7 @@ def profilepage():
     # delete contents of file
     with open(profilepage, 'w', encoding='utf-8') as f:
         f.close()
-    #writeline(profilepage, '# 🐦 profiles')
+    writeline(profilepage, '# Profiles')
     writeline(profilepage, '')
     groups = openjson('groups.json')
     for group in groups:
