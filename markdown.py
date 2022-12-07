@@ -259,8 +259,8 @@ def profilepage():
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
         writeline(profilepage, '### URLs')
-        writeline(profilepage, '| title | available | version | last visit | fqdn | screen ')
-        writeline(profilepage, '|---|---|---|---|---|---|')        
+        writeline(profilepage, '| Title | Available | Last visit | fqdn | screen ')
+        writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
             # convert date to ddmmyyyy hh:mm
             date = host['lastscrape'].split(' ')[0]
@@ -270,14 +270,14 @@ def profilepage():
             time = time.split(':')
             time = time[0] + ':' + time[1]
             screenshot=host['fqdn'].replace('.', '-') + '.png'
-            screen=''
+            screen='❌'
             if os.path.exists('docs/screenshots/'+screenshot):
                 screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
             if host['title'] is not None:
-                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
+                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
             else:
-                line = '| none | ' + str(host['available']) +  ' | ' + str(host['version']) + ' | ' + time + ' ' + date + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
+                line = '| none | ' + str(host['available']) +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
         if os.path.exists('docs/ransomware_notes/'+ group['name']):
             if os.path.exists('docs/ransomware_notes/'+ group['name'] + '/' + group['name'] + '.txt'):
