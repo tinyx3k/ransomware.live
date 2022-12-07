@@ -285,6 +285,7 @@ def profilepage():
             else:
                 ransom_note=group['name'] + '1.txt'  
             writeline(profilepage, '')
+            writeline(profilepage, '### Ransom note')
             writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransomware note`</a>')
             writeline(profilepage, '')
         writeline(profilepage, '### Posts')
