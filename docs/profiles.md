@@ -5513,10 +5513,12 @@ _`not a ransomware group`_
 
 ## monti
 
+- https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger
+
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | 404 Not Found | False | 3 | 17:13 10/10/2022 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` |  | 
-| none | True | 3 | 00:00 01/05/2021 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` |  | 
+| none | True | 3 | 00:00 01/05/2021 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
 
 | post | date |
 |---|---|
@@ -7393,4 +7395,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Wednesday 07/12/2022 10.37 (UTC)_
+Last update : _Wednesday 07/12/2022 12.33 (UTC)_

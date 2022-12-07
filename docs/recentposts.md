@@ -205,4 +205,4 @@ _last `200` posts_
 | 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`Salmon Software`](https://google.com/search?q=Salmon+Software) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Wednesday 07/12/2022 10.37 (UTC)_
+Last update : _Wednesday 07/12/2022 12.33 (UTC)_
