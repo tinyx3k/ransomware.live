@@ -5516,9 +5516,11 @@ _`not a ransomware group`_
 | title | available | version | last visit | fqdn | screen 
 |---|---|---|---|---|---|
 | 404 Not Found | False | 3 | 17:13 10/10/2022 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` |  | 
+| none | True | 3 | 00:00 01/05/2021 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` |  | 
 
 | post | date |
 |---|---|
+| `test` | 07/12/2022 |
 
 ## mount-locker
 
@@ -7391,4 +7393,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Wednesday 07/12/2022 07.51 (UTC)_
+Last update : _Wednesday 07/12/2022 10.37 (UTC)_
