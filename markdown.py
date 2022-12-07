@@ -109,7 +109,7 @@ def indexpage():
     groups = openjson('groups.json')
     writeline(index_sheet, '# 🚦 Status')
     writeline(index_sheet, '')
-    header = '| group | title | status | last seen | location | Screenshoot |'
+    header = '| Group | Title | Status | Last seen | Location | Screenshoot |'
     writeline(index_sheet, header)
     writeline(index_sheet, '|---|---|---|---|---|---|')
     for group in groups:
@@ -199,7 +199,7 @@ def recentpage():
     writeline(recentpage, '')
     #writeline(recentpage, '_last `' + str(fetching_count) + '` posts_')
     #writeline(recentpage, '')
-    writeline(recentpage, '| date | title | group |')
+    writeline(recentpage, '| Date | Title | Group |')
     writeline(recentpage, '|---|---|---|')
     for post in recentposts(fetching_count):
         # show friendly date for discovered
