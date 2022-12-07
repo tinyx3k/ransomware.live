@@ -1,6 +1,6 @@
 # 🐦 profiles
 
-## 0mega
+## **0mega**
 
 ### External analysis
 ### URLs
@@ -15,7 +15,7 @@
 | `Maxey Moverley` | 14/07/2022 |
 | `Nextlabs` | 15/09/2022 |
 
-## RAMP
+## **RAMP**
 
 ### External analysis
 - https://ke-la.com/new-russian-speaking-forum-a-new-place-for-raas/
@@ -35,7 +35,7 @@
 | post | date |
 |---|---|
 
-## aGl0bGVyCg
+## **aGl0bGVyCg**
 
 ### External analysis
 ### URLs
@@ -47,7 +47,7 @@
 | post | date |
 |---|---|
 
-## adminlocker
+## **adminlocker**
 
 _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 
@@ -63,7 +63,7 @@ _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 | post | date |
 |---|---|
 
-## againstthewest
+## **againstthewest**
 
 _`closed forum, access sold from https://sellix.io/atwforums`_
 
@@ -77,7 +77,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 | post | date |
 |---|---|
 
-## ako
+## **ako**
 
 
 >A Windows ransomware that will run certain tasks to prepare the target system for the encryption of files. MedusaLocker avoids executable files, probably to avoid rendering the targeted system unusable for paying the ransom. It uses a combination of AES and RSA-2048, and reportedly appends extensions such as .encrypted, .bomber, .boroff, .breakingbad, .locker16, .newlock, .nlocker, and .skynet.
@@ -98,7 +98,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 | post | date |
 |---|---|
 
-## alphv
+## **alphv**
 
 
 >ALPHV, also known as BlackCat or Noberus, is a ransomware family that is deployed as part of Ransomware as a Service (RaaS) operations. ALPHV is written in the Rust programming language and supports execution on Windows, Linux-based operating systems (Debian, Ubuntu, ReadyNAS, Synology), and VMWare ESXi. ALPHV is marketed as ALPHV on cybercrime forums, but is commonly called BlackCat by security researchers due to an icon of a black cat appearing on its leak site. ALPHV has been observed being deployed in ransomware attacks since November 18, 2021. ALPHV can be configured to encrypt files using either the AES or ChaCha20 algorithms. In order to maximize the amount of ransomed data, ALPHV can delete volume shadow copies, stop processes and services, and stop virtual machines on ESXi servers. ALPHV can self-propagate by using PsExec to remote execute itself on other hosts on the local network.
@@ -353,7 +353,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `Elias Motsoaledi Local Municiapality` | 06/12/2022 |
 | `Requena` | 07/12/2022 |
 
-## arvinclub
+## **arvinclub**
 
 ### External analysis
 - http://t.me/arvin_club
@@ -391,7 +391,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `AM International` | 20/04/2022 |
 | `Al Bijjar` | 21/04/2022 |
 
-## atomsilo
+## **atomsilo**
 
 ### External analysis
 - https://www.cyfirma.com/outofband/malware-research-on-atomsilo-ransomware/
@@ -418,7 +418,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `Eisai Co., Ltd.` | 21/12/2021 |
 | `Tegravendas` | 21/12/2021 |
 
-## avaddon
+## **avaddon**
 
 
 >Avaddon is a ransomware malware targeting Windows systems often spread via malicious spam. The first known attack where Avaddon ransomware was distributed was in February 2020. Avaddon encrypts files using the extension .avdn and uses a TOR payment site for the ransom payment. 
@@ -583,7 +583,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | `Sky Leasing, LLC` | 09/09/2021 |
 | `EFCO forms` | 09/09/2021 |
 
-## avos
+## **avos**
 
 ### External analysis
 ### URLs
@@ -595,7 +595,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | post | date |
 |---|---|
 
-## avoslocker
+## **avoslocker**
 
 _`captcha prevents indexing`_
 
@@ -641,7 +641,7 @@ _`captcha prevents indexing`_
 | `Huali Industrial Group` | 25/09/2021 |
 | `Memory Express` | 26/09/2021 |
 
-## aztroteam
+## **aztroteam**
 
 ### External analysis
 ### URLs
@@ -653,7 +653,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## babuk
+## **babuk**
 
 
 >Babuk Ransomware is a sophisticated ransomware compiled for several platforms. Windows and ARM for Linux are the most used compiled versions, but ESX and a 32bit old PE executable were observed over time. as well It uses an Elliptic Curve Algorithm (Montgomery Algorithm) to build the encryption keys. 
@@ -680,7 +680,7 @@ _`captcha prevents indexing`_
 | `4murs.com` | 09/09/2021 |
 | `The Babuk team shares the position stated by the most famous hacktivist group.` | 09/09/2021 |
 
-## babyduck
+## **babyduck**
 
 ### External analysis
 - https://twitter.com/PolarToffee/status/1445873002801889280?s=20
@@ -694,7 +694,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## bianlian
+## **bianlian**
 
 ### External analysis
 - A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC
@@ -777,7 +777,7 @@ _`captcha prevents indexing`_
 | `Golden Coin Bake Shop and Restaurant` | 05/12/2022 |
 | `Bonn Nutrients Pvt` | 05/12/2022 |
 
-## blackbasta
+## **blackbasta**
 
 
 >"Black Basta" is a new ransomware strain discovered during April 2022 - looks in dev since at least early February 2022 - and due to their ability to quickly amass new victims and the style of their negotiations, this is likely not a new operation but rather a rebrand of a previous top-tier ransomware gang that brought along their affiliates. 
@@ -940,7 +940,7 @@ _`captcha prevents indexing`_
 | `Maple Leaf Foods` | 01/12/2022 |
 | `PANOLAM` | 06/12/2022 |
 
-## blackbyte
+## **blackbyte**
 
 
 >Ransomware. Uses dropper written in JavaScript to deploy a .NET payload. 
@@ -1065,7 +1065,7 @@ _`captcha prevents indexing`_
 | `ALTEK` | 07/11/2022 |
 | `lapiamontesa` | 22/11/2022 |
 
-## blackmatter
+## **blackmatter**
 
 
 >Ransomware-as-a-Service  
@@ -1121,7 +1121,7 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 | `Keycentrix` | 04/11/2021 |
 | `National Beverage` | 04/11/2021 |
 
-## blackshadow
+## **blackshadow**
 
 _`previous clearnet domain blackshadow.cc`_
 
@@ -1140,7 +1140,7 @@ _`previous clearnet domain blackshadow.cc`_
 | `K.L.S Capital` | 18/12/2021 |
 | `Shirbit Insurance Company` | 18/12/2021 |
 
-## blacktor
+## **blacktor**
 
 ### External analysis
 ### URLs
@@ -1157,7 +1157,7 @@ _`previous clearnet domain blackshadow.cc`_
 | `bankjatim-co-id` | 30/12/2021 |
 | `ticketclub-it` | 30/12/2021 |
 
-## bluesky
+## **bluesky**
 
 ### External analysis
 ### URLs
@@ -1173,7 +1173,7 @@ _`previous clearnet domain blackshadow.cc`_
 | post | date |
 |---|---|
 
-## bonacigroup
+## **bonacigroup**
 
 _`claim to donate 80% of earnings to charity`_
 
@@ -1190,7 +1190,7 @@ _`claim to donate 80% of earnings to charity`_
 | `Ward Arcuri Foley &amp; Dwyer  Law Firm` | 04/10/2021 |
 | `Marshall Investigative Group Part 1/3 1000 Client` | 06/12/2021 |
 
-## cheers
+## **cheers**
 
 ### External analysis
 ### URLs
@@ -1218,7 +1218,7 @@ _`claim to donate 80% of earnings to charity`_
 | `An Japan Game Halls Operator` | 01/09/2022 |
 | `DYNAM JAPAN HOLDINGS CO., LTD` | 14/09/2022 |
 
-## chilelocker
+## **chilelocker**
 
 ### External analysis
 ### URLs
@@ -1230,7 +1230,7 @@ _`claim to donate 80% of earnings to charity`_
 | post | date |
 |---|---|
 
-## clop
+## **clop**
 
 
 >Clop is a ransomware which uses the .clop extension after having encrypted the victim's files. Another unique characteristic belonging with Clop is in the string: "Dont Worry C|0P" included into the ransom notes. It is a variant of CryptoMix ransomware, but it additionally attempts to disable Windows Defender and to remove the Microsoft Security Essentials in order to avoid user space detection. 
@@ -2339,7 +2339,7 @@ _`claim to donate 80% of earnings to charity`_
 | `ORDEREXPRESS.COM.MX FILES PART8 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\` | 04/12/2022 |
 | `LOESCHGROUP.DE FILES PART7 - 192.168.101.34\DATEN\Media\ PUBLISHED` | 04/12/2022 |
 
-## conti
+## **conti**
 
 
 >Conti is an extremely damaging ransomware due to the speed with which it encrypts data and spreads to other systems. It was first observed in 2020 and it is thought to be led by a Russia-based cybercrime group that goes under the Wizard Spider pseudonym. In early May 2022, the US government announced a reward of up to $10 million for information on the Conti ransomware gang. 
@@ -2699,7 +2699,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | `LCRD` | 25/05/2022 |
 | `Alliance Steel` | 07/06/2022 |
 
-## cooming
+## **cooming**
 
 _`previous clearnet domain coomingproject.com`_
 
@@ -2714,7 +2714,7 @@ _`previous clearnet domain coomingproject.com`_
 | post | date |
 |---|---|
 
-## crylock
+## **crylock**
 
 ### External analysis
 ### URLs
@@ -2726,7 +2726,7 @@ _`previous clearnet domain coomingproject.com`_
 | post | date |
 |---|---|
 
-## cryp70n1c0d3
+## **cryp70n1c0d3**
 
 _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
@@ -2751,7 +2751,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | `hislopcollege.ac.in` | 18/12/2021 |
 | `iima.ac.in` | 18/12/2021 |
 
-## cuba
+## **cuba**
 
 ### External analysis
 - https://www.mcafee.com/enterprise/en-us/assets/reports/rp-cuba-ransomware.pdf
@@ -2864,7 +2864,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | `Generator-power` | 01/12/2022 |
 | `Landaumedia` | 01/12/2022 |
 
-## dagonlocker
+## **dagonlocker**
 
 ### External analysis
 ### URLs
@@ -2880,7 +2880,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | post | date |
 |---|---|
 
-## daixin
+## **daixin**
 
 ### External analysis
 ### URLs
@@ -2899,7 +2899,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | `AirAsia Group (MY, ID, TH)` | 19/11/2022 |
 | `Astra Daihatsu Motor (ID)` | 24/11/2022 |
 
-## darkangels
+## **darkangels**
 
 _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
@@ -2917,7 +2917,7 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 | post | date |
 |---|---|
 
-## darkleakmarket
+## **darkleakmarket**
 
 _`marketplace - not a ransomware group, reputation questionable`_
 
@@ -2973,7 +2973,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | `Xplay Data Leak` | 18/05/2022 |
 | `Huge iCloud Nudes Leak` | 25/05/2022 |
 
-## darkside
+## **darkside**
 
 
 >FireEye describes DARKSIDE as a ransomware written in C and configurable to target files whether on fixed, removable disks, or network shares. The malware can be customized by the affiliates to create a build for specific victims. 
@@ -2998,7 +2998,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | post | date |
 |---|---|
 
-## diavol
+## **diavol**
 
 
 >A ransomware with potential ties to Wizard Spider. 
@@ -3017,7 +3017,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | post | date |
 |---|---|
 
-## dataleak
+## **dataleak**
 
 ### External analysis
 ### URLs
@@ -3035,7 +3035,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | `rkw-group.com Disclose the compressed package password` | 02/12/2022 |
 | `nissin.com.br Disclose the compressed package password` | 02/12/2022 |
 
-## donutleaks
+## **donutleaks**
 
 ### External analysis
 ### URLs
@@ -3057,7 +3057,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | `Evo exhibits` | 28/09/2022 |
 | `Health Care Solutions Group` | 01/10/2022 |
 
-## doppelpaymer
+## **doppelpaymer**
 
 
 >Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: ".how2decrypt.txt". 
@@ -3080,7 +3080,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | post | date |
 |---|---|
 
-## dread
+## **dread**
 
 _`marketplace - not a ransomware group`_
 
@@ -3094,7 +3094,7 @@ _`marketplace - not a ransomware group`_
 | post | date |
 |---|---|
 
-## ech0raix
+## **ech0raix**
 
 ### External analysis
 - https://www.anomali.com/blog/the-ech0raix-ransomware
@@ -3110,7 +3110,7 @@ _`marketplace - not a ransomware group`_
 | post | date |
 |---|---|
 
-## entropy
+## **entropy**
 
 
 >Entropy is a ransomware first seen in 1st quarter of 2022, is being used in conjunction of Dridex infection. The ransomware uses a custom packer to pack itself which has been seen in some early dridex samples.  
@@ -3127,7 +3127,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## ep918
+## **ep918**
 
 ### External analysis
 ### URLs
@@ -3139,7 +3139,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## everest
+## **everest**
 
 ### External analysis
 - https://www.reuters.com/article/us-usa-products-colonial-pipeline-ransom/more-ransomware-websites-disappear-in-aftermath-of-colonial-pipeline-hack-idUSKCN2CX0KT
@@ -3265,7 +3265,7 @@ _`captcha prevents indexing`_
 | `Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners` | 21/11/2022 |
 | `Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners` | 23/11/2022 |
 
-## exorcist
+## **exorcist**
 
 ### External analysis
 - https://medium.com/@velasco.l.n/exorcist-ransomware-from-triaging-to-deep-dive-5b7da4263d81
@@ -3279,7 +3279,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## freecivilian
+## **freecivilian**
 
 ### External analysis
 ### URLs
@@ -3291,7 +3291,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## grief
+## **grief**
 
 
 >Doppelpaymer is a ransomware family that encrypts user data and later on it asks for a ransom in order to restore original files. It is recognizable by its trademark file extension added to encrypted files: .doppeled. It also creates a note file named: ".how2decrypt.txt".
@@ -3316,7 +3316,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## groove
+## **groove**
 
 ### External analysis
 - https://intel471.com/blog/groove-gang-ransomware-babuk-revil-blackmatter
@@ -3345,7 +3345,7 @@ _`captcha prevents indexing`_
 | `episcopalretirement.com  Возможна утечка` | 23/10/2021 |
 | `Я не пью виски но с ним бы выпил` | 30/10/2021 |
 
-## hades
+## **hades**
 
 ### External analysis
 ### URLs
@@ -3361,7 +3361,7 @@ _`captcha prevents indexing`_
 | post | date |
 |---|---|
 
-## haron
+## **haron**
 
 _`login page, no posts`_
 
@@ -3379,7 +3379,7 @@ _`login page, no posts`_
 | post | date |
 |---|---|
 
-## hellokitty
+## **hellokitty**
 
 
 >Unit42 states that HelloKitty is a ransomware family that first surfaced at the end of 2020, primarily targeting Windows systems. The malware family got its name due to its use of a Mutex with the same name: HelloKittyMutex. The ransomware samples seem to evolve quickly and frequently, with different versions making use of the .crypted or .kitty file extensions for encrypted files. Some newer samples make use of a Golang packer that ensures the final ransomware code is only loaded in memory, most likely to evade detection by security solutions. 
@@ -3404,7 +3404,7 @@ _`aka fivehands`_
 | post | date |
 |---|---|
 
-## hiveleak
+## **hiveleak**
 
 
 >Hive is a strain of ransomware that was first discovered in June 2021. Hive was designed to be used by Ransomware-as-a-service providers, to enable novice cyber-criminals to launch ransomware attacks on healthcare providers, energy providers, charities, and retailers across the globe. In 2022 there was a switch from GoLang to Rust.
@@ -3619,7 +3619,7 @@ _`aka hive`_
 | `Guilford College` | 25/11/2022 |
 | `INTERSPORT France` | 06/12/2022 |
 
-## holyghost
+## **holyghost**
 
 ### External analysis
 ### URLs
@@ -3631,7 +3631,7 @@ _`aka hive`_
 | post | date |
 |---|---|
 
-## hotarus
+## **hotarus**
 
 _`aka hotarus corp`_
 
@@ -3647,7 +3647,7 @@ _`aka hotarus corp`_
 | post | date |
 |---|---|
 
-## icefire
+## **icefire**
 
 ### External analysis
 ### URLs
@@ -3670,7 +3670,7 @@ _`aka hotarus corp`_
 | `*.bestservers.pro` | 20/08/2022 |
 | `*.algotrader.com` | 20/08/2022 |
 
-## karakurt
+## **karakurt**
 
 ### External analysis
 ### URLs
@@ -3684,7 +3684,7 @@ _`aka hotarus corp`_
 | post | date |
 |---|---|
 
-## karma
+## **karma**
 
 ### External analysis
 - https://www.sentinelone.com/labs/karma-ransomware-an-emerging-threat-with-a-hint-of-nemty-pedigree/
@@ -3713,7 +3713,7 @@ _`aka hotarus corp`_
 | `Saurer. Part 1.` | 04/10/2021 |
 | `Our first post` | 04/10/2021 |
 
-## kelvinsecurity
+## **kelvinsecurity**
 
 _`not a ransomware group`_
 
@@ -3755,7 +3755,7 @@ _`not a ransomware group`_
 | `Mansfield Energy` | 24/05/2022 |
 | `TRANSCONTRACT` | 24/05/2022 |
 
-## leaktheanalyst
+## **leaktheanalyst**
 
 _`not a ransomware group`_
 
@@ -3789,7 +3789,7 @@ _`not a ransomware group`_
 | `18 Build your own drone` | 29/03/2022 |
 | `19 You Must Never Forget LeakTheAnalyst` | 29/03/2022 |
 
-## lilith
+## **lilith**
 
 ### External analysis
 - BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC
@@ -3807,7 +3807,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## lockbit
+## **lockbit**
 
 ### External analysis
 ### URLs
@@ -3823,7 +3823,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## lockbit2
+## **lockbit2**
 
 _`previous clearnet fqdn lockbitapt.uz`_
 
@@ -4857,7 +4857,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | `oak-brook.org` | 26/06/2022 |
 | `datalit.it` | 28/06/2022 |
 
-## lockbit3
+## **lockbit3**
 
 ### External analysis
 ### URLs
@@ -5246,7 +5246,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | `amundson.co.nz` | 06/12/2022 |
 | `g4s.com` | 06/12/2022 |
 
-## lockbit3_fs
+## **lockbit3_fs**
 
 ### External analysis
 ### URLs
@@ -5283,7 +5283,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | post | date |
 |---|---|
 
-## lockdata
+## **lockdata**
 
 _`marketplace - not a ransomware group`_
 
@@ -5306,7 +5306,7 @@ _`marketplace - not a ransomware group`_
 | `[Saudi Arabia] Al Wefag Trading & Manufacturing` | 09/09/2021 |
 | `[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103` | 09/09/2021 |
 
-## lolnek
+## **lolnek**
 
 ### External analysis
 ### URLs
@@ -5320,7 +5320,7 @@ _`marketplace - not a ransomware group`_
 | post | date |
 |---|---|
 
-## lorenz
+## **lorenz**
 
 
 >Tesorion describes Lorenz as a ransomware with design and implementation flaws, leading to impossible decryption with tools provided by the attackers. A free decryptor for 2021 versions was made available via the NoMoreRansom initiative. A new version of the malware was discovered in March 2022, for which again was provided a free decryptor, while the ransomware operators are not able to provide tools to decrypt affected files. 
@@ -5400,7 +5400,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 | `Holler-Classic` | 30/11/2022 |
 | `Albina Asphalt` | 07/12/2022 |
 
-## lv
+## **lv**
 
 ### External analysis
 - https://www.secureworks.com/research/lv-ransomware
@@ -5484,7 +5484,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 | `UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P` | 19/11/2022 |
 | `GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA` | 27/11/2022 |
 
-## mallox
+## **mallox**
 
 _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
@@ -5506,7 +5506,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 | `API MDC Technical Research Centre Sdn Bhd` | 04/11/2022 |
 | `Canny Elevator Co Ltd` | 04/11/2022 |
 
-## marketo
+## **marketo**
 
 _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
@@ -5563,7 +5563,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | `Millensys` | 07/12/2021 |
 | `Vehicle Service Group (VSG)` | 14/02/2022 |
 
-## maze
+## **maze**
 
 
 >Maze Ransomware encrypts files and makes them inaccessible while adding a custom extension containing part of the ID of the victim. The ransom note is placed inside a text file and an htm file. There are a few different extensions appended to files which are randomly generated.  Actors are known to exfiltrate the data from the network for further extortion. It spreads mainly using email spam and various exploit kits (Spelevo, Fallout).   The code of Maze ransomware is highly complicated and obfuscated, which helps to evade security solutions using signature-based detections. 
@@ -5586,7 +5586,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | post | date |
 |---|---|
 
-## mbc
+## **mbc**
 
 ### External analysis
 - https://www.thenationalnews.com/business/2021/08/21/mbc-ransomware-group-claims-responsibility-for-cyber-attack-on-irans-railway-network/
@@ -5600,7 +5600,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | post | date |
 |---|---|
 
-## medusa
+## **medusa**
 
 
 >Medusa is a DDoS bot written in .NET 2.0. In its current incarnation its C&C protocol is based on HTTP, while its predecessor made use of IRC. 
@@ -5637,7 +5637,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | `emscrm` | 15/11/2022 |
 | `DGLEGAL` | 15/11/2022 |
 
-## midas
+## **midas**
 
 
 >This malware written in C# is a variant of the Thanos ransomware family and emerged in October 2021 and is obfuscated using SmartAssembly. In 2022, ThreatLabz analysed a report of Midas ransomware was slowly deployed over a two month period (ZScaler). This ransomware features also its own data leak site as part of its double extortion strategy. 
@@ -5696,7 +5696,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | `SUPREME SERVICES` | 07/04/2022 |
 | `Basra Multipurposr Terminal` | 14/04/2022 |
 
-## mindware
+## **mindware**
 
 
 >Ransomware, potential rebranding of win.sfile. 
@@ -5724,7 +5724,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | `welplaat` | 05/05/2022 |
 | `willsent` | 05/05/2022 |
 
-## mosesstaff
+## **mosesstaff**
 
 
 >Cybereason Nocturnus describes Moses Staff as an Iranian hacker group, first spotted in October 2021. Their motivation appears to be to harm Israeli companies by leaking sensitive, stolen data.
@@ -5768,7 +5768,7 @@ _`not a ransomware group`_
 | `Meshulam` | 18/12/2021 |
 | `Electron Csillag` | 18/12/2021 |
 
-## monti
+## **monti**
 
 ### External analysis
 - https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger
@@ -5784,7 +5784,7 @@ _`not a ransomware group`_
 |---|---|
 | `test` | 07/12/2022 |
 
-## mount-locker
+## **mount-locker**
 
 ### External analysis
 - https://www.bleepingcomputer.com/news/security/mount-locker-ransomware-joins-the-multi-million-dollar-ransom-game
@@ -5800,7 +5800,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## mydecryptor
+## **mydecryptor**
 
 ### External analysis
 ### URLs
@@ -5812,7 +5812,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## n3tworm
+## **n3tworm**
 
 ### External analysis
 - https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/
@@ -5828,7 +5828,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## nefilim
+## **nefilim**
 
 
 >According to Vitali Kremez and Michael Gillespie, this ransomware shares much code with Nemty 2.5. A difference is removal of the RaaS component, which was switched to email communications for payments. Uses AES-128, which is then protected RSA2048. 
@@ -5861,7 +5861,7 @@ _`not a ransomware group`_
 | `Grimmway Farms. Part 1.` | 09/09/2021 |
 | `Atlanta Allergy &#038; Asthma. Part 1.` | 09/09/2021 |
 
-## nemty
+## **nemty**
 
 
 >Nemty is a ransomware that was discovered in September 2019. Fortinet states that they found it being distributed through similar ways as Sodinokibi and also noted artfifacts they had seen before in Gandcrab. 
@@ -5890,7 +5890,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## netwalker
+## **netwalker**
 
 ### External analysis
 - https://threatpost.com/netwalker-ransomware-suspect-charged/163405
@@ -5912,7 +5912,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## nightsky
+## **nightsky**
 
 ### External analysis
 - https://t.me/arvin_club/5081
@@ -5930,7 +5930,7 @@ _`not a ransomware group`_
 | `æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹` | 04/01/2022 |
 | `AKIJ GROUP` | 04/01/2022 |
 
-## nokoyawa
+## **nokoyawa**
 
 ### External analysis
 ### URLs
@@ -5946,7 +5946,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## onepercent
+## **onepercent**
 
 ### External analysis
 - https://www.ic3.gov/Media/News/2021/210823.pdf
@@ -5962,7 +5962,7 @@ _`not a ransomware group`_
 | post | date |
 |---|---|
 
-## onyx
+## **onyx**
 
 _`aka vsop`_
 
@@ -6006,7 +6006,7 @@ _`aka vsop`_
 | `www.wayan.com.mx` | 21/11/2022 |
 | `www.artisticstairs.com` | 21/11/2022 |
 
-## pandora
+## **pandora**
 
 
 >Pandora ransomware was obtained by vx-underground at 2022-03-14. 
@@ -6029,7 +6029,7 @@ _`aka vsop`_
 | `United Cumberland` | 30/03/2022 |
 | `Hearst` | 30/03/2022 |
 
-## pay2key
+## **pay2key**
 
 ### External analysis
 - https://research.checkpoint.com/2020/ransomware-alert-pay2key
@@ -6055,7 +6055,7 @@ _`aka vsop`_
 | `INTER - InterElectric` | 09/09/2021 |
 | `MT-LAW [Markman&Tomashin Law Firm]` | 09/09/2021 |
 
-## payloadbin
+## **payloadbin**
 
 ### External analysis
 - https://cyberintelmag.com/malware-viruses/payloadbin-ransomware-attributed-to-evil-corp
@@ -6098,7 +6098,7 @@ _`aka vsop`_
 | `www.paw.eu` | 01/01/2022 |
 | `aquila.ch` | 06/01/2022 |
 
-## play
+## **play**
 
 
 >Ransomware 
@@ -6141,7 +6141,7 @@ _`aka vsop`_
 | `MME Group` | 07/12/2022 |
 | `Skoda Praha` | 07/12/2022 |
 
-## prolock
+## **prolock**
 
 _`aka pwndlocker`_
 
@@ -6165,7 +6165,7 @@ _`aka pwndlocker`_
 | post | date |
 |---|---|
 
-## projectrelic
+## **projectrelic**
 
 ### External analysis
 ### URLs
@@ -6182,7 +6182,7 @@ _`aka pwndlocker`_
 | `http://broad-med.com` | 11/11/2022 |
 | `http://willisklein.com` | 11/11/2022 |
 
-## prometheus
+## **prometheus**
 
 
 >Ransomware written in .NET, apparently derived from the codebase of win.hakbit (Thanos) ransomware. 
@@ -6205,7 +6205,7 @@ _`aka pwndlocker`_
 | post | date |
 |---|---|
 
-## pysa
+## **pysa**
 
 ### External analysis
 - https://www.ic3.gov/Media/News/2021/210316.pdf
@@ -6529,7 +6529,7 @@ _`aka pwndlocker`_
 | `CHR Solutions` | 06/12/2021 |
 | `Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥` | 20/09/2022 |
 
-## qilin
+## **qilin**
 
 
 >Ransomware written in Go.
@@ -6556,7 +6556,7 @@ _`aka pwndlocker`_
 | `https://robertbernard.com` | 21/11/2022 |
 | `https://dialog.com.au` | 21/11/2022 |
 
-## qlocker
+## **qlocker**
 
 _`login page, no posts`_
 
@@ -6580,7 +6580,7 @@ _`login page, no posts`_
 | post | date |
 |---|---|
 
-## quantum
+## **quantum**
 
 ### External analysis
 ### URLs
@@ -6655,7 +6655,7 @@ _`login page, no posts`_
 | `MCV Holding Company LLC ` | 02/11/2022 |
 | `Midland Cogeneration Venture` | 13/11/2022 |
 
-## ragnarlocker
+## **ragnarlocker**
 
 ### External analysis
 - https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security
@@ -6766,7 +6766,7 @@ _`login page, no posts`_
 | `Leak Announcement - IT company ITonCLOUD` | 22/11/2022 |
 | `Essent company - Leaked` | 25/11/2022 |
 
-## ragnarok
+## **ragnarok**
 
 
 >According to Bleeping Computer, the ransomware is used in targeted attacks against unpatched Citrix servers. It excludes Russian and Chinese targets using the system's Language ID for filtering. It also tries to disable Windows Defender and has a number of UNIX filepath references in its strings. Encryption method is AES using a dynamically generated key, then bundling this key up via RSA. 
@@ -6798,7 +6798,7 @@ _`shut down & offering a decryptor`_
 | `Decrypt` | 09/09/2021 |
 | `FNBNWFL Data leaked` | 30/12/2021 |
 
-## ranion
+## **ranion**
 
 ### External analysis
 ### URLs
@@ -6810,7 +6810,7 @@ _`shut down & offering a decryptor`_
 | post | date |
 |---|---|
 
-## ransomcartel
+## **ransomcartel**
 
 ### External analysis
 - https://t.me/arvin_club/5075
@@ -6828,7 +6828,7 @@ _`shut down & offering a decryptor`_
 | post | date |
 |---|---|
 
-## ransomexx
+## **ransomexx**
 
 
 >RansomExx is a ransomware family that targeted multiple companies starting in mid-2020. It shares commonalities with Defray777. 
@@ -6893,7 +6893,7 @@ _`shut down & offering a decryptor`_
 | `Consorci Sanitari Integral &amp; Geseme` | 11/10/2022 |
 | `Unimed Belem` | 19/10/2022 |
 
-## ransomhouse
+## **ransomhouse**
 
 ### External analysis
 - https://t.me/ransom_house
@@ -6924,7 +6924,7 @@ _`shut down & offering a decryptor`_
 | `Fairfax - Crum & Forster` | 05/12/2022 |
 | `Advanced Micro Devices, Inc` | 05/12/2022 |
 
-## ranzy
+## **ranzy**
 
 ### External analysis
 - https://blog.malwarebytes.com/ransomware/2021/10/threat-profile-ranzy-locker-ransomware/
@@ -6948,7 +6948,7 @@ _`shut down & offering a decryptor`_
 | post | date |
 |---|---|
 
-## redalert
+## **redalert**
 
 ### External analysis
 - https://www.bleepingcomputer.com/news/security/new-redalert-ransomware-targets-windows-linux-vmware-esxi-servers/
@@ -6972,7 +6972,7 @@ _`shut down & offering a decryptor`_
 | `groupg4.com` | 13/09/2022 |
 | `www.bbadmin.com` | 22/09/2022 |
 
-## revil
+## **revil**
 
 
 >REvil Beta MD5: bed6fc04aeb785815744706239a1f243 SHA1: 3d0649b5f76dbbff9f86b926afbd18ae028946bf SHA256: 3641b09bf6eae22579d4fd5aae420476a134f5948966944189a70afd8032cb45 * Privilege escalation via CVE-2018-8453 (64-bit only) * Rerun with RunAs to elevate privileges * Implements a requirement that if "exp" is set, privilege escalation must be successful for full execution to occur * Implements target whitelisting using GetKetboardLayoutList * Contains debug console logging functionality * Defines the REvil registry root key as SOFTWARE\!test * Includes two variable placeholders in the ransom note: UID & KEY * Terminates processes specified in the "prc" configuration key prior to encryption * Deletes shadow copies and disables recovery * Wipes contents of folders specified in the "wfld" configuration key prior to encryption * Encrypts all non-whitelisted files on fixed drives * Encrypts all non-whitelisted files on network mapped drives if it is running with System-level privileges or can impersonate the security context of explorer.exe * Partially implements a background image setting to display a basic "Image text" message * Sends encrypted system data to a C2 domain via an HTTPS POST request (URI path building is not implemented.) ------------------------------------ REvil 1.00 MD5: 65aa793c000762174b2f86077bdafaea SHA1: 95a21e764ad0c98ea3d034d293aee5511e7c8457 SHA256: f0c60f62ef9ffc044d0b4aeb8cc26b971236f24a2611cb1be09ff4845c3841bc * Adds 32-bit implementation of CVE-2018-8453 exploit * Removes console debug logging * Changes the REvil registry root key to SOFTWARE ecfg * Removes the System/Impersonation success requirement for encrypting network mapped drives * Adds a "wipe" key to the configuration for optional folder wiping * Fully implements the background image setting and leverages values defined in the "img" configuration key * Adds an EXT variable placeholder to the ransom note to support UID, KEY, and EXT * Implements URI path building so encrypted system data is sent to a C2 pseudo-random URL * Fixes the function that returns the victim's username so the correct value is placed in the stats JSON data ------------------------------------ REvil 1.01 MD5: 2abff29b4d87f30f011874b6e98959e9 SHA1: 9d1b61b1cba411ee6d4664ba2561fa59cdb0732c SHA256: a88e2857a2f3922b44247316642f08ba8665185297e3cd958bbd22a83f380feb * Removes the exp/privilege escalation requirement for full execution and encrypts data regardless of privilege level * Makes encryption of network mapped drives optional by adding the "-nolan" argument ------------------------------------ REvil 1.02 MD5: 4af953b20f3a1f165e7cf31d6156c035 SHA1: b859de5ffcb90e4ca8e304d81a4f81e8785bb299 SHA256: 89d80016ff4c6600e8dd8cfad1fa6912af4d21c5457b4e9866d1796939b48dc4 * Enhances whitelisting validation by adding inspection of GetUserDefaultUILanguage and GetSystemDefaultUILanguage * Partially implements "lock file" logic by generating a lock filename based on the first four bytes of the Base64-decoded pk key, appending a .lock file extension, and adding the filename to the list of whitelisted files in the REvil configuration (It does not appear that this value is referenced after it is created and stored in memory. There is no evidence that a lock file is dropped to disk.) * Enhances folder whitelisting logic that take special considerations if the folder is associated with "program files" directories * Hard-codes whitelisting of all direct content within the Program Files or Program Files x86 directories * Hard-codes whitelisting of "sql" subfolders within program files * Encrypts program files sub-folders that does not contain "sql" in the path * Compares other folders to the list of whitelisted folders specified in the REvil configuration to determine if they are whitelisted * Encodes stored strings used for URI building within the binary and decodes them in memory right before use * Introduces a REvil registry root key "sub_key" registry value containing the attacker's public key ------------------------------------ REvil 1.03 MD5: 3cae02306a95564b1fff4ea45a7dfc00 SHA1: 0ce2cae5287a64138d273007b34933362901783d SHA256: 78fa32f179224c46ae81252c841e75ee4e80b57e6b026d0a05bb07d34ec37bbf * Removes lock file logic that was partially implemented in 1.02 * Leverages WMI to continuously monitor for and kill newly launched processes whose names are listed in the prc configuration key (Previous versions performed this action once.) * Encodes stored shellcode * Adds the -path argument: * Does not wipe folders (even if wipe == true) * Does not set desktop background * Does not contact the C2 server (even if net == true) * Encrypts files in the specified folder and drops the ransom note * Changes the REvil registry root key to SOFTWARE\QtProject\OrganizationDefaults * Changes registry key values from --> to:   * sub_key --> pvg   * pk_key --> sxsP   * sk_key --> BDDC8   * 0_key --> f7gVD7   * rnd_ext --> Xu7Nnkd   * stat --> sMMnxpgk ------------------------------------ REvil 1.04 MD5: 6e3efb83299d800edf1624ecbc0665e7 SHA1: 0bd22f204c5373f1a22d9a02c59f69f354a2cc0d SHA256: 2ca64feaaf5ab6cf96677fbc2bc0e1995b3bc93472d7af884139aa757240e3f6 * Leverages PowerShell and WMI to delete shadow copies if the victim's operating system is newer than Windows XP (For Windows XP or older, it uses the original command that was executed in all previous REvil versions.) * Removes the folder wipe capability * Changes the REvil registry root key to SOFTWARE\GitForWindows * Changes registry key values from --> to:   * pvg --> QPM   * sxsP --> cMtS   * BDDC8 --> WGg7j   * f7gVD7 --> zbhs8h   * Xu7Nnkd --> H85TP10   * sMMnxpgk --> GCZg2PXD ------------------------------------ REvil v1.05 MD5: cfefcc2edc5c54c74b76e7d1d29e69b2 SHA1: 7423c57db390def08154b77e2b5e043d92d320c7 SHA256: e430479d1ca03a1bc5414e28f6cdbb301939c4c95547492cdbe27b0a123344ea * Add new 'arn' configuration key that contains a boolean true/false value that controls whether or not to implement persistence. * Implements persistence functionality via registry Run key. Data for value is set to the full path and filename of the currently running executable. The executable is never moved into any 'working directory' such as %AppData% or %TEMP% as part of the persistence setup. The Reg Value used is the hardcoded value of 'lNOWZyAWVv' :   * SOFTWARE\Microsoft\Windows\CurrentVersion\Run\lNOWZyAWVv * Before exiting, REvil sets up its malicious executable to be deleted upon reboot by issuing a call to MoveFileExW and setting the destination to NULL and the flags to 4 (MOVEFILE_DELAY_UNTIL_REBOOT). This breaks persistence however as the target executable specified in the Run key will no longer exist once this is done. * Changes registry key values from --> to:   * QPM --> tgE   * cMtS --> 8K09   * WGg7j --> xMtNc   * zbhs8h --> CTgE4a   * H85TP10 --> oE5bZg0   * GCZg2PXD --> DC408Qp4 ------------------------------------ REvil v1.06 MD5: 65ff37973426c09b9ff95f354e62959e SHA1: b53bc09cfbd292af7b3609734a99d101bd24d77e SHA256: 0e37d9d0a7441a98119eb1361a0605042c4db0e8369b54ba26e6ba08d9b62f1e * Updated string decoding function to break existing yara rules. Likely the result of the blog posted by us. * Modified handling of network file encryption. Now explicitly passes every possible "Scope" constant to the WNetOpenEnum function when looking for files to encrypt. It also changed the 'Resource Type" from RESOURCETYPE_DISK to RESOURCETYPE_ANY which will now include things like mapped printers. * Persistence registry value changed from 'lNOWZyAWVv' to 'sNpEShi30R' * Changes registry key values from --> to:   * tgE --> 73g   * 8K09 --> vTGj   * xMtNc --> Q7PZe   * CTgE4a --> BuCrIp   * oE5bZg0 --> lcZd7OY   * DC408Qp4 --> sLF86MWC ------------------------------------ REvil v1.07 MD5: ea4cae3d6d8150215a4d90593a4c30f2 SHA1: 8dcbcbefaedf5675b170af3fd44db93ad864894e SHA256: 6a2bd52a5d68a7250d1de481dcce91a32f54824c1c540f0a040d05f757220cd3 TBD 
@@ -7040,7 +7040,7 @@ _`shut down & offering a decryptor`_
 | `Sunknowledge Services Inc` | 28/11/2022 |
 | `kusd.edu` | 28/11/2022 |
 
-## robinhood
+## **robinhood**
 
 ### External analysis
 - https://www.sentinelone.com/labs/robinhood-ransomware-coolmaker-functions-not-so-cool/
@@ -7059,7 +7059,7 @@ _`shut down & offering a decryptor`_
 |---|---|
 | `Besson Seguros` | 06/12/2021 |
 
-## rook
+## **rook**
 
 ### External analysis
 - https://www.sentinelone.com/labs/new-rook-ransomware-feeds-off-the-code-of-babuk/
@@ -7088,7 +7088,7 @@ _`shut down & offering a decryptor`_
 | `Evalueserve` | 28/12/2021 |
 | `Abdi ibrahim` | 08/01/2022 |
 
-## royal
+## **royal**
 
 ### External analysis
 ### URLs
@@ -7174,7 +7174,7 @@ _`shut down & offering a decryptor`_
 | `https://www.trussbilt.com` | 04/12/2022 |
 | `https://afasd.net` | 07/12/2022 |
 
-## rransom
+## **rransom**
 
 ### External analysis
 ### URLs
@@ -7186,7 +7186,7 @@ _`shut down & offering a decryptor`_
 | post | date |
 |---|---|
 
-## sabbath
+## **sabbath**
 
 ### External analysis
 - https://www.mandiant.com/resources/sabbath-ransomware-affiliate
@@ -7218,7 +7218,7 @@ _`shut down & offering a decryptor`_
 | `JALEEL TRADERS LLC` | 15/01/2022 |
 | `aria-label=Google>` | 28/02/2022 |
 
-## shaoleaks
+## **shaoleaks**
 
 ### External analysis
 ### URLs
@@ -7234,7 +7234,7 @@ _`shut down & offering a decryptor`_
 | `Some of our customers was not payed to us for data decryption. So we publish some of his d` | 01/11/2022 |
 | `Welcome to new customers!` | 01/11/2022 |
 
-## snatch
+## **snatch**
 
 
 >Snatch is a ransomware which infects victims by rebooting the PC into Safe Mode. Most of the existing security protections do not run in Safe Mode so that it the malware can act without expected countermeasures and it can encrypt as many files as it finds. It uses common packers such as UPX to hide its payload. 
@@ -7322,7 +7322,7 @@ _`shut down & offering a decryptor`_
 | `McGRATH` | 20/11/2022 |
 | `STGi` | 28/11/2022 |
 
-## sparta
+## **sparta**
 
 ### External analysis
 - spartaprogroup@strong.pm
@@ -7352,7 +7352,7 @@ _`shut down & offering a decryptor`_
 | `MR. WONDERFUL` | 14/09/2022 |
 | `GRUPO COPISA` | 22/09/2022 |
 
-## solidbit
+## **solidbit**
 
 
 >Ransomware, written in .NET. 
@@ -7367,7 +7367,7 @@ _`shut down & offering a decryptor`_
 | post | date |
 |---|---|
 
-## spook
+## **spook**
 
 ### External analysis
 ### URLs
@@ -7414,7 +7414,7 @@ _`shut down & offering a decryptor`_
 | `All County Surveying Inc` | 19/10/2021 |
 | `North Island` | 19/10/2021 |
 
-## stormous
+## **stormous**
 
 ### External analysis
 - stormouss21@dnmx.org
@@ -7446,7 +7446,7 @@ _`shut down & offering a decryptor`_
 | `Danaher` | 25/04/2022 |
 | `ioi` | 09/05/2022 |
 
-## sugar
+## **sugar**
 
 
 >Ransomware, written in Delphi. 
@@ -7471,7 +7471,7 @@ _`shut down & offering a decryptor`_
 | post | date |
 |---|---|
 
-## suncrypt
+## **suncrypt**
 
 ### External analysis
 - https://www.tetradefense.com/incident-response-services/cause-and-effect-suncrypt-ransomware-analysis
@@ -7524,7 +7524,7 @@ _`shut down & offering a decryptor`_
 | `Northeastern Technical College` | 04/06/2022 |
 | `SOCOTEC` | 18/06/2022 |
 
-## synack
+## **synack**
 
 _`no longer in operation - rebrand`_
 
@@ -7540,7 +7540,7 @@ _`no longer in operation - rebrand`_
 | post | date |
 |---|---|
 
-## unknown
+## **unknown**
 
 _`nodes or hosts with no current attribution or identification`_
 
@@ -7555,7 +7555,7 @@ _`nodes or hosts with no current attribution or identification`_
 | post | date |
 |---|---|
 
-## vfokx
+## **vfokx**
 
 ### External analysis
 ### URLs
@@ -7568,7 +7568,7 @@ _`nodes or hosts with no current attribution or identification`_
 | post | date |
 |---|---|
 
-## vicesociety
+## **vicesociety**
 
 _`ecdmr42axxx.onion - fileserver`_
 
@@ -7722,7 +7722,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `Glutz` | 05/12/2022 |
 | `Feu Vert` | 06/12/2022 |
 
-## x001xs
+## **x001xs**
 
 ### External analysis
 ### URLs
@@ -7734,7 +7734,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | post | date |
 |---|---|
 
-## xinglocker
+## **xinglocker**
 
 _`xing use a custom mountlocker exe`_
 
@@ -7773,7 +7773,7 @@ _`xing use a custom mountlocker exe`_
 | `Tilia GmbH. TILIA GROUP` | 08/10/2021 |
 | `Wayne Automatic Fire Sprinklers, Inc.` | 26/10/2021 |
 
-## xinof
+## **xinof**
 
 _`aka fonix`_
 
@@ -7791,7 +7791,7 @@ _`aka fonix`_
 | post | date |
 |---|---|
 
-## yanluowang
+## **yanluowang**
 
 ### External analysis
 ### URLs
@@ -7813,7 +7813,7 @@ _`aka fonix`_
 | `Shorr.com leakage` | 02/07/2022 |
 | `Hot news straight from Cisco` | 10/08/2022 |
 
-## zeon
+## **zeon**
 
 ### External analysis
 - https://id-ransomware.blogspot.com/2022/02/zeon-ransomware.html
@@ -7832,4 +7832,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Wednesday 07/12/2022 13.02 (UTC)_
+Last update : _Wednesday 07/12/2022 13.13 (UTC)_

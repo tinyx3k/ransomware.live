@@ -228,7 +228,7 @@ def profilepage():
     writeline(profilepage, '')
     groups = openjson('groups.json')
     for group in groups:
-        writeline(profilepage, '## ' + group['name'])
+        writeline(profilepage, '## **' + group['name']+'**')
         writeline(profilepage, '')
         description_file = './source/descriptions/'+ group['name']+'.txt'
         if os.path.exists(description_file):
