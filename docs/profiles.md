@@ -5171,6 +5171,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 | `Salud Family Health` | 14/11/2022 |
 | `Nissan of Las Cruces` | 14/11/2022 |
 | `Holler-Classic` | 30/11/2022 |
+| `Albina Asphalt` | 07/12/2022 |
 
 ## lv
 
@@ -7395,4 +7396,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Wednesday 07/12/2022 12.33 (UTC)_
+Last update : _Wednesday 07/12/2022 12.40 (UTC)_
