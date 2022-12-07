@@ -254,7 +254,7 @@ def profilepage():
     writeline(profilepage, '')
     groups = openjson('groups.json')
     for group in groups:
-        writeline(profilepage, '# **' + group['name']+'**')
+        writeline(profilepage, '## **' + group['name']+'**')
         writeline(profilepage, '')
         description_file = './source/descriptions/'+ group['name']+'.txt'
         if os.path.exists(description_file):
@@ -280,11 +280,11 @@ def profilepage():
         #    writeline(profilepage, '> fetching this site requires a headless browser')
         #    writeline(profilepage, '')
         if group['profile'] is not None:
-            writeline(profilepage, '## External analysis')
+            writeline(profilepage, '### External analysis')
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
-        writeline(profilepage, '## URLs')
+        writeline(profilepage, '### URLs')
         writeline(profilepage, '| Title | Available | Last visit | fqdn | screen ')
         writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
@@ -311,10 +311,10 @@ def profilepage():
             else:
                 ransom_note=group['name'] + '1.txt'  
             writeline(profilepage, '')
-            writeline(profilepage, '## Ransom note')
+            writeline(profilepage, '### Ransom note')
             writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransomware note`</a>')
             writeline(profilepage, '')
-        writeline(profilepage, '## Posts')
+        writeline(profilepage, '### Posts')
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')
