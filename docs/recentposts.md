@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-07 | [`https://afasd.net`](https://google.com/search?q=https%3A%2F%2Fafasd.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-12-07 | [`Requena`](https://google.com/search?q=Requena) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-07 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-07 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](https://ransomware.live/#/profiles?id=play) |
@@ -203,6 +204,5 @@ _last `200` posts_
 | 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`Salmon Software`](https://google.com/search?q=Salmon+Software) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Wednesday 07/12/2022 04.34 (UTC)_
+Last update : _Wednesday 07/12/2022 07.51 (UTC)_
