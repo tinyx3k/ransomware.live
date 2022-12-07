@@ -254,9 +254,11 @@ def profilepage():
         #    writeline(profilepage, '> fetching this site requires a headless browser')
         #    writeline(profilepage, '')
         if group['profile'] is not None:
+            writeline(profilepage, '### External analysis')
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
+        writeline(profilepage, '### URLs')
         writeline(profilepage, '| title | available | version | last visit | fqdn | screen ')
         writeline(profilepage, '|---|---|---|---|---|---|')        
         for host in group['locations']:
@@ -285,6 +287,7 @@ def profilepage():
             writeline(profilepage, '')
             writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransomware note`</a>')
             writeline(profilepage, '')
+        writeline(profilepage, '### Posts')
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')
