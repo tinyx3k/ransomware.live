@@ -288,6 +288,11 @@ def profilepage():
         writeline(profilepage, '| Title | Available | Last visit | fqdn | screen ')
         writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
+            if host['available'] is True:
+                statusemoji = '🟢'
+            elif host['available'] is False:
+                statusemoji = '🔴'
+                lastseen = host['lastscrape'].split(' ')[0]
             # convert date to ddmmyyyy hh:mm
             date = host['lastscrape'].split(' ')[0]
             date = date.split('-')
@@ -300,10 +305,10 @@ def profilepage():
             if os.path.exists('docs/screenshots/'+screenshot):
                 screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
             if host['title'] is not None:
-                line = '| ' + host['title'].replace('|', '-') + ' | ' + str(host['available']) +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
+                line = '| ' + host['title'].replace('|', '-') + ' | ' + statusemoji +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
             else:
-                line = '| none | ' + str(host['available']) +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
+                line = '| none | ' + statusemoji +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
         if os.path.exists('docs/ransomware_notes/'+ group['name']):
             if os.path.exists('docs/ransomware_notes/'+ group['name'] + '/' + group['name'] + '.txt'):

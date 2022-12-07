@@ -7,7 +7,7 @@ Currently tracking `130` groups across `237` relays & mirrors - _`89` currently 
 Check recent ransomware posts [`here`](recentposts.md)
 
 
-⏰ There have been `11` posts within the `last 24 hours`
+⏰ There have been `10` posts within the `last 24 hours`
 
 🕓 There have been `84` posts within the `month of december`
 
@@ -15,7 +15,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🏚 There have been `3188` posts since the `1st January 2022`
 
-📸 There is `108` ransomware goup hosts screenshots
+📸 There is `109` ransomware goup hosts screenshots
 
 📝 There is `87` ransomware notes
 
@@ -31,5 +31,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Wednesday 07/12/2022 19.43 (UTC)_
+Last update : _Wednesday 07/12/2022 21.44 (UTC)_
 
