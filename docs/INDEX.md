@@ -1,4 +1,4 @@
-# 🚦 Groups Status
+# 🚦 Status
 
 | group | title | status | last seen | location | Screenshoot |
 |---|---|---|---|---|---|
