@@ -215,6 +215,32 @@ def recentpage():
     writeline(recentpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('recent posts page generated')
 
+def allposts():
+    '''create a markdown table for all posts '''
+    stdlog('generating allposts page')
+    allpage = 'docs/allposts.md'
+    # delete contents of file
+    with open(allpage, 'w', encoding='utf-8') as f:
+        f.close()
+    writeline(allpage, '# 📰 All posts')
+    writeline(allpage, '')
+    writeline(allpage, '')
+    writeline(allpage, '| date | title | group |')
+    writeline(allpage, '|---|---|---|')
+    for post in recentposts('999999'):
+        # show friendly date for discovered
+        date = post['discovered'].split(' ')[0]
+        # replace markdown tampering characters
+        title = post['post_title'].replace('|', '-')
+        group = post['group_name'].replace('|', '-')
+        urlencodedtitle = urllib.parse.quote_plus(title)
+        grouplink = '[' + group + '](https://ransomware.live/#/profiles?id=' + group + ')'
+        line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
+        writeline(allpage, line)
+    writeline(allpage, '')
+    writeline(allpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
+    stdlog('all posts page generated')
+
 def profilepage():
     '''
     create a profile page for each group in their unique markdown files within docs/profiles
@@ -312,6 +338,7 @@ def main():
     indexpage()
     # sidebar()
     recentpage()
+    allposts()
     # statspage()
     profilepage()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
