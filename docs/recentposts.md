@@ -4,6 +4,12 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-07 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-07 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-07 | [`Highwater Ethanol`](https://google.com/search?q=Highwater+Ethanol) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-07 | [`Wrota Mazowsza`](https://google.com/search?q=Wrota+Mazowsza) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-07 | [`UJV Rez`](https://google.com/search?q=UJV+Rez) | [play](https://ransomware.live/#/profiles?id=play) |
+| 2022-12-07 | [`????????? ???? ?????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-06 | [`Feu Vert`](https://google.com/search?q=Feu+Vert) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-12-06 | [`g4s.com`](https://google.com/search?q=g4s.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-06 | [`amundson.co.nz`](https://google.com/search?q=amundson.co.nz) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -198,11 +204,5 @@ _last `200` posts_
 | 2022-11-15 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`archimages inc`](https://google.com/search?q=archimages+inc) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Tuesday 06/12/2022 22.42 (UTC)_
+Last update : _Wednesday 07/12/2022 02.57 (UTC)_
