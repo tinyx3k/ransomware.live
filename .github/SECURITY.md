@@ -1,3 +1,3 @@
 ## [julien.io/.well-known/security.txt](https://julien.io/.well-known/security.txt)
 
-#### [`F83EFD9F3F2A4F9D`](https://keybase.io/jmousqueton/pgp_keys.asc)
+#### [`5000FDBC4C08044EF4B5DBE021AC94DE766B0F08`](https://keys.openpgp.org/vks/v1/by-fingerprint/5000FDBC4C08044EF4B5DBE021AC94DE766B0F08)

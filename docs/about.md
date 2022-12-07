@@ -34,4 +34,4 @@ You can find the changelog [here](https://www.ransomware.live/#/CHANGELOG)
 
 ## ⚙️ Contribution
 
-Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on [Joshhighet repository](https://github.com/joshhighet/ransomwatch/pulls)
+Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on [Joshhighet repository](https://github.com/jmousqueton/ransomwatch/pulls)
