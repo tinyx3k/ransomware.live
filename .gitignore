@@ -9,3 +9,4 @@ source/screenshots/*.png
 source/linkanalysis/*.json
 assets/tmp/**
 assets/diffpost.sh
+groups.json.ORIG

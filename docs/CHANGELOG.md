@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 2022-12-07
 
 * Add parser for `monti` ransomware group 
-* Add a [All posts](allposts.md) pages
+* Add a [All posts](allposts.md) page
 
 ## 2022-12-04
 
