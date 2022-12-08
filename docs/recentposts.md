@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-08 | [`????`](https://google.com/search?q=%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-07 | [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-12-07 | [`test`](https://google.com/search?q=test) | [monti](https://ransomware.live/#/profiles?id=monti) |
 | 2022-12-07 | [`https://afasd.net`](https://google.com/search?q=https%3A%2F%2Fafasd.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -201,6 +202,5 @@
 | 2022-11-15 | [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`exheat.com`](https://google.com/search?q=exheat.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Wednesday 07/12/2022 22.30 (UTC)_
+Last update : _Thursday 08/12/2022 02.55 (UTC)_

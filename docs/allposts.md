@@ -3,6 +3,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-08 | [`????`](https://google.com/search?q=%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-07 | [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 | 2022-12-07 | [`test`](https://google.com/search?q=test) | [monti](https://ransomware.live/#/profiles?id=monti) |
 | 2022-12-07 | [`https://afasd.net`](https://google.com/search?q=https%3A%2F%2Fafasd.net) | [royal](https://ransomware.live/#/profiles?id=royal) |
@@ -5477,4 +5478,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Wednesday 07/12/2022 22.30 (UTC)_
+Last update : _Thursday 08/12/2022 02.55 (UTC)_
