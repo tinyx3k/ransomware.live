@@ -203,4 +203,4 @@
 | 2022-11-15 | [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 | 2022-11-15 | [`exheat.com`](https://google.com/search?q=exheat.com) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Thursday 08/12/2022 13.55 (UTC)_
+Last update : _Thursday 08/12/2022 16.32 (UTC)_
