@@ -3,6 +3,10 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`rhotelja.com`](https://google.com/search?q=rhotelja.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-09 | [`hawanasalalah.com`](https://google.com/search?q=hawanasalalah.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-09 | [`Maney - Gordon - Zeller, P.A.`](https://google.com/search?q=Maney+-+Gordon+-+Zeller%2C+P.A.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`SOFTEQ.COM FILES PART1 - dev-gitlab-runner PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART1+-+dev-gitlab-runner+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-12-09 | [`Atcore`](https://google.com/search?q=Atcore) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`Dingbro Ltd`](https://google.com/search?q=Dingbro+Ltd) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`A.R. Thomson Group`](https://google.com/search?q=A.R.+Thomson+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -5498,4 +5502,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Friday 09/12/2022 14.06 (UTC)_
+Last update : _Friday 09/12/2022 16.48 (UTC)_
