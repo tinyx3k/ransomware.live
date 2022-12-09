@@ -3,6 +3,12 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Acquarius Trust Group`](https://google.com/search?q=Acquarius+Trust+Group) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Pilenpak`](https://google.com/search?q=Pilenpak) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`AHT Wisconsin Windows`](https://google.com/search?q=AHT+Wisconsin+Windows) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`???????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-09 | [`Hilldrup`](https://google.com/search?q=Hilldrup) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-08 | [`New Partners`](https://google.com/search?q=New+Partners) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -5483,4 +5489,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Friday 09/12/2022 03.18 (UTC)_
+Last update : _Friday 09/12/2022 04.22 (UTC)_

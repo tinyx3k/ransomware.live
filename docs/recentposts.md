@@ -2,6 +2,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Acquarius Trust Group`](https://google.com/search?q=Acquarius+Trust+Group) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`Pilenpak`](https://google.com/search?q=Pilenpak) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
+| 2022-12-09 | [`AHT Wisconsin Windows`](https://google.com/search?q=AHT+Wisconsin+Windows) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`???????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-09 | [`Hilldrup`](https://google.com/search?q=Hilldrup) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-12-08 | [`New Partners`](https://google.com/search?q=New+Partners) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
@@ -196,11 +202,5 @@
 | 2022-11-15 | [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-15 | [`linkplus.com.hk`](https://google.com/search?q=linkplus.com.hk) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-15 | [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-15 | [`gulfcoastwindows.com`](https://google.com/search?q=gulfcoastwindows.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-15 | [`amend.com.br`](https://google.com/search?q=amend.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
-| 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusa](https://ransomware.live/#/profiles?id=medusa) |
 
-Last update : _Friday 09/12/2022 03.18 (UTC)_
+Last update : _Friday 09/12/2022 04.22 (UTC)_
