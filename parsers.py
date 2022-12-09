@@ -902,3 +902,14 @@ def monti():
         errlog('monti: ' + 'parsing fail')
     for post in posts:
         appender(post, 'monti')
+
+def nokoyawa():
+    stdlog('parser: ' + 'nokoyawa')
+    parser = '''
+    awk '/<h1/{getline; print}' source/nokoyawa-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('nokoyawa: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'nokoyawa')
