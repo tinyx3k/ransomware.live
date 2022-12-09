@@ -203,4 +203,4 @@
 | 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 09/12/2022 04.22 (UTC)_
+Last update : _Friday 09/12/2022 07.37 (UTC)_
