@@ -5948,11 +5948,13 @@ _`not a ransomware group`_
 ## **nokoyawa**
 
 ### External analysis
+- https://www.trendmicro.com/en_us/research/22/c/nokoyawa-ransomware-possibly-related-to-hive-.html
+
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | NOKOYAWA Leaks | 🔴 | 11/07/2022 22:26 | `http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion` | ❌ | 
-| none | 🔴 | 01/05/2021 00:00 | `http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion` | ❌ | 
+| none | 🟢 | 01/05/2021 00:00 | `http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion` | <a href="https://www.ransomware.live/screenshots/6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd-onion.png" target=_blank>📸</a> | 
 
 ### Ransom note
 * 📝 <a href="/ransomware_notes/nokoyawa/nokoyawa.txt" target=_blank>`Check ransomware note`</a>
@@ -7859,4 +7861,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Friday 09/12/2022 23.16 (UTC)_
+Last update : _Friday 09/12/2022 23.41 (UTC)_
