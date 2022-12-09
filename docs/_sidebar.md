@@ -5,5 +5,3 @@
 - [Group profiles](profiles.md)
 - [Stats & graphs](stats.md)
 - [About](about.md)
-
-- [All posts (external site)](https://posts.ransomware.live/)
