@@ -203,4 +203,4 @@
 | 2022-11-19 | [`norseman.ca`](https://google.com/search?q=norseman.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-19 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Friday 09/12/2022 23.41 (UTC)_
+Last update : _Saturday 10/12/2022 00.07 (UTC)_

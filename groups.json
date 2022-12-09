@@ -580,7 +580,7 @@
     {
         "name": "bonacigroup",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": "claim to donate 80% of earnings to charity",
         "locations": [
@@ -969,7 +969,7 @@
     {
         "name": "dataleak",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2247,7 +2247,7 @@
     {
         "name": "medusa",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2347,7 +2347,7 @@
     {
         "name": "monti",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2532,7 +2532,7 @@
     {
         "name": "nokoyawa",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2680,7 +2680,7 @@
     {
         "name": "play",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2736,7 +2736,7 @@
     {
         "name": "projectrelic",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
