@@ -203,4 +203,4 @@
 | 2022-11-19 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | [lv](https://ransomware.live/#/profiles?id=lv) |
 | 2022-11-18 | [`https://www.vafb.com`](https://google.com/search?q=https%3A%2F%2Fwww.vafb.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 
-Last update : _Friday 09/12/2022 19.49 (UTC)_
+Last update : _Friday 09/12/2022 22.51 (UTC)_
