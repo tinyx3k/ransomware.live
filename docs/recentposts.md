@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-09 | [`Warren County Community College`](https://google.com/search?q=Warren+County+Community+College) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -201,6 +202,5 @@
 | 2022-11-15 | [`https://www.cristalcontrols.com`](https://google.com/search?q=https%3A%2F%2Fwww.cristalcontrols.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-15 | [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
-| 2022-11-15 | [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Friday 09/12/2022 07.37 (UTC)_
+Last update : _Friday 09/12/2022 09.05 (UTC)_

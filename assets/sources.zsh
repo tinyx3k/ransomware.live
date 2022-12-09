@@ -116,12 +116,13 @@ echo ${gistteix} | cut -d ',' -f 2 | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_'
 gistteix_count=`cat assets/tmp/sources.gistteix | wc -w | awk '{$1=$1};1'`
 echo "${gistteix_count} | gist:teixeira0xfffff:ransomwarefeed.csv"
 
-breachsense=`curl -s https://www.breachsense.io/ransomware-gangs/ -H 'User-Agent: '${random_useragent}''`
-echo "fetching: breachsense"
-echo $breachsense > /tmp/breachsense.html
-if [ $? -ne 0 ]; then
-    echo "failed to fetch from breachsense.io"
-fi
+#breachsense=`curl -s https://www.breachsense.io/ransomware-gangs/ -H 'User-Agent: '${random_useragent}''`
+#echo "fetching: breachsense"
+#echo $breachsense > /tmp/breachsense.html
+#if [ $? -ne 0 ]; then
+#    echo "failed to fetch from breachsense.io"
+#fi
+
 echo ${breachsense} | sed -E -e 's_.*://([^/@]*@)?([^/:]+).*_\2_' | grep onion | cut -d '>' -f 1 | sed 's/onion.ws/onion/g' > assets/tmp/sources.breachsense
 breachsense_count=`cat assets/tmp/sources.breachsense | wc -w | awk '{$1=$1};1'`
 echo "${breachsense_count} | breachsense"

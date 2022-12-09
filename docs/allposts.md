@@ -3,6 +3,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`Warren County Community College`](https://google.com/search?q=Warren+County+Community+College) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`Orotex`](https://google.com/search?q=Orotex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -5489,4 +5490,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Friday 09/12/2022 07.37 (UTC)_
+Last update : _Friday 09/12/2022 09.05 (UTC)_
