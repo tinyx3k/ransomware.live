@@ -3,6 +3,14 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`Atcore`](https://google.com/search?q=Atcore) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Dingbro Ltd`](https://google.com/search?q=Dingbro+Ltd) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`A.R. Thomson Group`](https://google.com/search?q=A.R.+Thomson+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Cleveland Brothers`](https://google.com/search?q=Cleveland+Brothers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`AIRCOMECHANICAL`](https://google.com/search?q=AIRCOMECHANICAL) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Panolam Surface Systems`](https://google.com/search?q=Panolam+Surface+Systems) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`SEACAST`](https://google.com/search?q=SEACAST) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`nworksllc`](https://google.com/search?q=nworksllc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`Warren County Community College`](https://google.com/search?q=Warren+County+Community+College) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -5490,4 +5498,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Friday 09/12/2022 10.33 (UTC)_
+Last update : _Friday 09/12/2022 14.06 (UTC)_

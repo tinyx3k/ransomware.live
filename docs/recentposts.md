@@ -2,6 +2,14 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-09 | [`Atcore`](https://google.com/search?q=Atcore) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Dingbro Ltd`](https://google.com/search?q=Dingbro+Ltd) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`A.R. Thomson Group`](https://google.com/search?q=A.R.+Thomson+Group) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Cleveland Brothers`](https://google.com/search?q=Cleveland+Brothers) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`AIRCOMECHANICAL`](https://google.com/search?q=AIRCOMECHANICAL) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`Panolam Surface Systems`](https://google.com/search?q=Panolam+Surface+Systems) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`SEACAST`](https://google.com/search?q=SEACAST) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
+| 2022-12-09 | [`nworksllc`](https://google.com/search?q=nworksllc) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-12-09 | [`Warren County Community College`](https://google.com/search?q=Warren+County+Community+College) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-09 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
 | 2022-12-09 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | [quantum](https://ransomware.live/#/profiles?id=quantum) |
@@ -194,13 +202,5 @@
 | 2022-11-18 | [`https://naulty.com/`](https://google.com/search?q=https%3A%2F%2Fnaulty.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-17 | [`Institute of Science and Technology Austria`](https://google.com/search?q=Institute+of+Science+and+Technology+Austria) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-17 | [`Giambalvo, Stalzer & Co.`](https://google.com/search?q=Giambalvo%2C+Stalzer+%26+Co.) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-17 | [`Kessing Rechtsanwälte und Fachanwälte in PartGmbB`](https://google.com/search?q=Kessing+Rechtsanw%C3%A4lte+und+Fachanw%C3%A4lte+in+PartGmbB) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-11-17 | [`https://www.m2selectronics.com`](https://google.com/search?q=https%3A%2F%2Fwww.m2selectronics.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-16 | [`Aeronautics company Canada / Production of parts for aircraft engines`](https://google.com/search?q=Aeronautics+company+Canada+%2F+Production+of+parts+for+aircraft+engines) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-11-16 | [`Belgium company Zwijndrecht - Leaked`](https://google.com/search?q=Belgium+company+Zwijndrecht+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-11-16 | [`IMA Financial Group, Inc.`](https://google.com/search?q=IMA+Financial+Group%2C+Inc.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
-| 2022-11-15 | [`https://www.cristalcontrols.com`](https://google.com/search?q=https%3A%2F%2Fwww.cristalcontrols.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-15 | [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-15 | [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 
-Last update : _Friday 09/12/2022 10.33 (UTC)_
+Last update : _Friday 09/12/2022 14.06 (UTC)_
