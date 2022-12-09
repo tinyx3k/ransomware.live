@@ -3,6 +3,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-09 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | [nokoyawa](https://ransomware.live/#/profiles?id=nokoyawa) |
 | 2022-12-09 | [`rhotelja.com`](https://google.com/search?q=rhotelja.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-09 | [`hawanasalalah.com`](https://google.com/search?q=hawanasalalah.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-09 | [`Maney - Gordon - Zeller, P.A.`](https://google.com/search?q=Maney+-+Gordon+-+Zeller%2C+P.A.) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
@@ -5502,4 +5503,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Friday 09/12/2022 22.51 (UTC)_
+Last update : _Friday 09/12/2022 23.16 (UTC)_
