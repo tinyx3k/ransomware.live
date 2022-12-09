@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 2022-12-09 
 
-* Add parser for `nokoyawa`ransomware group
+* Add parser for `nokoyawa` ransomware group
 
 ## 2022-12-07
 
