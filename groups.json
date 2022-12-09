@@ -2555,7 +2555,9 @@
                 "lastscrape": "2021-05-01 00:00:00.000000"
             }
         ],
-        "profile": []
+        "profile": [
+            "https://www.trendmicro.com/en_us/research/22/c/nokoyawa-ransomware-possibly-related-to-hive-.html"
+        ]
     },
     {
         "name": "onepercent",
