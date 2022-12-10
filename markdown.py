@@ -279,7 +279,7 @@ def profilepage():
         #if group['javascript_render'] is True:
         #    writeline(profilepage, '> fetching this site requires a headless browser')
         #    writeline(profilepage, '')
-        if group['profile'] is not None:
+        if len(group['profile']):
             writeline(profilepage, '### External analysis')
             for profile in group['profile']:
                 writeline(profilepage, '- ' + profile)

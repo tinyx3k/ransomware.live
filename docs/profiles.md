@@ -2,7 +2,6 @@
 
 ## **0mega**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -37,7 +36,6 @@
 
 ## **aGl0bGVyCg**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -67,7 +65,6 @@ _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 
 _`closed forum, access sold from https://sellix.io/atwforums`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -588,7 +585,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ## **avos**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -646,7 +642,6 @@ _`captcha prevents indexing`_
 
 ## **aztroteam**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -785,7 +780,6 @@ _`captcha prevents indexing`_
 
 >"Black Basta" is a new ransomware strain discovered during April 2022 - looks in dev since at least early February 2022 - and due to their ability to quickly amass new victims and the style of their negotiations, this is likely not a new operation but rather a rebrand of a previous top-tier ransomware gang that brought along their affiliates. 
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -1154,7 +1148,6 @@ _`previous clearnet domain blackshadow.cc`_
 
 ## **blacktor**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -1171,7 +1164,6 @@ _`previous clearnet domain blackshadow.cc`_
 
 ## **bluesky**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -1189,7 +1181,6 @@ _`previous clearnet domain blackshadow.cc`_
 
 _`claim to donate 80% of earnings to charity`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -1204,7 +1195,6 @@ _`claim to donate 80% of earnings to charity`_
 
 ## **cheers**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -1232,7 +1222,6 @@ _`claim to donate 80% of earnings to charity`_
 
 ## **chilelocker**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2718,7 +2707,6 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 _`previous clearnet domain coomingproject.com`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2731,7 +2719,6 @@ _`previous clearnet domain coomingproject.com`_
 
 ## **crylock**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2745,7 +2732,6 @@ _`previous clearnet domain coomingproject.com`_
 
 _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2881,7 +2867,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 ## **dagonlocker**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2897,7 +2882,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 ## **daixin**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2918,7 +2902,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -2936,7 +2919,6 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
 _`marketplace - not a ransomware group, reputation questionable`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3018,7 +3000,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 >A ransomware with potential ties to Wizard Spider. 
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3034,7 +3015,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 ## **dataleak**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3052,7 +3032,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 ## **donutleaks**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3099,7 +3078,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 _`marketplace - not a ransomware group`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3132,7 +3110,6 @@ _`marketplace - not a ransomware group`_
 
 _`captcha prevents indexing`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3144,7 +3121,6 @@ _`captcha prevents indexing`_
 
 ## **ep918**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3296,7 +3272,6 @@ _`captcha prevents indexing`_
 
 ## **freecivilian**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3362,7 +3337,6 @@ _`captcha prevents indexing`_
 
 ## **hades**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3641,7 +3615,6 @@ _``_
 
 ## **holyghost**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3669,7 +3642,6 @@ _`aka hotarus corp`_
 
 ## **icefire**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3692,7 +3664,6 @@ _`aka hotarus corp`_
 
 ## **karakurt**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3779,7 +3750,6 @@ _`not a ransomware group`_
 
 _`not a ransomware group`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -3829,7 +3799,6 @@ _`not a ransomware group`_
 
 ## **lockbit**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -4879,7 +4848,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ## **lockbit3**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5273,7 +5241,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ## **lockbit3_fs**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5333,7 +5300,6 @@ _`marketplace - not a ransomware group`_
 
 ## **lolnek**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5513,7 +5479,6 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5630,7 +5595,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 >Medusa is a DDoS bot written in .NET 2.0. In its current incarnation its C&C protocol is based on HTTP, while its predecessor made use of IRC. 
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5667,7 +5631,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 >This malware written in C# is a variant of the Thanos ransomware family and emerged in October 2021 and is obfuscated using SmartAssembly. In 2022, ThreatLabz analysed a report of Midas ransomware was slowly deployed over a two month period (ZScaler). This ransomware features also its own data leak site as part of its double extortion strategy. 
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5726,7 +5689,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 >Ransomware, potential rebranding of win.sfile. 
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -5827,7 +5789,6 @@ _`not a ransomware group`_
 
 ## **mydecryptor**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -6199,7 +6160,6 @@ _`aka pwndlocker`_
 
 ## **projectrelic**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -6566,7 +6526,6 @@ _`aka pwndlocker`_
 
 >Ransomware written in Go.
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -6614,7 +6573,6 @@ _`login page, no posts`_
 
 ## **quantum**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -6838,7 +6796,6 @@ _`shut down & offering a decryptor`_
 
 ## **ranion**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7128,7 +7085,6 @@ _`shut down & offering a decryptor`_
 
 ## **royal**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7214,7 +7170,6 @@ _`shut down & offering a decryptor`_
 
 ## **rransom**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7258,7 +7213,6 @@ _`shut down & offering a decryptor`_
 
 ## **shaoleaks**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7395,7 +7349,6 @@ _`shut down & offering a decryptor`_
 
 >Ransomware, written in .NET. 
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7407,7 +7360,6 @@ _`shut down & offering a decryptor`_
 
 ## **spook**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7582,7 +7534,6 @@ _`no longer in operation - rebrand`_
 
 _`nodes or hosts with no current attribution or identification`_
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7595,7 +7546,6 @@ _`nodes or hosts with no current attribution or identification`_
 
 ## **vfokx**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7763,7 +7713,6 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ## **x001xs**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7832,7 +7781,6 @@ _`aka fonix`_
 
 ## **yanluowang**
 
-### External analysis
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
@@ -7871,4 +7819,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Saturday 10/12/2022 17.13 (UTC)_
+Last update : _Saturday 10/12/2022 17.31 (UTC)_
