@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -201,6 +202,5 @@
 | 2022-11-21 | [`https://lojastorra.com.br`](https://google.com/search?q=https%3A%2F%2Flojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Saturday 10/12/2022 13.48 (UTC)_
+Last update : _Saturday 10/12/2022 15.21 (UTC)_

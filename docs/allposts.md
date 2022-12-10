@@ -3,6 +3,7 @@
 
 | date | title | group |
 |---|---|---|
+| 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -5508,4 +5509,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Saturday 10/12/2022 13.48 (UTC)_
+Last update : _Saturday 10/12/2022 15.21 (UTC)_
