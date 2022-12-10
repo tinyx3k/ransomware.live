@@ -203,4 +203,4 @@
 | 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 10/12/2022 07.38 (UTC)_
+Last update : _Saturday 10/12/2022 10.41 (UTC)_
