@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-10 | [`oltax.com`](https://google.com/search?q=oltax.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-10 | [`Aeroproductsco`](https://google.com/search?q=Aeroproductsco) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-09 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | [nokoyawa](https://ransomware.live/#/profiles?id=nokoyawa) |
 | 2022-12-09 | [`rhotelja.com`](https://google.com/search?q=rhotelja.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-09 | [`hawanasalalah.com`](https://google.com/search?q=hawanasalalah.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -200,7 +202,5 @@
 | 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
-| 2022-11-19 | [`norseman.ca`](https://google.com/search?q=norseman.ca) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-19 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | [lv](https://ransomware.live/#/profiles?id=lv) |
 
-Last update : _Saturday 10/12/2022 00.07 (UTC)_
+Last update : _Saturday 10/12/2022 03.01 (UTC)_
