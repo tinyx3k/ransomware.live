@@ -203,4 +203,4 @@
 | 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
 | 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 
-Last update : _Saturday 10/12/2022 03.01 (UTC)_
+Last update : _Saturday 10/12/2022 04.38 (UTC)_

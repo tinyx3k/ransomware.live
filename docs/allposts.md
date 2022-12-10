@@ -5505,4 +5505,4 @@
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Saturday 10/12/2022 03.01 (UTC)_
+Last update : _Saturday 10/12/2022 04.38 (UTC)_
