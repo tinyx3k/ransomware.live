@@ -335,6 +335,8 @@ def profilepage():
                 line = '| ' + '`' + post['post_title'].replace('|', '') + '`' + ' | ' + date + ' |'
                 writeline(profilepage, line)
         writeline(profilepage, '')
+        writeline(profilepage,' --- ')
+        writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')
     writeline(profilepage, '')
     writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')

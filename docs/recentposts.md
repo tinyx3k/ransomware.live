@@ -203,4 +203,4 @@
 | 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Saturday 10/12/2022 17.43 (UTC)_
+Last update : _Saturday 10/12/2022 17.49 (UTC)_
