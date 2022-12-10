@@ -225,6 +225,9 @@ def allposts():
     writeline(allpage, '# 📰 All posts')
     writeline(allpage, '')
     writeline(allpage, '')
+    writeline(allpage, '_All `' + str(postcount()) + '` posts_')
+    writeline(allpage, '')
+    writeline(allpage, '')
     writeline(allpage, '| date | title | group |')
     writeline(allpage, '|---|---|---|')
     for post in recentposts('999999'):
