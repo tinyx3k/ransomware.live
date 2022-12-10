@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
+| 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`oltax.com`](https://google.com/search?q=oltax.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`Aeroproductsco`](https://google.com/search?q=Aeroproductsco) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-09 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | [nokoyawa](https://ransomware.live/#/profiles?id=nokoyawa) |
@@ -200,7 +202,5 @@
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-20 | [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-19 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
 
-Last update : _Saturday 10/12/2022 04.38 (UTC)_
+Last update : _Saturday 10/12/2022 07.38 (UTC)_
