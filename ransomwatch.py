@@ -257,7 +257,7 @@ if args.mode == 'parse':
     parsers.marketo()
     parsers.rook()
     parsers.cryp70n1c0d3()
-    parsers.hiveleak()
+    parsers.hive()
     parsers.mosesstaff()
     parsers.alphv()
     parsers.nightsky()

@@ -1294,11 +1294,11 @@
         ]
     },
     {
-        "name": "hiveleak",
+        "name": "hive",
         "captcha": false,
         "parser": true,
         "javascript_render": false,
-        "meta": "aka hive",
+        "meta": "",
         "locations": [
             {
                 "fqdn": "hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion",

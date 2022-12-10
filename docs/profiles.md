@@ -3419,12 +3419,9 @@ _`aka fivehands`_
 | post | date |
 |---|---|
 
-## **hiveleak**
+## **hive**
 
-
->Hive is a strain of ransomware that was first discovered in June 2021. Hive was designed to be used by Ransomware-as-a-service providers, to enable novice cyber-criminals to launch ransomware attacks on healthcare providers, energy providers, charities, and retailers across the globe. In 2022 there was a switch from GoLang to Rust.
-
-_`aka hive`_
+_``_
 
 ### External analysis
 - https://inf.news/en/tech/c28d9382ab78a5ac3d8fc802f3f0f1e0.html
@@ -3436,9 +3433,13 @@ _`aka hive`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Hive | 🟢 | 10/12/2022 12:54 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
+| Hive | 🟢 | 10/12/2022 12:54 | `http://hivedbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | ❌ | 
 | Hive | 🟢 | 10/12/2022 12:54 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
 | none | 🟢 | 10/12/2022 12:54 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
+
+### Ransom note
+* 📝 <a href="/ransomware_notes/hive/hive.txt" target=_blank>`Check ransomware note`</a>
+
 ### Posts
 
 | post | date |
@@ -7867,4 +7868,4 @@ _`aka fonix`_
 |---|---|
 
 
-Last update : _Saturday 10/12/2022 15.21 (UTC)_
+Last update : _Saturday 10/12/2022 17.09 (UTC)_

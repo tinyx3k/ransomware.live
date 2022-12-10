@@ -3,7 +3,7 @@
 | Date | Title | Group |
 |---|---|---|
 | 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hive](https://ransomware.live/#/profiles?id=hive) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`oltax.com`](https://google.com/search?q=oltax.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -53,7 +53,7 @@
 | 2022-12-06 | [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-06 | [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-06 | [`CIBTvisas`](https://google.com/search?q=CIBTvisas) | [play](https://ransomware.live/#/profiles?id=play) |
-| 2022-12-06 | [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-12-06 | [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | [hive](https://ransomware.live/#/profiles?id=hive) |
 | 2022-12-05 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
 | 2022-12-05 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](https://ransomware.live/#/profiles?id=ransomhouse) |
@@ -154,7 +154,7 @@
 | 2022-11-26 | [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-26 | [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | [play](https://ransomware.live/#/profiles?id=play) |
 | 2022-11-26 | [`https://www.friedmanlawoffices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.friedmanlawoffices.com%2F) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hive](https://ransomware.live/#/profiles?id=hive) |
 | 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](https://ransomware.live/#/profiles?id=blackbasta) |
 | 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
@@ -170,7 +170,7 @@
 | 2022-11-24 | [`Cincinnati State`](https://google.com/search?q=Cincinnati+State) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
 | 2022-11-24 | [`Pmc-group`](https://google.com/search?q=Pmc-group) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
 | 2022-11-24 | [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
-| 2022-11-23 | [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
+| 2022-11-23 | [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | [hive](https://ransomware.live/#/profiles?id=hive) |
 | 2022-11-23 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | [everest](https://ransomware.live/#/profiles?id=everest) |
 | 2022-11-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART12 - 10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART12+-+10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
 | 2022-11-23 | [`LOESCHGROUP.DE FILES PART5 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART5+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
@@ -203,4 +203,4 @@
 | 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Saturday 10/12/2022 15.21 (UTC)_
+Last update : _Saturday 10/12/2022 17.09 (UTC)_
