@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hiveleak](https://ransomware.live/#/profiles?id=hiveleak) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 | 2022-12-10 | [`oltax.com`](https://google.com/search?q=oltax.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -201,6 +202,5 @@
 | 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
 | 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 | 2022-11-20 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
-| 2022-11-20 | [`westmount.org`](https://google.com/search?q=westmount.org) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
 
-Last update : _Saturday 10/12/2022 10.41 (UTC)_
+Last update : _Saturday 10/12/2022 13.48 (UTC)_
