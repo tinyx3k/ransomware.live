@@ -5548,4 +5548,4 @@ _All `5542` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://www.ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://www.ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Sunday 11/12/2022 11.59 (UTC)_
+Last update : _Sunday 11/12/2022 13.58 (UTC)_
