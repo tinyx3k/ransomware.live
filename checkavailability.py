@@ -1,13 +1,4 @@
-from sharedutils import striptld
 from sharedutils import openjson
-from sharedutils import checktcp
-from sharedutils import siteschema
-from sharedutils import socksfetcher
-from sharedutils import getsitetitle
-from sharedutils import getonionversion
-from sharedutils import checkgeckodriver
-from sharedutils import sockshost, socksport
-from sharedutils import stdlog, dbglog, errlog, honk
 import json
 
 groups = openjson("groups.json")
