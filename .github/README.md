@@ -37,7 +37,7 @@ curl -sL https://raw.githubusercontent.com/jmousqueton/ransomware.live/main/grou
 <h4 align="center">⚠️</h4>
 
 <h4 align="center">
-  content within <code>ransomware.live</code>, `posts.json`, `groups.json` and the `docs/ & source/` directories is dynamically generated based on website of threat actors. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing Ransomware.live generated material you acknowledge you are doing so at your own risk.
+  content within <code>ransomware.live</code>, <code>posts.json</code>, <code>groups.json</code> and the <code>docs/ & source/</code> directories is dynamically generated based on website of threat actors. <br><br> whilst sanitisation efforts have been taken, by viewing or accessing Ransomware.live generated material you acknowledge you are doing so at your own risk.
 </h4>
 
 ---
