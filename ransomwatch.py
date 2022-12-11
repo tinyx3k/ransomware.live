@@ -53,6 +53,7 @@ parser = argparse.ArgumentParser(description='👀 🦅 ransomwatch')
 parser.add_argument("--name", help='provider name')
 parser.add_argument("--location", help='onionsite fqdn')
 parser.add_argument("--append", help='add onionsite fqdn to existing record')
+parser.add_argument("--force", help='force to scrape disable sites')
 parser.add_argument(
     "mode",
     help='operation to execute',
@@ -114,7 +115,7 @@ def checkexisting(provider):
             return True
     return False
 
-def scraper():
+def scraper(force):
     '''main scraping function'''
     groups = openjson("groups.json")
     # iterate each provider
@@ -127,7 +128,13 @@ def scraper():
             '''
             only scrape onion v3 unless using headless browser, not long before this will not be possible
             https://support.torproject.org/onionservices/v2-deprecation/
-            '''
+            '''  
+            if host['enabled'] is False:
+                if (force !='1'):
+                    stdlog('ransomwatch: ' + 'skipping, this host has been flagged as disabled')
+                    continue
+                else:
+                    stdlog('ransomwatch: ' + 'forcing, this host has been flagged as disabled')
             if host['version'] == 3 or host['version'] == 0:
                 if group['javascript_render'] is True:
                     stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
@@ -204,7 +211,7 @@ if args.mode == 'scrape':
         honk("socks proxy not available and required for scraping!")
     if checkgeckodriver() is False:
         honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
-    scraper()
+    scraper(args.force)
     stdlog('ransomwatch: ' + 'scrape run complete')
 
 if args.mode == 'add':

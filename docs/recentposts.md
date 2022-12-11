@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-11 | [`Municipalidad de belen`](https://google.com/search?q=Municipalidad+de+belen) | [karakurt](https://www.ransomware.live/#/profiles?id=karakurt) |
 | 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](https://www.ransomware.live/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](https://www.ransomware.live/#/profiles?id=karakurt) |
 | 2022-12-11 | [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | [karakurt](https://www.ransomware.live/#/profiles?id=karakurt) |
@@ -201,6 +202,5 @@
 | 2022-11-24 | [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | [bianlian](https://www.ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](https://www.ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | [bianlian](https://www.ransomware.live/#/profiles?id=bianlian) |
-| 2022-11-24 | [`Ta Chen Stainless Pipe Co., Ltd`](https://google.com/search?q=Ta+Chen+Stainless+Pipe+Co.%2C+Ltd) | [alphv](https://www.ransomware.live/#/profiles?id=alphv) |
 
-Last update : _Sunday 11/12/2022 15.04 (UTC)_
+Last update : _Sunday 11/12/2022 15.57 (UTC)_
