@@ -3,7 +3,7 @@
 
 Ransomware.live is a ransomware groups observatory based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet)
 
-Ransomware.live is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites and published them [here](https://www.ransomware.live/#/recentposts)
+Ransomware.live is a ransomware leak site monitoring tool. It will scrape all of the entries on various ransomware leak sites and published them [here](recentposts.md)
 
 ## 📜 License
 
@@ -30,7 +30,7 @@ You can find all leaks in json format [here](https://raw.githubusercontent.com/J
 
 ## ♻️ Changelog 
 
-You can find the changelog [here](https://www.ransomware.live/#/CHANGELOG)
+You can find the changelog [here](CHANGELOG.md)
 
 ## ⚙️ Contribution
 
