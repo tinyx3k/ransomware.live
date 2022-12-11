@@ -56,6 +56,8 @@ def main(webpage):
             stdlog('geckodriver: ' + 'lockbbit special: extra loadtime wait - 35s')
             time.sleep(35)
             #driver.implicitly_wait(20)
+        if 'alphv' in webpage:
+            stdlog('geckodriver: ' + 'alphv special: extra loadtime wait - 35s')
         stdlog('geckodriver: ' + 'waiting ' + str(sleeptz) + ' seconds to render elements')
         time.sleep(sleeptz)
         #if 'lockbitapt' in webpage:
