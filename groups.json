@@ -1381,7 +1381,7 @@
                 "title": "Hive",
                 "version": 3,
                 "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-11 13:00:36.295649",
                 "lastscrape": "2022-12-11 13:00:36.295636",
                 "enabled": true
@@ -1903,17 +1903,17 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-11 13:23:14.632317",
                 "lastscrape": "2022-12-11 13:23:14.632305",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion",
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z2mmiz3ryxafn5kapbvbbiywsxwovasfkgf5dqqp5kxlajad.onion",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-11 10:33:35.036925",
                 "lastscrape": "2022-12-11 10:33:35.036914",
                 "enabled": false
@@ -1923,7 +1923,7 @@
                 "title": "LockBit - Leaked",
                 "version": 3,
                 "slug": "http://lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-11 10:33:35.852361",
                 "lastscrape": "2022-12-11 10:33:35.852341",
                 "enabled": false
@@ -2868,7 +2868,7 @@
                 "title": "PLAY NEWS",
                 "version": 3,
                 "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-11 13:39:11.438381",
                 "lastscrape": "2022-12-11 13:39:11.438369",
                 "enabled": true
@@ -3218,7 +3218,7 @@
                 "title": "ransomexx2",
                 "version": 3,
                 "slug": "http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-11 13:44:24.970092",
                 "lastscrape": "2022-12-11 13:44:24.970080",
                 "enabled": true
