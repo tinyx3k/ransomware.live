@@ -228,7 +228,7 @@ def allposts():
     writeline(allpage, '_All `' + str(postcount()) + '` posts_')
     writeline(allpage, '')
     writeline(allpage, '') 
-    writeline(allpage, '💾 [Download]((https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format')
+    writeline(allpage, '💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format')
     writeline(allpage, '')
     writeline(allpage, '')
     writeline(allpage, '| date | title | group |')
