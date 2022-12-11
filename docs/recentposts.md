@@ -2,6 +2,42 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Energy Transfer Durafin Tubes`](https://google.com/search?q=Energy+Transfer+Durafin+Tubes) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`KINSHOFER GmbH`](https://google.com/search?q=KINSHOFER+GmbH) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Latitude 37`](https://google.com/search?q=Latitude+37) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`South Jersey Glass &amp; Doors`](https://google.com/search?q=South+Jersey+Glass+%26amp%3B+Doors) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`APECQ`](https://google.com/search?q=APECQ) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Bergamo Metal`](https://google.com/search?q=Bergamo+Metal) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Metroclean`](https://google.com/search?q=Metroclean) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Davenport Community School`](https://google.com/search?q=Davenport+Community+School) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Qualified Staffing`](https://google.com/search?q=Qualified+Staffing) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Özel GözAkademi Hastanesi`](https://google.com/search?q=%C3%96zel+G%C3%B6zAkademi+Hastanesi) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Medilife Hastanesi`](https://google.com/search?q=Medilife+Hastanesi) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`ipb Baggenstos Montagen`](https://google.com/search?q=ipb+Baggenstos+Montagen) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`The Summit`](https://google.com/search?q=The+Summit) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Urban`](https://google.com/search?q=Urban) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`San Benito Consolidated Independent School District`](https://google.com/search?q=San+Benito+Consolidated+Independent+School+District) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Schrader-Pacific International`](https://google.com/search?q=Schrader-Pacific+International) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Vercity`](https://google.com/search?q=Vercity) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Deerberg`](https://google.com/search?q=Deerberg) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Trantor`](https://google.com/search?q=Trantor) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`R1 Group`](https://google.com/search?q=R1+Group) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Club Asteria Belek`](https://google.com/search?q=Club+Asteria+Belek) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Cheval Electronic Enclosure`](https://google.com/search?q=Cheval+Electronic+Enclosure) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Cromwell Management Inc.`](https://google.com/search?q=Cromwell+Management+Inc.) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Ethigen Limited`](https://google.com/search?q=Ethigen+Limited) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Abdullah Al-Othaim Markets`](https://google.com/search?q=Abdullah+Al-Othaim+Markets) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Legend Holdings`](https://google.com/search?q=Legend+Holdings) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`PTSC`](https://google.com/search?q=PTSC) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Regulatory Authority for Telecommunications and Posts (ARTP)`](https://google.com/search?q=Regulatory+Authority+for+Telecommunications+and+Posts+%28ARTP%29) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Roxboro`](https://google.com/search?q=Roxboro) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Stratus`](https://google.com/search?q=Stratus) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`BauVal`](https://google.com/search?q=BauVal) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Centrisys cnp`](https://google.com/search?q=Centrisys+cnp) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
 | 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hive](https://ransomware.live/#/profiles?id=hive) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -166,41 +202,5 @@
 | 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | [bianlian](https://ransomware.live/#/profiles?id=bianlian) |
 | 2022-11-24 | [`Ta Chen Stainless Pipe Co., Ltd`](https://google.com/search?q=Ta+Chen+Stainless+Pipe+Co.%2C+Ltd) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-24 | [`https://www.labusinessjournal.com`](https://google.com/search?q=https%3A%2F%2Fwww.labusinessjournal.com) | [royal](https://ransomware.live/#/profiles?id=royal) |
-| 2022-11-24 | [`Cincinnati State`](https://google.com/search?q=Cincinnati+State) | [vicesociety](https://ransomware.live/#/profiles?id=vicesociety) |
-| 2022-11-24 | [`Pmc-group`](https://google.com/search?q=Pmc-group) | [cuba](https://ransomware.live/#/profiles?id=cuba) |
-| 2022-11-24 | [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | [daixin](https://ransomware.live/#/profiles?id=daixin) |
-| 2022-11-23 | [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | [hive](https://ransomware.live/#/profiles?id=hive) |
-| 2022-11-23 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-11-23 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART12 - 10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART12+-+10.80.74.231%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-23 | [`LOESCHGROUP.DE FILES PART5 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART5+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-23 | [`ORDEREXPRESS.COM.MX FILES PART6 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART6+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-23 | [`MARCELSOLUTION.COM FILES PART7 - SRVTS3\C$\QB16\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART7+-+SRVTS3%5CC%24%5CQB16%5CDATA%5C+PUBLISHED) | [clop](https://ransomware.live/#/profiles?id=clop) |
-| 2022-11-22 | [`lapiamontesa`](https://google.com/search?q=lapiamontesa) | [blackbyte](https://ransomware.live/#/profiles?id=blackbyte) |
-| 2022-11-22 | [`Leak Announcement - IT company ITonCLOUD`](https://google.com/search?q=Leak+Announcement+-+IT+company+ITonCLOUD) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
-| 2022-11-22 | [`ssp-worldwide.com`](https://google.com/search?q=ssp-worldwide.com) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-22 | [`ryokikogyo.co.jp`](https://google.com/search?q=ryokikogyo.co.jp) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
-| 2022-11-21 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace+partners) | [everest](https://ransomware.live/#/profiles?id=everest) |
-| 2022-11-21 | [`Nok Air`](https://google.com/search?q=Nok+Air) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
-| 2022-11-21 | [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.candcfarmsupply.com`](https://google.com/search?q=www.candcfarmsupply.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.ackermanplumbinginc.com`](https://google.com/search?q=www.ackermanplumbinginc.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.semaphorehq.com`](https://google.com/search?q=www.semaphorehq.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.baltholding.eu`](https://google.com/search?q=www.baltholding.eu) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.pacmaritime.com`](https://google.com/search?q=www.pacmaritime.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.waynefamilypractice.com`](https://google.com/search?q=www.waynefamilypractice.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.advantagedirectcare.com`](https://google.com/search?q=www.advantagedirectcare.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.cucafresca.com.br`](https://google.com/search?q=www.cucafresca.com.br) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.arisaseguros.com`](https://google.com/search?q=www.arisaseguros.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.jaspercountysheriffoffice.com`](https://google.com/search?q=www.jaspercountysheriffoffice.com) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.minex.gob.gt`](https://google.com/search?q=www.minex.gob.gt) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`www.projectredirectdc.org`](https://google.com/search?q=www.projectredirectdc.org) | [onyx](https://ransomware.live/#/profiles?id=onyx) |
-| 2022-11-21 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-11-21 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-11-21 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-11-21 | [`https://lojastorra.com.br`](https://google.com/search?q=https%3A%2F%2Flojastorra.com.br) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-11-21 | [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | [qilin](https://ransomware.live/#/profiles?id=qilin) |
-| 2022-11-20 | [`McGRATH`](https://google.com/search?q=McGRATH) | [snatch](https://ransomware.live/#/profiles?id=snatch) |
 
-Last update : _Sunday 11/12/2022 07.37 (UTC)_
+Last update : _Sunday 11/12/2022 09.36 (UTC)_

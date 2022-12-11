@@ -1,11 +1,47 @@
 # 📰 All posts
 
 
-_All `5506` posts_
+_All `5542` posts_
 
 
 | date | title | group |
 |---|---|---|
+| 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Energy Transfer Durafin Tubes`](https://google.com/search?q=Energy+Transfer+Durafin+Tubes) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`KINSHOFER GmbH`](https://google.com/search?q=KINSHOFER+GmbH) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Latitude 37`](https://google.com/search?q=Latitude+37) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`South Jersey Glass &amp; Doors`](https://google.com/search?q=South+Jersey+Glass+%26amp%3B+Doors) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`APECQ`](https://google.com/search?q=APECQ) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Bergamo Metal`](https://google.com/search?q=Bergamo+Metal) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Metroclean`](https://google.com/search?q=Metroclean) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Davenport Community School`](https://google.com/search?q=Davenport+Community+School) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Qualified Staffing`](https://google.com/search?q=Qualified+Staffing) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Özel GözAkademi Hastanesi`](https://google.com/search?q=%C3%96zel+G%C3%B6zAkademi+Hastanesi) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Medilife Hastanesi`](https://google.com/search?q=Medilife+Hastanesi) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`ipb Baggenstos Montagen`](https://google.com/search?q=ipb+Baggenstos+Montagen) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`The Summit`](https://google.com/search?q=The+Summit) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Urban`](https://google.com/search?q=Urban) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`San Benito Consolidated Independent School District`](https://google.com/search?q=San+Benito+Consolidated+Independent+School+District) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Schrader-Pacific International`](https://google.com/search?q=Schrader-Pacific+International) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Vercity`](https://google.com/search?q=Vercity) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Deerberg`](https://google.com/search?q=Deerberg) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Trantor`](https://google.com/search?q=Trantor) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`R1 Group`](https://google.com/search?q=R1+Group) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Club Asteria Belek`](https://google.com/search?q=Club+Asteria+Belek) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Cheval Electronic Enclosure`](https://google.com/search?q=Cheval+Electronic+Enclosure) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Cromwell Management Inc.`](https://google.com/search?q=Cromwell+Management+Inc.) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Ethigen Limited`](https://google.com/search?q=Ethigen+Limited) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Abdullah Al-Othaim Markets`](https://google.com/search?q=Abdullah+Al-Othaim+Markets) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Legend Holdings`](https://google.com/search?q=Legend+Holdings) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`PTSC`](https://google.com/search?q=PTSC) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Regulatory Authority for Telecommunications and Posts (ARTP)`](https://google.com/search?q=Regulatory+Authority+for+Telecommunications+and+Posts+%28ARTP%29) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Roxboro`](https://google.com/search?q=Roxboro) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Stratus`](https://google.com/search?q=Stratus) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`BauVal`](https://google.com/search?q=BauVal) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
+| 2022-12-11 | [`Centrisys cnp`](https://google.com/search?q=Centrisys+cnp) | [karakurt](https://ransomware.live/#/profiles?id=karakurt) |
 | 2022-12-10 | [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | [alphv](https://ransomware.live/#/profiles?id=alphv) |
 | 2022-12-10 | [`KNOX College`](https://google.com/search?q=KNOX+College) | [hive](https://ransomware.live/#/profiles?id=hive) |
 | 2022-12-10 | [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | [lockbit3](https://ransomware.live/#/profiles?id=lockbit3) |
@@ -5512,4 +5548,4 @@ _All `5506` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](https://ransomware.live/#/profiles?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](https://ransomware.live/#/profiles?id=lorenz) |
 
-Last update : _Sunday 11/12/2022 07.37 (UTC)_
+Last update : _Sunday 11/12/2022 09.36 (UTC)_

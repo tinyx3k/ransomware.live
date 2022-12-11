@@ -913,3 +913,14 @@ def nokoyawa():
         errlog('nokoyawa: ' + 'parsing fail')
     for post in posts:
         appender(post, 'nokoyawa')
+
+def karakurt():
+    stdlog('parser: ' + 'karakurt')
+    parser = '''
+    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    '''
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('karakurt: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'karakurt')
