@@ -208,7 +208,7 @@ def recentpage():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://www.ransomware.live/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](profiles.md?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     writeline(recentpage, '')
