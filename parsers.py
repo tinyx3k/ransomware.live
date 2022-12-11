@@ -68,8 +68,8 @@ def appender(post_title, group_name):
             dbglog('writing changes to posts.json')
             json.dump(posts, outfile, indent=4, ensure_ascii=False)
         # if socials are set try post
-        if os.environ.get('DISCORD_WEBHOOK') is not None:
-            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK'))
+        if os.environ.get('DISCORD_WEBHOOK_1') is not None:
+            todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_1'))
         if os.environ.get('DISCORD_WEBHOOK_2') is not None:
             todiscord(newpost['post_title'], newpost['group_name'], os.environ.get('DISCORD_WEBHOOK_2'))
         if os.environ.get('TWITTER_ACCESS_TOKEN') is not None:
