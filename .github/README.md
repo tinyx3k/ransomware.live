@@ -25,11 +25,11 @@
 
 Ransomware.live is an Ransomware gang tracker, running within github actions, groups are visited & posts are indexed within this repository every hour
 
-missing a group ? try the [_issue template_](https://github.com/jmousqueton/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)
+missing a group ? try the [_issue template_](https://github.com/jmousqueton/ransomware.live/issues/new?assignees=&labels=✨+enhancement&template=newgroup.yml&title=new+group%3A+)
 
 ```shell
-curl -sL https://raw.githubusercontent.com/jmousqueton/ransomwatch/main/posts.json | jq
-curl -sL https://raw.githubusercontent.com/jmousqueton/ransomwatch/main/groups.json | jq
+curl -sL https://raw.githubusercontent.com/jmousqueton/ransomware.live/main/posts.json | jq
+curl -sL https://raw.githubusercontent.com/jmousqueton/ransomware.live/main/groups.json | jq
 ```
 
 ---
