@@ -7,7 +7,7 @@ inspired by Ransomwatch & Ransomlook
 
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from sharedutils import stdlog, errlog
-from sharedutils import checktcp, openjson        
+from sharedutils import openjson        
 
 def screenshot(webpage,fqdn):
     stdlog('webshot: {}'.format(webpage))

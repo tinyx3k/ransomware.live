@@ -5,7 +5,7 @@
 ransomwatch
 does what it says on the tin
 '''
-from ast import parse
+# from ast import parse
 import os
 import json
 import argparse

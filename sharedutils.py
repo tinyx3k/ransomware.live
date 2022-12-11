@@ -422,7 +422,7 @@ def totwitter(post_title, group):
             access_token=os.environ.get('TWITTER_ACCESS_TOKEN'),
             access_token_secret=os.environ.get('TWITTER_ACCESS_TOKEN_SECRET')
             )
-        status = str(group) + ' : ' + str(post_title) + ' https://ransomwatch.telemetry.ltd/#/profiles?id=' + str(group)
+        status = str(group) + ' : ' + str(post_title) + ' https://www.ransomware.live/#/profiles?id=' + str(group)
         client.create_tweet(text=status)
     except TypeError as te:
         honk('sharedutils: ' + 'twitter tweepy unsatisfied: ' + str(te))
@@ -495,7 +495,7 @@ def toteams(post_title, group):
                     {
                         "type": "Action.OpenUrl",
                         "title": "%s",
-                        "url": "https://ransomware.live/#/profiles?id=%s"
+                        "url": "https://www.ransomware.live/#/profiles?id=%s"
                     }
                 ],
                 "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",

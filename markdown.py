@@ -295,7 +295,7 @@ def profilepage():
                 statusemoji = '🟢'
             elif host['available'] is False:
                 statusemoji = '🔴'
-                lastseen = host['lastscrape'].split(' ')[0]
+                # lastseen = host['lastscrape'].split(' ')[0]
             # convert date to ddmmyyyy hh:mm
             date = host['lastscrape'].split(' ')[0]
             date = date.split('-')
