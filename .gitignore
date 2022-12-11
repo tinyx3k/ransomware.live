@@ -5,8 +5,5 @@
 __pycache__
 **.python*
 **settings.json
-source/screenshots/*.png
-source/linkanalysis/*.json
+source/linkanalysis/**
 assets/tmp/**
-assets/diffpost.sh
-groups.json.ORIG
