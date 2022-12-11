@@ -121,31 +121,40 @@ Iterate files within the `source/` directory and contribute findings to `posts.j
 
 ## Misc
 
-### Scan well knowd sites for new Ransomware Gang site 
+### [source.zsh](https://github.com/jmousqueton/ransomare.live/blob/main/assets/sources.zsh)
+
+_Scan well knowd sites for new Ransomware Gang site_ 
 
 ```shell
-./asset/source.zsh 
+./asset/sources.zsh 
 ```
+### [sitemap.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/sitemap.sh)
 
-### Generate sitemap.xlm 
+_Generate sitemap.xlm_ 
 
 ```shell
 ./asset/sitemap.sh
 ```
 
-### Update Ransomware Descripton from [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+### [update_descriptions.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/update_descriptions.sh)
+
+_Update Ransomware Descripton from [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)_
 
 ```shell
-./asset/update_description.sh
+./asset/update_descriptions.sh
 ```
 
-### Update Ransomware Note from [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes)
+### [update_notes.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/update.notes.sh)
+
+_Update Ransomware Note from [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes)_
 
 ```shell
 ./asset/update_notes.sh
 ```
 
-### Re-order `groups.json` by group name 
+### [OrderGroups.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/orderGroups.sh)
+
+_Re-order `groups.json` by group name_
 
 ```shell
 ./asset/orderGroups.sh
@@ -153,4 +162,4 @@ Iterate files within the `source/` directory and contribute findings to `posts.j
 
 ---
 
-_ransomware.live_ is [licensed](https://github.com/jmousqueton/ransomware.live/blob/main/LICENSE) under [unlicense.org](https://unlicense.org)_
+_ransomware.live is [licensed](https://github.com/jmousqueton/ransomware.live/blob/main/LICENSE) under [unlicense.org](https://unlicense.org)_
