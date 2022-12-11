@@ -131,7 +131,7 @@ def indexpage():
             screen=''
             if os.path.exists('docs/screenshots/'+screenshot):
                 screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
-            line = '| [' + group['name'] + '](https://ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
+            line = '| [' + group['name'] + '](https://www.ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
             writeline(index_sheet, line)
 
 def sidebar():
@@ -208,7 +208,7 @@ def recentpage():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://ransomware.live/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://www.ransomware.live/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     writeline(recentpage, '')
@@ -237,7 +237,7 @@ def allposts():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://ransomware.live/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://www.ransomware.live/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(allpage, line)
     writeline(allpage, '')
