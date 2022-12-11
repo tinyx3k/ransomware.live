@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-11 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | [ransomexx](profiles.md?id=ransomexx) |
 | 2022-12-11 | [`Municipalidad de belen`](https://google.com/search?q=Municipalidad+de+belen) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](profiles.md?id=karakurt) |
@@ -201,6 +202,5 @@
 | 2022-11-24 | [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-24 | [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-24 | [`Rentz Management`](https://google.com/search?q=Rentz+Management) | [bianlian](profiles.md?id=bianlian) |
-| 2022-11-24 | [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Sunday 11/12/2022 16.27 (UTC)_
+Last update : _Sunday 11/12/2022 18.02 (UTC)_
