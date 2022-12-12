@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5548` posts_
+_All `5549` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,7 @@ _All `5548` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-12 | [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`2networkit`](https://google.com/search?q=2networkit) | [cuba](profiles.md?id=cuba) |
 | 2022-12-11 | [`Una Seguros`](https://google.com/search?q=Una+Seguros) | [play](profiles.md?id=play) |
@@ -5557,4 +5558,4 @@ _All `5548` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 12/12/2022 11.12 (UTC)_
+Last update : _Monday 12/12/2022 11.58 (UTC)_
