@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-12 | [`2networkit`](https://google.com/search?q=2networkit) | [cuba](profiles.md?id=cuba) |
 | 2022-12-11 | [`Una Seguros`](https://google.com/search?q=Una+Seguros) | [play](profiles.md?id=play) |
 | 2022-12-11 | [`Antwerpen`](https://google.com/search?q=Antwerpen) | [play](profiles.md?id=play) |
 | 2022-12-11 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | [ransomexx](profiles.md?id=ransomexx) |
@@ -201,6 +202,5 @@
 | 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-24 | [`Centura College`](https://google.com/search?q=Centura+College) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-24 | [`Versah`](https://google.com/search?q=Versah) | [bianlian](profiles.md?id=bianlian) |
-| 2022-11-24 | [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Monday 12/12/2022 08.00 (UTC)_
+Last update : _Monday 12/12/2022 09.25 (UTC)_
