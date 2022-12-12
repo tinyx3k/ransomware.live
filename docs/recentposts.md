@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-12 | [`financierareyes.com.mx`](https://google.com/search?q=financierareyes.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`2networkit`](https://google.com/search?q=2networkit) | [cuba](profiles.md?id=cuba) |
@@ -201,6 +202,5 @@
 | 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](profiles.md?id=bianlian) |
-| 2022-11-24 | [`Modular Mining`](https://google.com/search?q=Modular+Mining) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Monday 12/12/2022 11.58 (UTC)_
+Last update : _Monday 12/12/2022 13.41 (UTC)_
