@@ -818,6 +818,9 @@ _`captcha prevents indexing`_
 | `Ability Commerce` | 05/12/2022 |
 | `Golden Coin Bake Shop and Restaurant` | 05/12/2022 |
 | `Bonn Nutrients Pvt` | 05/12/2022 |
+| `*****a*** law` | 12/12/2022 |
+| `BRYCON Construction` | 12/12/2022 |
+| `Modular Mining Systems` | 12/12/2022 |
 
  --- 
 
@@ -5422,6 +5425,13 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | `amazing-global.com` | 12/12/2022 |
 | `dof.ca.gov` | 12/12/2022 |
 | `financierareyes.com.mx` | 12/12/2022 |
+| `jieh.vn` | 12/12/2022 |
+| `k-toko.com` | 12/12/2022 |
+| `luxeprint.com.tw` | 12/12/2022 |
+| `rkfoodland.com` | 12/12/2022 |
+| `sentecgroup.com` | 12/12/2022 |
+| `tdtu.edu.vn` | 12/12/2022 |
+| `veolus.com` | 12/12/2022 |
 
  --- 
 
@@ -8140,4 +8150,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 12/12/2022 13.41 (UTC)_
+Last update : _Monday 12/12/2022 15.13 (UTC)_

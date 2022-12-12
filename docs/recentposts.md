@@ -2,6 +2,16 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-12 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-12 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-12 | [`*****a*** law`](https://google.com/search?q=%2A%2A%2A%2A%2Aa%2A%2A%2A+law) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-12 | [`veolus.com`](https://google.com/search?q=veolus.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`tdtu.edu.vn`](https://google.com/search?q=tdtu.edu.vn) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`sentecgroup.com`](https://google.com/search?q=sentecgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`rkfoodland.com`](https://google.com/search?q=rkfoodland.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`luxeprint.com.tw`](https://google.com/search?q=luxeprint.com.tw) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`k-toko.com`](https://google.com/search?q=k-toko.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`jieh.vn`](https://google.com/search?q=jieh.vn) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`financierareyes.com.mx`](https://google.com/search?q=financierareyes.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -192,15 +202,5 @@
 | 2022-11-27 | [`GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA`](https://google.com/search?q=GLEN+DIMPLEX+GROUP+UNITS+WERE+HACKED+%28DEFOND%2C+DEFONDTECH+AND+OTHER%29.+MORE+THAN+1TB+DATA+WA) | [lv](profiles.md?id=lv) |
 | 2022-11-26 | [`PVFCCo`](https://google.com/search?q=PVFCCo) | [play](profiles.md?id=play) |
 | 2022-11-26 | [`Leadtek`](https://google.com/search?q=Leadtek) | [play](profiles.md?id=play) |
-| 2022-11-26 | [`Alcomet`](https://google.com/search?q=Alcomet) | [play](profiles.md?id=play) |
-| 2022-11-26 | [`Ministry of Transport and Public Works`](https://google.com/search?q=Ministry+of+Transport+and+Public+Works) | [play](profiles.md?id=play) |
-| 2022-11-26 | [`Itsgroup`](https://google.com/search?q=Itsgroup) | [play](profiles.md?id=play) |
-| 2022-11-26 | [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | [play](profiles.md?id=play) |
-| 2022-11-26 | [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | [play](profiles.md?id=play) |
-| 2022-11-26 | [`https://www.friedmanlawoffices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.friedmanlawoffices.com%2F) | [royal](profiles.md?id=royal) |
-| 2022-11-25 | [`Guilford College`](https://google.com/search?q=Guilford+College) | [hive](profiles.md?id=hive) |
-| 2022-11-25 | [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
-| 2022-11-25 | [`ITM`](https://google.com/search?q=ITM) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-11-24 | [`Myton School`](https://google.com/search?q=Myton+School) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Monday 12/12/2022 13.41 (UTC)_
+Last update : _Monday 12/12/2022 15.13 (UTC)_

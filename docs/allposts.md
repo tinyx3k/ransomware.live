@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5550` posts_
+_All `5560` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,16 @@ _All `5550` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-12 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-12 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-12 | [`*****a*** law`](https://google.com/search?q=%2A%2A%2A%2A%2Aa%2A%2A%2A+law) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-12 | [`veolus.com`](https://google.com/search?q=veolus.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`tdtu.edu.vn`](https://google.com/search?q=tdtu.edu.vn) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`sentecgroup.com`](https://google.com/search?q=sentecgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`rkfoodland.com`](https://google.com/search?q=rkfoodland.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`luxeprint.com.tw`](https://google.com/search?q=luxeprint.com.tw) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`k-toko.com`](https://google.com/search?q=k-toko.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-12 | [`jieh.vn`](https://google.com/search?q=jieh.vn) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`financierareyes.com.mx`](https://google.com/search?q=financierareyes.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-12 | [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5559,4 +5569,4 @@ _All `5550` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 12/12/2022 13.41 (UTC)_
+Last update : _Monday 12/12/2022 15.13 (UTC)_
