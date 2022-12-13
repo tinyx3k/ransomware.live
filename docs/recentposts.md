@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-13 | [`http://www.pinnaclecommunications.com`](https://google.com/search?q=http%3A%2F%2Fwww.pinnaclecommunications.com) | [royal](profiles.md?id=royal) |
 | 2022-12-13 | [`PARIC CORPORATION`](https://google.com/search?q=PARIC+CORPORATION) | [alphv](profiles.md?id=alphv) |
 | 2022-12-13 | [`Schnee Berger`](https://google.com/search?q=Schnee+Berger) | [alphv](profiles.md?id=alphv) |
 | 2022-12-13 | [`V3 Companies`](https://google.com/search?q=V3+Companies) | [alphv](profiles.md?id=alphv) |
@@ -201,6 +202,5 @@
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`Samrin Services Pvt Ltd`](https://google.com/search?q=Samrin+Services+Pvt+Ltd) | [bianlian](profiles.md?id=bianlian) |
-| 2022-11-27 | [`Altec Engineering LLC`](https://google.com/search?q=Altec+Engineering+LLC) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Tuesday 13/12/2022 13.13 (UTC)_
+Last update : _Tuesday 13/12/2022 14.50 (UTC)_
