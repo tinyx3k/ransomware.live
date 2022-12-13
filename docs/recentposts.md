@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-13 | [`Pella`](https://google.com/search?q=Pella) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-12-13 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-12-13 | [`http://www.pinnaclecommunications.com`](https://google.com/search?q=http%3A%2F%2Fwww.pinnaclecommunications.com) | [royal](profiles.md?id=royal) |
 | 2022-12-13 | [`PARIC CORPORATION`](https://google.com/search?q=PARIC+CORPORATION) | [alphv](profiles.md?id=alphv) |
@@ -201,6 +202,5 @@
 | 2022-11-28 | [`IKEA Morocco`](https://google.com/search?q=IKEA+Morocco) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-11-28 | [`STGi`](https://google.com/search?q=STGi) | [snatch](profiles.md?id=snatch) |
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](profiles.md?id=bianlian) |
-| 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Tuesday 13/12/2022 19.00 (UTC)_
+Last update : _Tuesday 13/12/2022 21.02 (UTC)_
