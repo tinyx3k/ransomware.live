@@ -203,4 +203,4 @@
 | 2022-11-28 | [`IKEA Morocco`](https://google.com/search?q=IKEA+Morocco) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-11-28 | [`STGi`](https://google.com/search?q=STGi) | [snatch](profiles.md?id=snatch) |
 
-Last update : _Tuesday 13/12/2022 23.08 (UTC)_
+Last update : _Tuesday 13/12/2022 22.59 (UTC)_
