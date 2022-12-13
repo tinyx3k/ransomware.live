@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5560` posts_
+_All `5561` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,7 @@ _All `5560` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-13 | [`Cetrogar`](https://google.com/search?q=Cetrogar) | [play](profiles.md?id=play) |
 | 2022-12-12 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-12 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-12 | [`*****a*** law`](https://google.com/search?q=%2A%2A%2A%2A%2Aa%2A%2A%2A+law) | [bianlian](profiles.md?id=bianlian) |
@@ -5569,4 +5570,4 @@ _All `5560` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 12/12/2022 22.56 (UTC)_
+Last update : _Tuesday 13/12/2022 02.24 (UTC)_
