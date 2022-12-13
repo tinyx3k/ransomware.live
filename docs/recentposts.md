@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-13 | [`VFS`](https://google.com/search?q=VFS) | [play](profiles.md?id=play) |
 | 2022-12-13 | [`Cetrogar`](https://google.com/search?q=Cetrogar) | [play](profiles.md?id=play) |
 | 2022-12-12 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-12 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [bianlian](profiles.md?id=bianlian) |
@@ -201,6 +202,5 @@
 | 2022-11-27 | [`Block Buildings LLC`](https://google.com/search?q=Block+Buildings+LLC) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`Badger Truck Refrigeration, Inc`](https://google.com/search?q=Badger+Truck+Refrigeration%2C+Inc) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA`](https://google.com/search?q=GLEN+DIMPLEX+GROUP+UNITS+WERE+HACKED+%28DEFOND%2C+DEFONDTECH+AND+OTHER%29.+MORE+THAN+1TB+DATA+WA) | [lv](profiles.md?id=lv) |
-| 2022-11-26 | [`PVFCCo`](https://google.com/search?q=PVFCCo) | [play](profiles.md?id=play) |
 
-Last update : _Tuesday 13/12/2022 02.24 (UTC)_
+Last update : _Tuesday 13/12/2022 03.24 (UTC)_
