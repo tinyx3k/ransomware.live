@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-13 | [`Schnee Berger`](https://google.com/search?q=Schnee+Berger) | [alphv](profiles.md?id=alphv) |
 | 2022-12-13 | [`V3 Companies`](https://google.com/search?q=V3+Companies) | [alphv](profiles.md?id=alphv) |
 | 2022-12-13 | [`VFS`](https://google.com/search?q=VFS) | [play](profiles.md?id=play) |
 | 2022-12-13 | [`Cetrogar`](https://google.com/search?q=Cetrogar) | [play](profiles.md?id=play) |
@@ -201,6 +202,5 @@
 | 2022-11-27 | [`Samrin Services Pvt Ltd`](https://google.com/search?q=Samrin+Services+Pvt+Ltd) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`Altec Engineering LLC`](https://google.com/search?q=Altec+Engineering+LLC) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`Block Buildings LLC`](https://google.com/search?q=Block+Buildings+LLC) | [bianlian](profiles.md?id=bianlian) |
-| 2022-11-27 | [`Badger Truck Refrigeration, Inc`](https://google.com/search?q=Badger+Truck+Refrigeration%2C+Inc) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Tuesday 13/12/2022 05.08 (UTC)_
+Last update : _Tuesday 13/12/2022 06.53 (UTC)_
