@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-14 | [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2022-12-13 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-13 | [`Pella`](https://google.com/search?q=Pella) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-12-13 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | [ragnarlocker](profiles.md?id=ragnarlocker) |
@@ -201,6 +202,5 @@
 | 2022-11-28 | [`MARCELSOLUTION.COM FILES PART8 - 192.168.12.120\E$\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART8+-+192.168.12.120%5CE%24%5CDATA%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
 | 2022-11-28 | [`https://tubularsteel.ca`](https://google.com/search?q=https%3A%2F%2Ftubularsteel.ca) | [royal](profiles.md?id=royal) |
 | 2022-11-28 | [`IKEA Morocco`](https://google.com/search?q=IKEA+Morocco) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-11-28 | [`STGi`](https://google.com/search?q=STGi) | [snatch](profiles.md?id=snatch) |
 
-Last update : _Tuesday 13/12/2022 22.59 (UTC)_
+Last update : _Wednesday 14/12/2022 02.15 (UTC)_
