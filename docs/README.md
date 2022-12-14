@@ -11,7 +11,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🕓 There have been `182` posts within the `month of december`
 
-📅 There have been `836` posts within the `last 90 days`
+📅 There have been `835` posts within the `last 90 days`
 
 🏚 There have been `3286` posts since the `1st January 2022`
 
@@ -31,5 +31,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Wednesday 14/12/2022 14.58 (UTC)_
+Last update : _Wednesday 14/12/2022 17.02 (UTC)_
 
