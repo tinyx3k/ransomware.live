@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5571` posts_
+_All `5572` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,7 @@ _All `5571` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-14 | [`Petmate`](https://google.com/search?q=Petmate) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-12-14 | [`TEIJIN AUTOMOTIVE TECHNOLOGIES`](https://google.com/search?q=TEIJIN+AUTOMOTIVE+TECHNOLOGIES) | [alphv](profiles.md?id=alphv) |
 | 2022-12-14 | [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2022-12-13 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | [karakurt](profiles.md?id=karakurt) |
@@ -5580,4 +5581,4 @@ _All `5571` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 14/12/2022 06.57 (UTC)_
+Last update : _Wednesday 14/12/2022 08.33 (UTC)_
