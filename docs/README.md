@@ -15,7 +15,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🏚 There have been `3286` posts since the `1st January 2022`
 
-📸 There are `111` ransomware group host screenshots
+📸 There are `110` ransomware group host screenshots
 
 📝 There are `88` ransomware notes
 
@@ -31,5 +31,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Wednesday 14/12/2022 08.33 (UTC)_
+Last update : _Wednesday 14/12/2022 09.00 (UTC)_
 
