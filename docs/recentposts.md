@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-15 | [`Universidade Catolica Portuguesa`](https://google.com/search?q=Universidade+Catolica+Portuguesa) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-15 | [`http://vincentfister.com`](https://google.com/search?q=http%3A%2F%2Fvincentfister.com) | [royal](profiles.md?id=royal) |
 | 2022-12-15 | [`Events DC`](https://google.com/search?q=Events+DC) | [alphv](profiles.md?id=alphv) |
 | 2022-12-15 | [`Bailey Cavalieri LLC`](https://google.com/search?q=Bailey+Cavalieri+LLC) | [alphv](profiles.md?id=alphv) |
@@ -201,6 +202,5 @@
 | 2022-11-28 | [`https://www.cates.com`](https://google.com/search?q=https%3A%2F%2Fwww.cates.com) | [royal](profiles.md?id=royal) |
 | 2022-11-28 | [`kusd.edu`](https://google.com/search?q=kusd.edu) | [revil](profiles.md?id=revil) |
 | 2022-11-28 | [`Sunknowledge Services Inc`](https://google.com/search?q=Sunknowledge+Services+Inc) | [revil](profiles.md?id=revil) |
-| 2022-11-28 | [`Verity cloud`](https://google.com/search?q=Verity+cloud) | [play](profiles.md?id=play) |
 
-Last update : _Thursday 15/12/2022 18.53 (UTC)_
+Last update : _Thursday 15/12/2022 20.53 (UTC)_
