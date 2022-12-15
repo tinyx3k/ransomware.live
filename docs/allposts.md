@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5579` posts_
+_All `5591` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,18 @@ _All `5579` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-15 | [`Rudman`](https://google.com/search?q=Rudman) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Spa`](https://google.com/search?q=Spa) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Meisenkothen`](https://google.com/search?q=Meisenkothen) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Restaurant`](https://google.com/search?q=Restaurant) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Hci Systems Inc`](https://google.com/search?q=Hci+Systems+Inc) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Emilio Sanchez American School`](https://google.com/search?q=Emilio+Sanchez+American+School) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`Aria systems`](https://google.com/search?q=Aria+systems) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`CIMT College`](https://google.com/search?q=CIMT+College) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`ZXP Technologies`](https://google.com/search?q=ZXP+Technologies) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-15 | [`https://www.leohamel.com`](https://google.com/search?q=https%3A%2F%2Fwww.leohamel.com) | [royal](profiles.md?id=royal) |
 | 2022-12-15 | [`Universidade Catolica Portuguesa`](https://google.com/search?q=Universidade+Catolica+Portuguesa) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-15 | [`http://vincentfister.com`](https://google.com/search?q=http%3A%2F%2Fvincentfister.com) | [royal](profiles.md?id=royal) |
 | 2022-12-15 | [`Events DC`](https://google.com/search?q=Events+DC) | [alphv](profiles.md?id=alphv) |
@@ -5588,4 +5600,4 @@ _All `5579` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 15/12/2022 20.53 (UTC)_
+Last update : _Thursday 15/12/2022 23.14 (UTC)_

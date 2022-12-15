@@ -653,6 +653,7 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | AvosLocker Access Queue | 🟢 | 15/12/2022 20:22 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
+| none | 🔴 | 01/05/2021 00:00 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | ❌ | 
 
 ### Ransom note
 * 📝 <a href="/ransomware_notes/avoslocker/avoslocker.txt" target=_blank>`Check ransomware note`</a>
@@ -827,6 +828,17 @@ _`captcha prevents indexing`_
 | `*****a*** law` | 12/12/2022 |
 | `BRYCON Construction` | 12/12/2022 |
 | `Modular Mining Systems` | 12/12/2022 |
+| `ZXP Technologies` | 15/12/2022 |
+| `CIMT College` | 15/12/2022 |
+| `Aria systems` | 15/12/2022 |
+| `Emilio Sanchez American School` | 15/12/2022 |
+| `Eureka Casino Resort` | 15/12/2022 |
+| `Hci Systems Inc` | 15/12/2022 |
+| `Restaurant` | 15/12/2022 |
+| `Company, LLC` | 15/12/2022 |
+| `Meisenkothen` | 15/12/2022 |
+| `Spa` | 15/12/2022 |
+| `Rudman` | 15/12/2022 |
 
  --- 
 
@@ -7476,6 +7488,7 @@ _`shut down & offering a decryptor`_
 | `https://afasd.net` | 07/12/2022 |
 | `http://www.pinnaclecommunications.com` | 13/12/2022 |
 | `http://vincentfister.com` | 15/12/2022 |
+| `https://www.leohamel.com` | 15/12/2022 |
 
  --- 
 
@@ -8169,4 +8182,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 15/12/2022 20.53 (UTC)_
+Last update : _Thursday 15/12/2022 23.14 (UTC)_
