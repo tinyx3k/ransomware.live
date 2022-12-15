@@ -203,4 +203,4 @@
 | 2022-11-28 | [`Sunknowledge Services Inc`](https://google.com/search?q=Sunknowledge+Services+Inc) | [revil](profiles.md?id=revil) |
 | 2022-11-28 | [`Verity cloud`](https://google.com/search?q=Verity+cloud) | [play](profiles.md?id=play) |
 
-Last update : _Thursday 15/12/2022 17.14 (UTC)_
+Last update : _Thursday 15/12/2022 18.53 (UTC)_
