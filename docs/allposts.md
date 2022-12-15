@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5575` posts_
+_All `5576` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,7 @@ _All `5575` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-15 | [`Bailey Cavalieri LLC`](https://google.com/search?q=Bailey+Cavalieri+LLC) | [alphv](profiles.md?id=alphv) |
 | 2022-12-15 | [`mcft.com`](https://google.com/search?q=mcft.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-14 | [`Mark-Taylor`](https://google.com/search?q=Mark-Taylor) | [hive](profiles.md?id=hive) |
 | 2022-12-14 | [`Expand Group`](https://google.com/search?q=Expand+Group) | [hive](profiles.md?id=hive) |
@@ -5584,4 +5585,4 @@ _All `5575` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 15/12/2022 03.31 (UTC)_
+Last update : _Thursday 15/12/2022 04.57 (UTC)_

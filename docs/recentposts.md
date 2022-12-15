@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-15 | [`Bailey Cavalieri LLC`](https://google.com/search?q=Bailey+Cavalieri+LLC) | [alphv](profiles.md?id=alphv) |
 | 2022-12-15 | [`mcft.com`](https://google.com/search?q=mcft.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-14 | [`Mark-Taylor`](https://google.com/search?q=Mark-Taylor) | [hive](profiles.md?id=hive) |
 | 2022-12-14 | [`Expand Group`](https://google.com/search?q=Expand+Group) | [hive](profiles.md?id=hive) |
@@ -201,6 +202,5 @@
 | 2022-11-28 | [`Verity cloud`](https://google.com/search?q=Verity+cloud) | [play](profiles.md?id=play) |
 | 2022-11-28 | [`???????????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-11-28 | [`???? ?????`](https://google.com/search?q=%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
-| 2022-11-28 | [`bankseta.org.za`](https://google.com/search?q=bankseta.org.za) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 15/12/2022 03.31 (UTC)_
+Last update : _Thursday 15/12/2022 04.57 (UTC)_
