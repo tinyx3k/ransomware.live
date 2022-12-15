@@ -203,4 +203,4 @@
 | 2022-11-28 | [`bankseta.org.za`](https://google.com/search?q=bankseta.org.za) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-11-28 | [`LOESCHGROUP.DE FILES PART6 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART6+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
 
-Last update : _Wednesday 14/12/2022 22.57 (UTC)_
+Last update : _Thursday 15/12/2022 02.19 (UTC)_
