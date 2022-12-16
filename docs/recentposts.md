@@ -2,21 +2,36 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-16 | [`Q.E.P`](https://google.com/search?q=Q.E.P) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`The Keenan Agency Inc`](https://google.com/search?q=The+Keenan+Agency+Inc) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Lamtec`](https://google.com/search?q=Lamtec) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Naulty, Scaricamazza and McDevitt, LLC`](https://google.com/search?q=Naulty%2C+Scaricamazza+and+McDevitt%2C+LLC) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Cristal Controls`](https://google.com/search?q=Cristal+Controls) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`M2S Electronics`](https://google.com/search?q=M2S+Electronics) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Los Angeles Business Journal`](https://google.com/search?q=Los+Angeles+Business+Journal) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Virginia Farm Bureau`](https://google.com/search?q=Virginia+Farm+Bureau) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`McAndrews Law Offices`](https://google.com/search?q=McAndrews+Law+Offices) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Law Firm of Friedman + Bartoumian`](https://google.com/search?q=Law+Firm+of+Friedman+%2B+Bartoumian) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Tubular Steel Inc`](https://google.com/search?q=Tubular+Steel+Inc) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`RMCLAW`](https://google.com/search?q=RMCLAW) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Cates Control Systems`](https://google.com/search?q=Cates+Control+Systems) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Trussbilt LLC`](https://google.com/search?q=Trussbilt+LLC) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Duplicator Sales &amp; Service`](https://google.com/search?q=Duplicator+Sales+%26amp%3B+Service) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`PGT Innovations`](https://google.com/search?q=PGT+Innovations) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Summit`](https://google.com/search?q=Summit) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Adams-Friendship Area School District`](https://google.com/search?q=Adams-Friendship+Area+School+District) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Vincent Fister`](https://google.com/search?q=Vincent+Fister) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Leo Hamel Fine Jewelers`](https://google.com/search?q=Leo+Hamel+Fine+Jewelers) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Gage Brothers`](https://google.com/search?q=Gage+Brothers) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-15 | [`Rudman`](https://google.com/search?q=Rudman) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-15 | [`Spa`](https://google.com/search?q=Spa) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Meisenkothen`](https://google.com/search?q=Meisenkothen) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-15 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-15 | [`Restaurant`](https://google.com/search?q=Restaurant) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Hci Systems Inc`](https://google.com/search?q=Hci+Systems+Inc) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Emilio Sanchez American School`](https://google.com/search?q=Emilio+Sanchez+American+School) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Aria systems`](https://google.com/search?q=Aria+systems) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`CIMT College`](https://google.com/search?q=CIMT+College) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`ZXP Technologies`](https://google.com/search?q=ZXP+Technologies) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-15 | [`https://www.leohamel.com`](https://google.com/search?q=https%3A%2F%2Fwww.leohamel.com) | [royal](profiles.md?id=royal) |
 | 2022-12-15 | [`Universidade Catolica Portuguesa`](https://google.com/search?q=Universidade+Catolica+Portuguesa) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-15 | [`http://vincentfister.com`](https://google.com/search?q=http%3A%2F%2Fvincentfister.com) | [royal](profiles.md?id=royal) |
 | 2022-12-15 | [`Events DC`](https://google.com/search?q=Events+DC) | [alphv](profiles.md?id=alphv) |
 | 2022-12-15 | [`Bailey Cavalieri LLC`](https://google.com/search?q=Bailey+Cavalieri+LLC) | [alphv](profiles.md?id=alphv) |
 | 2022-12-15 | [`mcft.com`](https://google.com/search?q=mcft.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -28,7 +43,6 @@
 | 2022-12-13 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-13 | [`Pella`](https://google.com/search?q=Pella) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-12-13 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | [ragnarlocker](profiles.md?id=ragnarlocker) |
-| 2022-12-13 | [`http://www.pinnaclecommunications.com`](https://google.com/search?q=http%3A%2F%2Fwww.pinnaclecommunications.com) | [royal](profiles.md?id=royal) |
 | 2022-12-13 | [`PARIC CORPORATION`](https://google.com/search?q=PARIC+CORPORATION) | [alphv](profiles.md?id=alphv) |
 | 2022-12-13 | [`Schnee Berger`](https://google.com/search?q=Schnee+Berger) | [alphv](profiles.md?id=alphv) |
 | 2022-12-13 | [`V3 Companies`](https://google.com/search?q=V3+Companies) | [alphv](profiles.md?id=alphv) |
@@ -122,7 +136,6 @@
 | 2022-12-08 | [`????`](https://google.com/search?q=%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-12-07 | [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | [lorenz](profiles.md?id=lorenz) |
 | 2022-12-07 | [`test`](https://google.com/search?q=test) | [monti](profiles.md?id=monti) |
-| 2022-12-07 | [`https://afasd.net`](https://google.com/search?q=https%3A%2F%2Fafasd.net) | [royal](profiles.md?id=royal) |
 | 2022-12-07 | [`Requena`](https://google.com/search?q=Requena) | [alphv](profiles.md?id=alphv) |
 | 2022-12-07 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](profiles.md?id=play) |
 | 2022-12-07 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](profiles.md?id=play) |
@@ -171,8 +184,6 @@
 | 2022-12-05 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-05 | [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-05 | [`brunoy.fr`](https://google.com/search?q=brunoy.fr) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-04 | [`https://www.trussbilt.com`](https://google.com/search?q=https%3A%2F%2Fwww.trussbilt.com) | [royal](profiles.md?id=royal) |
-| 2022-12-04 | [`https://duplicatorsales.net/`](https://google.com/search?q=https%3A%2F%2Fduplicatorsales.net%2F) | [royal](profiles.md?id=royal) |
 | 2022-12-04 | [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | [alphv](profiles.md?id=alphv) |
 | 2022-12-04 | [`Cappagh Contractors Construction (London) Ltd`](https://google.com/search?q=Cappagh+Contractors+Construction+%28London%29+Ltd) | [alphv](profiles.md?id=alphv) |
 | 2022-12-04 | [`abilways.com`](https://google.com/search?q=abilways.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -191,16 +202,5 @@
 | 2022-12-02 | [`adamjeeinsurance.com`](https://google.com/search?q=adamjeeinsurance.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`8x8.com`](https://google.com/search?q=8x8.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | [dataleak](profiles.md?id=dataleak) |
-| 2022-12-02 | [`rkw-group.com Disclose the compressed package password`](https://google.com/search?q=rkw-group.com+Disclose+the+compressed+package+password) | [dataleak](profiles.md?id=dataleak) |
-| 2022-12-02 | [`ni*usa.com`](https://google.com/search?q=ni%2Ausa.com) | [dataleak](profiles.md?id=dataleak) |
-| 2022-12-02 | [`wiesauplast.de`](https://google.com/search?q=wiesauplast.de) | [dataleak](profiles.md?id=dataleak) |
-| 2022-12-02 | [`grantweber.com`](https://google.com/search?q=grantweber.com) | [dataleak](profiles.md?id=dataleak) |
-| 2022-12-02 | [`The Beacon Insurance Company Limited`](https://google.com/search?q=The+Beacon+Insurance+Company+Limited) | [dataleak](profiles.md?id=dataleak) |
-| 2022-12-01 | [`Maple Leaf Foods`](https://google.com/search?q=Maple+Leaf+Foods) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-12-01 | [`ENPPI - HACKED AND MORE THEN 1100 GB DATA LEAKED!`](https://google.com/search?q=ENPPI+-+HACKED+AND+MORE+THEN+1100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
-| 2022-12-01 | [`Jubilant`](https://google.com/search?q=Jubilant) | [alphv](profiles.md?id=alphv) |
-| 2022-12-01 | [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | [alphv](profiles.md?id=alphv) |
-| 2022-12-01 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](profiles.md?id=alphv) |
-| 2022-12-01 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | [cuba](profiles.md?id=cuba) |
 
-Last update : _Friday 16/12/2022 06.54 (UTC)_
+Last update : _Friday 16/12/2022 09.58 (UTC)_

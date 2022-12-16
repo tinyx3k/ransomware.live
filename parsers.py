@@ -738,9 +738,9 @@ def omega():
 
 def bianlian():
     stdlog('parser: ' + 'bianlian')
-    # sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' |  egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' 
+    # sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o "([A-Za-z0-9 ,\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d'
     parser = '''
-    sed -n '/<a href=\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' | egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' | egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -839,7 +839,7 @@ def mallox():
 def royal():
     stdlog('parser: ' + 'royal')
     parser = '''
-    jq -r '.data[].url' source/royal-royal4ezp7xr*.html || true
+    jq -r '.data[].title' source/royal-royal4ezp7xr*.html || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:
@@ -918,7 +918,7 @@ def nokoyawa():
 def karakurt():
     stdlog('parser: ' + 'karakurt')
     parser = '''
-    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//'
+    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

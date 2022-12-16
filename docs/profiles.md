@@ -834,10 +834,7 @@ _`captcha prevents indexing`_
 | `Emilio Sanchez American School` | 15/12/2022 |
 | `Eureka Casino Resort` | 15/12/2022 |
 | `Hci Systems Inc` | 15/12/2022 |
-| `Restaurant` | 15/12/2022 |
-| `Company, LLC` | 15/12/2022 |
 | `Meisenkothen` | 15/12/2022 |
-| `Spa` | 15/12/2022 |
 | `Rudman` | 15/12/2022 |
 
  --- 
@@ -7484,12 +7481,26 @@ _`shut down & offering a decryptor`_
 | `http://www.yoursummit.com` | 02/12/2022 |
 | `http://www.pgtinnovations.com` | 02/12/2022 |
 | `https://allseasonmovers.com` | 03/12/2022 |
-| `https://duplicatorsales.net/` | 04/12/2022 |
-| `https://www.trussbilt.com` | 04/12/2022 |
-| `https://afasd.net` | 07/12/2022 |
-| `http://www.pinnaclecommunications.com` | 13/12/2022 |
-| `http://vincentfister.com` | 15/12/2022 |
-| `https://www.leohamel.com` | 15/12/2022 |
+| `Leo Hamel Fine Jewelers` | 16/12/2022 |
+| `Vincent Fister` | 16/12/2022 |
+| `Adams-Friendship Area School District` | 16/12/2022 |
+| `Summit` | 16/12/2022 |
+| `PGT Innovations` | 16/12/2022 |
+| `Duplicator Sales &amp; Service` | 16/12/2022 |
+| `Trussbilt LLC` | 16/12/2022 |
+| `Cates Control Systems` | 16/12/2022 |
+| `RMCLAW` | 16/12/2022 |
+| `Tubular Steel Inc` | 16/12/2022 |
+| `Law Firm of Friedman + Bartoumian` | 16/12/2022 |
+| `McAndrews Law Offices` | 16/12/2022 |
+| `Virginia Farm Bureau` | 16/12/2022 |
+| `Los Angeles Business Journal` | 16/12/2022 |
+| `M2S Electronics` | 16/12/2022 |
+| `Cristal Controls` | 16/12/2022 |
+| `Naulty, Scaricamazza and McDevitt, LLC` | 16/12/2022 |
+| `Lamtec` | 16/12/2022 |
+| `The Keenan Agency Inc` | 16/12/2022 |
+| `Q.E.P` | 16/12/2022 |
 
  --- 
 
@@ -8183,4 +8194,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 16/12/2022 06.54 (UTC)_
+Last update : _Friday 16/12/2022 09.58 (UTC)_
