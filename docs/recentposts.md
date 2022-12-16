@@ -203,4 +203,4 @@
 | 2022-12-01 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](profiles.md?id=alphv) |
 | 2022-12-01 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | [cuba](profiles.md?id=cuba) |
 
-Last update : _Friday 16/12/2022 03.15 (UTC)_
+Last update : _Friday 16/12/2022 05.09 (UTC)_
