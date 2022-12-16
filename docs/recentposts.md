@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](profiles.md?id=play) |
 | 2022-12-16 | [`JMicron`](https://google.com/search?q=JMicron) | [play](profiles.md?id=play) |
 | 2022-12-16 | [`Mol`](https://google.com/search?q=Mol) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Publicare`](https://google.com/search?q=Publicare) | [vicesociety](profiles.md?id=vicesociety) |
@@ -201,6 +202,5 @@
 | 2022-12-02 | [`thorntontomasetti.com`](https://google.com/search?q=thorntontomasetti.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-02 | [`menziesaviation.com`](https://google.com/search?q=menziesaviation.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 16/12/2022 17.02 (UTC)_
+Last update : _Friday 16/12/2022 19.08 (UTC)_
