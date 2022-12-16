@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-16 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-16 | [`Q.E.P`](https://google.com/search?q=Q.E.P) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`The Keenan Agency Inc`](https://google.com/search?q=The+Keenan+Agency+Inc) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Lamtec`](https://google.com/search?q=Lamtec) | [royal](profiles.md?id=royal) |
@@ -201,6 +202,5 @@
 | 2022-12-02 | [`ckfinc.com`](https://google.com/search?q=ckfinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`adamjeeinsurance.com`](https://google.com/search?q=adamjeeinsurance.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`8x8.com`](https://google.com/search?q=8x8.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-02 | [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | [dataleak](profiles.md?id=dataleak) |
 
-Last update : _Friday 16/12/2022 09.58 (UTC)_
+Last update : _Friday 16/12/2022 09.31 (UTC)_

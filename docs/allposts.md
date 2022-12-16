@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5603` posts_
+_All `5604` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,7 @@ _All `5603` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-16 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-16 | [`Q.E.P`](https://google.com/search?q=Q.E.P) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`The Keenan Agency Inc`](https://google.com/search?q=The+Keenan+Agency+Inc) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Lamtec`](https://google.com/search?q=Lamtec) | [royal](profiles.md?id=royal) |
@@ -5612,4 +5613,4 @@ _All `5603` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 16/12/2022 09.58 (UTC)_
+Last update : _Friday 16/12/2022 09.31 (UTC)_
