@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-16 | [`Gage Brothers`](https://google.com/search?q=Gage+Brothers) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-15 | [`Rudman`](https://google.com/search?q=Rudman) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Spa`](https://google.com/search?q=Spa) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-15 | [`Meisenkothen`](https://google.com/search?q=Meisenkothen) | [bianlian](profiles.md?id=bianlian) |
@@ -201,6 +202,5 @@
 | 2022-12-01 | [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | [alphv](profiles.md?id=alphv) |
 | 2022-12-01 | [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | [alphv](profiles.md?id=alphv) |
 | 2022-12-01 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | [cuba](profiles.md?id=cuba) |
-| 2022-12-01 | [`Generator-power`](https://google.com/search?q=Generator-power) | [cuba](profiles.md?id=cuba) |
 
-Last update : _Thursday 15/12/2022 22.54 (UTC)_
+Last update : _Friday 16/12/2022 02.05 (UTC)_
