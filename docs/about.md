@@ -26,7 +26,7 @@ You can find more in [my resume](https://cv.julien.io) in English (also availabl
 
 ## 🔭 Sources 
 
-You can find all ransomware leaks in json format [here](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) or in CSV format [here](posts.csv).
+You can find all ransomware leaks in **json** format [here](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) or in **CSV** format [here](https://www.ransomware.live/posts.csv).
 
 ## ♻️ Changelog 
 

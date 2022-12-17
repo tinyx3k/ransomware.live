@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2022-12-17
 
-* Download ransomware leaks in CSV format : check [about page](about.md)
+* Download ransomware leaks in CSV format : check [All Posts](allposts.md)
 
 ### 2022-12-16
 

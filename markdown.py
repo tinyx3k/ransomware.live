@@ -231,7 +231,7 @@ def allposts():
     writeline(allpage, '') 
     writeline(allpage, '💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format')
     writeline(allpage, '')
-    writeline(allpage, '💾 [Download](posts.csv) full list in **csv** format')
+    writeline(allpage, '💾 [Download](https://www.ransomware.live/posts.csv) full list in **csv** format')
     writeline(allpage, '')
     writeline(allpage, '')
     writeline(allpage, '| date | title | group |')
