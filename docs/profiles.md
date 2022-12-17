@@ -746,6 +746,10 @@ _`captcha prevents indexing`_
 ## **bianlian**
 
 ### External analysis
+- https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/
+
+- https://blogs.blackberry.com/en/2022/10/bianlian-ransomware-encrypts-files-in-the-blink-of-an-eye
+
 - A4B3B0845DA242A64BF17E0DB4278EDF85855739667D3E2AE8B89D5439015F07E81D12D767FC
 
 - SWikipedia@mail2tor.com
@@ -3081,7 +3085,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 ## **darkside**
 
 
->FireEye describes DARKSIDE as a ransomware written in C and configurable to target files whether on fixed, removable disks, or network shares. The malware can be customized by the affiliates to create a build for specific victims. 
+>Darkside ransomware group has started its operation in August of 2020 with the model of RaaS (Ransomware-as-a-Service). They have become known for their operations of large ransoms scale. They have announced that they prefer not to attack hospitals, schools, non-profits, and governments, but rather big organizations that can be able to pay large ransoms. Darkside ransomware group became very famous following the cyberattack of the Colonial Pipeline and Toshiba unit. The FBI finally terminate the Darkside operation and Managed to pull money from their wallets back.
 
 ### External analysis
 - https://blog.qualys.com/vulnerabilities-threat-research/2021/06/09/darkside-ransomware
@@ -3257,6 +3261,9 @@ _`captcha prevents indexing`_
  --- 
 
 ## **everest**
+
+
+>Everest ransom group collects and analyzes information about their victims. They specialize in customer privacy data, financial information, databases, credit card information, and more. The Everest ransom group leaks the victim's data to the darknet and they announced that any victim that will not contact them will suffer from a data leak and they will not delete hist files for future usage.
 
 ### External analysis
 - https://www.reuters.com/article/us-usa-products-colonial-pipeline-ransom/more-ransomware-websites-disappear-in-aftermath-of-colonial-pipeline-hack-idUSKCN2CX0KT
@@ -5622,6 +5629,9 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 ## **lv**
 
+
+>LV ransomware group main message: "Here are companies which didn't meet consumer data protection obligations. They rejected to fix their mistakes, they rejected to protect this data in the case when they could and had to ptotect it. These companies prefered to sell their private information, their employees' and customers' personal data". Security researchers claim that the LV group is utilizing the REvil ransomware group malware. The LV group claim to have compromised the corporate network of Groupe Reorev. 
+
 ### External analysis
 - https://www.secureworks.com/research/lv-ransomware
 
@@ -6054,6 +6064,9 @@ _`not a ransomware group`_
 
 ## **n3tworm**
 
+
+>N3tw0rm ransomware group is linked to Iran by many security researchers especially for the fact that the group targeting only Israeli companies. Like other ransomware groups, N3tw0rm has a data leak site in the darknet. Due to the low ransom price the group requested and lack of response to negotiations, some security researchers believe that the N3tw0rm group's main goal is to be used for sowing chaos for Israeli interests and not for profit. 
+
 ### External analysis
 - https://www.bleepingcomputer.com/news/security/n3tw0rm-ransomware-emerges-in-wave-of-cyberattacks-in-israel/
 
@@ -6137,6 +6150,9 @@ _`not a ransomware group`_
  --- 
 
 ## **netwalker**
+
+
+>NetWalker ransomware group operates by the threat actor known as "CIRCUS SPIDER". The NetWalker ransomware was discovered in 2019. The group mainly targeting the Asia Pacific region but can attack globally. The group uses common attacking tools like Mimikatz and other legitimate tools (LOLBINS) like PSTools, AnyDesk, TeamViewer, NLBrute, and more. The group knowing by targeting the healthcare sector. Finally, in January 2021, Netwalker was takedown by the authorities, the police have confiscated hundreds of thousands of dollars in ransom payments collected by the Netwalker group, and they seized servers and disrupted the infrastructure and the darknet websites of the Netwalker ransomware group. 
 
 ### External analysis
 - https://threatpost.com/netwalker-ransomware-suspect-charged/163405
@@ -6292,6 +6308,9 @@ _`aka vsop`_
  --- 
 
 ## **pay2key**
+
+
+>Pay2Key is ransomware that has been used by the threat actor Fox Kitten. The group seems to operate since July 2020, targetting mainly Israeli companies. Pay2Key has a darknet leak site to public stolen and sensitive information of their victims. Some of their victims: Intel - Habana Labs, IAI - Israel Aerospace Industries, Portnox - Network Security Solutions. 
 
 ### External analysis
 - https://research.checkpoint.com/2020/ransomware-alert-pay2key
@@ -7233,6 +7252,9 @@ _`shut down & offering a decryptor`_
 
 ## **ranzy**
 
+
+>Ranzy Locker, Former known as ThunderX. The group hosting a data leak site in the darknet where they posting sensitive information of victims who do not pay the ransom. ThunderX was launched at the end of August 2020. Soon after launching, weaknesses were found in the code, that allowed decrypting the files that the malware encrypted. The group has fixed the code and publish a new version, then released it under the name Ranzy Locker. The Tor onion URL used by the Ranzy Leak site is the same as the one used by Ako Ransomware. The use of the same URL could indicate that both groups merged, or they are cooperating similarly to the Maze cartel. 
+
 ### External analysis
 - https://blog.malwarebytes.com/ransomware/2021/10/threat-profile-ranzy-locker-ransomware/
 
@@ -7926,6 +7948,9 @@ _`nodes or hosts with no current attribution or identification`_
 
 ## **vicesociety**
 
+
+>Vice Society ransomware appends the .v-society extension when encrypting Linux machines. Running a leak site on the darkweb, Possible relations with "HelloKitty"
+
 _`ecdmr42axxx.onion - fileserver`_
 
 ### External analysis
@@ -8202,4 +8227,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Saturday 17/12/2022 15.54 (UTC)_
+Last update : _Saturday 17/12/2022 17.12 (UTC)_
