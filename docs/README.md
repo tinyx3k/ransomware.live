@@ -7,13 +7,13 @@ _december 17th, 2022_
 Check recent ransomware posts [`here`](recentposts.md)
 
 
-⏰ There have been `26` posts within the `last 24 hours`
+⏰ There have been `27` posts within the `last 24 hours`
 
-🕓 There have been `219` posts within the `month of december`
+🕓 There have been `220` posts within the `month of december`
 
-📅 There have been `861` posts within the `last 90 days`
+📅 There have been `862` posts within the `last 90 days`
 
-🏚 There have been `3323` posts since the `1st January 2022`
+🏚 There have been `3324` posts since the `1st January 2022`
 
 📸 There are `112` ransomware group host screenshots
 
@@ -21,7 +21,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🚀 There have been `2252` posts `last year`
 
-🐣 There have been `5609` posts `since the dawn of ransomware.live`
+🐣 There have been `5610` posts `since the dawn of ransomware.live`
 
 ⚙️ There are `70` custom parsers indexing posts
 
@@ -31,5 +31,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Saturday 17/12/2022 06.52 (UTC)_
+Last update : _Saturday 17/12/2022 08.53 (UTC)_
 

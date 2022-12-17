@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5609` posts_
+_All `5610` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in json format
@@ -9,6 +9,7 @@ _All `5609` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-17 | [`University Institute of Technology of Paris`](https://google.com/search?q=University+Institute+of+Technology+of+Paris) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](profiles.md?id=play) |
 | 2022-12-16 | [`JMicron`](https://google.com/search?q=JMicron) | [play](profiles.md?id=play) |
 | 2022-12-16 | [`Mol`](https://google.com/search?q=Mol) | [royal](profiles.md?id=royal) |
@@ -5618,4 +5619,4 @@ _All `5609` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 17/12/2022 06.52 (UTC)_
+Last update : _Saturday 17/12/2022 08.53 (UTC)_

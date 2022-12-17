@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-17 | [`University Institute of Technology of Paris`](https://google.com/search?q=University+Institute+of+Technology+of+Paris) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](profiles.md?id=play) |
 | 2022-12-16 | [`JMicron`](https://google.com/search?q=JMicron) | [play](profiles.md?id=play) |
 | 2022-12-16 | [`Mol`](https://google.com/search?q=Mol) | [royal](profiles.md?id=royal) |
@@ -201,6 +202,5 @@
 | 2022-12-02 | [`http://www.yoursummit.com`](https://google.com/search?q=http%3A%2F%2Fwww.yoursummit.com) | [royal](profiles.md?id=royal) |
 | 2022-12-02 | [`thorntontomasetti.com`](https://google.com/search?q=thorntontomasetti.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-02 | [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 17/12/2022 06.52 (UTC)_
+Last update : _Saturday 17/12/2022 08.53 (UTC)_
