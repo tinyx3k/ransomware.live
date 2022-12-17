@@ -838,6 +838,7 @@ _`captcha prevents indexing`_
 | `Rudman` | 15/12/2022 |
 | `Company, LLC` | 16/12/2022 |
 | `Spa` | 16/12/2022 |
+| `Australian Real Estate Group Pty Ltd` | 17/12/2022 |
 
  --- 
 
@@ -2987,7 +2988,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 10/11/2022 22:30 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` | ❌ | 
-| Data Leak | 🔴 | 17/12/2022 10:24 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
+| Data Leak | 🟢 | 17/12/2022 10:24 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
 ### Posts
 
 | post | date |
@@ -8201,4 +8202,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Saturday 17/12/2022 13.06 (UTC)_
+Last update : _Saturday 17/12/2022 15.54 (UTC)_

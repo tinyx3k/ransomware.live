@@ -943,7 +943,7 @@
                 "title": "Data Leak",
                 "version": 3,
                 "slug": "http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-17 10:24:51.816965",
                 "lastscrape": "2022-12-17 10:24:51.816909",
                 "enabled": true
