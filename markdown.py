@@ -329,7 +329,7 @@ def profilepage():
         writeline(profilepage, '')
         writeline(profilepage, '### Posts')
         writeline(profilepage, '')
-        writeline(profilepage, '> ' + str(grouppostcount(group['name'])) + ' post(s)')
+        writeline(profilepage, '> ' + grouppostcount(group['name']))
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')

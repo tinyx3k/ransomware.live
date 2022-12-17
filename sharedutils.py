@@ -295,9 +295,14 @@ def grouppostcount(groupname):
     grouppost_count = 0
     posts = openjson('posts.json')
     for post in posts:
-        groupnamejson = post['group_name']
-        if groupnamejson == groupname:
+        if post['group_name'] == groupname:
             grouppost_count += 1
+    if grouppost_count > 1:
+        grouppost_count = str(grouppost_count) + ' posts found'
+    elif grouppost_count == 1:
+        grouppost_count = '1 post found'
+    elif grouppost_count ==0:
+        grouppost_count = 'no post found'
     return grouppost_count
 
 def groupcount():
