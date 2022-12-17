@@ -203,4 +203,4 @@
 | 2022-12-02 | [`thorntontomasetti.com`](https://google.com/search?q=thorntontomasetti.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 17/12/2022 10.42 (UTC)_
+Last update : _Saturday 17/12/2022 13.06 (UTC)_
