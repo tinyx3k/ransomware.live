@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5611` posts_
+_All `5615` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,10 @@ _All `5611` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-17 | [`All Seasons Global Solutions`](https://google.com/search?q=All+Seasons+Global+Solutions) | [royal](profiles.md?id=royal) |
+| 2022-12-17 | [`SOFTEQ.COM FILES PART2 - dev-service-cc PUBLISHED`](https://google.com/search?q=SOFTEQ.COM+FILES+PART2+-+dev-service-cc+PUBLISHED) | [clop](profiles.md?id=clop) |
+| 2022-12-17 | [`LOESCHGROUP.DE FILES PART9 - 192.168.101.34\DATEN\Media\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART9+-+192.168.101.34%5CDATEN%5CMedia%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
+| 2022-12-17 | [`ORDEREXPRESS.COM.MX FILES PART10 - 10.10.1.33\C$\Users\emmanuel.herrera\ PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART10+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
 | 2022-12-17 | [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-17 | [`University Institute of Technology of Paris`](https://google.com/search?q=University+Institute+of+Technology+of+Paris) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-16 | [`Arsat`](https://google.com/search?q=Arsat) | [play](profiles.md?id=play) |
@@ -5622,4 +5626,4 @@ _All `5611` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 17/12/2022 18.39 (UTC)_
+Last update : _Saturday 17/12/2022 20.45 (UTC)_
