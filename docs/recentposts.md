@@ -203,4 +203,4 @@
 | 2022-12-02 | [`st-group.com`](https://google.com/search?q=st-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-02 | [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 16/12/2022 22.58 (UTC)_
+Last update : _Saturday 17/12/2022 02.09 (UTC)_
