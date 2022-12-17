@@ -17,6 +17,7 @@ import subprocess
 import tldextract
 import lxml.html
 import requests
+import pandas as pd
 
 sockshost = '127.0.0.1'
 socksport = 9050
@@ -427,6 +428,10 @@ def countcaptchahosts():
         if group['captcha'] is True:
             captcha_count += 1
     return captcha_count
+
+def postsjson2cvs():
+    df = pd.read_json (r'posts.json')
+    df.to_csv (r'docs/posts.csv', index = None) 
 
 def totwitter(post_title, group):
     dbglog('sharedutils: ' + 'posting to twitter')

@@ -29,6 +29,7 @@ from sharedutils import socksfetcher
 from sharedutils import getsitetitle
 from sharedutils import getonionversion
 from sharedutils import checkgeckodriver
+from sharedutils import postsjson2cvs
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
 
@@ -299,6 +300,8 @@ if args.mode == 'parse':
     parsers.nokoyawa()
     parsers.karakurt()
     stdlog('ransomwatch: ' + 'parse run complete')
+    postsjson2cvs()
+    stdlog('ransomwatch: ' + 'convert json to csv run complete')
 
 if args.mode == 'list':
     lister()
