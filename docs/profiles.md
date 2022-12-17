@@ -7,7 +7,10 @@
 |---|---|---|---|---|
 | 0mega - Blog | 🟢 | 17/12/2022 12:35 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
 | 0mega - Blog | 🔴 | 09/12/2022 03:26 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 2 post(s)
 
 | post | date |
 |---|---|
@@ -23,7 +26,10 @@
 |---|---|---|---|---|
 | تبر ابراهیم – Abraham's Ax | 🔴 | 17/12/2022 10:20 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | <a href="https://www.ransomware.live/screenshots/abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd-onion.png" target=_blank>📸</a> | 
 | Checking | 🟢 | 17/12/2022 12:35 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -45,7 +51,10 @@
 | none | 🔴 | 01/05/2021 00:00 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` | ❌ | 
 | Log in - RAMP | 🔴 | 17/12/2022 10:20 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -58,7 +67,10 @@
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Error Response Page | 🔴 | 30/10/2022 18:20 | `http://hitleransomware.cf` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -76,7 +88,10 @@ _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Admin Locker | 🔴 | 20/05/2022 03:49 | `http://adminavf4cikzbv6mbbp7ujpwhygnn2t3egiz2pswldj32krrml42wyd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -91,7 +106,10 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Threat Actors - Onion Forums  - Internal Error | 🔴 | 21/11/2022 22:15 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -114,7 +132,10 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -147,7 +168,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### Ransom note
 * 📝 <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 233 post(s)
 
 | post | date |
 |---|---|
@@ -400,7 +424,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Arvin Club – آزادی برای اتصال | 🔴 | 01/08/2022 20:10 | `http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion` | ❌ | 
+
 ### Posts
+
+> 20 post(s)
 
 | post | date |
 |---|---|
@@ -445,7 +472,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### Ransom note
 * 📝 <a href="/ransomware_notes/atomsilo/atomsilo1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 4 post(s)
 
 | post | date |
 |---|---|
@@ -474,7 +504,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### Ransom note
 * 📝 <a href="/ransomware_notes/avaddon/avaddon.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 142 post(s)
 
 | post | date |
 |---|---|
@@ -629,7 +662,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://avos2fuj6olp6x36.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -658,7 +694,10 @@ _`captcha prevents indexing`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/avoslocker/avoslocker.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 20 post(s)
 
 | post | date |
 |---|---|
@@ -691,7 +730,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://anewset3pcya3xvk73hj7yunuamutxxsm5sohkdi32blhmql55tvgqad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -714,7 +756,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Babuk - Leaks site | 🔴 | 17/12/2022 10:21 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 6 post(s)
 
 | post | date |
 |---|---|
@@ -736,7 +781,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -758,7 +806,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Companies - BianLian | 🟢 | 17/12/2022 12:37 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 81 post(s)
 
 | post | date |
 |---|---|
@@ -860,7 +911,10 @@ _`captcha prevents indexing`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 154 post(s)
 
 | post | date |
 |---|---|
@@ -1052,7 +1106,10 @@ _`captcha prevents indexing`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/blackbyte/blackbyte1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 89 post(s)
 
 | post | date |
 |---|---|
@@ -1168,7 +1225,10 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/blackmatter/blackmatter.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 31 post(s)
 
 | post | date |
 |---|---|
@@ -1217,7 +1277,10 @@ _`previous clearnet domain blackshadow.cc`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://544corkfh5hwhtn4.onion` | ❌ | 
+
 ### Posts
+
+> 3 post(s)
 
 | post | date |
 |---|---|
@@ -1233,7 +1296,10 @@ _`previous clearnet domain blackshadow.cc`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 11/12/2022 21:17 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 5 post(s)
 
 | post | date |
 |---|---|
@@ -1255,7 +1321,10 @@ _`previous clearnet domain blackshadow.cc`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/bluesky/bluesky.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -1270,7 +1339,10 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | 502 Bad Gateway | 🔴 | 28/12/2021 14:14 | `http://bonacifryrxr4siz6ptvokuihdzmjzpveruklxumflz5thmkgauty2qd.onion` | ❌ | 
+
 ### Posts
+
+> 3 post(s)
 
 | post | date |
 |---|---|
@@ -1287,7 +1359,10 @@ _`claim to donate 80% of earnings to charity`_
 |---|---|---|---|---|
 | Cheers! | 🔴 | 20/09/2022 06:46 | `http://rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion` | ❌ | 
 | sembmarine | 🔴 | 20/09/2022 08:22 | `http://crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion` | ❌ | 
+
 ### Posts
+
+> 15 post(s)
 
 | post | date |
 |---|---|
@@ -1315,7 +1390,10 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Login | 🔴 | 17/12/2022 10:24 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -1341,7 +1419,10 @@ _`claim to donate 80% of earnings to charity`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/clop/clop1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 1088 post(s)
 
 | post | date |
 |---|---|
@@ -2458,7 +2539,10 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/conti/conti1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 333 post(s)
 
 | post | date |
 |---|---|
@@ -2807,7 +2891,10 @@ _`previous clearnet domain coomingproject.com`_
 |---|---|---|---|---|
 | CoomingProject announcement | 🔴 | 04/02/2022 23:26 | `http://z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://teo7aj5mfgzxyeme.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -2820,7 +2907,10 @@ _`previous clearnet domain coomingproject.com`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://d57uremugxjrafyg.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -2835,7 +2925,10 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | -*- CRYP70N1C0D3 Team -*- | 🔴 | 10/12/2022 01:54 | `http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` | ❌ | 
+
 ### Posts
+
+> 11 post(s)
 
 | post | date |
 |---|---|
@@ -2871,7 +2964,10 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/cuba/cuba.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 91 post(s)
 
 | post | date |
 |---|---|
@@ -2979,7 +3075,10 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/dagonlocker/dagonlocker1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -2993,7 +3092,10 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 |---|---|---|---|---|
 | none | 🔴 | 10/11/2022 22:30 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` | ❌ | 
 | Data Leak | 🟢 | 17/12/2022 10:24 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 6 post(s)
 
 | post | date |
 |---|---|
@@ -3018,7 +3120,10 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/darkangels/darkangels.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3036,7 +3141,10 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | anonymous Marketplace - best onion market - DarkHi | 🔴 | 17/12/2022 10:24 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | <a href="https://www.ransomware.live/screenshots/aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd-onion.png" target=_blank>📸</a> | 
 | Dark Leak Market | 🔴 | 17/12/2022 06:29 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` | <a href="https://www.ransomware.live/screenshots/darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid-onion.png" target=_blank>📸</a> | 
 | Dark Leak Market | 🔴 | 17/12/2022 10:25 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | <a href="https://www.ransomware.live/screenshots/darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 39 post(s)
 
 | post | date |
 |---|---|
@@ -3102,7 +3210,10 @@ _`marketplace - not a ransomware group, reputation questionable`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/darkside/darkside.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3115,7 +3226,10 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | DataLeak | 🔴 | 11/12/2022 21:22 | `http://woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion` | <a href="https://www.ransomware.live/screenshots/woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 6 post(s)
 
 | post | date |
 |---|---|
@@ -3141,7 +3255,10 @@ _`marketplace - not a ransomware group, reputation questionable`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3156,7 +3273,10 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | _D0#Nut::__chat | 🔴 | 21/10/2022 20:39 | `http://qkbbaxiuqqcqb5nox4np4qjcniy2q6m7yeluvj7n5i5dn7pgpcwxwfid.onion` | ❌ | 
 | D0N#T__::LEAKS:: | 🔴 | 21/10/2022 18:47 | `http://sbc2zv2qnz5vubwtx3aobfpkeao6l4igjegm3xx7tk5suqhjkp5jxtqd.onion` | ❌ | 
 | _d0nut.::Files_ | 🔴 | 21/10/2022 20:39 | `http://doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion` | ❌ | 
+
 ### Posts
+
+> 8 post(s)
 
 | post | date |
 |---|---|
@@ -3189,7 +3309,10 @@ _`marketplace - not a ransomware group, reputation questionable`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3204,7 +3327,10 @@ _`marketplace - not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Dread Network Status | 🟢 | 17/12/2022 12:44 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` | <a href="https://www.ransomware.live/screenshots/dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3222,7 +3348,10 @@ _`marketplace - not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 11/12/2022 21:23 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3240,7 +3369,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Entropy hall of fall | 🔴 | 27/02/2022 08:16 | `http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3253,7 +3385,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://dg5fyig37abmivryrxlordrczn6d6r5wzcfe2msuo5mbbu2exnu46fid.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3272,7 +3407,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Everest Ransomware Group | 🔴 | 17/12/2022 08:30 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 112 post(s)
 
 | post | date |
 |---|---|
@@ -3400,7 +3538,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://7iulpt5i6whht6zo2r52f7vptxtjxs3vfcdxxazllikrtqpupn4epnqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3413,7 +3554,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Free Civilian | 🔴 | 22/11/2022 03:31 | `http://gcbejm2rcjftouqbxuhimj5oroouqcuxb2my4raxqa7efkz5bd5464id.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3440,7 +3584,10 @@ _`captcha prevents indexing`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/grief/grief.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3458,7 +3605,10 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Утечки - Groove | 🔴 | 30/10/2021 10:50 | `http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` | ❌ | 
+
 ### Posts
+
+> 13 post(s)
 
 | post | date |
 |---|---|
@@ -3488,7 +3638,10 @@ _`captcha prevents indexing`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/hades/hades.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3508,7 +3661,10 @@ _`login page, no posts`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Clients page | 🔴 | 31/01/2022 20:17 | `http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3535,7 +3691,10 @@ _`aka fivehands`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | News | 🔴 | 02/10/2021 15:17 | `http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3566,7 +3725,10 @@ _``_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/hive/hive.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 193 post(s)
 
 | post | date |
 |---|---|
@@ -3772,7 +3934,10 @@ _``_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | HolyGhost | 🔴 | 22/04/2022 17:36 | `http://matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3790,7 +3955,10 @@ _`aka hotarus corp`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Hotarus Corp | 🔴 | 22/10/2021 04:52 | `http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -3803,7 +3971,10 @@ _`aka hotarus corp`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Leakage List | 🔴 | 24/08/2022 13:04 | `http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion` | ❌ | 
+
 ### Posts
+
+> 11 post(s)
 
 | post | date |
 |---|---|
@@ -3832,7 +4003,10 @@ _`aka hotarus corp`_
 | Chat | 🔴 | 17/12/2022 10:26 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
 | Magazine | 🟢 | 17/12/2022 12:47 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
+
 ### Posts
+
+> 39 post(s)
 
 | post | date |
 |---|---|
@@ -3895,7 +4069,10 @@ _`aka hotarus corp`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Karma Leaks | 🔴 | 05/11/2021 02:09 | `http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion` | ❌ | 
+
 ### Posts
+
+> 7 post(s)
 
 | post | date |
 |---|---|
@@ -3920,7 +4097,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🟢 | 17/12/2022 12:47 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 26 post(s)
 
 | post | date |
 |---|---|
@@ -3961,7 +4141,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | #LeakTheAnalyst | 🔴 | 05/08/2022 10:37 | `http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion` | ❌ | 
+
 ### Posts
+
+> 20 post(s)
 
 | post | date |
 |---|---|
@@ -4001,7 +4184,10 @@ _`not a ransomware group`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/lilith/lilith.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -4018,7 +4204,10 @@ _`not a ransomware group`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/lockbit/lockbit1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -4048,7 +4237,10 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/lockbit2/lockbit2.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 1006 post(s)
 
 | post | date |
 |---|---|
@@ -5089,7 +5281,10 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/lockbit3/lockbit3.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 371 post(s)
 
 | post | date |
 |---|---|
@@ -5498,7 +5693,10 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | LockBit - Leaked | 🔴 | 11/12/2022 15:39 | `http://lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbit7z6rzyojiye437jp744d4uwtff7aq7df7gh2jvwqtv525c4yd-onion.png" target=_blank>📸</a> | 
 | LockBit File Share | 🔴 | 11/12/2022 15:39 | `http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad-onion.png" target=_blank>📸</a> | 
 | LockBit Private Note | 🔴 | 11/12/2022 10:36 | `http://lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -5518,7 +5716,10 @@ _`marketplace - not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | LockData Auction | 🔴 | 09/04/2022 16:16 | `http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` | ❌ | 
+
 ### Posts
+
+> 5 post(s)
 
 | post | date |
 |---|---|
@@ -5538,7 +5739,10 @@ _`marketplace - not a ransomware group`_
 | none | 🔴 | 27/08/2022 08:28 | `http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` | ❌ | 
 | none | 🔴 | 11/12/2022 22:19 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` | <a href="https://www.ransomware.live/screenshots/obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/10/2022 05:15 | `http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -5565,7 +5769,10 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### Ransom note
 * 📝 <a href="/ransomware_notes/lorenz/lorenz.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 55 post(s)
 
 | post | date |
 |---|---|
@@ -5646,7 +5853,10 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### Ransom note
 * 📝 <a href="/ransomware_notes/lv/lv.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 63 post(s)
 
 | post | date |
 |---|---|
@@ -5724,7 +5934,10 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Mallox - Blog | 🟢 | 17/12/2022 12:56 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 9 post(s)
 
 | post | date |
 |---|---|
@@ -5760,7 +5973,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | none | 🔴 | 01/05/2021 00:00 | `http://g5sbltooh2okkcb2.onion` | ❌ | 
 | 404 Not Found | 🔴 | 04/10/2021 08:05 | `http://fvki3hj7uxuirxpeop6chgqoczanmebutznt2mkzy6waov6w456vjuid.onion` | ❌ | 
 | 502 Bad Gateway | 🔴 | 14/03/2022 05:12 | `http://jvdamsif53dqjycuozlaye2s47p7xij4x6hzwzwhzrqmv36gkyzohhqd.onion` | ❌ | 
+
 ### Posts
+
+> 32 post(s)
 
 | post | date |
 |---|---|
@@ -5817,7 +6033,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/maze/maze.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -5833,7 +6052,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://xembshruusobgbvxg4tcjs3jpdnks6xrr6nbokfxadcnlc53yxir22ad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -5850,7 +6072,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
 | 502 Bad Gateway | 🔴 | 11/12/2022 10:40 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 21 post(s)
 
 | post | date |
 |---|---|
@@ -5887,7 +6112,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Info | 🔴 | 15/04/2022 00:21 | `http://midasbkic5eyfox4dhnijkzc7v7e4hpmsb2qgux7diqbpna4up4rtdad.onion` | ❌ | 
+
 ### Posts
+
+> 44 post(s)
 
 | post | date |
 |---|---|
@@ -5947,7 +6175,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | DataLeakBlog | 🔴 | 16/08/2022 10:33 | `http://dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion` | ❌ | 
+
 ### Posts
+
+> 13 post(s)
 
 | post | date |
 |---|---|
@@ -5977,7 +6208,10 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 10/10/2022 17:13 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` | ❌ | 
 | MONTI - Leaks site | 🔴 | 17/12/2022 10:35 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 1 post(s)
 
 | post | date |
 |---|---|
@@ -6008,7 +6242,10 @@ _`not a ransomware group`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://mosesstaffm7hptp.onion` | ❌ | 
 | Activities – Moses Staff | 🟢 | 17/12/2022 12:56 | `http://moses-staff.se` | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 16 post(s)
 
 | post | date |
 |---|---|
@@ -6042,7 +6279,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://mountnewsokhwilx.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6055,7 +6295,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://5s4ixqul2enwxrqv.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6076,7 +6319,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6101,7 +6347,10 @@ _`not a ransomware group`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/nefilim/nefilim.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 10 post(s)
 
 | post | date |
 |---|---|
@@ -6142,7 +6391,10 @@ _`not a ransomware group`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/nemty/nemty1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6169,7 +6421,10 @@ _`not a ransomware group`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/netwalker/netwalker.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6187,7 +6442,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Night Sky | 🔴 | 25/01/2022 05:22 | `http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion` | ❌ | 
+
 ### Posts
+
+> 2 post(s)
 
 | post | date |
 |---|---|
@@ -6210,7 +6468,10 @@ _`not a ransomware group`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/nokoyawa/nokoyawa.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 1 post(s)
 
 | post | date |
 |---|---|
@@ -6229,7 +6490,10 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://5mvifa3xq5m7sou3xzaajfz7h6eserp5fnkwotohns5pgbb5oxty3zad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6247,7 +6511,10 @@ _`aka vsop`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | VSOP NEWS | 🟢 | 17/12/2022 12:57 | `http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion` | <a href="https://www.ransomware.live/screenshots/mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 28 post(s)
 
 | post | date |
 |---|---|
@@ -6295,7 +6562,10 @@ _`aka vsop`_
 |---|---|---|---|---|
 | Pandora Data Leak | 🔴 | 03/05/2022 11:24 | `http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://pandoraxyz.xyz` | ❌ | 
+
 ### Posts
+
+> 5 post(s)
 
 | post | date |
 |---|---|
@@ -6325,7 +6595,10 @@ _`aka vsop`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Pay2Key Leak Directory! | 🔴 | 15/03/2022 21:12 | `http://pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion` | ❌ | 
+
 ### Posts
+
+> 6 post(s)
 
 | post | date |
 |---|---|
@@ -6347,7 +6620,10 @@ _`aka vsop`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Payload.bin | 🔴 | 28/08/2022 20:21 | `http://vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion` | ❌ | 
+
 ### Posts
+
+> 29 post(s)
 
 | post | date |
 |---|---|
@@ -6402,7 +6678,10 @@ _`aka vsop`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/play/play.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 28 post(s)
 
 | post | date |
 |---|---|
@@ -6443,7 +6722,10 @@ _`aka vsop`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Project Relic. Dumps, leaks, news, announcements | 🟢 | 17/12/2022 12:57 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 5 post(s)
 
 | post | date |
 |---|---|
@@ -6474,7 +6756,10 @@ _`aka pwndlocker`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6499,7 +6784,10 @@ _`aka pwndlocker`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/prometheus/prometheus.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6517,7 +6805,10 @@ _`aka pwndlocker`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Pysa's Partners | 🔴 | 22/02/2022 10:11 | `http://pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion` | ❌ | 
+
 ### Posts
+
+> 308 post(s)
 
 | post | date |
 |---|---|
@@ -6842,7 +7133,10 @@ _`aka pwndlocker`_
 |---|---|---|---|---|
 | Qilin | 🟢 | 17/12/2022 12:58 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
 | Qilin blog | 🟢 | 17/12/2022 12:58 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 11 post(s)
 
 | post | date |
 |---|---|
@@ -6879,7 +7173,10 @@ _`login page, no posts`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/qlocker/qlocker.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -6893,7 +7190,10 @@ _`login page, no posts`_
 |---|---|---|---|---|
 | Quantum Blog | 🟢 | 17/12/2022 12:58 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
 | Secure Chat | 🔴 | 29/08/2022 08:32 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` | ❌ | 
+
 ### Posts
+
+> 68 post(s)
 
 | post | date |
 |---|---|
@@ -6985,7 +7285,10 @@ _`login page, no posts`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/ragnarlocker/ragnarlocker1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 90 post(s)
 
 | post | date |
 |---|---|
@@ -7107,7 +7410,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/ragnarok/ragnarok.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 2 post(s)
 
 | post | date |
 |---|---|
@@ -7122,7 +7428,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🟢 | 17/12/2022 12:58 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7142,7 +7451,10 @@ _`shut down & offering a decryptor`_
 | Ransomware - Control Panel | 🔴 | 03/03/2022 18:21 | `http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion` | ❌ | 
 | Ransom Cartel | 🔴 | 02/12/2022 07:48 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion` | <a href="https://www.ransomware.live/screenshots/cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7169,7 +7481,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/ransomexx/ransomexx1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 41 post(s)
 
 | post | date |
 |---|---|
@@ -7227,7 +7542,10 @@ _`shut down & offering a decryptor`_
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
 | none | 🟢 | 17/12/2022 12:59 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 16 post(s)
 
 | post | date |
 |---|---|
@@ -7272,7 +7590,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/ranzy/ranzy.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7292,7 +7613,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/redalert/redalert.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 6 post(s)
 
 | post | date |
 |---|---|
@@ -7327,7 +7651,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/revil/revil1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 41 post(s)
 
 | post | date |
 |---|---|
@@ -7388,7 +7715,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Not found. | 🟢 | 17/12/2022 13:02 | `http://robinhoodleaks.tumblr.com` | <a href="https://www.ransomware.live/screenshots/robinhoodleaks-tumblr-com.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 1 post(s)
 
 | post | date |
 |---|---|
@@ -7411,7 +7741,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/rook/rook.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 9 post(s)
 
 | post | date |
 |---|---|
@@ -7438,7 +7771,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/royal/royal.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 87 post(s)
 
 | post | date |
 |---|---|
@@ -7538,7 +7874,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🟢 | 17/12/2022 13:02 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | <a href="https://www.ransomware.live/screenshots/t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7555,7 +7894,10 @@ _`shut down & offering a decryptor`_
 |---|---|---|---|---|
 | BLOG | 🔴 | 13/11/2021 03:45 | `http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion` | ❌ | 
 | none | 🔴 | 13/04/2022 03:32 | `http://54bb47h.blog` | ❌ | 
+
 ### Posts
+
+> 17 post(s)
 
 | post | date |
 |---|---|
@@ -7585,7 +7927,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Shao leaks team | 🔴 | 01/11/2022 16:55 | `http://crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion` | ❌ | 
+
 ### Posts
+
+> 4 post(s)
 
 | post | date |
 |---|---|
@@ -7619,7 +7964,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/snatch/snatch.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 60 post(s)
 
 | post | date |
 |---|---|
@@ -7695,7 +8043,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | SOLIDBIT LOGIN | 🔴 | 27/08/2022 10:45 | `http://solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7711,7 +8062,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Blog | 🔴 | 01/10/2022 15:29 | `http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion` | ❌ | 
+
 ### Posts
+
+> 16 post(s)
 
 | post | date |
 |---|---|
@@ -7740,7 +8094,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Spook | 🔴 | 26/10/2021 02:30 | `http://spookuhvfyxzph54ikjfwf2mwmxt572krpom7reyayrmxbkizbvkpaid.onion` | ❌ | 
+
 ### Posts
+
+> 35 post(s)
 
 | post | date |
 |---|---|
@@ -7791,7 +8148,10 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Database Shop | 🔴 | 09/05/2022 22:27 | `http://3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion` | ❌ | 
+
 ### Posts
+
+> 18 post(s)
 
 | post | date |
 |---|---|
@@ -7836,7 +8196,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/sugar/sugar.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7861,7 +8224,10 @@ _`shut down & offering a decryptor`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/suncrypt/suncrypt1.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 30 post(s)
 
 | post | date |
 |---|---|
@@ -7909,7 +8275,10 @@ _`no longer in operation - rebrand`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | end of game | 🔴 | 18/08/2021 00:02 | `http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7925,7 +8294,10 @@ _`nodes or hosts with no current attribution or identification`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7939,7 +8311,10 @@ _`nodes or hosts with no current attribution or identification`_
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -7973,7 +8348,10 @@ _`ecdmr42axxx.onion - fileserver`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/vicesociety/vicesociety.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 129 post(s)
 
 | post | date |
 |---|---|
@@ -8115,7 +8493,10 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | BITCARDS - Prepaid cards | 🟢 | 17/12/2022 13:05 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` | <a href="https://www.ransomware.live/screenshots/nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid-onion.png" target=_blank>📸</a> | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -8135,7 +8516,10 @@ _`xing use a custom mountlocker exe`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | 星Team News | 🔴 | 24/01/2022 06:12 | `http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` | ❌ | 
+
 ### Posts
+
+> 21 post(s)
 
 | post | date |
 |---|---|
@@ -8176,7 +8560,10 @@ _`aka fonix`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion` | ❌ | 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -8193,7 +8580,10 @@ _`aka fonix`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/yanluowang/yanluowang.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 6 post(s)
 
 | post | date |
 |---|---|
@@ -8219,7 +8609,10 @@ _`aka fonix`_
 ### Ransom note
 * 📝 <a href="/ransomware_notes/zeon/zeon.txt" target=_blank>`Check ransomware note`</a>
 
+
 ### Posts
+
+> 0 post(s)
 
 | post | date |
 |---|---|
@@ -8227,4 +8620,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Saturday 17/12/2022 17.12 (UTC)_
+Last update : _Saturday 17/12/2022 17.40 (UTC)_

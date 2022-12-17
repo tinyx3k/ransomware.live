@@ -291,6 +291,15 @@ def postcount():
         post_count += 1
     return post_count
 
+def grouppostcount(groupname):
+    grouppost_count = 0
+    posts = openjson('posts.json')
+    for post in posts:
+        groupnamejson = post['group_name']
+        if groupnamejson == groupname:
+            grouppost_count += 1
+    return grouppost_count
+
 def groupcount():
     groups = openjson('groups.json')
     return len(groups)

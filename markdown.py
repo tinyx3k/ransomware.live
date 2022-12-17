@@ -19,6 +19,7 @@ from sharedutils import poststhisyear
 from sharedutils import postslastyear
 from sharedutils import currentmonthstr
 from sharedutils import monthlypostcount
+from sharedutils import grouppostcount
 #from sharedutils import headlesscount
 #from sharedutils import countcaptchahosts
 # from sharedutils import stdlog, dbglog, errlog, honk
@@ -325,7 +326,10 @@ def profilepage():
             writeline(profilepage, '### Ransom note')
             writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransomware note`</a>')
             writeline(profilepage, '')
+        writeline(profilepage, '')
         writeline(profilepage, '### Posts')
+        writeline(profilepage, '')
+        writeline(profilepage, '> ' + str(grouppostcount(group['name'])) + ' post(s)')
         writeline(profilepage, '')
         writeline(profilepage, '| post | date |')
         writeline(profilepage, '|---|---|')
