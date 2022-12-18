@@ -333,15 +333,19 @@ def profilepage():
         writeline(profilepage, '')
         writeline(profilepage, '> ' + grouppostcount(group['name']))
         writeline(profilepage, '')
-        writeline(profilepage, '| post | date |')
-        writeline(profilepage, '|---|---|')
+        writeline(profilepage, '| post | date | Description')
+        writeline(profilepage, '|---|---|---|')
         posts = openjson('posts.json')
         for post in posts:
             if post['group_name'] == group['name']:
+                try:
+                    description=post['description'] 
+                except:
+                    description=''
                 date = post['discovered'].split(' ')[0]
                 date = date.split('-')
                 date = date[2] + '/' + date[1] + '/' + date[0]
-                line = '| ' + '`' + post['post_title'].replace('|', '') + '`' + ' | ' + date + ' |'
+                line = '| ' + '`' + post['post_title'].replace('|', '') + '`' + ' | ' + date + ' | ' + description + ' |'
                 writeline(profilepage, line)
         writeline(profilepage, '')
         writeline(profilepage,' --- ')

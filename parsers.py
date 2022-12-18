@@ -8,7 +8,7 @@ import os
 import json
 from sys import platform
 from datetime import datetime
-
+from bs4 import BeautifulSoup # type: ignore
 from sharedutils import openjson
 from sharedutils import runshellcmd
 from sharedutils import todiscord, totwitter, toteams
@@ -20,14 +20,15 @@ if platform == 'darwin':
 else:
     fancygrep = 'grep -oP'
 
-def posttemplate(victim, group_name, timestamp):
+def posttemplate(victim, group_name, timestamp,description):
     '''
     assuming we have a new post - form the template we will use for the new entry in posts.json
     '''
     schema = {
         'post_title': victim,
         'group_name': group_name,
-        'discovered': timestamp
+        'discovered': timestamp,
+        'description': description
     }
     dbglog(schema)
     return schema
@@ -45,7 +46,7 @@ def existingpost(post_title, group_name):
     dbglog('post does not exist: ' + post_title)
     return False
 
-def appender(post_title, group_name):
+def appender(post_title, group_name, description=""):
     '''
     append a new post to posts.json
     '''
@@ -57,7 +58,7 @@ def appender(post_title, group_name):
         post_title = post_title[:90]
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
-        newpost = posttemplate(post_title, group_name, str(datetime.today()))
+        newpost = posttemplate(post_title, group_name, str(datetime.today()),description)
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
         with open('posts.json', 'w', encoding='utf-8') as outfile:
@@ -915,7 +916,7 @@ def nokoyawa():
     for post in posts:
         appender(post, 'nokoyawa')
 
-def karakurt():
+def karakurt2():
     stdlog('parser: ' + 'karakurt')
     parser = '''
     grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' || true
@@ -925,3 +926,26 @@ def karakurt():
         errlog('karakurt: ' + 'parsing fail')
     for post in posts:
         appender(post, 'karakurt')
+
+def karakurt():
+    stdlog('parser: ' + 'karakurt')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('karakurt-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('article', {"class": "ciz-post"})
+                for div in divs_name:
+                    title = div.h3.a.text.strip()
+                    description = div.find('div', {'class': 'post-des'}).p.text.strip()
+                    appender(title, 'karakurt', description)
+                divs_name=soup.find_all('div', {"class": "category-mid-post-two"})
+                for div in divs_name:
+                    title = div.h2.a.text.strip()
+                    description = div.find('div', {'class': 'post-des dropcap'}).p.text.strip()
+                    appender(title, 'karakurt', description)
+                file.close()
+        except:
+            errlog('karakurt: ' + 'parsing fail')
+            pass 
