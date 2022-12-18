@@ -264,13 +264,20 @@ def profilepage():
     groups = openjson('groups.json')
     for group in groups:
         writeline(profilepage, '## **' + group['name']+'**')
-        writeline(profilepage, '')
-        description_file = './source/descriptions/'+ group['name']+'.txt'
-        if os.path.exists(description_file):
+        ##
+        #description_file = './source/descriptions/'+ group['name']+'.txt'
+        #if os.path.exists(description_file):
+        #    writeline(profilepage, '')
+        #    with open(description_file, 'r') as file:
+        #        data = file.read().replace('\n', ' ')
+        #    writeline(profilepage,'>'+data)
+        #    writeline(profilepage, '')
+        ##
+        try: 
+            writeline(profilepage,'')
+            writeline(profilepage,'> ' + group['description'].replace('\n',''))
             writeline(profilepage, '')
-            with open(description_file, 'r') as file:
-                data = file.read().replace('\n', ' ')
-            writeline(profilepage,'>'+data)
+        except:
             writeline(profilepage, '')
         #if group['captcha'] is True:
         #    writeline(profilepage, ':warning: _has a captcha_')
