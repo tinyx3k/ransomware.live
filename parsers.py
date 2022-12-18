@@ -848,16 +848,16 @@ def royal():
     for post in posts:
         appender(post, 'royal')
 
-def projectrelic():
-    stdlog('parser: ' + 'projectrelic')
-    parser = '''
-    grep --no-filename '<div class="website">' source/projectrelic-*.html | cut -d '"' -f 4
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('projectrelic: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'projectrelic')
+#def projectrelic():
+#    stdlog('parser: ' + 'projectrelic')
+#    parser = '''
+#    grep --no-filename '<div class="website">' source/projectrelic-*.html | cut -d '"' -f 4
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('projectrelic: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'projectrelic')
 
 def medusa():
     stdlog('parser: ' + 'medusa')
@@ -950,3 +950,21 @@ def play():
     for post in posts:
         appender(post, 'play')
 
+def projectrelic():
+    stdlog('parser: ' + 'projectrelic')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('projectrelic-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {"class": "content"})
+                for div in divs_name:
+                    title = div.find('div', {'class': 'name'}).text.strip()
+                    description =  div.find('div', {'class': 'description'}).text.strip()
+                    stdlog(title)
+                    appender(title, 'projectrelic', description)
+                file.close()
+        except:
+            errlog('projectrelic: ' + 'parsing fail')
+            pass 

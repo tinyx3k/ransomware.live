@@ -11,6 +11,7 @@ _All `5623` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-18 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | [projectrelic](profiles.md?id=projectrelic) |
 | 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](profiles.md?id=play) |
@@ -389,11 +390,10 @@ _All `5623` posts_
 | 2022-11-11 | [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | [royal](profiles.md?id=royal) |
 | 2022-11-11 | [`Motional.com`](https://google.com/search?q=Motional.com) | [alphv](profiles.md?id=alphv) |
 | 2022-11-11 | [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | [lv](profiles.md?id=lv) |
-| 2022-11-11 | [`http://willisklein.com`](https://google.com/search?q=http%3A%2F%2Fwillisklein.com) | [projectrelic](profiles.md?id=projectrelic) |
-| 2022-11-11 | [`http://broad-med.com`](https://google.com/search?q=http%3A%2F%2Fbroad-med.com) | [projectrelic](profiles.md?id=projectrelic) |
-| 2022-11-11 | [`http://turnercpas.com`](https://google.com/search?q=http%3A%2F%2Fturnercpas.com) | [projectrelic](profiles.md?id=projectrelic) |
-| 2022-11-11 | [`http://sterlingbattery.com`](https://google.com/search?q=http%3A%2F%2Fsterlingbattery.com) | [projectrelic](profiles.md?id=projectrelic) |
-| 2022-11-11 | [`http://doctorscenterhospital.com`](https://google.com/search?q=http%3A%2F%2Fdoctorscenterhospital.com) | [projectrelic](profiles.md?id=projectrelic) |
+| 2022-11-11 | [`Willis Klein`](https://google.com/search?q=Willis+Klein) | [projectrelic](profiles.md?id=projectrelic) |
+| 2022-11-11 | [`BroadMed Holding`](https://google.com/search?q=BroadMed+Holding) | [projectrelic](profiles.md?id=projectrelic) |
+| 2022-11-11 | [`Turner & Associates, LLP`](https://google.com/search?q=Turner+%26+Associates%2C+LLP) | [projectrelic](profiles.md?id=projectrelic) |
+| 2022-11-11 | [`Sterling Battery`](https://google.com/search?q=Sterling+Battery) | [projectrelic](profiles.md?id=projectrelic) |
 | 2022-11-11 | [`SOUTH-STAFFS-WATER.CO.UK FILES PART11 - water\10.80.74.231\ PUBLISHED`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK+FILES+PART11+-+water%5C10.80.74.231%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
 | 2022-11-11 | [`LOESCHGROUP.DE FILES PART4 - 192.168.101.34\D$\PrivateOrdner\ PUBLISHED`](https://google.com/search?q=LOESCHGROUP.DE+FILES+PART4+-+192.168.101.34%5CD%24%5CPrivateOrdner%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
 | 2022-11-11 | [`ORDEREXPRESS.COM.MX FILES PART5 - 10.10.2.224 PUBLISHED`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART5+-+10.10.2.224+PUBLISHED) | [clop](profiles.md?id=clop) |
@@ -5634,4 +5634,4 @@ _All `5623` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 18/12/2022 16.17 (UTC)_
+Last update : _Sunday 18/12/2022 16.58 (UTC)_

@@ -6739,11 +6739,11 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| `http://doctorscenterhospital.com` | 11/11/2022 |   |
-| `http://sterlingbattery.com` | 11/11/2022 |   |
-| `http://turnercpas.com` | 11/11/2022 |   |
-| `http://broad-med.com` | 11/11/2022 |   |
-| `http://willisklein.com` | 11/11/2022 |   |
+| `Doctors Center Hospital` | 18/12/2022 | Doctors' Center Hospital is among the leaders in the hospital network of Puerto Rico. |
+| `Sterling Battery` | 11/11/2022 | Sterling Battery Co is a company that operates in the Automotive industry. |
+| `Turner & Associates, LLP` | 11/11/2022 | Outstanding service to our clients is what makes Turner & Associates, LLP one of the leading CPA firms in the State of Florida. Our combined 75 years of Partner |
+| `BroadMed Holding` | 11/11/2022 | BroadMed Holding (BMH) is a company that specializes in healthcare related businesses. The range of experience stretches to supply the medical field with a wide |
+| `Willis Klein` | 11/11/2022 | Founded in 1960, Willis Klein has multiple divisions providing decorative plumbing, door hardware, custom bathroom cabinets and furniture, commercial hardware. |
 
  --- 
 
@@ -8632,4 +8632,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 18/12/2022 16.17 (UTC)_
+Last update : _Sunday 18/12/2022 16.58 (UTC)_

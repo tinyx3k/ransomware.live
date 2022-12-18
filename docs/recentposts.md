@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-18 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | [projectrelic](profiles.md?id=projectrelic) |
 | 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](profiles.md?id=play) |
@@ -201,6 +202,5 @@
 | 2022-12-05 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](profiles.md?id=alphv) |
 | 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](profiles.md?id=alphv) |
 | 2022-12-05 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](profiles.md?id=play) |
-| 2022-12-05 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 18/12/2022 16.17 (UTC)_
+Last update : _Sunday 18/12/2022 16.58 (UTC)_
