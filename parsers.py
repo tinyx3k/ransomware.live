@@ -870,18 +870,6 @@ def medusa():
     for post in posts:
         appender(post, 'medusa')
 
-def play():
-    stdlog('parser: ' + 'play')
-    # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
-    parser = '''
-    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
-    ''' % (fancygrep)
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('play: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'play')
-
 def dataleak():
     stdlog('parser: ' + 'play')
     # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
@@ -916,16 +904,16 @@ def nokoyawa():
     for post in posts:
         appender(post, 'nokoyawa')
 
-def karakurt2():
-    stdlog('parser: ' + 'karakurt')
-    parser = '''
-    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' || true
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('karakurt: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'karakurt')
+#def karakurt2():
+#    stdlog('parser: ' + 'karakurt')
+#    parser = '''
+#    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' || true
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('karakurt: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'karakurt')
 
 def karakurt():
     stdlog('parser: ' + 'karakurt')
@@ -939,13 +927,26 @@ def karakurt():
                 for div in divs_name:
                     title = div.h3.a.text.strip()
                     description = div.find('div', {'class': 'post-des'}).p.text.strip()
-                    appender(title, 'karakurt', description.replace('.\nexpand',''))
+                    appender(title, 'karakurt', description.replace('\nexpand',''))
                 divs_name=soup.find_all('div', {"class": "category-mid-post-two"})
                 for div in divs_name:
                     title = div.h2.a.text.strip()
                     description = div.find('div', {'class': 'post-des dropcap'}).p.text.strip()
-                    appender(title, 'karakurt', description.replace('.\nexpand',''))
+                    appender(title, 'karakurt', description.replace('\nexpand',''))
                 file.close()
         except:
             errlog('karakurt: ' + 'parsing fail')
             pass 
+
+def play():
+    stdlog('parser: ' + 'play')
+    # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
+    parser = '''
+    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
+    ''' % (fancygrep)
+    posts = runshellcmd(parser)
+    if len(posts) == 1:
+        errlog('play: ' + 'parsing fail')
+    for post in posts:
+        appender(post, 'play')
+
