@@ -136,14 +136,6 @@ _Generate sitemap.xlm_
 ./asset/sitemap.sh
 ```
 
-### [update_descriptions.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/update_descriptions.sh)
-
-_Update Ransomware Descripton from [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)_
-
-```shell
-./asset/update_descriptions.sh
-```
-
 ### [update_notes.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/update.notes.sh)
 
 _Update Ransomware Note from [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes)_
