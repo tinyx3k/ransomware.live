@@ -341,7 +341,7 @@ def profilepage():
                 try:
                     description=post['description'] 
                 except:
-                    description=''
+                    description=' '
                 date = post['discovered'].split(' ')[0]
                 date = date.split('-')
                 date = date[2] + '/' + date[1] + '/' + date[0]

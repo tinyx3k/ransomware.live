@@ -939,12 +939,12 @@ def karakurt():
                 for div in divs_name:
                     title = div.h3.a.text.strip()
                     description = div.find('div', {'class': 'post-des'}).p.text.strip()
-                    appender(title, 'karakurt', description)
+                    appender(title, 'karakurt', description.replace('.\nexpand',''))
                 divs_name=soup.find_all('div', {"class": "category-mid-post-two"})
                 for div in divs_name:
                     title = div.h2.a.text.strip()
                     description = div.find('div', {'class': 'post-des dropcap'}).p.text.strip()
-                    appender(title, 'karakurt', description)
+                    appender(title, 'karakurt', description.replace('.\nexpand',''))
                 file.close()
         except:
             errlog('karakurt: ' + 'parsing fail')
