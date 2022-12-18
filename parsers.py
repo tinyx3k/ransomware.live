@@ -918,7 +918,7 @@ def nokoyawa():
 def karakurt():
     stdlog('parser: ' + 'karakurt')
     parser = '''
-    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | true
+    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' || true
     '''
     posts = runshellcmd(parser)
     if len(posts) == 1:

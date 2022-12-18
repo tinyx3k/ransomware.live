@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5621` posts_
+_All `5623` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,8 @@ _All `5621` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
+| 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
@@ -5632,4 +5634,4 @@ _All `5621` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 18/12/2022 10.56 (UTC)_
+Last update : _Sunday 18/12/2022 11.32 (UTC)_

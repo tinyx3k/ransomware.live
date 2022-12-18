@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
+| 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
@@ -200,7 +202,5 @@
 | 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](profiles.md?id=alphv) |
 | 2022-12-05 | [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | [play](profiles.md?id=play) |
 | 2022-12-05 | [`sentenia.net`](https://google.com/search?q=sentenia.net) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-05 | [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-05 | [`brunoy.fr`](https://google.com/search?q=brunoy.fr) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 18/12/2022 10.56 (UTC)_
+Last update : _Sunday 18/12/2022 11.32 (UTC)_
