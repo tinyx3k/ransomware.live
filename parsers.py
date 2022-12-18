@@ -894,7 +894,7 @@ def dataleak():
         appender(post, 'dataleak')
 
 def monti():
-    stdlog('parser: ' + 'play')
+    stdlog('parser: ' + 'monti')
     parser = '''
     grep '<h5 style="color:#dbdbdb" >' source/monti-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
     '''
