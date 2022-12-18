@@ -5,7 +5,7 @@ parses the source html for each group where a parser exists & contributed to the
 always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 '''
 import os
-import json
+import json,re
 from sys import platform
 from datetime import datetime
 from bs4 import BeautifulSoup # type: ignore
@@ -837,16 +837,16 @@ def mallox():
     for post in posts:
         appender(post, 'mallox')
     
-def royal():
-    stdlog('parser: ' + 'royal')
-    parser = '''
-    jq -r '.data[].title' source/royal-royal4ezp7xr*.html || true
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('royal: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'royal')
+#def royal():
+#    stdlog('parser: ' + 'royal')
+#    parser = '''
+#    jq -r '.data[].title' source/royal-royal4ezp7xr*.html || true
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('royal: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'royal')
 
 #def projectrelic():
 #    stdlog('parser: ' + 'projectrelic')
@@ -962,9 +962,30 @@ def projectrelic():
                 for div in divs_name:
                     title = div.find('div', {'class': 'name'}).text.strip()
                     description =  div.find('div', {'class': 'description'}).text.strip()
-                    stdlog(title)
+                    # stdlog(title)
                     appender(title, 'projectrelic', description)
                 file.close()
         except:
             errlog('projectrelic: ' + 'parsing fail')
             pass 
+
+
+def royal():
+    stdlog('parser: ' + 'royal')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('royal-'):
+                html_doc='source/'+filename
+                file=open(html_doc, 'r')
+                data = json.load(file)
+                for element in data['data']:
+                    title = element['title']
+                    description = re.sub(r'<[^>]*>', '',element['text'])
+                    # stdlog(title)
+                    appender(title, 'royal', description)
+                file.close()
+        except:
+            errlog('royal: ' + 'parsing fail')
+            pass    
+
+    
