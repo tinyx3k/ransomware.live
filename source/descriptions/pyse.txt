@@ -1,1 +1,0 @@
-Mespinosa is a ransomware which encrypts file using an asymmetric encryption and adds .pysa as file extension. According to dissectingmalware the extension "pysa" is probably derived from the Zanzibari Coin with the same name.
