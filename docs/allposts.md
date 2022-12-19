@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5628` posts_
+_All `5636` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,14 @@ _All `5628` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-19 | [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`catalyst-group.co.nz`](https://google.com/search?q=catalyst-group.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`businesscentral.org.nz`](https://google.com/search?q=businesscentral.org.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`mercuryit.co.nz`](https://google.com/search?q=mercuryit.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5639,4 +5647,4 @@ _All `5628` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 19/12/2022 14.59 (UTC)_
+Last update : _Monday 19/12/2022 16.48 (UTC)_

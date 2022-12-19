@@ -2,6 +2,14 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-19 | [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`catalyst-group.co.nz`](https://google.com/search?q=catalyst-group.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`businesscentral.org.nz`](https://google.com/search?q=businesscentral.org.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`mercuryit.co.nz`](https://google.com/search?q=mercuryit.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
@@ -194,13 +202,5 @@
 | 2022-12-05 | [`Bonn Nutrients Pvt`](https://google.com/search?q=Bonn+Nutrients+Pvt) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-05 | [`Golden Coin Bake Shop and Restaurant`](https://google.com/search?q=Golden+Coin+Bake+Shop+and+Restaurant) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-05 | [`Ability Commerce`](https://google.com/search?q=Ability+Commerce) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`CROWN TECHNOLOGY Ltd`](https://google.com/search?q=CROWN+TECHNOLOGY+Ltd) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`IM Group`](https://google.com/search?q=IM+Group) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`*u****`](https://google.com/search?q=%2Au%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`****** ******* School`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+School) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`AV Solutions`](https://google.com/search?q=AV+Solutions) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`*** Technologies`](https://google.com/search?q=%2A%2A%2A+Technologies) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`**i* **s****`](https://google.com/search?q=%2A%2Ai%2A+%2A%2As%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`**a***** H****** ******r****`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2Ar%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Monday 19/12/2022 14.59 (UTC)_
+Last update : _Monday 19/12/2022 16.48 (UTC)_
