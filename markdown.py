@@ -372,6 +372,7 @@ def profilepage():
         writeline(profilepage, '')
         writeline(profilepage, '')
         writeline(profilepage, '[⤴️](profiles?id=group-profiles)')
+        writeline(profilepage, '')
         writeline(profilepage,' --- ')
         writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')
