@@ -42,8 +42,6 @@ curl -sL https://raw.githubusercontent.com/jmousqueton/ransomware.live/main/grou
 
 ---
 
-## Contributions 
-
 ## Technicals
 
 The [torproxy](https://github.com/jmousqueton/ransomware.live/torproxy) from [**jmousqueton/ransomware.live/torproxy** registry](https://github.com/jmousqueton/jmousqueton/pkgs/container/ransomwatch%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within [ransomwatch.yml](https://github.com/JMousqueton/ransomware.live/blob/main/.github/workflows/ransomwatch.yml)
