@@ -153,7 +153,7 @@ def indexpage():
 
 def sidebar():
     '''
-    create a sidebar markdown report
+    create a sidebar markdown report NOT USED 
     '''
     stdlog('generating sidebar')
     sidebar = 'docs/_sidebar.md'
@@ -178,8 +178,8 @@ def statspage():
         f.close()
     writeline(statspage, '# 📊 stats')
     writeline(statspage, '')
-    writeline(statspage, '_timestamp association commenced october 2021_')
-    writeline(statspage, '')
+    #writeline(statspage, '_timestamp association commenced october 2021_')
+    #writeline(statspage, '')
     writeline(statspage, '| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |')
     writeline(statspage, '|---|---|')
     writeline(statspage, '![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |')
@@ -252,8 +252,10 @@ def allposts():
     writeline(allpage, '')
     writeline(allpage, '| date | title | group |')
     writeline(allpage, '|---|---|---|')
-    for post in recentposts('999999'):
-        # show friendly date for discovered
+    posts = openjson('posts.json')
+    sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+    for post in sorted_posts:
+    # show friendly date for discovered
         date = post['discovered'].split(' ')[0]
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
@@ -280,15 +282,6 @@ def profilepage():
     groups = openjson('groups.json')
     for group in groups:
         writeline(profilepage, '## **' + group['name']+'**')
-        ##
-        #description_file = './source/descriptions/'+ group['name']+'.txt'
-        #if os.path.exists(description_file):
-        #    writeline(profilepage, '')
-        #    with open(description_file, 'r') as file:
-        #        data = file.read().replace('\n', ' ')
-        #    writeline(profilepage,'>'+data)
-        #    writeline(profilepage, '')
-        ##
         try: 
             writeline(profilepage,'')
             writeline(profilepage,'> ' + group['description'].replace('\n',''))
@@ -366,7 +359,8 @@ def profilepage():
             writeline(profilepage, '| post | date | Description')
             writeline(profilepage, '|---|---|---|')
             posts = openjson('posts.json')
-            for post in posts:
+            sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+            for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
                         description=post['description'] 
