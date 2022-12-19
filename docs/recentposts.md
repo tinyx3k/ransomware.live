@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`businesscentral.org.nz`](https://google.com/search?q=businesscentral.org.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`mercuryit.co.nz`](https://google.com/search?q=mercuryit.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`senateshj.com`](https://google.com/search?q=senateshj.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,6 +202,5 @@
 | 2022-12-05 | [`*** Technologies`](https://google.com/search?q=%2A%2A%2A+Technologies) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-05 | [`**i* **s****`](https://google.com/search?q=%2A%2Ai%2A+%2A%2As%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-05 | [`**a***** H****** ******r****`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2Ar%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-05 | [`B****** *b*`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2Ab%2A) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Monday 19/12/2022 13.15 (UTC)_
+Last update : _Monday 19/12/2022 14.59 (UTC)_
