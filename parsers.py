@@ -704,16 +704,16 @@ def cheers():
     for post in posts:
         appender(post, 'cheers')
 
-def lockbit3():
-    stdlog('parser: ' + 'lockbit3')
-    parser = '''
-    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('lockbit3: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'lockbit3')
+#def lockbit3():
+#    stdlog('parser: ' + 'lockbit3')
+#    parser = '''
+#    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('lockbit3: ' + 'parsing fail')
+#   for post in posts:
+#        appender(post, 'lockbit3')
 
 def yanluowang():
     stdlog('parser: ' + 'yanluowang')
@@ -988,4 +988,21 @@ def royal():
             errlog('royal: ' + 'parsing fail')
             pass    
 
-    
+def lockbit3():
+    stdlog('parser: ' + 'lockbit3')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('lockbit3-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {"class": "post-block bad"})
+                for div in divs_name:
+                    title = div.find('div',{"class": "post-title"}).text.strip()
+                    description = div.find('div',{"class" : "post-block-text"}).text.strip()
+                    # stdlog(title)
+                    appender(title, 'lockbit3', description)
+                file.close()
+        except:
+            errlog('lockbit3: ' + 'parsing fail')
+            pass    

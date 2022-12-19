@@ -36,6 +36,13 @@ friendly_tz = custom_strftime('%B {S}, %Y', dt.now()).lower()
 
 NowTime=dt.now()
 
+
+def directory_exists(directory):
+    if os.path.exists(directory) and os.path.isdir(directory):
+        return True
+    else:
+        return False
+
 def writeline(file, line):
     '''write line to file'''
     with open(file, 'a', encoding='utf-8') as f:
@@ -326,15 +333,21 @@ def profilepage():
             else:
                 line = '| none | ' + statusemoji +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
                 writeline(profilepage, line)
-        if os.path.exists('docs/ransomware_notes/'+ group['name']):
-            if os.path.exists('docs/ransomware_notes/'+ group['name'] + '/' + group['name'] + '.txt'):
-                ransom_note=group['name'] + '.txt'
-            else:
-                ransom_note=group['name'] + '1.txt'  
+        cpt_note = 0 
+        ransom_notes = ''
+        directory = 'docs/ransomware_notes/' + group['name'] +'/'
+        if directory_exists(directory):
+            for filename in os.listdir(directory):
+                # stdlog(filename)
+                cpt_note += 1
+                ransom_notes = ransom_notes + ' <a href="/ransomware_notes/' +group['name'] + '/' + filename + '" target=_blank>#' + str(cpt_note) + '</a> ' 
+                # stdlog('add ' + str(cpt_note) + 'note(s) to '+ group['name'] )
+            writeline(profilepage, '')        
+        if cpt_note > 0:
             writeline(profilepage, '')
             writeline(profilepage, '### Ransom note')
-            writeline(profilepage, '* 📝 <a href="/ransomware_notes/'+group['name']+'/' + ransom_note + '" target=_blank>`Check ransomware note`</a>')
-            writeline(profilepage, '')
+            writeline(profilepage,'* 📝 Ransom notes : ' + ransom_notes)
+        ### POSTS 
         writeline(profilepage, '')
         writeline(profilepage, '### Posts')
         writeline(profilepage, '')

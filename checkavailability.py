@@ -10,7 +10,7 @@ for group in groups:
             # stdlog('ransomwatch: ' + 'updating ' + host['slug'])
             if host['available'] is False:
                 if host['enabled'] is True:
-                    print('- ' + group['name'] + ' : ' + host['slug'] + ' needs attention')
+                    print('- ' + group['name'] + ' : ' + host['slug'] + ' host seems down')
             else:
                 if host['enabled'] is False:
-                   print('- ' + group['name'] + ' : ' + host['slug'] + ' is mistakens') 
+                   print('- ' + group['name'] + ' : ' + host['slug'] + ' should be enable') 
