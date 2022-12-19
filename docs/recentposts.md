@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-19 | [`mercuryit.co.nz`](https://google.com/search?q=mercuryit.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-19 | [`senateshj.com`](https://google.com/search?q=senateshj.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`accuro.co.nz`](https://google.com/search?q=accuro.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-18 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | [projectrelic](profiles.md?id=projectrelic) |
 | 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
@@ -200,7 +202,5 @@
 | 2022-12-05 | [`**a***** H****** ******r****`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2Ar%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-05 | [`B****** *b*`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2Ab%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-05 | [`LJ Hooker Palm Beach`](https://google.com/search?q=LJ+Hooker+Palm+Beach) | [alphv](profiles.md?id=alphv) |
-| 2022-12-05 | [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | [alphv](profiles.md?id=alphv) |
-| 2022-12-05 | [`moruga it`](https://google.com/search?q=moruga+it) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Monday 19/12/2022 11.00 (UTC)_
+Last update : _Monday 19/12/2022 12.14 (UTC)_
