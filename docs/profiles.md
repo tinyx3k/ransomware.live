@@ -33,8 +33,6 @@
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -59,8 +57,6 @@
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -76,8 +72,6 @@
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -98,8 +92,6 @@ _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -117,8 +109,6 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -142,8 +132,6 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -673,8 +661,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -743,8 +729,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -794,8 +778,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -1335,8 +1317,6 @@ _`previous clearnet domain blackshadow.cc`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -1407,8 +1387,6 @@ _`claim to donate 80% of earnings to charity`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -2910,8 +2888,6 @@ _`previous clearnet domain coomingproject.com`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -2927,8 +2903,6 @@ _`previous clearnet domain coomingproject.com`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3098,8 +3072,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3145,8 +3117,6 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3235,8 +3205,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3280,8 +3248,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3334,8 +3300,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3353,8 +3317,6 @@ _`marketplace - not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3375,8 +3337,6 @@ _`marketplace - not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3395,8 +3355,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3412,8 +3370,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3565,8 +3521,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3582,8 +3536,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3611,8 +3563,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3667,8 +3617,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3691,8 +3639,6 @@ _`login page, no posts`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3720,8 +3666,6 @@ _`aka fivehands`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3963,8 +3907,6 @@ _``_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -3985,8 +3927,6 @@ _`aka hotarus corp`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -4222,8 +4162,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -4243,8 +4181,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -5738,8 +5674,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -5786,8 +5720,6 @@ _`marketplace - not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6079,8 +6011,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6099,8 +6029,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6324,8 +6252,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6341,8 +6267,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6364,8 +6288,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6434,8 +6356,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6463,8 +6383,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6535,8 +6453,6 @@ _`not a ransomware group`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6807,8 +6723,6 @@ _`aka pwndlocker`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -6834,8 +6748,6 @@ _`aka pwndlocker`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -7224,8 +7136,6 @@ _`login page, no posts`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -7481,8 +7391,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -7505,8 +7413,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -7643,8 +7549,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -7933,8 +7837,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8102,8 +8004,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8257,8 +8157,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8338,8 +8236,6 @@ _`no longer in operation - rebrand`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8358,8 +8254,6 @@ _`nodes or hosts with no current attribution or identification`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8376,8 +8270,6 @@ _`nodes or hosts with no current attribution or identification`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8558,8 +8450,6 @@ _`ecdmr42axxx.onion - fileserver`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8627,8 +8517,6 @@ _`aka fonix`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
@@ -8678,10 +8566,8 @@ _`aka fonix`_
 
 > no post found
 
-| post | date | Description
-|---|---|---|
 
  --- 
 
 
-Last update : _Monday 19/12/2022 12.23 (UTC)_
+Last update : _Monday 19/12/2022 12.31 (UTC)_

@@ -292,6 +292,18 @@ def postcount():
         post_count += 1
     return post_count
 
+def grouppostavailable(groupname):
+    grouppost_count = 0
+    posts = openjson('posts.json')
+    for post in posts:
+        if post['group_name'] == groupname:
+            grouppost_count += 1
+    if grouppost_count > 0:
+        return True
+    else:
+        return False
+
+
 def grouppostcount(groupname):
     grouppost_count = 0
     posts = openjson('posts.json')
