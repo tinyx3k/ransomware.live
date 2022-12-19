@@ -60,6 +60,8 @@ _Post indexing is done with a mix of `grep`, `awk` and `sed` within [parsers.py]
 
 [`posts.json`](https://github.com/jmousqueton/ransomware.live/blob/main/posts.json) contains parsed posts, noted by their discovery time and accountable group
 
+[Ransomware.live](https::/www.ransomware.live) uses Ransomware Note from [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes)
+
 ## Analysis tools
 
 All rendered source HTML is stored within [ransomwatch/tree/main/source](https://github.com/jmousqueton/ransomware.live/tree/main/source) - change tracking and revision history of these blogs is made possible with git
@@ -134,14 +136,6 @@ _Generate sitemap.xlm_
 
 ```shell
 ./asset/sitemap.sh
-```
-
-### [update_notes.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/update.notes.sh)
-
-_Update Ransomware Note from [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes)_
-
-```shell
-./asset/update_notes.sh
 ```
 
 ### [OrderGroups.sh](https://github.com/jmousqueton/ransomware.live/blob/main/assets/orderGroups.sh)
