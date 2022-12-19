@@ -1,4 +1,3 @@
-# Disclaimer 
 
 ## 🕵🏻 Privacy
 

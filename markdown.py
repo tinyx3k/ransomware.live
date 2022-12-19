@@ -83,7 +83,7 @@ def mainpage():
     writeline(uptime_sheet,'> Ransomware is a type of malware used by cybercriminals to encrypt the victim\'s files and make them inaccessible unless they pay the ransom. Today cybercriminals are more sophisticated, and they not only encrypt the victim\'s files also they leaking their data to the Darknet unless they will pay the ransom.')
     writeline(uptime_sheet,'')
     writeline(uptime_sheet,'')
-    writeline(uptime_sheet, '_ `Ransomware.live` is collecting, indexing, and centralizing ransomware information from most ransomware groups and their victims. The information posted on this website is dynamically updated in near real-time _')
+    writeline(uptime_sheet, '_`Ransomware.live` is collecting, indexing, and centralizing ransomware information from most ransomware groups and their victims. The information posted on this website is dynamically updated in near real-time._')
     writeline(uptime_sheet,'')
     writeline(uptime_sheet,'')
     writeline(uptime_sheet, '🔎 Currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_ 🟢')
