@@ -648,17 +648,17 @@ def kelvinsecurity():
     for post in posts:
         appender(post, 'kelvinsecurity')
 
-def blackbasta():
-    stdlog('parser: ' + 'blackbasta')
-    # egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/blackbasta-*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    parser = '''
-    grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '<' -f 1 | sed -e 's/\&amp/\&/g' -e 's/\&;/\&/g'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('blackbasta: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'blackbasta')
+#def blackbasta():
+#    stdlog('parser: ' + 'blackbasta')
+#    # egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/blackbasta-*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+#    parser = '''
+#    grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '<' -f 1 | sed -e 's/\&amp/\&/g' -e 's/\&;/\&/g'
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('blackbasta: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'blackbasta')
 
 def onyx():
     stdlog('parser: ' + 'onyx')
@@ -1005,4 +1005,27 @@ def lockbit3():
                 file.close()
         except:
             errlog('lockbit3: ' + 'parsing fail')
+            pass    
+
+def blackbasta():
+    stdlog('parser: ' + 'blackbasta')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('blackbasta-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {"class": "card"})
+                for div in divs_name:
+                    title = div.find('a', {"class": "blog_name_link"}).text.strip()
+                    descs = div.find_all('p')
+                    description = ''
+                    for desc in descs:
+                        description += desc.text.strip()
+                    appender(title, 'blackbasta', description.replace('\n',''))
+                    stdlog('-'+title)
+                    stdlog('----'+description)
+                file.close()
+        except:
+            errlog('blackbasta: ' + 'parsing fail')
             pass    

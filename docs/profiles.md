@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -951,24 +951,27 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
-> 154 posts found
+> 157 posts found
 
 | post | date | Description
 |---|---|---|
+| `Jeppesen` | 19/12/2022 | Jeppesen and aviation have evolved together more than 80 years.Aviation might not evolve as dramatically now as it did in 1934, but aviation technology continues to evolve at a breakneck pace. The map is never really drawn; instead, we’re always in the process of drawing it, with each iteration sharper in focus and more insightful. Our solutions are the result of truly understanding aviation and aviators. We don’t react to needs. We meet them proactively by partnering with you and leveraging our strong relationships with other leading aviation organizations.SITE: www.jeppesen.comADDRESS55 Inverness Drive EastEnglewood, Colorado, 80112United States(303) 799-9090 |
+| `The Exchange Bank` | 19/12/2022 | The Exchange BankExchange Bank is a community bank offering personal and business banking services including mortgages, home loans and lines of credit and SBA loans.The Skiatook Bank, established in 1905, was the first bank in Skiatook. Later in 1905, the First Bank of Skiatook (actually the second) was established.In 1907, the Oklahoma Banking Company of Skiatook was founded, the second competitor of the Skiatook Bank.In 1911, the Skiatook Bank was adopted by the Federal Reserve Board and was renamed the First National Bank of Skiatook.In 1913 the Oklahoma Banking Company was also adopted by the Federal Reserve Board and was renamed the Oklahoma National Bank of SkiatookIn 1920 C.H. Cleveland, President of the First National Bank of Skiatook sold his stock in the bank to Ed Shackelford from Webbers Falls, OK.In 1929, The First National Bank of Skiatook and the Oklahoma National Bank of Skiatook merged and became the Oklahoma First National Bank of Skiatook.In 1930, the Oklahoma First National Bank of Skiatook was renamed The Exchange Bank.In 1952, The Exchange Bank’s new million-dollar building was opened at 220 S. Broadway.In 1972 a new building was built at the present location of 300 West Rogers Blvd on main Street.SITE: https://www.exb-ok.comADDRESSP.O. Box 448 SkiatookOklahoma 74070T:(918) 396-2345 |
+| `Sterling` | 19/12/2022 | Sterling helps create people-first cultures built on a foundation of trust and safety.We understand that every employee and new hire contributes to the unique culture of your organization. That’s why our global background checks and identity services are differentiated by unrivaled client service and deep market expertise to help you make confident hiring decisions that strengthen your organization and culture.We believe that every hire is important, and we are committed to helping our clients hire with confidence, speed, and trust.SITE: https://www.sterlingcheck.comADDRESSNew York1 State Street PlazaNew York, NY 10004 |
 | `Petmate` | 14/12/2022 |   |
 | `Pella` | 13/12/2022 |   |
-| `Maney  Gordon  Zeller, P.A.` | 09/12/2022 |   |
+| `Maney  Gordon  Zeller, P.A.` | 09/12/2022 | As a full-service law firm, Maney | Gordon | Zeller, P.A. is proud to provide high-quality legal service to those navigating the U.S. immigration system. We have several offices conveniently located across the country from Pennsylvania to Florida. This way, we are always available to help our clients get the effective representation that they truly deserve—no matter where they are located geographically. With over a century of combined experience, we are able to provide outstanding representation to clients in a wide-range of immigration matters.SITE: https://www.maneygordon.com |
 | `Atcore` | 09/12/2022 |   |
 | `Dingbro Ltd` | 09/12/2022 |   |
 | `A.R. Thomson Group` | 09/12/2022 |   |
 | `Cleveland Brothers` | 09/12/2022 |   |
-| `AIRCOMECHANICAL` | 09/12/2022 |   |
-| `Panolam Surface Systems` | 09/12/2022 |   |
-| `SEACAST` | 09/12/2022 |   |
+| `AIRCOMECHANICAL` | 09/12/2022 | Dirty coils, vents, and ducts diminish air quality and place strain on your heating and cooling system. Our Smart Service plans ensure the comfort, safety, reliability, and efficiency of your home’s HVAC system. Sign up for today to get improved air quality and a longer lasting heating and cooling system. You might not see the difference, except in your lower utility bills.SITE: https://www.aircomechanical.com |
+| `Panolam Surface Systems` | 09/12/2022 | Panolam Surface Systems has been providing the largest selection of integrated products for over 70 years. At times, it feels like we’re just getting started. The world is different than it was seven decades ago and so are we. We are more energized and committed than ever to inspiring customers with the broadest range of surface options and designs in the marketplace. Passionately offering a portfolio of diverse brands that cater to the breadth of your imagination, we can help you arrive at the perfect solution fast and affordably, saving you time and money. Every aspect of our business is focused on fulfilling your vision for the project at hand. Your vision is what drives us to create the most relevant and forward-conscious color palettes and designs offered anywhere. It’s what motivates us to make fabrication as efficient and affordable as possible through product integration; to be your one source for your surfacing needs in virtually any kind of room imaginable.SITE: https://panolam.com |
+| `SEACAST` | 09/12/2022 | Established in Seattle by Mike and Bert Robins in 1985, SeaCast operates several full service investment casting foundries. In addition to casting, the facilities offer extensive support services such as CNC machining, heat treat and assembly. The company serves a wide variety of industries including: aerospace, industrial pumps, industrial gas turbines, medical, transportation and computer hardware. To meet rigorous customer requirements, SeaCast’s manufacturing processes have earned ISO9000, AS9100 and NADCAP certifications. Over 350 dedicated employees comprise SeaCast’s workforce and the company remains privately held.SITE: www.seacast.com |
 | `nworksllc` | 09/12/2022 |   |
 | `PANOLAM` | 06/12/2022 |   |
 | `Maple Leaf Foods` | 01/12/2022 |   |
@@ -3356,7 +3359,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -3414,7 +3417,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -8974,4 +8977,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 19/12/2022 21.22 (UTC)_
+Last update : _Monday 19/12/2022 22.57 (UTC)_
