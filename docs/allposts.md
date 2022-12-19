@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5640` posts_
+_All `5641` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `5640` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-19 | [`Keralty`](https://google.com/search?q=Keralty) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-19 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-12-19 | [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-12-19 | [`Sterling`](https://google.com/search?q=Sterling) | [blackbasta](profiles.md?id=blackbasta) |
@@ -5651,4 +5652,4 @@ _All `5640` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 19/12/2022 22.57 (UTC)_
+Last update : _Monday 19/12/2022 23.20 (UTC)_

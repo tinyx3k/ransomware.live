@@ -682,16 +682,16 @@ def mindware():
     for post in posts:
         appender(post, 'mindware')
 
-def ransomhouse():
-    stdlog('parser: ' + 'ransomhouse')
-    parser = '''
-    egrep -o "class=\"cls_recordTop\"><p>([A-Za-z0-9 ,\'.-])+</p>" source/ransomhouse-xw7au5p*.html | cut -d '>' -f 3 | cut -d '<' -f 1 && jq -r '.data[].header' source/ransomhouse-zoh*.html || true
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('ransomhouse: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'ransomhouse')
+#def ransomhouse():
+#    stdlog('parser: ' + 'ransomhouse')
+#    parser = '''
+#    egrep -o "class=\"cls_recordTop\"><p>([A-Za-z0-9 ,\'.-])+</p>" source/ransomhouse-xw7au5p*.html | cut -d '>' -f 3 | cut -d '<' -f 1 && jq -r '.data[].header' source/ransomhouse-zoh*.html || true
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('ransomhouse: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'ransomhouse')
 
 def cheers():
     stdlog('parser: ' + 'cheers')
@@ -1022,10 +1022,28 @@ def blackbasta():
                     description = ''
                     for desc in descs:
                         description += desc.text.strip()
-                    appender(title, 'blackbasta', description.replace('\n',''))
+                    appender(title, 'blackbasta', description.replace('\n','').replace('ADDRESS',' Address '))
                     stdlog('-'+title)
                     stdlog('----'+description)
                 file.close()
         except:
             errlog('blackbasta: ' + 'parsing fail')
+            pass    
+
+def ransomhouse():
+    stdlog('parser: ' + 'ransomhouse')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('ransomhouse-'):
+                html_doc='source/'+filename
+                file=open(html_doc, 'r')
+                data = json.load(file)
+                for element in data['data']:
+                    title = element['header']
+                    description = re.sub(r'<[^>]*>', '',element['info'])
+                    # stdlog(title)
+                    appender(title, 'ransomhouse', description)
+                file.close()
+        except:
+            errlog('ransomhouse: ' + 'parsing fail')
             pass    
