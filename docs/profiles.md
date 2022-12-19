@@ -5695,14 +5695,9 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | `tdtu.edu.vn` | 12/12/2022 |   |
 | `veolus.com` | 12/12/2022 |   |
 | `mcft.com` | 15/12/2022 |   |
-| `accuro.co.nz` | 19/12/2022 | Accuro is a New Zealand-owned, not for profit insurer. We put our 30,000 members before financial gain. 
-When you combine our quality products with fast claims turnaround and our knowledgeable customer service 
-team, it’s no wonder we are New Zeala... |
-| `senateshj.com` | 19/12/2022 | SenateSHJ helps include government, healthcare, journalism, media, marketing, business consulting, digital and social strategy management,
-as well as communication consulting. They help organizations solve their reputation, change, and engagement pr... |
-| `mercuryit.co.nz` | 19/12/2022 | IT is a company that provides services in its field to many companies in New Zealand and Australia. 
-
-Unfortunately, this company could not protect itself and its customers. As a result of our attack, more than 500 TB of customer data was encrypted... |
+| `accuro.co.nz` | 19/12/2022 | Accuro is a New Zealand-owned, not for profit insurer. We put our 30,000 members before financial gain. When you combine our quality products with fast claims turnaround and our knowledgeable customer service team, it’s no wonder we are New Zeala... |
+| `senateshj.com` | 19/12/2022 | SenateSHJ helps include government, healthcare, journalism, media, marketing, business consulting, digital and social strategy management,as well as communication consulting. They help organizations solve their reputation, change, and engagement pr... |
+| `mercuryit.co.nz` | 19/12/2022 | IT is a company that provides services in its field to many companies in New Zealand and Australia. Unfortunately, this company could not protect itself and its customers. As a result of our attack, more than 500 TB of customer data was encrypted... |
 
  --- 
 
@@ -8689,4 +8684,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 19/12/2022 12.14 (UTC)_
+Last update : _Monday 19/12/2022 12.23 (UTC)_
