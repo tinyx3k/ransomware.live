@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5623` posts_
+_All `5624` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `5623` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-19 | [`accuro.co.nz`](https://google.com/search?q=accuro.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-18 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | [projectrelic](profiles.md?id=projectrelic) |
 | 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
@@ -5634,4 +5635,4 @@ _All `5623` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 19/12/2022 09.09 (UTC)_
+Last update : _Monday 19/12/2022 11.00 (UTC)_
