@@ -8,8 +8,8 @@ _december 19th, 2022_
 
 _`Ransomware.live` is collecting, indexing, and centralizing ransomware information from most ransomware groups and their victims. The information posted on this website is dynamically updated in near real-time._
 
+### Some figures 
 
-### Some figues 
 🔎 Currently tracking `131` groups across `241` relays & mirrors - _`68` currently online_ 🟢
 
 Check recent ransomware posts [`here`](recentposts.md)
@@ -23,9 +23,9 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🏚 There have been `3351` posts since the `1st January 2022`
 
-📸 There are `112` ransomware group host screenshots
+📸 There are `113` ransomware group host screenshots
 
-📝 There are `89` ransomware notes
+📝 There are `118` ransomware notes
 
 🚀 There have been `2252` posts `last year`
 
@@ -39,5 +39,5 @@ _`20` sites using v2 onion services are no longer indexed - [support.torproject.
 
 
 
-Last update : _Monday 19/12/2022 18.53 (UTC)_
+Last update : _Monday 19/12/2022 19.54 (UTC)_
 
