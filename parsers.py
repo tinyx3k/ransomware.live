@@ -987,9 +987,10 @@ def royal():
                 data = json.load(file)
                 for element in data['data']:
                     title = element['title']
+                    website = element['url']
                     description = re.sub(r'<[^>]*>', '',element['text'])
                     # stdlog(title)
-                    appender(title, 'royal', description)
+                    appender(title, 'royal', description,website)
                 file.close()
         except:
             errlog('royal: ' + 'parsing fail')
@@ -1045,9 +1046,10 @@ def ransomhouse():
                 data = json.load(file)
                 for element in data['data']:
                     title = element['header']
+                    website = element['url']
                     description = re.sub(r'<[^>]*>', '',element['info'])
                     # stdlog(title)
-                    appender(title, 'ransomhouse', description)
+                    appender(title, 'ransomhouse', description, website)
                 file.close()
         except:
             errlog('ransomhouse: ' + 'parsing fail')
@@ -1068,7 +1070,7 @@ def hive():
                         description = element['description'].replace('\n',' ')
                     except:
                         errlog('hive: ' + 'something happen')
-                    appender(title, 'hive', description,website)
+                    appender(title, 'hive', description, website)
                 file.close()
         except:
             errlog('hive: ' + 'parsing fail')
