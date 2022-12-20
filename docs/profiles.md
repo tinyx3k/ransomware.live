@@ -3861,13 +3861,7 @@ _``_
 
 | post | date | Description
 |---|---|---|
-| `JAKKS Pacific Inc` | 20/12/2022 | Corporate Overview
-JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world.
-
-The company has become a top six U.S. player in the toys and leisure products sector through product development, licensing agreements and strategic acquisitions. We believe our growth strategy is unique and built upon a concentrated effort to spread earnings across all four quarters. We have accomplished that by expanding and 'counter-seasonalizing' our product lines, adding new retail outlets and leveraging our product development and merchandising expertise on products with staying power.
-
-About JAKKS Pacific, Inc.
-JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific’s popular proprietary brands include: Fly Wheels®, Perfectly Cute®, ReDo Skateboard Co.®, X Power Dozer®, Disguise®, Weee-Do™ and a wide range of entertainment-inspired products featuring premier licensed properties. Through JAKKS Cares, the company’s commitment to philanthropy, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram (@jakkstoys), Twitter (@jakkstoys) and Facebook (JAKKS Pacific). |
+| `JAKKS Pacific Inc` | 20/12/2022 | JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. The company has become a top six U.S. player in the toys and leisure products sector through product development, licensing agreements and strategic acquisitions. We believe our growth strategy is unique and built upon a concentrated effort to spread earnings across all four quarters. We have accomplished that by expanding and 'counter-seasonalizing' our product lines, adding new retail outlets and leveraging our product development and merchandising expertise on products with staying power. About JAKKS Pacific, Inc. JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific’s popular proprietary brands include: Fly Wheels®, Perfectly Cute®, ReDo Skateboard Co.®, X Power Dozer®, Disguise®, Weee-Do™ and a wide range of entertainment-inspired products featuring premier licensed properties. Through JAKKS Cares, the company’s commitment to philanthropy, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram (@jakkstoys), Twitter (@jakkstoys) and Facebook (JAKKS Pacific). |
 | `Stolle Machinery` | 20/12/2022 | **** ALL BLUEPRINTS OF ALL PRODUCT LINES WILL BE AVAILABLE SOON **** Stolle is the world's leading supplier of two piece can and end-making machinery for the global canmaking industry. Our high speed machines can be found in can plants around the world performing the value-added functions of the canmaking process. |
 | `Mark-Taylor` | 14/12/2022 |   |
 | `Expand Group` | 14/12/2022 |   |
@@ -8986,4 +8980,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 20/12/2022 09.22 (UTC)_
+Last update : _Tuesday 20/12/2022 09.38 (UTC)_
