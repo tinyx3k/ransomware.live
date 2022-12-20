@@ -3,6 +3,7 @@
 | Date | Title | Group |
 |---|---|---|
 | 2022-12-20 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
+| 2022-12-20 | [`Zehnders of Frankenmuth`](https://google.com/search?q=Zehnders+of+Frankenmuth) | [royal](profiles.md?id=royal) |
 | 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | [hive](profiles.md?id=hive) |
@@ -201,6 +202,5 @@
 | 2022-12-08 | [`????`](https://google.com/search?q=%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-12-07 | [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | [lorenz](profiles.md?id=lorenz) |
 | 2022-12-07 | [`test`](https://google.com/search?q=test) | [monti](profiles.md?id=monti) |
-| 2022-12-07 | [`Requena`](https://google.com/search?q=Requena) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Tuesday 20/12/2022 21.02 (UTC)_
+Last update : _Tuesday 20/12/2022 21.00 (UTC)_
