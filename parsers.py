@@ -591,16 +591,16 @@ def nightsky():
     for post in posts:
         appender(post, 'nightsky')
 
-def vicesociety():
-    stdlog('parser: ' + 'vicesociety')
-    parser = '''
-    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('vicesociety: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'vicesociety')
+#def vicesociety():
+#    stdlog('parser: ' + 'vicesociety')
+#    parser = '''
+#    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('vicesociety: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'vicesociety')
 
 def pandora():
     stdlog('parser: ' + 'pandora')
@@ -1062,3 +1062,26 @@ def hive():
         except:
             errlog('hive: ' + 'parsing fail')
             pass    
+
+def vicesociety():
+    stdlog('parser: ' + 'vicesociety')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('vicesociety-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('td',{"valign":"top"})
+                for div in divs_name:
+                    try:
+                        title = div.find("font", {"size":4}).text.strip()
+                        for description in div.find_all("font", {"size":2, "color":"#5B61F6"}):
+                            if not description.b.text.strip().startswith("http"):
+                                desc = description.get_text()
+                                appender(title, 'vicesociety', desc)
+                    except:
+                        print("Failed during : " + filename)
+                file.close()
+        except:
+            print("Failed during : " + filename)
+            pass

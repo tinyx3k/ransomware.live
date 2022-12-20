@@ -8696,10 +8696,25 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 130 posts found
+> 145 posts found
 
 | post | date | Description
 |---|---|---|
+| `FREDERICK Public Schools` | 20/12/2022 | Our Mission: To provide a caring and creative environment that promotes excellence, fosters integrity, and empowers, inspires, and encourages each student to reach his or her full academic, extracurricular, and social potential. |
+| `McNamara & Thiel Insurance Agency` | 20/12/2022 | Established in 1974, McNamara & Thiel has been one of the leading full-service, independent agencies in Fond du Lac and the surrounding areas. Our combined experience of over 41 years focuses on service to our clients and community. |
+| `JEALSA` | 20/12/2022 | Jealsa is a family business based in Galicia and founded in 1958 with its central headquarters located in Boiro (La CoruÃ±a â€“ Spain). We are dedicated to manufacturing and distribution of canned seafood and fish. |
+| `Communications Solutions Company` | 20/12/2022 | Ltd (CSC) is a Saudi Arabian Company based in Riyadh. CSC is a leading company in Telecommunication & Networking field services. CSC is accredited by STC, ACWA Power, MOFA, SEC, GASCO, Mobily, Zain, SWCC, KJO, Siemens, Nokia, Ericsson and Saudi Aramco. |
+| `Priority Building Services, LLC` | 20/12/2022 | Over three decades of combined experience in managing the janitorial maintenance programs of some of the most prominent Fortune 500 companies has made Priority Building Services one of the most experienced facility services firms in the industry. |
+| `Waikato District Health Board` | 20/12/2022 | The Waikato District Health Board is a district health board with the focus on providing healthcare to the Waikato region of New Zealand. |
+| `Whitehouse Independent School District` | 20/12/2022 | The mission of Whitehouse ISD, the standard of excellence, is to inspire and equip students through innovative and challenging opportunities. |
+| `Karl Bachl GmbH & Co.KG` | 20/12/2022 | The small brickyard has now developed into a group of companies with over 2,700 employees at home and abroad. In addition to the German production sites, plants and trading branches are now operated in Austria, the Czech Republic, Hungary, Italy, Poland, Romania and Croatia. |
+| `Holy Family RC & CE College` | 20/12/2022 | We are proud to be a joint faith college serving Catholic and Anglican young people here in Heywood. The message of Christ is at the very heart of the education we look to provide here at Holy Family instilling the values of Faith, Integrity, Compassion, Perseverance and Community in our young people. |
+| `SparJames Hall & CompanyHeron and Brearley` | 20/12/2022 | Heron & Brearley and its related group of companies is a major employer in the Isle of Man, as well as a leader in the Island's hospitality industry. From managed houses to convenience stores and forecourts we offer an impressive array of services to a diverse range of customers, both on-Island and in the UK. |
+| `Higher School of the Public Ministry of the Union` | 20/12/2022 | The mission of the ESMPU is to facilitate the continuous improvement of the members and servants of the Public Prosecutor's Office for an effective professional performance. |
+| `San Luis Coastal Unified School District` | 20/12/2022 | Small neighborhood schools are a hallmark of the District where students are educated from preschool through twelfth grade and a world-class adult school program offers unique, life-improving courses to thousands of community members. |
+| `Consejo Superior de Investigaciones Cientificas` | 20/12/2022 | The Higher Council for Scientific Research (CSIC) is the largest public institution in Spain dedicated to scientific and technical research and one of the most prominent in the European Research Area. |
+| `Family Medicine CentersFMC Clinics` | 20/12/2022 | Family Medicine Centers are the area's leading provider of family medical care. Our board-certified physicians use the latest technology to provide your family with the highest level of care. |
+| `CR&R Environmental Services` | 20/12/2022 | CR&R Incorporated is one of Southern California's most innovative and successful waste and recycling collection companies, serving more than 3 million people and over 25,000 businesses throughout Orange, Los Angeles, San Bernardino, Imperial and Riverside counties. In addition, we also have operations in Southern Arizona and Colorado. |
 | `Xavier University of Louisiana` | 20/12/2022 | Xavier University of Louisiana, founded by Saint Katharine Drexel and the Sisters of the Blessed Sacrament, is Catholic and historically Black. The ultimate purpose of the University is to contribute to the promotion of a more just and humane society by preparing its students to assume roles of leadership and service in a global society. |
 | `University Institute of Technology of Paris` | 17/12/2022 | The University Institute of Technology (IUT) of Paris - Rives de Seine welcomes 3,000 students each year from a wide variety of backgrounds, ranging from recent high school graduates, holders of a higher education diploma and students engaged in continuing education. All our students share a common goal founded on professionalization, academic innovation and educational quality. |
 | `Publicare` | 16/12/2022 |   |
@@ -8708,7 +8723,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `Feu Vert` | 06/12/2022 |   |
 | `Glutz` | 05/12/2022 |   |
 | `Plascar Participacoes Industriais` | 29/11/2022 |   |
-| `IKEA Morocco` | 28/11/2022 |   |
+| `IKEA MoroccoIKEA Kuwait` | 28/11/2022 | We believe that no matter what we do in life, we should always try to be the absolute best at it. At IKEA we focus on being the best at ordinary everyday things. Because to us, the ordinary everyday contains the best of life. We want to be Extraordinary at the ordinary for you. |
 | `Cincinnati State` | 24/11/2022 |   |
 | `Institute of Science and Technology Austria` | 17/11/2022 |   |
 | `Baysgarth School` | 14/11/2022 |   |
@@ -8747,7 +8762,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `XQUADRAT GmbH` | 19/07/2022 |   |
 | `San Luis Coastal Unified` | 19/07/2022 |   |
 | `Vectalia group` | 04/07/2022 |   |
-| `Ministry of Agriculture` | 27/06/2022 |   |
+| `Ministry of Agriculture Rebublic Indonesia` | 27/06/2022 | Indonesia's rich natural resources are influenced by its tropical climate and geographical location between two continents, Asia and Australia, and two oceans, the Pacific Ocean and the Indian Ocean. Therefore, Indonesia is known as an agrarian country with a variety of products from agriculture, plantations, livestock, fisheries and forestry. |
 | `Medical University of Innsbruck` | 26/06/2022 |   |
 | `PT Astra Honda Motor` | 22/06/2022 |   |
 | `Pilton Community College` | 22/06/2022 |   |
@@ -8783,7 +8798,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | `ALMANIE GROUP` | 28/04/2022 |   |
 | `Mossbourne Federation` | 23/04/2022 |   |
 | `Centre Hospitalier de Castelluccio` | 22/04/2022 |   |
-| `Small Industries Development` | 21/04/2022 |   |
+| `Small Industries DevelopmentBank of India` | 21/04/2022 | Small Industries Development Bank of India is the apex regulatory body for overall licensing and regulation of micro, small and medium enterprise finance companies in India. It is under the jurisdiction of Ministry of Finance, Government of India headquartered at Lucknow and having its offices all over the country. |
 | `Maristes Hermitage` | 21/04/2022 |   |
 | `NuLife Med` | 17/04/2022 |   |
 | `APSM Systems` | 29/03/2022 |   |
@@ -8983,4 +8998,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 20/12/2022 15.23 (UTC)_
+Last update : _Tuesday 20/12/2022 16.14 (UTC)_

@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5646` posts_
+_All `5661` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,21 @@ _All `5646` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-20 | [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`JEALSA`](https://google.com/search?q=JEALSA) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Communications Solutions Company`](https://google.com/search?q=Communications+Solutions+Company) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Priority Building Services, LLC`](https://google.com/search?q=Priority+Building+Services%2C+LLC) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Waikato District Health Board`](https://google.com/search?q=Waikato+District+Health+Board) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Whitehouse Independent School District`](https://google.com/search?q=Whitehouse+Independent+School+District) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Karl Bachl GmbH & Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26+Co.KG) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Holy Family RC & CE College`](https://google.com/search?q=Holy+Family+RC+%26+CE+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`SparJames Hall & CompanyHeron and Brearley`](https://google.com/search?q=SparJames+Hall+%26+CompanyHeron+and+Brearley) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Higher School of the Public Ministry of the Union`](https://google.com/search?q=Higher+School+of+the+Public+Ministry+of+the+Union) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`San Luis Coastal Unified School District`](https://google.com/search?q=San+Luis+Coastal+Unified+School+District) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Consejo Superior de Investigaciones Cientificas`](https://google.com/search?q=Consejo+Superior+de+Investigaciones+Cientificas) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Family Medicine CentersFMC Clinics`](https://google.com/search?q=Family+Medicine+CentersFMC+Clinics) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`CR&R Environmental Services`](https://google.com/search?q=CR%26R+Environmental+Services) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](profiles.md?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](profiles.md?id=vicesociety) |
@@ -287,7 +302,7 @@ _All `5646` posts_
 | 2022-11-28 | [`ORDEREXPRESS.COM.MX FILES PART7 - 10.10.1.33\C$\Users\emmanuel.herrera\Documents\Imágenes\`](https://google.com/search?q=ORDEREXPRESS.COM.MX+FILES+PART7+-+10.10.1.33%5CC%24%5CUsers%5Cemmanuel.herrera%5CDocuments%5CIm%C3%A1genes%5C) | [clop](profiles.md?id=clop) |
 | 2022-11-28 | [`MARCELSOLUTION.COM FILES PART8 - 192.168.12.120\E$\DATA\ PUBLISHED`](https://google.com/search?q=MARCELSOLUTION.COM+FILES+PART8+-+192.168.12.120%5CE%24%5CDATA%5C+PUBLISHED) | [clop](profiles.md?id=clop) |
 | 2022-11-28 | [`https://tubularsteel.ca`](https://google.com/search?q=https%3A%2F%2Ftubularsteel.ca) | [royal](profiles.md?id=royal) |
-| 2022-11-28 | [`IKEA Morocco`](https://google.com/search?q=IKEA+Morocco) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-11-28 | [`IKEA MoroccoIKEA Kuwait`](https://google.com/search?q=IKEA+MoroccoIKEA+Kuwait) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-11-28 | [`STGi`](https://google.com/search?q=STGi) | [snatch](profiles.md?id=snatch) |
 | 2022-11-27 | [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | [bianlian](profiles.md?id=bianlian) |
 | 2022-11-27 | [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | [bianlian](profiles.md?id=bianlian) |
@@ -1531,7 +1546,7 @@ _All `5646` posts_
 | 2022-06-28 | [`SuperAlloy Industrial Co., Ltd.`](https://google.com/search?q=SuperAlloy+Industrial+Co.%2C+Ltd.) | [hive](profiles.md?id=hive) |
 | 2022-06-28 | [`Diskriter`](https://google.com/search?q=Diskriter) | [hive](profiles.md?id=hive) |
 | 2022-06-28 | [`datalit.it`](https://google.com/search?q=datalit.it) | [lockbit2](profiles.md?id=lockbit2) |
-| 2022-06-27 | [`Ministry of Agriculture`](https://google.com/search?q=Ministry+of+Agriculture) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-06-27 | [`Ministry of Agriculture Rebublic Indonesia`](https://google.com/search?q=Ministry+of+Agriculture+Rebublic+Indonesia) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-06-27 | [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | [lorenz](profiles.md?id=lorenz) |
 | 2022-06-27 | [`r1group`](https://google.com/search?q=r1group) | [cuba](profiles.md?id=cuba) |
 | 2022-06-26 | [`Medical University of Innsbruck`](https://google.com/search?q=Medical+University+of+Innsbruck) | [vicesociety](profiles.md?id=vicesociety) |
@@ -2169,7 +2184,7 @@ _All `5646` posts_
 | 2022-04-22 | [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-04-22 | [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-04-22 | [`incegd.com`](https://google.com/search?q=incegd.com) | [lockbit2](profiles.md?id=lockbit2) |
-| 2022-04-21 | [`Small Industries Development`](https://google.com/search?q=Small+Industries+Development) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-04-21 | [`Small Industries DevelopmentBank of India`](https://google.com/search?q=Small+Industries+DevelopmentBank+of+India) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-04-21 | [`Morrie's Auto Group`](https://google.com/search?q=Morrie%27s+Auto+Group) | [lorenz](profiles.md?id=lorenz) |
 | 2022-04-21 | [`Al Bijjar`](https://google.com/search?q=Al+Bijjar) | [arvinclub](profiles.md?id=arvinclub) |
 | 2022-04-21 | [`tvothai.com`](https://google.com/search?q=tvothai.com) | [lockbit2](profiles.md?id=lockbit2) |
@@ -5657,4 +5672,4 @@ _All `5646` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 20/12/2022 15.23 (UTC)_
+Last update : _Tuesday 20/12/2022 16.14 (UTC)_

@@ -2,6 +2,21 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-20 | [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`JEALSA`](https://google.com/search?q=JEALSA) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Communications Solutions Company`](https://google.com/search?q=Communications+Solutions+Company) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Priority Building Services, LLC`](https://google.com/search?q=Priority+Building+Services%2C+LLC) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Waikato District Health Board`](https://google.com/search?q=Waikato+District+Health+Board) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Whitehouse Independent School District`](https://google.com/search?q=Whitehouse+Independent+School+District) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Karl Bachl GmbH & Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26+Co.KG) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Holy Family RC & CE College`](https://google.com/search?q=Holy+Family+RC+%26+CE+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`SparJames Hall & CompanyHeron and Brearley`](https://google.com/search?q=SparJames+Hall+%26+CompanyHeron+and+Brearley) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Higher School of the Public Ministry of the Union`](https://google.com/search?q=Higher+School+of+the+Public+Ministry+of+the+Union) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`San Luis Coastal Unified School District`](https://google.com/search?q=San+Luis+Coastal+Unified+School+District) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Consejo Superior de Investigaciones Cientificas`](https://google.com/search?q=Consejo+Superior+de+Investigaciones+Cientificas) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`Family Medicine CentersFMC Clinics`](https://google.com/search?q=Family+Medicine+CentersFMC+Clinics) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-12-20 | [`CR&R Environmental Services`](https://google.com/search?q=CR%26R+Environmental+Services) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](profiles.md?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](profiles.md?id=vicesociety) |
@@ -187,20 +202,5 @@
 | 2022-12-07 | [`Wrota Mazowsza`](https://google.com/search?q=Wrota+Mazowsza) | [play](profiles.md?id=play) |
 | 2022-12-07 | [`UJV Rez`](https://google.com/search?q=UJV+Rez) | [play](profiles.md?id=play) |
 | 2022-12-07 | [`????????? ???? ?????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
-| 2022-12-06 | [`Feu Vert`](https://google.com/search?q=Feu+Vert) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-06 | [`g4s.com`](https://google.com/search?q=g4s.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-06 | [`amundson.co.nz`](https://google.com/search?q=amundson.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-06 | [`myersontooth.com`](https://google.com/search?q=myersontooth.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-06 | [`PANOLAM`](https://google.com/search?q=PANOLAM) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-12-06 | [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | [alphv](profiles.md?id=alphv) |
-| 2022-12-06 | [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | [alphv](profiles.md?id=alphv) |
-| 2022-12-06 | [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | [alphv](profiles.md?id=alphv) |
-| 2022-12-06 | [`CIBTvisas`](https://google.com/search?q=CIBTvisas) | [play](profiles.md?id=play) |
-| 2022-12-06 | [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | [hive](profiles.md?id=hive) |
-| 2022-12-05 | [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`ROFA INDUSTRIAL AUTOMATION`](https://google.com/search?q=ROFA+INDUSTRIAL+AUTOMATION) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Tuesday 20/12/2022 15.23 (UTC)_
+Last update : _Tuesday 20/12/2022 16.14 (UTC)_
