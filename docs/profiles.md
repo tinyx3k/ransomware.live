@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -951,7 +951,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -3360,7 +3360,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -3418,7 +3418,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -4154,10 +4154,11 @@ _`aka hotarus corp`_
 
 ### Posts
 
-> 41 posts found
+> 42 posts found
 
 | post | date | Description
 |---|---|---|
+| `LIBERTY PULTRUSIONS` | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |
 | `TLC` | 18/12/2022 | TLC is a global brand available in more than 84 million homes in the US and 270 million households around the world. Viewers can enjoy their favorite shows anytime, anywhere on discovery+, the definitive non-fiction, real-life subscription streaming service. A destination online, TLC offers in-depth fan sites and exclusive original video content. TLC is part of Discovery (NASDAQ: DISCA, DISCB, DISCK), reaching 3 billion cumulative viewers in more than 220 countries and territories to satisfy curiosity and captivate superfans with a portfolio of premium nonfiction, lifestyle, sports and kids content brands. In this case we will provide you with almost 1 TB of their scripts, videos, internal documentation, as well as personal information of employees and much more. |
 | `Bevolution Group` | 18/12/2022 |   |
 | `Gage Brothers` | 16/12/2022 |   |
@@ -9005,4 +9006,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 20/12/2022 21.00 (UTC)_
+Last update : _Tuesday 20/12/2022 22.11 (UTC)_

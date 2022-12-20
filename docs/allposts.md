@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5668` posts_
+_All `5669` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `5668` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-20 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-20 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-12-20 | [`Zehnders of Frankenmuth`](https://google.com/search?q=Zehnders+of+Frankenmuth) | [royal](profiles.md?id=royal) |
 | 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hive](profiles.md?id=hive) |
@@ -5679,4 +5680,4 @@ _All `5668` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 20/12/2022 21.00 (UTC)_
+Last update : _Tuesday 20/12/2022 22.11 (UTC)_
