@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](profiles.md?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hive](profiles.md?id=hive) |
@@ -201,6 +202,5 @@
 | 2022-12-05 | [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`ROFA INDUSTRIAL AUTOMATION`](https://google.com/search?q=ROFA+INDUSTRIAL+AUTOMATION) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Tuesday 20/12/2022 11.10 (UTC)_
+Last update : _Tuesday 20/12/2022 13.10 (UTC)_

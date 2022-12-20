@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5645` posts_
+_All `5646` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `5645` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](profiles.md?id=cuba) |
 | 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hive](profiles.md?id=hive) |
@@ -5656,4 +5657,4 @@ _All `5645` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 20/12/2022 11.10 (UTC)_
+Last update : _Tuesday 20/12/2022 13.10 (UTC)_
