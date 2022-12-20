@@ -42,7 +42,7 @@ def main():
         stdlog('group: {}'.format(group['name']))
         for webpage in group['locations']:
             if webpage['available'] is True:
-                screenshot(webpage['slug'],webpage['fqdn'])
+                screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
             else:
                 stdlog('webshot: {}'.format(webpage['slug']) + ' not available')
 
