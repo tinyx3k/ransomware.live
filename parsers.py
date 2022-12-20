@@ -1083,8 +1083,8 @@ def vicesociety():
                                 desc = description.get_text()
                                 appender(title, 'vicesociety', desc)
                     except:
-                        print("Failed during : " + filename)
+                        errlog('vicesociety' + 'parsing fail')
                 file.close()
         except:
-            print("Failed during : " + filename)
+            errlog('vicesociety' + 'parsing fail')
             pass
