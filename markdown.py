@@ -366,10 +366,14 @@ def profilepage():
                         description=post['description'] 
                     except:
                         description=' '
+                    try:
+                        postURL = '[`' + post['post_title'].replace('|', '') + '`](' + post['website'] + ')'
+                    except:
+                        postURL = '`' + post['post_title'].replace('|', '') + '`'
                     date = post['discovered'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
-                    line = '| ' + '`' + post['post_title'].replace('|', '') + '`' + ' | ' + date + ' | ' + description + ' |'
+                    line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
                     writeline(profilepage, line)
         writeline(profilepage, '')
         writeline(profilepage, '')

@@ -3862,7 +3862,7 @@ _``_
 
 | post | date | Description
 |---|---|---|
-| `Interface` | 20/12/2022 | **** 30% OF THE DATA IS COMING SOON ****  Interface, Inc. is a global flooring company specializing in carbon neutral carpet tile and resilient flooring.  Stocks: NASDAQ: TILE Equity: IF6N.F, IF6N.BE, IF6N.HA |
+| [`Interface`](https://www.interface.com) | 20/12/2022 | **** 30% OF THE DATA IS COMING SOON ****  Interface, Inc. is a global flooring company specializing in carbon neutral carpet tile and resilient flooring.  Stocks: NASDAQ: TILE Equity: IF6N.F, IF6N.BE, IF6N.HA |
 | `North Idaho College` | 20/12/2022 | Founded in 1933, North Idaho College is a community college in Coeur d'Alene, Idaho. |
 | `Innovative Education Management` | 20/12/2022 | Innovative Education Management (IEM) has been successfully developing and operating California charter schools since 1998 |
 | `Dixons Allerton Academy` | 20/12/2022 | Dixons Allerton Academy (formerly Rhodesway Academy) is a coeducational all-through school and sixth form located in Allerton area of the City of Bradford, in the English county of West Yorkshire. |
@@ -9007,4 +9007,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 21/12/2022 00.22 (UTC)_
+Last update : _Wednesday 21/12/2022 00.35 (UTC)_
