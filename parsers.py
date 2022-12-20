@@ -1058,7 +1058,7 @@ def hive():
                     title = element['title']
                     description = element['description']
                     stdlog(title)
-                    appender(title, 'hive', description)
+                    appender(title, 'hive', description.replace('\n',' '))
                 file.close()
         except:
             errlog('hive: ' + 'parsing fail')
