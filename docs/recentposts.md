@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`Stolle Machinery`](https://google.com/search?q=Stolle+Machinery) | [hive](profiles.md?id=hive) |
 | 2022-12-19 | [`Keralty`](https://google.com/search?q=Keralty) | [ransomhouse](profiles.md?id=ransomhouse) |
@@ -200,7 +202,5 @@
 | 2022-12-05 | [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`ROFA INDUSTRIAL AUTOMATION`](https://google.com/search?q=ROFA+INDUSTRIAL+AUTOMATION) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`SMB Solutions`](https://google.com/search?q=SMB+Solutions) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Tuesday 20/12/2022 09.38 (UTC)_
+Last update : _Tuesday 20/12/2022 10.55 (UTC)_

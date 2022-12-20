@@ -1057,7 +1057,6 @@ def hive():
                 for element in data:
                     title = element['title']
                     description = element['description']
-                    stdlog(title)
                     appender(title, 'hive', description.replace('\n',' '))
                 file.close()
         except:
