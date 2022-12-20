@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`Stolle Machinery`](https://google.com/search?q=Stolle+Machinery) | [hive](profiles.md?id=hive) |
 | 2022-12-19 | [`Keralty`](https://google.com/search?q=Keralty) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-19 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | [blackbasta](profiles.md?id=blackbasta) |
@@ -201,6 +202,5 @@
 | 2022-12-05 | [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`SMB Solutions`](https://google.com/search?q=SMB+Solutions) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-05 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Tuesday 20/12/2022 02.13 (UTC)_
+Last update : _Tuesday 20/12/2022 03.17 (UTC)_
