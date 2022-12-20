@@ -20,7 +20,7 @@ if platform == 'darwin':
 else:
     fancygrep = 'grep -oP'
 
-def posttemplate(victim, group_name, timestamp,description):
+def posttemplate(victim, group_name, timestamp,description,website):
     '''
     assuming we have a new post - form the template we will use for the new entry in posts.json
     '''
@@ -28,7 +28,8 @@ def posttemplate(victim, group_name, timestamp,description):
         'post_title': victim,
         'group_name': group_name,
         'discovered': timestamp,
-        'description': description
+        'description': description,
+        'website': website
     }
     dbglog(schema)
     return schema
@@ -46,7 +47,7 @@ def existingpost(post_title, group_name):
     dbglog('post does not exist: ' + post_title)
     return False
 
-def appender(post_title, group_name, description=""):
+def appender(post_title, group_name, description="", website=""):
     '''
     append a new post to posts.json
     '''
@@ -58,7 +59,7 @@ def appender(post_title, group_name, description=""):
         post_title = post_title[:90]
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
-        newpost = posttemplate(post_title, group_name, str(datetime.today()),description)
+        newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website)
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
         with open('posts.json', 'w', encoding='utf-8') as outfile:
@@ -1062,11 +1063,12 @@ def hive():
                 data = json.load(file)
                 for element in data:
                     title = element['title']
+                    website = element['website']
                     try:
                         description = element['description'].replace('\n',' ')
                     except:
                         errlog('hive: ' + 'something happen')
-                    appender(title, 'hive', description)
+                    appender(title, 'hive', description,website)
                 file.close()
         except:
             errlog('hive: ' + 'parsing fail')
