@@ -163,19 +163,19 @@ def arvinclub():
     for post in posts:
         appender(post, 'arvinclub')
 
-def hive():
-    stdlog('parser: ' + 'hive')
-    # grep 'bookmark' source/hive-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
-    # egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
-    # egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
-    parser = '''
-    jq -r '.[].title' source/hive-hiveapi*.html || true
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('hive: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'hive')
+#def hive():
+#    stdlog('parser: ' + 'hive')
+#    # grep 'bookmark' source/hive-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
+#    # egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
+#    # egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
+#    parser = '''
+#    jq -r '.[].title' source/hive-hiveapi*.html || true
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('hive: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'hive')
 
 def avaddon():
     stdlog('parser: ' + 'avaddon')
@@ -1023,8 +1023,6 @@ def blackbasta():
                     for desc in descs:
                         description += desc.text.strip()
                     appender(title, 'blackbasta', description.replace('\n','').replace('ADDRESS',' Address '))
-                    stdlog('-'+title)
-                    stdlog('----'+description)
                 file.close()
         except:
             errlog('blackbasta: ' + 'parsing fail')
@@ -1046,4 +1044,22 @@ def ransomhouse():
                 file.close()
         except:
             errlog('ransomhouse: ' + 'parsing fail')
+            pass    
+
+def hive():
+    stdlog('parser: ' + 'hive')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('hive-hiveapi'):
+                html_doc='source/'+filename
+                file=open(html_doc, 'r')
+                data = json.load(file)
+                for element in data:
+                    title = element['title']
+                    description = element['description']
+                    stdlog(title)
+                    appender(title, 'hive', description)
+                file.close()
+        except:
+            errlog('hive: ' + 'parsing fail')
             pass    
