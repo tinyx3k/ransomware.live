@@ -2,6 +2,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hive](profiles.md?id=hive) |
+| 2022-12-20 | [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | [hive](profiles.md?id=hive) |
+| 2022-12-20 | [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | [hive](profiles.md?id=hive) |
+| 2022-12-20 | [`City Of Huntsville, Texas`](https://google.com/search?q=City+Of+Huntsville%2C+Texas) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`JEALSA`](https://google.com/search?q=JEALSA) | [vicesociety](profiles.md?id=vicesociety) |
@@ -198,9 +202,5 @@
 | 2022-12-07 | [`Requena`](https://google.com/search?q=Requena) | [alphv](profiles.md?id=alphv) |
 | 2022-12-07 | [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | [play](profiles.md?id=play) |
 | 2022-12-07 | [`MME Group`](https://google.com/search?q=MME+Group) | [play](profiles.md?id=play) |
-| 2022-12-07 | [`Highwater Ethanol`](https://google.com/search?q=Highwater+Ethanol) | [play](profiles.md?id=play) |
-| 2022-12-07 | [`Wrota Mazowsza`](https://google.com/search?q=Wrota+Mazowsza) | [play](profiles.md?id=play) |
-| 2022-12-07 | [`UJV Rez`](https://google.com/search?q=UJV+Rez) | [play](profiles.md?id=play) |
-| 2022-12-07 | [`????????? ???? ?????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 
-Last update : _Tuesday 20/12/2022 16.14 (UTC)_
+Last update : _Tuesday 20/12/2022 16.57 (UTC)_

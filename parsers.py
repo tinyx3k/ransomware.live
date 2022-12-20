@@ -1056,8 +1056,11 @@ def hive():
                 data = json.load(file)
                 for element in data:
                     title = element['title']
-                    description = element['description']
-                    appender(title, 'hive', description.replace('\n',' '))
+                    try:
+                        description = element['description'].replace('\n',' ')
+                    except:
+                        errlog('hive: ' + 'something happen')
+                    appender(title, 'hive', description)
                 file.close()
         except:
             errlog('hive: ' + 'parsing fail')

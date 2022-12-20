@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5661` posts_
+_All `5665` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,10 @@ _All `5661` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hive](profiles.md?id=hive) |
+| 2022-12-20 | [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | [hive](profiles.md?id=hive) |
+| 2022-12-20 | [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | [hive](profiles.md?id=hive) |
+| 2022-12-20 | [`City Of Huntsville, Texas`](https://google.com/search?q=City+Of+Huntsville%2C+Texas) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-12-20 | [`JEALSA`](https://google.com/search?q=JEALSA) | [vicesociety](profiles.md?id=vicesociety) |
@@ -5672,4 +5676,4 @@ _All `5661` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 20/12/2022 16.14 (UTC)_
+Last update : _Tuesday 20/12/2022 16.57 (UTC)_
