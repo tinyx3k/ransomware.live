@@ -203,4 +203,4 @@
 | 2022-12-05 | [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-05 | [`SMB Solutions`](https://google.com/search?q=SMB+Solutions) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Tuesday 20/12/2022 05.03 (UTC)_
+Last update : _Tuesday 20/12/2022 06.59 (UTC)_
