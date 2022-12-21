@@ -88,6 +88,7 @@ def creategroup(name, location):
         'parser': bool(),
         'javascript_render': bool(),
         'meta': None,
+        'description': None,
         'locations': [
             location
         ],
@@ -299,6 +300,7 @@ if args.mode == 'parse':
     parsers.monti()
     parsers.nokoyawa()
     parsers.karakurt()
+    parsers.unsafe()
     stdlog('ransomwatch: ' + 'parse run complete')
     postsjson2cvs()
     stdlog('ransomwatch: ' + 'convert json to csv run complete')

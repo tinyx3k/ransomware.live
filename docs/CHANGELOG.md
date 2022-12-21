@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2022-12-20 
 
+* Add [`unsafe`](profiles.md?id=unsafe) group
+
+
 * Add url for Hive victims 
 
 ### 2022-12-18  🏆 🇦🇷 ⚽️

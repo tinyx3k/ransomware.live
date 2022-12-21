@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5670` posts_
+_All `5678` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,14 @@ _All `5670` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-21 | [`G.R. Sponaugle`](https://google.com/search?q=G.R.+Sponaugle) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`Horwitz Horwitz & Associates`](https://google.com/search?q=Horwitz+Horwitz+%26+Associates) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`Wings Etc`](https://google.com/search?q=Wings+Etc) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`Dooly County School System`](https://google.com/search?q=Dooly+County+School+System) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`Whatcom County Library System`](https://google.com/search?q=Whatcom+County+Library+System) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`The Chedi Muscat`](https://google.com/search?q=The+Chedi+Muscat) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`Barakat Travel Co`](https://google.com/search?q=Barakat+Travel+Co) | [unsafe](profiles.md?id=unsafe) |
+| 2022-12-21 | [`Ucar`](https://google.com/search?q=Ucar) | [unsafe](profiles.md?id=unsafe) |
 | 2022-12-20 | [`Interface`](https://google.com/search?q=Interface) | [hive](profiles.md?id=hive) |
 | 2022-12-20 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-20 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
@@ -5681,4 +5689,4 @@ _All `5670` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 21/12/2022 09.05 (UTC)_
+Last update : _Wednesday 21/12/2022 12.34 (UTC)_
