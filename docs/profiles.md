@@ -6235,7 +6235,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 ## **maze**
 
-> Maze Ransomware encrypts files and makes them inaccessible while adding a custom extension containing part of the ID of the victim. The ransom note is placed inside a text file and an htm file. There are a few different extensions appended to files which are randomly generated.Actors are known to exfiltrate the data from the network for further extortion. It spreads mainly using email spam and various exploit kits (Spelevo, Fallout). The code of Maze ransomware is highly complicated and obfuscated, which helps to evade security solutions using signature-based detections.
+> Maze ransomware group is one of the most known ransomware gangs, they targeted organizations worldwide across many industries. Security researchers believed that Maze operates as an affiliated network model. MAZE was one of the first groups that made a 'Double Extortion Attack' involved Allied Universal, in November 2019, the group leaks their victim's data in the darknet. On November 1, 2020, MAZE announced an official press release that they are closing their operation. is malware targeting organizations worldwide across many industries. Security researchers claim that the threat actor behind the MAZE group is 'TA2101'.
 
 ### External analysis
 - https://techcrunch.com/2020/11/02/maze-ransomware-group-shutting-down
@@ -7402,7 +7402,7 @@ _`aka pwndlocker`_
 
 ## **qilin**
 
-> Ransomware written in Go.
+> PYSA ransomware group operates as a ransomware-as-a-service (RaaS) model. PYSA stands for “Protect Your System Amigo”, The PYSA ransomware malware is a variant of the Mespinoza ransomware. It was first seen within open-source documents in December 2019, two months after Mespinoza ransomware was spotted in the wild. PYSA affiliates can customize their malware based on options provided by the RaaS platform, and deploy it as customized. PYSA usually exfiltrates data from its victims before encrypting the files to be ransomed.
 
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
@@ -7939,7 +7939,7 @@ _`shut down & offering a decryptor`_
 
 ## **revil**
 
-> Privilege escalation via CVE-2018-8453 (64-bit only) -  Rerun with RunAs to elevate privileges * Implements a requirement that if "exp" is set, privilege escalation must be successful for full execution to occur - Implements target whitelisting using GetKetboardLayoutList - Contains debug console logging functionality -  Defines the REvil registry root key as SOFTWARE\!test - Includes two variable placeholders in the ransom note: UID & KEY -  Terminates processes specified in the "prc" configuration key prior to encryption - Deletes shadow copies and disables recovery - Wipes contents of folders specified in the "wfld" configuration key prior to encryption - Encrypts all non-whitelisted files on fixed drives - Encrypts all non-whitelisted files on network mapped drives if it is running with System-level privileges or can impersonate the security context of explorer.exe - Partially implements a background image setting to display a basic "Image text" message - Sends encrypted system data to a C2 domain via an HTTPS POST request (URI path building is not implemented.)
+> Sodinokibi ransomware group also known as REvil (Ransomware Evil) operates as a ransomware-as-a-service (RaaS) model. After the group compromised his victims, they would threaten to publish the victim's sensitive data on their darknet blog named 'Happy Blog', unless the ransom is paid. The ransomware malware code used by REvil is pretty similar to the ransomware code used by DarkSide - a different threat actor. REvil group claims to steal information after a successful attack on the supplier of the tech giant Apple and stole confidential schematics of their upcoming products.
 
 ### External analysis
 - https://www.zdnet.com/article/revil-ransomware-group-resurfaces-after-brief-hiatus
@@ -9042,4 +9042,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 21/12/2022 20.18 (UTC)_
+Last update : _Wednesday 21/12/2022 20.38 (UTC)_
