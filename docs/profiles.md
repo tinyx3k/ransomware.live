@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -951,7 +951,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -3360,7 +3360,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -3418,7 +3418,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -7566,7 +7566,7 @@ _`login page, no posts`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/ragnarlocker/ragnarlocker1.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/ragnarlocker/!_^_README_NOTES_RAGNAR_^_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/ragnarlocker/ragnarlocker1.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -8665,7 +8665,7 @@ _`nodes or hosts with no current attribution or identification`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| UnSafe Blog | 🟢 | 21/12/2022 13:09 | `http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion` | ❌ | 
+| UnSafe Blog | 🟢 | 21/12/2022 13:09 | `http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion` | <a href="https://www.ransomware.live/screenshots/unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -9037,4 +9037,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 21/12/2022 13.14 (UTC)_
+Last update : _Wednesday 21/12/2022 14.59 (UTC)_
