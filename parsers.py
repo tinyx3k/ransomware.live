@@ -738,17 +738,17 @@ def omega():
     for post in posts:
         appender(post, '0mega')
 
-def bianlian():
-    stdlog('parser: ' + 'bianlian')
-    # sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o "([A-Za-z0-9 ,\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d'
-    parser = '''
-    sed -n '/<a href=\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' | egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('bianlian: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'bianlian')
+#def bianlian():
+#    stdlog('parser: ' + 'bianlian')
+#    # sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o "([A-Za-z0-9 ,\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d'
+#    parser = '''
+#    sed -n '/<a href=\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' | egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('bianlian: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'bianlian')
 
 def redalert():
     stdlog('parser: ' + 'redalert')
@@ -1127,4 +1127,20 @@ def unsafe():
             errlog('unsafe: ' + 'parsing fail')
             pass
 
-                 
+def bianlian():
+    stdlog('parser: ' + 'bianlian')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('bianlian-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('section', {"class": "list-item"})
+                for div in divs_name:
+                    title = div.h1.text.strip()
+                    description = div.div.text.strip()
+                    appender(title, 'bianlian', description)
+                file.close()
+        except:
+            print("Failed during : " + filename)
+            pass
