@@ -7,7 +7,8 @@ inspired by Ransomwatch & Ransomlook
 
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
 from sharedutils import stdlog, errlog
-from sharedutils import openjson        
+from sharedutils import openjson  
+import sys      
 
 def screenshot(webpage,fqdn):
     stdlog('webshot: {}'.format(webpage))
@@ -37,14 +38,23 @@ def screenshot(webpage,fqdn):
 
 
 def main():
+    groupname = sys.argv[1]
     groups = openjson('groups.json')
-    for group in groups:
-        stdlog('group: {}'.format(group['name']))
-        for webpage in group['locations']:
-            if webpage['available'] is True:
-                screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
-            else:
-                stdlog('webshot: {}'.format(webpage['slug']) + ' not available')
+    if groupname is None:
+        for group in groups:
+            stdlog('group: {}'.format(group['name']))
+            for webpage in group['locations']:
+                if webpage['available'] is True:
+                    screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
+                else:
+                    stdlog('webshot: {}'.format(webpage['slug']) + ' not available')
+    else:
+        stdlog('group: '+ groupname)
+        for group in groups:
+            if group["name"] == groupname:
+                for webpage in group['locations']:
+                    screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
+
 
 if __name__ == '__main__':
     main()
