@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](profiles.md?id=monti) |
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | [clop](profiles.md?id=clop) |
@@ -201,6 +202,5 @@
 | 2022-12-18 | [`Conform`](https://google.com/search?q=Conform) | [royal](profiles.md?id=royal) |
 | 2022-12-18 | [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-12-17 | [`All Seasons Global Solutions`](https://google.com/search?q=All+Seasons+Global+Solutions) | [royal](profiles.md?id=royal) |
-| 2022-12-17 | [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Thursday 22/12/2022 20.12 (UTC)_
+Last update : _Thursday 22/12/2022 20.18 (UTC)_
