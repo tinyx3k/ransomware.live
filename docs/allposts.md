@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `5684` posts_
+_All `5685` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `5684` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-22 | [`Berlina Tbk`](https://google.com/search?q=Berlina+Tbk) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`Alvaria`](https://google.com/search?q=Alvaria) | [hive](profiles.md?id=hive) |
 | 2022-12-21 | [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -5695,4 +5696,4 @@ _All `5684` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 22/12/2022 07.02 (UTC)_
+Last update : _Thursday 22/12/2022 09.31 (UTC)_

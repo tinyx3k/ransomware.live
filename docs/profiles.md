@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -848,10 +848,11 @@ _`captcha prevents indexing`_
 
 ### Posts
 
-> 84 posts found
+> 85 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Berlina Tbk`]() | 22/12/2022 | Berlina Tbk provides one stop solution for plastic packaging with state-of-the-art technology and machinery, complete product design & development, Tube, Injection Moulding, Blow Moulding, Cap, Decoration and Mould making facilities. |
 | [`M*****`]() | 21/12/2022 | Consultancy and engineering services firm. |
 | [`M*******l***`]() | 21/12/2022 | Hosting, quick book hosting, sql hosting, exchange hosting. |
 | [`S****** Electronics"`]() | 21/12/2022 | Corporation manufactures and sells electronic components in Japan and internationally |
@@ -954,7 +955,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -3363,7 +3364,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -3421,7 +3422,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -9042,4 +9043,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 22/12/2022 07.02 (UTC)_
+Last update : _Thursday 22/12/2022 09.31 (UTC)_
