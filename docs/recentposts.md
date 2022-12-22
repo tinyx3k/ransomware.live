@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](profiles.md?id=alphv) |
+| 2022-12-22 | [`Protecmedia`](https://google.com/search?q=Protecmedia) | [alphv](profiles.md?id=alphv) |
 | 2022-12-22 | [`Pinnacle Communications`](https://google.com/search?q=Pinnacle+Communications) | [royal](profiles.md?id=royal) |
 | 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](profiles.md?id=monti) |
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -200,7 +202,5 @@
 | 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`Creta Farm`](https://google.com/search?q=Creta+Farm) | [play](profiles.md?id=play) |
-| 2022-12-18 | [`Conform`](https://google.com/search?q=Conform) | [royal](profiles.md?id=royal) |
-| 2022-12-18 | [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 
-Last update : _Thursday 22/12/2022 21.37 (UTC)_
+Last update : _Thursday 22/12/2022 22.21 (UTC)_
