@@ -8,3 +8,6 @@ __pycache__
 source/linkanalysis/**
 assets/tmp/**
 groups.json.ORIG
+posts.json.ORIG
+posts2.json
+purgeclop.py

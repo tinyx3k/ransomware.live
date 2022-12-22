@@ -218,16 +218,16 @@ def ragnarlocker():
         except TypeError:
             errlog('ragnarlocker: ' + 'parsing fail')
 
-def clop():
-    stdlog('parser: ' + 'clop')
-    parser = '''
-    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('clop: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'clop')
+#def clop():
+#    stdlog('parser: ' + 'clop')
+#    parser = '''
+#    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('clop: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'clop')
 
 def revil():
     stdlog('parser: ' + 'revil')
@@ -1161,3 +1161,19 @@ def play():
         except:
             errlog('play: ' + 'parsing fail')
             pass
+
+def clop():
+    stdlog('parser: ' + 'clop')
+    blacklist=['HOME', 'HOW TO DOWNLOAD?', 'ARCHIVE']
+    for filename in os.listdir('source'):
+        if filename.startswith('clop-'):
+            html_doc='source/'+filename
+            file=open(html_doc,'r')
+            soup=BeautifulSoup(file,'html.parser')
+            divs_name=soup.find_all('span', {"class": "g-menu-item-title"})
+            for div in divs_name:
+                for item in div.contents :
+                    if item in blacklist:
+                        continue
+                    appender(item, 'clop')
+
