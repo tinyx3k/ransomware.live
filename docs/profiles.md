@@ -6885,10 +6885,11 @@ _`shut down & offering a decryptor`_
 
 ### Posts
 
-> 17 posts found
+> 18 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Strem Chemicals`](https://www.strem.com/) | 22/12/2022 | Strem established in 1964, is a company that manufactures and markets specialty chemicals of high purity. Strem was acquired by Ascensus Specialties in 2021. Its clients include academic, industrial and government research and development laboratories as well as commercial scale businesses in the pharmaceutical, microelectronic and chemical / petrochemical industries. Strem also provides custom synthesis (including high pressure synthesis) and cGMP manufacturing services. |
 | `Keralty` | 19/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
 | `Advanced Micro Devices, Inc` | 05/12/2022 |   |
 | `Fairfax - Crum & Forster` | 05/12/2022 |   |
@@ -8083,4 +8084,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 22/12/2022 22.21 (UTC)_
+Last update : _Thursday 22/12/2022 22.54 (UTC)_
