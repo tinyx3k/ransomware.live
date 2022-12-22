@@ -945,17 +945,17 @@ def karakurt():
             errlog('karakurt: ' + 'parsing fail')
             pass 
 
-def play():
-    stdlog('parser: ' + 'play')
-    # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
-    parser = '''
-    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
-    ''' % (fancygrep)
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('play: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'play')
+#def play():
+#    stdlog('parser: ' + 'play')
+#    # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
+#    parser = '''
+#    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
+#    ''' % (fancygrep)
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('play: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'play')
 
 def projectrelic():
     stdlog('parser: ' + 'projectrelic')
@@ -1143,4 +1143,21 @@ def bianlian():
                 file.close()
         except:
             print("Failed during : " + filename)
+            pass
+
+def play():
+    stdlog('parser: ' + 'play')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('play-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('th', {"class": "News"})
+                for div in divs_name:
+                    title = div.next_element.strip()
+                    appender(title, 'play')
+                file.close()
+        except:
+            errlog('play: ' + 'parsing fail')
             pass
