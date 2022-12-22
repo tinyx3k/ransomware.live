@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4720` posts_
+_All `4721` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4720` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | [clop](profiles.md?id=clop) |
@@ -4731,4 +4732,4 @@ _All `4720` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 22/12/2022 20.03 (UTC)_
+Last update : _Thursday 22/12/2022 20.12 (UTC)_
