@@ -13,4 +13,4 @@ for group in groups:
                     print('- ' + group['name'] + ' : ' + host['slug'] + ' host seems down')
             else:
                 if host['enabled'] is False:
-                   print('- ' + group['name'] + ' : ' + host['slug'] + ' should be enable') 
+                   print('- ' + group['name'] + ' : ' + host['slug'] + ' should be enable !!!') 
