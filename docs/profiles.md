@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -957,7 +957,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -2398,7 +2398,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -2456,7 +2456,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -4501,10 +4501,12 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ### Posts
 
-> 387 posts found
+> 389 posts found
 
 | post | date | Description
 |---|---|---|
+| [`excentiahumanservices.org`]() | 23/12/2022 | Revenue 14kkExcentia Human Services is a nonprofit organization in Lancaster County that provides services for people with developmental needs and autism throughout the lifespan. These services can begin at birth with therapeutic and educati... |
+| [`bavelloni.com`]() | 23/12/2022 | Bavelloni SpA provides glass processing technology and services for the architectural, furniture and domestic appliance and solar industries.We encrypted the network of this company. We also stole about 200GB of the date. Financial information. Sal... |
 | [`thedonovancompany.com`]() | 22/12/2022 | A small boutique CPA firm located in Irvine California. We provide tax and accounting services to individuals and their businesses. Hands on assistance with tax planning, tax compliance and various other matters. We believe getting to know our client... |
 | [`maxionwheels.com`]() | 22/12/2022 | Founded in 1908 and headquartered in Novi, Michigan, MAXION Wheels wheel manufacturer for passenger cars, light trucks, buses, commercial trucks, and trailers. |
 | `teknowsource.in` | 20/12/2022 | We are an organization helping our valued customers run their commercial operations in India. |
@@ -8087,4 +8089,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 23/12/2022 08.56 (UTC)_
+Last update : _Friday 23/12/2022 11.06 (UTC)_

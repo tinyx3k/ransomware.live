@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-23 | [`excentiahumanservices.org`](https://google.com/search?q=excentiahumanservices.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2022-12-23 | [`bavelloni.com`](https://google.com/search?q=bavelloni.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-23 | [`Aegea Group companies`](https://google.com/search?q=Aegea+Group+companies) | [royal](profiles.md?id=royal) |
 | 2022-12-23 | [`Rech Informatica Ltda`](https://google.com/search?q=Rech+Informatica+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -200,7 +202,5 @@
 | 2022-12-19 | [`senateshj.com`](https://google.com/search?q=senateshj.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`accuro.co.nz`](https://google.com/search?q=accuro.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-18 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | [projectrelic](profiles.md?id=projectrelic) |
-| 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
-| 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
 
-Last update : _Friday 23/12/2022 08.56 (UTC)_
+Last update : _Friday 23/12/2022 11.06 (UTC)_
