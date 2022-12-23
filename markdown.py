@@ -27,6 +27,8 @@ from sharedutils import grouppostavailable
 # from sharedutils import stdlog, dbglog, errlog, honk
 from sharedutils import stdlog
 from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days
+from bs4 import BeautifulSoup
+
 
 def suffix(d):
     return 'th' if 11<=d<=13 else {1:'st',2:'nd',3:'rd'}.get(d%10, 'th')
@@ -414,6 +416,53 @@ def profilepage():
     writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('profile page generation complete')
 
+
+def decryptiontools():
+    '''
+    create a page for each Decryption Tools
+    '''
+    stdlog('generating descruption tools pages')
+    decryptionpage = 'docs/decryption.md'
+    # delete contents of file
+    with open(decryptionpage, 'w', encoding='utf-8') as f:
+        f.close()
+    writeline(decryptionpage, '# Decryption tools')
+    writeline(decryptionpage, '')
+    # Définissez l'URL du fichier HTML à télécharger
+    url = 'https://www.nomoreransom.org/en/decryption-tools.html'
+    # Téléchargez le fichier HTML à l'aide de urllib.request.urlopen()
+    with urllib.request.urlopen(url) as response:
+        html_code = response.read()
+    # Créez un objet BeautifulSoup àpartir du code HTML
+    soup = BeautifulSoup(html_code, 'html.parser')
+    # Sélectionnez la liste des ransomwares
+    ransomware_list = soup.select('ul#ransomList li')
+    # Pour chaque élément de la liste
+    for li in ransomware_list:
+    # Sélectionnez le nom du ransom
+        ransom_name = li.select_one('h2 button')
+        if ransom_name is not None:
+            ransom_name = str(ransom_name)
+            # Sélectionnez la description du ransom
+            ransom_description = str(li.select_one('p'))
+            # Sélectionnez le lien de téléchargement du décrypteur
+            download_link = str(li.select_one('a.button')['href'])
+            # Sélectionnez le nom de l'auteur du décrypteur
+            author_name = str(li.select_one('p.small'))
+            author_name = re.sub(r'<[^>]*>', '',author_name).replace('Tool made by  ','')
+            writeline(decryptionpage, '## '+ re.sub(r'<[^>]*>', '',ransom_name))
+            writeline(decryptionpage, '')
+            writeline(decryptionpage, '> ' + re.sub(r'<[^>]*>', '',ransom_description ))
+            writeline(decryptionpage, '')
+            writeline(decryptionpage, '🌍 [' + author_name.rstrip() + '](' + download_link + ')')
+            writeline(decryptionpage, '')
+            writeline(decryptionpage, '---')
+            writeline(decryptionpage, '')
+    writeline(decryptionpage, '')
+    writeline(decryptionpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
+    stdlog('decryption tools page generation complete')
+
+
 def main():
     stdlog('generating docs')
     mainpage()
@@ -423,6 +472,7 @@ def main():
     allposts()
     # statspage()
     profilepage()
+    decryptiontools()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
     if os.path.getmtime('posts.json') > (time.time() - 2700):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')

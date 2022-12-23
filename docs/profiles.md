@@ -6959,6 +6959,7 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Board of shame | 🔴 | 08/12/2022 07:24 | `http://blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd.onion` | <a href="https://www.ransomware.live/screenshots/blog2hkbm6gogpv2b3uytzi3bj5d5zmc4asbybumjkhuqhas355janyd-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 01/05/2021 00:00 | `http://je2yizds7r4uidk6uixfxwjj5w7or2agit4aj66l4lrhdbrvr3lsymid.onion` | ❌ | 
 
 
 ### Ransom note
@@ -8090,4 +8091,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 23/12/2022 15.55 (UTC)_
+Last update : _Friday 23/12/2022 16.59 (UTC)_
