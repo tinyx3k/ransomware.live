@@ -125,7 +125,8 @@ def statuspage():
     with open(index_sheet, 'w', encoding='utf-8') as f:
         f.close()
     groups = openjson('groups.json')
-    writeline(index_sheet, '# 🚦 All Groups')
+    writeline(index_sheet, '')
+    writeline(index_sheet, '## 🚦 All Groups')
     writeline(index_sheet, '')
     header = '| Group | Title | Status | Last seen | Location | Screenshoot |'
     writeline(index_sheet, header)
@@ -154,7 +155,7 @@ def statuspage():
     writeline(index_sheet, '')
     writeline(index_sheet, '---')
     writeline(index_sheet, '')
-    writeline(index_sheet, '# 🟢 Online Groups')
+    writeline(index_sheet, '## 🟢 Online Groups')
     writeline(index_sheet, '')
     header = '| Group | Title | Location | Screenshoot |'
     writeline(index_sheet, header)
