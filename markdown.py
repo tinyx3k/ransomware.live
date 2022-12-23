@@ -120,12 +120,12 @@ def mainpage():
     writeline(uptime_sheet, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     writeline(uptime_sheet, '')
 
-def indexpage():
-    index_sheet = 'docs/INDEX.md'
+def statuspage():
+    index_sheet = 'docs/status.md'
     with open(index_sheet, 'w', encoding='utf-8') as f:
         f.close()
     groups = openjson('groups.json')
-    writeline(index_sheet, '# 🚦 Status')
+    writeline(index_sheet, '# 🚦 All Groups')
     writeline(index_sheet, '')
     header = '| Group | Title | Status | Last seen | Location | Screenshoot |'
     writeline(index_sheet, header)
@@ -151,6 +151,32 @@ def indexpage():
                 screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
             line = '| [' + group['name'] + '](https://www.ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
             writeline(index_sheet, line)
+    writeline(index_sheet, '')
+    writeline(index_sheet, '---')
+    writeline(index_sheet, '')
+    writeline(index_sheet, '# 🟢 Online Groups')
+    writeline(index_sheet, '')
+    header = '| Group | Title | Location | Screenshoot |'
+    writeline(index_sheet, header)
+    writeline(index_sheet, '|---|---|---|---|')
+    for group in groups:
+        for host in group['locations']:
+            stdlog('generating host report for ' + host['fqdn'])
+            if host['available'] is True:
+                if host['title'] is not None:
+                    title = host['title'].replace('|', '-')
+                else:
+                    title = ''
+                screenshot=host['fqdn'].replace('.', '-') + '.png'
+                screen=''
+                if os.path.exists('docs/screenshots/'+screenshot):
+                    screen = '<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
+                line = '| [' + group['name'] + '](https://www.ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
+                writeline(index_sheet, line)
+
+
+
+
 
 def sidebar():
     '''
@@ -390,7 +416,7 @@ def profilepage():
 def main():
     stdlog('generating docs')
     mainpage()
-    indexpage()
+    statuspage()
     # sidebar()
     recentpage()
     allposts()
