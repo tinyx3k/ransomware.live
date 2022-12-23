@@ -4,6 +4,7 @@
 - [Groups status](status.md)
 - [Group profiles](profiles.md)
 - [Stats & graphs](stats.md)
+- [Decryption Tools](decryption.md)
 - [About](about.md)
 - [Disclaimer](disclaimer.md)
 
