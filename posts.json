@@ -22370,7 +22370,7 @@
         "description": "V3 Companies can be described in many ways: Most simply, we are a multidisciplinary firm offering civil engineering, contracting, environmental, planning, landscape architecture and surveying services. But that tells only a small piece of our story. We’re frequently asked, “What does ‘V3’ stand for?” … and the answer often surprises people. V3 represents an acronym for three Latin words – “Visio,” “Vertere,” “Virtute” or “The Vision to Transform with Excellence” – a statement of the aspirations we have for the growth of our employees, our service to our clients and the impact we have in our communities.",
         "website": "https://www.v3co.com"
     },
-    {   
+    {
         "post_title": "Schnee Berger",
         "group_name": "alphv",
         "discovered": "2022-12-13 06:53:48.963209",
@@ -24042,6 +24042,12 @@
         "discovered": "2022-12-23 13:11:16.623088",
         "description": "Realstar is a company that operates in the Real Estate industry. It employs 251-500 people and has $50M-$100M of revenue. The company is headquartered in Toronto, Ontario, Canada.",
         "website": ""
-
+    },
+    {
+        "post_title": "*****",
+        "group_name": "bianlian",
+        "discovered": "2022-12-23 17:03:01.447575",
+        "description": "International provider of analytics, technology solutions and contract research services for the healthcare industry.",
+        "website": ""
     }
 ]
