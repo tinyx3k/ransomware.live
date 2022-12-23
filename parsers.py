@@ -11,8 +11,10 @@ from datetime import datetime
 from bs4 import BeautifulSoup # type: ignore
 from sharedutils import openjson
 from sharedutils import runshellcmd
-from sharedutils import todiscord, totwitter, toteams
-from sharedutils import stdlog, dbglog, errlog, honk
+# from sharedutils import todiscord, totwitter, toteams
+from sharedutils import stdlog, dbglog, errlog   # , honk
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
 
 # on macOS we use 'grep -oE' over 'grep -oP'
 if platform == 'darwin':
@@ -33,6 +35,33 @@ def posttemplate(victim, group_name, timestamp,description,website):
     }
     dbglog(schema)
     return schema
+
+def screenshot(webpage,fqdn):
+    stdlog('webshot: {}'.format(webpage))
+    with sync_playwright() as play:
+        try:
+            browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
+                args=[''])
+            context = browser.new_context(ignore_https_errors= True )
+            page = context.new_page()
+            page.goto(webpage, wait_until='load', timeout = 120000)
+            page.bring_to_front()
+            delay=15000
+            page.wait_for_timeout(delay)
+            page.mouse.move(x=500, y=400)
+            page.wait_for_load_state('networkidle')
+            page.mouse.wheel(delta_y=2000, delta_x=0)
+            page.wait_for_load_state('networkidle')
+            page.wait_for_timeout(5000)
+            name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
+            page.screenshot(path=name, full_page=True)
+        except PlaywrightTimeoutError:
+            stdlog('Timeout!')
+        except Exception as exception:
+            errlog(exception)
+            errlog("error")
+        browser.close()
+
 
 def existingpost(post_title, group_name):
     '''
@@ -78,6 +107,12 @@ def appender(post_title, group_name, description="", website=""):
         #    totwitter(newpost['post_title'], newpost['group_name'])
         #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
         #    toteams(newpost['post_title'], newpost['group_name'])
+        groups = openjson('groups.json')
+        for group in groups:
+            if group["name"] == group_name:
+                for webpage in group['locations']:
+                    screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
+
 
 '''
 all parsers here are shell - mix of grep/sed/awk & perl - runshellcmd is a wrapper for subprocess.run

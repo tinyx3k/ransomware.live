@@ -18,13 +18,17 @@ I'm **Julien Mousqueton**
 
 - I'm **CTO** in Cyber Security 🛡 @ [Computacenter](https://www.computacenter.com) 🇫🇷
 - I'm a **lecturer** 🎓 in Cyber Security @ [Ecole 2600](https://www.ecole2600.com) 🏴‍☠️
-- I'm a **blogger** ✍🏻 at [julien.io](https://julien.io)
+- I'm a **blogger** ✍🏻 at [julien.io](https://julien.io) in french 🇫🇷 
 
 You can find more in [my resume](https://cv.julien.io) in English (also available in [French](https://cv.julien.io/fr) / aussi disponible en [français](https://cv.julien.io/fr))
 
 ## 🔭 Sources 
 
 You can find all ransomware leaks in **json** format [here](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) or in **CSV** format [here](https://www.ransomware.live/posts.csv).
+
+## Fonctionnement (French only 🇫🇷)
+
+Retrouver les explications quant au fonctionnement de ce site sur mon blog [julien.io](https://julien.io)
 
 ## ♻️ Changelog 
 
