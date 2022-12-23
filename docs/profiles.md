@@ -175,7 +175,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 23/12/2022 08:26 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
-| none | 🔴 | 23/12/2022 08:26 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 22/12/2022 20:30 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -189,14 +188,15 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| [`Bregman Berbert Schwartz & Gilday`]() | 22/12/2022 | For more than four decades, our firm has been devoted to serving the interests of our clients. At BBS&G, practicing law is about finding innovative ways to protect our clients’ interests. We take pride in our results. Our passion lies in fostering long-term relationships with our clients that allow us to take heavy burdens off of their shoulders in an efficient, cost-effective manner. |
-| [`Protecmedia`]() | 22/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
-| `Events DC` | 15/12/2022 |   |
+| [`Bregman Berbert Schwartz & Gilday`](https://www.bregmanlaw.com/) | 22/12/2022 | For more than four decades, our firm has been devoted to serving the interests of our clients. At BBS&G, practicing law is about finding innovative ways to protect our clients’ interests. We take pride in our results. Our passion lies in fostering long-term relationships with our clients that allow us to take heavy burdens off of their shoulders in an efficient, cost-effective manner. |
+| [`Protecmedia`](https://www.protecmedia.com/solutions/en) | 22/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
+| [`Events DC`](https://eventsdc.com) | 15/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
 | `Bailey Cavalieri LLC` | 15/12/2022 |   |
 | `TEIJIN AUTOMOTIVE TECHNOLOGIES` | 14/12/2022 |   |
-| `PARIC CORPORATION` | 13/12/2022 |   |
-| `Schnee Berger` | 13/12/2022 |   |
-| `V3 Companies` | 13/12/2022 |   |
+| [`PARIC CORPORATION`](https://www.paric.com/) | 13/12/2022 | BUILDING EXCELLENCE TO MOVE OUR COMMUNITY FORWARD
+Since 1979 PARIC has focused on being one of the top General Contractors, Construction Manager and Design-Build firms in the region. As one of the largest privately held companies in the Midwest, PARIC prides itself on being involved in the community and in building lasting relationships leading to repeat clients. |
+| [`Schnee Berger`](https://schneeberger.com) | 13/12/2022 | SCHNEEBERGER serves original equipment manufacturers operating (OEM) in various industries worldwide - from machine tool, solar technology and semiconductor technology to electrical engineering and medical engineering and others. Linear bearings, profiled linear guideways, measuring systems, gear racks, slides, positioning systems and mineral casting are all part of SCHNEEBERGER's . |
+| [`V3 Companies`](https://www.v3co.com) | 13/12/2022 | V3 Companies can be described in many ways: Most simply, we are a multidisciplinary firm offering civil engineering, contracting, environmental, planning, landscape architecture and surveying services. But that tells only a small piece of our story. We’re frequently asked, “What does ‘V3’ stand for?” … and the answer often surprises people. V3 represents an acronym for three Latin words – “Visio,” “Vertere,” “Virtute” or “The Vision to Transform with Excellence” – a statement of the aspirations we have for the growth of our employees, our service to our clients and the impact we have in our communities. |
 | `dothousehealth.org` | 10/12/2022 |   |
 | `Aeroproductsco` | 10/12/2022 |   |
 | `Warren County Community College` | 09/12/2022 |   |
@@ -8091,4 +8091,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 23/12/2022 15.25 (UTC)_
+Last update : _Friday 23/12/2022 15.36 (UTC)_

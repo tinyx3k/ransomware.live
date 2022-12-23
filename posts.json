@@ -22366,17 +22366,23 @@
     {
         "post_title": "V3 Companies",
         "group_name": "alphv",
-        "discovered": "2022-12-13 05:08:00.907166"
+        "discovered": "2022-12-13 05:08:00.907166",
+        "description": "V3 Companies can be described in many ways: Most simply, we are a multidisciplinary firm offering civil engineering, contracting, environmental, planning, landscape architecture and surveying services. But that tells only a small piece of our story. We’re frequently asked, “What does ‘V3’ stand for?” … and the answer often surprises people. V3 represents an acronym for three Latin words – “Visio,” “Vertere,” “Virtute” or “The Vision to Transform with Excellence” – a statement of the aspirations we have for the growth of our employees, our service to our clients and the impact we have in our communities.",
+        "website": "https://www.v3co.com"
     },
-    {
+    {   
         "post_title": "Schnee Berger",
         "group_name": "alphv",
-        "discovered": "2022-12-13 06:53:48.963209"
+        "discovered": "2022-12-13 06:53:48.963209",
+        "website": "https://schneeberger.com",
+        "description": "SCHNEEBERGER serves original equipment manufacturers operating (OEM) in various industries worldwide - from machine tool, solar technology and semiconductor technology to electrical engineering and medical engineering and others. Linear bearings, profiled linear guideways, measuring systems, gear racks, slides, positioning systems and mineral casting are all part of SCHNEEBERGER's ."
     },
     {
         "post_title": "PARIC CORPORATION",
         "group_name": "alphv",
-        "discovered": "2022-12-13 10:53:18.935198"
+        "discovered": "2022-12-13 10:53:18.935198",
+        "description": "BUILDING EXCELLENCE TO MOVE OUR COMMUNITY FORWARD\nSince 1979 PARIC has focused on being one of the top General Contractors, Construction Manager and Design-Build firms in the region. As one of the largest privately held companies in the Midwest, PARIC prides itself on being involved in the community and in building lasting relationships leading to repeat clients.",
+        "website": "https://www.paric.com/"
     },
     {
         "post_title": "ITONCLOUD - LEAKED",
@@ -22431,7 +22437,9 @@
     {
         "post_title": "Events DC",
         "group_name": "alphv",
-        "discovered": "2022-12-15 13:14:57.479070"
+        "discovered": "2022-12-15 13:14:57.479070",
+        "description": "Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety.",
+        "website": "https://eventsdc.com"
     },
     {
         "post_title": "Universidade Catolica Portuguesa",
@@ -23977,14 +23985,14 @@
         "group_name": "alphv",
         "discovered": "2022-12-22 22:19:46.549076",
         "description": "Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety.",
-        "website": ""
+        "website": "https://www.protecmedia.com/solutions/en"
     },
     {
         "post_title": "Bregman Berbert Schwartz & Gilday",
         "group_name": "alphv",
         "discovered": "2022-12-22 22:19:46.577573",
         "description": "For more than four decades, our firm has been devoted to serving the interests of our clients. At BBS&G, practicing law is about finding innovative ways to protect our clients’ interests. We take pride in our results. Our passion lies in fostering long-term relationships with our clients that allow us to take heavy burdens off of their shoulders in an efficient, cost-effective manner.",
-        "website": ""
+        "website": "https://www.bregmanlaw.com/"
     },
     {
         "post_title": "Strem Chemicals",

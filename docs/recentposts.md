@@ -203,4 +203,4 @@
 | 2022-12-19 | [`senateshj.com`](https://google.com/search?q=senateshj.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`accuro.co.nz`](https://google.com/search?q=accuro.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 23/12/2022 15.25 (UTC)_
+Last update : _Friday 23/12/2022 15.36 (UTC)_
