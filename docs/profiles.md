@@ -5760,9 +5760,7 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| [`Nexon Asia Pacific`]() | 09/12/2022 | Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT provider with services ranging from cloud, secure networks, unified communications, managed security, business solutions and digital workspace solutions.
-
-Download data: https://mega.nz/folder/****** |
+| [`Nexon Asia Pacific`]() | 09/12/2022 | Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT provider with services ranging from cloud, secure networks, unified communications, managed security, business solutions and digital workspace solutions.Download data: https://mega.nz/folder/****** |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -8092,4 +8090,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 23/12/2022 13.37 (UTC)_
+Last update : _Friday 23/12/2022 13.42 (UTC)_
