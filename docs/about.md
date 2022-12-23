@@ -26,9 +26,40 @@ You can find more in [my resume](https://cv.julien.io) in English (also availabl
 
 You can find all ransomware leaks in **json** format [here](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) or in **CSV** format [here](https://www.ransomware.live/posts.csv).
 
-## Fonctionnement (French only 🇫🇷)
+## 🤖  How it works
 
-Retrouver les explications quant au fonctionnement de ce site sur mon blog [julien.io](https://julien.io)
+`ransomware.live` is orginally based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet). It has been modify a lot : 
+* new parsers to include victims description and website when available, that's include a new scheme for posts : 
+  ```json
+      {
+        "post_title": "",
+        "group_name": "",
+        "discovered": "",
+        "description": "",
+        "website": ""
+      },
+  ```
+* take a screenshot of ransomware gang websites when a new leak entry is detected 
+* Add night/day theme ☀️/🌙
+* Add ransom notes when available for each ransomware gang in the [profiles](profiles.md) page
+* Add description of ransomware gang in the [profiles](profiles.md) page
+* Add a [full list](allposts.md) of ransomware gang entry 
+* Add a [Change Log](CHANGELOG.md)
+* And much more minor modifications 
+
+`ransomware.live` uses github actions to do everything ... yes it's server less 😄
+
+`ransomware.live` is mainly developped in Python. It computes the following actions : 
+
+* Scrape ransomware gang websites `python3 ransomwatch.py scrape`
+* Parse the scraped websites `python3 ransomwatch.py parse`
+  during this stage `ransomware.live`takes a screenshot of ransomware gang websites which has a new entry and also generate **.json** and **.cvs** files with all the ransomware gangs leaks
+* Generate the website pages in markdown `python3 ransomwatch.py markdown` 
+* Publish the website with [docsify](https://docsify.js.org/) on Github Pages 
+
+## 🤖 Fonctionnement (French only 🇫🇷)
+
+Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon blog : [julien.io](https://julien.io). 
 
 ## ♻️ Changelog 
 
