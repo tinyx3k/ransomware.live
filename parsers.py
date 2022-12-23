@@ -578,18 +578,18 @@ def mosesstaff():
     for post in posts:
         appender(post, 'mosesstaff')
 
-def alphv():
-    stdlog('parser: ' + 'alphv')
-    # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
-    parser = '''
-    jq -r '.items[].title' source/alphv-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('alphv: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'alphv')
+#def alphv():
+#    stdlog('parser: ' + 'alphv')
+#    # egrep -o 'class="mat-h2">([[:alnum:]]| |\.)+</h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+#    # grep -o 'class="mat-h2">[^<>]*<\/h2>' source/alphv-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' -e '/No articles here yet, check back later./d'
+#    parser = '''
+#    jq -r '.items[].title' source/alphv-alphvmmm27*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('alphv: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'alphv')
 
 def nightsky():
     stdlog('parser: ' + 'nightsky')
@@ -1105,4 +1105,32 @@ def nokoyawa():
                 file.close()
         except:
             errlog('nokoyawa: ' + 'parsing fail')
+            pass
+
+def alphv():
+    stdlog('parser: ' + 'alphv')
+    for filename in os.listdir('source'):
+        try:
+           if filename.startswith('alphv-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                if 'api' in filename:
+                    jsonpart= soup.pre.contents
+                    data = json.loads(jsonpart[0])
+                    for entry in data['items']:
+                        title = entry['title'].strip()
+                        print(title)
+                        description = entry['publication']['description'].strip()
+                        appender(title, 'alphv',description.replace('\n',' '))
+                else :
+                    divs_name=soup.find_all('div', {'class': 'post-body'})
+                    for div in divs_name:
+                        title = div.find('div', {'class': 'post-header'}).text.strip()
+                        print(title)
+                        description = div.find('div', {'class': 'post-description'}).text.strip()
+                        appender(title, 'alphv',description.replace('\n',' '))
+                file.close()
+        except:
+            errlog('alphv: ' + 'parsing fail')
             pass

@@ -175,6 +175,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 23/12/2022 08:26 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🔴 | 23/12/2022 08:26 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 22/12/2022 20:30 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -188,8 +189,8 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| [`Bregman Berbert Schwartz & Gilday`]() | 22/12/2022 |  |
-| [`Protecmedia`]() | 22/12/2022 |  |
+| [`Bregman Berbert Schwartz & Gilday`]() | 22/12/2022 | For more than four decades, our firm has been devoted to serving the interests of our clients. At BBS&G, practicing law is about finding innovative ways to protect our clients’ interests. We take pride in our results. Our passion lies in fostering long-term relationships with our clients that allow us to take heavy burdens off of their shoulders in an efficient, cost-effective manner. |
+| [`Protecmedia`]() | 22/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
 | `Events DC` | 15/12/2022 |   |
 | `Bailey Cavalieri LLC` | 15/12/2022 |   |
 | `TEIJIN AUTOMOTIVE TECHNOLOGIES` | 14/12/2022 |   |
@@ -8090,4 +8091,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 23/12/2022 14.58 (UTC)_
+Last update : _Friday 23/12/2022 15.25 (UTC)_

@@ -194,7 +194,7 @@
         "name": "alphv",
         "captcha": false,
         "parser": true,
-        "javascript_render": false,
+        "javascript_render": true,
         "meta": "aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2wrbyd.onion`",
         "locations": [
             {
@@ -206,6 +206,16 @@
                 "updated": "2022-12-23 08:26:51.081589",
                 "lastscrape": "2022-12-23 08:26:51.081578",
                 "enabled": true
+            },
+            {
+                "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
+                "available": false,
+                "updated": "2022-12-23 08:26:51.081589",
+                "lastscrape": "2022-12-23 08:26:51.081578",
+                "enabled": false
             },
             {
                 "fqdn": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",
