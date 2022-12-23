@@ -203,4 +203,4 @@
 | 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](profiles.md?id=play) |
 | 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](profiles.md?id=play) |
 
-Last update : _Friday 23/12/2022 05.04 (UTC)_
+Last update : _Friday 23/12/2022 06.50 (UTC)_
