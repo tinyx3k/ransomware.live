@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-23 | [`Aegea Group companies`](https://google.com/search?q=Aegea+Group+companies) | [royal](profiles.md?id=royal) |
+| 2022-12-23 | [`Rech Informatica Ltda`](https://google.com/search?q=Rech+Informatica+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](profiles.md?id=alphv) |
@@ -200,7 +202,5 @@
 | 2022-12-18 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | [projectrelic](profiles.md?id=projectrelic) |
 | 2022-12-18 | [`TLC`](https://google.com/search?q=TLC) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-18 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [karakurt](profiles.md?id=karakurt) |
-| 2022-12-18 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | [play](profiles.md?id=play) |
-| 2022-12-18 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | [play](profiles.md?id=play) |
 
-Last update : _Friday 23/12/2022 06.50 (UTC)_
+Last update : _Friday 23/12/2022 08.56 (UTC)_

@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4727` posts_
+_All `4729` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,8 @@ _All `4727` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-23 | [`Aegea Group companies`](https://google.com/search?q=Aegea+Group+companies) | [royal](profiles.md?id=royal) |
+| 2022-12-23 | [`Rech Informatica Ltda`](https://google.com/search?q=Rech+Informatica+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](profiles.md?id=alphv) |
@@ -4738,4 +4740,4 @@ _All `4727` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 23/12/2022 06.50 (UTC)_
+Last update : _Friday 23/12/2022 08.56 (UTC)_
