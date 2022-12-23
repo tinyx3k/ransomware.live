@@ -53,6 +53,12 @@ echo "<url>"
   echo " <changefreq>$FREQ</changefreq>"
   echo "</url>"
 
+echo "<url>"
+  echo " <loc>https://www.ransomware.live/#/decryption</loc>"
+  echo " <lastmod>$DATE</lastmod>"
+  echo " <changefreq>$FREQ</changefreq>"
+  echo "</url>"
+
 # print urls
 for GROUP in $(grep name groups.json  | cut -d: -f2  | tr -d , | tr -d \")
 do 
