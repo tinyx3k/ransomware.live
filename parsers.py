@@ -164,20 +164,6 @@ def arvinclub():
     for post in posts:
         appender(post, 'arvinclub')
 
-#def hive():
-#    stdlog('parser: ' + 'hive')
-#    # grep 'bookmark' source/hive-*.html --no-filename | cut -d ">" -f3 | cut -d "<" -f1
-#    # egrep -o 'class="">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">([[:alnum:]]| |\.)+</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
-#    # egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 && egrep -o 'class="lines">.*?</h2>' source/hiveleak-hiveleak*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sort -u
-#    parser = '''
-#    jq -r '.[].title' source/hive-hiveapi*.html || true
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('hive: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'hive')
-
 def avaddon():
     stdlog('parser: ' + 'avaddon')
     parser = '''
@@ -217,17 +203,6 @@ def ragnarlocker():
             appender(post['title'], 'ragnarlocker')
         except TypeError:
             errlog('ragnarlocker: ' + 'parsing fail')
-
-#def clop():
-#    stdlog('parser: ' + 'clop')
-#    parser = '''
-#    grep 'PUBLISHED' source/clop-*.html --no-filename | sed -e s/"<strong>"// -e s/"<\/strong>"// -e s/"<\/p>"// -e s/"<p>"// -e s/"<br>"// -e s/"<strong>"// -e s/"<\/strong>"// -e 's/^ *//g' -e 's/[[:space:]]*$//'
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('clop: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'clop')
 
 def revil():
     stdlog('parser: ' + 'revil')
@@ -592,17 +567,6 @@ def nightsky():
     for post in posts:
         appender(post, 'nightsky')
 
-#def vicesociety():
-#    stdlog('parser: ' + 'vicesociety')
-#    parser = '''
-#    grep '<tr><td valign="top"><br><font size="4" color="#FFFFFF"><b>' source/vicesociety-*.html --no-filename | cut -d '>' -f 6 | cut -d '<' -f 1 | sed -e '/ato District Health Boa/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('vicesociety: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'vicesociety')
-
 def pandora():
     stdlog('parser: ' + 'pandora')
     parser = '''
@@ -649,18 +613,6 @@ def kelvinsecurity():
     for post in posts:
         appender(post, 'kelvinsecurity')
 
-#def blackbasta():
-#    stdlog('parser: ' + 'blackbasta')
-#    # egrep -o 'fqd.onion/\?id=([[:alnum:]]| |\.)+"' source/blackbasta-*.html | cut -d = -f 2 | cut -d '"' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-#    parser = '''
-#    grep '.onion/?id=' source/blackbasta-st*.html | cut -d '>' -f 52 | cut -d '<' -f 1 | sed -e 's/\&amp/\&/g' -e 's/\&;/\&/g'
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('blackbasta: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'blackbasta')
-
 def onyx():
     stdlog('parser: ' + 'onyx')
     parser = '''
@@ -683,16 +635,6 @@ def mindware():
     for post in posts:
         appender(post, 'mindware')
 
-#def ransomhouse():
-#    stdlog('parser: ' + 'ransomhouse')
-#    parser = '''
-#    egrep -o "class=\"cls_recordTop\"><p>([A-Za-z0-9 ,\'.-])+</p>" source/ransomhouse-xw7au5p*.html | cut -d '>' -f 3 | cut -d '<' -f 1 && jq -r '.data[].header' source/ransomhouse-zoh*.html || true
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('ransomhouse: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'ransomhouse')
 
 def cheers():
     stdlog('parser: ' + 'cheers')
@@ -704,17 +646,6 @@ def cheers():
         errlog('cheers: ' + 'parsing fail')
     for post in posts:
         appender(post, 'cheers')
-
-#def lockbit3():
-#    stdlog('parser: ' + 'lockbit3')
-#    parser = '''
-#    grep '<div class="post-title">' source/lockbit3-*.html -C 1 --no-filename | grep '</div>' | cut -d '<' -f 1 | sed -e 's/^ *//g' -e 's/[[:space:]]*$//' | sort --uniq
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('lockbit3: ' + 'parsing fail')
-#   for post in posts:
-#        appender(post, 'lockbit3')
 
 def yanluowang():
     stdlog('parser: ' + 'yanluowang')
@@ -737,18 +668,6 @@ def omega():
         errlog('0mega: ' + 'parsing fail')
     for post in posts:
         appender(post, '0mega')
-
-#def bianlian():
-#    stdlog('parser: ' + 'bianlian')
-#    # sed -n '/<a href="\/companies\//,/<\/a>/p' source/bianlian-*.html | egrep -o "([A-Za-z0-9 ,\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d'
-#    parser = '''
-#    sed -n '/<a href=\/companies\//,/<\/a>/p' source/bianlian-*.html | sed 's/&amp;/and/' | egrep -o "([A-Za-z0-9 ,*\'.-])+</a>" | cut -d '<' -f 1 | sed -e '/Contacts/d' | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('bianlian: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'bianlian')
 
 def redalert():
     stdlog('parser: ' + 'redalert')
@@ -837,28 +756,6 @@ def mallox():
         errlog('mallox: ' + 'parsing fail')
     for post in posts:
         appender(post, 'mallox')
-    
-#def royal():
-#    stdlog('parser: ' + 'royal')
-#    parser = '''
-#    jq -r '.data[].title' source/royal-royal4ezp7xr*.html || true
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('royal: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'royal')
-
-#def projectrelic():
-#    stdlog('parser: ' + 'projectrelic')
-#    parser = '''
-#    grep --no-filename '<div class="website">' source/projectrelic-*.html | cut -d '"' -f 4
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('projectrelic: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'projectrelic')
 
 def medusa():
     stdlog('parser: ' + 'medusa')
@@ -905,16 +802,7 @@ def nokoyawa():
     for post in posts:
         appender(post, 'nokoyawa')
 
-#def karakurt2():
-#    stdlog('parser: ' + 'karakurt')
-#    parser = '''
-#    grep '<a href="/companies/' source/karakurt-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e '/^[[:space:]]*$/d' -e 's/^ *//g' -e 's/[[:space:]]*$//' || true
-#    '''
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('karakurt: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'karakurt')
+### NEW PARSERS USING ONLY PYTHON 
 
 def karakurt():
     stdlog('parser: ' + 'karakurt')
@@ -945,17 +833,6 @@ def karakurt():
             errlog('karakurt: ' + 'parsing fail')
             pass 
 
-#def play():
-#    stdlog('parser: ' + 'play')
-#    # %s '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\'  | grep -v \?\? 
-#    parser = '''
-#    %s --no-filename '(?<=\\"\\").*?(?=div)' source/play-*.html | tr -d '<>' | tr -d \\' 
-#    ''' % (fancygrep)
-#    posts = runshellcmd(parser)
-#    if len(posts) == 1:
-#        errlog('play: ' + 'parsing fail')
-#    for post in posts:
-#        appender(post, 'play')
 
 def projectrelic():
     stdlog('parser: ' + 'projectrelic')
