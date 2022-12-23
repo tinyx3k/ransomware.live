@@ -14,6 +14,8 @@ from sharedutils import runshellcmd
 # from sharedutils import todiscord, totwitter, toteams
 from sharedutils import stdlog, dbglog, errlog   # , honk
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from PIL import Image
+from PIL import ImageDraw
 
 
 # on macOS we use 'grep -oE' over 'grep -oP'
@@ -21,6 +23,7 @@ if platform == 'darwin':
     fancygrep = 'ggrep -oP'
 else:
     fancygrep = 'grep -oP'
+
 
 def posttemplate(victim, group_name, timestamp,description,website):
     '''
@@ -55,6 +58,10 @@ def screenshot(webpage,fqdn):
             page.wait_for_timeout(5000)
             name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
             page.screenshot(path=name, full_page=True)
+            image = Image.open(name)
+            draw = ImageDraw.Draw(image)
+            draw.text((10, 10), "Ransomware.live", fill=(0, 0, 0))
+            image.save(name)
         except PlaywrightTimeoutError:
             stdlog('Timeout!')
         except Exception as exception:
