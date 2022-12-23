@@ -152,7 +152,7 @@ def statuspage():
             screen=''
             if os.path.exists('docs/screenshots/'+screenshot):
                 screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
-            line = '| [' + group['name'] + '](https://www.ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
+            line = '| [' + group['name'] + '](profiles.md?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
             writeline(index_sheet, line)
     writeline(index_sheet, '')
     writeline(index_sheet, '---')
@@ -174,7 +174,7 @@ def statuspage():
                 screen=''
                 if os.path.exists('docs/screenshots/'+screenshot):
                     screen = '<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
-                line = '| [' + group['name'] + '](https://www.ransomware.live/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
+                line = '| [' + group['name'] + '](profiles.md?id=' + group['name'] + ') | ' + title + ' | ' + host['fqdn'] + ' | ' + screen + ' | ' 
                 writeline(index_sheet, line)
 
 
@@ -421,7 +421,7 @@ def decryptiontools():
     '''
     create a page for each Decryption Tools
     '''
-    stdlog('generating descruption tools pages')
+    stdlog('generating decryption tools pages')
     decryptionpage = 'docs/decryption.md'
     # delete contents of file
     with open(decryptionpage, 'w', encoding='utf-8') as f:
