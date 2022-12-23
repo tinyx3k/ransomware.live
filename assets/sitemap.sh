@@ -60,7 +60,7 @@ echo "<url>"
   echo "</url>"
 
 # print urls
-for GROUP in $(grep name groups.json  | cut -d: -f2  | tr -d , | tr -d \")
+for GROUP in $(jq '.[].name' groups.json | tr -d \")
 do 
   echo "<url>"
   echo " <loc>${URL}${GROUP}</loc>"
