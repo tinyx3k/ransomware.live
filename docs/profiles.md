@@ -193,8 +193,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`Events DC`](https://eventsdc.com) | 15/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
 | `Bailey Cavalieri LLC` | 15/12/2022 |   |
 | `TEIJIN AUTOMOTIVE TECHNOLOGIES` | 14/12/2022 |   |
-| [`PARIC CORPORATION`](https://www.paric.com/) | 13/12/2022 | BUILDING EXCELLENCE TO MOVE OUR COMMUNITY FORWARD
-Since 1979 PARIC has focused on being one of the top General Contractors, Construction Manager and Design-Build firms in the region. As one of the largest privately held companies in the Midwest, PARIC prides itself on being involved in the community and in building lasting relationships leading to repeat clients. |
+| [`PARIC CORPORATION`](https://www.paric.com/) | 13/12/2022 | BUILDING EXCELLENCE TO MOVE OUR COMMUNITY FORWARD Since 1979 PARIC has focused on being one of the top General Contractors, Construction Manager and Design-Build firms in the region. As one of the largest privately held companies in the Midwest, PARIC prides itself on being involved in the community and in building lasting relationships leading to repeat clients. |
 | [`Schnee Berger`](https://schneeberger.com) | 13/12/2022 | SCHNEEBERGER serves original equipment manufacturers operating (OEM) in various industries worldwide - from machine tool, solar technology and semiconductor technology to electrical engineering and medical engineering and others. Linear bearings, profiled linear guideways, measuring systems, gear racks, slides, positioning systems and mineral casting are all part of SCHNEEBERGER's . |
 | [`V3 Companies`](https://www.v3co.com) | 13/12/2022 | V3 Companies can be described in many ways: Most simply, we are a multidisciplinary firm offering civil engineering, contracting, environmental, planning, landscape architecture and surveying services. But that tells only a small piece of our story. We’re frequently asked, “What does ‘V3’ stand for?” … and the answer often surprises people. V3 represents an acronym for three Latin words – “Visio,” “Vertere,” “Virtute” or “The Vision to Transform with Excellence” – a statement of the aspirations we have for the growth of our employees, our service to our clients and the impact we have in our communities. |
 | `dothousehealth.org` | 10/12/2022 |   |
@@ -8091,4 +8090,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 23/12/2022 15.36 (UTC)_
+Last update : _Friday 23/12/2022 15.44 (UTC)_
