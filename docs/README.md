@@ -1,5 +1,5 @@
 ## 📈 Ransomware.live
-_december 22nd, 2022_
+_december 23rd, 2022_
 
 ---
 
@@ -10,7 +10,7 @@ _`Ransomware.live` is collecting, indexing, and centralizing ransomware informat
 
 ### Some figures 
 
-🔎 Currently tracking `132` groups across `242` relays & mirrors - _`70` currently online_ 🟢
+🔎 Currently tracking `132` groups across `242` relays & mirrors - _`74` currently online_ 🟢
 
 Check recent ransomware posts [`here`](recentposts.md)
 
@@ -35,5 +35,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Thursday 22/12/2022 22.55 (UTC)_
+Last update : _Friday 23/12/2022 02.06 (UTC)_
 
