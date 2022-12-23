@@ -826,16 +826,16 @@ def monti():
     for post in posts:
         appender(post, 'monti')
 
-def nokoyawa():
-    stdlog('parser: ' + 'nokoyawa')
-    parser = '''
-    awk '/<h1/{getline; print}' source/nokoyawa-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('nokoyawa: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'nokoyawa')
+#def nokoyawa():
+#    stdlog('parser: ' + 'nokoyawa')
+#    parser = '''
+#    awk '/<h1/{getline; print}' source/nokoyawa-*.html | sed -e 's/^ *//g' -e 's/[[:space:]]*$//'
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('nokoyawa: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'nokoyawa')
 
 ### NEW PARSERS USING ONLY PYTHON 
 
@@ -1089,3 +1089,20 @@ def clop():
                         continue
                     appender(item, 'clop')
 
+def nokoyawa():
+    stdlog('parser: ' + 'nokoyawa')
+    for filename in os.listdir('source'):
+        try:
+           if filename.startswith('nokoyawa-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {"class": "relative bg-white rounded-lg shadow dark:bg-gray-700"})
+                for div in divs_name:
+                    title = div.find('h3').text.strip().split('\n')[0].strip()
+                    description = div.find('p', {'class':"break-all"}).text.strip()
+                    appender(title, 'nokoyawa',description)
+                file.close()
+        except:
+            errlog('nokoyawa: ' + 'parsing fail')
+            pass

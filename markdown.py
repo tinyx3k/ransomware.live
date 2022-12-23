@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import os
+import re
 import time
 import urllib.parse
 from datetime import datetime as dt
@@ -363,7 +364,7 @@ def profilepage():
             for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
-                        description=post['description'] 
+                        description=re.sub(r"folder/.*", "folder/******", (post['description']))
                     except:
                         description=' '
                     try:
