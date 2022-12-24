@@ -203,4 +203,4 @@
 | 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 24/12/2022 17.05 (UTC)_
+Last update : _Saturday 24/12/2022 18.52 (UTC)_
