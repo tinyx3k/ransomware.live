@@ -828,18 +828,25 @@ def dataleak():
     for post in posts:
         appender(post, 'dataleak')
 
+### NEW PARSERS USING ONLY PYTHON 
+
 def monti():
     stdlog('parser: ' + 'monti')
-    parser = '''
-    grep '<h5 style="color:#dbdbdb" >' source/monti-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('monti: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'monti')
-
-### NEW PARSERS USING ONLY PYTHON 
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('monti-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('a', {"class": "leak-card p-3"})
+                for div in divs_name:
+                    title = div.find('h5').text.strip()
+                    description =  div.find('p').text.strip()
+                    appender(title, 'monti', description)
+        except:
+            errlog('monti: ' + 'parsing fail')
+            pass 
+                
 
 def karakurt():
     stdlog('parser: ' + 'karakurt')
