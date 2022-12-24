@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2022-12-24 🎄 🎅🏻 🎁
 
-* Add [Decrypted Tools page](decryption.md)
+git * Add [Decryption Tools page](decryption.md)
 
 ### 2022-12-20 
 
