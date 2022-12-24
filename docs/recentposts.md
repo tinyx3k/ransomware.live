@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-24 | [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-23 | [`Myofficeplace Inc.`](https://google.com/search?q=Myofficeplace+Inc.) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-23 | [`SEMITEC Corporation`](https://google.com/search?q=SEMITEC+Corporation) | [bianlian](profiles.md?id=bianlian) |
@@ -201,6 +202,5 @@
 | 2022-12-19 | [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 24/12/2022 22.50 (UTC)_
+Last update : _Sunday 25/12/2022 00.00 (UTC)_

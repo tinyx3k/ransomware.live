@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -961,7 +961,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -2402,7 +2402,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -2460,7 +2460,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -6893,10 +6893,11 @@ _`shut down & offering a decryptor`_
 
 ### Posts
 
-> 18 posts found
+> 19 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Republic of Vanuatu`](https://www.gov.vu/) | 24/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
 | [`Strem Chemicals`](https://www.strem.com/) | 22/12/2022 | Strem established in 1964, is a company that manufactures and markets specialty chemicals of high purity. Strem was acquired by Ascensus Specialties in 2021. Its clients include academic, industrial and government research and development laboratories as well as commercial scale businesses in the pharmaceutical, microelectronic and chemical / petrochemical industries. Strem also provides custom synthesis (including high pressure synthesis) and cGMP manufacturing services. |
 | `Keralty` | 19/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
 | `Advanced Micro Devices, Inc` | 05/12/2022 |   |
@@ -8095,4 +8096,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Saturday 24/12/2022 22.50 (UTC)_
+Last update : _Sunday 25/12/2022 00.00 (UTC)_
