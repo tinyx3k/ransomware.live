@@ -19,13 +19,13 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🕓 There have been `429` posts within the `month of december`
 
-📅 There have been `968` posts within the `last 90 days`
+📅 There have been `967` posts within the `last 90 days`
 
 🏚 There have been `2989` posts since the `1st January 2022`
 
-📸 There are `114` ransomware group host screenshots
+📸 There are `115` ransomware group host screenshots
 
-📝 There are `90` ransomware notes
+📝 There are `125` ransomware notes
 
 🚀 There have been `1713` posts `last year`
 
@@ -35,5 +35,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Saturday 24/12/2022 14.54 (UTC)_
+Last update : _Saturday 24/12/2022 16.56 (UTC)_
 

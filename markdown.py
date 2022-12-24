@@ -443,21 +443,34 @@ def decryptiontools():
         ransom_name = li.select_one('h2 button')
         if ransom_name is not None:
             ransom_name = str(ransom_name)
-            # Sélectionnez la description du ransom
             ransom_description = str(li.select_one('p'))
-            # Sélectionnez le lien de téléchargement du décrypteur
-            download_link = str(li.select_one('a.button')['href'])
-            # Sélectionnez le nom de l'auteur du décrypteur
             author_name = str(li.select_one('p.small'))
+            a_tags = li.find_all('a')
+            download_link = str(li.select_one('a.button')['href'])
+            howto = str(a_tags[0])
+            veloute = BeautifulSoup(howto, 'html.parser')
+            a_tag = veloute.find('a')
+            linkhowto = a_tag['href']
+            if linkhowto.startswith("http"):
+                linkhowto = ' 📖  For more information please see this [how-to guide](' + str(linkhowto) +').'
+            else:   
+                linkhowto = ' 📖 For more information please see this [how-to guide](https://www.nomoreransom.org' + str(linkhowto) +').'           
+            # Sélectionnez le lien de téléchargement du décrypteur
+            # download_link = str(li.select_one('a.button')['href'])
+            # Sélectionnez le nom de l'auteur du décrypteur
             author_name = re.sub(r'<[^>]*>', '',author_name).replace('Tool made by  ','')
             writeline(decryptionpage, '## '+ re.sub(r'<[^>]*>', '',ransom_name))
             writeline(decryptionpage, '')
             writeline(decryptionpage, '> ' + re.sub(r'<[^>]*>', '',ransom_description ))
             writeline(decryptionpage, '')
+            writeline(decryptionpage, str(linkhowto))
+            writeline(decryptionpage, '')
             writeline(decryptionpage, '🌍 [' + author_name.rstrip() + '](' + download_link + ')')
             writeline(decryptionpage, '')
             writeline(decryptionpage, '---')
             writeline(decryptionpage, '')
+    writeline(decryptionpage, '')
+    writeline(decryptionpage,'_Source : [No More Ransom](https://www.nomoreransom.org/)_')
     writeline(decryptionpage, '')
     writeline(decryptionpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('decryption tools page generation complete')
