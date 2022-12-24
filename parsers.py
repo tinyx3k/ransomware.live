@@ -13,9 +13,13 @@ from sharedutils import openjson
 from sharedutils import runshellcmd
 # from sharedutils import todiscord, totwitter, toteams
 from sharedutils import stdlog, dbglog, errlog   # , honk
+# For screenshot 
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+# For watermark on screenshot 
 from PIL import Image
 from PIL import ImageDraw
+# For Notification 
+import http.client, urllib
 
 
 # on macOS we use 'grep -oE' over 'grep -oP'
@@ -60,7 +64,7 @@ def screenshot(webpage,fqdn):
             page.screenshot(path=name, full_page=True)
             image = Image.open(name)
             draw = ImageDraw.Draw(image)
-            draw.text((10, 10), "Ransomware.live", fill=(0, 0, 0))
+            draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
             image.save(name)
         except PlaywrightTimeoutError:
             stdlog('Timeout!')
@@ -114,6 +118,21 @@ def appender(post_title, group_name, description="", website=""):
         #    totwitter(newpost['post_title'], newpost['group_name'])
         #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
         #    toteams(newpost['post_title'], newpost['group_name'])
+        try: 
+            stdlog('Send notification')
+            API_KEY = os.getenv('PUSH_API')
+            USER_KEY = os.getenv('PUSH_USER')
+            MESSAGE =  post_title +  " est victime du ransomware " + group_name
+            conn = http.client.HTTPSConnection("api.pushover.net:443")
+            conn.request("POST", "/1/messages.json",
+            urllib.parse.urlencode({
+              "token": API_KEY,
+              "user": USER_KEY,
+              "message": MESSAGE
+            }), { "Content-type": "application/x-www-form-urlencoded" })
+            conn.getresponse()
+        except: 
+            errlog('impossible to push notification')
         groups = openjson('groups.json')
         for group in groups:
             if group["name"] == group_name:
