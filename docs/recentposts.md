@@ -203,4 +203,4 @@
 | 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`womgroup.com`](https://google.com/search?q=womgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 25/12/2022 11.10 (UTC)_
+Last update : _Sunday 25/12/2022 13.02 (UTC)_
