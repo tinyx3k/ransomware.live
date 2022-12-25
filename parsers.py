@@ -957,24 +957,25 @@ def blackbasta():
             errlog('blackbasta: ' + 'parsing fail')
             pass    
 
-def ransomhouse():
-    stdlog('parser: ' + 'ransomhouse')
-    for filename in os.listdir('source'):
-        try:
-            if filename.startswith('ransomhouse-'):
-                html_doc='source/'+filename
-                file=open(html_doc, 'r')
-                data = json.load(file)
-                for element in data['data']:
-                    title = element['header']
-                    website = element['url']
-                    description = re.sub(r'<[^>]*>', '',element['info'])
-                    # stdlog(title)
-                    appender(title, 'ransomhouse', description, website)
-                file.close()
-        except:
-            errlog('ransomhouse: ' + 'parsing fail')
-            pass    
+# HTML Version see bellow for JSON version 
+#def ransomhouse():
+#    stdlog('parser: ' + 'ransomhouse')
+#    for filename in os.listdir('source'):
+#        try:
+#            if filename.startswith('ransomhouse-'):
+#                html_doc='source/'+filename
+#                file=open(html_doc, 'r')
+#                data = json.load(file)
+#                for element in data['data']:
+#                    title = element['header']
+#                    website = element['url']
+#                    description = re.sub(r'<[^>]*>', '',element['info'])
+#                    # stdlog(title)
+#                    appender(title, 'ransomhouse', description, website)
+#                file.close()
+#        except:
+#            errlog('ransomhouse: ' + 'parsing fail')
+#            pass    
 
 def hive():
     stdlog('parser: ' + 'hive')
@@ -1143,3 +1144,38 @@ def alphv():
         except:
             errlog('alphv: ' + 'parsing fail')
             pass
+
+def ransomhouse():
+    stdlog('parser: ' + 'ransomhouse')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('ransomhouse-zoh'):
+                html_doc='source/'+filename
+                file=open(html_doc, 'r')
+                data = json.load(file)
+                for element in data['data']:
+                    title = element['header']
+                    website = element['url']
+                    description = re.sub(r'<[^>]*>', '',element['info'])
+                    # stdlog(title)
+                    appender(title, 'ransomhouse', description,website)
+                file.close()
+        except:
+            errlog('ransomhouse: ' + 'parsing fail')
+        #   pass
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('ransomhouse-'):
+                html_doc='source/'+filename
+                file=open(html_doc, 'r')
+                data = json.load(file)
+                for element in data['data']:
+                    title = element['header']
+                    website = element['url']
+                    description = re.sub(r'<[^>]*>', '',element['info'])
+                    # stdlog(title)
+                    appender(title, 'ransomhouse', description, website)
+                file.close()
+        except:
+            errlog('ransomhouse: ' + 'parsing fail')
+#            pass    
