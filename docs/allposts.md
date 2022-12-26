@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4738` posts_
+_All `4739` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4738` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-26 | [`STRESSER ASSOCIATES CPA`](https://google.com/search?q=STRESSER+ASSOCIATES+CPA) | [alphv](profiles.md?id=alphv) |
 | 2022-12-25 | [`Atlatec SA de CV`](https://google.com/search?q=Atlatec+SA+de+CV) | [royal](profiles.md?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-24 | [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4749,4 +4750,4 @@ _All `4738` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 26/12/2022 06.57 (UTC)_
+Last update : _Monday 26/12/2022 08.10 (UTC)_

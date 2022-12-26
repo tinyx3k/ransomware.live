@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-26 | [`STRESSER ASSOCIATES CPA`](https://google.com/search?q=STRESSER+ASSOCIATES+CPA) | [alphv](profiles.md?id=alphv) |
 | 2022-12-25 | [`Atlatec SA de CV`](https://google.com/search?q=Atlatec+SA+de+CV) | [royal](profiles.md?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-24 | [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,6 +202,5 @@
 | 2022-12-19 | [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-19 | [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 26/12/2022 06.57 (UTC)_
+Last update : _Monday 26/12/2022 08.10 (UTC)_
