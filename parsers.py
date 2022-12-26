@@ -203,17 +203,6 @@ def lockbit2():
     for post in posts:
         appender(post, 'lockbit2')
 
-'''
-used to fetch the description of a lb2 post - not used
-def lockbit2desc():
-    stdlog('parser: ' + 'lockbit2desc')
-    # sed -n '/post-block-text/{n;p;}' source/lockbit2-*.html | sed '/^</d' | cut -d "<" -f1
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('lockbit2: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'lockbit2')
-'''
 
 def arvinclub():
     stdlog('parser: ' + 'arvinclub')
@@ -979,23 +968,50 @@ def blackbasta():
 #            errlog('ransomhouse: ' + 'parsing fail')
 #            pass    
 
+#def hive():
+#    stdlog('parser: ' + 'hive')
+#    for filename in os.listdir('source'):
+#        try:
+ #           if filename.startswith('hive-hiveapi'):
+ #               html_doc='source/'+filename
+ #               file=open(html_doc, 'r')
+ #               htmlfile = file.read()
+ #               jsonfile = re.sub(r'<[^>]+>', '', htmlfile)
+ #               data = json.loads(jsonfile)
+ #               for element in data:
+ #                   title = element['title']
+ #                   website = element['website']
+ #                   try:
+ #                       description = element['description'].replace('\n',' ')
+ #                   except:
+ #                       errlog('hive: ' + 'something happen')
+ #                   appender(title, 'hive', description, website)
+ #               file.close()
+ #       except:
+ #           errlog('hive: ' + 'parsing fail')
+ #           pass    
+
 def hive():
     stdlog('parser: ' + 'hive')
     for filename in os.listdir('source'):
         try:
-            if filename.startswith('hive-hiveapi'):
-                html_doc='source/'+filename
-                file=open(html_doc, 'r')
-                data = json.load(file)
-                for element in data:
-                    title = element['title']
-                    website = element['website']
-                    try:
-                        description = element['description'].replace('\n',' ')
-                    except:
-                        errlog('hive: ' + 'something happen')
-                    appender(title, 'hive', description, website)
-                file.close()
+            html_doc='source/'+filename
+            file=open(html_doc,'r')
+            soup=BeautifulSoup(file,'html.parser')
+            if 'api' in filename:
+                jsonpart= soup.pre.contents
+                data = json.loads(jsonpart[0])
+                for entry in data:
+                    appender(entry['title'].strip(), 'hive', entry["description"].strip(), entry["website"].strip())
+            else:
+                divs_name=soup.find_all('div', {"class": "blog-card-info"})
+                for div in divs_name:
+                    title=div.h2.text.strip()
+                    if div.p is not None:
+                        description=div.p.text.strip()
+                    else:
+                        description = None
+                    appender(title, hive, description)
         except:
             errlog('hive: ' + 'parsing fail')
             pass    

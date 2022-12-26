@@ -14,7 +14,7 @@ from datetime import datetime
 # local imports
 
 import parsers
-import geckodrive
+# import geckodrive
 #########################################################
 # ref https://github.com/joshhighet/ransomwatch/issues/22
 # import chromium as geckodrive
@@ -157,6 +157,8 @@ def scrapernew(force=''):
                             page.bring_to_front()
                             delay = host['delay']*1000 if ( 'delay' in host and host['delay'] is not None ) \
                                 else 15000
+                            if delay != 15000:
+                                stdlog('New delay : '+ str(delay))
                             page.wait_for_timeout(delay)
                             page.mouse.move(x=500, y=400)
                             page.wait_for_load_state('networkidle')
@@ -164,7 +166,7 @@ def scrapernew(force=''):
                             page.wait_for_load_state('networkidle')
                             page.wait_for_timeout(5000)
                             filename = group['name'] + '-' + str(striptld(host['slug'])) + '.html'
-                            name = os.path.join(os.getcwd(), 'source2', filename)
+                            name = os.path.join(os.getcwd(), 'source', filename)
                             with open(name, 'w', encoding='utf-8') as sitesource:
                                 sitesource.write(page.content())
                                 sitesource.close()
@@ -281,9 +283,9 @@ def lister():
 if args.mode == 'scrape':
     if not checktcp(sockshost, socksport):
         honk("socks proxy not available and required for scraping!")
-    if checkgeckodriver() is False:
-        honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
-    scraper(args.force)
+    #if checkgeckodriver() is False:
+    #    honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
+    scrapernew(args.force)
     stdlog('ransomwatch: ' + 'scrape run complete')
 
 if args.mode == 'add':
