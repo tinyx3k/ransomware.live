@@ -45,6 +45,7 @@ You can find all ransomware leaks in **json** format [here](https://raw.githubus
 * Add description of ransomware gang in the [profiles](profiles.md) page
 * Add a [full list](allposts.md) of ransomware gang entry 
 * Add a [Change Log](CHANGELOG.md)
+* Add Pushover notification 
 * And much more minor modifications 
 
 `ransomware.live` uses github actions to do everything ... yes it's server less 😄
@@ -59,7 +60,7 @@ You can find all ransomware leaks in **json** format [here](https://raw.githubus
 
 ## 🤖 Fonctionnement (French only 🇫🇷)
 
-Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon blog : [julien.io](https://julien.io). 
+Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon blog : [julien.io](https://julien.io/ransomware-live/). 
 
 ## ♻️ Changelog 
 
