@@ -1130,6 +1130,7 @@ def alphv():
                         title = entry['title'].strip()
                         description = entry['publication']['description'].strip()
                         website = entry['publication']['url'].strip()
+                        description = re.sub(r"anonfiles.com/.*/", "anonfiles.com/*****/", description)
                         appender(title, 'alphv',description.replace('\n',' '),website)
                 except:
                     soup=BeautifulSoup(file,'html.parser')
