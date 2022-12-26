@@ -1124,16 +1124,15 @@ def alphv():
            if filename.startswith('alphv-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
-                soup=BeautifulSoup(file,'html.parser')
-                if 'api' in filename:
-                    jsonpart= soup.pre.contents
-                    data = json.loads(jsonpart[0])
+                try:
+                    data = json.load(file)
                     for entry in data['items']:
                         title = entry['title'].strip()
                         description = entry['publication']['description'].strip()
                         website = entry['publication']['url'].strip()
                         appender(title, 'alphv',description.replace('\n',' '),website)
-                else :
+                except:
+                    soup=BeautifulSoup(file,'html.parser')
                     divs_name=soup.find_all('div', {'class': 'post-body'})
                     for div in divs_name:
                         title = div.find('div', {'class': 'post-header'}).text.strip()
