@@ -2,6 +2,47 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-26 | [`LW Group`](https://google.com/search?q=LW+Group) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Keyano College`](https://google.com/search?q=Keyano+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`McKenzie Health System`](https://google.com/search?q=McKenzie+Health+System) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Avamere Family of Companies`](https://google.com/search?q=Avamere+Family+of+Companies) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Yildiz Entegre USA`](https://google.com/search?q=Yildiz+Entegre+USA) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CMHA National`](https://google.com/search?q=CMHA+National) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Chimbusco`](https://google.com/search?q=Chimbusco) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`LPA Design`](https://google.com/search?q=LPA+Design) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Public Employees Credit Union`](https://google.com/search?q=Public+Employees+Credit+Union) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`TPI Corporation`](https://google.com/search?q=TPI+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CHRISTUS Health`](https://google.com/search?q=CHRISTUS+Health) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`BLUME GLOBAL INC`](https://google.com/search?q=BLUME+GLOBAL+INC) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CPA Mutual Insurance Company`](https://google.com/search?q=CPA+Mutual+Insurance+Company) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Livingston`](https://google.com/search?q=Livingston) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CR2`](https://google.com/search?q=CR2) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Bechstein`](https://google.com/search?q=Bechstein) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Montmorency College`](https://google.com/search?q=Montmorency+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Transform Data Into Insight`](https://google.com/search?q=Transform+Data+Into+Insight) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Garnica Plywood`](https://google.com/search?q=Garnica+Plywood) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Casa International`](https://google.com/search?q=Casa+International) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`WBSCHOOLS`](https://google.com/search?q=WBSCHOOLS) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Los Alamos Nature Center`](https://google.com/search?q=Los+Alamos+Nature+Center) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Mount Vernon Mills`](https://google.com/search?q=Mount+Vernon+Mills) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Khoemacau Copper Mining`](https://google.com/search?q=Khoemacau+Copper+Mining) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`The Brigantine`](https://google.com/search?q=The+Brigantine) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`SCAD EDU`](https://google.com/search?q=SCAD+EDU) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Truckslogic`](https://google.com/search?q=Truckslogic) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`TeladanPrima Argo Group`](https://google.com/search?q=TeladanPrima+Argo+Group) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Sunland Asphalt And Construction`](https://google.com/search?q=Sunland+Asphalt+And+Construction) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Xybion`](https://google.com/search?q=Xybion) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Our Lady of Lake University`](https://google.com/search?q=Our+Lady+of+Lake+University) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Paul Smiths College`](https://google.com/search?q=Paul+Smiths+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Northwest University`](https://google.com/search?q=Northwest+University) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Emtec Inc`](https://google.com/search?q=Emtec+Inc) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`American International Industry`](https://google.com/search?q=American+International+Industry) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Zeus Scientific Inc`](https://google.com/search?q=Zeus+Scientific+Inc) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Hughes Systems Industrial`](https://google.com/search?q=Hughes+Systems+Industrial) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`DLS Motors`](https://google.com/search?q=DLS+Motors) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Cosmopoint College`](https://google.com/search?q=Cosmopoint+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`ALVAC SA`](https://google.com/search?q=ALVAC+SA) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`STRESSER ASSOCIATES CPA`](https://google.com/search?q=STRESSER+ASSOCIATES+CPA) | [alphv](profiles.md?id=alphv) |
 | 2022-12-25 | [`Atlatec SA de CV`](https://google.com/search?q=Atlatec+SA+de+CV) | [royal](profiles.md?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
@@ -161,46 +202,5 @@
 | 2022-12-21 | [`Whatcom County Library System`](https://google.com/search?q=Whatcom+County+Library+System) | [unsafe](profiles.md?id=unsafe) |
 | 2022-12-21 | [`The Chedi Muscat`](https://google.com/search?q=The+Chedi+Muscat) | [unsafe](profiles.md?id=unsafe) |
 | 2022-12-21 | [`Barakat Travel Co`](https://google.com/search?q=Barakat+Travel+Co) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-21 | [`Ucar`](https://google.com/search?q=Ucar) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-20 | [`Interface`](https://google.com/search?q=Interface) | [hive](profiles.md?id=hive) |
-| 2022-12-20 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | [karakurt](profiles.md?id=karakurt) |
-| 2022-12-20 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
-| 2022-12-20 | [`Zehnders of Frankenmuth`](https://google.com/search?q=Zehnders+of+Frankenmuth) | [royal](profiles.md?id=royal) |
-| 2022-12-20 | [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | [hive](profiles.md?id=hive) |
-| 2022-12-20 | [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | [hive](profiles.md?id=hive) |
-| 2022-12-20 | [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | [hive](profiles.md?id=hive) |
-| 2022-12-20 | [`City Of Huntsville, Texas`](https://google.com/search?q=City+Of+Huntsville%2C+Texas) | [hive](profiles.md?id=hive) |
-| 2022-12-20 | [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
-| 2022-12-20 | [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`JEALSA`](https://google.com/search?q=JEALSA) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Communications Solutions Company`](https://google.com/search?q=Communications+Solutions+Company) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Priority Building Services, LLC`](https://google.com/search?q=Priority+Building+Services%2C+LLC) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Waikato District Health Board`](https://google.com/search?q=Waikato+District+Health+Board) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Whitehouse Independent School District`](https://google.com/search?q=Whitehouse+Independent+School+District) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Karl Bachl GmbH & Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26+Co.KG) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Holy Family RC & CE College`](https://google.com/search?q=Holy+Family+RC+%26+CE+College) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`SparJames Hall & CompanyHeron and Brearley`](https://google.com/search?q=SparJames+Hall+%26+CompanyHeron+and+Brearley) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Higher School of the Public Ministry of the Union`](https://google.com/search?q=Higher+School+of+the+Public+Ministry+of+the+Union) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`San Luis Coastal Unified School District`](https://google.com/search?q=San+Luis+Coastal+Unified+School+District) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Consejo Superior de Investigaciones Cientificas`](https://google.com/search?q=Consejo+Superior+de+Investigaciones+Cientificas) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Family Medicine CentersFMC Clinics`](https://google.com/search?q=Family+Medicine+CentersFMC+Clinics) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`CR&R Environmental Services`](https://google.com/search?q=CR%26R+Environmental+Services) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`Sae-a`](https://google.com/search?q=Sae-a) | [cuba](profiles.md?id=cuba) |
-| 2022-12-20 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-20 | [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-12-20 | [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | [hive](profiles.md?id=hive) |
-| 2022-12-20 | [`Stolle Machinery`](https://google.com/search?q=Stolle+Machinery) | [hive](profiles.md?id=hive) |
-| 2022-12-19 | [`Keralty`](https://google.com/search?q=Keralty) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2022-12-19 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-12-19 | [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-12-19 | [`Sterling`](https://google.com/search?q=Sterling) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-12-19 | [`MARK-TAYLOR`](https://google.com/search?q=MARK-TAYLOR) | [royal](profiles.md?id=royal) |
-| 2022-12-19 | [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`catalyst-group.co.nz`](https://google.com/search?q=catalyst-group.co.nz) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-19 | [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 26/12/2022 13.03 (UTC)_
+Last update : _Monday 26/12/2022 16.24 (UTC)_

@@ -21,6 +21,8 @@ import geckodrive
 #########################################################
 from markdown import main as markdown
 
+from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+
 from sharedutils import striptld
 from sharedutils import openjson
 from sharedutils import checktcp
@@ -116,6 +118,74 @@ def checkexisting(provider):
         if group['name'] == provider:
             return True
     return False
+
+###
+# For a futur use
+###
+def scrapernew(force=''):
+    '''main scraping function'''
+    groups = openjson("groups.json")
+    # iterate each provider
+    for group in groups:
+        stdlog('ransomwatch: ' + 'working on ' + group['name'])
+        # iterate each location/mirror/relay
+        for host in group['locations']:
+            stdlog('ransomwatch: ' + 'scraping ' + host['slug'])
+            host['available'] = bool()
+            '''
+            only scrape onion v3 unless using headless browser, not long before this will not be possible
+            https://support.torproject.org/onionservices/v2-deprecation/
+            '''  
+            if host['enabled'] is False:
+                if (force !='1'):
+                    stdlog('ransomwatch: ' + 'skipping, this host has been flagged as disabled')
+                    continue
+                else:
+                    stdlog('ransomwatch: ' + 'forcing, this host has been flagged as disabled')
+            if host['version'] == 3 or host['version'] == 0:
+                # here 
+                try:
+                    with sync_playwright() as play:
+                            browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
+                                 args=['--unsafely-treat-insecure-origin-as-secure='+host['slug']])
+                            context = browser.new_context(ignore_https_errors= True )
+                            page = context.new_page()
+                            if 'timeout' in host and host['timeout'] is not None:
+                               page.goto(host['slug'], wait_until='load', timeout = host['timeout']*1000)
+                            else:
+                                page.goto(host['slug'], wait_until='load', timeout = 120000)
+                            page.bring_to_front()
+                            delay = host['delay']*1000 if ( 'delay' in host and host['delay'] is not None ) \
+                                else 15000
+                            page.wait_for_timeout(delay)
+                            page.mouse.move(x=500, y=400)
+                            page.wait_for_load_state('networkidle')
+                            page.mouse.wheel(delta_y=2000, delta_x=0)
+                            page.wait_for_load_state('networkidle')
+                            page.wait_for_timeout(5000)
+                            filename = group['name'] + '-' + str(striptld(host['slug'])) + '.html'
+                            name = os.path.join(os.getcwd(), 'source2', filename)
+                            with open(name, 'w', encoding='utf-8') as sitesource:
+                                sitesource.write(page.content())
+                                sitesource.close()
+                                host['available'] = True
+                                host['title'] = getsitetitle(name)
+                                host['lastscrape'] = str(datetime.today())            
+                                host['updated'] = str(datetime.today())
+                                dbglog('ransomwatch: ' + 'scrape successful')
+                                with open('groups.json', 'w', encoding='utf-8') as groupsfile:
+                                    json.dump(groups, groupsfile, ensure_ascii=False, indent=4)
+                                    groupsfile.close()
+                                    dbglog('ransomwatch: ' + 'groups.json updated')
+                            browser.close()
+                except PlaywrightTimeoutError:
+                    stdlog('Timeout!')
+                except Exception as exception:
+                    errlog(exception)
+                    errlog("error")
+            stdlog('leaving : ' + host['slug'] + ' --------- ' + group['name'])
+
+### END 
 
 def scraper(force):
     '''main scraping function'''
@@ -301,6 +371,7 @@ if args.mode == 'parse':
     parsers.nokoyawa()
     parsers.karakurt()
     parsers.unsafe()
+    parsers.avoslocker()
     stdlog('ransomwatch: ' + 'parse run complete')
     postsjson2cvs()
     stdlog('ransomwatch: ' + 'convert json to csv run complete')

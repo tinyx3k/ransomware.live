@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4739` posts_
+_All `4780` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,47 @@ _All `4739` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-26 | [`LW Group`](https://google.com/search?q=LW+Group) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Keyano College`](https://google.com/search?q=Keyano+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`McKenzie Health System`](https://google.com/search?q=McKenzie+Health+System) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Avamere Family of Companies`](https://google.com/search?q=Avamere+Family+of+Companies) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Yildiz Entegre USA`](https://google.com/search?q=Yildiz+Entegre+USA) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CMHA National`](https://google.com/search?q=CMHA+National) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Chimbusco`](https://google.com/search?q=Chimbusco) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`LPA Design`](https://google.com/search?q=LPA+Design) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Public Employees Credit Union`](https://google.com/search?q=Public+Employees+Credit+Union) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`TPI Corporation`](https://google.com/search?q=TPI+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CHRISTUS Health`](https://google.com/search?q=CHRISTUS+Health) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`BLUME GLOBAL INC`](https://google.com/search?q=BLUME+GLOBAL+INC) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CPA Mutual Insurance Company`](https://google.com/search?q=CPA+Mutual+Insurance+Company) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Livingston`](https://google.com/search?q=Livingston) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`CR2`](https://google.com/search?q=CR2) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Bechstein`](https://google.com/search?q=Bechstein) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Montmorency College`](https://google.com/search?q=Montmorency+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Transform Data Into Insight`](https://google.com/search?q=Transform+Data+Into+Insight) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Garnica Plywood`](https://google.com/search?q=Garnica+Plywood) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Casa International`](https://google.com/search?q=Casa+International) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`WBSCHOOLS`](https://google.com/search?q=WBSCHOOLS) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Los Alamos Nature Center`](https://google.com/search?q=Los+Alamos+Nature+Center) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Mount Vernon Mills`](https://google.com/search?q=Mount+Vernon+Mills) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Khoemacau Copper Mining`](https://google.com/search?q=Khoemacau+Copper+Mining) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`The Brigantine`](https://google.com/search?q=The+Brigantine) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`SCAD EDU`](https://google.com/search?q=SCAD+EDU) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Truckslogic`](https://google.com/search?q=Truckslogic) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`TeladanPrima Argo Group`](https://google.com/search?q=TeladanPrima+Argo+Group) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Sunland Asphalt And Construction`](https://google.com/search?q=Sunland+Asphalt+And+Construction) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Xybion`](https://google.com/search?q=Xybion) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Our Lady of Lake University`](https://google.com/search?q=Our+Lady+of+Lake+University) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Paul Smiths College`](https://google.com/search?q=Paul+Smiths+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Northwest University`](https://google.com/search?q=Northwest+University) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Emtec Inc`](https://google.com/search?q=Emtec+Inc) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`American International Industry`](https://google.com/search?q=American+International+Industry) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Zeus Scientific Inc`](https://google.com/search?q=Zeus+Scientific+Inc) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Hughes Systems Industrial`](https://google.com/search?q=Hughes+Systems+Industrial) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`DLS Motors`](https://google.com/search?q=DLS+Motors) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`Cosmopoint College`](https://google.com/search?q=Cosmopoint+College) | [avoslocker](profiles.md?id=avoslocker) |
+| 2022-12-26 | [`ALVAC SA`](https://google.com/search?q=ALVAC+SA) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`STRESSER ASSOCIATES CPA`](https://google.com/search?q=STRESSER+ASSOCIATES+CPA) | [alphv](profiles.md?id=alphv) |
 | 2022-12-25 | [`Atlatec SA de CV`](https://google.com/search?q=Atlatec+SA+de+CV) | [royal](profiles.md?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
@@ -250,7 +291,7 @@ _All `4739` posts_
 | 2022-12-16 | [`RMCLAW`](https://google.com/search?q=RMCLAW) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Cates Control Systems`](https://google.com/search?q=Cates+Control+Systems) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Trussbilt LLC`](https://google.com/search?q=Trussbilt+LLC) | [royal](profiles.md?id=royal) |
-| 2022-12-16 | [`Duplicator Sales &amp; Service`](https://google.com/search?q=Duplicator+Sales+%26amp%3B+Service) | [royal](profiles.md?id=royal) |
+| 2022-12-16 | [`Duplicator Sales & Service`](https://google.com/search?q=Duplicator+Sales+%26+Service) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`PGT Innovations`](https://google.com/search?q=PGT+Innovations) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Summit`](https://google.com/search?q=Summit) | [royal](profiles.md?id=royal) |
 | 2022-12-16 | [`Adams-Friendship Area School District`](https://google.com/search?q=Adams-Friendship+Area+School+District) | [royal](profiles.md?id=royal) |
@@ -300,14 +341,14 @@ _All `4739` posts_
 | 2022-12-11 | [`Antwerpen`](https://google.com/search?q=Antwerpen) | [play](profiles.md?id=play) |
 | 2022-12-11 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | [ransomexx](profiles.md?id=ransomexx) |
 | 2022-12-11 | [`Municipalidad de belen`](https://google.com/search?q=Municipalidad+de+belen) | [karakurt](profiles.md?id=karakurt) |
-| 2022-12-11 | [`William A. Kibbe &amp; Associates`](https://google.com/search?q=William+A.+Kibbe+%26amp%3B+Associates) | [karakurt](profiles.md?id=karakurt) |
+| 2022-12-11 | [`William A. Kibbe & Associates`](https://google.com/search?q=William+A.+Kibbe+%26+Associates) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Infinitum`](https://google.com/search?q=Infinitum) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Energy Transfer Durafin Tubes`](https://google.com/search?q=Energy+Transfer+Durafin+Tubes) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`KINSHOFER GmbH`](https://google.com/search?q=KINSHOFER+GmbH) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`APSM Systems`](https://google.com/search?q=APSM+Systems) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Latitude 37`](https://google.com/search?q=Latitude+37) | [karakurt](profiles.md?id=karakurt) |
-| 2022-12-11 | [`South Jersey Glass &amp; Doors`](https://google.com/search?q=South+Jersey+Glass+%26amp%3B+Doors) | [karakurt](profiles.md?id=karakurt) |
+| 2022-12-11 | [`South Jersey Glass & Doors`](https://google.com/search?q=South+Jersey+Glass+%26+Doors) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`APECQ`](https://google.com/search?q=APECQ) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Bergamo Metal`](https://google.com/search?q=Bergamo+Metal) | [karakurt](profiles.md?id=karakurt) |
 | 2022-12-11 | [`Metroclean`](https://google.com/search?q=Metroclean) | [karakurt](profiles.md?id=karakurt) |
@@ -628,7 +669,7 @@ _All `4739` posts_
 | 2022-11-06 | [`thenet.group`](https://google.com/search?q=thenet.group) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-11-06 | [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-11-06 | [`optiprint.ca`](https://google.com/search?q=optiprint.ca) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-11-06 | [`CR&amp;R Environmental Services`](https://google.com/search?q=CR%26amp%3BR+Environmental+Services) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-11-06 | [`CR&R Environmental Services`](https://google.com/search?q=CR%26R+Environmental+Services) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-11-06 | [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | [alphv](profiles.md?id=alphv) |
 | 2022-11-05 | [`everstrong.com`](https://google.com/search?q=everstrong.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-11-05 | [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | [lockbit3](profiles.md?id=lockbit3) |
@@ -876,7 +917,7 @@ _All `4739` posts_
 | 2022-10-12 | [`Quality Telecom Consultants Inc`](https://google.com/search?q=Quality+Telecom+Consultants+Inc) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-10-12 | [`bigcenters.rs`](https://google.com/search?q=bigcenters.rs) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-10-11 | [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | [everest](profiles.md?id=everest) |
-| 2022-10-11 | [`Consorci Sanitari Integral &amp; Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26amp%3B+Geseme) | [ransomexx](profiles.md?id=ransomexx) |
+| 2022-10-11 | [`Consorci Sanitari Integral & Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26+Geseme) | [ransomexx](profiles.md?id=ransomexx) |
 | 2022-10-11 | [`tdwood.com`](https://google.com/search?q=tdwood.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-10-11 | [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | [blackbasta](profiles.md?id=blackbasta) |
 | 2022-10-10 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | [ragnarlocker](profiles.md?id=ragnarlocker) |
@@ -1237,7 +1278,7 @@ _All `4739` posts_
 | 2022-08-23 | [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | [ransomexx](profiles.md?id=ransomexx) |
 | 2022-08-23 | [`Announcement. Action Lab File-tree`](https://google.com/search?q=Announcement.+Action+Lab+File-tree) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-08-23 | [`DESFA - Pipeline company LEAK`](https://google.com/search?q=DESFA+-+Pipeline+company+LEAK) | [ragnarlocker](profiles.md?id=ragnarlocker) |
-| 2022-08-23 | [`Moskowitz, Mandell &amp; Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26amp%3B+Salim%2C+P.A.) | [quantum](profiles.md?id=quantum) |
+| 2022-08-23 | [`Moskowitz, Mandell & Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26+Salim%2C+P.A.) | [quantum](profiles.md?id=quantum) |
 | 2022-08-22 | [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | [lorenz](profiles.md?id=lorenz) |
 | 2022-08-22 | [`northwestpipe.com`](https://google.com/search?q=northwestpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-08-21 | [`Family Medicine Centers`](https://google.com/search?q=Family+Medicine+Centers) | [vicesociety](profiles.md?id=vicesociety) |
@@ -1256,7 +1297,7 @@ _All `4739` posts_
 | 2022-08-19 | [`Greece pipeline company breached - DESFA`](https://google.com/search?q=Greece+pipeline+company+breached+-+DESFA) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-08-19 | [`Reiter Affiliated Companies`](https://google.com/search?q=Reiter+Affiliated+Companies) | [hive](profiles.md?id=hive) |
 | 2022-08-19 | [`PROSOL`](https://google.com/search?q=PROSOL) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-08-19 | [`Shaw &amp; Slavsky`](https://google.com/search?q=Shaw+%26amp%3B+Slavsky) | [quantum](profiles.md?id=quantum) |
+| 2022-08-19 | [`Shaw & Slavsky`](https://google.com/search?q=Shaw+%26+Slavsky) | [quantum](profiles.md?id=quantum) |
 | 2022-08-18 | [`Department of Indre-et-Loire`](https://google.com/search?q=Department+of+Indre-et-Loire) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-08-18 | [`Consejo Superior de`](https://google.com/search?q=Consejo+Superior+de) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-08-18 | [`wabteccorp.com`](https://google.com/search?q=wabteccorp.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -1426,7 +1467,7 @@ _All `4739` posts_
 | 2022-07-19 | [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-07-19 | [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-07-19 | [`clestra.com`](https://google.com/search?q=clestra.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-07-19 | [`Delon Hampton &amp; Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26amp%3B+Associates%2C+Chartered) | [quantum](profiles.md?id=quantum) |
+| 2022-07-19 | [`Delon Hampton & Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26+Associates%2C+Chartered) | [quantum](profiles.md?id=quantum) |
 | 2022-07-19 | [`Autohaus`](https://google.com/search?q=Autohaus) | [quantum](profiles.md?id=quantum) |
 | 2022-07-18 | [`Broshuis - Driving innovation`](https://google.com/search?q=Broshuis+-+Driving+innovation) | [quantum](profiles.md?id=quantum) |
 | 2022-07-18 | [`FederalBank / Fedfina`](https://google.com/search?q=FederalBank+%2F+Fedfina) | [everest](profiles.md?id=everest) |
@@ -1541,7 +1582,7 @@ _All `4739` posts_
 | 2022-07-02 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | [yanluowang](profiles.md?id=yanluowang) |
 | 2022-07-02 | [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | [yanluowang](profiles.md?id=yanluowang) |
 | 2022-07-02 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | [yanluowang](profiles.md?id=yanluowang) |
-| 2022-07-02 | [`Cincinnati bell didn&rsquo;t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%26rsquo%3Bt+pay+the+ransom) | [yanluowang](profiles.md?id=yanluowang) |
+| 2022-07-02 | [`Cincinnati bell didn’t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%E2%80%99t+pay+the+ransom) | [yanluowang](profiles.md?id=yanluowang) |
 | 2022-07-02 | [`Rocky`](https://google.com/search?q=Rocky) | [hive](profiles.md?id=hive) |
 | 2022-07-01 | [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-07-01 | [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | [alphv](profiles.md?id=alphv) |
@@ -1721,7 +1762,7 @@ _All `4739` posts_
 | 2022-05-28 | [`Travira Air`](https://google.com/search?q=Travira+Air) | [hive](profiles.md?id=hive) |
 | 2022-05-28 | [`XEIAD`](https://google.com/search?q=XEIAD) | [hive](profiles.md?id=hive) |
 | 2022-05-28 | [`undefined`](https://google.com/search?q=undefined) | [blackbasta](profiles.md?id=blackbasta) |
-| 2022-05-27 | [`Florida Department of Veterans&#39; Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%26%2339%3B+Affairs) | [quantum](profiles.md?id=quantum) |
+| 2022-05-27 | [`Florida Department of Veterans' Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%27+Affairs) | [quantum](profiles.md?id=quantum) |
 | 2022-05-27 | [`kerrylog`](https://google.com/search?q=kerrylog) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-05-27 | [`Horwitz Law, Horwitz & Associates`](https://google.com/search?q=Horwitz+Law%2C+Horwitz+%26+Associates) | [alphv](profiles.md?id=alphv) |
 | 2022-05-27 | [`skinnertran`](https://google.com/search?q=skinnertran) | [lockbit2](profiles.md?id=lockbit2) |
@@ -1817,7 +1858,7 @@ _All `4739` posts_
 | 2022-05-17 | [`2easy.com.br`](https://google.com/search?q=2easy.com.br) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-05-17 | [`khs-wp.de`](https://google.com/search?q=khs-wp.de) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-05-17 | [`upskwt`](https://google.com/search?q=upskwt) | [cuba](profiles.md?id=cuba) |
-| 2022-05-17 | [`Hirsch Watch Straps &amp; Accessories`](https://google.com/search?q=Hirsch+Watch+Straps+%26amp%3B+Accessories) | [quantum](profiles.md?id=quantum) |
+| 2022-05-17 | [`Hirsch Watch Straps & Accessories`](https://google.com/search?q=Hirsch+Watch+Straps+%26+Accessories) | [quantum](profiles.md?id=quantum) |
 | 2022-05-17 | [`InnPower`](https://google.com/search?q=InnPower) | [quantum](profiles.md?id=quantum) |
 | 2022-05-17 | [`jaykal`](https://google.com/search?q=jaykal) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-05-16 | [`Brunk Industries Inc.`](https://google.com/search?q=Brunk+Industries+Inc.) | [lorenz](profiles.md?id=lorenz) |
@@ -2101,7 +2142,7 @@ _All `4739` posts_
 | 2022-04-18 | [`ville-sa`](https://google.com/search?q=ville-sa) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-04-17 | [`NuLife Med`](https://google.com/search?q=NuLife+Med) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-04-17 | [`Ministerio de Hacienda - República de Costa Rica`](https://google.com/search?q=Ministerio+de+Hacienda+-+Rep%C3%BAblica+de+Costa+Rica) | [conti](profiles.md?id=conti) |
-| 2022-04-17 | [`Tucker Door &amp; Trim`](https://google.com/search?q=Tucker+Door+%26amp%3B+Trim) | [conti](profiles.md?id=conti) |
+| 2022-04-17 | [`Tucker Door & Trim`](https://google.com/search?q=Tucker+Door+%26+Trim) | [conti](profiles.md?id=conti) |
 | 2022-04-16 | [`Standard Building Supplies Ltd.`](https://google.com/search?q=Standard+Building+Supplies+Ltd.) | [everest](profiles.md?id=everest) |
 | 2022-04-16 | [`DJS associate`](https://google.com/search?q=DJS+associate) | [suncrypt](profiles.md?id=suncrypt) |
 | 2022-04-15 | [`[IMPORTANT ANNOUNCEMENT!]`](https://google.com/search?q=%5BIMPORTANT+ANNOUNCEMENT%21%5D) | [conti](profiles.md?id=conti) |
@@ -2148,7 +2189,7 @@ _All `4739` posts_
 | 2022-04-12 | [`Success Neeti`](https://google.com/search?q=Success+Neeti) | [stormous](profiles.md?id=stormous) |
 | 2022-04-12 | [`JetStar`](https://google.com/search?q=JetStar) | [quantum](profiles.md?id=quantum) |
 | 2022-04-12 | [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | [quantum](profiles.md?id=quantum) |
-| 2022-04-12 | [`Service Employees&#39; International Union`](https://google.com/search?q=Service+Employees%26%2339%3B+International+Union) | [quantum](profiles.md?id=quantum) |
+| 2022-04-12 | [`Service Employees' International Union`](https://google.com/search?q=Service+Employees%27+International+Union) | [quantum](profiles.md?id=quantum) |
 | 2022-04-12 | [`DeeZee`](https://google.com/search?q=DeeZee) | [lorenz](profiles.md?id=lorenz) |
 | 2022-04-12 | [`tavistock`](https://google.com/search?q=tavistock) | [cuba](profiles.md?id=cuba) |
 | 2022-04-12 | [`North Carolina A&T State University (www.ncat.edu)`](https://google.com/search?q=North+Carolina+A%26T+State+University+%28www.ncat.edu%29) | [alphv](profiles.md?id=alphv) |
@@ -2463,7 +2504,7 @@ _All `4739` posts_
 | 2022-03-17 | [`IMT GROUP`](https://google.com/search?q=IMT+GROUP) | [conti](profiles.md?id=conti) |
 | 2022-03-17 | [`Empire Electronics Inc.`](https://google.com/search?q=Empire+Electronics+Inc.) | [conti](profiles.md?id=conti) |
 | 2022-03-17 | [`Milan Institute`](https://google.com/search?q=Milan+Institute) | [conti](profiles.md?id=conti) |
-| 2022-03-17 | [`Jaffe Raitt Heuer &amp; Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26amp%3B+Weiss%2C+P.C.) | [pandora](profiles.md?id=pandora) |
+| 2022-03-17 | [`Jaffe Raitt Heuer & Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26+Weiss%2C+P.C.) | [pandora](profiles.md?id=pandora) |
 | 2022-03-17 | [`GlobalWafers Japan`](https://google.com/search?q=GlobalWafers+Japan) | [pandora](profiles.md?id=pandora) |
 | 2022-03-17 | [`Rosewd`](https://google.com/search?q=Rosewd) | [pandora](profiles.md?id=pandora) |
 | 2022-03-17 | [`sbctanzania.co....`](https://google.com/search?q=sbctanzania.co....) | [lockbit2](profiles.md?id=lockbit2) |
@@ -2602,7 +2643,7 @@ _All `4739` posts_
 | 2022-02-26 | [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | [conti](profiles.md?id=conti) |
 | 2022-02-26 | [`Research Partnership`](https://google.com/search?q=Research+Partnership) | [conti](profiles.md?id=conti) |
 | 2022-02-25 | [`GEMS Education - gemseducation.com`](https://google.com/search?q=GEMS+Education+-+gemseducation.com) | [alphv](profiles.md?id=alphv) |
-| 2022-02-25 | [`McDonald&#039;s`](https://google.com/search?q=McDonald%26%23039%3Bs) | [snatch](profiles.md?id=snatch) |
+| 2022-02-25 | [`McDonald's`](https://google.com/search?q=McDonald%27s) | [snatch](profiles.md?id=snatch) |
 | 2022-02-25 | [`ids97`](https://google.com/search?q=ids97) | [cuba](profiles.md?id=cuba) |
 | 2022-02-25 | [`GEMS Education`](https://google.com/search?q=GEMS+Education) | [alphv](profiles.md?id=alphv) |
 | 2022-02-25 | [`WARNING`](https://google.com/search?q=WARNING) | [conti](profiles.md?id=conti) |
@@ -2618,7 +2659,7 @@ _All `4739` posts_
 | 2022-02-25 | [`Tite - Live Belgique`](https://google.com/search?q=Tite+-+Live+Belgique) | [hive](profiles.md?id=hive) |
 | 2022-02-25 | [`Shanghai Huizhong Automotive Manufacturing Co., Ltd.`](https://google.com/search?q=Shanghai+Huizhong+Automotive+Manufacturing+Co.%2C+Ltd.) | [hive](profiles.md?id=hive) |
 | 2022-02-25 | [`Supernus Pharmaceuticals, NASDAQ: SUPN`](https://google.com/search?q=Supernus+Pharmaceuticals%2C+NASDAQ%3A+SUPN) | [hive](profiles.md?id=hive) |
-| 2022-02-25 | [`Drake &amp; Scull International PJSC`](https://google.com/search?q=Drake+%26amp%3B+Scull+International+PJSC) | [hive](profiles.md?id=hive) |
+| 2022-02-25 | [`Drake & Scull International PJSC`](https://google.com/search?q=Drake+%26+Scull+International+PJSC) | [hive](profiles.md?id=hive) |
 | 2022-02-25 | [`Institute For Systems And Robotics (Isr-Lisboa`](https://google.com/search?q=Institute+For+Systems+And+Robotics+%28Isr-Lisboa) | [hive](profiles.md?id=hive) |
 | 2022-02-25 | [`Centre D'Odontologia Integrada Miret-Puig`](https://google.com/search?q=Centre+D%27Odontologia+Integrada+Miret-Puig) | [hive](profiles.md?id=hive) |
 | 2022-02-25 | [`Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)`](https://google.com/search?q=Hyundai+Samho+Heavy+Industries+Co.%2CLtd.+%28South+Korea%29) | [hive](profiles.md?id=hive) |
@@ -2735,7 +2776,7 @@ _All `4739` posts_
 | 2022-02-11 | [`Vrancor Group`](https://google.com/search?q=Vrancor+Group) | [conti](profiles.md?id=conti) |
 | 2022-02-10 | [`Rheinland-Pfalz Bank`](https://google.com/search?q=Rheinland-Pfalz+Bank) | [conti](profiles.md?id=conti) |
 | 2022-02-09 | [`PetroVietnam`](https://google.com/search?q=PetroVietnam) | [snatch](profiles.md?id=snatch) |
-| 2022-02-09 | [`Weir &amp; Partners LLP`](https://google.com/search?q=Weir+%26amp%3B+Partners+LLP) | [everest](profiles.md?id=everest) |
+| 2022-02-09 | [`Weir & Partners LLP`](https://google.com/search?q=Weir+%26+Partners+LLP) | [everest](profiles.md?id=everest) |
 | 2022-02-09 | [`cilent`](https://google.com/search?q=cilent) | [lockbit2](profiles.md?id=lockbit2) |
 | 2022-02-09 | [`Jazeera Airways`](https://google.com/search?q=Jazeera+Airways) | [quantum](profiles.md?id=quantum) |
 | 2022-02-09 | [`The Lovett Group`](https://google.com/search?q=The+Lovett+Group) | [conti](profiles.md?id=conti) |
@@ -2900,7 +2941,7 @@ _All `4739` posts_
 | 2022-01-14 | [`Butler County Community College`](https://google.com/search?q=Butler+County+Community+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-13 | [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | [snatch](profiles.md?id=snatch) |
 | 2022-01-13 | [`HAPOLO`](https://google.com/search?q=HAPOLO) | [snatch](profiles.md?id=snatch) |
-| 2022-01-13 | [`Lewis &amp; Clark College`](https://google.com/search?q=Lewis+%26amp%3B+Clark+College) | [quantum](profiles.md?id=quantum) |
+| 2022-01-13 | [`Lewis & Clark College`](https://google.com/search?q=Lewis+%26+Clark+College) | [quantum](profiles.md?id=quantum) |
 | 2022-01-13 | [`superfund`](https://google.com/search?q=superfund) | [cuba](profiles.md?id=cuba) |
 | 2022-01-13 | [`fdcbuilding`](https://google.com/search?q=fdcbuilding) | [cuba](profiles.md?id=cuba) |
 | 2022-01-12 | [`supersave.ca`](https://google.com/search?q=supersave.ca) | [lockbit2](profiles.md?id=lockbit2) |
@@ -2954,12 +2995,12 @@ _All `4739` posts_
 | 2022-01-06 | [`ROC Mondriaan`](https://google.com/search?q=ROC+Mondriaan) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`United Health Centers`](https://google.com/search?q=United+Health+Centers) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`KESSEL AG`](https://google.com/search?q=KESSEL+AG) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-01-06 | [`Karl Bachl GmbH &amp; Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26amp%3B+Co.KG) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-01-06 | [`Karl Bachl GmbH & Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26+Co.KG) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`SRH Holding`](https://google.com/search?q=SRH+Holding) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`Manhasset Union Free School District`](https://google.com/search?q=Manhasset+Union+Free+School+District) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`Lufkin Independent School District`](https://google.com/search?q=Lufkin+Independent+School+District) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`City of Witten`](https://google.com/search?q=City+of+Witten) | [vicesociety](profiles.md?id=vicesociety) |
-| 2022-01-06 | [`Holy Family RC &amp; CE College`](https://google.com/search?q=Holy+Family+RC+%26amp%3B+CE+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2022-01-06 | [`Holy Family RC & CE College`](https://google.com/search?q=Holy+Family+RC+%26+CE+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`Hawthorn The Community Pub Co.`](https://google.com/search?q=Hawthorn+The+Community+Pub+Co.) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`Pontificia Universidad Javeriana`](https://google.com/search?q=Pontificia+Universidad+Javeriana) | [vicesociety](profiles.md?id=vicesociety) |
 | 2022-01-06 | [`DFL`](https://google.com/search?q=DFL) | [vicesociety](profiles.md?id=vicesociety) |
@@ -3206,7 +3247,7 @@ _All `4739` posts_
 | 2021-12-09 | [`PRIDE Community Services`](https://google.com/search?q=PRIDE+Community+Services) | [quantum](profiles.md?id=quantum) |
 | 2021-12-09 | [`Zepter`](https://google.com/search?q=Zepter) | [quantum](profiles.md?id=quantum) |
 | 2021-12-09 | [`COMUNE DI TORINO`](https://google.com/search?q=COMUNE+DI+TORINO) | [conti](profiles.md?id=conti) |
-| 2021-12-09 | [`Digital Workplace Services &amp; Solutions`](https://google.com/search?q=Digital+Workplace+Services+%26amp%3B+Solutions) | [quantum](profiles.md?id=quantum) |
+| 2021-12-09 | [`Digital Workplace Services & Solutions`](https://google.com/search?q=Digital+Workplace+Services+%26+Solutions) | [quantum](profiles.md?id=quantum) |
 | 2021-12-09 | [`The Jewelry Exchange is the Nations #1 Diamond Store.`](https://google.com/search?q=The+Jewelry+Exchange+is+the+Nations+%231+Diamond+Store.) | [quantum](profiles.md?id=quantum) |
 | 2021-12-09 | [`LAVI`](https://google.com/search?q=LAVI) | [conti](profiles.md?id=conti) |
 | 2021-12-08 | [`tlpterminal.com.my`](https://google.com/search?q=tlpterminal.com.my) | [lv](profiles.md?id=lv) |
@@ -3307,7 +3348,7 @@ _All `4739` posts_
 | 2021-11-29 | [`Bouquet Mulligan DeMaio`](https://google.com/search?q=Bouquet+Mulligan+DeMaio) | [midas](profiles.md?id=midas) |
 | 2021-11-29 | [`IDSFULFILLMENT`](https://google.com/search?q=IDSFULFILLMENT) | [midas](profiles.md?id=midas) |
 | 2021-11-29 | [`RWL GmbH`](https://google.com/search?q=RWL+GmbH) | [midas](profiles.md?id=midas) |
-| 2021-11-29 | [`EISENBERG HEFLER &amp; LEVY LLP`](https://google.com/search?q=EISENBERG+HEFLER+%26amp%3B+LEVY+LLP) | [midas](profiles.md?id=midas) |
+| 2021-11-29 | [`EISENBERG HEFLER & LEVY LLP`](https://google.com/search?q=EISENBERG+HEFLER+%26+LEVY+LLP) | [midas](profiles.md?id=midas) |
 | 2021-11-29 | [`HAMTACO`](https://google.com/search?q=HAMTACO) | [midas](profiles.md?id=midas) |
 | 2021-11-29 | [`CABINET CAZANAVE`](https://google.com/search?q=CABINET+CAZANAVE) | [midas](profiles.md?id=midas) |
 | 2021-11-29 | [`Raisetech`](https://google.com/search?q=Raisetech) | [midas](profiles.md?id=midas) |
@@ -3330,7 +3371,7 @@ _All `4739` posts_
 | 2021-11-29 | [`Ishida`](https://google.com/search?q=Ishida) | [snatch](profiles.md?id=snatch) |
 | 2021-11-29 | [`Arbitech`](https://google.com/search?q=Arbitech) | [snatch](profiles.md?id=snatch) |
 | 2021-11-29 | [`Daylesford Organic`](https://google.com/search?q=Daylesford+Organic) | [snatch](profiles.md?id=snatch) |
-| 2021-11-29 | [`Bock, Hatch, Lewis &amp; Oppenheim, LLC`](https://google.com/search?q=Bock%2C+Hatch%2C+Lewis+%26amp%3B+Oppenheim%2C+LLC) | [snatch](profiles.md?id=snatch) |
+| 2021-11-29 | [`Bock, Hatch, Lewis & Oppenheim, LLC`](https://google.com/search?q=Bock%2C+Hatch%2C+Lewis+%26+Oppenheim%2C+LLC) | [snatch](profiles.md?id=snatch) |
 | 2021-11-29 | [`Landmark Builders`](https://google.com/search?q=Landmark+Builders) | [snatch](profiles.md?id=snatch) |
 | 2021-11-29 | [`Match MG`](https://google.com/search?q=Match+MG) | [snatch](profiles.md?id=snatch) |
 | 2021-11-29 | [`Cadence Aerospace`](https://google.com/search?q=Cadence+Aerospace) | [snatch](profiles.md?id=snatch) |
@@ -3389,12 +3430,12 @@ _All `4739` posts_
 | 2021-11-20 | [`apower.com.sg`](https://google.com/search?q=apower.com.sg) | [lockbit2](profiles.md?id=lockbit2) |
 | 2021-11-20 | [`MINISTRY OF ECONOMY AND FINANCE Peru`](https://google.com/search?q=MINISTRY+OF+ECONOMY+AND+FINANCE+Peru) | [everest](profiles.md?id=everest) |
 | 2021-11-19 | [`Not Yet Kameraden!`](https://google.com/search?q=Not+Yet+Kameraden%21) | [conti](profiles.md?id=conti) |
-| 2021-11-19 | [`Hospitality Furnishings &amp; Design Inc.`](https://google.com/search?q=Hospitality+Furnishings+%26amp%3B+Design+Inc.) | [suncrypt](profiles.md?id=suncrypt) |
-| 2021-11-19 | [`Herman &amp; Kittle Properties Inc.`](https://google.com/search?q=Herman+%26amp%3B+Kittle+Properties+Inc.) | [suncrypt](profiles.md?id=suncrypt) |
+| 2021-11-19 | [`Hospitality Furnishings & Design Inc.`](https://google.com/search?q=Hospitality+Furnishings+%26+Design+Inc.) | [suncrypt](profiles.md?id=suncrypt) |
+| 2021-11-19 | [`Herman & Kittle Properties Inc.`](https://google.com/search?q=Herman+%26+Kittle+Properties+Inc.) | [suncrypt](profiles.md?id=suncrypt) |
 | 2021-11-19 | [`a1ssi.com`](https://google.com/search?q=a1ssi.com) | [lockbit2](profiles.md?id=lockbit2) |
 | 2021-11-19 | [`duncandisabilit...`](https://google.com/search?q=duncandisabilit...) | [lockbit2](profiles.md?id=lockbit2) |
 | 2021-11-19 | [`HELSA Group International`](https://google.com/search?q=HELSA+Group+International) | [conti](profiles.md?id=conti) |
-| 2021-11-18 | [`Area Energy &amp; Electric`](https://google.com/search?q=Area+Energy+%26amp%3B+Electric) | [conti](profiles.md?id=conti) |
+| 2021-11-18 | [`Area Energy & Electric`](https://google.com/search?q=Area+Energy+%26+Electric) | [conti](profiles.md?id=conti) |
 | 2021-11-18 | [`FTI Group`](https://google.com/search?q=FTI+Group) | [conti](profiles.md?id=conti) |
 | 2021-11-17 | [`ipbridge.co.jp`](https://google.com/search?q=ipbridge.co.jp) | [lockbit2](profiles.md?id=lockbit2) |
 | 2021-11-17 | [`hanshin-dp.co.j...`](https://google.com/search?q=hanshin-dp.co.j...) | [lockbit2](profiles.md?id=lockbit2) |
@@ -3818,7 +3859,7 @@ _All `4739` posts_
 | 2021-10-04 | [`GEO-Alpinbau`](https://google.com/search?q=GEO-Alpinbau) | [blackbyte](profiles.md?id=blackbyte) |
 | 2021-10-04 | [`Goss Dodge Chrysler Ram Jeep`](https://google.com/search?q=Goss+Dodge+Chrysler+Ram+Jeep) | [blackbyte](profiles.md?id=blackbyte) |
 | 2021-10-04 | [`Matic Transport`](https://google.com/search?q=Matic+Transport) | [blackbyte](profiles.md?id=blackbyte) |
-| 2021-10-04 | [`Ward Arcuri Foley &amp; Dwyer - Law Firm`](https://google.com/search?q=Ward+Arcuri+Foley+%26amp%3B+Dwyer+-+Law+Firm) | [bonacigroup](profiles.md?id=bonacigroup) |
+| 2021-10-04 | [`Ward Arcuri Foley & Dwyer - Law Firm`](https://google.com/search?q=Ward+Arcuri+Foley+%26+Dwyer+-+Law+Firm) | [bonacigroup](profiles.md?id=bonacigroup) |
 | 2021-10-04 | [`Charles Crown Financial Ltd`](https://google.com/search?q=Charles+Crown+Financial+Ltd) | [bonacigroup](profiles.md?id=bonacigroup) |
 | 2021-10-04 | [`ZKTeco USA`](https://google.com/search?q=ZKTeco+USA) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-10-03 | [`rivercityrental...`](https://google.com/search?q=rivercityrental...) | [lockbit2](profiles.md?id=lockbit2) |
@@ -3951,7 +3992,7 @@ _All `4739` posts_
 | 2021-09-17 | [`Modern Testing Services`](https://google.com/search?q=Modern+Testing+Services) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-17 | [`mitchellsternla...`](https://google.com/search?q=mitchellsternla...) | [lockbit2](profiles.md?id=lockbit2) |
 | 2021-09-17 | [`coldwellbankerh...`](https://google.com/search?q=coldwellbankerh...) | [lockbit2](profiles.md?id=lockbit2) |
-| 2021-09-17 | [`northwoods &amp; spectrumfurniture`](https://google.com/search?q=northwoods+%26amp%3B+spectrumfurniture) | [blackmatter](profiles.md?id=blackmatter) |
+| 2021-09-17 | [`northwoods & spectrumfurniture`](https://google.com/search?q=northwoods+%26+spectrumfurniture) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-17 | [`Steel Projects`](https://google.com/search?q=Steel+Projects) | [everest](profiles.md?id=everest) |
 | 2021-09-16 | [`AMAX`](https://google.com/search?q=AMAX) | [conti](profiles.md?id=conti) |
 | 2021-09-16 | [`Spiezle Architectural Group Inc.`](https://google.com/search?q=Spiezle+Architectural+Group+Inc.) | [revil](profiles.md?id=revil) |
@@ -4109,7 +4150,7 @@ _All `4739` posts_
 | 2021-09-09 | [`conferenceusa.com`](https://google.com/search?q=conferenceusa.com) | [payloadbin](profiles.md?id=payloadbin) |
 | 2021-09-09 | [`sklarwilton.com`](https://google.com/search?q=sklarwilton.com) | [payloadbin](profiles.md?id=payloadbin) |
 | 2021-09-09 | [`nsuship.co.jp`](https://google.com/search?q=nsuship.co.jp) | [payloadbin](profiles.md?id=payloadbin) |
-| 2021-09-09 | [`iRely LLC&#039;s Grand Failure`](https://google.com/search?q=iRely+LLC%26%23039%3Bs+Grand+Failure) | [payloadbin](profiles.md?id=payloadbin) |
+| 2021-09-09 | [`iRely LLC's Grand Failure`](https://google.com/search?q=iRely+LLC%27s+Grand+Failure) | [payloadbin](profiles.md?id=payloadbin) |
 | 2021-09-09 | [`CD Project data`](https://google.com/search?q=CD+Project+data) | [payloadbin](profiles.md?id=payloadbin) |
 | 2021-09-09 | [`Victrongroup.com`](https://google.com/search?q=Victrongroup.com) | [payloadbin](profiles.md?id=payloadbin) |
 | 2021-09-09 | [`Uptownbakers.com`](https://google.com/search?q=Uptownbakers.com) | [payloadbin](profiles.md?id=payloadbin) |
@@ -4121,7 +4162,7 @@ _All `4739` posts_
 | 2021-09-09 | [`Network Telecom / Enreach`](https://google.com/search?q=Network+Telecom+%2F+Enreach) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-09 | [`Pine Labs Pvt`](https://google.com/search?q=Pine+Labs+Pvt) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-09 | [`Kaydon Corporation (SKF Group Brand)`](https://google.com/search?q=Kaydon+Corporation+%28SKF+Group+Brand%29) | [blackmatter](profiles.md?id=blackmatter) |
-| 2021-09-09 | [`tastefulselections &amp; WFG`](https://google.com/search?q=tastefulselections+%26amp%3B+WFG) | [blackmatter](profiles.md?id=blackmatter) |
+| 2021-09-09 | [`tastefulselections & WFG`](https://google.com/search?q=tastefulselections+%26+WFG) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-09 | [`Middleton Reutlinger`](https://google.com/search?q=Middleton+Reutlinger) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-09 | [`g-able.com`](https://google.com/search?q=g-able.com) | [blackmatter](profiles.md?id=blackmatter) |
 | 2021-09-09 | [`Diamond Schmitt`](https://google.com/search?q=Diamond+Schmitt) | [blackmatter](profiles.md?id=blackmatter) |
@@ -4161,16 +4202,16 @@ _All `4739` posts_
 | 2021-09-09 | [`FAPS Inc`](https://google.com/search?q=FAPS+Inc) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Wasserstorm`](https://google.com/search?q=Wasserstorm) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Mersen Group`](https://google.com/search?q=Mersen+Group) | [azroteam](profiles.md?id=azroteam) |
-| 2021-09-09 | [`GEOTECH ENGINEERING &amp; TESTING`](https://google.com/search?q=GEOTECH+ENGINEERING+%26amp%3B+TESTING) | [azroteam](profiles.md?id=azroteam) |
+| 2021-09-09 | [`GEOTECH ENGINEERING & TESTING`](https://google.com/search?q=GEOTECH+ENGINEERING+%26+TESTING) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Laboratorios SMA S.A.C.`](https://google.com/search?q=Laboratorios+SMA+S.A.C.) | [azroteam](profiles.md?id=azroteam) |
-| 2021-09-09 | [`Rogers Engineering &amp; Manufacturing Co., Inc.`](https://google.com/search?q=Rogers+Engineering+%26amp%3B+Manufacturing+Co.%2C+Inc.) | [azroteam](profiles.md?id=azroteam) |
+| 2021-09-09 | [`Rogers Engineering & Manufacturing Co., Inc.`](https://google.com/search?q=Rogers+Engineering+%26+Manufacturing+Co.%2C+Inc.) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Curbell Inc.`](https://google.com/search?q=Curbell+Inc.) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`von Drehle Corporation`](https://google.com/search?q=von+Drehle+Corporation) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Eduro Healthcare, LLC`](https://google.com/search?q=Eduro+Healthcare%2C+LLC) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`HOYA Corporation`](https://google.com/search?q=HOYA+Corporation) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Southwest KIA`](https://google.com/search?q=Southwest+KIA) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`Pezutto Group`](https://google.com/search?q=Pezutto+Group) | [azroteam](profiles.md?id=azroteam) |
-| 2021-09-09 | [`CREST Hotel &amp; Suites`](https://google.com/search?q=CREST+Hotel+%26amp%3B+Suites) | [azroteam](profiles.md?id=azroteam) |
+| 2021-09-09 | [`CREST Hotel & Suites`](https://google.com/search?q=CREST+Hotel+%26+Suites) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`OUR NEW PARTNER - XING LOCKER! WELCOME TO NEW LEAKS WEBSITE! http://xingnewj6m4qytljhfwemn`](https://google.com/search?q=OUR+NEW+PARTNER+-+XING+LOCKER%21+WELCOME+TO+NEW+LEAKS+WEBSITE%21+http%3A%2F%2Fxingnewj6m4qytljhfwemn) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`InTown Suites`](https://google.com/search?q=InTown+Suites) | [azroteam](profiles.md?id=azroteam) |
 | 2021-09-09 | [`MT-LAW [Markman&Tomashin Law Firm]`](https://google.com/search?q=MT-LAW+%5BMarkman%26Tomashin+Law+Firm%5D) | [pay2key](profiles.md?id=pay2key) |
@@ -4195,13 +4236,13 @@ _All `4739` posts_
 | 2021-09-09 | [`Ajuntament de Castelló`](https://google.com/search?q=Ajuntament+de+Castell%C3%B3) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Nobiskrug`](https://google.com/search?q=Nobiskrug) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Samvardhana Motherson Peguform`](https://google.com/search?q=Samvardhana+Motherson+Peguform) | [ransomexx](profiles.md?id=ransomexx) |
-| 2021-09-09 | [`Wallace &amp; Carey`](https://google.com/search?q=Wallace+%26amp%3B+Carey) | [ransomexx](profiles.md?id=ransomexx) |
+| 2021-09-09 | [`Wallace & Carey`](https://google.com/search?q=Wallace+%26+Carey) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`STEMCOR`](https://google.com/search?q=STEMCOR) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Universal Assistance S.A.`](https://google.com/search?q=Universal+Assistance+S.A.) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`WT Microelectronics`](https://google.com/search?q=WT+Microelectronics) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Walsin`](https://google.com/search?q=Walsin) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Corporación Nacional de Telecomunicación`](https://google.com/search?q=Corporaci%C3%B3n+Nacional+de+Telecomunicaci%C3%B3n) | [ransomexx](profiles.md?id=ransomexx) |
-| 2021-09-09 | [`Liberty Group &amp; ForHousing`](https://google.com/search?q=Liberty+Group+%26amp%3B+ForHousing) | [ransomexx](profiles.md?id=ransomexx) |
+| 2021-09-09 | [`Liberty Group & ForHousing`](https://google.com/search?q=Liberty+Group+%26+ForHousing) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Ermenegildo Zegna Holding`](https://google.com/search?q=Ermenegildo+Zegna+Holding) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`Gigabyte Technology`](https://google.com/search?q=Gigabyte+Technology) | [ransomexx](profiles.md?id=ransomexx) |
 | 2021-09-09 | [`American Megatrends International`](https://google.com/search?q=American+Megatrends+International) | [ransomexx](profiles.md?id=ransomexx) |
@@ -4228,7 +4269,7 @@ _All `4739` posts_
 | 2021-09-09 | [`Homeland Title`](https://google.com/search?q=Homeland+Title) | [mountlocker](profiles.md?id=mountlocker) |
 | 2021-09-09 | [`FAPS Inc.`](https://google.com/search?q=FAPS+Inc.) | [mountlocker](profiles.md?id=mountlocker) |
 | 2021-09-09 | [`Nachi America Inc.`](https://google.com/search?q=Nachi+America+Inc.) | [mountlocker](profiles.md?id=mountlocker) |
-| 2021-09-09 | [`Atlanta Allergy &#038; Asthma. Part 1.`](https://google.com/search?q=Atlanta+Allergy+%26%23038%3B+Asthma.+Part+1.) | [nefilim](profiles.md?id=nefilim) |
+| 2021-09-09 | [`Atlanta Allergy & Asthma. Part 1.`](https://google.com/search?q=Atlanta+Allergy+%26+Asthma.+Part+1.) | [nefilim](profiles.md?id=nefilim) |
 | 2021-09-09 | [`Grimmway Farms. Part 1.`](https://google.com/search?q=Grimmway+Farms.+Part+1.) | [nefilim](profiles.md?id=nefilim) |
 | 2021-09-09 | [`Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.`](https://google.com/search?q=Elliott+Group+%2F+Cascade+Engineering+%2F+Unitex+Textile+Rental+Services.+Teaser.) | [nefilim](profiles.md?id=nefilim) |
 | 2021-09-09 | [`Seven Seas. Part 1.`](https://google.com/search?q=Seven+Seas.+Part+1.) | [nefilim](profiles.md?id=nefilim) |
@@ -4464,17 +4505,17 @@ _All `4739` posts_
 | 2021-09-09 | [`XEFI / Part 2`](https://google.com/search?q=XEFI+%2F+Part+2) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`Сompilation of lawyers France`](https://google.com/search?q=%D0%A1ompilation+of+lawyers+France) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`AIC STEEL`](https://google.com/search?q=AIC+STEEL) | [everest](profiles.md?id=everest) |
-| 2021-09-09 | [`Weir &amp; Partners LLP / Part 2`](https://google.com/search?q=Weir+%26amp%3B+Partners+LLP+%2F+Part+2) | [everest](profiles.md?id=everest) |
+| 2021-09-09 | [`Weir & Partners LLP / Part 2`](https://google.com/search?q=Weir+%26+Partners+LLP+%2F+Part+2) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`InfraBuild`](https://google.com/search?q=InfraBuild) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`Tampa Tank INC`](https://google.com/search?q=Tampa+Tank+INC) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`Alispharm`](https://google.com/search?q=Alispharm) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`Orha Muvek`](https://google.com/search?q=Orha+Muvek) | [everest](profiles.md?id=everest) |
 | 2021-09-09 | [`Apex America`](https://google.com/search?q=Apex+America) | [revil](profiles.md?id=revil) |
-| 2021-09-09 | [`Allen, Dyer, Doppelt, &amp; Gilchrist, P.A.`](https://google.com/search?q=Allen%2C+Dyer%2C+Doppelt%2C+%26amp%3B+Gilchrist%2C+P.A.) | [revil](profiles.md?id=revil) |
+| 2021-09-09 | [`Allen, Dyer, Doppelt, & Gilchrist, P.A.`](https://google.com/search?q=Allen%2C+Dyer%2C+Doppelt%2C+%26+Gilchrist%2C+P.A.) | [revil](profiles.md?id=revil) |
 | 2021-09-09 | [`Betenbough Homes`](https://google.com/search?q=Betenbough+Homes) | [revil](profiles.md?id=revil) |
 | 2021-09-09 | [`CEC Vibration Products`](https://google.com/search?q=CEC+Vibration+Products) | [revil](profiles.md?id=revil) |
 | 2021-09-09 | [`ENPOL LLC`](https://google.com/search?q=ENPOL+LLC) | [revil](profiles.md?id=revil) |
-| 2021-09-09 | [`Iaffaldano, Shaw &amp; Young LLP`](https://google.com/search?q=Iaffaldano%2C+Shaw+%26amp%3B+Young+LLP) | [revil](profiles.md?id=revil) |
+| 2021-09-09 | [`Iaffaldano, Shaw & Young LLP`](https://google.com/search?q=Iaffaldano%2C+Shaw+%26+Young+LLP) | [revil](profiles.md?id=revil) |
 | 2021-09-09 | [`angstrom automotive group`](https://google.com/search?q=angstrom+automotive+group) | [revil](profiles.md?id=revil) |
 | 2021-09-09 | [`Agile Property Holdings`](https://google.com/search?q=Agile+Property+Holdings) | [revil](profiles.md?id=revil) |
 | 2021-09-09 | [`Möbelstadt Sommerlad`](https://google.com/search?q=M%C3%B6belstadt+Sommerlad) | [revil](profiles.md?id=revil) |
@@ -4505,7 +4546,7 @@ _All `4739` posts_
 | 2021-09-09 | [`NetVigour Inc`](https://google.com/search?q=NetVigour+Inc) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Intensive Care On-Line Network , Inc`](https://google.com/search?q=Intensive+Care+On-Line+Network+%2C+Inc) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Payzant Building Products Ltd`](https://google.com/search?q=Payzant+Building+Products+Ltd) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`International Longshore &amp; Warehouse Union`](https://google.com/search?q=International+Longshore+%26amp%3B+Warehouse+Union) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`International Longshore & Warehouse Union`](https://google.com/search?q=International+Longshore+%26+Warehouse+Union) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Marolles-en-Brie`](https://google.com/search?q=Marolles-en-Brie) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Finalyse`](https://google.com/search?q=Finalyse) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`BIOREP TECHNOLOGIES, INC.`](https://google.com/search?q=BIOREP+TECHNOLOGIES%2C+INC.) | [avaddon](profiles.md?id=avaddon) |
@@ -4537,12 +4578,12 @@ _All `4739` posts_
 | 2021-09-09 | [`Doré Law Group P.C`](https://google.com/search?q=Dor%C3%A9+Law+Group+P.C) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Omni Manufacturing, Inc.`](https://google.com/search?q=Omni+Manufacturing%2C+Inc.) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`FUTURIMPLANTS`](https://google.com/search?q=FUTURIMPLANTS) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`ANLEC R&amp;D`](https://google.com/search?q=ANLEC+R%26amp%3BD) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`ANLEC R&D`](https://google.com/search?q=ANLEC+R%26D) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`La compagnie du SAV`](https://google.com/search?q=La+compagnie+du+SAV) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`SISCONT`](https://google.com/search?q=SISCONT) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`AlohaABA`](https://google.com/search?q=AlohaABA) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Zhuhai Languan Electronic Technology Co., Ltd`](https://google.com/search?q=Zhuhai+Languan+Electronic+Technology+Co.%2C+Ltd) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`Schneider &amp; Branch`](https://google.com/search?q=Schneider+%26amp%3B+Branch) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`Schneider & Branch`](https://google.com/search?q=Schneider+%26+Branch) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Mikro Trading`](https://google.com/search?q=Mikro+Trading) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Basque Center for Applied Mathematics-BCAM`](https://google.com/search?q=Basque+Center+for+Applied+Mathematics-BCAM) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Targetcom`](https://google.com/search?q=Targetcom) | [avaddon](profiles.md?id=avaddon) |
@@ -4570,7 +4611,7 @@ _All `4739` posts_
 | 2021-09-09 | [`Dicon Fiberoptics Inc`](https://google.com/search?q=Dicon+Fiberoptics+Inc) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`BIANCHI VENDING`](https://google.com/search?q=BIANCHI+VENDING) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Exedy Corporation`](https://google.com/search?q=Exedy+Corporation) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`Active Business &amp; Technology`](https://google.com/search?q=Active+Business+%26amp%3B+Technology) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`Active Business & Technology`](https://google.com/search?q=Active+Business+%26+Technology) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`MSPharma`](https://google.com/search?q=MSPharma) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Hames Homes LLC`](https://google.com/search?q=Hames+Homes+LLC) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Greatwide Truckload`](https://google.com/search?q=Greatwide+Truckload) | [avaddon](profiles.md?id=avaddon) |
@@ -4583,7 +4624,7 @@ _All `4739` posts_
 | 2021-09-09 | [`OLOMOUC`](https://google.com/search?q=OLOMOUC) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`MUNICIPIO DE QUATRO BARRAS`](https://google.com/search?q=MUNICIPIO+DE+QUATRO+BARRAS) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Newcomb Secondary College`](https://google.com/search?q=Newcomb+Secondary+College) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`COMUNE DI VILLAFRANCA D&#039;ASTI`](https://google.com/search?q=COMUNE+DI+VILLAFRANCA+D%26%23039%3BASTI) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`COMUNE DI VILLAFRANCA D'ASTI`](https://google.com/search?q=COMUNE+DI+VILLAFRANCA+D%27ASTI) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`CNE`](https://google.com/search?q=CNE) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Farrells`](https://google.com/search?q=Farrells) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`SC TECHNOSEAL SERVICES SRL`](https://google.com/search?q=SC+TECHNOSEAL+SERVICES+SRL) | [avaddon](profiles.md?id=avaddon) |
@@ -4593,19 +4634,19 @@ _All `4739` posts_
 | 2021-09-09 | [`LG Vina Chemical`](https://google.com/search?q=LG+Vina+Chemical) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Schepisi Communications`](https://google.com/search?q=Schepisi+Communications) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`EUROMAIS - PEÇAS E PNEUS, LDA`](https://google.com/search?q=EUROMAIS+-+PE%C3%87AS+E+PNEUS%2C+LDA) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`SPINE &amp; DISC`](https://google.com/search?q=SPINE+%26amp%3B+DISC) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`SPINE & DISC`](https://google.com/search?q=SPINE+%26+DISC) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Cocal`](https://google.com/search?q=Cocal) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Glasbau Wiedemann GmbH`](https://google.com/search?q=Glasbau+Wiedemann+GmbH) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Cinov Federation`](https://google.com/search?q=Cinov+Federation) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`TAIWAN SURFACE MOUNTING TECHNOLOGY CORP.`](https://google.com/search?q=TAIWAN+SURFACE+MOUNTING+TECHNOLOGY+CORP.) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Coindu`](https://google.com/search?q=Coindu) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`ULTRACEUTICALS PTY LIMITED`](https://google.com/search?q=ULTRACEUTICALS+PTY+LIMITED) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS &amp; CO S.A.`](https://google.com/search?q=DOCTUM+PHARMACEUTICAL+%CE%9A.+T.+YIOKARIS+%26amp%3B+CO+S.A.) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS & CO S.A.`](https://google.com/search?q=DOCTUM+PHARMACEUTICAL+%CE%9A.+T.+YIOKARIS+%26+CO+S.A.) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`MEGAPOLIS HOLDINGS (OVERSEAS) LIMITED`](https://google.com/search?q=MEGAPOLIS+HOLDINGS+%28OVERSEAS%29+LIMITED) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`NIJMAN / ZEETANK International Transport Sp. z o. o.`](https://google.com/search?q=NIJMAN+%2F+ZEETANK+International+Transport+Sp.+z+o.+o.) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`ACER FINANCE`](https://google.com/search?q=ACER+FINANCE) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`PT Angkasa Pura I`](https://google.com/search?q=PT+Angkasa+Pura+I) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`Henry Oil &amp; Gas`](https://google.com/search?q=Henry+Oil+%26amp%3B+Gas) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`Henry Oil & Gas`](https://google.com/search?q=Henry+Oil+%26+Gas) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`SL Corporation`](https://google.com/search?q=SL+Corporation) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Letton Percival`](https://google.com/search?q=Letton+Percival) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Vistex`](https://google.com/search?q=Vistex) | [avaddon](profiles.md?id=avaddon) |
@@ -4613,7 +4654,7 @@ _All `4739` posts_
 | 2021-09-09 | [`AXA Group`](https://google.com/search?q=AXA+Group) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`RINGSPANN GmbH`](https://google.com/search?q=RINGSPANN+GmbH) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Solvere LLC`](https://google.com/search?q=Solvere+LLC) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`PKMK law&amp;finance s.r.o`](https://google.com/search?q=PKMK+law%26amp%3Bfinance+s.r.o) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`PKMK law&finance s.r.o`](https://google.com/search?q=PKMK+law%26finance+s.r.o) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`360 InStore`](https://google.com/search?q=360+InStore) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Maryan beachwear group GmbH`](https://google.com/search?q=Maryan+beachwear+group+GmbH) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`JetSJ`](https://google.com/search?q=JetSJ) | [avaddon](profiles.md?id=avaddon) |
@@ -4623,8 +4664,8 @@ _All `4739` posts_
 | 2021-09-09 | [`FEBANCOLOMBIA`](https://google.com/search?q=FEBANCOLOMBIA) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Ballas Capital Limited`](https://google.com/search?q=Ballas+Capital+Limited) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Servilex Advocaten`](https://google.com/search?q=Servilex+Advocaten) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`Johann Kupp GmbH &amp; Co. KG`](https://google.com/search?q=Johann+Kupp+GmbH+%26amp%3B+Co.+KG) | [avaddon](profiles.md?id=avaddon) |
-| 2021-09-09 | [`Carlos Federspiel &amp; Co SA`](https://google.com/search?q=Carlos+Federspiel+%26amp%3B+Co+SA) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`Johann Kupp GmbH & Co. KG`](https://google.com/search?q=Johann+Kupp+GmbH+%26+Co.+KG) | [avaddon](profiles.md?id=avaddon) |
+| 2021-09-09 | [`Carlos Federspiel & Co SA`](https://google.com/search?q=Carlos+Federspiel+%26+Co+SA) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Buckeye International Inc`](https://google.com/search?q=Buckeye+International+Inc) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`LE VOLCAN`](https://google.com/search?q=LE+VOLCAN) | [avaddon](profiles.md?id=avaddon) |
 | 2021-09-09 | [`Syndex`](https://google.com/search?q=Syndex) | [avaddon](profiles.md?id=avaddon) |
@@ -4661,7 +4702,7 @@ _All `4739` posts_
 | 2021-09-09 | [`Maple Lodge Farms`](https://google.com/search?q=Maple+Lodge+Farms) | [quantum](profiles.md?id=quantum) |
 | 2021-09-09 | [`SVA Jean Rozé - sva-jeanroze.fr`](https://google.com/search?q=SVA+Jean+Roz%C3%A9+-+sva-jeanroze.fr) | [alphv](profiles.md?id=alphv) |
 | 2021-09-04 | [`Pacific City Bank`](https://google.com/search?q=Pacific+City+Bank) | [avoslocker](profiles.md?id=avoslocker) |
-| 2021-09-01 | [`Moorfields NHS UK &amp; Dubai`](https://google.com/search?q=Moorfields+NHS+UK+%26amp%3B+Dubai) | [avoslocker](profiles.md?id=avoslocker) |
+| 2021-09-01 | [`Moorfields NHS UK & Dubai`](https://google.com/search?q=Moorfields+NHS+UK+%26+Dubai) | [avoslocker](profiles.md?id=avoslocker) |
 | 2021-09-01 | [`Potter Concrete`](https://google.com/search?q=Potter+Concrete) | [avoslocker](profiles.md?id=avoslocker) |
 | 2021-08-29 | [`Master Chemical`](https://google.com/search?q=Master+Chemical) | [avoslocker](profiles.md?id=avoslocker) |
 | 2021-08-28 | [`Artas Holding / Artas Insaat`](https://google.com/search?q=Artas+Holding+%2F+Artas+Insaat) | [avoslocker](profiles.md?id=avoslocker) |
@@ -4684,7 +4725,7 @@ _All `4739` posts_
 | 2021-06-13 | [`Arabian Cargo Group`](https://google.com/search?q=Arabian+Cargo+Group) | [avoslocker](profiles.md?id=avoslocker) |
 | 2021-06-06 | [`Software company Xoriant`](https://google.com/search?q=Software+company+Xoriant) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2021-06-05 | [`New Leak GatewayPM`](https://google.com/search?q=New+Leak+GatewayPM) | [ragnarlocker](profiles.md?id=ragnarlocker) |
-| 2021-06-03 | [`Greenwood Fabricating &amp; Plating`](https://google.com/search?q=Greenwood+Fabricating+%26amp%3B+Plating) | [xinglocker](profiles.md?id=xinglocker) |
+| 2021-06-03 | [`Greenwood Fabricating & Plating`](https://google.com/search?q=Greenwood+Fabricating+%26+Plating) | [xinglocker](profiles.md?id=xinglocker) |
 | 2021-06-02 | [`Positive Promotions, Inc.`](https://google.com/search?q=Positive+Promotions%2C+Inc.) | [xinglocker](profiles.md?id=xinglocker) |
 | 2021-06-02 | [`AQUALUNG`](https://google.com/search?q=AQUALUNG) | [xinglocker](profiles.md?id=xinglocker) |
 | 2021-06-01 | [`Langs Building Supplies Pty Ltd`](https://google.com/search?q=Langs+Building+Supplies+Pty+Ltd) | [lorenz](profiles.md?id=lorenz) |
@@ -4750,4 +4791,4 @@ _All `4739` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 26/12/2022 13.03 (UTC)_
+Last update : _Monday 26/12/2022 16.24 (UTC)_

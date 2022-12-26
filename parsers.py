@@ -5,7 +5,7 @@ parses the source html for each group where a parser exists & contributed to the
 always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 '''
 import os
-import json,re
+import json,re, html
 from sys import platform
 from datetime import datetime
 from bs4 import BeautifulSoup # type: ignore
@@ -43,7 +43,7 @@ def posttemplate(victim, group_name, timestamp,description,website):
     dbglog(schema)
     return schema
 
-def screenshot(webpage,fqdn):
+def screenshot(webpage,fqdn,delay=1500):
     stdlog('webshot: {}'.format(webpage))
     with sync_playwright() as play:
         try:
@@ -53,7 +53,6 @@ def screenshot(webpage,fqdn):
             page = context.new_page()
             page.goto(webpage, wait_until='load', timeout = 120000)
             page.bring_to_front()
-            delay=15000
             page.wait_for_timeout(delay)
             page.mouse.move(x=500, y=400)
             page.wait_for_load_state('networkidle')
@@ -97,6 +96,7 @@ def appender(post_title, group_name, description="", website=""):
     # limit length of post_title to 90 chars
     if len(post_title) > 90:
         post_title = post_title[:90]
+    post_title=html.unescape(post_title)
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
         newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website)
@@ -137,7 +137,9 @@ def appender(post_title, group_name, description="", website=""):
         for group in groups:
             if group["name"] == group_name:
                 for webpage in group['locations']:
-                    screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
+                    delay = webpage['delay']*1000 if ( 'delay' in webpage and webpage['delay'] is not None ) \
+                        else 15000
+                    screenshot('http://'+webpage['fqdn'],webpage['fqdn'],delay)
 
 
 '''
@@ -1179,3 +1181,21 @@ def ransomhouse():
         except:
             errlog('ransomhouse: ' + 'parsing fail')
 #            pass    
+
+def avoslocker():
+    stdlog('parser: ' + 'avoslocker')
+    for filename in os.listdir('source'):
+        try:
+           if filename.startswith('avoslocker-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {"class": "card"})
+                for div in divs_name:
+                    title = div.find('h5', {"class": "card-brand"}).text.strip()
+                    description = div.find('div', {"class": "card-desc"}).text.strip()
+                    appender(title, 'avoslocker',description.replace('\n',' '))
+                file.close()
+        except:
+            errlog('avoslocker: ' + 'parsing fail')
+            pass
