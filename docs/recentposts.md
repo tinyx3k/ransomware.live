@@ -203,4 +203,4 @@
 | 2022-12-21 | [`The Chedi Muscat`](https://google.com/search?q=The+Chedi+Muscat) | [unsafe](profiles.md?id=unsafe) |
 | 2022-12-21 | [`Barakat Travel Co`](https://google.com/search?q=Barakat+Travel+Co) | [unsafe](profiles.md?id=unsafe) |
 
-Last update : _Monday 26/12/2022 17.09 (UTC)_
+Last update : _Monday 26/12/2022 18.59 (UTC)_
