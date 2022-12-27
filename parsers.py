@@ -5,7 +5,7 @@ parses the source html for each group where a parser exists & contributed to the
 always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 '''
 import os
-import json,re, html
+import json,re, html, time
 from sys import platform
 from datetime import datetime
 from bs4 import BeautifulSoup # type: ignore
@@ -45,32 +45,35 @@ def posttemplate(victim, group_name, timestamp,description,website):
 
 def screenshot(webpage,fqdn,delay=1500):
     stdlog('webshot: {}'.format(webpage))
-    with sync_playwright() as play:
-        try:
-            browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
-                args=[''])
-            context = browser.new_context(ignore_https_errors= True )
-            page = context.new_page()
-            page.goto(webpage, wait_until='load', timeout = 120000)
-            page.bring_to_front()
-            page.wait_for_timeout(delay)
-            page.mouse.move(x=500, y=400)
-            page.wait_for_load_state('networkidle')
-            page.mouse.wheel(delta_y=2000, delta_x=0)
-            page.wait_for_load_state('networkidle')
-            page.wait_for_timeout(5000)
-            name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
-            page.screenshot(path=name, full_page=True)
-            image = Image.open(name)
-            draw = ImageDraw.Draw(image)
-            draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
-            image.save(name)
-        except PlaywrightTimeoutError:
-            stdlog('Timeout!')
-        except Exception as exception:
-            errlog(exception)
-            errlog("error")
-        browser.close()
+    name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
+    if os.path.getmtime(name) < (time.time() - 2700):
+        with sync_playwright() as play:
+            try:
+                browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
+                    args=[''])
+                context = browser.new_context(ignore_https_errors= True )
+                page = context.new_page()
+                page.goto(webpage, wait_until='load', timeout = 120000)
+                page.bring_to_front()
+                page.wait_for_timeout(delay)
+                page.mouse.move(x=500, y=400)
+                page.wait_for_load_state('networkidle')
+                page.mouse.wheel(delta_y=2000, delta_x=0)
+                page.wait_for_load_state('networkidle')
+                page.wait_for_timeout(5000)
+                page.screenshot(path=name, full_page=True)
+                image = Image.open(name)
+                draw = ImageDraw.Draw(image)
+                draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
+                image.save(name)
+            except PlaywrightTimeoutError:
+                stdlog('Timeout!')
+            except Exception as exception:
+                errlog(exception)
+                errlog("error")
+            browser.close()
+    else: 
+        stdlog('webshot already done : {}'.format(webpage))
 
 
 def existingpost(post_title, group_name):
@@ -335,18 +338,18 @@ def ransomexx():
     for post in posts:
         appender(post, 'ransomexx')
 
-def cuba():
-    stdlog('parser: ' + 'cuba')
-    # grep '<p>' source/cuba-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
-    # grep '<a href="http://' source/cuba-cuba4i* | cut -d '/' -f 4 | sort -u
-    parser = '''
-    grep --no-filename '<a href="/company/' source/cuba-*.html | cut -d '/' -f 3 | cut -d '"' -f 1 | sort --uniq | grep -v company
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('cuba: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'cuba')
+#def cuba():
+#    stdlog('parser: ' + 'cuba')
+#    # grep '<p>' source/cuba-*.html --no-filename | cut -d '>' -f3 | cut -d '<' -f1
+#    # grep '<a href="http://' source/cuba-cuba4i* | cut -d '/' -f 4 | sort -u
+#    parser = '''
+#    grep --no-filename '<a href="/company/' source/cuba-*.html | cut -d '/' -f 3 | cut -d '"' -f 1 | sort --uniq | grep -v company
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('cuba: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'cuba')
 
 def pay2key():
     stdlog('parser: ' + 'pay2key')
@@ -1143,20 +1146,23 @@ def alphv():
            if filename.startswith('alphv-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
-                try:
-                    data = json.load(file)
-                    for entry in data['items']:
-                        title = entry['title'].strip()
-                        description = entry['publication']['description'].strip()
-                        website = entry['publication']['url'].strip()
-                        description = re.sub(r"anonfiles.com/.*/", "anonfiles.com/*****/", description)
-                        appender(title, 'alphv',description.replace('\n',' '),website)
-                except:
-                    soup=BeautifulSoup(file,'html.parser')
+                soup=BeautifulSoup(file,'html.parser')
+                if 'alphvmmm' in filename:
+                    try:
+                        jsonpart= soup.pre.contents
+                        data = json.loads(jsonpart[0])
+                        for entry in data['items']:
+                            title = entry['title'].strip()
+                            description = entry['publication']['description'].strip()
+                            website = entry['publication']['url'].strip()
+                            description = re.sub(r"anonfiles.com/.*/", "anonfiles.com/*****/", description)
+                            appender(title, 'alphv',description.replace('\n',' '),website)
+                    except:
+                        errlog('nokoyawa: ' + 'parsing fail')
+                else: 
                     divs_name=soup.find_all('div', {'class': 'post-body'})
                     for div in divs_name:
                         title = div.find('div', {'class': 'post-header'}).text.strip()
-                        print(title)
                         description = div.find('div', {'class': 'post-description'}).text.strip()
                         appender(title, 'alphv',description.replace('\n',' '))
                 file.close()
@@ -1215,4 +1221,22 @@ def avoslocker():
                 file.close()
         except:
             errlog('avoslocker: ' + 'parsing fail')
+            pass
+
+def cuba():
+    stdlog('parser: ' + 'cuba')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('cuba-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {'class':'list-text'})
+                for div in divs_name:
+                    title = div.a['href'].split('/')[4]
+                    description = div.a.text.strip()
+                    appender(title, 'cuba', description)
+                file.close()
+        except:
+            errlog('cuba: ' + 'parsing fail')
             pass

@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4783` posts_
+_All `4788` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,11 @@ _All `4783` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`Meyer & Meyer Holding SE & Co. KG`](https://google.com/search?q=Meyer+%26+Meyer+Holding+SE+%26+Co.+KG) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`SSI Schäfer Shop`](https://google.com/search?q=SSI+Sch%C3%A4fer+Shop) | [alphv](profiles.md?id=alphv) |
 | 2022-12-27 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | [play](profiles.md?id=play) |
 | 2022-12-27 | [`Robinson Pharma`](https://google.com/search?q=Robinson+Pharma) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Fantasy Springs Resort Casino`](https://google.com/search?q=Fantasy+Springs+Resort+Casino) | [royal](profiles.md?id=royal) |
@@ -4794,4 +4799,4 @@ _All `4783` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 27/12/2022 09.19 (UTC)_
+Last update : _Tuesday 27/12/2022 12.02 (UTC)_

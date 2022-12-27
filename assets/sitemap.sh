@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # url configuration
-URL="https://www.ransomware.live/#/profiles?id="
+URL="https://www.ransomware.live/#/"
 
 # values: always hourly daily weekly monthly yearly never
 FREQ="weekly"
@@ -63,11 +63,19 @@ echo "<url>"
 for GROUP in $(jq '.[].name' groups.json | tr -d \")
 do 
   echo "<url>"
-  echo " <loc>${URL}${GROUP}</loc>"
+  echo " <loc>${URL}profiles?id=${GROUP}</loc>"
   echo " <lastmod>$DATE</lastmod>"
   echo " <changefreq>$FREQ</changefreq>"
   echo "</url>"
 done
 
+for TOOLS in $(grep '## ' docs/decryption.md | cut -d ' ' -f2- | sed 's/ /-/g'  | tr '[:upper:]' '[:lower:]')
+do
+  echo "<url>"
+  echo " <loc>${URL}decryption?id=${TOOLS}</loc>"
+  echo " <lastmod>$DATE</lastmod>"
+  echo " <changefreq>$FREQ</changefreq>"
+  echo "</url>"
+done
 # print foot
 echo "</urlset>"

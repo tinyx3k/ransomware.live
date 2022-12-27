@@ -2,6 +2,11 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`Meyer & Meyer Holding SE & Co. KG`](https://google.com/search?q=Meyer+%26+Meyer+Holding+SE+%26+Co.+KG) | [alphv](profiles.md?id=alphv) |
+| 2022-12-27 | [`SSI Schäfer Shop`](https://google.com/search?q=SSI+Sch%C3%A4fer+Shop) | [alphv](profiles.md?id=alphv) |
 | 2022-12-27 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | [play](profiles.md?id=play) |
 | 2022-12-27 | [`Robinson Pharma`](https://google.com/search?q=Robinson+Pharma) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Fantasy Springs Resort Casino`](https://google.com/search?q=Fantasy+Springs+Resort+Casino) | [royal](profiles.md?id=royal) |
@@ -197,10 +202,5 @@
 | 2022-12-21 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`S****** Electronics"`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+Electronics%22) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`ATLAS`](https://google.com/search?q=ATLAS) | [royal](profiles.md?id=royal) |
-| 2022-12-21 | [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | [karakurt](profiles.md?id=karakurt) |
-| 2022-12-21 | [`G.R. Sponaugle`](https://google.com/search?q=G.R.+Sponaugle) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-21 | [`Horwitz Horwitz & Associates`](https://google.com/search?q=Horwitz+Horwitz+%26+Associates) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-21 | [`Wings Etc`](https://google.com/search?q=Wings+Etc) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-21 | [`Dooly County School System`](https://google.com/search?q=Dooly+County+School+System) | [unsafe](profiles.md?id=unsafe) |
 
-Last update : _Tuesday 27/12/2022 09.19 (UTC)_
+Last update : _Tuesday 27/12/2022 12.02 (UTC)_

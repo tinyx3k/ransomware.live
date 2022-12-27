@@ -180,14 +180,19 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
-> 236 posts found
+> 241 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Empresas Públicas de Medellín`](https://www.epm.com.co) | 27/12/2022 | The bylaws in force for EPM E.S.P. are contained in Decision 12 of 1998, as amended by Decision 32 of 2006. It operates in the water (and sewerage), electricity and gas sectors. It is legally empowered to also act in the telecommunications and garbage collection sectors. |
+| [`FARMS.COM`](https://www.farms.com/) | 27/12/2022 | Farming has always been about managing information and effectively using technology for success. At Farms.com, we’re excited by the power and potential of new technology; we recognize that it is a significant enabler in the evolution of farming and agribusiness. Our goal is to strive to use technology to enable our customers to manage information to their advantage. We are continuously researching, developing and introducing technology innovations to enhance farming management efficiency and effectiveness. |
+| [`CR&R`](https://crrwasteservices.com) | 27/12/2022 | CR&R Incorporated will not share any personal financial information you provide (such as credit card information) with other companies. From time to time, this website may provide links to other websites. You should carefully review the privacy policies on those sites, they may differ from the CR&R Incorporated Privacy Policy. |
+| [`Meyer & Meyer Holding SE & Co. KG`](https://www.meyermeyer.com) | 27/12/2022 | Founded in Germany, but at home across the globe: Meyer & Meyer is a partner with international expertise and a broad network extending to the most critical hubs of the fashion industry in the world. With our own locations in Bulgaria, Morocco, Macedonia, Poland, Romania and Tunisia, we operate close to production in Europe and North Africa. |
+| [`SSI Schäfer Shop`](https://www.ssi-schaefer.com/en-us) | 27/12/2022 | Since 1937, SSI SCHAEFER has been leading the way in storage and shelving solutions. Today, SSI SCHAEFER offers a complete line of automated material handling applications—including ASRS systems and warehouse management software. With automated storage and retrieval systems |
 | [`STRESSER ASSOCIATES CPA`](https://www.stressercpa.com/home) | 26/12/2022 | Want some tax returns from Georgia residents?  Want some passports or driver licenses?  Come grab them, its free!  We created a clearnet site with the stolen data.   http://streserecpa.com/  https://anonfiles.com/*****/clientsdata1_zip |
 | [`Bregman Berbert Schwartz & Gilday`](https://www.bregmanlaw.com/) | 22/12/2022 | For more than four decades, our firm has been devoted to serving the interests of our clients. At BBS&G, practicing law is about finding innovative ways to protect our clients’ interests. We take pride in our results. Our passion lies in fostering long-term relationships with our clients that allow us to take heavy burdens off of their shoulders in an efficient, cost-effective manner. |
 | [`Protecmedia`](https://www.protecmedia.com/solutions/en) | 22/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
@@ -1003,7 +1008,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -2444,7 +2449,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -2502,7 +2507,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -8142,4 +8147,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 27/12/2022 09.19 (UTC)_
+Last update : _Tuesday 27/12/2022 12.02 (UTC)_
