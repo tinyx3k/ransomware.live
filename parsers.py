@@ -892,21 +892,22 @@ def projectrelic():
 def royal():
     stdlog('parser: ' + 'royal')
     for filename in os.listdir('source'):
-        try:
-            if filename.startswith('royal-'):
+        #try:
+            if filename.startswith('royal-royal4'):
                 html_doc='source/'+filename
                 file=open(html_doc, 'r')
-                data = json.load(file)
-                for element in data['data']:
-                    title = element['title']
-                    website = element['url']
-                    description = re.sub(r'<[^>]*>', '',element['text'])
-                    # stdlog(title)
+                soup=BeautifulSoup(file,'html.parser')
+                jsonpart = soup.pre.contents
+                data = json.loads(jsonpart[0])
+                for entry in data['data']:
+                    title = html.unescape(entry['title'])
+                    website = str(entry['url'])
+                    description = html.unescape((re.sub(r'<[^>]*>', '',entry['text'])))
                     appender(title, 'royal', description,website)
                 file.close()
-        except:
-            errlog('royal: ' + 'parsing fail')
-            pass    
+        #except:
+        #    errlog('royal: ' + 'parsing fail')
+        #    pass    
 
 def lockbit3():
     stdlog('parser: ' + 'lockbit3')
