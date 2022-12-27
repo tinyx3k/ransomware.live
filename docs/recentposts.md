@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-27 | [`INTRADO`](https://google.com/search?q=INTRADO) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Inforlandia`](https://google.com/search?q=Inforlandia) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
@@ -201,6 +202,5 @@
 | 2022-12-22 | [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | [play](profiles.md?id=play) |
 | 2022-12-22 | [`F???????, ???, D????????, T???????, S?????????????`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%2C+D%3F%3F%3F%3F%3F%3F%3F%3F%2C+T%3F%3F%3F%3F%3F%3F%3F%2C+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-12-22 | [`Berlina Tbk`](https://google.com/search?q=Berlina+Tbk) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-21 | [`Alvaria`](https://google.com/search?q=Alvaria) | [hive](profiles.md?id=hive) |
 
-Last update : _Tuesday 27/12/2022 16.58 (UTC)_
+Last update : _Tuesday 27/12/2022 19.01 (UTC)_

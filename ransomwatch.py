@@ -14,11 +14,6 @@ from datetime import datetime
 # local imports
 
 import parsers
-# import geckodrive
-#########################################################
-# ref https://github.com/joshhighet/ransomwatch/issues/22
-# import chromium as geckodrive
-#########################################################
 from markdown import main as markdown
 
 from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
@@ -27,10 +22,9 @@ from sharedutils import striptld
 from sharedutils import openjson
 from sharedutils import checktcp
 from sharedutils import siteschema
-from sharedutils import socksfetcher
+# from sharedutils import socksfetcher
 from sharedutils import getsitetitle
 from sharedutils import getonionversion
-from sharedutils import checkgeckodriver
 from sharedutils import postsjson2cvs
 from sharedutils import sockshost, socksport
 from sharedutils import stdlog, dbglog, errlog, honk
@@ -119,10 +113,7 @@ def checkexisting(provider):
             return True
     return False
 
-###
-# For a futur use
-###
-def scrapernew(force=''):
+def scraper(force=''):
     '''main scraping function'''
     groups = openjson("groups.json")
     # iterate each provider
@@ -158,7 +149,7 @@ def scrapernew(force=''):
                             delay = host['delay']*1000 if ( 'delay' in host and host['delay'] is not None ) \
                                 else 15000
                             if delay != 15000:
-                                stdlog('New delay : '+ str(delay))
+                                stdlog('New delay : '+ str(delay) + 'ms')
                             page.wait_for_timeout(delay)
                             page.mouse.move(x=500, y=400)
                             page.wait_for_load_state('networkidle')
@@ -188,56 +179,6 @@ def scrapernew(force=''):
             stdlog('leaving : ' + host['slug'] + ' --------- ' + group['name'])
 
 ### END 
-
-def scraper(force):
-    '''main scraping function'''
-    groups = openjson("groups.json")
-    # iterate each provider
-    for group in groups:
-        stdlog('ransomwatch: ' + 'working on ' + group['name'])
-        # iterate each location/mirror/relay
-        for host in group['locations']:
-            stdlog('ransomwatch: ' + 'scraping ' + host['slug'])
-            host['available'] = bool()
-            '''
-            only scrape onion v3 unless using headless browser, not long before this will not be possible
-            https://support.torproject.org/onionservices/v2-deprecation/
-            '''  
-            if host['enabled'] is False:
-                if (force !='1'):
-                    stdlog('ransomwatch: ' + 'skipping, this host has been flagged as disabled')
-                    continue
-                else:
-                    stdlog('ransomwatch: ' + 'forcing, this host has been flagged as disabled')
-            if host['version'] == 3 or host['version'] == 0:
-                if group['javascript_render'] is True:
-                    stdlog('ransomwatch: ' + 'using javascript_render (geckodriver)')
-                    response = geckodrive.main(host['slug'])
-                else:
-                    stdlog('ransomwatch: ' + 'using standard socksfetcher')
-                    response = socksfetcher(host['slug'])
-                if response is not None:
-                    stdlog('ransomwatch: ' + 'scraping ' + host['slug'] + ' successful')
-                    filename = group['name'] + '-' + striptld(host['slug']) + '.html'
-                    name = os.path.join(os.getcwd(), 'source', filename)
-                    stdlog('ransomwatch: ' + 'saving ' + name)
-                    with open(name, 'w', encoding='utf-8') as sitesource:
-                        sitesource.write(response)
-                        sitesource.close()
-                    dbglog('ransomwatch: ' + 'saving ' + name + ' successful')
-                    host['available'] = True
-                    host['title'] = getsitetitle(name)
-                    host['lastscrape'] = str(datetime.today())            
-                    host['updated'] = str(datetime.today())
-                    dbglog('ransomwatch: ' + 'scrape successful')
-                    with open('groups.json', 'w', encoding='utf-8') as groupsfile:
-                        json.dump(groups, groupsfile, ensure_ascii=False, indent=4)
-                        groupsfile.close()
-                        dbglog('ransomwatch: ' + 'groups.json updated')
-                else:
-                    errlog('ransomwatch: ' + 'task on ' + group['name'] + ' failed to return a response')
-            else:
-                errlog('ransomwatch: ' + 'scrape failed - ' + host['slug'] + ' is not a v3 onionsite')
 
 def adder(name, location):
     '''
@@ -283,9 +224,7 @@ def lister():
 if args.mode == 'scrape':
     if not checktcp(sockshost, socksport):
         honk("socks proxy not available and required for scraping!")
-    #if checkgeckodriver() is False:
-    #    honk('ransomwatch: ' + 'geckodriver not found in $PATH and required for scraping')
-    scrapernew(args.force)
+    scraper(args.force)
     stdlog('ransomwatch: ' + 'scrape run complete')
 
 if args.mode == 'add':

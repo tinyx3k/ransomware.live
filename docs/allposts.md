@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4792` posts_
+_All `4793` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4792` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-27 | [`INTRADO`](https://google.com/search?q=INTRADO) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Inforlandia`](https://google.com/search?q=Inforlandia) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
@@ -4803,4 +4804,4 @@ _All `4792` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 27/12/2022 16.58 (UTC)_
+Last update : _Tuesday 27/12/2022 19.01 (UTC)_
