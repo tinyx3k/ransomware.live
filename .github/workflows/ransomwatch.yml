@@ -42,10 +42,10 @@ jobs:
         run: |
           python3 ransomwatch.py markdown
       - name: save changes
-        # git config --global user.email "joshhighet@users.noreply.github.com"
-        # git config --global user.name "josh"
+        # git config --global user.email "jmousqueton@users.noreply.github.com"
+        # git config --global user.name "Julien"
         run: |  
-          git config user.name github-actions
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git commit --all --message "𝚌𝚛𝚘𝚗𝚋𝚘𝚝" || echo "no changes to commit"
+          # git config user.name github-actions
+          # git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           git push
