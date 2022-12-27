@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](profiles.md?id=cuba) |
 | 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](profiles.md?id=alphv) |
 | 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](profiles.md?id=alphv) |
 | 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](profiles.md?id=alphv) |
@@ -201,6 +202,5 @@
 | 2022-12-21 | [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`S****** Electronics"`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+Electronics%22) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-21 | [`ATLAS`](https://google.com/search?q=ATLAS) | [royal](profiles.md?id=royal) |
 
-Last update : _Tuesday 27/12/2022 12.02 (UTC)_
+Last update : _Tuesday 27/12/2022 12.32 (UTC)_

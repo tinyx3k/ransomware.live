@@ -46,34 +46,37 @@ def posttemplate(victim, group_name, timestamp,description,website):
 def screenshot(webpage,fqdn,delay=1500):
     stdlog('webshot: {}'.format(webpage))
     name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
-    if os.path.getmtime(name) < (time.time() - 2700):
-        with sync_playwright() as play:
-            try:
-                browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
-                    args=[''])
-                context = browser.new_context(ignore_https_errors= True )
-                page = context.new_page()
-                page.goto(webpage, wait_until='load', timeout = 120000)
-                page.bring_to_front()
-                page.wait_for_timeout(delay)
-                page.mouse.move(x=500, y=400)
-                page.wait_for_load_state('networkidle')
-                page.mouse.wheel(delta_y=2000, delta_x=0)
-                page.wait_for_load_state('networkidle')
-                page.wait_for_timeout(5000)
-                page.screenshot(path=name, full_page=True)
-                image = Image.open(name)
-                draw = ImageDraw.Draw(image)
-                draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
-                image.save(name)
-            except PlaywrightTimeoutError:
-                stdlog('Timeout!')
-            except Exception as exception:
-                errlog(exception)
-                errlog("error")
-            browser.close()
-    else: 
-        stdlog('webshot already done : {}'.format(webpage))
+    try:
+        if os.path.getmtime(name) < (time.time() - 2700):
+            with sync_playwright() as play:
+                try:
+                    browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
+                        args=[''])
+                    context = browser.new_context(ignore_https_errors= True )
+                    page = context.new_page()
+                    page.goto(webpage, wait_until='load', timeout = 120000)
+                    page.bring_to_front()
+                    page.wait_for_timeout(delay)
+                    page.mouse.move(x=500, y=400)
+                    page.wait_for_load_state('networkidle')
+                    page.mouse.wheel(delta_y=2000, delta_x=0)
+                    page.wait_for_load_state('networkidle')
+                    page.wait_for_timeout(5000)
+                    page.screenshot(path=name, full_page=True)
+                    image = Image.open(name)
+                    draw = ImageDraw.Draw(image)
+                    draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
+                    image.save(name)
+                except PlaywrightTimeoutError:
+                    stdlog('Timeout!')
+                except Exception as exception:
+                    errlog(exception)
+                    errlog("error")
+                browser.close()
+        else: 
+            stdlog('webshot already done : {}'.format(webpage))
+    except:
+             stdlog('webshot file not found : {}'.format(webpage))
 
 
 def existingpost(post_title, group_name):
@@ -1226,17 +1229,19 @@ def avoslocker():
 def cuba():
     stdlog('parser: ' + 'cuba')
     for filename in os.listdir('source'):
-        try:
+        #try:
             if filename.startswith('cuba-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
                 soup=BeautifulSoup(file,'html.parser')
                 divs_name=soup.find_all('div', {'class':'list-text'})
                 for div in divs_name:
-                    title = div.a['href'].split('/')[4]
-                    description = div.a.text.strip()
-                    appender(title, 'cuba', description)
+                    title = div.a['href'].split('/')[2]
+                    if '.onion' not in title: 
+                        # print('--------------------------------------'+ title)
+                        description = div.a.text.strip()
+                        appender(title, 'cuba', description)
                 file.close()
-        except:
-            errlog('cuba: ' + 'parsing fail')
-            pass
+        #except:
+        #    errlog('cuba: ' + 'parsing fail')
+        #    pass
