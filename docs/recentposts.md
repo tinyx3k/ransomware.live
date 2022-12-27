@@ -2,6 +2,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-27 | [`Inforlandia`](https://google.com/search?q=Inforlandia) | [royal](profiles.md?id=royal) |
+| 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
+| 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](profiles.md?id=cuba) |
 | 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](profiles.md?id=alphv) |
 | 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](profiles.md?id=alphv) |
@@ -199,8 +202,5 @@
 | 2022-12-22 | [`F???????, ???, D????????, T???????, S?????????????`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%2C+D%3F%3F%3F%3F%3F%3F%3F%3F%2C+T%3F%3F%3F%3F%3F%3F%3F%2C+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | [play](profiles.md?id=play) |
 | 2022-12-22 | [`Berlina Tbk`](https://google.com/search?q=Berlina+Tbk) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-21 | [`Alvaria`](https://google.com/search?q=Alvaria) | [hive](profiles.md?id=hive) |
-| 2022-12-21 | [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-21 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-21 | [`S****** Electronics"`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+Electronics%22) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Tuesday 27/12/2022 12.32 (UTC)_
+Last update : _Tuesday 27/12/2022 13.27 (UTC)_
