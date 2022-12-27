@@ -128,6 +128,10 @@ def appender(post_title, group_name, description="", website=""):
             stdlog('Send notification')
             API_KEY = os.getenv('PUSH_API')
             USER_KEY = os.getenv('PUSH_USER')
+            if len(API_KEY) < 5:
+                errlog('NO API KEY FOUND')
+            if len(USER_KEY) < 5:
+                errlog('NO USER KEY FOUND')
             MESSAGE =  post_title +  " est victime du ransomware " + group_name
             conn = http.client.HTTPSConnection("api.pushover.net:443")
             conn.request("POST", "/1/messages.json",
