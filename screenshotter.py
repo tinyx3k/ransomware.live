@@ -9,6 +9,8 @@ from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeo
 from sharedutils import stdlog, errlog
 from sharedutils import openjson  
 import sys      
+from PIL import Image
+from PIL import ImageDraw
 
 def screenshot(webpage,fqdn):
     stdlog('webshot: {}'.format(webpage))
@@ -29,6 +31,10 @@ def screenshot(webpage,fqdn):
             page.wait_for_timeout(5000)
             name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
             page.screenshot(path=name, full_page=True)
+            image = Image.open(name)
+            draw = ImageDraw.Draw(image)
+            draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
+            image.save(name)
         except PlaywrightTimeoutError:
             stdlog('Timeout!')
         except Exception as exception:
@@ -54,6 +60,7 @@ def main():
             if group["name"] == groupname:
                 for webpage in group['locations']:
                     screenshot('http://'+webpage['fqdn'],webpage['fqdn'])
+
 
 
 if __name__ == '__main__':
