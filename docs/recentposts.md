@@ -2,6 +2,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-27 | [`Robinson Pharma`](https://google.com/search?q=Robinson+Pharma) | [royal](profiles.md?id=royal) |
+| 2022-12-27 | [`Fantasy Springs Resort Casino`](https://google.com/search?q=Fantasy+Springs+Resort+Casino) | [royal](profiles.md?id=royal) |
 | 2022-12-26 | [`LW Group`](https://google.com/search?q=LW+Group) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Keyano College`](https://google.com/search?q=Keyano+College) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`McKenzie Health System`](https://google.com/search?q=McKenzie+Health+System) | [avoslocker](profiles.md?id=avoslocker) |
@@ -200,7 +202,5 @@
 | 2022-12-21 | [`Wings Etc`](https://google.com/search?q=Wings+Etc) | [unsafe](profiles.md?id=unsafe) |
 | 2022-12-21 | [`Dooly County School System`](https://google.com/search?q=Dooly+County+School+System) | [unsafe](profiles.md?id=unsafe) |
 | 2022-12-21 | [`Whatcom County Library System`](https://google.com/search?q=Whatcom+County+Library+System) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-21 | [`The Chedi Muscat`](https://google.com/search?q=The+Chedi+Muscat) | [unsafe](profiles.md?id=unsafe) |
-| 2022-12-21 | [`Barakat Travel Co`](https://google.com/search?q=Barakat+Travel+Co) | [unsafe](profiles.md?id=unsafe) |
 
-Last update : _Monday 26/12/2022 23.14 (UTC)_
+Last update : _Tuesday 27/12/2022 01.02 (UTC)_

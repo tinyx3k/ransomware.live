@@ -180,7 +180,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -1003,7 +1003,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -2444,7 +2444,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -2502,7 +2502,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -7186,10 +7186,12 @@ _`shut down & offering a decryptor`_
 
 ### Posts
 
-> 96 posts found
+> 98 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Robinson Pharma`](https://www.robinsonpharma.com) | 27/12/2022 | Robinson Pharma, Inc. is a full-service contract manufacturer of softgels, tablets, capsules, powders, and liquids for the dietary supplements and personal health care industries. Currently, we have the largest softgel capacity in the United States. We are a leading vitamin manufacturer with multiple third-party certifications for GMP Compliance. We search the globe for the best raw materials and guarantee that all your products will be manufactured in the USA. Robinson Pharma, Inc. also guarantees one of the shortest order lead times in the industry, as well as packaging services. |
+| [`Fantasy Springs Resort Casino`](https://www.fantasyspringsresort.com) | 27/12/2022 | Walk through the doors of Fantasy Springs Resort Casino and you’re immediately transported to a world of elegance, exciting ambience and good luck. This award-winning casino in the Palm Springs area is home to 1,800 of the hottest slots and video poker, 40 table games, the action-packed casino-floor Springs bar, friendly hosts and dealers, and the Fantasy Rewards Club – offering guests the best perks and rewards of any desert casino. Fantasy Springs offers world-class gaming at a desert oasis setting, close to anywhere in southern California. Here you’ll find the newest and hottest games, low table minimums and best odds in the Valley.These are just a few of the things that make Fantasy Springs Resort Casino a premier gaming destination in Southern California. Must be 21 or over to gamble in the casino. |
 | [`Atlatec SA de CV`](https://www.atlatec.com) | 25/12/2022 | We are the most important company in Mexico that integrates water infrastructure projects, with more than 60 years of experience, having developed more than 90 public and private projects. We provide solutions with the highest technology and innovation for water and wastewater treatment. |
 | [`Aegea Group companies`](https://www.aegea.com.br) | 23/12/2022 | Founded in 2010, Aegea is one of Brazil’s largest private sanitation companies. In each town it operates, it takes more health and quality of life to the population, always respecting the environment and local culture. Today, more than 21 million people are served in 154 cities across Brazil.﻿Aegea manages sanitation assets through full or partial common concessions, sub-concessions and public-private partnerships (PPPs) and manages public concessions in the entire water cycle, i.e., supply, collection and treatment of sewage according to the profile and needs of each town. |
 | [`Rech Informatica Ltda`](https://www.rech.com.br) | 23/12/2022 | Rech Informática Ltda is a company that operates in the Staffing and Recruiting industry. It employs 51-100 people and has $10M-$25M of revenue. Headquarters: 460 Rua Tupanciretã, Novo Hamburgo, Rs, 93334-480, Brazil |
@@ -8139,4 +8141,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 26/12/2022 23.14 (UTC)_
+Last update : _Tuesday 27/12/2022 01.02 (UTC)_

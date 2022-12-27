@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4780` posts_
+_All `4782` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,8 @@ _All `4780` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-27 | [`Robinson Pharma`](https://google.com/search?q=Robinson+Pharma) | [royal](profiles.md?id=royal) |
+| 2022-12-27 | [`Fantasy Springs Resort Casino`](https://google.com/search?q=Fantasy+Springs+Resort+Casino) | [royal](profiles.md?id=royal) |
 | 2022-12-26 | [`LW Group`](https://google.com/search?q=LW+Group) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Keyano College`](https://google.com/search?q=Keyano+College) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`McKenzie Health System`](https://google.com/search?q=McKenzie+Health+System) | [avoslocker](profiles.md?id=avoslocker) |
@@ -4791,4 +4793,4 @@ _All `4780` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 26/12/2022 23.14 (UTC)_
+Last update : _Tuesday 27/12/2022 01.02 (UTC)_
