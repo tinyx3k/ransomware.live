@@ -47,5 +47,6 @@ jobs:
         run: |  
           # git config user.name github-actions
           # git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
+          git commit --all --message "Updated by Crontab on $DATE"  --author="github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>" || echo "no changes to commit" 
           git push
+g

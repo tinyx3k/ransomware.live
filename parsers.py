@@ -550,16 +550,16 @@ def midas():
     for post in posts:
         appender(post, 'midas')
 
-def snatch():
-    stdlog('parser: ' + 'snatch')
-    parser = '''
-    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    ''' % (fancygrep)
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('snatch: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'snatch')
+#def snatch():
+#    stdlog('parser: ' + 'snatch')
+#    parser = '''
+#    %s "a-b-n-name.*?</div>" source/snatch-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
+#    ''' % (fancygrep)
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('snatch: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, 'snatch')
 
 def marketo():
     stdlog('parser: ' + 'marketo')
@@ -1233,7 +1233,7 @@ def avoslocker():
 def cuba():
     stdlog('parser: ' + 'cuba')
     for filename in os.listdir('source'):
-        #try:
+        try:
             if filename.startswith('cuba-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
@@ -1242,10 +1242,27 @@ def cuba():
                 for div in divs_name:
                     title = div.a['href'].split('/')[2]
                     if '.onion' not in title: 
-                        # print('--------------------------------------'+ title)
                         description = div.a.text.strip()
                         appender(title, 'cuba', description)
                 file.close()
-        #except:
-        #    errlog('cuba: ' + 'parsing fail')
-        #    pass
+        except:
+            errlog('cuba: ' + 'parsing fail')
+            pass
+
+def snatch():
+    stdlog('parser: ' + 'snatch')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('snatch-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('div', {"class": "ann-block"})
+                for div in divs_name:
+                    title = div.find('div', {'class': 'a-b-n-name'}).text.strip()
+                    description = div.find('div', {'class': 'a-b-text'}).text.strip()
+                    appender(title, 'snatch', description)
+                file.close()
+        except:
+            errlog('snatch: ' + 'parsing fail')
+            pass
