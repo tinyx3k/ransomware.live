@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4793` posts_
+_All `4800` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,13 @@ _All `4793` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-28 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | [snatch](profiles.md?id=snatch) |
+| 2022-12-28 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | [snatch](profiles.md?id=snatch) |
+| 2022-12-28 | [`Square Yards`](https://google.com/search?q=Square+Yards) | [snatch](profiles.md?id=snatch) |
+| 2022-12-28 | [`TCL Chinese Theatres`](https://google.com/search?q=TCL+Chinese+Theatres) | [snatch](profiles.md?id=snatch) |
+| 2022-12-28 | [`Trubee, Collins & Co`](https://google.com/search?q=Trubee%2C+Collins+%26+Co) | [snatch](profiles.md?id=snatch) |
+| 2022-12-28 | [`Einatec`](https://google.com/search?q=Einatec) | [snatch](profiles.md?id=snatch) |
+| 2022-12-28 | [`www.buildersmutual.com`](https://google.com/search?q=www.buildersmutual.com) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`INTRADO`](https://google.com/search?q=INTRADO) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Inforlandia`](https://google.com/search?q=Inforlandia) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
@@ -4804,4 +4811,4 @@ _All `4793` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 27/12/2022 19.01 (UTC)_
+Last update : _Wednesday 28/12/2022 01.46 (UTC)_

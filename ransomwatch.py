@@ -149,7 +149,7 @@ def scraper(force=''):
                             delay = host['delay']*1000 if ( 'delay' in host and host['delay'] is not None ) \
                                 else 15000
                             if delay != 15000:
-                                stdlog('New delay : '+ str(delay) + 'ms')
+                                stdlog('New delay : ' + str(delay) + 'ms')
                             page.wait_for_timeout(delay)
                             page.mouse.move(x=500, y=400)
                             page.wait_for_load_state('networkidle')
