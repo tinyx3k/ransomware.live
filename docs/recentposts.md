@@ -2,6 +2,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-28 | [`Emoney`](https://google.com/search?q=Emoney) | [royal](profiles.md?id=royal) |
 | 2022-12-28 | [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-12-28 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://google.com/search?q=ELOTECH+-+HACKED+AND+MORE+THEN+100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
 | 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](profiles.md?id=alphv) |
@@ -201,6 +202,5 @@
 | 2022-12-22 | [`THE7STARS.CO.UK`](https://google.com/search?q=THE7STARS.CO.UK) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`AMEY.CO.UK`](https://google.com/search?q=AMEY.CO.UK) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`NOVABIOMEDICAL.COM`](https://google.com/search?q=NOVABIOMEDICAL.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ALLSTATEPETERBILT.COM`](https://google.com/search?q=ALLSTATEPETERBILT.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Wednesday 28/12/2022 19.14 (UTC)_
+Last update : _Wednesday 28/12/2022 21.13 (UTC)_
