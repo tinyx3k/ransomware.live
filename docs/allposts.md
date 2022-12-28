@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4800` posts_
+_All `4804` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,10 @@ _All `4800` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-28 | [`Protecmedia `](https://google.com/search?q=Protecmedia+) | [alphv](profiles.md?id=alphv) |
+| 2022-12-28 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://google.com/search?q=ELOTECH+-+HACKED+AND+MORE+THEN+100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
+| 2022-12-28 | [`Meyer & Meyer Holding SE & Co. KG `](https://google.com/search?q=Meyer+%26+Meyer+Holding+SE+%26+Co.+KG+) | [alphv](profiles.md?id=alphv) |
+| 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](profiles.md?id=alphv) |
 | 2022-12-28 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | [snatch](profiles.md?id=snatch) |
 | 2022-12-28 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | [snatch](profiles.md?id=snatch) |
 | 2022-12-28 | [`Square Yards`](https://google.com/search?q=Square+Yards) | [snatch](profiles.md?id=snatch) |
@@ -4811,4 +4815,4 @@ _All `4800` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 28/12/2022 09.25 (UTC)_
+Last update : _Wednesday 28/12/2022 12.22 (UTC)_

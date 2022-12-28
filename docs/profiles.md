@@ -176,20 +176,29 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-|   | 🟢 | 28/12/2022 08:34 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 28/12/2022 12:07 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
-|   | 🔴 | 22/12/2022 20:30 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 28/12/2022 11:56 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#3</a> 
 
 ### Posts
 
-> 241 posts found
+> 245 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Protecmedia `](https://www.protecmedia.com/solutions/en) | 28/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
+| [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://www.elotech.com.br) | 28/12/2022 | Company: elotech
+Headquarters: 14 Rua Giampero Monacci, Maringa, Parana, Brazil
+Phone Number: +55 4440093550
+
+Elotech is the largest and best public administration system company in Paraná and one of the best in Brazil! |
+| [`Meyer & Meyer Holding SE & Co. KG `]( https://www.meyermeyer.com ) | 28/12/2022 | Founded in Germany, but at home across the globe: Meyer & Meyer is a partner with international expertise and a broad network extending to the most critical hubs of the fashion industry in the world. With our own locations in Bulgaria, Morocco, Macedonia, Poland, Romania and Tunisia, we operate close to production in Europe and North Africa. |
+| [`JAKKS Pacific, Inc.`](https://jakks.com) | 28/12/2022 | Corporate Overview
+JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. |
 | [`Empresas Públicas de Medellín`](https://www.epm.com.co) | 27/12/2022 | The bylaws in force for EPM E.S.P. are contained in Decision 12 of 1998, as amended by Decision 32 of 2006. It operates in the water (and sewerage), electricity and gas sectors. It is legally empowered to also act in the telecommunications and garbage collection sectors. |
 | [`FARMS.COM`](https://www.farms.com/) | 27/12/2022 | Farming has always been about managing information and effectively using technology for success. At Farms.com, we’re excited by the power and potential of new technology; we recognize that it is a significant enabler in the evolution of farming and agribusiness. Our goal is to strive to use technology to enable our customers to manage information to their advantage. We are continuously researching, developing and introducing technology innovations to enhance farming management efficiency and effectiveness. |
 | [`CR&R`](https://crrwasteservices.com) | 27/12/2022 | CR&R Incorporated will not share any personal financial information you provide (such as credit card information) with other companies. From time to time, this website may provide links to other websites. You should carefully review the privacy policies on those sites, they may differ from the CR&R Incorporated Privacy Policy. |
@@ -1010,7 +1019,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -2452,7 +2461,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -2510,7 +2519,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -8180,4 +8189,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 28/12/2022 09.25 (UTC)_
+Last update : _Wednesday 28/12/2022 12.22 (UTC)_

@@ -11,3 +11,4 @@ dev.sh
 scrape.py
 source2/*
 groups.json.ORIG
+scraper.py
