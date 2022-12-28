@@ -191,8 +191,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | post | date | Description
 |---|---|---|
 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://www.elotech.com.br) | 28/12/2022 | Company: elotech Headquarters: 14 Rua Giampero Monacci, Maringa, Parana, Brazil Phone Number: +55 4440093550  Elotech is the largest and best public administration system company in Paraná and one of the best in Brazil! |
-| [`JAKKS Pacific, Inc.`](https://jakks.com) | 28/12/2022 | Corporate Overview
-JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. |
+| [`JAKKS Pacific, Inc.`](https://jakks.com) | 28/12/2022 | Corporate Overview JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. |
 | [`Empresas Públicas de Medellín`](https://www.epm.com.co) | 27/12/2022 | The bylaws in force for EPM E.S.P. are contained in Decision 12 of 1998, as amended by Decision 32 of 2006. It operates in the water (and sewerage), electricity and gas sectors. It is legally empowered to also act in the telecommunications and garbage collection sectors. |
 | [`FARMS.COM`](https://www.farms.com/) | 27/12/2022 | Farming has always been about managing information and effectively using technology for success. At Farms.com, we’re excited by the power and potential of new technology; we recognize that it is a significant enabler in the evolution of farming and agribusiness. Our goal is to strive to use technology to enable our customers to manage information to their advantage. We are continuously researching, developing and introducing technology innovations to enhance farming management efficiency and effectiveness. |
 | [`CR&R`](https://crrwasteservices.com) | 27/12/2022 | CR&R Incorporated will not share any personal financial information you provide (such as credit card information) with other companies. From time to time, this website may provide links to other websites. You should carefully review the privacy policies on those sites, they may differ from the CR&R Incorporated Privacy Policy. |
@@ -8183,4 +8182,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 28/12/2022 14.58 (UTC)_
+Last update : _Wednesday 28/12/2022 15.03 (UTC)_
