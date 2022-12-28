@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4804` posts_
+_All `4805` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4804` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-28 | [`SUMITOMO BAKELITE USA`](https://google.com/search?q=SUMITOMO+BAKELITE+USA) | [alphv](profiles.md?id=alphv) |
 | 2022-12-28 | [`Emoney`](https://google.com/search?q=Emoney) | [royal](profiles.md?id=royal) |
 | 2022-12-28 | [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-12-28 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://google.com/search?q=ELOTECH+-+HACKED+AND+MORE+THEN+100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
@@ -4815,4 +4816,4 @@ _All `4804` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 28/12/2022 21.13 (UTC)_
+Last update : _Wednesday 28/12/2022 23.21 (UTC)_
