@@ -201,6 +201,7 @@
                 "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
                 "title": " ",
                 "version": 3,
+                "delay": 300,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/12",
                 "available": true,
                 "updated": "2022-12-28 08:34:13.774477",
