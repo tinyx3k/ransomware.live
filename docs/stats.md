@@ -1,8 +1,17 @@
 # 📊 stats
 
-_timestamp association commenced october 21"_
+
+## Since october 2021
 
 | ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |
 |---|---|
 ![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |
 
+
+## 2023
+
+ ![](graphs/postsbyday2023.png) | ![](graphs/postsbygroup2023.png) |
+
+## 2022
+
+| ![](graphs/postsbyday2022.png) | ![](graphs/postsbygroup2022.png) |

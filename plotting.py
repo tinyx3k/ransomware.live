@@ -3,7 +3,7 @@
 import datetime
 import matplotlib.pyplot as plt
 
-from sharedutils import gcount
+from sharedutils import gcount, gcountYear
 from sharedutils import openjson
 
 def plot_posts_by_group():
@@ -24,6 +24,28 @@ def plot_posts_by_group():
     plt.savefig('docs/graphs/postsbygroup.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     plt.clf()
     plt.cla()
+
+
+def plot_posts_by_group_by_year(year):
+    '''
+    plot the number of posts by group in a barchart
+    '''
+    posts = openjson('posts.json')
+    group_counts = gcountYear(posts,year)
+    print(len(group_counts))
+    group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    group_counts = [x for x in group_counts if x[0] != 'clop']
+    groups = [x[0] for x in group_counts]
+    counts = [x[1] for x in group_counts]
+    plt.bar(groups, counts, color="#000000")
+    plt.title('posts by group in ' + str(year))
+    plt.xlabel('group name')
+    plt.xticks(rotation=90)
+    plt.ylabel('# of posts')
+    plt.savefig('docs/graphs/postsbygroup'+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.clf()
+    plt.cla()
+
 
 def plot_posts_by_group_past_7_days():
     '''
@@ -76,6 +98,72 @@ def trend_posts_per_day():
     plt.xticks(rotation=90)
     plt.ylabel('# of posts')
     plt.savefig('docs/graphs/postsbyday.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.clf()
+    plt.cla()
+
+
+def trend_posts_per_day_2022():
+    '''
+    plot the trend of the number of posts per day
+    '''
+    posts = openjson('posts.json')
+    dates = []
+    for post in posts:
+        dates.append(post['discovered'][0:10])
+    # list of duplicate dates should be marged to show a count of posts per day
+    # i.e ['2021-12-07', '2021-12-07', '2021-12-07', '2021-12-07', '2021-12-07']
+    # becomes [{'2021-12-07',4}] etc
+    datecount = {}
+    for date in dates:
+        if date in datecount:
+            datecount[date] += 1
+        else:
+            datecount[date] = 1
+    # remove '2021-09-09' - generic date of import along w/ anything before 2021-08
+    datecount.pop('2021-09-09', None)
+    datecount = {k: v for k, v in datecount.items() if k >= '2022-01-01' and k <='2022-12-31'}
+    datecount = list(datecount.items())
+    datecount.sort(key=lambda x: x[0])
+    dates = [datetime.datetime.strptime(x[0], '%Y-%m-%d').date() for x in datecount]
+    counts = [x[1] for x in datecount]
+    plt.plot(dates, counts, color="#000000")
+    plt.title('posts per day in 2022')
+    plt.xlabel('date')
+    plt.xticks(rotation=90)
+    plt.ylabel('# of posts')
+    plt.savefig('docs/graphs/postsbyday2022.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.clf()
+    plt.cla()
+
+def trend_posts_per_day_2023():
+    '''
+    plot the trend of the number of posts per day
+    '''
+    posts = openjson('posts.json')
+    dates = []
+    for post in posts:
+        dates.append(post['discovered'][0:10])
+    # list of duplicate dates should be marged to show a count of posts per day
+    # i.e ['2021-12-07', '2021-12-07', '2021-12-07', '2021-12-07', '2021-12-07']
+    # becomes [{'2021-12-07',4}] etc
+    datecount = {}
+    for date in dates:
+        if date in datecount:
+            datecount[date] += 1
+        else:
+            datecount[date] = 1
+    # remove '2021-09-09' - generic date of import along w/ anything before 2021-08
+    datecount = {k: v for k, v in datecount.items() if k >= '2023-01-01' and k <='2023-12-31'}
+    datecount = list(datecount.items())
+    datecount.sort(key=lambda x: x[0])
+    dates = [datetime.datetime.strptime(x[0], '%Y-%m-%d').date() for x in datecount]
+    counts = [x[1] for x in datecount]
+    plt.plot(dates, counts, color="#000000")
+    plt.title('posts per day in 2023')
+    plt.xlabel('date')
+    plt.xticks(rotation=90)
+    plt.ylabel('# of posts')
+    plt.savefig('docs/graphs/postsbyday2023.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     plt.clf()
     plt.cla()
 

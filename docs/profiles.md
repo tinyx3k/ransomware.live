@@ -6703,7 +6703,7 @@ _`login page, no posts`_
 
 | post | date | Description
 |---|---|---|
-| [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | 28/12/2022 |  |
+| [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | 28/12/2022 | AOAL - Azienda Ospedaliera di Alessandria |
 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | 20/12/2022 |  |
 | [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | 20/12/2022 |  |
 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | 13/12/2022 |   |
@@ -8189,4 +8189,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 29/12/2022 14.46 (UTC)_
+Last update : _Thursday 29/12/2022 17.26 (UTC)_

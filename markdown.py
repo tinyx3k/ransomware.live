@@ -26,8 +26,7 @@ from sharedutils import grouppostavailable
 #from sharedutils import countcaptchahosts
 # from sharedutils import stdlog, dbglog, errlog, honk
 from sharedutils import stdlog
-from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days
-from bs4 import BeautifulSoup
+from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days,trend_posts_per_day_2022, trend_posts_per_day_2023, plot_posts_by_group_by_year
 
 
 def suffix(d):
@@ -492,12 +491,17 @@ def main():
     allposts()
     # statspage()
     profilepage()
-    decryptiontools()
+    if os.path.getmtime('docs/decryption.md') < (time.time() - 14400):
+        decryptiontools()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
     if os.path.getmtime('posts.json') > (time.time() - 2700):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
         trend_posts_per_day()
+        trend_posts_per_day_2022()
+        trend_posts_per_day_2023()
         plot_posts_by_group()
+        plot_posts_by_group_by_year(2022)
+        plot_posts_by_group_by_year(2023)
         pie_posts_by_group()
         plot_posts_by_group_past_7_days()
     else:
