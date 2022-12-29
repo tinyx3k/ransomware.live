@@ -369,7 +369,7 @@ def profilepage():
         ransom_notes = ''
         directory = 'docs/ransomware_notes/' + group['name'] +'/'
         if directory_exists(directory):
-            for filename in os.listdir(directory):
+            for filename in sorted(os.listdir(directory)):
                 # stdlog(filename)
                 cpt_note += 1
                 ransom_notes = ransom_notes + ' <a href="/ransomware_notes/' +group['name'] + '/' + filename + '" target=_blank>#' + str(cpt_note) + '</a> ' 
@@ -396,10 +396,12 @@ def profilepage():
                         description=re.sub(r"folder/.*", "folder/******", (post['description']))
                     except:
                         description=' '
-                    try:
+                    #if post['website'] is not None: 
+                    try: 
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](' + post['website'] + ')'
-                    except:
-                        postURL = '`' + post['post_title'].replace('|', '') + '`'
+                    except: 
+                        urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
+                        postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
                     date = post['discovered'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]

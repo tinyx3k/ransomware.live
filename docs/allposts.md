@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4806` posts_
+_All `4809` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,9 @@ _All `4806` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-29 | [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-29 | [`MITCON Consultancy & Engineering Services`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services) | [bianlian](profiles.md?id=bianlian) |
+| 2022-12-29 | [`*********** E*****`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+E%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-29 | [`portodelisboa.pt`](https://google.com/search?q=portodelisboa.pt) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-28 | [`SUMITOMO BAKELITE USA`](https://google.com/search?q=SUMITOMO+BAKELITE+USA) | [alphv](profiles.md?id=alphv) |
 | 2022-12-28 | [`Emoney`](https://google.com/search?q=Emoney) | [royal](profiles.md?id=royal) |
@@ -4817,4 +4820,4 @@ _All `4806` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 29/12/2022 11.18 (UTC)_
+Last update : _Thursday 29/12/2022 13.07 (UTC)_

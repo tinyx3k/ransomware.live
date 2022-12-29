@@ -15,8 +15,8 @@
 
 | post | date | Description
 |---|---|---|
-| `Nextlabs` | 15/09/2022 |   |
-| `Maxey Moverley` | 14/07/2022 |   |
+| [`Nextlabs`](https://google.com/search?q=Nextlabs) | 15/09/2022 |   |
+| [`Maxey Moverley`](https://google.com/search?q=Maxey+Moverley) | 14/07/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -182,7 +182,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/alphv/alphv1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/alphv/alphv2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/alphv/alphv3.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -202,238 +202,238 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`Bregman Berbert Schwartz & Gilday`](https://www.bregmanlaw.com/) | 22/12/2022 | For more than four decades, our firm has been devoted to serving the interests of our clients. At BBS&G, practicing law is about finding innovative ways to protect our clients’ interests. We take pride in our results. Our passion lies in fostering long-term relationships with our clients that allow us to take heavy burdens off of their shoulders in an efficient, cost-effective manner. |
 | [`Protecmedia`](https://www.protecmedia.com/solutions/en) | 22/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
 | [`Events DC`](https://eventsdc.com) | 15/12/2022 | Our tools make up a complete solution that streamlines the management of creatives and facilitates the entire process of recruitment, production, planning and billing of editorial advertising in its entirety. |
-| `Bailey Cavalieri LLC` | 15/12/2022 |   |
-| `TEIJIN AUTOMOTIVE TECHNOLOGIES` | 14/12/2022 |   |
+| [`Bailey Cavalieri LLC`](https://google.com/search?q=Bailey+Cavalieri+LLC) | 15/12/2022 |   |
+| [`TEIJIN AUTOMOTIVE TECHNOLOGIES`](https://google.com/search?q=TEIJIN+AUTOMOTIVE+TECHNOLOGIES) | 14/12/2022 |   |
 | [`PARIC CORPORATION`](https://www.paric.com/) | 13/12/2022 | BUILDING EXCELLENCE TO MOVE OUR COMMUNITY FORWARD Since 1979 PARIC has focused on being one of the top General Contractors, Construction Manager and Design-Build firms in the region. As one of the largest privately held companies in the Midwest, PARIC prides itself on being involved in the community and in building lasting relationships leading to repeat clients. |
 | [`Schnee Berger`](https://schneeberger.com) | 13/12/2022 | SCHNEEBERGER serves original equipment manufacturers operating (OEM) in various industries worldwide - from machine tool, solar technology and semiconductor technology to electrical engineering and medical engineering and others. Linear bearings, profiled linear guideways, measuring systems, gear racks, slides, positioning systems and mineral casting are all part of SCHNEEBERGER's . |
 | [`V3 Companies`](https://www.v3co.com) | 13/12/2022 | V3 Companies can be described in many ways: Most simply, we are a multidisciplinary firm offering civil engineering, contracting, environmental, planning, landscape architecture and surveying services. But that tells only a small piece of our story. We’re frequently asked, “What does ‘V3’ stand for?” … and the answer often surprises people. V3 represents an acronym for three Latin words – “Visio,” “Vertere,” “Virtute” or “The Vision to Transform with Excellence” – a statement of the aspirations we have for the growth of our employees, our service to our clients and the impact we have in our communities. |
-| `dothousehealth.org` | 10/12/2022 |   |
-| `Aeroproductsco` | 10/12/2022 |   |
-| `Warren County Community College` | 09/12/2022 |   |
-| `Requena` | 07/12/2022 |   |
-| `Elias Motsoaledi Local Municiapality` | 06/12/2022 |   |
-| `Novak Law Offices` | 06/12/2022 |   |
-| `NCI CABLING INC` | 06/12/2022 |   |
-| `LJ Hooker Palm Beach` | 05/12/2022 |   |
-| `Grupo NGN` | 05/12/2022 |   |
-| `moruga it` | 05/12/2022 |   |
-| `Philippine Economic Zone Authority (PEZA) peza.gov.ph` | 04/12/2022 |   |
-| `Cappagh Contractors Construction (London) Ltd` | 04/12/2022 |   |
-| `ENPPI - HACKED AND MORE THEN 1100 GB DATA LEAKED!` | 01/12/2022 |   |
-| `Jubilant` | 01/12/2022 |   |
-| `Shenzhen INVT Electric Co.,Ltd` | 01/12/2022 |   |
-| `pro office Büro + Wohnkultur GmbH` | 01/12/2022 |   |
-| `Vision Technologies` | 29/11/2022 |   |
-| `Stibbs & Co` | 29/11/2022 |   |
-| `Ta Chen Stainless Pipe Co., Ltd` | 24/11/2022 |   |
-| `Nok Air` | 21/11/2022 |   |
-| `KlamoyaCasino` | 18/11/2022 |   |
-| `Giambalvo, Stalzer & Co.` | 17/11/2022 |   |
-| `CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.` | 14/11/2022 |   |
-| `nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com` | 12/11/2022 |   |
-| `Motional.com` | 11/11/2022 |   |
-| `J & D Pierce Contracts Ltd` | 11/11/2022 |   |
-| `CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!` | 10/11/2022 |   |
-| `Motional` | 08/11/2022 |   |
-| `Bosselman Energy Inc` | 07/11/2022 |   |
-| `HUSSEY GAY BELL` | 06/11/2022 |   |
-| `Network Communications Inc` | 30/10/2022 |   |
-| `Kolas Law Firm` | 29/10/2022 |   |
-| `Rankam China Manufacturing` | 29/10/2022 |   |
-| `Mdaemon Technologies` | 28/10/2022 |   |
-| `unipiloto.edu.co` | 28/10/2022 |   |
-| `Comando Conjunto de las Fuerzas Armadas Del Ecuador` | 27/10/2022 |   |
-| `KEMET` | 23/10/2022 |   |
-| `Egyptian Electric Cooperative Association` | 23/10/2022 |   |
-| `rjyoung.com` | 23/10/2022 |   |
-| `mdaemon technologies` | 23/10/2022 |   |
-| `The Hibbert Group` | 17/10/2022 |   |
-| `Döhler HACKED! More then 800 GB sensitive data LEAKED!` | 17/10/2022 |   |
-| `Jam Filled Entertainment` | 17/10/2022 |   |
-| `RecordTV` | 17/10/2022 |   |
-| `Home Dynamix` | 08/10/2022 |   |
-| `Deutsche Saatveredelung AG` | 08/10/2022 |   |
-| `Notos Com` | 08/10/2022 |   |
-| `NJVC [ post has been updated ]` | 07/10/2022 |   |
-| `Midwest Petroleum` | 07/10/2022 |   |
-| `Simex Defence Inc` | 07/10/2022 |   |
-| `Clarion Communication Management Ltd` | 07/10/2022 |   |
-| `Knoll` | 07/10/2022 |   |
-| `Pinnacle Incorporated` | 07/10/2022 |   |
-| `( POST HAS BEEN UPDATED 800GB LEAK AVAILABLE N) County Suffolk and contractors` | 26/09/2022 |   |
-| `SolarCraft` | 26/09/2022 |   |
-| `Longhorn Investments` | 23/09/2022 |   |
-| `Boyes Turner LLP` | 23/09/2022 |   |
-| `CARITAS` | 19/09/2022 |   |
-| `trisupplyhome.com` | 17/09/2022 |   |
-| `County Suffolk and contractors` | 15/09/2022 |   |
-| `Triten` | 14/09/2022 |   |
-| `HAYAT GROUP` | 14/09/2022 |   |
-| `Tri-Supply` | 14/09/2022 |   |
-| `GHT CORP` | 14/09/2022 |   |
-| `Fiveninefive` | 14/09/2022 |   |
-| `PCSupport` | 14/09/2022 |   |
-| `Hayat` | 14/09/2022 |   |
-| `The Checker Transportation Group` | 14/09/2022 |   |
-| `Justman Packaging & Display Information` | 29/08/2022 |   |
-| `Laferté` | 29/08/2022 |   |
-| `Josef Saller Services e.K. - Saller Bau` | 29/08/2022 |   |
-| `Accelya` | 17/08/2022 |   |
-| `Fast Pace Health` | 13/08/2022 |   |
-| `Artic Building Services` | 08/08/2022 |   |
-| `AD Consulting Group` | 04/08/2022 |   |
-| `AIIM` | 03/08/2022 |   |
-| `MarioSinacola` | 02/08/2022 |   |
-| `Creos Luxembourg` | 29/07/2022 |   |
-| `herc.com.br` | 28/07/2022 |   |
-| `tnq.co.in` | 28/07/2022 |   |
-| `JOHN A. BODZIAK ARCHITECT AIA` | 28/07/2022 |   |
-| `SRM Technologies` | 24/07/2022 |   |
-| `KKJM Lawfirm` | 23/07/2022 |   |
-| `Hometrust Mortgage Company` | 23/07/2022 |   |
-| `HANDLER Bau GmbH` | 21/07/2022 |   |
-| `Duda Farm Fresh Foods  A. Duda & Sons , Inc.  Duda  A. Duda & Sons  Duda Farm Fresh Foods ` | 14/07/2022 |   |
-| `Unisuper S.A.` | 14/07/2022 |   |
-| `duda.com` | 13/07/2022 |   |
-| `Podhurst Orseck` | 12/07/2022 |   |
-| `The Royal Commission for Riyadh City (RCRC)` | 11/07/2022 |   |
-| `Bandai Namco` | 11/07/2022 |   |
-| `Hydraelectric` | 11/07/2022 |   |
-| `Dusit D2 Kenz Hotel Dubai` | 06/07/2022 |   |
-| `adlerdisplay.com  Adler Display` | 06/07/2022 |   |
-| `Sinclair Wilson` | 06/07/2022 |   |
-| `Holland CPA` | 04/07/2022 |   |
-| `HANSA KONTAKT` | 01/07/2022 |   |
-| `Continental Management` | 01/07/2022 |   |
-| `nutis.com` | 23/06/2022 |   |
-| `COUNT+CARE  ENTEGA.DE` | 22/06/2022 |   |
-| `Reed Pope Law` | 22/06/2022 |   |
-| `Matco Electric` | 22/06/2022 |   |
-| `vanderpol's` | 15/06/2022 |   |
-| `Purvis Industries` | 14/06/2022 |   |
-| `Plainedge Public Schools` | 14/06/2022 |   |
-| `theallison.com` | 14/06/2022 |   |
-| `The University of Pisa` | 11/06/2022 |   |
-| `eivp-paris.fr` | 10/06/2022 |   |
-| `Alexandria. (LA)` | 02/06/2022 |   |
-| `Nelsonslaw LLP` | 02/06/2022 |   |
-| `AMS-Gruppe` | 01/06/2022 |   |
-| `CMC Electronics` | 31/05/2022 |   |
-| `GREEN MOUNTAIN ELECTRIC SUPPLY (gmes.com)` | 31/05/2022 |   |
-| `Klasner Solomon & Partners Chartered Professional Accountants` | 30/05/2022 |   |
-| `Whitehall. (OH)` | 30/05/2022 |   |
-| `Horwitz Law, Horwitz & Associates` | 27/05/2022 |   |
-| `Imagen Television` | 24/05/2022 |   |
-| `SYSOL` | 22/05/2022 |   |
-| `Boom Logistics (boomlogistics.com.au)` | 19/05/2022 |   |
-| `Tecnopack` | 18/05/2022 |   |
-| `M+A Partners` | 13/05/2022 |   |
-| `Campbell & Partners Consulting` | 11/05/2022 |   |
-| `The People's Federal Credit Union  tpfcu.com` | 11/05/2022 |   |
-| `BRITISH LINK KUWAIT` | 03/05/2022 |   |
-| `Sarasin & partners LLP` | 03/05/2022 |   |
-| `Davis Law Group, P.C.` | 01/05/2022 |   |
-| `Phoenix/Packaging Inc.` | 30/04/2022 |   |
-| `Municipio de Quito` | 30/04/2022 |   |
-| `Innotec, Corp.` | 30/04/2022 |   |
-| `www.innotecgroup.com` | 29/04/2022 |   |
-| `quito.gob.ec` | 28/04/2022 |   |
-| `PhoenixPackagingPA` | 27/04/2022 |   |
-| `Alliant Physical Therapy DATA` | 27/04/2022 |   |
-| `j-w-anderson.com` | 26/04/2022 |   |
-| `FRISA.com` | 26/04/2022 |   |
-| `innotecgroup.com` | 24/04/2022 |   |
-| `Calvetti Ferguson` | 22/04/2022 |   |
-| `Trace Midstream` | 20/04/2022 |   |
-| `secova.com  Secova Inc` | 19/04/2022 |   |
-| `Barakat Travel and Private Jet was Hacked` | 18/04/2022 |   |
-| `eNoah it solutions` | 15/04/2022 |   |
-| `bet9ja.com  goldbet.it` | 12/04/2022 |   |
-| `North Carolina A&T State University (www.ncat.edu)` | 12/04/2022 |   |
-| `DC ADVISORY` | 12/04/2022 |   |
-| `Florida International University (www.fiu.edu)` | 12/04/2022 |   |
-| `tgs.com.ar` | 12/04/2022 |   |
-| `wallyedgar.com  Wally Edgar Chevrolet` | 12/04/2022 |   |
-| `Dober` | 01/04/2022 |   |
-| `SSW Consulting` | 01/04/2022 |   |
-| `CASTGROUP.COM.BR` | 31/03/2022 |   |
-| `Rudsak Inc  rudsak.com` | 29/03/2022 |   |
-| `DC Solutions FR&Switzerland (dcsolution.ch)` | 28/03/2022 |   |
-| `Relationships Australia` | 25/03/2022 |   |
-| `VOYAGER DISTRIBUTING COMPANY PTY. LTD.` | 25/03/2022 |   |
-| `North View Escrow Corp` | 24/03/2022 |   |
-| `Davis Law Group, P.C. - dlgva.com` | 24/03/2022 |   |
-| `Bradsby Group  bradsbygroup.com` | 24/03/2022 |   |
-| `LW Group` | 24/03/2022 |   |
-| `KELLY,REMMEL&ZIMMERMAN first part` | 23/03/2022 |   |
-| `Maintainco Inc.  maintainco.com  starlift.com` | 23/03/2022 |   |
-| `inibsa.com  inibsadental.com  inibsa.net 2TB FULL DATA` | 23/03/2022 |   |
-| `BERITASATUMEDIA.COM` | 21/03/2022 |   |
-| `Abrams & Bayliss LLP` | 21/03/2022 |   |
-| `HAVI Logistic  havilog.com  PART 1` | 21/03/2022 |   |
-| `unapen.internal` | 18/03/2022 |   |
-| `vri.maniberia.net` | 18/03/2022 |   |
-| `Noble Oil  nobleoil.com` | 18/03/2022 |   |
-| `M.T.B.` | 17/03/2022 |   |
-| `Bullfrog International  bullfrogspas.com` | 16/03/2022 |   |
-| `Monteleone & McCrory LLP` | 14/03/2022 |   |
-| `inibsa.net` | 14/03/2022 |   |
-| `inibsa.com  inibsadental.com  inibsa.net` | 12/03/2022 |   |
-| `Carpenter & Zuckerman  cz.law` | 08/03/2022 |   |
-| `BAUCENTER      ujhazbudapest.hu` | 07/03/2022 |   |
-| `Assimoco Group  assimoco.it` | 05/03/2022 |   |
-| `Waller Lansden Dortch & Davis, LLP` | 01/03/2022 |   |
-| `Long Fence  Fence Company Since 1945  longfence.com` | 28/02/2022 |   |
-| `MADRID CALLE 30 SA ( https://www.mc30.es/ )` | 26/02/2022 |   |
-| `GEMS Education  gemseducation.com` | 25/02/2022 |   |
-| `GEMS Education` | 25/02/2022 |   |
-| `JinkoSolar.com (NYSE: JKS)` | 25/02/2022 |   |
-| `Phyllis Browning Company  phyllisbrowning.com` | 23/02/2022 |   |
-| `www.pccua.edu` | 19/02/2022 |   |
-| `threesixtysourcing.com` | 18/02/2022 |   |
-| `Miroballi Durkin & Rudin - mdr-law.com` | 18/02/2022 |   |
-| `yipintsoi.com` | 18/02/2022 |   |
-| `Doherty Cella Keane  dcklaw.com` | 18/02/2022 |   |
-| `Southwark Metal Manufacturing Co.     southwarkmetal.com` | 16/02/2022 |   |
-| `HyLife` | 16/02/2022 |   |
-| `Swissport` | 15/02/2022 |   |
-| `ecostampa.it` | 14/02/2022 |   |
-| `Medical Staff  medicalstaff.com.au` | 13/02/2022 |   |
-| `Scherr Legate  scherrlegate.com` | 13/02/2022 |   |
-| `NorthEast Coverages  northeastcoverages.com` | 13/02/2022 |   |
-| `Quantel Medical  quantel-medical.com` | 13/02/2022 |   |
-| `bishopeye.com` | 08/02/2022 |   |
-| `chemtech.net` | 08/02/2022 |   |
-| `maketherightcall.com hk-callcentre` | 06/02/2022 |   |
-| `Albany Bank and Trust Company - albanybank.com` | 05/02/2022 |   |
-| `Royal Laser` | 04/02/2022 |   |
-| `mainland.com.hk` | 04/02/2022 |   |
-| `CGT S.p.A. - cgt.it` | 02/02/2022 |   |
-| `themisautomation.com` | 29/01/2022 |   |
-| `ipec.ro` | 23/01/2022 |   |
-| `Brookson Group  brooksonone.co.uk` | 18/01/2022 |   |
-| `Moncler` | 17/01/2022 |   |
-| `Redbadge` | 16/01/2022 |   |
-| `Detroit Stoker` | 09/01/2022 |   |
-| `Ballester Hermanos  ballesterhermanos.com` | 07/01/2022 |   |
-| `The Grand Bahama Port Authority` | 07/01/2022 |   |
-| `D.F. Chase  dfchase.com` | 06/01/2022 |   |
-| `FrenchGourmet` | 06/01/2022 |   |
-| `CED Group` | 01/01/2022 |   |
-| `NanoFocus - nanofocus.com` | 01/01/2022 |   |
-| `Centaris.com` | 30/12/2021 |   |
-| `New City Commercial Corporation (NCCC)` | 30/12/2021 |   |
-| `van Eupen Logistik - vaneupen.com` | 30/12/2021 |   |
-| `Buffers USA  buffersusa.com` | 30/12/2021 |   |
-| `Hunter Douglas  hunterdouglas.com.au` | 30/12/2021 |   |
-| `Douglas Shaw & Associates  douglasshaw.com` | 30/12/2021 |   |
-| `Solaris Management Consultants  solaris-mci.com` | 30/12/2021 |   |
-| `Unified Technologies  unified-team.com` | 30/12/2021 |   |
-| `Uriach - www.uriach.com` | 30/12/2021 |   |
-| `SNOP GROUP` | 30/12/2021 |   |
-| `Strataworldwide.com` | 18/12/2021 |   |
-| `RCMS` | 18/12/2021 |   |
-| `SVA Jean Rozé - sva-jeanroze.fr` | 09/09/2021 |   |
+| [`dothousehealth.org`](https://google.com/search?q=dothousehealth.org) | 10/12/2022 |   |
+| [`Aeroproductsco`](https://google.com/search?q=Aeroproductsco) | 10/12/2022 |   |
+| [`Warren County Community College`](https://google.com/search?q=Warren+County+Community+College) | 09/12/2022 |   |
+| [`Requena`](https://google.com/search?q=Requena) | 07/12/2022 |   |
+| [`Elias Motsoaledi Local Municiapality`](https://google.com/search?q=Elias+Motsoaledi+Local+Municiapality) | 06/12/2022 |   |
+| [`Novak Law Offices`](https://google.com/search?q=Novak+Law+Offices) | 06/12/2022 |   |
+| [`NCI CABLING INC`](https://google.com/search?q=NCI+CABLING+INC) | 06/12/2022 |   |
+| [`LJ Hooker Palm Beach`](https://google.com/search?q=LJ+Hooker+Palm+Beach) | 05/12/2022 |   |
+| [`Grupo NGN`](https://google.com/search?q=Grupo+NGN) | 05/12/2022 |   |
+| [`moruga it`](https://google.com/search?q=moruga+it) | 05/12/2022 |   |
+| [`Philippine Economic Zone Authority (PEZA) peza.gov.ph`](https://google.com/search?q=Philippine+Economic+Zone+Authority+%28PEZA%29+peza.gov.ph) | 04/12/2022 |   |
+| [`Cappagh Contractors Construction (London) Ltd`](https://google.com/search?q=Cappagh+Contractors+Construction+%28London%29+Ltd) | 04/12/2022 |   |
+| [`ENPPI - HACKED AND MORE THEN 1100 GB DATA LEAKED!`](https://google.com/search?q=ENPPI+-+HACKED+AND+MORE+THEN+1100+GB+DATA+LEAKED%21) | 01/12/2022 |   |
+| [`Jubilant`](https://google.com/search?q=Jubilant) | 01/12/2022 |   |
+| [`Shenzhen INVT Electric Co.,Ltd`](https://google.com/search?q=Shenzhen+INVT+Electric+Co.%2CLtd) | 01/12/2022 |   |
+| [`pro office Büro + Wohnkultur GmbH`](https://google.com/search?q=pro+office+B%C3%BCro+%2B+Wohnkultur+GmbH) | 01/12/2022 |   |
+| [`Vision Technologies`](https://google.com/search?q=Vision+Technologies) | 29/11/2022 |   |
+| [`Stibbs & Co`](https://google.com/search?q=Stibbs+%26+Co) | 29/11/2022 |   |
+| [`Ta Chen Stainless Pipe Co., Ltd`](https://google.com/search?q=Ta+Chen+Stainless+Pipe+Co.%2C+Ltd) | 24/11/2022 |   |
+| [`Nok Air`](https://google.com/search?q=Nok+Air) | 21/11/2022 |   |
+| [`KlamoyaCasino`](https://google.com/search?q=KlamoyaCasino) | 18/11/2022 |   |
+| [`Giambalvo, Stalzer & Co.`](https://google.com/search?q=Giambalvo%2C+Stalzer+%26+Co.) | 17/11/2022 |   |
+| [`CENTRAL BANK OF GAMBIA HACKED. 2 TB OF CRITICAL DATA WAS STOLEN.`](https://google.com/search?q=CENTRAL+BANK+OF+GAMBIA+HACKED.+2+TB+OF+CRITICAL+DATA+WAS+STOLEN.) | 14/11/2022 |   |
+| [`nobilityrcm.com / altapartnersllc.com  /  MFAST.com / MSBS.biz sym / elitemedicalbill.com`](https://google.com/search?q=nobilityrcm.com+%2F+altapartnersllc.com++%2F++MFAST.com+%2F+MSBS.biz+sym+%2F+elitemedicalbill.com) | 12/11/2022 |   |
+| [`Motional.com`](https://google.com/search?q=Motional.com) | 11/11/2022 |   |
+| [`J & D Pierce Contracts Ltd`](https://google.com/search?q=J+%26+D+Pierce+Contracts+Ltd) | 11/11/2022 |   |
+| [`CONFORAMA - HACKED AND MORE THEN 1TB DATA LEAKED!`](https://google.com/search?q=CONFORAMA+-+HACKED+AND+MORE+THEN+1TB+DATA+LEAKED%21) | 10/11/2022 |   |
+| [`Motional`](https://google.com/search?q=Motional) | 08/11/2022 |   |
+| [`Bosselman Energy Inc`](https://google.com/search?q=Bosselman+Energy+Inc) | 07/11/2022 |   |
+| [`HUSSEY GAY BELL`](https://google.com/search?q=HUSSEY+GAY+BELL) | 06/11/2022 |   |
+| [`Network Communications Inc`](https://google.com/search?q=Network+Communications+Inc) | 30/10/2022 |   |
+| [`Kolas Law Firm`](https://google.com/search?q=Kolas+Law+Firm) | 29/10/2022 |   |
+| [`Rankam China Manufacturing`](https://google.com/search?q=Rankam+China+Manufacturing) | 29/10/2022 |   |
+| [`Mdaemon Technologies`](https://google.com/search?q=Mdaemon+Technologies) | 28/10/2022 |   |
+| [`unipiloto.edu.co`](https://google.com/search?q=unipiloto.edu.co) | 28/10/2022 |   |
+| [`Comando Conjunto de las Fuerzas Armadas Del Ecuador`](https://google.com/search?q=Comando+Conjunto+de+las+Fuerzas+Armadas+Del+Ecuador) | 27/10/2022 |   |
+| [`KEMET`](https://google.com/search?q=KEMET) | 23/10/2022 |   |
+| [`Egyptian Electric Cooperative Association`](https://google.com/search?q=Egyptian+Electric+Cooperative+Association) | 23/10/2022 |   |
+| [`rjyoung.com`](https://google.com/search?q=rjyoung.com) | 23/10/2022 |   |
+| [`mdaemon technologies`](https://google.com/search?q=mdaemon+technologies) | 23/10/2022 |   |
+| [`The Hibbert Group`](https://google.com/search?q=The+Hibbert+Group) | 17/10/2022 |   |
+| [`Döhler HACKED! More then 800 GB sensitive data LEAKED!`](https://google.com/search?q=D%C3%B6hler+HACKED%21+More+then+800+GB+sensitive+data+LEAKED%21) | 17/10/2022 |   |
+| [`Jam Filled Entertainment`](https://google.com/search?q=Jam+Filled+Entertainment) | 17/10/2022 |   |
+| [`RecordTV`](https://google.com/search?q=RecordTV) | 17/10/2022 |   |
+| [`Home Dynamix`](https://google.com/search?q=Home+Dynamix) | 08/10/2022 |   |
+| [`Deutsche Saatveredelung AG`](https://google.com/search?q=Deutsche+Saatveredelung+AG) | 08/10/2022 |   |
+| [`Notos Com`](https://google.com/search?q=Notos+Com) | 08/10/2022 |   |
+| [`NJVC [ post has been updated ]`](https://google.com/search?q=NJVC+%5B+post+has+been+updated+%5D) | 07/10/2022 |   |
+| [`Midwest Petroleum`](https://google.com/search?q=Midwest+Petroleum) | 07/10/2022 |   |
+| [`Simex Defence Inc`](https://google.com/search?q=Simex+Defence+Inc) | 07/10/2022 |   |
+| [`Clarion Communication Management Ltd`](https://google.com/search?q=Clarion+Communication+Management+Ltd) | 07/10/2022 |   |
+| [`Knoll`](https://google.com/search?q=Knoll) | 07/10/2022 |   |
+| [`Pinnacle Incorporated`](https://google.com/search?q=Pinnacle+Incorporated) | 07/10/2022 |   |
+| [`( POST HAS BEEN UPDATED 800GB LEAK AVAILABLE N) County Suffolk and contractors`](https://google.com/search?q=%28+POST+HAS+BEEN+UPDATED+800GB+LEAK+AVAILABLE+N%29+County+Suffolk+and+contractors) | 26/09/2022 |   |
+| [`SolarCraft`](https://google.com/search?q=SolarCraft) | 26/09/2022 |   |
+| [`Longhorn Investments`](https://google.com/search?q=Longhorn+Investments) | 23/09/2022 |   |
+| [`Boyes Turner LLP`](https://google.com/search?q=Boyes+Turner+LLP) | 23/09/2022 |   |
+| [`CARITAS`](https://google.com/search?q=CARITAS) | 19/09/2022 |   |
+| [`trisupplyhome.com`](https://google.com/search?q=trisupplyhome.com) | 17/09/2022 |   |
+| [`County Suffolk and contractors`](https://google.com/search?q=County+Suffolk+and+contractors) | 15/09/2022 |   |
+| [`Triten`](https://google.com/search?q=Triten) | 14/09/2022 |   |
+| [`HAYAT GROUP`](https://google.com/search?q=HAYAT+GROUP) | 14/09/2022 |   |
+| [`Tri-Supply`](https://google.com/search?q=Tri-Supply) | 14/09/2022 |   |
+| [`GHT CORP`](https://google.com/search?q=GHT+CORP) | 14/09/2022 |   |
+| [`Fiveninefive`](https://google.com/search?q=Fiveninefive) | 14/09/2022 |   |
+| [`PCSupport`](https://google.com/search?q=PCSupport) | 14/09/2022 |   |
+| [`Hayat`](https://google.com/search?q=Hayat) | 14/09/2022 |   |
+| [`The Checker Transportation Group`](https://google.com/search?q=The+Checker+Transportation+Group) | 14/09/2022 |   |
+| [`Justman Packaging & Display Information`](https://google.com/search?q=Justman+Packaging+%26+Display+Information) | 29/08/2022 |   |
+| [`Laferté`](https://google.com/search?q=Lafert%C3%A9) | 29/08/2022 |   |
+| [`Josef Saller Services e.K. - Saller Bau`](https://google.com/search?q=Josef+Saller+Services+e.K.+-+Saller+Bau) | 29/08/2022 |   |
+| [`Accelya`](https://google.com/search?q=Accelya) | 17/08/2022 |   |
+| [`Fast Pace Health`](https://google.com/search?q=Fast+Pace+Health) | 13/08/2022 |   |
+| [`Artic Building Services`](https://google.com/search?q=Artic+Building+Services) | 08/08/2022 |   |
+| [`AD Consulting Group`](https://google.com/search?q=AD+Consulting+Group) | 04/08/2022 |   |
+| [`AIIM`](https://google.com/search?q=AIIM) | 03/08/2022 |   |
+| [`MarioSinacola`](https://google.com/search?q=MarioSinacola) | 02/08/2022 |   |
+| [`Creos Luxembourg`](https://google.com/search?q=Creos+Luxembourg) | 29/07/2022 |   |
+| [`herc.com.br`](https://google.com/search?q=herc.com.br) | 28/07/2022 |   |
+| [`tnq.co.in`](https://google.com/search?q=tnq.co.in) | 28/07/2022 |   |
+| [`JOHN A. BODZIAK ARCHITECT AIA`](https://google.com/search?q=JOHN+A.+BODZIAK+ARCHITECT+AIA) | 28/07/2022 |   |
+| [`SRM Technologies`](https://google.com/search?q=SRM+Technologies) | 24/07/2022 |   |
+| [`KKJM Lawfirm`](https://google.com/search?q=KKJM+Lawfirm) | 23/07/2022 |   |
+| [`Hometrust Mortgage Company`](https://google.com/search?q=Hometrust+Mortgage+Company) | 23/07/2022 |   |
+| [`HANDLER Bau GmbH`](https://google.com/search?q=HANDLER+Bau+GmbH) | 21/07/2022 |   |
+| [`Duda Farm Fresh Foods  A. Duda & Sons , Inc.  Duda  A. Duda & Sons  Duda Farm Fresh Foods `](https://google.com/search?q=Duda+Farm+Fresh+Foods++A.+Duda+%26+Sons+%2C+Inc.++Duda++A.+Duda+%26+Sons++Duda+Farm+Fresh+Foods+) | 14/07/2022 |   |
+| [`Unisuper S.A.`](https://google.com/search?q=Unisuper+S.A.) | 14/07/2022 |   |
+| [`duda.com`](https://google.com/search?q=duda.com) | 13/07/2022 |   |
+| [`Podhurst Orseck`](https://google.com/search?q=Podhurst+Orseck) | 12/07/2022 |   |
+| [`The Royal Commission for Riyadh City (RCRC)`](https://google.com/search?q=The+Royal+Commission+for+Riyadh+City+%28RCRC%29) | 11/07/2022 |   |
+| [`Bandai Namco`](https://google.com/search?q=Bandai+Namco) | 11/07/2022 |   |
+| [`Hydraelectric`](https://google.com/search?q=Hydraelectric) | 11/07/2022 |   |
+| [`Dusit D2 Kenz Hotel Dubai`](https://google.com/search?q=Dusit+D2+Kenz+Hotel+Dubai) | 06/07/2022 |   |
+| [`adlerdisplay.com  Adler Display`](https://google.com/search?q=adlerdisplay.com+%7C+Adler+Display) | 06/07/2022 |   |
+| [`Sinclair Wilson`](https://google.com/search?q=Sinclair+Wilson) | 06/07/2022 |   |
+| [`Holland CPA`](https://google.com/search?q=Holland+CPA) | 04/07/2022 |   |
+| [`HANSA KONTAKT`](https://google.com/search?q=HANSA+KONTAKT) | 01/07/2022 |   |
+| [`Continental Management`](https://google.com/search?q=Continental+Management) | 01/07/2022 |   |
+| [`nutis.com`](https://google.com/search?q=nutis.com) | 23/06/2022 |   |
+| [`COUNT+CARE  ENTEGA.DE`](https://google.com/search?q=COUNT%2BCARE+%7C+ENTEGA.DE) | 22/06/2022 |   |
+| [`Reed Pope Law`](https://google.com/search?q=Reed+Pope+Law) | 22/06/2022 |   |
+| [`Matco Electric`](https://google.com/search?q=Matco+Electric) | 22/06/2022 |   |
+| [`vanderpol's`](https://google.com/search?q=vanderpol%27s) | 15/06/2022 |   |
+| [`Purvis Industries`](https://google.com/search?q=Purvis+Industries) | 14/06/2022 |   |
+| [`Plainedge Public Schools`](https://google.com/search?q=Plainedge+Public+Schools) | 14/06/2022 |   |
+| [`theallison.com`](https://google.com/search?q=theallison.com) | 14/06/2022 |   |
+| [`The University of Pisa`](https://google.com/search?q=The+University+of+Pisa) | 11/06/2022 |   |
+| [`eivp-paris.fr`](https://google.com/search?q=eivp-paris.fr) | 10/06/2022 |   |
+| [`Alexandria. (LA)`](https://google.com/search?q=Alexandria.+%28LA%29) | 02/06/2022 |   |
+| [`Nelsonslaw LLP`](https://google.com/search?q=Nelsonslaw+LLP) | 02/06/2022 |   |
+| [`AMS-Gruppe`](https://google.com/search?q=AMS-Gruppe) | 01/06/2022 |   |
+| [`CMC Electronics`](https://google.com/search?q=CMC+Electronics) | 31/05/2022 |   |
+| [`GREEN MOUNTAIN ELECTRIC SUPPLY (gmes.com)`](https://google.com/search?q=GREEN+MOUNTAIN+ELECTRIC+SUPPLY+%28gmes.com%29) | 31/05/2022 |   |
+| [`Klasner Solomon & Partners Chartered Professional Accountants`](https://google.com/search?q=Klasner+Solomon+%26+Partners+Chartered+Professional+Accountants) | 30/05/2022 |   |
+| [`Whitehall. (OH)`](https://google.com/search?q=Whitehall.+%28OH%29) | 30/05/2022 |   |
+| [`Horwitz Law, Horwitz & Associates`](https://google.com/search?q=Horwitz+Law%2C+Horwitz+%26+Associates) | 27/05/2022 |   |
+| [`Imagen Television`](https://google.com/search?q=Imagen+Television) | 24/05/2022 |   |
+| [`SYSOL`](https://google.com/search?q=SYSOL) | 22/05/2022 |   |
+| [`Boom Logistics (boomlogistics.com.au)`](https://google.com/search?q=Boom+Logistics+%28boomlogistics.com.au%29) | 19/05/2022 |   |
+| [`Tecnopack`](https://google.com/search?q=Tecnopack) | 18/05/2022 |   |
+| [`M+A Partners`](https://google.com/search?q=M%2BA+Partners) | 13/05/2022 |   |
+| [`Campbell & Partners Consulting`](https://google.com/search?q=Campbell+%26+Partners+Consulting) | 11/05/2022 |   |
+| [`The People's Federal Credit Union  tpfcu.com`](https://google.com/search?q=The+People%27s+Federal+Credit+Union+%7C+tpfcu.com) | 11/05/2022 |   |
+| [`BRITISH LINK KUWAIT`](https://google.com/search?q=BRITISH+LINK+KUWAIT) | 03/05/2022 |   |
+| [`Sarasin & partners LLP`](https://google.com/search?q=Sarasin+%26+partners+LLP) | 03/05/2022 |   |
+| [`Davis Law Group, P.C.`](https://google.com/search?q=Davis+Law+Group%2C+P.C.) | 01/05/2022 |   |
+| [`Phoenix/Packaging Inc.`](https://google.com/search?q=Phoenix%2FPackaging+Inc.) | 30/04/2022 |   |
+| [`Municipio de Quito`](https://google.com/search?q=Municipio+de+Quito) | 30/04/2022 |   |
+| [`Innotec, Corp.`](https://google.com/search?q=Innotec%2C+Corp.) | 30/04/2022 |   |
+| [`www.innotecgroup.com`](https://google.com/search?q=www.innotecgroup.com) | 29/04/2022 |   |
+| [`quito.gob.ec`](https://google.com/search?q=quito.gob.ec) | 28/04/2022 |   |
+| [`PhoenixPackagingPA`](https://google.com/search?q=PhoenixPackagingPA) | 27/04/2022 |   |
+| [`Alliant Physical Therapy DATA`](https://google.com/search?q=Alliant+Physical+Therapy+DATA) | 27/04/2022 |   |
+| [`j-w-anderson.com`](https://google.com/search?q=j-w-anderson.com) | 26/04/2022 |   |
+| [`FRISA.com`](https://google.com/search?q=FRISA.com) | 26/04/2022 |   |
+| [`innotecgroup.com`](https://google.com/search?q=innotecgroup.com) | 24/04/2022 |   |
+| [`Calvetti Ferguson`](https://google.com/search?q=Calvetti+Ferguson) | 22/04/2022 |   |
+| [`Trace Midstream`](https://google.com/search?q=Trace+Midstream) | 20/04/2022 |   |
+| [`secova.com  Secova Inc`](https://google.com/search?q=secova.com+%7C+Secova+Inc) | 19/04/2022 |   |
+| [`Barakat Travel and Private Jet was Hacked`](https://google.com/search?q=Barakat+Travel+and+Private+Jet+was+Hacked) | 18/04/2022 |   |
+| [`eNoah it solutions`](https://google.com/search?q=eNoah+it+solutions) | 15/04/2022 |   |
+| [`bet9ja.com  goldbet.it`](https://google.com/search?q=bet9ja.com+%7C+goldbet.it) | 12/04/2022 |   |
+| [`North Carolina A&T State University (www.ncat.edu)`](https://google.com/search?q=North+Carolina+A%26T+State+University+%28www.ncat.edu%29) | 12/04/2022 |   |
+| [`DC ADVISORY`](https://google.com/search?q=DC+ADVISORY) | 12/04/2022 |   |
+| [`Florida International University (www.fiu.edu)`](https://google.com/search?q=Florida+International+University+%28www.fiu.edu%29) | 12/04/2022 |   |
+| [`tgs.com.ar`](https://google.com/search?q=tgs.com.ar) | 12/04/2022 |   |
+| [`wallyedgar.com  Wally Edgar Chevrolet`](https://google.com/search?q=wallyedgar.com+%7C+Wally+Edgar+Chevrolet) | 12/04/2022 |   |
+| [`Dober`](https://google.com/search?q=Dober) | 01/04/2022 |   |
+| [`SSW Consulting`](https://google.com/search?q=SSW+Consulting) | 01/04/2022 |   |
+| [`CASTGROUP.COM.BR`](https://google.com/search?q=CASTGROUP.COM.BR) | 31/03/2022 |   |
+| [`Rudsak Inc  rudsak.com`](https://google.com/search?q=Rudsak+Inc+%7C+rudsak.com) | 29/03/2022 |   |
+| [`DC Solutions FR&Switzerland (dcsolution.ch)`](https://google.com/search?q=DC+Solutions+FR%26Switzerland+%28dcsolution.ch%29) | 28/03/2022 |   |
+| [`Relationships Australia`](https://google.com/search?q=Relationships+Australia) | 25/03/2022 |   |
+| [`VOYAGER DISTRIBUTING COMPANY PTY. LTD.`](https://google.com/search?q=VOYAGER+DISTRIBUTING+COMPANY+PTY.+LTD.) | 25/03/2022 |   |
+| [`North View Escrow Corp`](https://google.com/search?q=North+View+Escrow+Corp) | 24/03/2022 |   |
+| [`Davis Law Group, P.C. - dlgva.com`](https://google.com/search?q=Davis+Law+Group%2C+P.C.+-+dlgva.com) | 24/03/2022 |   |
+| [`Bradsby Group  bradsbygroup.com`](https://google.com/search?q=Bradsby+Group+%7C+bradsbygroup.com) | 24/03/2022 |   |
+| [`LW Group`](https://google.com/search?q=LW+Group) | 24/03/2022 |   |
+| [`KELLY,REMMEL&ZIMMERMAN first part`](https://google.com/search?q=KELLY%2CREMMEL%26ZIMMERMAN+first+part) | 23/03/2022 |   |
+| [`Maintainco Inc.  maintainco.com  starlift.com`](https://google.com/search?q=Maintainco+Inc.+%7C+maintainco.com+%7C+starlift.com) | 23/03/2022 |   |
+| [`inibsa.com  inibsadental.com  inibsa.net 2TB FULL DATA`](https://google.com/search?q=inibsa.com+%7C+inibsadental.com+%7C+inibsa.net+2TB+FULL+DATA) | 23/03/2022 |   |
+| [`BERITASATUMEDIA.COM`](https://google.com/search?q=BERITASATUMEDIA.COM) | 21/03/2022 |   |
+| [`Abrams & Bayliss LLP`](https://google.com/search?q=Abrams+%26+Bayliss+LLP) | 21/03/2022 |   |
+| [`HAVI Logistic  havilog.com  PART 1`](https://google.com/search?q=HAVI+Logistic+%7C+havilog.com+%7C+PART+1) | 21/03/2022 |   |
+| [`unapen.internal`](https://google.com/search?q=unapen.internal) | 18/03/2022 |   |
+| [`vri.maniberia.net`](https://google.com/search?q=vri.maniberia.net) | 18/03/2022 |   |
+| [`Noble Oil  nobleoil.com`](https://google.com/search?q=Noble+Oil+%7C+nobleoil.com) | 18/03/2022 |   |
+| [`M.T.B.`](https://google.com/search?q=M.T.B.) | 17/03/2022 |   |
+| [`Bullfrog International  bullfrogspas.com`](https://google.com/search?q=Bullfrog+International+%7C+bullfrogspas.com) | 16/03/2022 |   |
+| [`Monteleone & McCrory LLP`](https://google.com/search?q=Monteleone+%26+McCrory+LLP) | 14/03/2022 |   |
+| [`inibsa.net`](https://google.com/search?q=inibsa.net) | 14/03/2022 |   |
+| [`inibsa.com  inibsadental.com  inibsa.net`](https://google.com/search?q=inibsa.com+%7C+inibsadental.com+%7C+inibsa.net) | 12/03/2022 |   |
+| [`Carpenter & Zuckerman  cz.law`](https://google.com/search?q=Carpenter+%26+Zuckerman+%7C+cz.law) | 08/03/2022 |   |
+| [`BAUCENTER      ujhazbudapest.hu`](https://google.com/search?q=BAUCENTER+++%7C+++ujhazbudapest.hu) | 07/03/2022 |   |
+| [`Assimoco Group  assimoco.it`](https://google.com/search?q=Assimoco+Group+%7C+assimoco.it) | 05/03/2022 |   |
+| [`Waller Lansden Dortch & Davis, LLP`](https://google.com/search?q=Waller+Lansden+Dortch+%26+Davis%2C+LLP) | 01/03/2022 |   |
+| [`Long Fence  Fence Company Since 1945  longfence.com`](https://google.com/search?q=Long+Fence+%7C+Fence+Company+Since+1945+%7C+longfence.com) | 28/02/2022 |   |
+| [`MADRID CALLE 30 SA ( https://www.mc30.es/ )`](https://google.com/search?q=MADRID+CALLE+30+SA+%28+https%3A%2F%2Fwww.mc30.es%2F+%29) | 26/02/2022 |   |
+| [`GEMS Education  gemseducation.com`](https://google.com/search?q=GEMS+Education+%7C+gemseducation.com) | 25/02/2022 |   |
+| [`GEMS Education`](https://google.com/search?q=GEMS+Education) | 25/02/2022 |   |
+| [`JinkoSolar.com (NYSE: JKS)`](https://google.com/search?q=JinkoSolar.com+%28NYSE%3A+JKS%29) | 25/02/2022 |   |
+| [`Phyllis Browning Company  phyllisbrowning.com`](https://google.com/search?q=Phyllis+Browning+Company+%7C+phyllisbrowning.com) | 23/02/2022 |   |
+| [`www.pccua.edu`](https://google.com/search?q=www.pccua.edu) | 19/02/2022 |   |
+| [`threesixtysourcing.com`](https://google.com/search?q=threesixtysourcing.com) | 18/02/2022 |   |
+| [`Miroballi Durkin & Rudin - mdr-law.com`](https://google.com/search?q=Miroballi+Durkin+%26+Rudin+-+mdr-law.com) | 18/02/2022 |   |
+| [`yipintsoi.com`](https://google.com/search?q=yipintsoi.com) | 18/02/2022 |   |
+| [`Doherty Cella Keane  dcklaw.com`](https://google.com/search?q=Doherty+Cella+Keane+%7C+dcklaw.com) | 18/02/2022 |   |
+| [`Southwark Metal Manufacturing Co.     southwarkmetal.com`](https://google.com/search?q=Southwark+Metal+Manufacturing+Co.++%7C+++southwarkmetal.com) | 16/02/2022 |   |
+| [`HyLife`](https://google.com/search?q=HyLife) | 16/02/2022 |   |
+| [`Swissport`](https://google.com/search?q=Swissport) | 15/02/2022 |   |
+| [`ecostampa.it`](https://google.com/search?q=ecostampa.it) | 14/02/2022 |   |
+| [`Medical Staff  medicalstaff.com.au`](https://google.com/search?q=Medical+Staff+%7C+medicalstaff.com.au) | 13/02/2022 |   |
+| [`Scherr Legate  scherrlegate.com`](https://google.com/search?q=Scherr+Legate+%7C+scherrlegate.com) | 13/02/2022 |   |
+| [`NorthEast Coverages  northeastcoverages.com`](https://google.com/search?q=NorthEast+Coverages+%7C+northeastcoverages.com) | 13/02/2022 |   |
+| [`Quantel Medical  quantel-medical.com`](https://google.com/search?q=Quantel+Medical+%7C+quantel-medical.com) | 13/02/2022 |   |
+| [`bishopeye.com`](https://google.com/search?q=bishopeye.com) | 08/02/2022 |   |
+| [`chemtech.net`](https://google.com/search?q=chemtech.net) | 08/02/2022 |   |
+| [`maketherightcall.com hk-callcentre`](https://google.com/search?q=maketherightcall.com+hk-callcentre) | 06/02/2022 |   |
+| [`Albany Bank and Trust Company - albanybank.com`](https://google.com/search?q=Albany+Bank+and+Trust+Company+-+albanybank.com) | 05/02/2022 |   |
+| [`Royal Laser`](https://google.com/search?q=Royal+Laser) | 04/02/2022 |   |
+| [`mainland.com.hk`](https://google.com/search?q=mainland.com.hk) | 04/02/2022 |   |
+| [`CGT S.p.A. - cgt.it`](https://google.com/search?q=CGT+S.p.A.+-+cgt.it) | 02/02/2022 |   |
+| [`themisautomation.com`](https://google.com/search?q=themisautomation.com) | 29/01/2022 |   |
+| [`ipec.ro`](https://google.com/search?q=ipec.ro) | 23/01/2022 |   |
+| [`Brookson Group  brooksonone.co.uk`](https://google.com/search?q=Brookson+Group+%7C+brooksonone.co.uk) | 18/01/2022 |   |
+| [`Moncler`](https://google.com/search?q=Moncler) | 17/01/2022 |   |
+| [`Redbadge`](https://google.com/search?q=Redbadge) | 16/01/2022 |   |
+| [`Detroit Stoker`](https://google.com/search?q=Detroit+Stoker) | 09/01/2022 |   |
+| [`Ballester Hermanos  ballesterhermanos.com`](https://google.com/search?q=Ballester+Hermanos+%7C+ballesterhermanos.com) | 07/01/2022 |   |
+| [`The Grand Bahama Port Authority`](https://google.com/search?q=The+Grand+Bahama+Port+Authority) | 07/01/2022 |   |
+| [`D.F. Chase  dfchase.com`](https://google.com/search?q=D.F.+Chase+%7C+dfchase.com) | 06/01/2022 |   |
+| [`FrenchGourmet`](https://google.com/search?q=FrenchGourmet) | 06/01/2022 |   |
+| [`CED Group`](https://google.com/search?q=CED+Group) | 01/01/2022 |   |
+| [`NanoFocus - nanofocus.com`](https://google.com/search?q=NanoFocus+-+nanofocus.com) | 01/01/2022 |   |
+| [`Centaris.com`](https://google.com/search?q=Centaris.com) | 30/12/2021 |   |
+| [`New City Commercial Corporation (NCCC)`](https://google.com/search?q=New+City+Commercial+Corporation+%28NCCC%29) | 30/12/2021 |   |
+| [`van Eupen Logistik - vaneupen.com`](https://google.com/search?q=van+Eupen+Logistik+-+vaneupen.com) | 30/12/2021 |   |
+| [`Buffers USA  buffersusa.com`](https://google.com/search?q=Buffers+USA+%7C+buffersusa.com) | 30/12/2021 |   |
+| [`Hunter Douglas  hunterdouglas.com.au`](https://google.com/search?q=Hunter+Douglas+%7C+hunterdouglas.com.au) | 30/12/2021 |   |
+| [`Douglas Shaw & Associates  douglasshaw.com`](https://google.com/search?q=Douglas+Shaw+%26+Associates+%7C+douglasshaw.com) | 30/12/2021 |   |
+| [`Solaris Management Consultants  solaris-mci.com`](https://google.com/search?q=Solaris+Management+Consultants+%7C+solaris-mci.com) | 30/12/2021 |   |
+| [`Unified Technologies  unified-team.com`](https://google.com/search?q=Unified+Technologies+%7C+unified-team.com) | 30/12/2021 |   |
+| [`Uriach - www.uriach.com`](https://google.com/search?q=Uriach+-+www.uriach.com) | 30/12/2021 |   |
+| [`SNOP GROUP`](https://google.com/search?q=SNOP+GROUP) | 30/12/2021 |   |
+| [`Strataworldwide.com`](https://google.com/search?q=Strataworldwide.com) | 18/12/2021 |   |
+| [`RCMS`](https://google.com/search?q=RCMS) | 18/12/2021 |   |
+| [`SVA Jean Rozé - sva-jeanroze.fr`](https://google.com/search?q=SVA+Jean+Roz%C3%A9+-+sva-jeanroze.fr) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -461,26 +461,26 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| `Al Bijjar` | 21/04/2022 |   |
-| `AM International` | 20/04/2022 |   |
-| `stormous` | 20/03/2022 |   |
-| `bedfordshire.police.uk` | 12/03/2022 |   |
-| `afcx.co` | 28/11/2021 |   |
-| `vidisha.kvs.ac.in` | 24/10/2021 |   |
-| `Revil` | 22/10/2021 |   |
-| `Bureau van Dijk(bvdinfo.com)` | 20/09/2021 |   |
-| `Compilation of Many Breaches (COMB)` | 10/09/2021 |   |
-| `USA 280M` | 09/09/2021 |   |
-| `CardPayPortal` | 09/09/2021 |   |
-| `33M Bank Mellat – Iran` | 09/09/2021 |   |
-| `Etoudplus.ir` | 09/09/2021 |   |
-| `Beh Pardakht Mellat Cards` | 09/09/2021 |   |
-| `RockYou2021` | 09/09/2021 |   |
-| `UtAir` | 09/09/2021 |   |
-| `Leiden University Hacked` | 09/09/2021 |   |
-| `For Press` | 09/09/2021 |   |
-| `T-Mobile` | 09/09/2021 |   |
-| `elitemate.com` | 09/09/2021 |   |
+| [`Al Bijjar`](https://google.com/search?q=Al+Bijjar) | 21/04/2022 |   |
+| [`AM International`](https://google.com/search?q=AM+International) | 20/04/2022 |   |
+| [`stormous`](https://google.com/search?q=stormous) | 20/03/2022 |   |
+| [`bedfordshire.police.uk`](https://google.com/search?q=bedfordshire.police.uk) | 12/03/2022 |   |
+| [`afcx.co`](https://google.com/search?q=afcx.co) | 28/11/2021 |   |
+| [`vidisha.kvs.ac.in`](https://google.com/search?q=vidisha.kvs.ac.in) | 24/10/2021 |   |
+| [`Revil`](https://google.com/search?q=Revil) | 22/10/2021 |   |
+| [`Bureau van Dijk(bvdinfo.com)`](https://google.com/search?q=Bureau+van+Dijk%28bvdinfo.com%29) | 20/09/2021 |   |
+| [`Compilation of Many Breaches (COMB)`](https://google.com/search?q=Compilation+of+Many+Breaches+%28COMB%29) | 10/09/2021 |   |
+| [`USA 280M`](https://google.com/search?q=USA+280M) | 09/09/2021 |   |
+| [`CardPayPortal`](https://google.com/search?q=CardPayPortal) | 09/09/2021 |   |
+| [`33M Bank Mellat – Iran`](https://google.com/search?q=33M+Bank+Mellat+%E2%80%93+Iran) | 09/09/2021 |   |
+| [`Etoudplus.ir`](https://google.com/search?q=Etoudplus.ir) | 09/09/2021 |   |
+| [`Beh Pardakht Mellat Cards`](https://google.com/search?q=Beh+Pardakht+Mellat+Cards) | 09/09/2021 |   |
+| [`RockYou2021`](https://google.com/search?q=RockYou2021) | 09/09/2021 |   |
+| [`UtAir`](https://google.com/search?q=UtAir) | 09/09/2021 |   |
+| [`Leiden University Hacked`](https://google.com/search?q=Leiden+University+Hacked) | 09/09/2021 |   |
+| [`For Press`](https://google.com/search?q=For+Press) | 09/09/2021 |   |
+| [`T-Mobile`](https://google.com/search?q=T-Mobile) | 09/09/2021 |   |
+| [`elitemate.com`](https://google.com/search?q=elitemate.com) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -513,10 +513,10 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| `Tegravendas` | 21/12/2021 |   |
-| `Eisai Co., Ltd.` | 21/12/2021 |   |
-| `LIGHT CONVERSION` | 21/12/2021 |   |
-| `CristÃ¡lia - IndÃºstria FarmacÃªutica` | 21/12/2021 |   |
+| [`Tegravendas`](https://google.com/search?q=Tegravendas) | 21/12/2021 |   |
+| [`Eisai Co., Ltd.`](https://google.com/search?q=Eisai+Co.%2C+Ltd.) | 21/12/2021 |   |
+| [`LIGHT CONVERSION`](https://google.com/search?q=LIGHT+CONVERSION) | 21/12/2021 |   |
+| [`CristÃ¡lia - IndÃºstria FarmacÃªutica`](https://google.com/search?q=Crist%C3%83%C2%A1lia+-+Ind%C3%83%C2%BAstria+Farmac%C3%83%C2%AAutica) | 21/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -547,148 +547,148 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| `EFCO forms` | 09/09/2021 |   |
-| `Sky Leasing, LLC` | 09/09/2021 |   |
-| `Golden Aluminum` | 09/09/2021 |   |
-| `J.C. Cannistraro` | 09/09/2021 |   |
-| `Lonrho` | 09/09/2021 |   |
-| `American Bank Systems INC` | 09/09/2021 |   |
-| `Brown Robert LLP` | 09/09/2021 |   |
-| `National AIDS Control Council` | 09/09/2021 |   |
-| `Monterey Bay Air Resources District` | 09/09/2021 |   |
-| `Dade City Florida` | 09/09/2021 |   |
-| `KOE` | 09/09/2021 |   |
-| `AHT Global` | 09/09/2021 |   |
-| `Garvin Promotion Group, LLC` | 09/09/2021 |   |
-| `NetVigour Inc` | 09/09/2021 |   |
-| `Intensive Care On-Line Network , Inc` | 09/09/2021 |   |
-| `Payzant Building Products Ltd` | 09/09/2021 |   |
-| `International Longshore & Warehouse Union` | 09/09/2021 |   |
-| `Marolles-en-Brie` | 09/09/2021 |   |
-| `Finalyse` | 09/09/2021 |   |
-| `BIOREP TECHNOLOGIES, INC.` | 09/09/2021 |   |
-| `MK-Technik` | 09/09/2021 |   |
-| `Allanasons  Ltd` | 09/09/2021 |   |
-| `American Heart of Poland Inc` | 09/09/2021 |   |
-| `PT Asuransi Bintang Tbk` | 09/09/2021 |   |
-| `VAUGHN CONCRETE PRODUCTS, INC` | 09/09/2021 |   |
-| `Groupe Qualinet Inc.` | 09/09/2021 |   |
-| `Somerset ISD` | 09/09/2021 |   |
-| `FBL Advogados` | 09/09/2021 |   |
-| `Hardy Buoys Smoked Fish Inc.` | 09/09/2021 |   |
-| `KEITH MACHINERY CORP.` | 09/09/2021 |   |
-| `BEE LINE LOGISTICS, INC` | 09/09/2021 |   |
-| `Elite Software Inc` | 09/09/2021 |   |
-| `MundoFertil` | 09/09/2021 |   |
-| `SVI ASSURANCES` | 09/09/2021 |   |
-| `UNIVERSAL ACCOUNTING SERVICES INC` | 09/09/2021 |   |
-| `The Capital Medical Center` | 09/09/2021 |   |
-| `Mullins Food Products Inc` | 09/09/2021 |   |
-| `JFC International (Europe)` | 09/09/2021 |   |
-| `Carnegie Wave Energy` | 09/09/2021 |   |
-| `Grand Power Systems` | 09/09/2021 |   |
-| `VERIHA TRUCKING INC` | 09/09/2021 |   |
-| `Party Rental LTD` | 09/09/2021 |   |
-| `Prefeitura Municipal de Saquarema` | 09/09/2021 |   |
-| `CELL Foods Inc.` | 09/09/2021 |   |
-| `CASHMAG` | 09/09/2021 |   |
-| `Doré Law Group P.C` | 09/09/2021 |   |
-| `Omni Manufacturing, Inc.` | 09/09/2021 |   |
-| `FUTURIMPLANTS` | 09/09/2021 |   |
-| `ANLEC R&D` | 09/09/2021 |   |
-| `La compagnie du SAV` | 09/09/2021 |   |
-| `SISCONT` | 09/09/2021 |   |
-| `AlohaABA` | 09/09/2021 |   |
-| `Zhuhai Languan Electronic Technology Co., Ltd` | 09/09/2021 |   |
-| `Schneider & Branch` | 09/09/2021 |   |
-| `Mikro Trading` | 09/09/2021 |   |
-| `Basque Center for Applied Mathematics-BCAM` | 09/09/2021 |   |
-| `Targetcom` | 09/09/2021 |   |
-| `Steel Art Signs Corp.` | 09/09/2021 |   |
-| `BRIDGEWAY SENIOR HEALTHCARE` | 09/09/2021 |   |
-| `SOVRIN PLASTICS LIMITED` | 09/09/2021 |   |
-| `Millwright Regional Council of Ontario` | 09/09/2021 |   |
-| `Gorzynski` | 09/09/2021 |   |
-| `ALIZON` | 09/09/2021 |   |
-| `CERINNOV, UNIPESSOAL, LDA` | 09/09/2021 |   |
-| `BDhouse` | 09/09/2021 |   |
-| `Indonesia Infrastructure Guarantee Fund` | 09/09/2021 |   |
-| `Município de Constância` | 09/09/2021 |   |
-| `Grupo Prilux` | 09/09/2021 |   |
-| `Cambridge Weight Plan Ltd` | 09/09/2021 |   |
-| `ASBIS CZ, spol. s r.o.` | 09/09/2021 |   |
-| `HealthCare Global Enterprises Ltd` | 09/09/2021 |   |
-| `MITCHAM INDUSTRIES INC` | 09/09/2021 |   |
-| `B.W. Wilson Paper` | 09/09/2021 |   |
-| `Aldes` | 09/09/2021 |   |
-| `Coburn Supply Company , Inc.` | 09/09/2021 |   |
-| `DBMSC Steel` | 09/09/2021 |   |
-| `EROWA LTD` | 09/09/2021 |   |
-| `Logixal` | 09/09/2021 |   |
-| `Dicon Fiberoptics Inc` | 09/09/2021 |   |
-| `BIANCHI VENDING` | 09/09/2021 |   |
-| `Exedy Corporation` | 09/09/2021 |   |
-| `Active Business & Technology` | 09/09/2021 |   |
-| `MSPharma` | 09/09/2021 |   |
-| `Hames Homes LLC` | 09/09/2021 |   |
-| `Greatwide Truckload` | 09/09/2021 |   |
-| `CJ Selecta S/A` | 09/09/2021 |   |
-| `Presque Isle Police Department` | 09/09/2021 |   |
-| `ADUANAS Y SERVICIOS FORNESA SL` | 09/09/2021 |   |
-| `Innovative Office Solutions LLC` | 09/09/2021 |   |
-| `Partit Nazzjonalista` | 09/09/2021 |   |
-| `Cathar Games` | 09/09/2021 |   |
-| `OLOMOUC` | 09/09/2021 |   |
-| `MUNICIPIO DE QUATRO BARRAS` | 09/09/2021 |   |
-| `Newcomb Secondary College` | 09/09/2021 |   |
-| `COMUNE DI VILLAFRANCA D'ASTI` | 09/09/2021 |   |
-| `CNE` | 09/09/2021 |   |
-| `Farrells` | 09/09/2021 |   |
-| `SC TECHNOSEAL SERVICES SRL` | 09/09/2021 |   |
-| `MEDUNA vakuová kalírna s.r.o` | 09/09/2021 |   |
-| `Construct` | 09/09/2021 |   |
-| `Diacom` | 09/09/2021 |   |
-| `LG Vina Chemical` | 09/09/2021 |   |
-| `Schepisi Communications` | 09/09/2021 |   |
-| `EUROMAIS - PEÇAS E PNEUS, LDA` | 09/09/2021 |   |
-| `SPINE & DISC` | 09/09/2021 |   |
-| `Cocal` | 09/09/2021 |   |
-| `Glasbau Wiedemann GmbH` | 09/09/2021 |   |
-| `Cinov Federation` | 09/09/2021 |   |
-| `TAIWAN SURFACE MOUNTING TECHNOLOGY CORP.` | 09/09/2021 |   |
-| `Coindu` | 09/09/2021 |   |
-| `ULTRACEUTICALS PTY LIMITED` | 09/09/2021 |   |
-| `DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS & CO S.A.` | 09/09/2021 |   |
-| `MEGAPOLIS HOLDINGS (OVERSEAS) LIMITED` | 09/09/2021 |   |
-| `NIJMAN / ZEETANK International Transport Sp. z o. o.` | 09/09/2021 |   |
-| `ACER FINANCE` | 09/09/2021 |   |
-| `PT Angkasa Pura I` | 09/09/2021 |   |
-| `Henry Oil & Gas` | 09/09/2021 |   |
-| `SL Corporation` | 09/09/2021 |   |
-| `Letton Percival` | 09/09/2021 |   |
-| `Vistex` | 09/09/2021 |   |
-| `EVGA` | 09/09/2021 |   |
-| `AXA Group` | 09/09/2021 |   |
-| `RINGSPANN GmbH` | 09/09/2021 |   |
-| `Solvere LLC` | 09/09/2021 |   |
-| `PKMK law&finance s.r.o` | 09/09/2021 |   |
-| `360 InStore` | 09/09/2021 |   |
-| `Maryan beachwear group GmbH` | 09/09/2021 |   |
-| `JetSJ` | 09/09/2021 |   |
-| `Rate Rabbit Inc` | 09/09/2021 |   |
-| `Halwani Bros Ltd` | 09/09/2021 |   |
-| `Cube Audit Ltd` | 09/09/2021 |   |
-| `FEBANCOLOMBIA` | 09/09/2021 |   |
-| `Ballas Capital Limited` | 09/09/2021 |   |
-| `Servilex Advocaten` | 09/09/2021 |   |
-| `Johann Kupp GmbH & Co. KG` | 09/09/2021 |   |
-| `Carlos Federspiel & Co SA` | 09/09/2021 |   |
-| `Buckeye International Inc` | 09/09/2021 |   |
-| `LE VOLCAN` | 09/09/2021 |   |
-| `Syndex` | 09/09/2021 |   |
-| `Inventec Appliances Corp` | 09/09/2021 |   |
-| `Imperial Printing and Paper Box Mfg` | 09/09/2021 |   |
-| `Accounts IQ` | 09/09/2021 |   |
+| [`EFCO forms`](https://google.com/search?q=EFCO+forms) | 09/09/2021 |   |
+| [`Sky Leasing, LLC`](https://google.com/search?q=Sky+Leasing%2C+LLC) | 09/09/2021 |   |
+| [`Golden Aluminum`](https://google.com/search?q=Golden+Aluminum) | 09/09/2021 |   |
+| [`J.C. Cannistraro`](https://google.com/search?q=J.C.+Cannistraro) | 09/09/2021 |   |
+| [`Lonrho`](https://google.com/search?q=Lonrho) | 09/09/2021 |   |
+| [`American Bank Systems INC`](https://google.com/search?q=American+Bank+Systems+INC) | 09/09/2021 |   |
+| [`Brown Robert LLP`](https://google.com/search?q=Brown+Robert+LLP) | 09/09/2021 |   |
+| [`National AIDS Control Council`](https://google.com/search?q=National+AIDS+Control+Council) | 09/09/2021 |   |
+| [`Monterey Bay Air Resources District`](https://google.com/search?q=Monterey+Bay+Air+Resources+District) | 09/09/2021 |   |
+| [`Dade City Florida`](https://google.com/search?q=Dade+City+Florida) | 09/09/2021 |   |
+| [`KOE`](https://google.com/search?q=KOE) | 09/09/2021 |   |
+| [`AHT Global`](https://google.com/search?q=AHT+Global) | 09/09/2021 |   |
+| [`Garvin Promotion Group, LLC`](https://google.com/search?q=Garvin+Promotion+Group%2C+LLC) | 09/09/2021 |   |
+| [`NetVigour Inc`](https://google.com/search?q=NetVigour+Inc) | 09/09/2021 |   |
+| [`Intensive Care On-Line Network , Inc`](https://google.com/search?q=Intensive+Care+On-Line+Network+%2C+Inc) | 09/09/2021 |   |
+| [`Payzant Building Products Ltd`](https://google.com/search?q=Payzant+Building+Products+Ltd) | 09/09/2021 |   |
+| [`International Longshore & Warehouse Union`](https://google.com/search?q=International+Longshore+%26+Warehouse+Union) | 09/09/2021 |   |
+| [`Marolles-en-Brie`](https://google.com/search?q=Marolles-en-Brie) | 09/09/2021 |   |
+| [`Finalyse`](https://google.com/search?q=Finalyse) | 09/09/2021 |   |
+| [`BIOREP TECHNOLOGIES, INC.`](https://google.com/search?q=BIOREP+TECHNOLOGIES%2C+INC.) | 09/09/2021 |   |
+| [`MK-Technik`](https://google.com/search?q=MK-Technik) | 09/09/2021 |   |
+| [`Allanasons  Ltd`](https://google.com/search?q=Allanasons++Ltd) | 09/09/2021 |   |
+| [`American Heart of Poland Inc`](https://google.com/search?q=American+Heart+of+Poland+Inc) | 09/09/2021 |   |
+| [`PT Asuransi Bintang Tbk`](https://google.com/search?q=PT+Asuransi+Bintang+Tbk) | 09/09/2021 |   |
+| [`VAUGHN CONCRETE PRODUCTS, INC`](https://google.com/search?q=VAUGHN+CONCRETE+PRODUCTS%2C+INC) | 09/09/2021 |   |
+| [`Groupe Qualinet Inc.`](https://google.com/search?q=Groupe+Qualinet+Inc.) | 09/09/2021 |   |
+| [`Somerset ISD`](https://google.com/search?q=Somerset+ISD) | 09/09/2021 |   |
+| [`FBL Advogados`](https://google.com/search?q=FBL+Advogados) | 09/09/2021 |   |
+| [`Hardy Buoys Smoked Fish Inc.`](https://google.com/search?q=Hardy+Buoys+Smoked+Fish+Inc.) | 09/09/2021 |   |
+| [`KEITH MACHINERY CORP.`](https://google.com/search?q=KEITH+MACHINERY+CORP.) | 09/09/2021 |   |
+| [`BEE LINE LOGISTICS, INC`](https://google.com/search?q=BEE+LINE+LOGISTICS%2C+INC) | 09/09/2021 |   |
+| [`Elite Software Inc`](https://google.com/search?q=Elite+Software+Inc) | 09/09/2021 |   |
+| [`MundoFertil`](https://google.com/search?q=MundoFertil) | 09/09/2021 |   |
+| [`SVI ASSURANCES`](https://google.com/search?q=SVI+ASSURANCES) | 09/09/2021 |   |
+| [`UNIVERSAL ACCOUNTING SERVICES INC`](https://google.com/search?q=UNIVERSAL+ACCOUNTING+SERVICES+INC) | 09/09/2021 |   |
+| [`The Capital Medical Center`](https://google.com/search?q=The+Capital+Medical+Center) | 09/09/2021 |   |
+| [`Mullins Food Products Inc`](https://google.com/search?q=Mullins+Food+Products+Inc) | 09/09/2021 |   |
+| [`JFC International (Europe)`](https://google.com/search?q=JFC+International+%28Europe%29) | 09/09/2021 |   |
+| [`Carnegie Wave Energy`](https://google.com/search?q=Carnegie+Wave+Energy) | 09/09/2021 |   |
+| [`Grand Power Systems`](https://google.com/search?q=Grand+Power+Systems) | 09/09/2021 |   |
+| [`VERIHA TRUCKING INC`](https://google.com/search?q=VERIHA+TRUCKING+INC) | 09/09/2021 |   |
+| [`Party Rental LTD`](https://google.com/search?q=Party+Rental+LTD) | 09/09/2021 |   |
+| [`Prefeitura Municipal de Saquarema`](https://google.com/search?q=Prefeitura+Municipal+de+Saquarema) | 09/09/2021 |   |
+| [`CELL Foods Inc.`](https://google.com/search?q=CELL+Foods+Inc.) | 09/09/2021 |   |
+| [`CASHMAG`](https://google.com/search?q=CASHMAG) | 09/09/2021 |   |
+| [`Doré Law Group P.C`](https://google.com/search?q=Dor%C3%A9+Law+Group+P.C) | 09/09/2021 |   |
+| [`Omni Manufacturing, Inc.`](https://google.com/search?q=Omni+Manufacturing%2C+Inc.) | 09/09/2021 |   |
+| [`FUTURIMPLANTS`](https://google.com/search?q=FUTURIMPLANTS) | 09/09/2021 |   |
+| [`ANLEC R&D`](https://google.com/search?q=ANLEC+R%26D) | 09/09/2021 |   |
+| [`La compagnie du SAV`](https://google.com/search?q=La+compagnie+du+SAV) | 09/09/2021 |   |
+| [`SISCONT`](https://google.com/search?q=SISCONT) | 09/09/2021 |   |
+| [`AlohaABA`](https://google.com/search?q=AlohaABA) | 09/09/2021 |   |
+| [`Zhuhai Languan Electronic Technology Co., Ltd`](https://google.com/search?q=Zhuhai+Languan+Electronic+Technology+Co.%2C+Ltd) | 09/09/2021 |   |
+| [`Schneider & Branch`](https://google.com/search?q=Schneider+%26+Branch) | 09/09/2021 |   |
+| [`Mikro Trading`](https://google.com/search?q=Mikro+Trading) | 09/09/2021 |   |
+| [`Basque Center for Applied Mathematics-BCAM`](https://google.com/search?q=Basque+Center+for+Applied+Mathematics-BCAM) | 09/09/2021 |   |
+| [`Targetcom`](https://google.com/search?q=Targetcom) | 09/09/2021 |   |
+| [`Steel Art Signs Corp.`](https://google.com/search?q=Steel+Art+Signs+Corp.) | 09/09/2021 |   |
+| [`BRIDGEWAY SENIOR HEALTHCARE`](https://google.com/search?q=BRIDGEWAY+SENIOR+HEALTHCARE) | 09/09/2021 |   |
+| [`SOVRIN PLASTICS LIMITED`](https://google.com/search?q=SOVRIN+PLASTICS+LIMITED) | 09/09/2021 |   |
+| [`Millwright Regional Council of Ontario`](https://google.com/search?q=Millwright+Regional+Council+of+Ontario) | 09/09/2021 |   |
+| [`Gorzynski`](https://google.com/search?q=Gorzynski) | 09/09/2021 |   |
+| [`ALIZON`](https://google.com/search?q=ALIZON) | 09/09/2021 |   |
+| [`CERINNOV, UNIPESSOAL, LDA`](https://google.com/search?q=CERINNOV%2C+UNIPESSOAL%2C+LDA) | 09/09/2021 |   |
+| [`BDhouse`](https://google.com/search?q=BDhouse) | 09/09/2021 |   |
+| [`Indonesia Infrastructure Guarantee Fund`](https://google.com/search?q=Indonesia+Infrastructure+Guarantee+Fund) | 09/09/2021 |   |
+| [`Município de Constância`](https://google.com/search?q=Munic%C3%ADpio+de+Const%C3%A2ncia) | 09/09/2021 |   |
+| [`Grupo Prilux`](https://google.com/search?q=Grupo+Prilux) | 09/09/2021 |   |
+| [`Cambridge Weight Plan Ltd`](https://google.com/search?q=Cambridge+Weight+Plan+Ltd) | 09/09/2021 |   |
+| [`ASBIS CZ, spol. s r.o.`](https://google.com/search?q=ASBIS+CZ%2C+spol.+s+r.o.) | 09/09/2021 |   |
+| [`HealthCare Global Enterprises Ltd`](https://google.com/search?q=HealthCare+Global+Enterprises+Ltd) | 09/09/2021 |   |
+| [`MITCHAM INDUSTRIES INC`](https://google.com/search?q=MITCHAM+INDUSTRIES+INC) | 09/09/2021 |   |
+| [`B.W. Wilson Paper`](https://google.com/search?q=B.W.+Wilson+Paper) | 09/09/2021 |   |
+| [`Aldes`](https://google.com/search?q=Aldes) | 09/09/2021 |   |
+| [`Coburn Supply Company , Inc.`](https://google.com/search?q=Coburn+Supply+Company+%2C+Inc.) | 09/09/2021 |   |
+| [`DBMSC Steel`](https://google.com/search?q=DBMSC+Steel) | 09/09/2021 |   |
+| [`EROWA LTD`](https://google.com/search?q=EROWA+LTD) | 09/09/2021 |   |
+| [`Logixal`](https://google.com/search?q=Logixal) | 09/09/2021 |   |
+| [`Dicon Fiberoptics Inc`](https://google.com/search?q=Dicon+Fiberoptics+Inc) | 09/09/2021 |   |
+| [`BIANCHI VENDING`](https://google.com/search?q=BIANCHI+VENDING) | 09/09/2021 |   |
+| [`Exedy Corporation`](https://google.com/search?q=Exedy+Corporation) | 09/09/2021 |   |
+| [`Active Business & Technology`](https://google.com/search?q=Active+Business+%26+Technology) | 09/09/2021 |   |
+| [`MSPharma`](https://google.com/search?q=MSPharma) | 09/09/2021 |   |
+| [`Hames Homes LLC`](https://google.com/search?q=Hames+Homes+LLC) | 09/09/2021 |   |
+| [`Greatwide Truckload`](https://google.com/search?q=Greatwide+Truckload) | 09/09/2021 |   |
+| [`CJ Selecta S/A`](https://google.com/search?q=CJ+Selecta+S%2FA) | 09/09/2021 |   |
+| [`Presque Isle Police Department`](https://google.com/search?q=Presque+Isle+Police+Department) | 09/09/2021 |   |
+| [`ADUANAS Y SERVICIOS FORNESA SL`](https://google.com/search?q=ADUANAS+Y+SERVICIOS+FORNESA+SL) | 09/09/2021 |   |
+| [`Innovative Office Solutions LLC`](https://google.com/search?q=Innovative+Office+Solutions+LLC) | 09/09/2021 |   |
+| [`Partit Nazzjonalista`](https://google.com/search?q=Partit+Nazzjonalista) | 09/09/2021 |   |
+| [`Cathar Games`](https://google.com/search?q=Cathar+Games) | 09/09/2021 |   |
+| [`OLOMOUC`](https://google.com/search?q=OLOMOUC) | 09/09/2021 |   |
+| [`MUNICIPIO DE QUATRO BARRAS`](https://google.com/search?q=MUNICIPIO+DE+QUATRO+BARRAS) | 09/09/2021 |   |
+| [`Newcomb Secondary College`](https://google.com/search?q=Newcomb+Secondary+College) | 09/09/2021 |   |
+| [`COMUNE DI VILLAFRANCA D'ASTI`](https://google.com/search?q=COMUNE+DI+VILLAFRANCA+D%27ASTI) | 09/09/2021 |   |
+| [`CNE`](https://google.com/search?q=CNE) | 09/09/2021 |   |
+| [`Farrells`](https://google.com/search?q=Farrells) | 09/09/2021 |   |
+| [`SC TECHNOSEAL SERVICES SRL`](https://google.com/search?q=SC+TECHNOSEAL+SERVICES+SRL) | 09/09/2021 |   |
+| [`MEDUNA vakuová kalírna s.r.o`](https://google.com/search?q=MEDUNA+vakuov%C3%A1+kal%C3%ADrna+s.r.o) | 09/09/2021 |   |
+| [`Construct`](https://google.com/search?q=Construct) | 09/09/2021 |   |
+| [`Diacom`](https://google.com/search?q=Diacom) | 09/09/2021 |   |
+| [`LG Vina Chemical`](https://google.com/search?q=LG+Vina+Chemical) | 09/09/2021 |   |
+| [`Schepisi Communications`](https://google.com/search?q=Schepisi+Communications) | 09/09/2021 |   |
+| [`EUROMAIS - PEÇAS E PNEUS, LDA`](https://google.com/search?q=EUROMAIS+-+PE%C3%87AS+E+PNEUS%2C+LDA) | 09/09/2021 |   |
+| [`SPINE & DISC`](https://google.com/search?q=SPINE+%26+DISC) | 09/09/2021 |   |
+| [`Cocal`](https://google.com/search?q=Cocal) | 09/09/2021 |   |
+| [`Glasbau Wiedemann GmbH`](https://google.com/search?q=Glasbau+Wiedemann+GmbH) | 09/09/2021 |   |
+| [`Cinov Federation`](https://google.com/search?q=Cinov+Federation) | 09/09/2021 |   |
+| [`TAIWAN SURFACE MOUNTING TECHNOLOGY CORP.`](https://google.com/search?q=TAIWAN+SURFACE+MOUNTING+TECHNOLOGY+CORP.) | 09/09/2021 |   |
+| [`Coindu`](https://google.com/search?q=Coindu) | 09/09/2021 |   |
+| [`ULTRACEUTICALS PTY LIMITED`](https://google.com/search?q=ULTRACEUTICALS+PTY+LIMITED) | 09/09/2021 |   |
+| [`DOCTUM PHARMACEUTICAL Κ. T. YIOKARIS & CO S.A.`](https://google.com/search?q=DOCTUM+PHARMACEUTICAL+%CE%9A.+T.+YIOKARIS+%26+CO+S.A.) | 09/09/2021 |   |
+| [`MEGAPOLIS HOLDINGS (OVERSEAS) LIMITED`](https://google.com/search?q=MEGAPOLIS+HOLDINGS+%28OVERSEAS%29+LIMITED) | 09/09/2021 |   |
+| [`NIJMAN / ZEETANK International Transport Sp. z o. o.`](https://google.com/search?q=NIJMAN+%2F+ZEETANK+International+Transport+Sp.+z+o.+o.) | 09/09/2021 |   |
+| [`ACER FINANCE`](https://google.com/search?q=ACER+FINANCE) | 09/09/2021 |   |
+| [`PT Angkasa Pura I`](https://google.com/search?q=PT+Angkasa+Pura+I) | 09/09/2021 |   |
+| [`Henry Oil & Gas`](https://google.com/search?q=Henry+Oil+%26+Gas) | 09/09/2021 |   |
+| [`SL Corporation`](https://google.com/search?q=SL+Corporation) | 09/09/2021 |   |
+| [`Letton Percival`](https://google.com/search?q=Letton+Percival) | 09/09/2021 |   |
+| [`Vistex`](https://google.com/search?q=Vistex) | 09/09/2021 |   |
+| [`EVGA`](https://google.com/search?q=EVGA) | 09/09/2021 |   |
+| [`AXA Group`](https://google.com/search?q=AXA+Group) | 09/09/2021 |   |
+| [`RINGSPANN GmbH`](https://google.com/search?q=RINGSPANN+GmbH) | 09/09/2021 |   |
+| [`Solvere LLC`](https://google.com/search?q=Solvere+LLC) | 09/09/2021 |   |
+| [`PKMK law&finance s.r.o`](https://google.com/search?q=PKMK+law%26finance+s.r.o) | 09/09/2021 |   |
+| [`360 InStore`](https://google.com/search?q=360+InStore) | 09/09/2021 |   |
+| [`Maryan beachwear group GmbH`](https://google.com/search?q=Maryan+beachwear+group+GmbH) | 09/09/2021 |   |
+| [`JetSJ`](https://google.com/search?q=JetSJ) | 09/09/2021 |   |
+| [`Rate Rabbit Inc`](https://google.com/search?q=Rate+Rabbit+Inc) | 09/09/2021 |   |
+| [`Halwani Bros Ltd`](https://google.com/search?q=Halwani+Bros+Ltd) | 09/09/2021 |   |
+| [`Cube Audit Ltd`](https://google.com/search?q=Cube+Audit+Ltd) | 09/09/2021 |   |
+| [`FEBANCOLOMBIA`](https://google.com/search?q=FEBANCOLOMBIA) | 09/09/2021 |   |
+| [`Ballas Capital Limited`](https://google.com/search?q=Ballas+Capital+Limited) | 09/09/2021 |   |
+| [`Servilex Advocaten`](https://google.com/search?q=Servilex+Advocaten) | 09/09/2021 |   |
+| [`Johann Kupp GmbH & Co. KG`](https://google.com/search?q=Johann+Kupp+GmbH+%26+Co.+KG) | 09/09/2021 |   |
+| [`Carlos Federspiel & Co SA`](https://google.com/search?q=Carlos+Federspiel+%26+Co+SA) | 09/09/2021 |   |
+| [`Buckeye International Inc`](https://google.com/search?q=Buckeye+International+Inc) | 09/09/2021 |   |
+| [`LE VOLCAN`](https://google.com/search?q=LE+VOLCAN) | 09/09/2021 |   |
+| [`Syndex`](https://google.com/search?q=Syndex) | 09/09/2021 |   |
+| [`Inventec Appliances Corp`](https://google.com/search?q=Inventec+Appliances+Corp) | 09/09/2021 |   |
+| [`Imperial Printing and Paper Box Mfg`](https://google.com/search?q=Imperial+Printing+and+Paper+Box+Mfg) | 09/09/2021 |   |
+| [`Accounts IQ`](https://google.com/search?q=Accounts+IQ) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -784,26 +784,26 @@ _`captcha prevents indexing`_
 | [`DLS Motors`]() | 26/12/2022 | We downloaded 50GB of internal files from DLS Motors. -- Just 83 years ago, the company Sobera S.A. entered the Paraguayan market, bringing new business opportunities, new projects, new sources of employment and contributing to the sustained economic growth of our country. |
 | [`Cosmopoint College`]() | 26/12/2022 | We downloaded about 80 gigabytes of internal school documents, including teacher and student contact information, student loan contracts, internal school financial documents, etc |
 | [`ALVAC SA`]() | 26/12/2022 | Website - https://alvac.es     Company name: ALVAC S.A.     Companies System Administrator trying to hide the cyberattack on the ALVAC S.A. servers. Vídeos confidenciales https://vimeo.com/752214614     AvosLocker team is ready to leak more files on the blog, publish video-files and attack networks again. We should agree with you to decrypt your networks and remove all ALVAC S.A. exfiltrated files from AvosLocker team servers.     https://twitter.com/PedroFe12181764/status/1575117531957846017     https://twitter.com/search?q=%40alvac&src=typed_query&f=live |
-| `Memory Express` | 26/09/2021 |   |
-| `Huali Industrial Group` | 25/09/2021 |   |
-| `Whitefish River First Nation` | 25/09/2021 |   |
-| `Unified Technologies` | 25/09/2021 |   |
-| `Amphenol Canada` | 25/09/2021 |   |
-| `Pacific City Bank` | 04/09/2021 |   |
-| `Moorfields NHS UK & Dubai` | 01/09/2021 |   |
-| `Potter Concrete` | 01/09/2021 |   |
-| `Master Chemical` | 29/08/2021 |   |
-| `Artas Holding / Artas Insaat` | 28/08/2021 |   |
-| `Coghlin Electrical Contractors` | 28/08/2021 |   |
-| `Home in Brussels` | 28/08/2021 |   |
-| `On logistics Services Algeciras, S.L` | 28/08/2021 |   |
-| `Gimmler Gruppe` | 19/08/2021 |   |
-| `SoftwareDesign Consulting Group` | 19/08/2021 |   |
-| `Mauck & Baker` | 05/08/2021 |   |
-| `Geneva, Ohio` | 18/06/2021 |   |
-| `Heller Injury Lawyers` | 13/06/2021 |   |
-| `Arabian Cargo Group` | 13/06/2021 |   |
-| `AvosLocker is officially online!` | 01/01/2021 |   |
+| [`Memory Express`](https://google.com/search?q=Memory+Express) | 26/09/2021 |   |
+| [`Huali Industrial Group`](https://google.com/search?q=Huali+Industrial+Group) | 25/09/2021 |   |
+| [`Whitefish River First Nation`](https://google.com/search?q=Whitefish+River+First+Nation) | 25/09/2021 |   |
+| [`Unified Technologies`](https://google.com/search?q=Unified+Technologies) | 25/09/2021 |   |
+| [`Amphenol Canada`](https://google.com/search?q=Amphenol+Canada) | 25/09/2021 |   |
+| [`Pacific City Bank`](https://google.com/search?q=Pacific+City+Bank) | 04/09/2021 |   |
+| [`Moorfields NHS UK & Dubai`](https://google.com/search?q=Moorfields+NHS+UK+%26+Dubai) | 01/09/2021 |   |
+| [`Potter Concrete`](https://google.com/search?q=Potter+Concrete) | 01/09/2021 |   |
+| [`Master Chemical`](https://google.com/search?q=Master+Chemical) | 29/08/2021 |   |
+| [`Artas Holding / Artas Insaat`](https://google.com/search?q=Artas+Holding+%2F+Artas+Insaat) | 28/08/2021 |   |
+| [`Coghlin Electrical Contractors`](https://google.com/search?q=Coghlin+Electrical+Contractors) | 28/08/2021 |   |
+| [`Home in Brussels`](https://google.com/search?q=Home+in+Brussels) | 28/08/2021 |   |
+| [`On logistics Services Algeciras, S.L`](https://google.com/search?q=On+logistics+Services+Algeciras%2C+S.L) | 28/08/2021 |   |
+| [`Gimmler Gruppe`](https://google.com/search?q=Gimmler+Gruppe) | 19/08/2021 |   |
+| [`SoftwareDesign Consulting Group`](https://google.com/search?q=SoftwareDesign+Consulting+Group) | 19/08/2021 |   |
+| [`Mauck & Baker`](https://google.com/search?q=Mauck+%26+Baker) | 05/08/2021 |   |
+| [`Geneva, Ohio`](https://google.com/search?q=Geneva%2C+Ohio) | 18/06/2021 |   |
+| [`Heller Injury Lawyers`](https://google.com/search?q=Heller+Injury+Lawyers) | 13/06/2021 |   |
+| [`Arabian Cargo Group`](https://google.com/search?q=Arabian+Cargo+Group) | 13/06/2021 |   |
+| [`AvosLocker is officially online!`](https://google.com/search?q=AvosLocker+is+officially+online%21) | 01/01/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -850,12 +850,12 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| `The Babuk team shares the position stated by the most famous hacktivist group.` | 09/09/2021 |   |
-| `4murs.com` | 09/09/2021 |   |
-| `Arabian Computer Supplies co.` | 09/09/2021 |   |
-| `spsr-law.com` | 09/09/2021 |   |
-| `E.A. Gibson Shipbrokers` | 09/09/2021 |   |
-| `BridgeMill Athletic Club` | 09/09/2021 |   |
+| [`The Babuk team shares the position stated by the most famous hacktivist group.`](https://google.com/search?q=The+Babuk+team+shares+the+position+stated+by+the+most+famous+hacktivist+group.) | 09/09/2021 |   |
+| [`4murs.com`](https://google.com/search?q=4murs.com) | 09/09/2021 |   |
+| [`Arabian Computer Supplies co.`](https://google.com/search?q=Arabian+Computer+Supplies+co.) | 09/09/2021 |   |
+| [`spsr-law.com`](https://google.com/search?q=spsr-law.com) | 09/09/2021 |   |
+| [`E.A. Gibson Shipbrokers`](https://google.com/search?q=E.A.+Gibson+Shipbrokers) | 09/09/2021 |   |
+| [`BridgeMill Athletic Club`](https://google.com/search?q=BridgeMill+Athletic+Club) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -898,14 +898,17 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 29/12/2022 10:31 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 29/12/2022 12:53 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 89 posts found
+> 92 posts found
 
 | post | date | Description
 |---|---|---|
+| [`St. Rose Hospital`]() | 29/12/2022 | St. Rose Hospital is an hospital located in Hayward, California. It is a designated cardiac arrest receiving center in the Alameda County emergency medical services system, and provides basic emergency medical services. |
+| [`MITCON Consultancy & Engineering Services`]() | 29/12/2022 | Established in 1982 in Pune, Mitcon is a renowned Indian Technical Consulting Organization (TCO) offering One Stop Solution for all your technical, marketing & financial business requirements. |
+| [`*********** E*****`]() | 29/12/2022 | Company that operates in the Oil & Energy industry. |
 | [`Myofficeplace Inc.`]() | 23/12/2022 | Managed, Dedicated enterprise-class Cloud hosting for businesses. Citrix Hosting, Virtual Servers. |
 | [`SEMITEC Corporation`]() | 23/12/2022 | Semitec Vietnam (SEV) is the 15th subsidiary of Semitec Corporation, headquartered in Japan. The company specializes in manufacturing electronics, sensors. |
 | [`*****`]() | 23/12/2022 | International provider of analytics, technology solutions and contract research services for the healthcare industry. |
@@ -914,87 +917,87 @@ _`captcha prevents indexing`_
 | [`M*****`]() | 21/12/2022 | Consultancy and engineering services firm. |
 | [`M*******l***`]() | 21/12/2022 | Hosting, quick book hosting, sql hosting, exchange hosting. |
 | [`S****** Electronics"`]() | 21/12/2022 | Corporation manufactures and sells electronic components in Japan and internationally |
-| `Australian Real Estate Group Pty Ltd` | 17/12/2022 |   |
-| `Spa` | 16/12/2022 |   |
-| `Company, LLC` | 16/12/2022 |   |
-| `Rudman` | 15/12/2022 |   |
-| `Meisenkothen` | 15/12/2022 |   |
-| `Hci Systems Inc` | 15/12/2022 |   |
-| `Eureka Casino Resort` | 15/12/2022 |   |
-| `Emilio Sanchez American School` | 15/12/2022 |   |
-| `Aria systems` | 15/12/2022 |   |
-| `CIMT College` | 15/12/2022 |   |
-| `ZXP Technologies` | 15/12/2022 |   |
-| `Modular Mining Systems` | 12/12/2022 |   |
-| `BRYCON Construction` | 12/12/2022 |   |
-| `*****a*** law` | 12/12/2022 |   |
-| `Bonn Nutrients Pvt` | 05/12/2022 |   |
-| `Golden Coin Bake Shop and Restaurant` | 05/12/2022 |   |
-| `Ability Commerce` | 05/12/2022 |   |
-| `CROWN TECHNOLOGY Ltd` | 05/12/2022 |   |
-| `IM Group` | 05/12/2022 |   |
-| `*u****` | 05/12/2022 |   |
-| `****** ******* School` | 05/12/2022 |   |
-| `AV Solutions` | 05/12/2022 |   |
-| `*** Technologies` | 05/12/2022 |   |
-| `**i* **s****` | 05/12/2022 |   |
-| `**a***** H****** ******r****` | 05/12/2022 |   |
-| `B****** *b*` | 05/12/2022 |   |
-| `VANOSS Public School` | 27/11/2022 |   |
-| `Power Plant Services LLC` | 27/11/2022 |   |
-| `Samrin Services Pvt Ltd` | 27/11/2022 |   |
-| `Altec Engineering LLC` | 27/11/2022 |   |
-| `Block Buildings LLC` | 27/11/2022 |   |
-| `Badger Truck Refrigeration, Inc` | 27/11/2022 |   |
-| `Myton School` | 24/11/2022 |   |
-| `Modular Mining` | 24/11/2022 |   |
-| `Centura College` | 24/11/2022 |   |
-| `Versah` | 24/11/2022 |   |
-| `Gazelle International Ltd` | 24/11/2022 |   |
-| `Boon Tool Co` | 24/11/2022 |   |
-| `Rentz Management` | 24/11/2022 |   |
-| `Harry Rosen` | 24/11/2022 |   |
-| `Läderach` | 04/11/2022 |   |
-| `Läderach` | 01/11/2022 |   |
-| `Veritas Solicitors` | 06/10/2022 |   |
-| ` Meisenkothen` | 06/10/2022 |   |
-| `Dorsey metrology` | 06/10/2022 |   |
-| `BMW of Sherman Oaks` | 06/10/2022 |   |
-| `McGann Facial Design` | 06/10/2022 |   |
-| `Mayfield School` | 06/10/2022 |   |
-| `Peter Duffy Ltd` | 05/10/2022 |   |
-| `Sunflower Farms Distributors, Inc` | 05/10/2022 |   |
-| `Aarti Drugs Ltd` | 05/10/2022 |   |
-| `Berg Kaprow Lewis` | 05/10/2022 |   |
-| ` Company, LLC` | 05/10/2022 |   |
-| `derach` | 05/10/2022 |   |
-| `Seanic Ocean Systems` | 04/10/2022 |   |
-| `Bartelt` | 04/10/2022 |   |
-| `Aesthetic Dermatology Associates` | 02/10/2022 |   |
-| ` Spa` | 13/09/2022 |   |
-| `Baer's` | 03/09/2022 |   |
-| `Infinitely Virtual` | 03/09/2022 |   |
-| `Magnachem` | 30/08/2022 |   |
-| `Alegria Family Services` | 30/08/2022 |   |
-| `WWAY-TV, LLC` | 30/08/2022 |   |
-| `Ramada Hervey Bay Hotel Resort` | 30/08/2022 |   |
-| `Community Dental Partners` | 30/08/2022 |   |
-| `4cRisk` | 30/08/2022 |   |
-| `Captec-group` | 30/08/2022 |   |
-| `Spalding Grammar School` | 29/08/2022 |   |
-| ` Rudman` | 29/08/2022 |   |
-| `The Preston Partnership` | 29/08/2022 |   |
-| `Advance Corporation` | 29/08/2022 |   |
-| `International Custom Controls` | 29/08/2022 |   |
-| `.com` | 19/07/2022 |   |
-| `ISGEC Heavy Engineering` | 16/07/2022 |   |
-| `VERITAS Solicitors` | 16/07/2022 |   |
-| `Conway Electrics` | 16/07/2022 |   |
-| `Rain the Growth Agency` | 14/07/2022 |   |
-| `Mackenzie Medical` | 14/07/2022 |   |
-| `Anderson Insurance Associates` | 14/07/2022 |   |
-| `High Power Technical Services` | 14/07/2022 |   |
-| `Mooresville Schools` | 14/07/2022 |   |
+| [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | 17/12/2022 |   |
+| [`Spa`](https://google.com/search?q=Spa) | 16/12/2022 |   |
+| [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | 16/12/2022 |   |
+| [`Rudman`](https://google.com/search?q=Rudman) | 15/12/2022 |   |
+| [`Meisenkothen`](https://google.com/search?q=Meisenkothen) | 15/12/2022 |   |
+| [`Hci Systems Inc`](https://google.com/search?q=Hci+Systems+Inc) | 15/12/2022 |   |
+| [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | 15/12/2022 |   |
+| [`Emilio Sanchez American School`](https://google.com/search?q=Emilio+Sanchez+American+School) | 15/12/2022 |   |
+| [`Aria systems`](https://google.com/search?q=Aria+systems) | 15/12/2022 |   |
+| [`CIMT College`](https://google.com/search?q=CIMT+College) | 15/12/2022 |   |
+| [`ZXP Technologies`](https://google.com/search?q=ZXP+Technologies) | 15/12/2022 |   |
+| [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | 12/12/2022 |   |
+| [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | 12/12/2022 |   |
+| [`*****a*** law`](https://google.com/search?q=%2A%2A%2A%2A%2Aa%2A%2A%2A+law) | 12/12/2022 |   |
+| [`Bonn Nutrients Pvt`](https://google.com/search?q=Bonn+Nutrients+Pvt) | 05/12/2022 |   |
+| [`Golden Coin Bake Shop and Restaurant`](https://google.com/search?q=Golden+Coin+Bake+Shop+and+Restaurant) | 05/12/2022 |   |
+| [`Ability Commerce`](https://google.com/search?q=Ability+Commerce) | 05/12/2022 |   |
+| [`CROWN TECHNOLOGY Ltd`](https://google.com/search?q=CROWN+TECHNOLOGY+Ltd) | 05/12/2022 |   |
+| [`IM Group`](https://google.com/search?q=IM+Group) | 05/12/2022 |   |
+| [`*u****`](https://google.com/search?q=%2Au%2A%2A%2A%2A) | 05/12/2022 |   |
+| [`****** ******* School`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+School) | 05/12/2022 |   |
+| [`AV Solutions`](https://google.com/search?q=AV+Solutions) | 05/12/2022 |   |
+| [`*** Technologies`](https://google.com/search?q=%2A%2A%2A+Technologies) | 05/12/2022 |   |
+| [`**i* **s****`](https://google.com/search?q=%2A%2Ai%2A+%2A%2As%2A%2A%2A%2A) | 05/12/2022 |   |
+| [`**a***** H****** ******r****`](https://google.com/search?q=%2A%2Aa%2A%2A%2A%2A%2A+H%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2Ar%2A%2A%2A%2A) | 05/12/2022 |   |
+| [`B****** *b*`](https://google.com/search?q=B%2A%2A%2A%2A%2A%2A+%2Ab%2A) | 05/12/2022 |   |
+| [`VANOSS Public School`](https://google.com/search?q=VANOSS+Public+School) | 27/11/2022 |   |
+| [`Power Plant Services LLC`](https://google.com/search?q=Power+Plant+Services+LLC) | 27/11/2022 |   |
+| [`Samrin Services Pvt Ltd`](https://google.com/search?q=Samrin+Services+Pvt+Ltd) | 27/11/2022 |   |
+| [`Altec Engineering LLC`](https://google.com/search?q=Altec+Engineering+LLC) | 27/11/2022 |   |
+| [`Block Buildings LLC`](https://google.com/search?q=Block+Buildings+LLC) | 27/11/2022 |   |
+| [`Badger Truck Refrigeration, Inc`](https://google.com/search?q=Badger+Truck+Refrigeration%2C+Inc) | 27/11/2022 |   |
+| [`Myton School`](https://google.com/search?q=Myton+School) | 24/11/2022 |   |
+| [`Modular Mining`](https://google.com/search?q=Modular+Mining) | 24/11/2022 |   |
+| [`Centura College`](https://google.com/search?q=Centura+College) | 24/11/2022 |   |
+| [`Versah`](https://google.com/search?q=Versah) | 24/11/2022 |   |
+| [`Gazelle International Ltd`](https://google.com/search?q=Gazelle+International+Ltd) | 24/11/2022 |   |
+| [`Boon Tool Co`](https://google.com/search?q=Boon+Tool+Co) | 24/11/2022 |   |
+| [`Rentz Management`](https://google.com/search?q=Rentz+Management) | 24/11/2022 |   |
+| [`Harry Rosen`](https://google.com/search?q=Harry+Rosen) | 24/11/2022 |   |
+| [`Läderach`](https://google.com/search?q=L%C3%A4derach) | 04/11/2022 |   |
+| [`Läderach`](https://google.com/search?q=L%C3%A4derach) | 01/11/2022 |   |
+| [`Veritas Solicitors`](https://google.com/search?q=Veritas+Solicitors) | 06/10/2022 |   |
+| [` Meisenkothen`](https://google.com/search?q=+Meisenkothen) | 06/10/2022 |   |
+| [`Dorsey metrology`](https://google.com/search?q=Dorsey+metrology) | 06/10/2022 |   |
+| [`BMW of Sherman Oaks`](https://google.com/search?q=BMW+of+Sherman+Oaks) | 06/10/2022 |   |
+| [`McGann Facial Design`](https://google.com/search?q=McGann+Facial+Design) | 06/10/2022 |   |
+| [`Mayfield School`](https://google.com/search?q=Mayfield+School) | 06/10/2022 |   |
+| [`Peter Duffy Ltd`](https://google.com/search?q=Peter+Duffy+Ltd) | 05/10/2022 |   |
+| [`Sunflower Farms Distributors, Inc`](https://google.com/search?q=Sunflower+Farms+Distributors%2C+Inc) | 05/10/2022 |   |
+| [`Aarti Drugs Ltd`](https://google.com/search?q=Aarti+Drugs+Ltd) | 05/10/2022 |   |
+| [`Berg Kaprow Lewis`](https://google.com/search?q=Berg+Kaprow+Lewis) | 05/10/2022 |   |
+| [` Company, LLC`](https://google.com/search?q=+Company%2C+LLC) | 05/10/2022 |   |
+| [`derach`](https://google.com/search?q=derach) | 05/10/2022 |   |
+| [`Seanic Ocean Systems`](https://google.com/search?q=Seanic+Ocean+Systems) | 04/10/2022 |   |
+| [`Bartelt`](https://google.com/search?q=Bartelt) | 04/10/2022 |   |
+| [`Aesthetic Dermatology Associates`](https://google.com/search?q=Aesthetic+Dermatology+Associates) | 02/10/2022 |   |
+| [` Spa`](https://google.com/search?q=+Spa) | 13/09/2022 |   |
+| [`Baer's`](https://google.com/search?q=Baer%27s) | 03/09/2022 |   |
+| [`Infinitely Virtual`](https://google.com/search?q=Infinitely+Virtual) | 03/09/2022 |   |
+| [`Magnachem`](https://google.com/search?q=Magnachem) | 30/08/2022 |   |
+| [`Alegria Family Services`](https://google.com/search?q=Alegria+Family+Services) | 30/08/2022 |   |
+| [`WWAY-TV, LLC`](https://google.com/search?q=WWAY-TV%2C+LLC) | 30/08/2022 |   |
+| [`Ramada Hervey Bay Hotel Resort`](https://google.com/search?q=Ramada+Hervey+Bay+Hotel+Resort) | 30/08/2022 |   |
+| [`Community Dental Partners`](https://google.com/search?q=Community+Dental+Partners) | 30/08/2022 |   |
+| [`4cRisk`](https://google.com/search?q=4cRisk) | 30/08/2022 |   |
+| [`Captec-group`](https://google.com/search?q=Captec-group) | 30/08/2022 |   |
+| [`Spalding Grammar School`](https://google.com/search?q=Spalding+Grammar+School) | 29/08/2022 |   |
+| [` Rudman`](https://google.com/search?q=+Rudman) | 29/08/2022 |   |
+| [`The Preston Partnership`](https://google.com/search?q=The+Preston+Partnership) | 29/08/2022 |   |
+| [`Advance Corporation`](https://google.com/search?q=Advance+Corporation) | 29/08/2022 |   |
+| [`International Custom Controls`](https://google.com/search?q=International+Custom+Controls) | 29/08/2022 |   |
+| [`.com`](https://google.com/search?q=.com) | 19/07/2022 |   |
+| [`ISGEC Heavy Engineering`](https://google.com/search?q=ISGEC+Heavy+Engineering) | 16/07/2022 |   |
+| [`VERITAS Solicitors`](https://google.com/search?q=VERITAS+Solicitors) | 16/07/2022 |   |
+| [`Conway Electrics`](https://google.com/search?q=Conway+Electrics) | 16/07/2022 |   |
+| [`Rain the Growth Agency`](https://google.com/search?q=Rain+the+Growth+Agency) | 14/07/2022 |   |
+| [`Mackenzie Medical`](https://google.com/search?q=Mackenzie+Medical) | 14/07/2022 |   |
+| [`Anderson Insurance Associates`](https://google.com/search?q=Anderson+Insurance+Associates) | 14/07/2022 |   |
+| [`High Power Technical Services`](https://google.com/search?q=High+Power+Technical+Services) | 14/07/2022 |   |
+| [`Mooresville Schools`](https://google.com/search?q=Mooresville+Schools) | 14/07/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1013,7 +1016,7 @@ _`captcha prevents indexing`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbasta/blackbasta1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/blackbasta/blackbasta2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/blackbasta/blackbasta3.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -1021,163 +1024,163 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| `Jeppesen` | 19/12/2022 | Jeppesen and aviation have evolved together more than 80 years.Aviation might not evolve as dramatically now as it did in 1934, but aviation technology continues to evolve at a breakneck pace. The map is never really drawn; instead, we’re always in the process of drawing it, with each iteration sharper in focus and more insightful. Our solutions are the result of truly understanding aviation and aviators. We don’t react to needs. We meet them proactively by partnering with you and leveraging our strong relationships with other leading aviation organizations.SITE: www.jeppesen.com |
-| `The Exchange Bank` | 19/12/2022 | The Exchange BankExchange Bank is a community bank offering personal and business banking services including mortgages, home loans and lines of credit and SBA loans.The Skiatook Bank, established in 1905, was the first bank in Skiatook. Later in 1905, the First Bank of Skiatook (actually the second) was established.In 1907, the Oklahoma Banking Company of Skiatook was founded, the second competitor of the Skiatook Bank.In 1911, the Skiatook Bank was adopted by the Federal Reserve Board and was renamed the First National Bank of Skiatook.In 1913 the Oklahoma Banking Company was also adopted by the Federal Reserve Board and was renamed the Oklahoma National Bank of SkiatookIn 1920 C.H. Cleveland, President of the First National Bank of Skiatook sold his stock in the bank to Ed Shackelford from Webbers Falls, OK.In 1929, The First National Bank of Skiatook and the Oklahoma National Bank of Skiatook merged and became the Oklahoma First National Bank of Skiatook.In 1930, the Oklahoma First National Bank of Skiatook was renamed The Exchange Bank.In 1952, The Exchange Bank’s new million-dollar building was opened at 220 S. Broadway.In 1972 a new building was built at the present location of 300 West Rogers Blvd on main Street.SITE: https://www.exb-ok.com |
-| `Sterling` | 19/12/2022 | Sterling helps create people-first cultures built on a foundation of trust and safety.We understand that every employee and new hire contributes to the unique culture of your organization. That’s why our global background checks and identity services are differentiated by unrivaled client service and deep market expertise to help you make confident hiring decisions that strengthen your organization and culture.We believe that every hire is important, and we are committed to helping our clients hire with confidence, speed, and trust.SITE: https://www.sterlingcheck.com |
-| `Petmate` | 14/12/2022 |   |
-| `Pella` | 13/12/2022 |   |
-| `Maney  Gordon  Zeller, P.A.` | 09/12/2022 | As a full-service law firm, Maney, Gordon Zeller, P.A. is proud to provide high-quality legal service to those navigating the U.S. immigration system. We have several offices conveniently located across the country from Pennsylvania to Florida. This way, we are always available to help our clients get the effective representation that they truly deserve—no matter where they are located geographically. With over a century of combined experience, we are able to provide outstanding representation to clients in a wide-range of immigration matters.SITE: https://www.maneygordon.com |
-| `Atcore` | 09/12/2022 |   |
-| `Dingbro Ltd` | 09/12/2022 |   |
-| `A.R. Thomson Group` | 09/12/2022 |   |
-| `Cleveland Brothers` | 09/12/2022 |   |
-| `AIRCOMECHANICAL` | 09/12/2022 | Dirty coils, vents, and ducts diminish air quality and place strain on your heating and cooling system. Our Smart Service plans ensure the comfort, safety, reliability, and efficiency of your home’s HVAC system. Sign up for today to get improved air quality and a longer lasting heating and cooling system. You might not see the difference, except in your lower utility bills.SITE: https://www.aircomechanical.com |
-| `Panolam Surface Systems` | 09/12/2022 | Panolam Surface Systems has been providing the largest selection of integrated products for over 70 years. At times, it feels like we’re just getting started. The world is different than it was seven decades ago and so are we. We are more energized and committed than ever to inspiring customers with the broadest range of surface options and designs in the marketplace. Passionately offering a portfolio of diverse brands that cater to the breadth of your imagination, we can help you arrive at the perfect solution fast and affordably, saving you time and money. Every aspect of our business is focused on fulfilling your vision for the project at hand. Your vision is what drives us to create the most relevant and forward-conscious color palettes and designs offered anywhere. It’s what motivates us to make fabrication as efficient and affordable as possible through product integration; to be your one source for your surfacing needs in virtually any kind of room imaginable.SITE: https://panolam.com |
-| `SEACAST` | 09/12/2022 | Established in Seattle by Mike and Bert Robins in 1985, SeaCast operates several full service investment casting foundries. In addition to casting, the facilities offer extensive support services such as CNC machining, heat treat and assembly. The company serves a wide variety of industries including: aerospace, industrial pumps, industrial gas turbines, medical, transportation and computer hardware. To meet rigorous customer requirements, SeaCast’s manufacturing processes have earned ISO9000, AS9100 and NADCAP certifications. Over 350 dedicated employees comprise SeaCast’s workforce and the company remains privately held.SITE: www.seacast.com |
-| `nworksllc` | 09/12/2022 |   |
-| `PANOLAM` | 06/12/2022 |   |
-| `Maple Leaf Foods` | 01/12/2022 |   |
-| `ITM` | 25/11/2022 |   |
-| `Kessing Rechtsanwälte und Fachanwälte in PartGmbB` | 17/11/2022 |   |
-| `IMA Financial Group, Inc.` | 16/11/2022 |   |
-| `Popp Hutcheson PLLC` | 13/11/2022 |   |
-| `METRO` | 07/11/2022 |   |
-| `Wilken Software Group` | 07/11/2022 |   |
-| `MITCON Consultancy & Engineering Services Limited` | 05/11/2022 |   |
-| `Bitron` | 03/11/2022 |   |
-| `Genesys Aerosystems` | 31/10/2022 |   |
-| `STECINT_2` | 31/10/2022 |   |
-| `CADEPLOY` | 31/10/2022 |   |
-| `Associated Lighting Representatives` | 26/10/2022 |   |
-| `Essick Air Products` | 26/10/2022 |   |
-| `A G Equipment Company` | 23/10/2022 |   |
-| `Diamond Mowers` | 23/10/2022 |   |
-| `BOOTZ` | 23/10/2022 |   |
-| `EDC3` | 23/10/2022 |   |
-| `J.M. Rodgers Co.` | 23/10/2022 |   |
-| `ALRO` | 23/10/2022 |   |
-| `STONE1` | 23/10/2022 |   |
-| `CSW GmbH` | 18/10/2022 |   |
-| `ALFATECH` | 12/10/2022 |   |
-| `AMPORTS` | 12/10/2022 |   |
-| `Michael Sullivan & Associates` | 12/10/2022 |   |
-| `MERCOLA` | 12/10/2022 |   |
-| `SMART Mechanical Solutions` | 12/10/2022 |   |
-| `Quality Telecom Consultants Inc` | 12/10/2022 |   |
-| `Shiloh Industries` | 11/10/2022 |   |
-| `The UNITED GRINDING Group` | 06/10/2022 |   |
-| `Willemen Group` | 06/10/2022 |   |
-| `Rick Shipman Construction` | 04/10/2022 |   |
-| `Gate Precast` | 04/10/2022 |   |
-| `Karl Gemünden GmbH & Co. KG` | 30/09/2022 |   |
-| `Associated Bag` | 29/09/2022 |   |
-| `Cremo` | 27/09/2022 |   |
-| `AES Clean Technology` | 27/09/2022 |   |
-| `Etna GmbH` | 27/09/2022 |   |
-| `STADLER` | 27/09/2022 |   |
-| `KOLLITSCH` | 25/09/2022 |   |
-| `Cornerstone Insurance Group` | 23/09/2022 |   |
-| `Admiral Merchants` | 21/09/2022 |   |
-| `Foreman Watson Land Title, LLC.` | 21/09/2022 |   |
-| `CORNERSTONE` | 20/09/2022 |   |
-| `midway` | 19/09/2022 |   |
-| `MGSMFG` | 08/09/2022 |   |
-| `EMEPLATING` | 07/09/2022 |   |
-| `STEVENG` | 07/09/2022 |   |
-| `SHI` | 07/09/2022 |   |
-| `CleanTech` | 05/09/2022 |   |
-| `augustacoop` | 05/09/2022 |   |
-| `psico` | 05/09/2022 |   |
-| `Cpl Architects, Engineers` | 04/09/2022 |   |
-| `C2CORP` | 04/09/2022 |   |
-| `ttdwest` | 06/08/2022 |   |
-| `MAI` | 06/08/2022 |   |
-| `Montrose Environmental Group, Inc` | 06/08/2022 |   |
-| `WALLWORKINC` | 06/08/2022 |   |
-| `paradise` | 06/08/2022 |   |
-| `WENZEL + WENZEL` | 06/08/2022 |   |
-| `Trade-Mark Industrial Inc.` | 06/08/2022 |   |
-| `CREMO` | 06/08/2022 |   |
-| `RBBUSA` | 06/08/2022 |   |
-| `BOERNER-GRUPPE` | 06/08/2022 |   |
-| `Young & Pratt` | 06/08/2022 |   |
-| `Jakob Becker` | 06/08/2022 |   |
-| `Love, Barnes & McKew Insurance Adjusters` | 06/08/2022 |   |
-| `The O'Regan` | 06/08/2022 |   |
-| `Blairex Laboratories, Inc.` | 06/08/2022 |   |
-| `Wilks Tire & Battery Service` | 06/08/2022 |   |
-| `UNIWELL Rohrsysteme GmbH & Co.` | 06/08/2022 |   |
-| `Grohmann Aluworks GmbH & Co` | 06/08/2022 |   |
-| `COS2000` | 20/07/2022 |   |
-| `The Minka Group` | 20/07/2022 |   |
-| `KNAUF` | 18/07/2022 |   |
-| `Wallwork Truck Center` | 18/07/2022 |   |
-| `Dillon Precision Products` | 18/07/2022 |   |
-| `OLYMPIA` | 07/07/2022 |   |
-| `The Wiener Zeitung media group` | 07/07/2022 |   |
-| `LOKALTOG` | 06/07/2022 |   |
-| `RENZEL` | 06/07/2022 |   |
-| `LYDECKER` | 06/07/2022 |   |
-| `Wipro HealthPlan Services` | 06/07/2022 |   |
-| `OLYMPIATILE` | 06/07/2022 |   |
-| `MAIN` | 06/07/2022 |   |
-| `TMI` | 06/07/2022 |   |
-| `Sierra Pacific Industries` | 06/07/2022 |   |
-| `DEKIMO` | 06/07/2022 |   |
-| `Jinny Beauty Supply` | 06/07/2022 |   |
-| `Roche Bobois` | 06/07/2022 |   |
-| `LOSSEWERK` | 06/07/2022 |   |
-| `SCHMIDT Gruppe Service GmbH` | 06/07/2022 |   |
-| `JBKLDMN` | 06/07/2022 |   |
-| `DPP` | 06/07/2022 |   |
-| `CAPSONIC` | 03/07/2022 |   |
-| `V2 Logistics Corp` | 03/07/2022 |   |
-| `New Peoples Bank` | 29/06/2022 |   |
-| `Elbit Systems of America` | 26/06/2022 |   |
-| `Canaropa` | 21/06/2022 |   |
-| `Mechanical Systems Company` | 21/06/2022 |   |
-| `Crane Carrier Company` | 21/06/2022 |   |
-| `PARADOX` | 21/06/2022 |   |
-| `GRUPO mh` | 21/06/2022 |   |
-| `RadiciGroup` | 15/06/2022 |   |
-| `Bernd Hösele Group` | 14/06/2022 |   |
-| `SDZ Druck und Medien` | 12/06/2022 |   |
-| `Tiroler Rohre GmbH` | 10/06/2022 |   |
-| `Worldwide Flight Services` | 10/06/2022 |   |
-| `English Construction Company` | 08/06/2022 |   |
-| `Losberger De Boer` | 07/06/2022 |   |
-| `Groupe J.F. Nadeau Inc` | 01/06/2022 |   |
-| `JBS TEXTILE GROUP` | 01/06/2022 |   |
-| `CAVENDERS` | 31/05/2022 |   |
-| `BLAIR inc.` | 29/05/2022 |   |
-| `undefined` | 28/05/2022 |   |
-| `AGCO` | 25/05/2022 |   |
-| `Allports Group` | 24/05/2022 |   |
-| `Elkuch Group` | 22/05/2022 |   |
-| `Contractors Pipe and Supply Corporation` | 19/05/2022 |   |
-| `Piggly Wiggly Alabama Distributing Company` | 16/05/2022 |   |
-| `Black Bros. Co.` | 10/05/2022 |   |
-| `Cavender` | 09/05/2022 |   |
-| `Fachgroßhandel` | 09/05/2022 |   |
-| `Flexible Circuit Technologies` | 09/05/2022 |   |
-| `Rollecate Group` | 05/05/2022 |   |
-| `Sole Technology` | 05/05/2022 |   |
-| `Zito Media` | 04/05/2022 |   |
-| `Jameco Electronics` | 02/05/2022 |   |
-| `PRGX Global Inc.` | 02/05/2022 |   |
-| `The Scholz Group` | 02/05/2022 |   |
-| `Ragle Incorporated` | 28/04/2022 |   |
-| `ADA` | 26/04/2022 |   |
-| `TÜV NORD GROUP` | 26/04/2022 |   |
-| `Plauen Stahl Technologie GmbH` | 26/04/2022 |   |
-| `Oralia` | 26/04/2022 |   |
-| `Boswell Engineering` | 26/04/2022 |   |
-| `LECHLER S.p.A.` | 26/04/2022 |   |
-| `Laiteries Reunies Societe cooperative` | 26/04/2022 |   |
-| `IMA Schelling Group` | 26/04/2022 |   |
-| `LACKS` | 26/04/2022 |   |
-| `Basler Versicherungen` | 26/04/2022 |   |
-| `Deutsche Windtechnik` | 26/04/2022 |   |
+| [`Jeppesen`](https://google.com/search?q=Jeppesen) | 19/12/2022 | Jeppesen and aviation have evolved together more than 80 years.Aviation might not evolve as dramatically now as it did in 1934, but aviation technology continues to evolve at a breakneck pace. The map is never really drawn; instead, we’re always in the process of drawing it, with each iteration sharper in focus and more insightful. Our solutions are the result of truly understanding aviation and aviators. We don’t react to needs. We meet them proactively by partnering with you and leveraging our strong relationships with other leading aviation organizations.SITE: www.jeppesen.com |
+| [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | 19/12/2022 | The Exchange BankExchange Bank is a community bank offering personal and business banking services including mortgages, home loans and lines of credit and SBA loans.The Skiatook Bank, established in 1905, was the first bank in Skiatook. Later in 1905, the First Bank of Skiatook (actually the second) was established.In 1907, the Oklahoma Banking Company of Skiatook was founded, the second competitor of the Skiatook Bank.In 1911, the Skiatook Bank was adopted by the Federal Reserve Board and was renamed the First National Bank of Skiatook.In 1913 the Oklahoma Banking Company was also adopted by the Federal Reserve Board and was renamed the Oklahoma National Bank of SkiatookIn 1920 C.H. Cleveland, President of the First National Bank of Skiatook sold his stock in the bank to Ed Shackelford from Webbers Falls, OK.In 1929, The First National Bank of Skiatook and the Oklahoma National Bank of Skiatook merged and became the Oklahoma First National Bank of Skiatook.In 1930, the Oklahoma First National Bank of Skiatook was renamed The Exchange Bank.In 1952, The Exchange Bank’s new million-dollar building was opened at 220 S. Broadway.In 1972 a new building was built at the present location of 300 West Rogers Blvd on main Street.SITE: https://www.exb-ok.com |
+| [`Sterling`](https://google.com/search?q=Sterling) | 19/12/2022 | Sterling helps create people-first cultures built on a foundation of trust and safety.We understand that every employee and new hire contributes to the unique culture of your organization. That’s why our global background checks and identity services are differentiated by unrivaled client service and deep market expertise to help you make confident hiring decisions that strengthen your organization and culture.We believe that every hire is important, and we are committed to helping our clients hire with confidence, speed, and trust.SITE: https://www.sterlingcheck.com |
+| [`Petmate`](https://google.com/search?q=Petmate) | 14/12/2022 |   |
+| [`Pella`](https://google.com/search?q=Pella) | 13/12/2022 |   |
+| [`Maney  Gordon  Zeller, P.A.`](https://google.com/search?q=Maney+%7C+Gordon+%7C+Zeller%2C+P.A.) | 09/12/2022 | As a full-service law firm, Maney, Gordon Zeller, P.A. is proud to provide high-quality legal service to those navigating the U.S. immigration system. We have several offices conveniently located across the country from Pennsylvania to Florida. This way, we are always available to help our clients get the effective representation that they truly deserve—no matter where they are located geographically. With over a century of combined experience, we are able to provide outstanding representation to clients in a wide-range of immigration matters.SITE: https://www.maneygordon.com |
+| [`Atcore`](https://google.com/search?q=Atcore) | 09/12/2022 |   |
+| [`Dingbro Ltd`](https://google.com/search?q=Dingbro+Ltd) | 09/12/2022 |   |
+| [`A.R. Thomson Group`](https://google.com/search?q=A.R.+Thomson+Group) | 09/12/2022 |   |
+| [`Cleveland Brothers`](https://google.com/search?q=Cleveland+Brothers) | 09/12/2022 |   |
+| [`AIRCOMECHANICAL`](https://google.com/search?q=AIRCOMECHANICAL) | 09/12/2022 | Dirty coils, vents, and ducts diminish air quality and place strain on your heating and cooling system. Our Smart Service plans ensure the comfort, safety, reliability, and efficiency of your home’s HVAC system. Sign up for today to get improved air quality and a longer lasting heating and cooling system. You might not see the difference, except in your lower utility bills.SITE: https://www.aircomechanical.com |
+| [`Panolam Surface Systems`](https://google.com/search?q=Panolam+Surface+Systems) | 09/12/2022 | Panolam Surface Systems has been providing the largest selection of integrated products for over 70 years. At times, it feels like we’re just getting started. The world is different than it was seven decades ago and so are we. We are more energized and committed than ever to inspiring customers with the broadest range of surface options and designs in the marketplace. Passionately offering a portfolio of diverse brands that cater to the breadth of your imagination, we can help you arrive at the perfect solution fast and affordably, saving you time and money. Every aspect of our business is focused on fulfilling your vision for the project at hand. Your vision is what drives us to create the most relevant and forward-conscious color palettes and designs offered anywhere. It’s what motivates us to make fabrication as efficient and affordable as possible through product integration; to be your one source for your surfacing needs in virtually any kind of room imaginable.SITE: https://panolam.com |
+| [`SEACAST`](https://google.com/search?q=SEACAST) | 09/12/2022 | Established in Seattle by Mike and Bert Robins in 1985, SeaCast operates several full service investment casting foundries. In addition to casting, the facilities offer extensive support services such as CNC machining, heat treat and assembly. The company serves a wide variety of industries including: aerospace, industrial pumps, industrial gas turbines, medical, transportation and computer hardware. To meet rigorous customer requirements, SeaCast’s manufacturing processes have earned ISO9000, AS9100 and NADCAP certifications. Over 350 dedicated employees comprise SeaCast’s workforce and the company remains privately held.SITE: www.seacast.com |
+| [`nworksllc`](https://google.com/search?q=nworksllc) | 09/12/2022 |   |
+| [`PANOLAM`](https://google.com/search?q=PANOLAM) | 06/12/2022 |   |
+| [`Maple Leaf Foods`](https://google.com/search?q=Maple+Leaf+Foods) | 01/12/2022 |   |
+| [`ITM`](https://google.com/search?q=ITM) | 25/11/2022 |   |
+| [`Kessing Rechtsanwälte und Fachanwälte in PartGmbB`](https://google.com/search?q=Kessing+Rechtsanw%C3%A4lte+und+Fachanw%C3%A4lte+in+PartGmbB) | 17/11/2022 |   |
+| [`IMA Financial Group, Inc.`](https://google.com/search?q=IMA+Financial+Group%2C+Inc.) | 16/11/2022 |   |
+| [`Popp Hutcheson PLLC`](https://google.com/search?q=Popp+Hutcheson+PLLC) | 13/11/2022 |   |
+| [`METRO`](https://google.com/search?q=METRO) | 07/11/2022 |   |
+| [`Wilken Software Group`](https://google.com/search?q=Wilken+Software+Group) | 07/11/2022 |   |
+| [`MITCON Consultancy & Engineering Services Limited`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services+Limited) | 05/11/2022 |   |
+| [`Bitron`](https://google.com/search?q=Bitron) | 03/11/2022 |   |
+| [`Genesys Aerosystems`](https://google.com/search?q=Genesys+Aerosystems) | 31/10/2022 |   |
+| [`STECINT_2`](https://google.com/search?q=STECINT_2) | 31/10/2022 |   |
+| [`CADEPLOY`](https://google.com/search?q=CADEPLOY) | 31/10/2022 |   |
+| [`Associated Lighting Representatives`](https://google.com/search?q=Associated+Lighting+Representatives) | 26/10/2022 |   |
+| [`Essick Air Products`](https://google.com/search?q=Essick+Air+Products) | 26/10/2022 |   |
+| [`A G Equipment Company`](https://google.com/search?q=A+G+Equipment+Company) | 23/10/2022 |   |
+| [`Diamond Mowers`](https://google.com/search?q=Diamond+Mowers) | 23/10/2022 |   |
+| [`BOOTZ`](https://google.com/search?q=BOOTZ) | 23/10/2022 |   |
+| [`EDC3`](https://google.com/search?q=EDC3) | 23/10/2022 |   |
+| [`J.M. Rodgers Co.`](https://google.com/search?q=J.M.+Rodgers+Co.) | 23/10/2022 |   |
+| [`ALRO`](https://google.com/search?q=ALRO) | 23/10/2022 |   |
+| [`STONE1`](https://google.com/search?q=STONE1) | 23/10/2022 |   |
+| [`CSW GmbH`](https://google.com/search?q=CSW+GmbH) | 18/10/2022 |   |
+| [`ALFATECH`](https://google.com/search?q=ALFATECH) | 12/10/2022 |   |
+| [`AMPORTS`](https://google.com/search?q=AMPORTS) | 12/10/2022 |   |
+| [`Michael Sullivan & Associates`](https://google.com/search?q=Michael+Sullivan+%26+Associates) | 12/10/2022 |   |
+| [`MERCOLA`](https://google.com/search?q=MERCOLA) | 12/10/2022 |   |
+| [`SMART Mechanical Solutions`](https://google.com/search?q=SMART+Mechanical+Solutions) | 12/10/2022 |   |
+| [`Quality Telecom Consultants Inc`](https://google.com/search?q=Quality+Telecom+Consultants+Inc) | 12/10/2022 |   |
+| [`Shiloh Industries`](https://google.com/search?q=Shiloh+Industries) | 11/10/2022 |   |
+| [`The UNITED GRINDING Group`](https://google.com/search?q=The+UNITED+GRINDING+Group) | 06/10/2022 |   |
+| [`Willemen Group`](https://google.com/search?q=Willemen+Group) | 06/10/2022 |   |
+| [`Rick Shipman Construction`](https://google.com/search?q=Rick+Shipman+Construction) | 04/10/2022 |   |
+| [`Gate Precast`](https://google.com/search?q=Gate+Precast) | 04/10/2022 |   |
+| [`Karl Gemünden GmbH & Co. KG`](https://google.com/search?q=Karl+Gem%C3%BCnden+GmbH+%26+Co.+KG) | 30/09/2022 |   |
+| [`Associated Bag`](https://google.com/search?q=Associated+Bag) | 29/09/2022 |   |
+| [`Cremo`](https://google.com/search?q=Cremo) | 27/09/2022 |   |
+| [`AES Clean Technology`](https://google.com/search?q=AES+Clean+Technology) | 27/09/2022 |   |
+| [`Etna GmbH`](https://google.com/search?q=Etna+GmbH) | 27/09/2022 |   |
+| [`STADLER`](https://google.com/search?q=STADLER) | 27/09/2022 |   |
+| [`KOLLITSCH`](https://google.com/search?q=KOLLITSCH) | 25/09/2022 |   |
+| [`Cornerstone Insurance Group`](https://google.com/search?q=Cornerstone+Insurance+Group) | 23/09/2022 |   |
+| [`Admiral Merchants`](https://google.com/search?q=Admiral+Merchants) | 21/09/2022 |   |
+| [`Foreman Watson Land Title, LLC.`](https://google.com/search?q=Foreman+Watson+Land+Title%2C+LLC.) | 21/09/2022 |   |
+| [`CORNERSTONE`](https://google.com/search?q=CORNERSTONE) | 20/09/2022 |   |
+| [`midway`](https://google.com/search?q=midway) | 19/09/2022 |   |
+| [`MGSMFG`](https://google.com/search?q=MGSMFG) | 08/09/2022 |   |
+| [`EMEPLATING`](https://google.com/search?q=EMEPLATING) | 07/09/2022 |   |
+| [`STEVENG`](https://google.com/search?q=STEVENG) | 07/09/2022 |   |
+| [`SHI`](https://google.com/search?q=SHI) | 07/09/2022 |   |
+| [`CleanTech`](https://google.com/search?q=CleanTech) | 05/09/2022 |   |
+| [`augustacoop`](https://google.com/search?q=augustacoop) | 05/09/2022 |   |
+| [`psico`](https://google.com/search?q=psico) | 05/09/2022 |   |
+| [`Cpl Architects, Engineers`](https://google.com/search?q=Cpl+Architects%2C+Engineers) | 04/09/2022 |   |
+| [`C2CORP`](https://google.com/search?q=C2CORP) | 04/09/2022 |   |
+| [`ttdwest`](https://google.com/search?q=ttdwest) | 06/08/2022 |   |
+| [`MAI`](https://google.com/search?q=MAI) | 06/08/2022 |   |
+| [`Montrose Environmental Group, Inc`](https://google.com/search?q=Montrose+Environmental+Group%2C+Inc) | 06/08/2022 |   |
+| [`WALLWORKINC`](https://google.com/search?q=WALLWORKINC) | 06/08/2022 |   |
+| [`paradise`](https://google.com/search?q=paradise) | 06/08/2022 |   |
+| [`WENZEL + WENZEL`](https://google.com/search?q=WENZEL+%2B+WENZEL) | 06/08/2022 |   |
+| [`Trade-Mark Industrial Inc.`](https://google.com/search?q=Trade-Mark+Industrial+Inc.) | 06/08/2022 |   |
+| [`CREMO`](https://google.com/search?q=CREMO) | 06/08/2022 |   |
+| [`RBBUSA`](https://google.com/search?q=RBBUSA) | 06/08/2022 |   |
+| [`BOERNER-GRUPPE`](https://google.com/search?q=BOERNER-GRUPPE) | 06/08/2022 |   |
+| [`Young & Pratt`](https://google.com/search?q=Young+%26+Pratt) | 06/08/2022 |   |
+| [`Jakob Becker`](https://google.com/search?q=Jakob+Becker) | 06/08/2022 |   |
+| [`Love, Barnes & McKew Insurance Adjusters`](https://google.com/search?q=Love%2C+Barnes+%26+McKew+Insurance+Adjusters) | 06/08/2022 |   |
+| [`The O'Regan`](https://google.com/search?q=The+O%27Regan) | 06/08/2022 |   |
+| [`Blairex Laboratories, Inc.`](https://google.com/search?q=Blairex+Laboratories%2C+Inc.) | 06/08/2022 |   |
+| [`Wilks Tire & Battery Service`](https://google.com/search?q=Wilks+Tire+%26+Battery+Service) | 06/08/2022 |   |
+| [`UNIWELL Rohrsysteme GmbH & Co.`](https://google.com/search?q=UNIWELL+Rohrsysteme+GmbH+%26+Co.) | 06/08/2022 |   |
+| [`Grohmann Aluworks GmbH & Co`](https://google.com/search?q=Grohmann+Aluworks+GmbH+%26+Co) | 06/08/2022 |   |
+| [`COS2000`](https://google.com/search?q=COS2000) | 20/07/2022 |   |
+| [`The Minka Group`](https://google.com/search?q=The+Minka+Group) | 20/07/2022 |   |
+| [`KNAUF`](https://google.com/search?q=KNAUF) | 18/07/2022 |   |
+| [`Wallwork Truck Center`](https://google.com/search?q=Wallwork+Truck+Center) | 18/07/2022 |   |
+| [`Dillon Precision Products`](https://google.com/search?q=Dillon+Precision+Products) | 18/07/2022 |   |
+| [`OLYMPIA`](https://google.com/search?q=OLYMPIA) | 07/07/2022 |   |
+| [`The Wiener Zeitung media group`](https://google.com/search?q=The+Wiener+Zeitung+media+group) | 07/07/2022 |   |
+| [`LOKALTOG`](https://google.com/search?q=LOKALTOG) | 06/07/2022 |   |
+| [`RENZEL`](https://google.com/search?q=RENZEL) | 06/07/2022 |   |
+| [`LYDECKER`](https://google.com/search?q=LYDECKER) | 06/07/2022 |   |
+| [`Wipro HealthPlan Services`](https://google.com/search?q=Wipro+HealthPlan+Services) | 06/07/2022 |   |
+| [`OLYMPIATILE`](https://google.com/search?q=OLYMPIATILE) | 06/07/2022 |   |
+| [`MAIN`](https://google.com/search?q=MAIN) | 06/07/2022 |   |
+| [`TMI`](https://google.com/search?q=TMI) | 06/07/2022 |   |
+| [`Sierra Pacific Industries`](https://google.com/search?q=Sierra+Pacific+Industries) | 06/07/2022 |   |
+| [`DEKIMO`](https://google.com/search?q=DEKIMO) | 06/07/2022 |   |
+| [`Jinny Beauty Supply`](https://google.com/search?q=Jinny+Beauty+Supply) | 06/07/2022 |   |
+| [`Roche Bobois`](https://google.com/search?q=Roche+Bobois) | 06/07/2022 |   |
+| [`LOSSEWERK`](https://google.com/search?q=LOSSEWERK) | 06/07/2022 |   |
+| [`SCHMIDT Gruppe Service GmbH`](https://google.com/search?q=SCHMIDT+Gruppe+Service+GmbH) | 06/07/2022 |   |
+| [`JBKLDMN`](https://google.com/search?q=JBKLDMN) | 06/07/2022 |   |
+| [`DPP`](https://google.com/search?q=DPP) | 06/07/2022 |   |
+| [`CAPSONIC`](https://google.com/search?q=CAPSONIC) | 03/07/2022 |   |
+| [`V2 Logistics Corp`](https://google.com/search?q=V2+Logistics+Corp) | 03/07/2022 |   |
+| [`New Peoples Bank`](https://google.com/search?q=New+Peoples+Bank) | 29/06/2022 |   |
+| [`Elbit Systems of America`](https://google.com/search?q=Elbit+Systems+of+America) | 26/06/2022 |   |
+| [`Canaropa`](https://google.com/search?q=Canaropa) | 21/06/2022 |   |
+| [`Mechanical Systems Company`](https://google.com/search?q=Mechanical+Systems+Company) | 21/06/2022 |   |
+| [`Crane Carrier Company`](https://google.com/search?q=Crane+Carrier+Company) | 21/06/2022 |   |
+| [`PARADOX`](https://google.com/search?q=PARADOX) | 21/06/2022 |   |
+| [`GRUPO mh`](https://google.com/search?q=GRUPO+mh) | 21/06/2022 |   |
+| [`RadiciGroup`](https://google.com/search?q=RadiciGroup) | 15/06/2022 |   |
+| [`Bernd Hösele Group`](https://google.com/search?q=Bernd+H%C3%B6sele+Group) | 14/06/2022 |   |
+| [`SDZ Druck und Medien`](https://google.com/search?q=SDZ+Druck+und+Medien) | 12/06/2022 |   |
+| [`Tiroler Rohre GmbH`](https://google.com/search?q=Tiroler+Rohre+GmbH) | 10/06/2022 |   |
+| [`Worldwide Flight Services`](https://google.com/search?q=Worldwide+Flight+Services) | 10/06/2022 |   |
+| [`English Construction Company`](https://google.com/search?q=English+Construction+Company) | 08/06/2022 |   |
+| [`Losberger De Boer`](https://google.com/search?q=Losberger+De+Boer) | 07/06/2022 |   |
+| [`Groupe J.F. Nadeau Inc`](https://google.com/search?q=Groupe+J.F.+Nadeau+Inc) | 01/06/2022 |   |
+| [`JBS TEXTILE GROUP`](https://google.com/search?q=JBS+TEXTILE+GROUP) | 01/06/2022 |   |
+| [`CAVENDERS`](https://google.com/search?q=CAVENDERS) | 31/05/2022 |   |
+| [`BLAIR inc.`](https://google.com/search?q=BLAIR+inc.) | 29/05/2022 |   |
+| [`undefined`](https://google.com/search?q=undefined) | 28/05/2022 |   |
+| [`AGCO`](https://google.com/search?q=AGCO) | 25/05/2022 |   |
+| [`Allports Group`](https://google.com/search?q=Allports+Group) | 24/05/2022 |   |
+| [`Elkuch Group`](https://google.com/search?q=Elkuch+Group) | 22/05/2022 |   |
+| [`Contractors Pipe and Supply Corporation`](https://google.com/search?q=Contractors+Pipe+and+Supply+Corporation) | 19/05/2022 |   |
+| [`Piggly Wiggly Alabama Distributing Company`](https://google.com/search?q=Piggly+Wiggly+Alabama+Distributing+Company) | 16/05/2022 |   |
+| [`Black Bros. Co.`](https://google.com/search?q=Black+Bros.+Co.) | 10/05/2022 |   |
+| [`Cavender`](https://google.com/search?q=Cavender) | 09/05/2022 |   |
+| [`Fachgroßhandel`](https://google.com/search?q=Fachgro%C3%9Fhandel) | 09/05/2022 |   |
+| [`Flexible Circuit Technologies`](https://google.com/search?q=Flexible+Circuit+Technologies) | 09/05/2022 |   |
+| [`Rollecate Group`](https://google.com/search?q=Rollecate+Group) | 05/05/2022 |   |
+| [`Sole Technology`](https://google.com/search?q=Sole+Technology) | 05/05/2022 |   |
+| [`Zito Media`](https://google.com/search?q=Zito+Media) | 04/05/2022 |   |
+| [`Jameco Electronics`](https://google.com/search?q=Jameco+Electronics) | 02/05/2022 |   |
+| [`PRGX Global Inc.`](https://google.com/search?q=PRGX+Global+Inc.) | 02/05/2022 |   |
+| [`The Scholz Group`](https://google.com/search?q=The+Scholz+Group) | 02/05/2022 |   |
+| [`Ragle Incorporated`](https://google.com/search?q=Ragle+Incorporated) | 28/04/2022 |   |
+| [`ADA`](https://google.com/search?q=ADA) | 26/04/2022 |   |
+| [`TÜV NORD GROUP`](https://google.com/search?q=T%C3%9CV+NORD+GROUP) | 26/04/2022 |   |
+| [`Plauen Stahl Technologie GmbH`](https://google.com/search?q=Plauen+Stahl+Technologie+GmbH) | 26/04/2022 |   |
+| [`Oralia`](https://google.com/search?q=Oralia) | 26/04/2022 |   |
+| [`Boswell Engineering`](https://google.com/search?q=Boswell+Engineering) | 26/04/2022 |   |
+| [`LECHLER S.p.A.`](https://google.com/search?q=LECHLER+S.p.A.) | 26/04/2022 |   |
+| [`Laiteries Reunies Societe cooperative`](https://google.com/search?q=Laiteries+Reunies+Societe+cooperative) | 26/04/2022 |   |
+| [`IMA Schelling Group`](https://google.com/search?q=IMA+Schelling+Group) | 26/04/2022 |   |
+| [`LACKS`](https://google.com/search?q=LACKS) | 26/04/2022 |   |
+| [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | 26/04/2022 |   |
+| [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | 26/04/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1221,95 +1224,95 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| `lapiamontesa` | 22/11/2022 |   |
-| `ALTEK` | 07/11/2022 |   |
-| `PETERSON & HANSON` | 05/11/2022 |   |
-| `Broto Legal` | 05/11/2022 |   |
-| `Asahi Group` | 29/10/2022 |   |
-| `CCLint` | 26/10/2022 |   |
-| `Municipio de Chihuahua` | 26/10/2022 |   |
-| `UNE` | 21/10/2022 |   |
-| `Pitman Family Farms` | 20/10/2022 |   |
-| `Swiss American` | 01/10/2022 |   |
-| `Almoayed ICT` | 01/10/2022 |   |
-| `Biggest News` | 19/09/2022 |   |
-| `South Pacific Inc` | 19/09/2022 |   |
-| `Davin Industries Ltd` | 11/09/2022 |   |
-| `TIB Development Bank` | 11/09/2022 |   |
-| `Speed-Buster` | 05/09/2022 |   |
-| `Alan Smith` | 01/09/2022 |   |
-| `Torin Drive` | 28/08/2022 |   |
-| `Grande Stevens` | 28/08/2022 |   |
-| `GMX` | 24/08/2022 |   |
-| `Apex` | 23/08/2022 |   |
-| `Apex Capital Corp` | 17/08/2022 |   |
-| `PSA` | 11/07/2022 |   |
-| `Gatewayrehab` | 06/07/2022 |   |
-| `Lamoille Health` | 06/07/2022 |   |
-| `Napa Valley College` | 26/06/2022 |   |
-| `Opal` | 12/06/2022 |   |
-| `Grupo Pavisa` | 21/05/2022 |   |
-| `Contraloría General de la República` | 21/05/2022 |   |
-| `xydias.gr` | 12/05/2022 |   |
-| `usu.org.au` | 12/05/2022 |   |
-| `ats-insubria.it` | 12/05/2022 |   |
-| `FRANSABANK` | 02/05/2022 |   |
-| `M+R SPEDAG GROUP` | 02/05/2022 |   |
-| `SOGEGROSS SPA` | 02/05/2022 |   |
-| `London College of Beauty Therapy` | 30/03/2022 |   |
-| `Autumn Transport` | 30/03/2022 |   |
-| `MZ Architects` | 30/03/2022 |   |
-| `Credit Risk Management Canada` | 30/03/2022 |   |
-| `GEBE` | 30/03/2022 |   |
-| `Diamond Pet Foods` | 27/03/2022 |   |
-| `h1{` | 27/03/2022 |   |
-| `INVIMA` | 07/03/2022 |   |
-| `San Francisco 49ers` | 12/02/2022 |   |
-| `Aeronamic` | 08/02/2022 |   |
-| `Venture Machine & Tool, Inc.` | 08/02/2022 |   |
-| `Prince Jewellery & Watch Co., Ltd.` | 07/02/2022 |   |
-| `Bud Griffin and Associates` | 05/02/2022 |   |
-| `Petrolimex` | 05/02/2022 |   |
-| `Rector Hayden Realtors` | 05/02/2022 |   |
-| `Taylor and Martin` | 05/02/2022 |   |
-| `Argonaut Gold` | 05/02/2022 |   |
-| `Kangean Energy Indonesia` | 19/12/2021 |   |
-| `Dental Health Products` | 19/12/2021 |   |
-| `P&R ENTERPRISES` | 09/12/2021 |   |
-| `Unique Home Solutions` | 09/12/2021 |   |
-| `Quanticate` | 09/12/2021 |   |
-| `Bemis Associates` | 06/12/2021 |   |
-| `Karges-Faulconbridge, Inc.` | 30/11/2021 |   |
-| `MOTOR VEHICLE ACCIDENT FUND PENSION FUND` | 30/11/2021 |   |
-| `Koltepatil` | 30/11/2021 |   |
-| `Goodwill of Central and Coastal Virginia, Inc.` | 23/11/2021 |   |
-| `INOXPA` | 23/11/2021 |   |
-| `Canada West Land` | 15/11/2021 |   |
-| `Emery Jensen Distribution` | 15/11/2021 |   |
-| `Purifoy Chevrolet Co.` | 15/11/2021 |   |
-| `Williams & Rowe Company, Inc.` | 15/11/2021 |   |
-| `Visage Imaging` | 13/11/2021 |   |
-| `ASPECT STUDIOS ASIA PTY LTD` | 13/11/2021 |   |
-| `The Glass House` | 13/11/2021 |   |
-| `Regence Footwear` | 03/11/2021 |   |
-| `Napili Kai Foundation Gallery` | 31/10/2021 |   |
-| `H Hotels Collection` | 28/10/2021 |   |
-| `MINT Investments` | 25/10/2021 |   |
-| `DiGioia Gray & Associates, LLC` | 23/10/2021 |   |
-| `GENERALE PREFABBRICATI SPA` | 19/10/2021 |   |
-| `Medical Designs` | 15/10/2021 |   |
-| `Statcomm` | 15/10/2021 |   |
-| `Distribuidora de Industrias Nacionales` | 12/10/2021 |   |
-| `Tom Lange Company, Inc.` | 04/10/2021 |   |
-| `Farmers Cooperative Elevator` | 04/10/2021 |   |
-| `Aluflexpack` | 04/10/2021 |   |
-| `Clay County Clerk` | 04/10/2021 |   |
-| `AZA chili` | 04/10/2021 |   |
-| `BOSCA S.p.A` | 04/10/2021 |   |
-| `The Plastic Forming Company` | 04/10/2021 |   |
-| `GEO-Alpinbau` | 04/10/2021 |   |
-| `Goss Dodge Chrysler Ram Jeep` | 04/10/2021 |   |
-| `Matic Transport` | 04/10/2021 |   |
+| [`lapiamontesa`](https://google.com/search?q=lapiamontesa) | 22/11/2022 |   |
+| [`ALTEK`](https://google.com/search?q=ALTEK) | 07/11/2022 |   |
+| [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | 05/11/2022 |   |
+| [`Broto Legal`](https://google.com/search?q=Broto+Legal) | 05/11/2022 |   |
+| [`Asahi Group`](https://google.com/search?q=Asahi+Group) | 29/10/2022 |   |
+| [`CCLint`](https://google.com/search?q=CCLint) | 26/10/2022 |   |
+| [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | 26/10/2022 |   |
+| [`UNE`](https://google.com/search?q=UNE) | 21/10/2022 |   |
+| [`Pitman Family Farms`](https://google.com/search?q=Pitman+Family+Farms) | 20/10/2022 |   |
+| [`Swiss American`](https://google.com/search?q=Swiss+American) | 01/10/2022 |   |
+| [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | 01/10/2022 |   |
+| [`Biggest News`](https://google.com/search?q=Biggest+News) | 19/09/2022 |   |
+| [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | 19/09/2022 |   |
+| [`Davin Industries Ltd`](https://google.com/search?q=Davin+Industries+Ltd) | 11/09/2022 |   |
+| [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | 11/09/2022 |   |
+| [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | 05/09/2022 |   |
+| [`Alan Smith`](https://google.com/search?q=Alan+Smith) | 01/09/2022 |   |
+| [`Torin Drive`](https://google.com/search?q=Torin+Drive) | 28/08/2022 |   |
+| [`Grande Stevens`](https://google.com/search?q=Grande+Stevens) | 28/08/2022 |   |
+| [`GMX`](https://google.com/search?q=GMX) | 24/08/2022 |   |
+| [`Apex`](https://google.com/search?q=Apex) | 23/08/2022 |   |
+| [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | 17/08/2022 |   |
+| [`PSA`](https://google.com/search?q=PSA) | 11/07/2022 |   |
+| [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | 06/07/2022 |   |
+| [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | 06/07/2022 |   |
+| [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | 26/06/2022 |   |
+| [`Opal`](https://google.com/search?q=Opal) | 12/06/2022 |   |
+| [`Grupo Pavisa`](https://google.com/search?q=Grupo+Pavisa) | 21/05/2022 |   |
+| [`Contraloría General de la República`](https://google.com/search?q=Contralor%C3%ADa+General+de+la+Rep%C3%BAblica) | 21/05/2022 |   |
+| [`xydias.gr`](https://google.com/search?q=xydias.gr) | 12/05/2022 |   |
+| [`usu.org.au`](https://google.com/search?q=usu.org.au) | 12/05/2022 |   |
+| [`ats-insubria.it`](https://google.com/search?q=ats-insubria.it) | 12/05/2022 |   |
+| [`FRANSABANK`](https://google.com/search?q=FRANSABANK) | 02/05/2022 |   |
+| [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | 02/05/2022 |   |
+| [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | 02/05/2022 |   |
+| [`London College of Beauty Therapy`](https://google.com/search?q=London+College+of+Beauty+Therapy) | 30/03/2022 |   |
+| [`Autumn Transport`](https://google.com/search?q=Autumn+Transport) | 30/03/2022 |   |
+| [`MZ Architects`](https://google.com/search?q=MZ+Architects) | 30/03/2022 |   |
+| [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | 30/03/2022 |   |
+| [`GEBE`](https://google.com/search?q=GEBE) | 30/03/2022 |   |
+| [`Diamond Pet Foods`](https://google.com/search?q=Diamond+Pet+Foods) | 27/03/2022 |   |
+| [`h1{`](https://google.com/search?q=h1%7B) | 27/03/2022 |   |
+| [`INVIMA`](https://google.com/search?q=INVIMA) | 07/03/2022 |   |
+| [`San Francisco 49ers`](https://google.com/search?q=San+Francisco+49ers) | 12/02/2022 |   |
+| [`Aeronamic`](https://google.com/search?q=Aeronamic) | 08/02/2022 |   |
+| [`Venture Machine & Tool, Inc.`](https://google.com/search?q=Venture+Machine+%26+Tool%2C+Inc.) | 08/02/2022 |   |
+| [`Prince Jewellery & Watch Co., Ltd.`](https://google.com/search?q=Prince+Jewellery+%26+Watch+Co.%2C+Ltd.) | 07/02/2022 |   |
+| [`Bud Griffin and Associates`](https://google.com/search?q=Bud+Griffin+and+Associates) | 05/02/2022 |   |
+| [`Petrolimex`](https://google.com/search?q=Petrolimex) | 05/02/2022 |   |
+| [`Rector Hayden Realtors`](https://google.com/search?q=Rector+Hayden+Realtors) | 05/02/2022 |   |
+| [`Taylor and Martin`](https://google.com/search?q=Taylor+and+Martin) | 05/02/2022 |   |
+| [`Argonaut Gold`](https://google.com/search?q=Argonaut+Gold) | 05/02/2022 |   |
+| [`Kangean Energy Indonesia`](https://google.com/search?q=Kangean+Energy+Indonesia) | 19/12/2021 |   |
+| [`Dental Health Products`](https://google.com/search?q=Dental+Health+Products) | 19/12/2021 |   |
+| [`P&R ENTERPRISES`](https://google.com/search?q=P%26R+ENTERPRISES) | 09/12/2021 |   |
+| [`Unique Home Solutions`](https://google.com/search?q=Unique+Home+Solutions) | 09/12/2021 |   |
+| [`Quanticate`](https://google.com/search?q=Quanticate) | 09/12/2021 |   |
+| [`Bemis Associates`](https://google.com/search?q=Bemis+Associates) | 06/12/2021 |   |
+| [`Karges-Faulconbridge, Inc.`](https://google.com/search?q=Karges-Faulconbridge%2C+Inc.) | 30/11/2021 |   |
+| [`MOTOR VEHICLE ACCIDENT FUND PENSION FUND`](https://google.com/search?q=MOTOR+VEHICLE+ACCIDENT+FUND+PENSION+FUND) | 30/11/2021 |   |
+| [`Koltepatil`](https://google.com/search?q=Koltepatil) | 30/11/2021 |   |
+| [`Goodwill of Central and Coastal Virginia, Inc.`](https://google.com/search?q=Goodwill+of+Central+and+Coastal+Virginia%2C+Inc.) | 23/11/2021 |   |
+| [`INOXPA`](https://google.com/search?q=INOXPA) | 23/11/2021 |   |
+| [`Canada West Land`](https://google.com/search?q=Canada+West+Land) | 15/11/2021 |   |
+| [`Emery Jensen Distribution`](https://google.com/search?q=Emery+Jensen+Distribution) | 15/11/2021 |   |
+| [`Purifoy Chevrolet Co.`](https://google.com/search?q=Purifoy+Chevrolet+Co.) | 15/11/2021 |   |
+| [`Williams & Rowe Company, Inc.`](https://google.com/search?q=Williams+%26+Rowe+Company%2C+Inc.) | 15/11/2021 |   |
+| [`Visage Imaging`](https://google.com/search?q=Visage+Imaging) | 13/11/2021 |   |
+| [`ASPECT STUDIOS ASIA PTY LTD`](https://google.com/search?q=ASPECT+STUDIOS+ASIA+PTY+LTD) | 13/11/2021 |   |
+| [`The Glass House`](https://google.com/search?q=The+Glass+House) | 13/11/2021 |   |
+| [`Regence Footwear`](https://google.com/search?q=Regence+Footwear) | 03/11/2021 |   |
+| [`Napili Kai Foundation Gallery`](https://google.com/search?q=Napili+Kai+Foundation+Gallery) | 31/10/2021 |   |
+| [`H Hotels Collection`](https://google.com/search?q=H+Hotels+Collection) | 28/10/2021 |   |
+| [`MINT Investments`](https://google.com/search?q=MINT+Investments) | 25/10/2021 |   |
+| [`DiGioia Gray & Associates, LLC`](https://google.com/search?q=DiGioia+Gray+%26+Associates%2C+LLC) | 23/10/2021 |   |
+| [`GENERALE PREFABBRICATI SPA`](https://google.com/search?q=GENERALE+PREFABBRICATI+SPA) | 19/10/2021 |   |
+| [`Medical Designs`](https://google.com/search?q=Medical+Designs) | 15/10/2021 |   |
+| [`Statcomm`](https://google.com/search?q=Statcomm) | 15/10/2021 |   |
+| [`Distribuidora de Industrias Nacionales`](https://google.com/search?q=Distribuidora+de+Industrias+Nacionales) | 12/10/2021 |   |
+| [`Tom Lange Company, Inc.`](https://google.com/search?q=Tom+Lange+Company%2C+Inc.) | 04/10/2021 |   |
+| [`Farmers Cooperative Elevator`](https://google.com/search?q=Farmers+Cooperative+Elevator) | 04/10/2021 |   |
+| [`Aluflexpack`](https://google.com/search?q=Aluflexpack) | 04/10/2021 |   |
+| [`Clay County Clerk`](https://google.com/search?q=Clay+County+Clerk) | 04/10/2021 |   |
+| [`AZA chili`](https://google.com/search?q=AZA+chili) | 04/10/2021 |   |
+| [`BOSCA S.p.A`](https://google.com/search?q=BOSCA+S.p.A) | 04/10/2021 |   |
+| [`The Plastic Forming Company`](https://google.com/search?q=The+Plastic+Forming+Company) | 04/10/2021 |   |
+| [`GEO-Alpinbau`](https://google.com/search?q=GEO-Alpinbau) | 04/10/2021 |   |
+| [`Goss Dodge Chrysler Ram Jeep`](https://google.com/search?q=Goss+Dodge+Chrysler+Ram+Jeep) | 04/10/2021 |   |
+| [`Matic Transport`](https://google.com/search?q=Matic+Transport) | 04/10/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1342,37 +1345,37 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 
 | post | date | Description
 |---|---|---|
-| `National Beverage` | 04/11/2021 |   |
-| `Keycentrix` | 04/11/2021 |   |
-| `Jobbers Meat Packing Co., Inc.` | 04/11/2021 |   |
-| `Home State Bank` | 04/11/2021 |   |
-| `Armour Transportation Systems` | 04/11/2021 |   |
-| `ZKTeco USA` | 04/10/2021 |   |
-| `crystalvalley` | 29/09/2021 |   |
-| `Bumper to Bumper Autoparts` | 21/09/2021 |   |
-| `LA-Martiniquaise` | 20/09/2021 |   |
-| `JMclaughlin` | 20/09/2021 |   |
-| `CasagrandeGroup` | 20/09/2021 |   |
-| `BCP Securities` | 20/09/2021 |   |
-| `Pramer Baustoffe GmbH` | 20/09/2021 |   |
-| `Ellerboeck` | 20/09/2021 |   |
-| `Citrocasa GmbH` | 20/09/2021 |   |
-| `Actief-Jobmade` | 20/09/2021 |   |
-| `Eisvogel Hubert Bernegger GmbH` | 20/09/2021 |   |
-| `Pulmuone Co., Ltd.` | 18/09/2021 |   |
-| `Modern Testing Services` | 17/09/2021 |   |
-| `northwoods & spectrumfurniture` | 17/09/2021 |   |
-| `EQUITY TRANSPORTATION` | 15/09/2021 |   |
-| `River City Construction` | 11/09/2021 |   |
-| `hhcp.com` | 09/09/2021 |   |
-| `Network Telecom / Enreach` | 09/09/2021 |   |
-| `Pine Labs Pvt` | 09/09/2021 |   |
-| `Kaydon Corporation (SKF Group Brand)` | 09/09/2021 |   |
-| `tastefulselections & WFG` | 09/09/2021 |   |
-| `Middleton Reutlinger` | 09/09/2021 |   |
-| `g-able.com` | 09/09/2021 |   |
-| `Diamond Schmitt` | 09/09/2021 |   |
-| `Trust Capital Funding` | 09/09/2021 |   |
+| [`National Beverage`](https://google.com/search?q=National+Beverage) | 04/11/2021 |   |
+| [`Keycentrix`](https://google.com/search?q=Keycentrix) | 04/11/2021 |   |
+| [`Jobbers Meat Packing Co., Inc.`](https://google.com/search?q=Jobbers+Meat+Packing+Co.%2C+Inc.) | 04/11/2021 |   |
+| [`Home State Bank`](https://google.com/search?q=Home+State+Bank) | 04/11/2021 |   |
+| [`Armour Transportation Systems`](https://google.com/search?q=Armour+Transportation+Systems) | 04/11/2021 |   |
+| [`ZKTeco USA`](https://google.com/search?q=ZKTeco+USA) | 04/10/2021 |   |
+| [`crystalvalley`](https://google.com/search?q=crystalvalley) | 29/09/2021 |   |
+| [`Bumper to Bumper Autoparts`](https://google.com/search?q=Bumper+to+Bumper+Autoparts) | 21/09/2021 |   |
+| [`LA-Martiniquaise`](https://google.com/search?q=LA-Martiniquaise) | 20/09/2021 |   |
+| [`JMclaughlin`](https://google.com/search?q=JMclaughlin) | 20/09/2021 |   |
+| [`CasagrandeGroup`](https://google.com/search?q=CasagrandeGroup) | 20/09/2021 |   |
+| [`BCP Securities`](https://google.com/search?q=BCP+Securities) | 20/09/2021 |   |
+| [`Pramer Baustoffe GmbH`](https://google.com/search?q=Pramer+Baustoffe+GmbH) | 20/09/2021 |   |
+| [`Ellerboeck`](https://google.com/search?q=Ellerboeck) | 20/09/2021 |   |
+| [`Citrocasa GmbH`](https://google.com/search?q=Citrocasa+GmbH) | 20/09/2021 |   |
+| [`Actief-Jobmade`](https://google.com/search?q=Actief-Jobmade) | 20/09/2021 |   |
+| [`Eisvogel Hubert Bernegger GmbH`](https://google.com/search?q=Eisvogel+Hubert+Bernegger+GmbH) | 20/09/2021 |   |
+| [`Pulmuone Co., Ltd.`](https://google.com/search?q=Pulmuone+Co.%2C+Ltd.) | 18/09/2021 |   |
+| [`Modern Testing Services`](https://google.com/search?q=Modern+Testing+Services) | 17/09/2021 |   |
+| [`northwoods & spectrumfurniture`](https://google.com/search?q=northwoods+%26+spectrumfurniture) | 17/09/2021 |   |
+| [`EQUITY TRANSPORTATION`](https://google.com/search?q=EQUITY+TRANSPORTATION) | 15/09/2021 |   |
+| [`River City Construction`](https://google.com/search?q=River+City+Construction) | 11/09/2021 |   |
+| [`hhcp.com`](https://google.com/search?q=hhcp.com) | 09/09/2021 |   |
+| [`Network Telecom / Enreach`](https://google.com/search?q=Network+Telecom+%2F+Enreach) | 09/09/2021 |   |
+| [`Pine Labs Pvt`](https://google.com/search?q=Pine+Labs+Pvt) | 09/09/2021 |   |
+| [`Kaydon Corporation (SKF Group Brand)`](https://google.com/search?q=Kaydon+Corporation+%28SKF+Group+Brand%29) | 09/09/2021 |   |
+| [`tastefulselections & WFG`](https://google.com/search?q=tastefulselections+%26+WFG) | 09/09/2021 |   |
+| [`Middleton Reutlinger`](https://google.com/search?q=Middleton+Reutlinger) | 09/09/2021 |   |
+| [`g-able.com`](https://google.com/search?q=g-able.com) | 09/09/2021 |   |
+| [`Diamond Schmitt`](https://google.com/search?q=Diamond+Schmitt) | 09/09/2021 |   |
+| [`Trust Capital Funding`](https://google.com/search?q=Trust+Capital+Funding) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1398,9 +1401,9 @@ _`previous clearnet domain blackshadow.cc`_
 
 | post | date | Description
 |---|---|---|
-| `Shirbit Insurance Company` | 18/12/2021 |   |
-| `K.L.S Capital` | 18/12/2021 |   |
-| `CyberServe Company` | 18/12/2021 |   |
+| [`Shirbit Insurance Company`](https://google.com/search?q=Shirbit+Insurance+Company) | 18/12/2021 |   |
+| [`K.L.S Capital`](https://google.com/search?q=K.L.S+Capital) | 18/12/2021 |   |
+| [`CyberServe Company`](https://google.com/search?q=CyberServe+Company) | 18/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1421,11 +1424,11 @@ _`previous clearnet domain blackshadow.cc`_
 
 | post | date | Description
 |---|---|---|
-| `ticketclub-it` | 30/12/2021 |   |
-| `bankjatim-co-id` | 30/12/2021 |   |
-| `salesplaypos-com` | 30/12/2021 |   |
-| `unexca-edu-ve` | 30/12/2021 |   |
-| `2020/04` | 09/09/2021 |   |
+| [`ticketclub-it`](https://google.com/search?q=ticketclub-it) | 30/12/2021 |   |
+| [`bankjatim-co-id`](https://google.com/search?q=bankjatim-co-id) | 30/12/2021 |   |
+| [`salesplaypos-com`](https://google.com/search?q=salesplaypos-com) | 30/12/2021 |   |
+| [`unexca-edu-ve`](https://google.com/search?q=unexca-edu-ve) | 30/12/2021 |   |
+| [`2020/04`](https://google.com/search?q=2020%2F04) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1470,9 +1473,9 @@ _`claim to donate 80% of earnings to charity`_
 
 | post | date | Description
 |---|---|---|
-| `Marshall Investigative Group Part 1/3 1000 Client` | 06/12/2021 |   |
-| `Ward Arcuri Foley & Dwyer  Law Firm` | 04/10/2021 |   |
-| `Charles Crown Financial Ltd` | 04/10/2021 |   |
+| [`Marshall Investigative Group Part 1/3 1000 Client`](https://google.com/search?q=Marshall+Investigative+Group+Part+1%2F3+1000+Client) | 06/12/2021 |   |
+| [`Ward Arcuri Foley & Dwyer  Law Firm`](https://google.com/search?q=Ward+Arcuri+Foley+%26+Dwyer+%7C+Law+Firm) | 04/10/2021 |   |
+| [`Charles Crown Financial Ltd`](https://google.com/search?q=Charles+Crown+Financial+Ltd) | 04/10/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1494,21 +1497,21 @@ _`claim to donate 80% of earnings to charity`_
 
 | post | date | Description
 |---|---|---|
-| `DYNAM JAPAN HOLDINGS CO., LTD` | 14/09/2022 |   |
-| `An Japan Game Halls Operator` | 01/09/2022 |   |
-| `An British Financial Company -Public` | 18/08/2022 |   |
-| `An Insurance Company  -Paid` | 09/08/2022 |   |
-| `An Turkey Certified Public Accountancy Firms  -Unpay` | 09/08/2022 |   |
-| `An Insurance Company` | 19/07/2022 |   |
-| `An British Financial Company -Unpay` | 18/07/2022 |   |
-| `An International Shipping Company - Paid` | 18/07/2022 |   |
-| `An International Shipping Company - Unpay` | 01/07/2022 |   |
-| `https://` | 30/06/2022 |   |
-| `Sembcorp Marine - Unpay` | 28/06/2022 |   |
-| `An Technology Company - Paid` | 29/05/2022 |   |
-| `An Financial Company - Paid` | 29/05/2022 |   |
-| `An Belgium Hospital - Unpay` | 29/05/2022 |   |
-| `An International Maritime Company - Unpay` | 29/05/2022 |   |
+| [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | 14/09/2022 |   |
+| [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | 01/09/2022 |   |
+| [`An British Financial Company -Public`](https://google.com/search?q=An+British+Financial+Company+-Public) | 18/08/2022 |   |
+| [`An Insurance Company  -Paid`](https://google.com/search?q=An+Insurance+Company++-Paid) | 09/08/2022 |   |
+| [`An Turkey Certified Public Accountancy Firms  -Unpay`](https://google.com/search?q=An+Turkey+Certified+Public+Accountancy+Firms++-Unpay) | 09/08/2022 |   |
+| [`An Insurance Company`](https://google.com/search?q=An+Insurance+Company) | 19/07/2022 |   |
+| [`An British Financial Company -Unpay`](https://google.com/search?q=An+British+Financial+Company+-Unpay) | 18/07/2022 |   |
+| [`An International Shipping Company - Paid`](https://google.com/search?q=An+International+Shipping+Company+-+Paid) | 18/07/2022 |   |
+| [`An International Shipping Company - Unpay`](https://google.com/search?q=An+International+Shipping+Company+-+Unpay) | 01/07/2022 |   |
+| [`https://`](https://google.com/search?q=https%3A%2F%2F) | 30/06/2022 |   |
+| [`Sembcorp Marine - Unpay`](https://google.com/search?q=Sembcorp+Marine+-+Unpay) | 28/06/2022 |   |
+| [`An Technology Company - Paid`](https://google.com/search?q=An+Technology+Company+-+Paid) | 29/05/2022 |   |
+| [`An Financial Company - Paid`](https://google.com/search?q=An+Financial+Company+-+Paid) | 29/05/2022 |   |
+| [`An Belgium Hospital - Unpay`](https://google.com/search?q=An+Belgium+Hospital+-+Unpay) | 29/05/2022 |   |
+| [`An International Maritime Company - Unpay`](https://google.com/search?q=An+International+Maritime+Company+-+Unpay) | 29/05/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -1550,7 +1553,7 @@ _`claim to donate 80% of earnings to charity`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/clop/clop2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/clop/clop1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/clop/clop1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/clop/clop2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -1707,7 +1710,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/conti/conti4.txt" target=_blank>#1</a>  <a href="/ransomware_notes/conti/conti1.txt" target=_blank>#2</a>  <a href="/ransomware_notes/conti/conti2.txt" target=_blank>#3</a>  <a href="/ransomware_notes/conti/conti3.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/conti/conti1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/conti/conti2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/conti/conti3.txt" target=_blank>#3</a>  <a href="/ransomware_notes/conti/conti4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -1715,339 +1718,339 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 
 | post | date | Description
 |---|---|---|
-| `Alliance Steel` | 07/06/2022 |   |
-| `LCRD` | 25/05/2022 |   |
-| `The Contact Company` | 25/05/2022 |   |
-| `Central Restaurant Products` | 24/05/2022 |   |
-| `Schaumburg Park District` | 24/05/2022 |   |
-| `RateGain` | 24/05/2022 |   |
-| `Imenco AS` | 23/05/2022 |   |
-| `Concepts in Millwork` | 23/05/2022 |   |
-| `Eurofred` | 23/05/2022 |   |
-| `Agile Sourcing Partners` | 23/05/2022 |   |
-| `Alimentos y Frutos S.A.` | 23/05/2022 |   |
-| `Worksoft` | 23/05/2022 |   |
-| `Omicron Consulting S.r.L` | 23/05/2022 |   |
-| `Pianca` | 23/05/2022 |   |
-| `Allcat Claims Service` | 23/05/2022 |   |
-| `FOR BlackCat and LockBit advert` | 17/05/2022 |   |
-| `For Costa Rica and US terrorists (Biden and his administration)` | 14/05/2022 |   |
-| `Cjk Group, Inc.` | 12/05/2022 |   |
-| `EYP` | 04/05/2022 |   |
-| `LARON an otp industrial solutions company` | 28/04/2022 |   |
-| `Attica Holdings S.A.` | 27/04/2022 |   |
-| `For Peru` | 27/04/2022 |   |
-| `Elgin_Ca` | 25/04/2022 |   |
-| `Jasec` | 23/04/2022 |   |
-| `Attica Group` | 20/04/2022 |   |
-| `Instituto Meteorológico Nacional and racsa.go.cr` | 19/04/2022 |   |
-| `Instituto Meteorológico Nacional` | 19/04/2022 |   |
-| `Del Sol` | 19/04/2022 |   |
-| `For Costa Rica` | 19/04/2022 |   |
-| `Centris` | 18/04/2022 |   |
-| `Nordex SE` | 18/04/2022 |   |
-| `Ministerio de Hacienda - República de Costa Rica` | 17/04/2022 |   |
-| `Tucker Door & Trim` | 17/04/2022 |   |
-| `[IMPORTANT ANNOUNCEMENT!]` | 15/04/2022 |   |
-| `CJ Pony Parts` | 15/04/2022 |   |
-| `Big Horn Plastering of Colorado, Inc.` | 14/04/2022 |   |
-| `Elevate Services` | 14/04/2022 |   |
-| `TIC International Corporation` | 12/04/2022 |   |
-| `Newlat Food SPA` | 11/04/2022 |   |
-| `CAE Services` | 11/04/2022 |   |
-| `MARTINELLI GINETTO` | 11/04/2022 |   |
-| `Eminox` | 11/04/2022 |   |
-| `Snap-on Incorporated` | 10/04/2022 |   |
-| `Wocklum Group` | 08/04/2022 |   |
-| `Barwick Bathroom Distribution LLP` | 06/04/2022 |   |
-| `panasonic` | 05/04/2022 |   |
-| `Woningcorporatie ZAYAZ` | 04/04/2022 |   |
-| `TRUSTFORD` | 04/04/2022 |   |
-| `SLH` | 03/04/2022 |   |
-| `Frey and Winkler GmbH` | 03/04/2022 |   |
-| `Ackerman Plumbing` | 02/04/2022 |   |
-| `FlipChip` | 02/04/2022 |   |
-| `MANUFAST` | 02/04/2022 |   |
-| `GIBSON HomeWares` | 01/04/2022 |   |
-| `Midea Carrier` | 01/04/2022 |   |
-| `I-SEC International Security` | 01/04/2022 |   |
-| `Lowell` | 01/04/2022 |   |
-| `Prima Sole Components Spa` | 31/03/2022 |   |
-| `Rettenmeier Holding AG` | 31/03/2022 |   |
-| `Parker Appliance Company` | 31/03/2022 |   |
-| `Zeeland Farm Services, Inc.` | 31/03/2022 |   |
-| `Scott Manufacturing, LLC` | 30/03/2022 |   |
-| `BANQUE CENTRALE DE TUNISIE` | 30/03/2022 |   |
-| `ITECOR International SA` | 29/03/2022 |   |
-| `Critical Content` | 29/03/2022 |   |
-| `Automobil Holding AS` | 29/03/2022 |   |
-| `Royal Brunei Airlines Sdn Bhd` | 29/03/2022 |   |
-| `Azimut Benetti Group` | 29/03/2022 |   |
-| `GRS Group` | 29/03/2022 |   |
-| `AB Karl Hedin` | 28/03/2022 |   |
-| `ONCALL Language Services` | 28/03/2022 |   |
-| `Neschen Coating GmbH` | 28/03/2022 |   |
-| `Allied Eagle Supply` | 28/03/2022 |   |
-| `UNITEK Contracting Group` | 28/03/2022 |   |
-| `Hochschild Mining` | 27/03/2022 |   |
-| `Shapiro and Duncan` | 24/03/2022 |   |
-| `Sav-Rx Prescription Services` | 23/03/2022 |   |
-| `WELCOME HOTELS` | 23/03/2022 |   |
-| `Sanoh America Inc.` | 22/03/2022 |   |
-| `Anac` | 22/03/2022 |   |
-| `OCA Global` | 21/03/2022 |   |
-| `MJH Life Sciences` | 20/03/2022 |   |
-| `PFC USA` | 20/03/2022 |   |
-| `BAUKING` | 19/03/2022 |   |
-| `Normandeau Associates, Inc.` | 19/03/2022 |   |
-| `bChannels Ltd.` | 19/03/2022 |   |
-| `BDX` | 19/03/2022 |   |
-| `Talent Logic Inc.` | 18/03/2022 |   |
-| `NORDEX FOOD` | 18/03/2022 |   |
-| `TIG` | 18/03/2022 |   |
-| `AllOffice` | 17/03/2022 |   |
-| `Managed Business Solutions` | 17/03/2022 |   |
-| `IMT GROUP` | 17/03/2022 |   |
-| `Empire Electronics Inc.` | 17/03/2022 |   |
-| `Milan Institute` | 17/03/2022 |   |
-| `Aluminerie Alouette` | 09/03/2022 |   |
-| `Great HealthWorks` | 09/03/2022 |   |
-| `TST Logistics` | 09/03/2022 |   |
-| `Myron Corp.` | 08/03/2022 |   |
-| `Fuchs North America` | 07/03/2022 |   |
-| `Fujioka Eletro Imagem SA` | 07/03/2022 |   |
-| `EUROPA GROUP` | 07/03/2022 |   |
-| `Loepthien Maeder Treuhand AG` | 07/03/2022 |   |
-| `Cummins-Wagner` | 06/03/2022 |   |
-| `Lifetech Resources` | 04/03/2022 |   |
-| `A.J. Rose` | 04/03/2022 |   |
-| `Prima Power` | 04/03/2022 |   |
-| `Gleason Corporation` | 04/03/2022 |   |
-| `Caledonian` | 04/03/2022 |   |
-| `United McGill Corporation` | 04/03/2022 |   |
-| `Get Fresh Company` | 04/03/2022 |   |
-| `Sport Vision` | 03/03/2022 |   |
-| `GRUPPO ANGELANTONI` | 03/03/2022 |   |
-| `Buhck Gruppe` | 03/03/2022 |   |
-| `HOL-MAC Corp.` | 02/03/2022 |   |
-| `University of Neuchâtel` | 26/02/2022 |   |
-| `HF Group` | 26/02/2022 |   |
-| `IDEAL Fensterbau` | 26/02/2022 |   |
-| `Research Partnership` | 26/02/2022 |   |
-| `WARNING` | 25/02/2022 |   |
-| `The Spine Diagnostic` | 25/02/2022 |   |
-| `Colli del Soligo` | 25/02/2022 |   |
-| `JOB AG` | 25/02/2022 |   |
-| `KRACHT GmbH` | 25/02/2022 |   |
-| `Primex Manufacturing Inc` | 25/02/2022 |   |
-| `Midas Pharma GmbH` | 25/02/2022 |   |
-| `Apollo` | 24/02/2022 |   |
-| `Schultze and Braun` | 24/02/2022 |   |
-| `Tudi Mechanical Systems (TMS)` | 23/02/2022 |   |
-| `RAMSAUER` | 23/02/2022 |   |
-| `Mack Defense, LLC` | 19/02/2022 |   |
-| `CSI Laboratories` | 18/02/2022 |   |
-| `GEE GROUP INC.` | 15/02/2022 |   |
-| `Ciam SPA` | 15/02/2022 |   |
-| `Muehlhan` | 14/02/2022 |   |
-| `iTCo Solutions Ltd` | 13/02/2022 |   |
-| `Ebix Inc.` | 12/02/2022 |   |
-| `Aareon Nederland B.V.` | 11/02/2022 |   |
-| `HelmsBriscoe` | 11/02/2022 |   |
-| `New World Development Company Limited (NWD)` | 11/02/2022 |   |
-| `Vrancor Group` | 11/02/2022 |   |
-| `Rheinland-Pfalz Bank` | 10/02/2022 |   |
-| `The Lovett Group` | 09/02/2022 |   |
-| `SEA-invest` | 08/02/2022 |   |
-| `Zamil Industrial` | 07/02/2022 |   |
-| `NZ UNIFORMS` | 07/02/2022 |   |
-| `Athens Distributing Company` | 07/02/2022 |   |
-| `KP SNACKS` | 07/02/2022 |   |
-| `MSH Steuerberatungsgesellschaft` | 07/02/2022 |   |
-| `Bank of Indonesia` | 20/01/2022 |   |
-| `PLACON` | 15/01/2022 |   |
-| `Shutterfly inc.` | 15/01/2022 |   |
-| `RRD` | 15/01/2022 |   |
-| `Safeguard` | 15/01/2022 |   |
-| `Lyon-Waugh Auto Group` | 15/01/2022 |   |
-| `Perennials Fabrics` | 15/01/2022 |   |
-| `Acuity Brands` | 15/01/2022 |   |
-| `Arcese` | 11/01/2022 |   |
-| `DURA  Innovation Driven by Inspiration` | 06/01/2022 |   |
-| `Iwis Group` | 03/01/2022 |   |
-| `American Dream` | 30/12/2021 |   |
-| `Mount Franklin Foods, LLC` | 28/12/2021 |   |
-| `Bernd Siegmund GmbH` | 27/12/2021 |   |
-| `ENVASES GROUP` | 26/12/2021 |   |
-| `SVP Groupe` | 26/12/2021 |   |
-| `Economos properties` | 26/12/2021 |   |
-| `The Technord industrial group` | 26/12/2021 |   |
-| `iGuzzini Group` | 26/12/2021 |   |
-| `Charles Kendall` | 26/12/2021 |   |
-| `Arbor Contract Carpet Inc.` | 26/12/2021 |   |
-| `Metamorph Group` | 26/12/2021 |   |
-| `RKPT` | 26/12/2021 |   |
-| `Polysciences, Inc.` | 25/12/2021 |   |
-| `Bay and Bay Transportation` | 23/12/2021 |   |
-| `Holiday Builders` | 22/12/2021 |   |
-| `McMenamins` | 21/12/2021 |   |
-| `CASINO WINNAVEGAS` | 20/12/2021 |   |
-| `The Briad Group` | 20/12/2021 |   |
-| `DEWEtech` | 15/12/2021 |   |
-| `WEBER_OTT AG` | 14/12/2021 |   |
-| `Amoria Bond` | 14/12/2021 |   |
-| `TALIS GROUP` | 13/12/2021 |   |
-| `Chantelle Group` | 13/12/2021 |   |
-| `Nordic Choice Hotels` | 13/12/2021 |   |
-| `MEETH` | 13/12/2021 |   |
-| `DOMICIM Agence` | 13/12/2021 |   |
-| `Comerio Ercole spa` | 13/12/2021 |   |
-| `COMUNE DI TORINO` | 09/12/2021 |   |
-| `LAVI` | 09/12/2021 |   |
-| `Clementoni` | 06/12/2021 |   |
-| `MST LAWYERS` | 06/12/2021 |   |
-| `HOULE` | 05/12/2021 |   |
-| `Spencer Gifts LLC` | 05/12/2021 |   |
-| `NLB Corporation` | 04/12/2021 |   |
-| `KISTERS` | 01/12/2021 |   |
-| `FRONTIER SOFTWARE` | 01/12/2021 |   |
-| `Burda Sanitärtechnik` | 30/11/2021 |   |
-| `SIRCHIE` | 29/11/2021 |   |
-| `Epple Druckfarben` | 29/11/2021 |   |
-| `San Carlo` | 29/11/2021 |   |
-| `DUNMORE` | 28/11/2021 |   |
-| `Acne Studios` | 26/11/2021 |   |
-| `jadecorp` | 22/11/2021 |   |
-| `DKS  Deutsch Kerrigan LLP` | 22/11/2021 |   |
-| `Not Yet Kameraden!` | 19/11/2021 |   |
-| `HELSA Group International` | 19/11/2021 |   |
-| `Area Energy & Electric` | 18/11/2021 |   |
-| `FTI Group` | 18/11/2021 |   |
-| `General RV Center` | 17/11/2021 |   |
-| `JAFTEX Corporation` | 16/11/2021 |   |
-| `HARTMANN FINANCIAL ADVISORS LLC` | 16/11/2021 |   |
-| `Marymount Manhattan College` | 16/11/2021 |   |
-| `LOGROS S.A.` | 16/11/2021 |   |
-| `Aisha Steel-ASML` | 16/11/2021 |   |
-| `COMMUNAUTÉ DE COMMUNES PAYS D’APT LUBERON` | 12/11/2021 |   |
-| `VISTRA` | 11/11/2021 |   |
-| `Orgill, Inc.` | 11/11/2021 |   |
-| `Cogan Wire and Metal Products Ltd` | 11/11/2021 |   |
-| `Axiсorp GMBH` | 11/11/2021 |   |
-| `Axio` | 11/11/2021 |   |
-| `Greymouse VA PTY Ltd` | 11/11/2021 |   |
-| `EQUITY Bank` | 10/11/2021 |   |
-| `Electra Link` | 09/11/2021 |   |
-| `Hutt` | 09/11/2021 |   |
-| `ONTEC Automation` | 08/11/2021 |   |
-| `ARGOS CONNECT ENERGY` | 08/11/2021 |   |
-| `JEAN FLOC’H` | 07/11/2021 |   |
-| `TRINA SOLAR` | 07/11/2021 |   |
-| `MEYER CORPORATION` | 07/11/2021 |   |
-| `DALLOYAU` | 06/11/2021 |   |
-| `INDIAN CREEK` | 06/11/2021 |   |
-| `HUDSON BROTHERS Construction Company` | 06/11/2021 |   |
-| `VIENNA INSURANCE GROUP` | 06/11/2021 |   |
-| `PORTALP` | 06/11/2021 |   |
-| `Agricorp Company` | 06/11/2021 |   |
-| `STAR REFRIGERATION LIMITED` | 06/11/2021 |   |
-| `lkma` | 06/11/2021 |   |
-| `EZ Loader` | 06/11/2021 |   |
-| `Bochane Groep` | 06/11/2021 |   |
-| `MUTUAL MATERIALS` | 06/11/2021 |   |
-| `THE METRO GROUP, INC.` | 06/11/2021 |   |
-| `M3 Inc.` | 06/11/2021 |   |
-| `Announcement` | 04/11/2021 |   |
-| `ARM CHINA` | 04/11/2021 |   |
-| `Graff Diamonds - Announcement` | 02/11/2021 |   |
-| `socage` | 02/11/2021 |   |
-| `benefitexpress` | 02/11/2021 |   |
-| `Southland Holdings` | 02/11/2021 |   |
-| `Finite Recruitment` | 01/11/2021 |   |
-| `Power Plumbing` | 01/11/2021 |   |
-| `Acorn Stairlifts` | 29/10/2021 |   |
-| `Perrin` | 29/10/2021 |   |
-| `ILLUM` | 29/10/2021 |   |
-| `Major Wire Industries` | 29/10/2021 |   |
-| `Los Gatos Tomato Products` | 29/10/2021 |   |
-| `Marketing Alliance Group` | 29/10/2021 |   |
-| `Medical Healthcare Solutions, Inc` | 26/10/2021 |   |
-| `Ideal Living` | 26/10/2021 |   |
-| `Pfertner GmbH Immobilienverwaltung` | 25/10/2021 |   |
-| `SAN CARLO GRUPPO ALIMENTARE SPA` | 25/10/2021 |   |
-| `Barnes Professional Eye Care` | 25/10/2021 |   |
-| `Enviroplas` | 25/10/2021 |   |
-| `SPF Precut Lumber` | 24/10/2021 |   |
-| `Obeikan Investment Group` | 23/10/2021 |   |
-| `Artsana` | 23/10/2021 |   |
-| `Porto Seguro` | 23/10/2021 |   |
-| `Grupo Alter` | 23/10/2021 |   |
-| `Ideal Printers` | 23/10/2021 |   |
-| `DCI, Inc.` | 23/10/2021 |   |
-| `Sykes Cottages` | 23/10/2021 |   |
-| `Beedie` | 23/10/2021 |   |
-| `Schimberg Co.` | 23/10/2021 |   |
-| `Vaughn Industries` | 23/10/2021 |   |
-| `Reliable Parts` | 23/10/2021 |   |
-| `Albireo Energy` | 22/10/2021 |   |
-| `Announcement. ReviLives.` | 22/10/2021 |   |
-| `The National Math and Science Initiative` | 21/10/2021 |   |
-| `Glenbrook Automotive Group` | 20/10/2021 |   |
-| `Creative Extruded Products` | 20/10/2021 |   |
-| `JVCKenwood` | 18/10/2021 |   |
-| `Nakisa` | 17/10/2021 |   |
-| `Galloway Research Service` | 17/10/2021 |   |
-| `EXAIR` | 17/10/2021 |   |
-| `Graff Diamonds` | 17/10/2021 |   |
-| `SEIU Local 888` | 17/10/2021 |   |
-| `Real Time Consultants, Inc` | 17/10/2021 |   |
-| `Crowder Construction Company` | 17/10/2021 |   |
-| `Berexco LLC` | 05/10/2021 |   |
-| `wenco S. A.` | 05/10/2021 |   |
-| `Align Technology` | 02/10/2021 |   |
-| `JVCKenwood Case` | 01/10/2021 |   |
-| `Gershman Mortgage` | 30/09/2021 |   |
-| `DataXsport` | 28/09/2021 |   |
-| `Grupo GSS` | 28/09/2021 |   |
-| `TaxLeaf Corporate` | 28/09/2021 |   |
-| `Minjar Gold` | 27/09/2021 |   |
-| `parcoinc` | 27/09/2021 |   |
-| `WEST TREE SERVICE` | 27/09/2021 |   |
-| `RTI Surgical` | 26/09/2021 |   |
-| `Cedar Grove Composting` | 24/09/2021 |   |
-| `Vera Wang Group` | 24/09/2021 |   |
-| `Jakes Finer Foods` | 24/09/2021 |   |
-| `IJmond Werkt` | 24/09/2021 |   |
-| `IN2 Engineering` | 24/09/2021 |   |
-| `PeakLogix` | 23/09/2021 |   |
-| `Office Star Products` | 23/09/2021 |   |
-| `Real Time` | 23/09/2021 |   |
-| `BÖWE SYSTEC` | 22/09/2021 |   |
-| `Marans Weisz & Newman, LLC` | 22/09/2021 |   |
-| `PowerGrid Services` | 22/09/2021 |   |
-| `NASCO Industries` | 22/09/2021 |   |
-| `aathonrton` | 20/09/2021 |   |
-| `Pines Ford Lincoln` | 20/09/2021 |   |
-| `AMAX` | 16/09/2021 |   |
-| `ASSU 2000` | 11/09/2021 |   |
-| `Grupo Herdez, S.A.B. de C.V. Holding Companies` | 09/09/2021 |   |
-| `Frank G. Love Envelopes, Inc.` | 09/09/2021 |   |
-| `JAMAC FROZEN FOODS` | 09/09/2021 |   |
-| `MOSS BROS GROUP` | 09/09/2021 |   |
-| `Riwega S.R.L.` | 09/09/2021 |   |
-| `RPE CONTRACTING` | 09/09/2021 |   |
-| `Sanger & Altgelt Insurance Agents` | 09/09/2021 |   |
-| `TURLA SRL` | 09/09/2021 |   |
-| `Vendrig Holding B.V.` | 09/09/2021 |   |
-| `world-electronics` | 09/09/2021 |   |
-| `Milwaukee World Festival, Inc` | 09/09/2021 |   |
-| `completeportables` | 09/09/2021 |   |
-| `DEBTIN CONSULTANTS (PTY) LTD` | 09/09/2021 |   |
-| `Bob Poynter` | 09/09/2021 |   |
-| `VIVEA` | 09/09/2021 |   |
-| `Duke Manufacturing Co.` | 09/09/2021 |   |
-| `Hanwha Life Vietnam` | 09/09/2021 |   |
-| `SOLWARE` | 09/09/2021 |   |
+| [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | 07/06/2022 |   |
+| [`LCRD`](https://google.com/search?q=LCRD) | 25/05/2022 |   |
+| [`The Contact Company`](https://google.com/search?q=The+Contact+Company) | 25/05/2022 |   |
+| [`Central Restaurant Products`](https://google.com/search?q=Central+Restaurant+Products) | 24/05/2022 |   |
+| [`Schaumburg Park District`](https://google.com/search?q=Schaumburg+Park+District) | 24/05/2022 |   |
+| [`RateGain`](https://google.com/search?q=RateGain) | 24/05/2022 |   |
+| [`Imenco AS`](https://google.com/search?q=Imenco+AS) | 23/05/2022 |   |
+| [`Concepts in Millwork`](https://google.com/search?q=Concepts+in+Millwork) | 23/05/2022 |   |
+| [`Eurofred`](https://google.com/search?q=Eurofred) | 23/05/2022 |   |
+| [`Agile Sourcing Partners`](https://google.com/search?q=Agile+Sourcing+Partners) | 23/05/2022 |   |
+| [`Alimentos y Frutos S.A.`](https://google.com/search?q=Alimentos+y+Frutos+S.A.) | 23/05/2022 |   |
+| [`Worksoft`](https://google.com/search?q=Worksoft) | 23/05/2022 |   |
+| [`Omicron Consulting S.r.L`](https://google.com/search?q=Omicron+Consulting+S.r.L) | 23/05/2022 |   |
+| [`Pianca`](https://google.com/search?q=Pianca) | 23/05/2022 |   |
+| [`Allcat Claims Service`](https://google.com/search?q=Allcat+Claims+Service) | 23/05/2022 |   |
+| [`FOR BlackCat and LockBit advert`](https://google.com/search?q=FOR+BlackCat+and+LockBit+advert) | 17/05/2022 |   |
+| [`For Costa Rica and US terrorists (Biden and his administration)`](https://google.com/search?q=For+Costa+Rica+and+US+terrorists+%28Biden+and+his+administration%29) | 14/05/2022 |   |
+| [`Cjk Group, Inc.`](https://google.com/search?q=Cjk+Group%2C+Inc.) | 12/05/2022 |   |
+| [`EYP`](https://google.com/search?q=EYP) | 04/05/2022 |   |
+| [`LARON an otp industrial solutions company`](https://google.com/search?q=LARON+an+otp+industrial+solutions+company) | 28/04/2022 |   |
+| [`Attica Holdings S.A.`](https://google.com/search?q=Attica+Holdings+S.A.) | 27/04/2022 |   |
+| [`For Peru`](https://google.com/search?q=For+Peru) | 27/04/2022 |   |
+| [`Elgin_Ca`](https://google.com/search?q=Elgin_Ca) | 25/04/2022 |   |
+| [`Jasec`](https://google.com/search?q=Jasec) | 23/04/2022 |   |
+| [`Attica Group`](https://google.com/search?q=Attica+Group) | 20/04/2022 |   |
+| [`Instituto Meteorológico Nacional and racsa.go.cr`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional+and+racsa.go.cr) | 19/04/2022 |   |
+| [`Instituto Meteorológico Nacional`](https://google.com/search?q=Instituto+Meteorol%C3%B3gico+Nacional) | 19/04/2022 |   |
+| [`Del Sol`](https://google.com/search?q=Del+Sol) | 19/04/2022 |   |
+| [`For Costa Rica`](https://google.com/search?q=For+Costa+Rica) | 19/04/2022 |   |
+| [`Centris`](https://google.com/search?q=Centris) | 18/04/2022 |   |
+| [`Nordex SE`](https://google.com/search?q=Nordex+SE) | 18/04/2022 |   |
+| [`Ministerio de Hacienda - República de Costa Rica`](https://google.com/search?q=Ministerio+de+Hacienda+-+Rep%C3%BAblica+de+Costa+Rica) | 17/04/2022 |   |
+| [`Tucker Door & Trim`](https://google.com/search?q=Tucker+Door+%26+Trim) | 17/04/2022 |   |
+| [`[IMPORTANT ANNOUNCEMENT!]`](https://google.com/search?q=%5BIMPORTANT+ANNOUNCEMENT%21%5D) | 15/04/2022 |   |
+| [`CJ Pony Parts`](https://google.com/search?q=CJ+Pony+Parts) | 15/04/2022 |   |
+| [`Big Horn Plastering of Colorado, Inc.`](https://google.com/search?q=Big+Horn+Plastering+of+Colorado%2C+Inc.) | 14/04/2022 |   |
+| [`Elevate Services`](https://google.com/search?q=Elevate+Services) | 14/04/2022 |   |
+| [`TIC International Corporation`](https://google.com/search?q=TIC+International+Corporation) | 12/04/2022 |   |
+| [`Newlat Food SPA`](https://google.com/search?q=Newlat+Food+SPA) | 11/04/2022 |   |
+| [`CAE Services`](https://google.com/search?q=CAE+Services) | 11/04/2022 |   |
+| [`MARTINELLI GINETTO`](https://google.com/search?q=MARTINELLI+GINETTO) | 11/04/2022 |   |
+| [`Eminox`](https://google.com/search?q=Eminox) | 11/04/2022 |   |
+| [`Snap-on Incorporated`](https://google.com/search?q=Snap-on+Incorporated) | 10/04/2022 |   |
+| [`Wocklum Group`](https://google.com/search?q=Wocklum+Group) | 08/04/2022 |   |
+| [`Barwick Bathroom Distribution LLP`](https://google.com/search?q=Barwick+Bathroom+Distribution+LLP) | 06/04/2022 |   |
+| [`panasonic`](https://google.com/search?q=panasonic) | 05/04/2022 |   |
+| [`Woningcorporatie ZAYAZ`](https://google.com/search?q=Woningcorporatie+ZAYAZ) | 04/04/2022 |   |
+| [`TRUSTFORD`](https://google.com/search?q=TRUSTFORD) | 04/04/2022 |   |
+| [`SLH`](https://google.com/search?q=SLH) | 03/04/2022 |   |
+| [`Frey and Winkler GmbH`](https://google.com/search?q=Frey+and+Winkler+GmbH) | 03/04/2022 |   |
+| [`Ackerman Plumbing`](https://google.com/search?q=Ackerman+Plumbing) | 02/04/2022 |   |
+| [`FlipChip`](https://google.com/search?q=FlipChip) | 02/04/2022 |   |
+| [`MANUFAST`](https://google.com/search?q=MANUFAST) | 02/04/2022 |   |
+| [`GIBSON HomeWares`](https://google.com/search?q=GIBSON+HomeWares) | 01/04/2022 |   |
+| [`Midea Carrier`](https://google.com/search?q=Midea+Carrier) | 01/04/2022 |   |
+| [`I-SEC International Security`](https://google.com/search?q=I-SEC+International+Security) | 01/04/2022 |   |
+| [`Lowell`](https://google.com/search?q=Lowell) | 01/04/2022 |   |
+| [`Prima Sole Components Spa`](https://google.com/search?q=Prima+Sole+Components+Spa) | 31/03/2022 |   |
+| [`Rettenmeier Holding AG`](https://google.com/search?q=Rettenmeier+Holding+AG) | 31/03/2022 |   |
+| [`Parker Appliance Company`](https://google.com/search?q=Parker+Appliance+Company) | 31/03/2022 |   |
+| [`Zeeland Farm Services, Inc.`](https://google.com/search?q=Zeeland+Farm+Services%2C+Inc.) | 31/03/2022 |   |
+| [`Scott Manufacturing, LLC`](https://google.com/search?q=Scott+Manufacturing%2C+LLC) | 30/03/2022 |   |
+| [`BANQUE CENTRALE DE TUNISIE`](https://google.com/search?q=BANQUE+CENTRALE+DE+TUNISIE) | 30/03/2022 |   |
+| [`ITECOR International SA`](https://google.com/search?q=ITECOR+International+SA) | 29/03/2022 |   |
+| [`Critical Content`](https://google.com/search?q=Critical+Content) | 29/03/2022 |   |
+| [`Automobil Holding AS`](https://google.com/search?q=Automobil+Holding+AS) | 29/03/2022 |   |
+| [`Royal Brunei Airlines Sdn Bhd`](https://google.com/search?q=Royal+Brunei+Airlines+Sdn+Bhd) | 29/03/2022 |   |
+| [`Azimut Benetti Group`](https://google.com/search?q=Azimut+Benetti+Group) | 29/03/2022 |   |
+| [`GRS Group`](https://google.com/search?q=GRS+Group) | 29/03/2022 |   |
+| [`AB Karl Hedin`](https://google.com/search?q=AB+Karl+Hedin) | 28/03/2022 |   |
+| [`ONCALL Language Services`](https://google.com/search?q=ONCALL+Language+Services) | 28/03/2022 |   |
+| [`Neschen Coating GmbH`](https://google.com/search?q=Neschen+Coating+GmbH) | 28/03/2022 |   |
+| [`Allied Eagle Supply`](https://google.com/search?q=Allied+Eagle+Supply) | 28/03/2022 |   |
+| [`UNITEK Contracting Group`](https://google.com/search?q=UNITEK+Contracting+Group) | 28/03/2022 |   |
+| [`Hochschild Mining`](https://google.com/search?q=Hochschild+Mining) | 27/03/2022 |   |
+| [`Shapiro and Duncan`](https://google.com/search?q=Shapiro+and+Duncan) | 24/03/2022 |   |
+| [`Sav-Rx Prescription Services`](https://google.com/search?q=Sav-Rx+Prescription+Services) | 23/03/2022 |   |
+| [`WELCOME HOTELS`](https://google.com/search?q=WELCOME+HOTELS) | 23/03/2022 |   |
+| [`Sanoh America Inc.`](https://google.com/search?q=Sanoh+America+Inc.) | 22/03/2022 |   |
+| [`Anac`](https://google.com/search?q=Anac) | 22/03/2022 |   |
+| [`OCA Global`](https://google.com/search?q=OCA+Global) | 21/03/2022 |   |
+| [`MJH Life Sciences`](https://google.com/search?q=MJH+Life+Sciences) | 20/03/2022 |   |
+| [`PFC USA`](https://google.com/search?q=PFC+USA) | 20/03/2022 |   |
+| [`BAUKING`](https://google.com/search?q=BAUKING) | 19/03/2022 |   |
+| [`Normandeau Associates, Inc.`](https://google.com/search?q=Normandeau+Associates%2C+Inc.) | 19/03/2022 |   |
+| [`bChannels Ltd.`](https://google.com/search?q=bChannels+Ltd.) | 19/03/2022 |   |
+| [`BDX`](https://google.com/search?q=BDX) | 19/03/2022 |   |
+| [`Talent Logic Inc.`](https://google.com/search?q=Talent+Logic+Inc.) | 18/03/2022 |   |
+| [`NORDEX FOOD`](https://google.com/search?q=NORDEX+FOOD) | 18/03/2022 |   |
+| [`TIG`](https://google.com/search?q=TIG) | 18/03/2022 |   |
+| [`AllOffice`](https://google.com/search?q=AllOffice) | 17/03/2022 |   |
+| [`Managed Business Solutions`](https://google.com/search?q=Managed+Business+Solutions) | 17/03/2022 |   |
+| [`IMT GROUP`](https://google.com/search?q=IMT+GROUP) | 17/03/2022 |   |
+| [`Empire Electronics Inc.`](https://google.com/search?q=Empire+Electronics+Inc.) | 17/03/2022 |   |
+| [`Milan Institute`](https://google.com/search?q=Milan+Institute) | 17/03/2022 |   |
+| [`Aluminerie Alouette`](https://google.com/search?q=Aluminerie+Alouette) | 09/03/2022 |   |
+| [`Great HealthWorks`](https://google.com/search?q=Great+HealthWorks) | 09/03/2022 |   |
+| [`TST Logistics`](https://google.com/search?q=TST+Logistics) | 09/03/2022 |   |
+| [`Myron Corp.`](https://google.com/search?q=Myron+Corp.) | 08/03/2022 |   |
+| [`Fuchs North America`](https://google.com/search?q=Fuchs+North+America) | 07/03/2022 |   |
+| [`Fujioka Eletro Imagem SA`](https://google.com/search?q=Fujioka+Eletro+Imagem+SA) | 07/03/2022 |   |
+| [`EUROPA GROUP`](https://google.com/search?q=EUROPA+GROUP) | 07/03/2022 |   |
+| [`Loepthien Maeder Treuhand AG`](https://google.com/search?q=Loepthien+Maeder+Treuhand+AG) | 07/03/2022 |   |
+| [`Cummins-Wagner`](https://google.com/search?q=Cummins-Wagner) | 06/03/2022 |   |
+| [`Lifetech Resources`](https://google.com/search?q=Lifetech+Resources) | 04/03/2022 |   |
+| [`A.J. Rose`](https://google.com/search?q=A.J.+Rose) | 04/03/2022 |   |
+| [`Prima Power`](https://google.com/search?q=Prima+Power) | 04/03/2022 |   |
+| [`Gleason Corporation`](https://google.com/search?q=Gleason+Corporation) | 04/03/2022 |   |
+| [`Caledonian`](https://google.com/search?q=Caledonian) | 04/03/2022 |   |
+| [`United McGill Corporation`](https://google.com/search?q=United+McGill+Corporation) | 04/03/2022 |   |
+| [`Get Fresh Company`](https://google.com/search?q=Get+Fresh+Company) | 04/03/2022 |   |
+| [`Sport Vision`](https://google.com/search?q=Sport+Vision) | 03/03/2022 |   |
+| [`GRUPPO ANGELANTONI`](https://google.com/search?q=GRUPPO+ANGELANTONI) | 03/03/2022 |   |
+| [`Buhck Gruppe`](https://google.com/search?q=Buhck+Gruppe) | 03/03/2022 |   |
+| [`HOL-MAC Corp.`](https://google.com/search?q=HOL-MAC+Corp.) | 02/03/2022 |   |
+| [`University of Neuchâtel`](https://google.com/search?q=University+of+Neuch%C3%A2tel) | 26/02/2022 |   |
+| [`HF Group`](https://google.com/search?q=HF+Group) | 26/02/2022 |   |
+| [`IDEAL Fensterbau`](https://google.com/search?q=IDEAL+Fensterbau) | 26/02/2022 |   |
+| [`Research Partnership`](https://google.com/search?q=Research+Partnership) | 26/02/2022 |   |
+| [`WARNING`](https://google.com/search?q=WARNING) | 25/02/2022 |   |
+| [`The Spine Diagnostic`](https://google.com/search?q=The+Spine+Diagnostic) | 25/02/2022 |   |
+| [`Colli del Soligo`](https://google.com/search?q=Colli+del+Soligo) | 25/02/2022 |   |
+| [`JOB AG`](https://google.com/search?q=JOB+AG) | 25/02/2022 |   |
+| [`KRACHT GmbH`](https://google.com/search?q=KRACHT+GmbH) | 25/02/2022 |   |
+| [`Primex Manufacturing Inc`](https://google.com/search?q=Primex+Manufacturing+Inc) | 25/02/2022 |   |
+| [`Midas Pharma GmbH`](https://google.com/search?q=Midas+Pharma+GmbH) | 25/02/2022 |   |
+| [`Apollo`](https://google.com/search?q=Apollo) | 24/02/2022 |   |
+| [`Schultze and Braun`](https://google.com/search?q=Schultze+and+Braun) | 24/02/2022 |   |
+| [`Tudi Mechanical Systems (TMS)`](https://google.com/search?q=Tudi+Mechanical+Systems+%28TMS%29) | 23/02/2022 |   |
+| [`RAMSAUER`](https://google.com/search?q=RAMSAUER) | 23/02/2022 |   |
+| [`Mack Defense, LLC`](https://google.com/search?q=Mack+Defense%2C+LLC) | 19/02/2022 |   |
+| [`CSI Laboratories`](https://google.com/search?q=CSI+Laboratories) | 18/02/2022 |   |
+| [`GEE GROUP INC.`](https://google.com/search?q=GEE+GROUP+INC.) | 15/02/2022 |   |
+| [`Ciam SPA`](https://google.com/search?q=Ciam+SPA) | 15/02/2022 |   |
+| [`Muehlhan`](https://google.com/search?q=Muehlhan) | 14/02/2022 |   |
+| [`iTCo Solutions Ltd`](https://google.com/search?q=iTCo+Solutions+Ltd) | 13/02/2022 |   |
+| [`Ebix Inc.`](https://google.com/search?q=Ebix+Inc.) | 12/02/2022 |   |
+| [`Aareon Nederland B.V.`](https://google.com/search?q=Aareon+Nederland+B.V.) | 11/02/2022 |   |
+| [`HelmsBriscoe`](https://google.com/search?q=HelmsBriscoe) | 11/02/2022 |   |
+| [`New World Development Company Limited (NWD)`](https://google.com/search?q=New+World+Development+Company+Limited+%28NWD%29) | 11/02/2022 |   |
+| [`Vrancor Group`](https://google.com/search?q=Vrancor+Group) | 11/02/2022 |   |
+| [`Rheinland-Pfalz Bank`](https://google.com/search?q=Rheinland-Pfalz+Bank) | 10/02/2022 |   |
+| [`The Lovett Group`](https://google.com/search?q=The+Lovett+Group) | 09/02/2022 |   |
+| [`SEA-invest`](https://google.com/search?q=SEA-invest) | 08/02/2022 |   |
+| [`Zamil Industrial`](https://google.com/search?q=Zamil+Industrial) | 07/02/2022 |   |
+| [`NZ UNIFORMS`](https://google.com/search?q=NZ+UNIFORMS) | 07/02/2022 |   |
+| [`Athens Distributing Company`](https://google.com/search?q=Athens+Distributing+Company) | 07/02/2022 |   |
+| [`KP SNACKS`](https://google.com/search?q=KP+SNACKS) | 07/02/2022 |   |
+| [`MSH Steuerberatungsgesellschaft`](https://google.com/search?q=MSH+Steuerberatungsgesellschaft) | 07/02/2022 |   |
+| [`Bank of Indonesia`](https://google.com/search?q=Bank+of+Indonesia) | 20/01/2022 |   |
+| [`PLACON`](https://google.com/search?q=PLACON) | 15/01/2022 |   |
+| [`Shutterfly inc.`](https://google.com/search?q=Shutterfly+inc.) | 15/01/2022 |   |
+| [`RRD`](https://google.com/search?q=RRD) | 15/01/2022 |   |
+| [`Safeguard`](https://google.com/search?q=Safeguard) | 15/01/2022 |   |
+| [`Lyon-Waugh Auto Group`](https://google.com/search?q=Lyon-Waugh+Auto+Group) | 15/01/2022 |   |
+| [`Perennials Fabrics`](https://google.com/search?q=Perennials+Fabrics) | 15/01/2022 |   |
+| [`Acuity Brands`](https://google.com/search?q=Acuity+Brands) | 15/01/2022 |   |
+| [`Arcese`](https://google.com/search?q=Arcese) | 11/01/2022 |   |
+| [`DURA  Innovation Driven by Inspiration`](https://google.com/search?q=DURA+%7C+Innovation+Driven+by+Inspiration) | 06/01/2022 |   |
+| [`Iwis Group`](https://google.com/search?q=Iwis+Group) | 03/01/2022 |   |
+| [`American Dream`](https://google.com/search?q=American+Dream) | 30/12/2021 |   |
+| [`Mount Franklin Foods, LLC`](https://google.com/search?q=Mount+Franklin+Foods%2C+LLC) | 28/12/2021 |   |
+| [`Bernd Siegmund GmbH`](https://google.com/search?q=Bernd+Siegmund+GmbH) | 27/12/2021 |   |
+| [`ENVASES GROUP`](https://google.com/search?q=ENVASES+GROUP) | 26/12/2021 |   |
+| [`SVP Groupe`](https://google.com/search?q=SVP+Groupe) | 26/12/2021 |   |
+| [`Economos properties`](https://google.com/search?q=Economos+properties) | 26/12/2021 |   |
+| [`The Technord industrial group`](https://google.com/search?q=The+Technord+industrial+group) | 26/12/2021 |   |
+| [`iGuzzini Group`](https://google.com/search?q=iGuzzini+Group) | 26/12/2021 |   |
+| [`Charles Kendall`](https://google.com/search?q=Charles+Kendall) | 26/12/2021 |   |
+| [`Arbor Contract Carpet Inc.`](https://google.com/search?q=Arbor+Contract+Carpet+Inc.) | 26/12/2021 |   |
+| [`Metamorph Group`](https://google.com/search?q=Metamorph+Group) | 26/12/2021 |   |
+| [`RKPT`](https://google.com/search?q=RKPT) | 26/12/2021 |   |
+| [`Polysciences, Inc.`](https://google.com/search?q=Polysciences%2C+Inc.) | 25/12/2021 |   |
+| [`Bay and Bay Transportation`](https://google.com/search?q=Bay+and+Bay+Transportation) | 23/12/2021 |   |
+| [`Holiday Builders`](https://google.com/search?q=Holiday+Builders) | 22/12/2021 |   |
+| [`McMenamins`](https://google.com/search?q=McMenamins) | 21/12/2021 |   |
+| [`CASINO WINNAVEGAS`](https://google.com/search?q=CASINO+WINNAVEGAS) | 20/12/2021 |   |
+| [`The Briad Group`](https://google.com/search?q=The+Briad+Group) | 20/12/2021 |   |
+| [`DEWEtech`](https://google.com/search?q=DEWEtech) | 15/12/2021 |   |
+| [`WEBER_OTT AG`](https://google.com/search?q=WEBER_OTT+AG) | 14/12/2021 |   |
+| [`Amoria Bond`](https://google.com/search?q=Amoria+Bond) | 14/12/2021 |   |
+| [`TALIS GROUP`](https://google.com/search?q=TALIS+GROUP) | 13/12/2021 |   |
+| [`Chantelle Group`](https://google.com/search?q=Chantelle+Group) | 13/12/2021 |   |
+| [`Nordic Choice Hotels`](https://google.com/search?q=Nordic+Choice+Hotels) | 13/12/2021 |   |
+| [`MEETH`](https://google.com/search?q=MEETH) | 13/12/2021 |   |
+| [`DOMICIM Agence`](https://google.com/search?q=DOMICIM+Agence) | 13/12/2021 |   |
+| [`Comerio Ercole spa`](https://google.com/search?q=Comerio+Ercole+spa) | 13/12/2021 |   |
+| [`COMUNE DI TORINO`](https://google.com/search?q=COMUNE+DI+TORINO) | 09/12/2021 |   |
+| [`LAVI`](https://google.com/search?q=LAVI) | 09/12/2021 |   |
+| [`Clementoni`](https://google.com/search?q=Clementoni) | 06/12/2021 |   |
+| [`MST LAWYERS`](https://google.com/search?q=MST+LAWYERS) | 06/12/2021 |   |
+| [`HOULE`](https://google.com/search?q=HOULE) | 05/12/2021 |   |
+| [`Spencer Gifts LLC`](https://google.com/search?q=Spencer+Gifts+LLC) | 05/12/2021 |   |
+| [`NLB Corporation`](https://google.com/search?q=NLB+Corporation) | 04/12/2021 |   |
+| [`KISTERS`](https://google.com/search?q=KISTERS) | 01/12/2021 |   |
+| [`FRONTIER SOFTWARE`](https://google.com/search?q=FRONTIER+SOFTWARE) | 01/12/2021 |   |
+| [`Burda Sanitärtechnik`](https://google.com/search?q=Burda+Sanit%C3%A4rtechnik) | 30/11/2021 |   |
+| [`SIRCHIE`](https://google.com/search?q=SIRCHIE) | 29/11/2021 |   |
+| [`Epple Druckfarben`](https://google.com/search?q=Epple+Druckfarben) | 29/11/2021 |   |
+| [`San Carlo`](https://google.com/search?q=San+Carlo) | 29/11/2021 |   |
+| [`DUNMORE`](https://google.com/search?q=DUNMORE) | 28/11/2021 |   |
+| [`Acne Studios`](https://google.com/search?q=Acne+Studios) | 26/11/2021 |   |
+| [`jadecorp`](https://google.com/search?q=jadecorp) | 22/11/2021 |   |
+| [`DKS  Deutsch Kerrigan LLP`](https://google.com/search?q=DKS++Deutsch+Kerrigan+LLP) | 22/11/2021 |   |
+| [`Not Yet Kameraden!`](https://google.com/search?q=Not+Yet+Kameraden%21) | 19/11/2021 |   |
+| [`HELSA Group International`](https://google.com/search?q=HELSA+Group+International) | 19/11/2021 |   |
+| [`Area Energy & Electric`](https://google.com/search?q=Area+Energy+%26+Electric) | 18/11/2021 |   |
+| [`FTI Group`](https://google.com/search?q=FTI+Group) | 18/11/2021 |   |
+| [`General RV Center`](https://google.com/search?q=General+RV+Center) | 17/11/2021 |   |
+| [`JAFTEX Corporation`](https://google.com/search?q=JAFTEX+Corporation) | 16/11/2021 |   |
+| [`HARTMANN FINANCIAL ADVISORS LLC`](https://google.com/search?q=HARTMANN+FINANCIAL+ADVISORS+LLC) | 16/11/2021 |   |
+| [`Marymount Manhattan College`](https://google.com/search?q=Marymount+Manhattan+College) | 16/11/2021 |   |
+| [`LOGROS S.A.`](https://google.com/search?q=LOGROS+S.A.) | 16/11/2021 |   |
+| [`Aisha Steel-ASML`](https://google.com/search?q=Aisha+Steel-ASML) | 16/11/2021 |   |
+| [`COMMUNAUTÉ DE COMMUNES PAYS D’APT LUBERON`](https://google.com/search?q=COMMUNAUT%C3%89+DE+COMMUNES+PAYS+D%E2%80%99APT+LUBERON) | 12/11/2021 |   |
+| [`VISTRA`](https://google.com/search?q=VISTRA) | 11/11/2021 |   |
+| [`Orgill, Inc.`](https://google.com/search?q=Orgill%2C+Inc.) | 11/11/2021 |   |
+| [`Cogan Wire and Metal Products Ltd`](https://google.com/search?q=Cogan+Wire+and+Metal+Products+Ltd) | 11/11/2021 |   |
+| [`Axiсorp GMBH`](https://google.com/search?q=Axi%D1%81orp+GMBH) | 11/11/2021 |   |
+| [`Axio`](https://google.com/search?q=Axio) | 11/11/2021 |   |
+| [`Greymouse VA PTY Ltd`](https://google.com/search?q=Greymouse+VA+PTY+Ltd) | 11/11/2021 |   |
+| [`EQUITY Bank`](https://google.com/search?q=EQUITY+Bank) | 10/11/2021 |   |
+| [`Electra Link`](https://google.com/search?q=Electra+Link) | 09/11/2021 |   |
+| [`Hutt`](https://google.com/search?q=Hutt) | 09/11/2021 |   |
+| [`ONTEC Automation`](https://google.com/search?q=ONTEC+Automation) | 08/11/2021 |   |
+| [`ARGOS CONNECT ENERGY`](https://google.com/search?q=ARGOS+CONNECT+ENERGY) | 08/11/2021 |   |
+| [`JEAN FLOC’H`](https://google.com/search?q=JEAN+FLOC%E2%80%99H) | 07/11/2021 |   |
+| [`TRINA SOLAR`](https://google.com/search?q=TRINA+SOLAR) | 07/11/2021 |   |
+| [`MEYER CORPORATION`](https://google.com/search?q=MEYER+CORPORATION) | 07/11/2021 |   |
+| [`DALLOYAU`](https://google.com/search?q=DALLOYAU) | 06/11/2021 |   |
+| [`INDIAN CREEK`](https://google.com/search?q=INDIAN+CREEK) | 06/11/2021 |   |
+| [`HUDSON BROTHERS Construction Company`](https://google.com/search?q=HUDSON+BROTHERS+Construction+Company) | 06/11/2021 |   |
+| [`VIENNA INSURANCE GROUP`](https://google.com/search?q=VIENNA+INSURANCE+GROUP) | 06/11/2021 |   |
+| [`PORTALP`](https://google.com/search?q=PORTALP) | 06/11/2021 |   |
+| [`Agricorp Company`](https://google.com/search?q=Agricorp+Company) | 06/11/2021 |   |
+| [`STAR REFRIGERATION LIMITED`](https://google.com/search?q=STAR+REFRIGERATION+LIMITED) | 06/11/2021 |   |
+| [`lkma`](https://google.com/search?q=lkma) | 06/11/2021 |   |
+| [`EZ Loader`](https://google.com/search?q=EZ+Loader) | 06/11/2021 |   |
+| [`Bochane Groep`](https://google.com/search?q=Bochane+Groep) | 06/11/2021 |   |
+| [`MUTUAL MATERIALS`](https://google.com/search?q=MUTUAL+MATERIALS) | 06/11/2021 |   |
+| [`THE METRO GROUP, INC.`](https://google.com/search?q=THE+METRO+GROUP%2C+INC.) | 06/11/2021 |   |
+| [`M3 Inc.`](https://google.com/search?q=M3+Inc.) | 06/11/2021 |   |
+| [`Announcement`](https://google.com/search?q=Announcement) | 04/11/2021 |   |
+| [`ARM CHINA`](https://google.com/search?q=ARM+CHINA) | 04/11/2021 |   |
+| [`Graff Diamonds - Announcement`](https://google.com/search?q=Graff+Diamonds+-+Announcement) | 02/11/2021 |   |
+| [`socage`](https://google.com/search?q=socage) | 02/11/2021 |   |
+| [`benefitexpress`](https://google.com/search?q=benefitexpress) | 02/11/2021 |   |
+| [`Southland Holdings`](https://google.com/search?q=Southland+Holdings) | 02/11/2021 |   |
+| [`Finite Recruitment`](https://google.com/search?q=Finite+Recruitment) | 01/11/2021 |   |
+| [`Power Plumbing`](https://google.com/search?q=Power+Plumbing) | 01/11/2021 |   |
+| [`Acorn Stairlifts`](https://google.com/search?q=Acorn+Stairlifts) | 29/10/2021 |   |
+| [`Perrin`](https://google.com/search?q=Perrin) | 29/10/2021 |   |
+| [`ILLUM`](https://google.com/search?q=ILLUM) | 29/10/2021 |   |
+| [`Major Wire Industries`](https://google.com/search?q=Major+Wire+Industries) | 29/10/2021 |   |
+| [`Los Gatos Tomato Products`](https://google.com/search?q=Los+Gatos+Tomato+Products) | 29/10/2021 |   |
+| [`Marketing Alliance Group`](https://google.com/search?q=Marketing+Alliance+Group) | 29/10/2021 |   |
+| [`Medical Healthcare Solutions, Inc`](https://google.com/search?q=Medical+Healthcare+Solutions%2C+Inc) | 26/10/2021 |   |
+| [`Ideal Living`](https://google.com/search?q=Ideal+Living) | 26/10/2021 |   |
+| [`Pfertner GmbH Immobilienverwaltung`](https://google.com/search?q=Pfertner+GmbH+Immobilienverwaltung) | 25/10/2021 |   |
+| [`SAN CARLO GRUPPO ALIMENTARE SPA`](https://google.com/search?q=SAN+CARLO+GRUPPO+ALIMENTARE+SPA) | 25/10/2021 |   |
+| [`Barnes Professional Eye Care`](https://google.com/search?q=Barnes+Professional+Eye+Care) | 25/10/2021 |   |
+| [`Enviroplas`](https://google.com/search?q=Enviroplas) | 25/10/2021 |   |
+| [`SPF Precut Lumber`](https://google.com/search?q=SPF+Precut+Lumber) | 24/10/2021 |   |
+| [`Obeikan Investment Group`](https://google.com/search?q=Obeikan+Investment+Group) | 23/10/2021 |   |
+| [`Artsana`](https://google.com/search?q=Artsana) | 23/10/2021 |   |
+| [`Porto Seguro`](https://google.com/search?q=Porto+Seguro) | 23/10/2021 |   |
+| [`Grupo Alter`](https://google.com/search?q=Grupo+Alter) | 23/10/2021 |   |
+| [`Ideal Printers`](https://google.com/search?q=Ideal+Printers) | 23/10/2021 |   |
+| [`DCI, Inc.`](https://google.com/search?q=DCI%2C+Inc.) | 23/10/2021 |   |
+| [`Sykes Cottages`](https://google.com/search?q=Sykes+Cottages) | 23/10/2021 |   |
+| [`Beedie`](https://google.com/search?q=Beedie) | 23/10/2021 |   |
+| [`Schimberg Co.`](https://google.com/search?q=Schimberg+Co.) | 23/10/2021 |   |
+| [`Vaughn Industries`](https://google.com/search?q=Vaughn+Industries) | 23/10/2021 |   |
+| [`Reliable Parts`](https://google.com/search?q=Reliable+Parts) | 23/10/2021 |   |
+| [`Albireo Energy`](https://google.com/search?q=Albireo+Energy) | 22/10/2021 |   |
+| [`Announcement. ReviLives.`](https://google.com/search?q=Announcement.+ReviLives.) | 22/10/2021 |   |
+| [`The National Math and Science Initiative`](https://google.com/search?q=The+National+Math+and+Science+Initiative) | 21/10/2021 |   |
+| [`Glenbrook Automotive Group`](https://google.com/search?q=Glenbrook+Automotive+Group) | 20/10/2021 |   |
+| [`Creative Extruded Products`](https://google.com/search?q=Creative+Extruded+Products) | 20/10/2021 |   |
+| [`JVCKenwood`](https://google.com/search?q=JVCKenwood) | 18/10/2021 |   |
+| [`Nakisa`](https://google.com/search?q=Nakisa) | 17/10/2021 |   |
+| [`Galloway Research Service`](https://google.com/search?q=Galloway+Research+Service) | 17/10/2021 |   |
+| [`EXAIR`](https://google.com/search?q=EXAIR) | 17/10/2021 |   |
+| [`Graff Diamonds`](https://google.com/search?q=Graff+Diamonds) | 17/10/2021 |   |
+| [`SEIU Local 888`](https://google.com/search?q=SEIU+Local+888) | 17/10/2021 |   |
+| [`Real Time Consultants, Inc`](https://google.com/search?q=Real+Time+Consultants%2C+Inc) | 17/10/2021 |   |
+| [`Crowder Construction Company`](https://google.com/search?q=Crowder+Construction+Company) | 17/10/2021 |   |
+| [`Berexco LLC`](https://google.com/search?q=Berexco+LLC) | 05/10/2021 |   |
+| [`wenco S. A.`](https://google.com/search?q=wenco+S.+A.) | 05/10/2021 |   |
+| [`Align Technology`](https://google.com/search?q=Align+Technology) | 02/10/2021 |   |
+| [`JVCKenwood Case`](https://google.com/search?q=JVCKenwood+Case) | 01/10/2021 |   |
+| [`Gershman Mortgage`](https://google.com/search?q=Gershman+Mortgage) | 30/09/2021 |   |
+| [`DataXsport`](https://google.com/search?q=DataXsport) | 28/09/2021 |   |
+| [`Grupo GSS`](https://google.com/search?q=Grupo+GSS) | 28/09/2021 |   |
+| [`TaxLeaf Corporate`](https://google.com/search?q=TaxLeaf+Corporate) | 28/09/2021 |   |
+| [`Minjar Gold`](https://google.com/search?q=Minjar+Gold) | 27/09/2021 |   |
+| [`parcoinc`](https://google.com/search?q=parcoinc) | 27/09/2021 |   |
+| [`WEST TREE SERVICE`](https://google.com/search?q=WEST+TREE+SERVICE) | 27/09/2021 |   |
+| [`RTI Surgical`](https://google.com/search?q=RTI+Surgical) | 26/09/2021 |   |
+| [`Cedar Grove Composting`](https://google.com/search?q=Cedar+Grove+Composting) | 24/09/2021 |   |
+| [`Vera Wang Group`](https://google.com/search?q=Vera+Wang+Group) | 24/09/2021 |   |
+| [`Jakes Finer Foods`](https://google.com/search?q=Jakes+Finer+Foods) | 24/09/2021 |   |
+| [`IJmond Werkt`](https://google.com/search?q=IJmond+Werkt) | 24/09/2021 |   |
+| [`IN2 Engineering`](https://google.com/search?q=IN2+Engineering) | 24/09/2021 |   |
+| [`PeakLogix`](https://google.com/search?q=PeakLogix) | 23/09/2021 |   |
+| [`Office Star Products`](https://google.com/search?q=Office+Star+Products) | 23/09/2021 |   |
+| [`Real Time`](https://google.com/search?q=Real+Time) | 23/09/2021 |   |
+| [`BÖWE SYSTEC`](https://google.com/search?q=B%C3%96WE+SYSTEC) | 22/09/2021 |   |
+| [`Marans Weisz & Newman, LLC`](https://google.com/search?q=Marans+Weisz+%26+Newman%2C+LLC) | 22/09/2021 |   |
+| [`PowerGrid Services`](https://google.com/search?q=PowerGrid+Services) | 22/09/2021 |   |
+| [`NASCO Industries`](https://google.com/search?q=NASCO+Industries) | 22/09/2021 |   |
+| [`aathonrton`](https://google.com/search?q=aathonrton) | 20/09/2021 |   |
+| [`Pines Ford Lincoln`](https://google.com/search?q=Pines+Ford+Lincoln) | 20/09/2021 |   |
+| [`AMAX`](https://google.com/search?q=AMAX) | 16/09/2021 |   |
+| [`ASSU 2000`](https://google.com/search?q=ASSU+2000) | 11/09/2021 |   |
+| [`Grupo Herdez, S.A.B. de C.V. Holding Companies`](https://google.com/search?q=Grupo+Herdez%2C+S.A.B.+de+C.V.+Holding+Companies) | 09/09/2021 |   |
+| [`Frank G. Love Envelopes, Inc.`](https://google.com/search?q=Frank+G.+Love+Envelopes%2C+Inc.) | 09/09/2021 |   |
+| [`JAMAC FROZEN FOODS`](https://google.com/search?q=JAMAC+FROZEN+FOODS) | 09/09/2021 |   |
+| [`MOSS BROS GROUP`](https://google.com/search?q=MOSS+BROS+GROUP) | 09/09/2021 |   |
+| [`Riwega S.R.L.`](https://google.com/search?q=Riwega+S.R.L.) | 09/09/2021 |   |
+| [`RPE CONTRACTING`](https://google.com/search?q=RPE+CONTRACTING) | 09/09/2021 |   |
+| [`Sanger & Altgelt Insurance Agents`](https://google.com/search?q=Sanger+%26+Altgelt+Insurance+Agents) | 09/09/2021 |   |
+| [`TURLA SRL`](https://google.com/search?q=TURLA+SRL) | 09/09/2021 |   |
+| [`Vendrig Holding B.V.`](https://google.com/search?q=Vendrig+Holding+B.V.) | 09/09/2021 |   |
+| [`world-electronics`](https://google.com/search?q=world-electronics) | 09/09/2021 |   |
+| [`Milwaukee World Festival, Inc`](https://google.com/search?q=Milwaukee+World+Festival%2C+Inc) | 09/09/2021 |   |
+| [`completeportables`](https://google.com/search?q=completeportables) | 09/09/2021 |   |
+| [`DEBTIN CONSULTANTS (PTY) LTD`](https://google.com/search?q=DEBTIN+CONSULTANTS+%28PTY%29+LTD) | 09/09/2021 |   |
+| [`Bob Poynter`](https://google.com/search?q=Bob+Poynter) | 09/09/2021 |   |
+| [`VIVEA`](https://google.com/search?q=VIVEA) | 09/09/2021 |   |
+| [`Duke Manufacturing Co.`](https://google.com/search?q=Duke+Manufacturing+Co.) | 09/09/2021 |   |
+| [`Hanwha Life Vietnam`](https://google.com/search?q=Hanwha+Life+Vietnam) | 09/09/2021 |   |
+| [`SOLWARE`](https://google.com/search?q=SOLWARE) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2109,17 +2112,17 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 | post | date | Description
 |---|---|---|
-| `iima.ac.in` | 18/12/2021 |   |
-| `hislopcollege.ac.in` | 18/12/2021 |   |
-| `oppodigital.in` | 18/12/2021 |   |
-| `nals.in` | 18/12/2021 |   |
-| `albatross.co.in` | 18/12/2021 |   |
-| `suriyanar.com` | 18/12/2021 |   |
-| `shinyoko-porno.com` | 18/12/2021 |   |
-| `toxicsites.us` | 18/12/2021 |   |
-| `antistatik-esd-cozumler.com.tr` | 18/12/2021 |   |
-| `paknavy.gov.pk` | 18/12/2021 |   |
-| `vaja.ir` | 18/12/2021 |   |
+| [`iima.ac.in`](https://google.com/search?q=iima.ac.in) | 18/12/2021 |   |
+| [`hislopcollege.ac.in`](https://google.com/search?q=hislopcollege.ac.in) | 18/12/2021 |   |
+| [`oppodigital.in`](https://google.com/search?q=oppodigital.in) | 18/12/2021 |   |
+| [`nals.in`](https://google.com/search?q=nals.in) | 18/12/2021 |   |
+| [`albatross.co.in`](https://google.com/search?q=albatross.co.in) | 18/12/2021 |   |
+| [`suriyanar.com`](https://google.com/search?q=suriyanar.com) | 18/12/2021 |   |
+| [`shinyoko-porno.com`](https://google.com/search?q=shinyoko-porno.com) | 18/12/2021 |   |
+| [`toxicsites.us`](https://google.com/search?q=toxicsites.us) | 18/12/2021 |   |
+| [`antistatik-esd-cozumler.com.tr`](https://google.com/search?q=antistatik-esd-cozumler.com.tr) | 18/12/2021 |   |
+| [`paknavy.gov.pk`](https://google.com/search?q=paknavy.gov.pk) | 18/12/2021 |   |
+| [`vaja.ir`](https://google.com/search?q=vaja.ir) | 18/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2153,98 +2156,98 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | post | date | Description
 |---|---|---|
 | [`pu.edu.lb`]() | 27/12/2022 | Phoenicia University (PU) is a non-profit, private, and nonsectarian officially licensed institution of higher education. The University comprises six colleges: Architecture and Design, Arts and Sciences, Business, Engineering, Law... |
-| `Sae-a` | 20/12/2022 | From yarn-production through its fabric mills that draw on in new innovation and technology, to retail operations in Korea, SAE-A has become one of the few apparel manufacturers capable of achieving complete vertical-integration of... |
-| `2networkit` | 12/12/2022 |   |
-| `Landaumedia` | 01/12/2022 |   |
-| `Generator-power` | 01/12/2022 |   |
-| `Boss-inc` | 01/12/2022 |   |
-| `Patton` | 30/11/2022 |   |
-| `Pmc-group` | 24/11/2022 |   |
-| `waltersandwolf` | 09/11/2022 |   |
-| `bfw` | 04/11/2022 |   |
-| `Ville-chaville` | 04/11/2022 |   |
-| `Murphyfamilyventures` | 04/11/2022 |   |
-| `Ginspectionservices` | 04/11/2022 |   |
-| `Dialogsas` | 04/11/2022 |   |
-| `usairports` | 04/11/2022 |   |
-| `trant.co.uk` | 04/11/2022 |   |
-| `the_rose_executive_team` | 04/11/2022 |   |
-| `technicote` | 04/11/2022 |   |
-| `stm.com.tw` | 04/11/2022 |   |
-| `site-technology_` | 04/11/2022 |   |
-| `schultheis-ins` | 04/11/2022 |   |
-| `quercus` | 04/11/2022 |   |
-| `otrcapital` | 04/11/2022 |   |
-| `ohagin` | 04/11/2022 |   |
-| `nwdusa` | 04/11/2022 |   |
-| `ncmutuallife2` | 04/11/2022 |   |
-| `meriplex` | 04/11/2022 |   |
-| `megaforce` | 04/11/2022 |   |
-| `lycra` | 04/11/2022 |   |
-| `linkmfg` | 04/11/2022 |   |
-| `learning_resources` | 04/11/2022 |   |
-| `landofrost` | 04/11/2022 |   |
-| `innovairre` | 04/11/2022 |   |
-| `get-integrated` | 04/11/2022 |   |
-| `gascaribe` | 04/11/2022 |   |
-| `forefront_dermatology` | 04/11/2022 |   |
-| `first_coast_logistics_services` | 04/11/2022 |   |
-| `e.h._wachs_pipe_cutters` | 04/11/2022 |   |
-| `datamatics` | 04/11/2022 |   |
-| `creditriskmonitor` | 04/11/2022 |   |
-| `blackhawk` | 04/11/2022 |   |
-| `bfw` | 04/11/2022 |   |
-| `berding-weil` | 04/11/2022 |   |
-| `bcintlgroup.com` | 04/11/2022 |   |
-| `axley` | 04/11/2022 |   |
-| `afts` | 04/11/2022 |   |
-| `Ville-chaville` | 04/11/2022 |   |
-| `Skupstina` | 04/11/2022 |   |
-| `Murphyfamilyventures` | 04/11/2022 |   |
-| `Ginspectionservices` | 04/11/2022 |   |
-| `Dialogsas` | 04/11/2022 |   |
-| `ginspectionservices` | 27/09/2022 |   |
-| `skupstina` | 30/08/2022 |   |
-| `site-technology` | 21/07/2022 |   |
-| `stm-com-tw` | 07/07/2022 |   |
-| `r1group` | 27/06/2022 |   |
-| `etron` | 13/06/2022 |   |
-| `upskwt` | 17/05/2022 |   |
-| `fronteousa` | 16/05/2022 |   |
-| `prophoenix` | 22/04/2022 |   |
-| `metrobrokers` | 22/04/2022 |   |
-| `tavistock` | 12/04/2022 |   |
-| `metagenics` | 08/04/2022 |   |
-| `bcintlgroup-com` | 30/03/2022 |   |
-| `trant-co-uk` | 30/03/2022 |   |
-| `haltonhills` | 23/03/2022 |   |
-| `powertech` | 23/03/2022 |   |
-| `ids97` | 25/02/2022 |   |
-| `muntons` | 18/02/2022 |   |
-| `heritage-encon` | 18/02/2022 |   |
-| `shoesforcrews` | 04/02/2022 |   |
-| `edgo` | 04/02/2022 |   |
-| `cmmcpas` | 04/02/2022 |   |
-| `mtlcraft` | 25/01/2022 |   |
-| `superfund` | 13/01/2022 |   |
-| `fdcbuilding` | 13/01/2022 |   |
-| `strongwell` | 10/01/2022 |   |
-| `sonomatic-2` | 10/01/2022 |   |
-| `regulvar` | 10/01/2022 |   |
-| `delinebox` | 10/01/2022 |   |
-| `cle` | 10/01/2022 |   |
-| `squamish` | 30/12/2021 |   |
-| `sonomatic` | 30/12/2021 |   |
-| `ncmutuallife` | 30/12/2021 |   |
-| `lahebert` | 30/12/2021 |   |
-| `bakertilly` | 30/12/2021 |   |
-| `atlasdie` | 30/12/2021 |   |
-| `The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who` | 09/09/2021 |   |
-| `First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business i` | 09/09/2021 |   |
-| `Datamatics is a technology company that builds intelligent solutions enabling data-driven` | 09/09/2021 |   |
-| `Rose Associates Mission Statement` | 09/09/2021 |   |
-| `AFTS supplies the preeminent Payment Processing, IRS 1031 Exchange, Data Processing, Invoi` | 09/09/2021 |   |
-| `OTR Capital believes in simple and straightforward transactions, without hidden costs and` | 09/09/2021 |   |
+| [`Sae-a`](https://google.com/search?q=Sae-a) | 20/12/2022 | From yarn-production through its fabric mills that draw on in new innovation and technology, to retail operations in Korea, SAE-A has become one of the few apparel manufacturers capable of achieving complete vertical-integration of... |
+| [`2networkit`](https://google.com/search?q=2networkit) | 12/12/2022 |   |
+| [`Landaumedia`](https://google.com/search?q=Landaumedia) | 01/12/2022 |   |
+| [`Generator-power`](https://google.com/search?q=Generator-power) | 01/12/2022 |   |
+| [`Boss-inc`](https://google.com/search?q=Boss-inc) | 01/12/2022 |   |
+| [`Patton`](https://google.com/search?q=Patton) | 30/11/2022 |   |
+| [`Pmc-group`](https://google.com/search?q=Pmc-group) | 24/11/2022 |   |
+| [`waltersandwolf`](https://google.com/search?q=waltersandwolf) | 09/11/2022 |   |
+| [`bfw`](https://google.com/search?q=bfw) | 04/11/2022 |   |
+| [`Ville-chaville`](https://google.com/search?q=Ville-chaville) | 04/11/2022 |   |
+| [`Murphyfamilyventures`](https://google.com/search?q=Murphyfamilyventures) | 04/11/2022 |   |
+| [`Ginspectionservices`](https://google.com/search?q=Ginspectionservices) | 04/11/2022 |   |
+| [`Dialogsas`](https://google.com/search?q=Dialogsas) | 04/11/2022 |   |
+| [`usairports`](https://google.com/search?q=usairports) | 04/11/2022 |   |
+| [`trant.co.uk`](https://google.com/search?q=trant.co.uk) | 04/11/2022 |   |
+| [`the_rose_executive_team`](https://google.com/search?q=the_rose_executive_team) | 04/11/2022 |   |
+| [`technicote`](https://google.com/search?q=technicote) | 04/11/2022 |   |
+| [`stm.com.tw`](https://google.com/search?q=stm.com.tw) | 04/11/2022 |   |
+| [`site-technology_`](https://google.com/search?q=site-technology_) | 04/11/2022 |   |
+| [`schultheis-ins`](https://google.com/search?q=schultheis-ins) | 04/11/2022 |   |
+| [`quercus`](https://google.com/search?q=quercus) | 04/11/2022 |   |
+| [`otrcapital`](https://google.com/search?q=otrcapital) | 04/11/2022 |   |
+| [`ohagin`](https://google.com/search?q=ohagin) | 04/11/2022 |   |
+| [`nwdusa`](https://google.com/search?q=nwdusa) | 04/11/2022 |   |
+| [`ncmutuallife2`](https://google.com/search?q=ncmutuallife2) | 04/11/2022 |   |
+| [`meriplex`](https://google.com/search?q=meriplex) | 04/11/2022 |   |
+| [`megaforce`](https://google.com/search?q=megaforce) | 04/11/2022 |   |
+| [`lycra`](https://google.com/search?q=lycra) | 04/11/2022 |   |
+| [`linkmfg`](https://google.com/search?q=linkmfg) | 04/11/2022 |   |
+| [`learning_resources`](https://google.com/search?q=learning_resources) | 04/11/2022 |   |
+| [`landofrost`](https://google.com/search?q=landofrost) | 04/11/2022 |   |
+| [`innovairre`](https://google.com/search?q=innovairre) | 04/11/2022 |   |
+| [`get-integrated`](https://google.com/search?q=get-integrated) | 04/11/2022 |   |
+| [`gascaribe`](https://google.com/search?q=gascaribe) | 04/11/2022 |   |
+| [`forefront_dermatology`](https://google.com/search?q=forefront_dermatology) | 04/11/2022 |   |
+| [`first_coast_logistics_services`](https://google.com/search?q=first_coast_logistics_services) | 04/11/2022 |   |
+| [`e.h._wachs_pipe_cutters`](https://google.com/search?q=e.h._wachs_pipe_cutters) | 04/11/2022 |   |
+| [`datamatics`](https://google.com/search?q=datamatics) | 04/11/2022 |   |
+| [`creditriskmonitor`](https://google.com/search?q=creditriskmonitor) | 04/11/2022 |   |
+| [`blackhawk`](https://google.com/search?q=blackhawk) | 04/11/2022 |   |
+| [`bfw`](https://google.com/search?q=bfw) | 04/11/2022 |   |
+| [`berding-weil`](https://google.com/search?q=berding-weil) | 04/11/2022 |   |
+| [`bcintlgroup.com`](https://google.com/search?q=bcintlgroup.com) | 04/11/2022 |   |
+| [`axley`](https://google.com/search?q=axley) | 04/11/2022 |   |
+| [`afts`](https://google.com/search?q=afts) | 04/11/2022 |   |
+| [`Ville-chaville`](https://google.com/search?q=Ville-chaville) | 04/11/2022 |   |
+| [`Skupstina`](https://google.com/search?q=Skupstina) | 04/11/2022 |   |
+| [`Murphyfamilyventures`](https://google.com/search?q=Murphyfamilyventures) | 04/11/2022 |   |
+| [`Ginspectionservices`](https://google.com/search?q=Ginspectionservices) | 04/11/2022 |   |
+| [`Dialogsas`](https://google.com/search?q=Dialogsas) | 04/11/2022 |   |
+| [`ginspectionservices`](https://google.com/search?q=ginspectionservices) | 27/09/2022 |   |
+| [`skupstina`](https://google.com/search?q=skupstina) | 30/08/2022 |   |
+| [`site-technology`](https://google.com/search?q=site-technology) | 21/07/2022 |   |
+| [`stm-com-tw`](https://google.com/search?q=stm-com-tw) | 07/07/2022 |   |
+| [`r1group`](https://google.com/search?q=r1group) | 27/06/2022 |   |
+| [`etron`](https://google.com/search?q=etron) | 13/06/2022 |   |
+| [`upskwt`](https://google.com/search?q=upskwt) | 17/05/2022 |   |
+| [`fronteousa`](https://google.com/search?q=fronteousa) | 16/05/2022 |   |
+| [`prophoenix`](https://google.com/search?q=prophoenix) | 22/04/2022 |   |
+| [`metrobrokers`](https://google.com/search?q=metrobrokers) | 22/04/2022 |   |
+| [`tavistock`](https://google.com/search?q=tavistock) | 12/04/2022 |   |
+| [`metagenics`](https://google.com/search?q=metagenics) | 08/04/2022 |   |
+| [`bcintlgroup-com`](https://google.com/search?q=bcintlgroup-com) | 30/03/2022 |   |
+| [`trant-co-uk`](https://google.com/search?q=trant-co-uk) | 30/03/2022 |   |
+| [`haltonhills`](https://google.com/search?q=haltonhills) | 23/03/2022 |   |
+| [`powertech`](https://google.com/search?q=powertech) | 23/03/2022 |   |
+| [`ids97`](https://google.com/search?q=ids97) | 25/02/2022 |   |
+| [`muntons`](https://google.com/search?q=muntons) | 18/02/2022 |   |
+| [`heritage-encon`](https://google.com/search?q=heritage-encon) | 18/02/2022 |   |
+| [`shoesforcrews`](https://google.com/search?q=shoesforcrews) | 04/02/2022 |   |
+| [`edgo`](https://google.com/search?q=edgo) | 04/02/2022 |   |
+| [`cmmcpas`](https://google.com/search?q=cmmcpas) | 04/02/2022 |   |
+| [`mtlcraft`](https://google.com/search?q=mtlcraft) | 25/01/2022 |   |
+| [`superfund`](https://google.com/search?q=superfund) | 13/01/2022 |   |
+| [`fdcbuilding`](https://google.com/search?q=fdcbuilding) | 13/01/2022 |   |
+| [`strongwell`](https://google.com/search?q=strongwell) | 10/01/2022 |   |
+| [`sonomatic-2`](https://google.com/search?q=sonomatic-2) | 10/01/2022 |   |
+| [`regulvar`](https://google.com/search?q=regulvar) | 10/01/2022 |   |
+| [`delinebox`](https://google.com/search?q=delinebox) | 10/01/2022 |   |
+| [`cle`](https://google.com/search?q=cle) | 10/01/2022 |   |
+| [`squamish`](https://google.com/search?q=squamish) | 30/12/2021 |   |
+| [`sonomatic`](https://google.com/search?q=sonomatic) | 30/12/2021 |   |
+| [`ncmutuallife`](https://google.com/search?q=ncmutuallife) | 30/12/2021 |   |
+| [`lahebert`](https://google.com/search?q=lahebert) | 30/12/2021 |   |
+| [`bakertilly`](https://google.com/search?q=bakertilly) | 30/12/2021 |   |
+| [`atlasdie`](https://google.com/search?q=atlasdie) | 30/12/2021 |   |
+| [`The Squamish Nation is comprised of descendants of the Coast Salish Aboriginal peoples who`](https://google.com/search?q=The+Squamish+Nation+is+comprised+of+descendants+of+the+Coast+Salish+Aboriginal+peoples+who) | 09/09/2021 |   |
+| [`First Coast Logistics Services, Inc. was founded in 1999. The Company's line of business i`](https://google.com/search?q=First+Coast+Logistics+Services%2C+Inc.+was+founded+in+1999.+The+Company%27s+line+of+business+i) | 09/09/2021 |   |
+| [`Datamatics is a technology company that builds intelligent solutions enabling data-driven`](https://google.com/search?q=Datamatics+is+a+technology+company+that+builds+intelligent+solutions+enabling+data-driven) | 09/09/2021 |   |
+| [`Rose Associates Mission Statement`](https://google.com/search?q=Rose+Associates+Mission+Statement) | 09/09/2021 |   |
+| [`AFTS supplies the preeminent Payment Processing, IRS 1031 Exchange, Data Processing, Invoi`](https://google.com/search?q=AFTS+supplies+the+preeminent+Payment+Processing%2C+IRS+1031+Exchange%2C+Data+Processing%2C+Invoi) | 09/09/2021 |   |
+| [`OTR Capital believes in simple and straightforward transactions, without hidden costs and`](https://google.com/search?q=OTR+Capital+believes+in+simple+and+straightforward+transactions%2C+without+hidden+costs+and) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2288,12 +2291,12 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 | post | date | Description
 |---|---|---|
-| `Astra Daihatsu Motor (ID)` | 24/11/2022 |   |
-| `AirAsia Group (MY, ID, TH)` | 19/11/2022 |   |
-| `OakBend Medical (USA)` | 13/09/2022 |   |
-| `ISTA International GmbH` | 09/08/2022 |   |
-| `Fitzgibbon Hospital (USA)` | 03/08/2022 |   |
-| `Trib Total Media (USA)` | 03/08/2022 |   |
+| [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | 24/11/2022 |   |
+| [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | 19/11/2022 |   |
+| [`OakBend Medical (USA)`](https://google.com/search?q=OakBend+Medical+%28USA%29) | 13/09/2022 |   |
+| [`ISTA International GmbH`](https://google.com/search?q=ISTA+International+GmbH) | 09/08/2022 |   |
+| [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | 03/08/2022 |   |
+| [`Trib Total Media (USA)`](https://google.com/search?q=Trib+Total+Media+%28USA%29) | 03/08/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2343,45 +2346,45 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 | post | date | Description
 |---|---|---|
-| `Huge iCloud Nudes Leak` | 25/05/2022 |   |
-| `Xplay Data Leak` | 18/05/2022 |   |
-| `DDC Data Leak` | 21/04/2022 |   |
-| `Panasonic data breach` | 21/04/2022 |   |
-| `Volvo data breach` | 21/04/2022 |   |
-| `UKG Kronos Data Leak` | 21/04/2022 |   |
-| `T Mobile Data Leak Dec-2021` | 21/04/2022 |   |
-| `US Cellular data leak Dec-2021` | 21/04/2022 |   |
-| `Major indian cryptocurrency Data Leak` | 21/04/2022 |   |
-| `Indian Aadhar data & software.` | 07/10/2021 |   |
-| `Epik Domain registrar and web host` | 07/10/2021 |   |
-| `Syniverse Data Leak` | 07/10/2021 |   |
-| `Gigabyte Data Leak` | 24/09/2021 |   |
-| `American Bank Systems INC Data Leak` | 09/09/2021 |   |
-| `Solar Winds Data Leak` | 09/09/2021 |   |
-| `IDFC Bank Confidential Data Leak` | 09/09/2021 |   |
-| `Bigbasket.com De-Hashed data leaked sql db` | 09/09/2021 |   |
-| `Beacon Health Solutions LLC Data` | 09/09/2021 |   |
-| `Jazz Mobile Pakistan Data Dump` | 09/09/2021 |   |
-| `2480000 Airtel India Customers Data` | 09/09/2021 |   |
-| `Indiabulls SQL and Documents Leak` | 09/09/2021 |   |
-| `True Caller Indian Data Leak` | 09/09/2021 |   |
-| `533 Million facebook Users Data` | 09/09/2021 |   |
-| `Prime Minister of India Data` | 09/09/2021 |   |
-| `Acer.com Leaked Data 100% Fresh` | 09/09/2021 |   |
-| `Summit Credit Union Big Data Leak` | 09/09/2021 |   |
-| `Mobikwik Leaked Data` | 09/09/2021 |   |
-| `Astoria Company LLC data` | 09/09/2021 |   |
-| `SBI YONO APP DATABASE` | 09/09/2021 |   |
-| `Upstox.com Huge Data` | 09/09/2021 |   |
-| `Tata Communications Huge Data` | 09/09/2021 |   |
-| `Dominos India Database Leak` | 09/09/2021 |   |
-| `AirIndia breach information of 4.5 million custome` | 09/09/2021 |   |
-| `ADATA corporation Leak` | 09/09/2021 |   |
-| `Cognyte Data Leak` | 09/09/2021 |   |
-| `DreamHost Data Leak` | 09/09/2021 |   |
-| `Pine Labs Data Leak` | 09/09/2021 |   |
-| `AT&T Database Leak` | 09/09/2021 |   |
-| `Liquid Global liquid.com` | 09/09/2021 |   |
+| [`Huge iCloud Nudes Leak`](https://google.com/search?q=Huge+iCloud+Nudes+Leak) | 25/05/2022 |   |
+| [`Xplay Data Leak`](https://google.com/search?q=Xplay+Data+Leak) | 18/05/2022 |   |
+| [`DDC Data Leak`](https://google.com/search?q=DDC+Data+Leak) | 21/04/2022 |   |
+| [`Panasonic data breach`](https://google.com/search?q=Panasonic+data+breach) | 21/04/2022 |   |
+| [`Volvo data breach`](https://google.com/search?q=Volvo+data+breach) | 21/04/2022 |   |
+| [`UKG Kronos Data Leak`](https://google.com/search?q=UKG+Kronos+Data+Leak) | 21/04/2022 |   |
+| [`T Mobile Data Leak Dec-2021`](https://google.com/search?q=T+Mobile+Data+Leak+Dec-2021) | 21/04/2022 |   |
+| [`US Cellular data leak Dec-2021`](https://google.com/search?q=US+Cellular+data+leak+Dec-2021) | 21/04/2022 |   |
+| [`Major indian cryptocurrency Data Leak`](https://google.com/search?q=Major+indian+cryptocurrency+Data+Leak) | 21/04/2022 |   |
+| [`Indian Aadhar data & software.`](https://google.com/search?q=Indian+Aadhar+data+%26+software.) | 07/10/2021 |   |
+| [`Epik Domain registrar and web host`](https://google.com/search?q=Epik+Domain+registrar+and+web+host) | 07/10/2021 |   |
+| [`Syniverse Data Leak`](https://google.com/search?q=Syniverse+Data+Leak) | 07/10/2021 |   |
+| [`Gigabyte Data Leak`](https://google.com/search?q=Gigabyte+Data+Leak) | 24/09/2021 |   |
+| [`American Bank Systems INC Data Leak`](https://google.com/search?q=American+Bank+Systems+INC+Data+Leak) | 09/09/2021 |   |
+| [`Solar Winds Data Leak`](https://google.com/search?q=Solar+Winds+Data+Leak) | 09/09/2021 |   |
+| [`IDFC Bank Confidential Data Leak`](https://google.com/search?q=IDFC+Bank+Confidential+Data+Leak) | 09/09/2021 |   |
+| [`Bigbasket.com De-Hashed data leaked sql db`](https://google.com/search?q=Bigbasket.com+De-Hashed+data+leaked+sql+db) | 09/09/2021 |   |
+| [`Beacon Health Solutions LLC Data`](https://google.com/search?q=Beacon+Health+Solutions+LLC+Data) | 09/09/2021 |   |
+| [`Jazz Mobile Pakistan Data Dump`](https://google.com/search?q=Jazz+Mobile+Pakistan+Data+Dump) | 09/09/2021 |   |
+| [`2480000 Airtel India Customers Data`](https://google.com/search?q=2480000+Airtel+India+Customers+Data) | 09/09/2021 |   |
+| [`Indiabulls SQL and Documents Leak`](https://google.com/search?q=Indiabulls+SQL+and+Documents+Leak) | 09/09/2021 |   |
+| [`True Caller Indian Data Leak`](https://google.com/search?q=True+Caller+Indian+Data+Leak) | 09/09/2021 |   |
+| [`533 Million facebook Users Data`](https://google.com/search?q=533+Million+facebook+Users+Data) | 09/09/2021 |   |
+| [`Prime Minister of India Data`](https://google.com/search?q=Prime+Minister+of+India+Data) | 09/09/2021 |   |
+| [`Acer.com Leaked Data 100% Fresh`](https://google.com/search?q=Acer.com+Leaked+Data+100%25+Fresh) | 09/09/2021 |   |
+| [`Summit Credit Union Big Data Leak`](https://google.com/search?q=Summit+Credit+Union+Big+Data+Leak) | 09/09/2021 |   |
+| [`Mobikwik Leaked Data`](https://google.com/search?q=Mobikwik+Leaked+Data) | 09/09/2021 |   |
+| [`Astoria Company LLC data`](https://google.com/search?q=Astoria+Company+LLC+data) | 09/09/2021 |   |
+| [`SBI YONO APP DATABASE`](https://google.com/search?q=SBI+YONO+APP+DATABASE) | 09/09/2021 |   |
+| [`Upstox.com Huge Data`](https://google.com/search?q=Upstox.com+Huge+Data) | 09/09/2021 |   |
+| [`Tata Communications Huge Data`](https://google.com/search?q=Tata+Communications+Huge+Data) | 09/09/2021 |   |
+| [`Dominos India Database Leak`](https://google.com/search?q=Dominos+India+Database+Leak) | 09/09/2021 |   |
+| [`AirIndia breach information of 4.5 million custome`](https://google.com/search?q=AirIndia+breach+information+of+4.5+million+custome) | 09/09/2021 |   |
+| [`ADATA corporation Leak`](https://google.com/search?q=ADATA+corporation+Leak) | 09/09/2021 |   |
+| [`Cognyte Data Leak`](https://google.com/search?q=Cognyte+Data+Leak) | 09/09/2021 |   |
+| [`DreamHost Data Leak`](https://google.com/search?q=DreamHost+Data+Leak) | 09/09/2021 |   |
+| [`Pine Labs Data Leak`](https://google.com/search?q=Pine+Labs+Data+Leak) | 09/09/2021 |   |
+| [`AT&T Database Leak`](https://google.com/search?q=AT%26T+Database+Leak) | 09/09/2021 |   |
+| [`Liquid Global liquid.com`](https://google.com/search?q=Liquid+Global+liquid.com) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2432,12 +2435,12 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 | post | date | Description
 |---|---|---|
-| `nissin.com.br Disclose the compressed package password` | 02/12/2022 |   |
-| `rkw-group.com Disclose the compressed package password` | 02/12/2022 |   |
-| `ni*usa.com` | 02/12/2022 |   |
-| `wiesauplast.de` | 02/12/2022 |   |
-| `grantweber.com` | 02/12/2022 |   |
-| `The Beacon Insurance Company Limited` | 02/12/2022 |   |
+| [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | 02/12/2022 |   |
+| [`rkw-group.com Disclose the compressed package password`](https://google.com/search?q=rkw-group.com+Disclose+the+compressed+package+password) | 02/12/2022 |   |
+| [`ni*usa.com`](https://google.com/search?q=ni%2Ausa.com) | 02/12/2022 |   |
+| [`wiesauplast.de`](https://google.com/search?q=wiesauplast.de) | 02/12/2022 |   |
+| [`grantweber.com`](https://google.com/search?q=grantweber.com) | 02/12/2022 |   |
+| [`The Beacon Insurance Company Limited`](https://google.com/search?q=The+Beacon+Insurance+Company+Limited) | 02/12/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2455,7 +2458,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/diavol/diavol1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/diavol/diavol2.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -2483,14 +2486,14 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 | post | date | Description
 |---|---|---|
-| `Health Care Solutions Group` | 01/10/2022 |   |
-| `Evo exhibits` | 28/09/2022 |   |
-| `Monarchnc` | 01/09/2022 |   |
-| `Enso Detego` | 24/08/2022 |   |
-| `Sando` | 24/08/2022 |   |
-| `CMZ UK` | 24/08/2022 |   |
-| `PlanET Biogas Solutions` | 24/08/2022 |   |
-| `Sheppard Robson` | 24/08/2022 |   |
+| [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | 01/10/2022 |   |
+| [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | 28/09/2022 |   |
+| [`Monarchnc`](https://google.com/search?q=Monarchnc) | 01/09/2022 |   |
+| [`Enso Detego`](https://google.com/search?q=Enso+Detego) | 24/08/2022 |   |
+| [`Sando`](https://google.com/search?q=Sando) | 24/08/2022 |   |
+| [`CMZ UK`](https://google.com/search?q=CMZ+UK) | 24/08/2022 |   |
+| [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | 24/08/2022 |   |
+| [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | 24/08/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2513,7 +2516,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#4</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/doppelpaymer/doppelpaymer1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer3.txt" target=_blank>#3</a>  <a href="/ransomware_notes/doppelpaymer/doppelpaymer4.txt" target=_blank>#4</a> 
 
 ### Posts
 
@@ -2625,118 +2628,118 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| `Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners` | 23/11/2022 |   |
-| `Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners` | 21/11/2022 |   |
-| `Aeronautics company Canada / Production of parts for aircraft engines` | 16/11/2022 |   |
-| `Aeronautics company Canada` | 11/11/2022 |   |
-| `AT&#038;T` | 28/10/2022 |   |
-| `Stages Pediatric Care DataBase on Sale` | 27/10/2022 |   |
-| `Rundle Eye Care DataBase Leak` | 25/10/2022 |   |
-| `Stages Pediatric Care New 40 personal records` | 23/10/2022 |   |
-| `Stages Pediatric Care New 250 personal records` | 23/10/2022 |   |
-| `MultiCareInc pt.3` | 18/10/2022 |   |
-| `MultiCareInc DataBase Leak` | 18/10/2022 |   |
-| `Stages Pediatric Care new personal data` | 18/10/2022 |   |
-| `MultiCare DataBase Leak` | 15/10/2022 |   |
-| `Electricity company / Air Defense Solutions company` | 14/10/2022 |   |
-| `Electricity company pt.3` | 13/10/2022 |   |
-| `MultiCare pt.3` | 12/10/2022 |   |
-| `Stages Pediatric Care Update` | 11/10/2022 |   |
-| `Electricity company pt.2` | 10/10/2022 |   |
-| `RS.GOV.BR/Government Brazil` | 10/10/2022 |   |
-| `Electricity company` | 07/10/2022 |   |
-| `SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo` | 07/10/2022 |   |
-| `Rundle Eye Care` | 06/10/2022 |   |
-| `MultiCare pt.2` | 06/10/2022 |   |
-| `MultiCare Home Health` | 01/10/2022 |   |
-| `Stages Pediatric Care` | 29/09/2022 |   |
-| `FederalBank/Fedfina DataBase Leak` | 25/09/2022 |   |
-| `Ministerio de Economía Argentina` | 21/09/2022 |   |
-| `Government Brazil` | 19/09/2022 |   |
-| `FederalBank/Fedfina.part5` | 15/09/2022 |   |
-| `GOV Brazil` | 30/08/2022 |   |
-| `Olamgroup` | 24/08/2022 |   |
-| `FederalBank/Fedfina.part4` | 26/07/2022 |   |
-| `FederalBank/Fedfina.part3` | 21/07/2022 |   |
-| `FederalBank/Fedfina.part2` | 20/07/2022 |   |
-| `FederalBank / Fedfina` | 18/07/2022 |   |
-| `Pontal Engineering Constructions and Developments Files Leak` | 11/07/2022 |   |
-| `Pontal Engineering Constructions and Developments` | 05/07/2022 |   |
-| `Amalfitana Gas Srl` | 01/07/2022 |   |
-| `FAYAT` | 23/06/2022 |   |
-| `Metek PLC Files Leak` | 14/06/2022 |   |
-| `Metek Plc` | 11/06/2022 |   |
-| `VTVCAB` | 06/06/2022 |   |
-| `Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns` | 26/05/2022 |   |
-| `Limited May Access Sale` | 02/05/2022 |   |
-| `Collegiate sports medicine` | 01/05/2022 |   |
-| `Reckitt Benckiser` | 20/04/2022 |   |
-| `Standard Building Supplies Ltd.` | 16/04/2022 |   |
-| `Standard Building Supplies Ltd` | 13/04/2022 |   |
-| `Supplies Company Data Leak in British Columbia, Canada` | 12/04/2022 |   |
-| `United States of America GOV` | 06/04/2022 |   |
-| `Ministry of Economy and Finance of Peru` | 23/03/2022 |   |
-| `South Africa Electricity company` | 18/03/2022 |   |
-| `Instituto Nacional de Tecnología Agropecuaria` | 15/03/2022 |   |
-| `UK GOV` | 14/03/2022 |   |
-| `News` | 14/03/2022 |   |
-| `XEFI / Neocyber` | 12/03/2022 |   |
-| `SPERONI SpA` | 11/03/2022 |   |
-| `XEFI` | 08/03/2022 |   |
-| `Turner Construction Company` | 07/03/2022 |   |
-| `IDFC FIRST Bank` | 07/03/2022 |   |
-| `Ledcor` | 07/03/2022 |   |
-| `BEAUTYWEST, INC.` | 07/03/2022 |   |
-| `Gershon Biegeleisen &#038; Co` | 07/03/2022 |   |
-| `Backus, Meyer &#038; Branch, LLP` | 07/03/2022 |   |
-| `Greenberg &#038; Stein New York City Personal Injury Lawyers` | 07/03/2022 |   |
-| `Law Offices of Brandon Sua &#038; Associates` | 07/03/2022 |   |
-| `Campbell Sales and Service, Inc` | 07/03/2022 |   |
-| `Federal land inc.` | 07/03/2022 |   |
-| `Centro Hospitalar de Setúbal` | 07/03/2022 |   |
-| `Signum` | 20/02/2022 |   |
-| `Various accesses on sale` | 19/02/2022 |   |
-| `Weir & Partners LLP` | 09/02/2022 |   |
-| `Florida lawyer&#8217;s data leaked` | 27/01/2022 |   |
-| `Gardenworks` | 21/01/2022 |   |
-| `AFG Canada` | 19/01/2022 |   |
-| `Partnership` | 16/01/2022 |   |
-| `Huhtamaki` | 08/01/2022 |   |
-| `SPERONI SPA` | 21/12/2021 |   |
-| `Jeffmoss` | 09/12/2021 |   |
-| `Ktmtriallaw` | 09/12/2021 |   |
-| `Saand` | 06/12/2021 |   |
-| `Seldin` | 04/12/2021 |   |
-| `Black Friday has arrived` | 27/11/2021 |   |
-| `Società Italiana degli Autori ed Editori / Information updated` | 23/11/2021 |   |
-| `Argentina GOV` | 23/11/2021 |   |
-| `Charlie Hebdo` | 22/11/2021 |   |
-| `MINISTRY OF ECONOMY AND FINANCE Peru` | 20/11/2021 |   |
-| `Police Brazil` | 15/11/2021 |   |
-| `Società Italiana degli Autori ed Editori / Data on sale` | 13/11/2021 |   |
-| `Cabinet Remy Le Bonnois / Data on sale / Charlie Hebdo` | 13/11/2021 |   |
-| `Cabinet Remy Le Bonnois / Data on sale` | 11/11/2021 |   |
-| `Società Italiana degli Autori ed Editori` | 20/10/2021 |   |
-| `U.S. GOV` | 05/10/2021 |   |
-| `Kes` | 01/10/2021 |   |
-| `PRECREDIT` | 28/09/2021 |   |
-| `Steel Projects` | 17/09/2021 |   |
-| `Irish Pioneer works` | 13/09/2021 |   |
-| `VIVA Formwork and Scaffolding` | 13/09/2021 |   |
-| `Hörmanseder Stahlbau GmbH` | 13/09/2021 |   |
-| `Southland` | 13/09/2021 |   |
-| `Xmedicalpicture` | 13/09/2021 |   |
-| `Andel` | 13/09/2021 |   |
-| `GROUPE CONFIANCE IMMOBILIER` | 09/09/2021 |   |
-| `Cabinet Remy Le Bonnois` | 09/09/2021 |   |
-| `XEFI / Part 2` | 09/09/2021 |   |
-| `Сompilation of lawyers France` | 09/09/2021 |   |
-| `AIC STEEL` | 09/09/2021 |   |
-| `Weir & Partners LLP / Part 2` | 09/09/2021 |   |
-| `InfraBuild` | 09/09/2021 |   |
-| `Tampa Tank INC` | 09/09/2021 |   |
-| `Alispharm` | 09/09/2021 |   |
-| `Orha Muvek` | 09/09/2021 |   |
+| [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | 23/11/2022 |   |
+| [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace+partners) | 21/11/2022 |   |
+| [`Aeronautics company Canada / Production of parts for aircraft engines`](https://google.com/search?q=Aeronautics+company+Canada+%2F+Production+of+parts+for+aircraft+engines) | 16/11/2022 |   |
+| [`Aeronautics company Canada`](https://google.com/search?q=Aeronautics+company+Canada) | 11/11/2022 |   |
+| [`AT&#038;T`](https://google.com/search?q=AT%26%23038%3BT) | 28/10/2022 |   |
+| [`Stages Pediatric Care DataBase on Sale`](https://google.com/search?q=Stages+Pediatric+Care+DataBase+on+Sale) | 27/10/2022 |   |
+| [`Rundle Eye Care DataBase Leak`](https://google.com/search?q=Rundle+Eye+Care+DataBase+Leak) | 25/10/2022 |   |
+| [`Stages Pediatric Care New 40 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+40+personal+records) | 23/10/2022 |   |
+| [`Stages Pediatric Care New 250 personal records`](https://google.com/search?q=Stages+Pediatric+Care+New+250+personal+records) | 23/10/2022 |   |
+| [`MultiCareInc pt.3`](https://google.com/search?q=MultiCareInc+pt.3) | 18/10/2022 |   |
+| [`MultiCareInc DataBase Leak`](https://google.com/search?q=MultiCareInc+DataBase+Leak) | 18/10/2022 |   |
+| [`Stages Pediatric Care new personal data`](https://google.com/search?q=Stages+Pediatric+Care+new+personal+data) | 18/10/2022 |   |
+| [`MultiCare DataBase Leak`](https://google.com/search?q=MultiCare+DataBase+Leak) | 15/10/2022 |   |
+| [`Electricity company / Air Defense Solutions company`](https://google.com/search?q=Electricity+company+%2F+Air+Defense+Solutions+company) | 14/10/2022 |   |
+| [`Electricity company pt.3`](https://google.com/search?q=Electricity+company+pt.3) | 13/10/2022 |   |
+| [`MultiCare pt.3`](https://google.com/search?q=MultiCare+pt.3) | 12/10/2022 |   |
+| [`Stages Pediatric Care Update`](https://google.com/search?q=Stages+Pediatric+Care+Update) | 11/10/2022 |   |
+| [`Electricity company pt.2`](https://google.com/search?q=Electricity+company+pt.2) | 10/10/2022 |   |
+| [`RS.GOV.BR/Government Brazil`](https://google.com/search?q=RS.GOV.BR%2FGovernment+Brazil) | 10/10/2022 |   |
+| [`Electricity company`](https://google.com/search?q=Electricity+company) | 07/10/2022 |   |
+| [`SPERONI S.P.A / Data Lamborghini, Ferrari, Fiat Group, VAG, Brembo`](https://google.com/search?q=SPERONI+S.P.A+%2F+Data+Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo) | 07/10/2022 |   |
+| [`Rundle Eye Care`](https://google.com/search?q=Rundle+Eye+Care) | 06/10/2022 |   |
+| [`MultiCare pt.2`](https://google.com/search?q=MultiCare+pt.2) | 06/10/2022 |   |
+| [`MultiCare Home Health`](https://google.com/search?q=MultiCare+Home+Health) | 01/10/2022 |   |
+| [`Stages Pediatric Care`](https://google.com/search?q=Stages+Pediatric+Care) | 29/09/2022 |   |
+| [`FederalBank/Fedfina DataBase Leak`](https://google.com/search?q=FederalBank%2FFedfina+DataBase+Leak) | 25/09/2022 |   |
+| [`Ministerio de Economía Argentina`](https://google.com/search?q=Ministerio+de+Econom%C3%ADa+Argentina) | 21/09/2022 |   |
+| [`Government Brazil`](https://google.com/search?q=Government+Brazil) | 19/09/2022 |   |
+| [`FederalBank/Fedfina.part5`](https://google.com/search?q=FederalBank%2FFedfina.part5) | 15/09/2022 |   |
+| [`GOV Brazil`](https://google.com/search?q=GOV+Brazil) | 30/08/2022 |   |
+| [`Olamgroup`](https://google.com/search?q=Olamgroup) | 24/08/2022 |   |
+| [`FederalBank/Fedfina.part4`](https://google.com/search?q=FederalBank%2FFedfina.part4) | 26/07/2022 |   |
+| [`FederalBank/Fedfina.part3`](https://google.com/search?q=FederalBank%2FFedfina.part3) | 21/07/2022 |   |
+| [`FederalBank/Fedfina.part2`](https://google.com/search?q=FederalBank%2FFedfina.part2) | 20/07/2022 |   |
+| [`FederalBank / Fedfina`](https://google.com/search?q=FederalBank+%2F+Fedfina) | 18/07/2022 |   |
+| [`Pontal Engineering Constructions and Developments Files Leak`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments+Files+Leak) | 11/07/2022 |   |
+| [`Pontal Engineering Constructions and Developments`](https://google.com/search?q=Pontal+Engineering+Constructions+and+Developments) | 05/07/2022 |   |
+| [`Amalfitana Gas Srl`](https://google.com/search?q=Amalfitana+Gas+Srl) | 01/07/2022 |   |
+| [`FAYAT`](https://google.com/search?q=FAYAT) | 23/06/2022 |   |
+| [`Metek PLC Files Leak`](https://google.com/search?q=Metek+PLC+Files+Leak) | 14/06/2022 |   |
+| [`Metek Plc`](https://google.com/search?q=Metek+Plc) | 11/06/2022 |   |
+| [`VTVCAB`](https://google.com/search?q=VTVCAB) | 06/06/2022 |   |
+| [`Lamborghini, Ferrari, Fiat Group, VAG, Brembo And data from other automobile concerns`](https://google.com/search?q=Lamborghini%2C+Ferrari%2C+Fiat+Group%2C+VAG%2C+Brembo+And+data+from+other+automobile+concerns) | 26/05/2022 |   |
+| [`Limited May Access Sale`](https://google.com/search?q=Limited+May+Access+Sale) | 02/05/2022 |   |
+| [`Collegiate sports medicine`](https://google.com/search?q=Collegiate+sports+medicine) | 01/05/2022 |   |
+| [`Reckitt Benckiser`](https://google.com/search?q=Reckitt+Benckiser) | 20/04/2022 |   |
+| [`Standard Building Supplies Ltd.`](https://google.com/search?q=Standard+Building+Supplies+Ltd.) | 16/04/2022 |   |
+| [`Standard Building Supplies Ltd`](https://google.com/search?q=Standard+Building+Supplies+Ltd) | 13/04/2022 |   |
+| [`Supplies Company Data Leak in British Columbia, Canada`](https://google.com/search?q=Supplies+Company+Data+Leak+in+British+Columbia%2C+Canada) | 12/04/2022 |   |
+| [`United States of America GOV`](https://google.com/search?q=United+States+of+America+GOV) | 06/04/2022 |   |
+| [`Ministry of Economy and Finance of Peru`](https://google.com/search?q=Ministry+of+Economy+and+Finance+of+Peru) | 23/03/2022 |   |
+| [`South Africa Electricity company`](https://google.com/search?q=South+Africa+Electricity+company) | 18/03/2022 |   |
+| [`Instituto Nacional de Tecnología Agropecuaria`](https://google.com/search?q=Instituto+Nacional+de+Tecnolog%C3%ADa+Agropecuaria) | 15/03/2022 |   |
+| [`UK GOV`](https://google.com/search?q=UK+GOV) | 14/03/2022 |   |
+| [`News`](https://google.com/search?q=News) | 14/03/2022 |   |
+| [`XEFI / Neocyber`](https://google.com/search?q=XEFI+%2F+Neocyber) | 12/03/2022 |   |
+| [`SPERONI SpA`](https://google.com/search?q=SPERONI+SpA) | 11/03/2022 |   |
+| [`XEFI`](https://google.com/search?q=XEFI) | 08/03/2022 |   |
+| [`Turner Construction Company`](https://google.com/search?q=Turner+Construction+Company) | 07/03/2022 |   |
+| [`IDFC FIRST Bank`](https://google.com/search?q=IDFC+FIRST+Bank) | 07/03/2022 |   |
+| [`Ledcor`](https://google.com/search?q=Ledcor) | 07/03/2022 |   |
+| [`BEAUTYWEST, INC.`](https://google.com/search?q=BEAUTYWEST%2C+INC.) | 07/03/2022 |   |
+| [`Gershon Biegeleisen &#038; Co`](https://google.com/search?q=Gershon+Biegeleisen+%26%23038%3B+Co) | 07/03/2022 |   |
+| [`Backus, Meyer &#038; Branch, LLP`](https://google.com/search?q=Backus%2C+Meyer+%26%23038%3B+Branch%2C+LLP) | 07/03/2022 |   |
+| [`Greenberg &#038; Stein New York City Personal Injury Lawyers`](https://google.com/search?q=Greenberg+%26%23038%3B+Stein+New+York+City+Personal+Injury+Lawyers) | 07/03/2022 |   |
+| [`Law Offices of Brandon Sua &#038; Associates`](https://google.com/search?q=Law+Offices+of+Brandon+Sua+%26%23038%3B+Associates) | 07/03/2022 |   |
+| [`Campbell Sales and Service, Inc`](https://google.com/search?q=Campbell+Sales+and+Service%2C+Inc) | 07/03/2022 |   |
+| [`Federal land inc.`](https://google.com/search?q=Federal+land+inc.) | 07/03/2022 |   |
+| [`Centro Hospitalar de Setúbal`](https://google.com/search?q=Centro+Hospitalar+de+Set%C3%BAbal) | 07/03/2022 |   |
+| [`Signum`](https://google.com/search?q=Signum) | 20/02/2022 |   |
+| [`Various accesses on sale`](https://google.com/search?q=Various+accesses+on+sale) | 19/02/2022 |   |
+| [`Weir & Partners LLP`](https://google.com/search?q=Weir+%26+Partners+LLP) | 09/02/2022 |   |
+| [`Florida lawyer&#8217;s data leaked`](https://google.com/search?q=Florida+lawyer%26%238217%3Bs+data+leaked) | 27/01/2022 |   |
+| [`Gardenworks`](https://google.com/search?q=Gardenworks) | 21/01/2022 |   |
+| [`AFG Canada`](https://google.com/search?q=AFG+Canada) | 19/01/2022 |   |
+| [`Partnership`](https://google.com/search?q=Partnership) | 16/01/2022 |   |
+| [`Huhtamaki`](https://google.com/search?q=Huhtamaki) | 08/01/2022 |   |
+| [`SPERONI SPA`](https://google.com/search?q=SPERONI+SPA) | 21/12/2021 |   |
+| [`Jeffmoss`](https://google.com/search?q=Jeffmoss) | 09/12/2021 |   |
+| [`Ktmtriallaw`](https://google.com/search?q=Ktmtriallaw) | 09/12/2021 |   |
+| [`Saand`](https://google.com/search?q=Saand) | 06/12/2021 |   |
+| [`Seldin`](https://google.com/search?q=Seldin) | 04/12/2021 |   |
+| [`Black Friday has arrived`](https://google.com/search?q=Black+Friday+has+arrived) | 27/11/2021 |   |
+| [`Società Italiana degli Autori ed Editori / Information updated`](https://google.com/search?q=Societ%C3%A0+Italiana+degli+Autori+ed+Editori+%2F+Information+updated) | 23/11/2021 |   |
+| [`Argentina GOV`](https://google.com/search?q=Argentina+GOV) | 23/11/2021 |   |
+| [`Charlie Hebdo`](https://google.com/search?q=Charlie+Hebdo) | 22/11/2021 |   |
+| [`MINISTRY OF ECONOMY AND FINANCE Peru`](https://google.com/search?q=MINISTRY+OF+ECONOMY+AND+FINANCE+Peru) | 20/11/2021 |   |
+| [`Police Brazil`](https://google.com/search?q=Police+Brazil) | 15/11/2021 |   |
+| [`Società Italiana degli Autori ed Editori / Data on sale`](https://google.com/search?q=Societ%C3%A0+Italiana+degli+Autori+ed+Editori+%2F+Data+on+sale) | 13/11/2021 |   |
+| [`Cabinet Remy Le Bonnois / Data on sale / Charlie Hebdo`](https://google.com/search?q=Cabinet+Remy+Le+Bonnois+%2F+Data+on+sale+%2F+Charlie+Hebdo) | 13/11/2021 |   |
+| [`Cabinet Remy Le Bonnois / Data on sale`](https://google.com/search?q=Cabinet+Remy+Le+Bonnois+%2F+Data+on+sale) | 11/11/2021 |   |
+| [`Società Italiana degli Autori ed Editori`](https://google.com/search?q=Societ%C3%A0+Italiana+degli+Autori+ed+Editori) | 20/10/2021 |   |
+| [`U.S. GOV`](https://google.com/search?q=U.S.+GOV) | 05/10/2021 |   |
+| [`Kes`](https://google.com/search?q=Kes) | 01/10/2021 |   |
+| [`PRECREDIT`](https://google.com/search?q=PRECREDIT) | 28/09/2021 |   |
+| [`Steel Projects`](https://google.com/search?q=Steel+Projects) | 17/09/2021 |   |
+| [`Irish Pioneer works`](https://google.com/search?q=Irish+Pioneer+works) | 13/09/2021 |   |
+| [`VIVA Formwork and Scaffolding`](https://google.com/search?q=VIVA+Formwork+and+Scaffolding) | 13/09/2021 |   |
+| [`Hörmanseder Stahlbau GmbH`](https://google.com/search?q=H%C3%B6rmanseder+Stahlbau+GmbH) | 13/09/2021 |   |
+| [`Southland`](https://google.com/search?q=Southland) | 13/09/2021 |   |
+| [`Xmedicalpicture`](https://google.com/search?q=Xmedicalpicture) | 13/09/2021 |   |
+| [`Andel`](https://google.com/search?q=Andel) | 13/09/2021 |   |
+| [`GROUPE CONFIANCE IMMOBILIER`](https://google.com/search?q=GROUPE+CONFIANCE+IMMOBILIER) | 09/09/2021 |   |
+| [`Cabinet Remy Le Bonnois`](https://google.com/search?q=Cabinet+Remy+Le+Bonnois) | 09/09/2021 |   |
+| [`XEFI / Part 2`](https://google.com/search?q=XEFI+%2F+Part+2) | 09/09/2021 |   |
+| [`Сompilation of lawyers France`](https://google.com/search?q=%D0%A1ompilation+of+lawyers+France) | 09/09/2021 |   |
+| [`AIC STEEL`](https://google.com/search?q=AIC+STEEL) | 09/09/2021 |   |
+| [`Weir & Partners LLP / Part 2`](https://google.com/search?q=Weir+%26+Partners+LLP+%2F+Part+2) | 09/09/2021 |   |
+| [`InfraBuild`](https://google.com/search?q=InfraBuild) | 09/09/2021 |   |
+| [`Tampa Tank INC`](https://google.com/search?q=Tampa+Tank+INC) | 09/09/2021 |   |
+| [`Alispharm`](https://google.com/search?q=Alispharm) | 09/09/2021 |   |
+| [`Orha Muvek`](https://google.com/search?q=Orha+Muvek) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2850,19 +2853,19 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| `Я не пью виски но с ним бы выпил` | 30/10/2021 |   |
-| `episcopalretirement.com  Возможна утечка` | 23/10/2021 |   |
-| `Про русских в США` | 23/10/2021 |   |
-| `therecord.media 30k USD` | 23/10/2021 |   |
-| `hagerstownpd.org` | 22/10/2021 |   |
-| `trivalleypc.com` | 22/10/2021 |   |
-| `robinwoodortho.com` | 13/09/2021 |   |
-| `Одно интервью` | 10/09/2021 |   |
-| `Украина и экстрадиции в США` | 10/09/2021 |   |
-| `ludofact.de 50 GB data stolen` | 09/09/2021 |   |
-| `Мысли о смысле` | 09/09/2021 |   |
-| `Запатченные fortinet точки входа` | 09/09/2021 |   |
-| `Мы можем просто договориться` | 09/09/2021 |   |
+| [`Я не пью виски но с ним бы выпил`](https://google.com/search?q=%D0%AF+%D0%BD%D0%B5+%D0%BF%D1%8C%D1%8E+%D0%B2%D0%B8%D1%81%D0%BA%D0%B8+%D0%BD%D0%BE+%D1%81+%D0%BD%D0%B8%D0%BC+%D0%B1%D1%8B+%D0%B2%D1%8B%D0%BF%D0%B8%D0%BB) | 30/10/2021 |   |
+| [`episcopalretirement.com  Возможна утечка`](https://google.com/search?q=episcopalretirement.com++%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%B0+%D1%83%D1%82%D0%B5%D1%87%D0%BA%D0%B0) | 23/10/2021 |   |
+| [`Про русских в США`](https://google.com/search?q=%D0%9F%D1%80%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%B2+%D0%A1%D0%A8%D0%90) | 23/10/2021 |   |
+| [`therecord.media 30k USD`](https://google.com/search?q=therecord.media+30k+USD) | 23/10/2021 |   |
+| [`hagerstownpd.org`](https://google.com/search?q=hagerstownpd.org) | 22/10/2021 |   |
+| [`trivalleypc.com`](https://google.com/search?q=trivalleypc.com) | 22/10/2021 |   |
+| [`robinwoodortho.com`](https://google.com/search?q=robinwoodortho.com) | 13/09/2021 |   |
+| [`Одно интервью`](https://google.com/search?q=%D0%9E%D0%B4%D0%BD%D0%BE+%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E) | 10/09/2021 |   |
+| [`Украина и экстрадиции в США`](https://google.com/search?q=%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0+%D0%B8+%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B0%D0%B4%D0%B8%D1%86%D0%B8%D0%B8+%D0%B2+%D0%A1%D0%A8%D0%90) | 10/09/2021 |   |
+| [`ludofact.de 50 GB data stolen`](https://google.com/search?q=ludofact.de+50+GB+data+stolen) | 09/09/2021 |   |
+| [`Мысли о смысле`](https://google.com/search?q=%D0%9C%D1%8B%D1%81%D0%BB%D0%B8+%D0%BE+%D1%81%D0%BC%D1%8B%D1%81%D0%BB%D0%B5) | 09/09/2021 |   |
+| [`Запатченные fortinet точки входа`](https://google.com/search?q=%D0%97%D0%B0%D0%BF%D0%B0%D1%82%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+fortinet+%D1%82%D0%BE%D1%87%D0%BA%D0%B8+%D0%B2%D1%85%D0%BE%D0%B4%D0%B0) | 09/09/2021 |   |
+| [`Мы можем просто договориться`](https://google.com/search?q=%D0%9C%D1%8B+%D0%BC%D0%BE%D0%B6%D0%B5%D0%BC+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C%D1%81%D1%8F) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2979,205 +2982,205 @@ _``_
 | [`MHMR Authority Of Brazos Valley`](https://www.mhmrabv.org) | 22/12/2022 | The MHMR Authority of Brazos Valley is a public non-profit community MHMR center. Through the Texas Department of State Health Services and Texas Department of |
 | [`Alvaria`](https://www.alvaria.com) | 21/12/2022 | Alvaria, (pronounced: ahl-vahr-ee-uh), a global leader delivering optimized customer experience and workforce engagement software and cloud services technology solutions. |
 | [`Interface`](https://www.interface.com) | 20/12/2022 | **** 30% OF THE DATA IS COMING SOON ****  Interface, Inc. is a global flooring company specializing in carbon neutral carpet tile and resilient flooring.  Stocks: NASDAQ: TILE Equity: IF6N.F, IF6N.BE, IF6N.HA |
-| `North Idaho College` | 20/12/2022 | Founded in 1933, North Idaho College is a community college in Coeur d'Alene, Idaho. |
-| `Innovative Education Management` | 20/12/2022 | Innovative Education Management (IEM) has been successfully developing and operating California charter schools since 1998 |
-| `Dixons Allerton Academy` | 20/12/2022 | Dixons Allerton Academy (formerly Rhodesway Academy) is a coeducational all-through school and sixth form located in Allerton area of the City of Bradford, in the English county of West Yorkshire. |
-| `City Of Huntsville, Texas` | 20/12/2022 | Huntsville Texas is a city in the Texas Hill Country. |
-| `JAKKS Pacific Inc` | 20/12/2022 | JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. The company has become a top six U.S. player in the toys and leisure products sector through product development, licensing agreements and strategic acquisitions. We believe our growth strategy is unique and built upon a concentrated effort to spread earnings across all four quarters. We have accomplished that by expanding and 'counter-seasonalizing' our product lines, adding new retail outlets and leveraging our product development and merchandising expertise on products with staying power. About JAKKS Pacific, Inc. JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific’s popular proprietary brands include: Fly Wheels®, Perfectly Cute®, ReDo Skateboard Co.®, X Power Dozer®, Disguise®, Weee-Do™ and a wide range of entertainment-inspired products featuring premier licensed properties. Through JAKKS Cares, the company’s commitment to philanthropy, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram (@jakkstoys), Twitter (@jakkstoys) and Facebook (JAKKS Pacific). |
-| `Stolle Machinery` | 20/12/2022 | **** ALL BLUEPRINTS OF ALL PRODUCT LINES WILL BE AVAILABLE SOON **** Stolle is the world's leading supplier of two piece can and end-making machinery for the global canmaking industry. Our high speed machines can be found in can plants around the world performing the value-added functions of the canmaking process. |
-| `Mark-Taylor` | 14/12/2022 |   |
-| `Expand Group` | 14/12/2022 |   |
-| `KNOX College` | 10/12/2022 |   |
-| `INTERSPORT France` | 06/12/2022 |   |
-| `Guilford College` | 25/11/2022 |   |
-| `Norman Public Schools` | 23/11/2022 |   |
-| `Hydro-Gear & Agri-Fab` | 15/11/2022 |   |
-| `LCMH` | 15/11/2022 |   |
-| `MCCROSSAN` | 10/11/2022 |   |
-| `APM Terminals` | 08/11/2022 |   |
-| `TCQ` | 07/11/2022 |   |
-| `ROYAL GATEWAY CO., LTD` | 07/11/2022 |   |
-| `Cornwell Quality Tools` | 07/11/2022 |   |
-| `Landi Renzo` | 03/11/2022 |   |
-| `Tata Power` | 24/10/2022 |   |
-| `Município De Loures` | 09/10/2022 |   |
-| `Mansfield Independent School District (MISD)` | 30/09/2022 |   |
-| `Southwell, Inc.` | 27/09/2022 |   |
-| `Hendry Regional Medical Center` | 27/09/2022 |   |
-| `JANMARINI` | 27/09/2022 |   |
-| `TAKAO-UK` | 26/09/2022 |   |
-| `GFG` | 26/09/2022 |   |
-| `TSMTU` | 26/09/2022 |   |
-| `BHARBERT` | 21/09/2022 |   |
-| `Sigmund Software` | 20/09/2022 |   |
-| `New York Racing Association` | 19/09/2022 |   |
-| `Bell Technical Solutions` | 15/09/2022 |   |
-| `FONTAINEBLEAU` | 15/09/2022 |   |
-| `California-Oregon Telecommunications Company` | 06/09/2022 |   |
-| `Eurocell` | 02/09/2022 |   |
-| `NCG Medical` | 31/08/2022 |   |
-| `Altice International` | 25/08/2022 |   |
-| `Baton Rouge General` | 24/08/2022 |   |
-| `Reiter Affiliated Companies` | 19/08/2022 |   |
-| `WOOTTON ACADEMY TRUST` | 18/08/2022 |   |
-| `TriState HVAC Equipment` | 14/08/2022 |   |
-| `ENN Group` | 04/08/2022 |   |
-| `CIMEX` | 27/07/2022 |   |
-| `Weidmueller` | 27/07/2022 |   |
-| `Empress EMS` | 26/07/2022 |   |
-| `LaVan & Neidenberg` | 20/07/2022 |   |
-| `Carrolls Irish Gifts` | 16/07/2022 |   |
-| `Behavioral Health System` | 14/07/2022 |   |
-| `FMT` | 14/07/2022 |   |
-| `CITY-FURNITURE` | 14/07/2022 |   |
-| `RALLYE-DOM` | 14/07/2022 |   |
-| `SANDO` | 13/07/2022 |   |
-| `RTVCM` | 13/07/2022 |   |
-| `AdaptIT` | 13/07/2022 |   |
-| `Exela Technologies` | 13/07/2022 |   |
-| `APETITO` | 13/07/2022 |   |
-| `GROUP4 AUSTRALIA` | 13/07/2022 |   |
-| `Authentic Brands Group` | 13/07/2022 |   |
-| `Yurtiçi Kargo` | 04/07/2022 |   |
-| `Hamlyns Limited` | 04/07/2022 |   |
-| `DIRECTFERRIES` | 04/07/2022 |   |
-| `MHIRE` | 04/07/2022 |   |
-| `CAN.COM` | 04/07/2022 |   |
-| `AUM` | 04/07/2022 |   |
-| `KDE` | 04/07/2022 |   |
-| `YURTICIKARGO` | 04/07/2022 |   |
-| `Massy Distribution Limited` | 04/07/2022 |   |
-| `WWSTEELE` | 04/07/2022 |   |
-| `NETWORK4CARS` | 04/07/2022 |   |
-| `AG` | 03/07/2022 |   |
-| `Rocky` | 02/07/2022 |   |
-| `SuperAlloy Industrial Co., Ltd.` | 28/06/2022 |   |
-| `Diskriter` | 28/06/2022 |   |
-| `Alphapointe` | 23/06/2022 |   |
-| `Arte Radiotelevisivo Argentino (Artear)` | 23/06/2022 |   |
-| `Goodman Campbell Brain & Spine` | 08/06/2022 |   |
-| `G&P Projects And Systems S.A.` | 30/05/2022 |   |
-| `Caracol TV` | 30/05/2022 |   |
-| `Travira Air` | 28/05/2022 |   |
-| `XEIAD` | 28/05/2022 |   |
-| `SOUCY` | 26/05/2022 |   |
-| `Guardian Fueling Technologies` | 26/05/2022 |   |
-| `ChemStation International` | 26/05/2022 |   |
-| `GUARDFUEL` | 25/05/2022 |   |
-| `NUAIRE` | 25/05/2022 |   |
-| `IGHQ` | 25/05/2022 |   |
-| `Yachiyo Of America` | 25/05/2022 |   |
-| `RateGain` | 24/05/2022 |   |
-| `SPORTPLAZA` | 20/05/2022 |   |
-| `EIITNET` | 19/05/2022 |   |
-| `CARTEGRAPH` | 19/05/2022 |   |
-| `Tri-Ko` | 19/05/2022 |   |
-| `Faw-Volkswagen Automobile Co., Ltd.` | 04/05/2022 |   |
-| `Monterey Mechanical Co.` | 29/04/2022 |   |
-| `Attica Group` | 28/04/2022 |   |
-| `SSK Ingeniería Y Construcción S.A.C.` | 26/04/2022 |   |
-| `MILLS GROUP` | 18/04/2022 |   |
-| `FCCH` | 07/04/2022 |   |
-| `PHC` | 29/03/2022 |   |
-| `Konradin Mediengruppe GmbH` | 26/03/2022 |   |
-| `Pollmann` | 25/03/2022 |   |
-| `Passero Associates` | 24/03/2022 |   |
-| `KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA` | 24/03/2022 |   |
-| `Banco Caribe` | 23/03/2022 |   |
-| `Asphalion` | 23/03/2022 |   |
-| `Instituto De Gesto Estratégica De Sade Do Distrito Federal` | 23/03/2022 |   |
-| `Wibag Bau Ag` | 23/03/2022 |   |
-| `Otto Dörner GmbH & Co. KG` | 22/03/2022 |   |
-| `GomeA` | 22/03/2022 |   |
-| `Ministry For Foreign Affairs Of The Republic Of Indonesia` | 22/03/2022 |   |
-| `UCSI University` | 22/03/2022 |   |
-| `School District Of Janesville` | 22/03/2022 |   |
-| `Rotoplas` | 22/03/2022 |   |
-| `Centurion Stone` | 22/03/2022 |   |
-| `Dayton T. Brown, Inc` | 22/03/2022 |   |
-| `Centerline Communication Llc` | 22/03/2022 |   |
-| `Polynt Group` | 22/03/2022 |   |
-| `NSM Insurance Group` | 18/03/2022 |   |
-| `PAN AMERICAN ENERGY S.L. SUCURSAL ARGENTINA` | 04/03/2022 |   |
-| `Drake & Scull International PJSC` | 25/02/2022 |   |
-| `Steven L. Sugarman & Associates` | 25/02/2022 |   |
-| `Palacios & Asociados` | 25/02/2022 |   |
-| `Sit'N Sleep` | 25/02/2022 |   |
-| `MAS & Coronis Health` | 25/02/2022 |   |
-| `BERMAN SOBIN GROSS & DARBY` | 25/02/2022 |   |
-| `Rocky's Ace Hardware` | 25/02/2022 |   |
-| `Guts Superpols Co., Ltd.` | 25/02/2022 |   |
-| `Ningbo Dechang Electric Machinery Manufacturing Co., Ltd.` | 25/02/2022 |   |
-| `Tite - Live Belgique` | 25/02/2022 |   |
-| `Shanghai Huizhong Automotive Manufacturing Co., Ltd.` | 25/02/2022 |   |
-| `Supernus Pharmaceuticals, NASDAQ: SUPN` | 25/02/2022 |   |
-| `Drake & Scull International PJSC` | 25/02/2022 |   |
-| `Institute For Systems And Robotics (Isr-Lisboa` | 25/02/2022 |   |
-| `Centre D'Odontologia Integrada Miret-Puig` | 25/02/2022 |   |
-| `Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)` | 25/02/2022 |   |
-| `Rodonaves Transportes E Encomendas Ltda` | 25/02/2022 |   |
-| `Eurocoin Interactive B.V.` | 25/02/2022 |   |
-| `Emil Frey` | 25/02/2022 |   |
-| `Friedrich` | 25/02/2022 |   |
-| `Powerhouse1` | 25/02/2022 |   |
-| `Doner` | 25/02/2022 |   |
-| `EBM` | 25/02/2022 |   |
-| `ITS InfoCom` | 25/02/2022 |   |
-| `Vermeer Southeast` | 25/01/2022 |   |
-| `Unita Locale Socio` | 25/01/2022 |   |
-| `The British Columbia Institute Of Technology` | 25/01/2022 |   |
-| `Sutterfield Financial Group` | 25/01/2022 |   |
-| `Schuldnerberatung Ostfriesland e. V.` | 25/01/2022 |   |
-| `Sardinha Family Trust` | 25/01/2022 |   |
-| `Sadbhav Engineering Limited` | 25/01/2022 |   |
-| `Ryan Companies` | 25/01/2022 |   |
-| `Résidence Les Chtaigniers` | 25/01/2022 |   |
-| `Powell Transportation` | 25/01/2022 |   |
-| `Northern Financial Services` | 25/01/2022 |   |
-| `Montour School District` | 25/01/2022 |   |
-| `Mele Printing` | 25/01/2022 |   |
-| `Marten Transport` | 25/01/2022 |   |
-| `Macquarie Health Corporation` | 25/01/2022 |   |
-| `Johnson Memorial Health` | 25/01/2022 |   |
-| `Haselden Construction` | 25/01/2022 |   |
-| `Greenway Health` | 25/01/2022 |   |
-| `Florida Sugar Cane League` | 25/01/2022 |   |
-| `Family Christian Health Center` | 25/01/2022 |   |
-| `Erik Buell Racing` | 25/01/2022 |   |
-| `Creative Liquid Coatings INC` | 25/01/2022 |   |
-| `ConForm Automotive` | 25/01/2022 |   |
-| `Claro Colombia` | 25/01/2022 |   |
-| `Brinkman Turkey Farms` | 25/01/2022 |   |
-| `Brakke Asbestsanering BV` | 25/01/2022 |   |
-| `Bohlke International Airways` | 25/01/2022 |   |
-| `Advanced Geosciences` | 25/01/2022 |   |
-| `ANTHONY CATALFANO INTERIORS` | 25/01/2022 |   |
-| `UNICRED` | 20/01/2022 |   |
-| `RIVADIS` | 20/01/2022 |   |
-| `Ezz Steel` | 09/01/2022 |   |
-| `Metro.Us` | 28/12/2021 |   |
-| `WOLSEY` | 20/12/2021 |   |
-| `Madix Inc` | 20/12/2021 |   |
-| `Altus Group` | 18/12/2021 |   |
-| `Mega Vision` | 18/12/2021 |   |
-| `HI FLY` | 18/12/2021 |   |
-| `IBC24 News` | 18/12/2021 |   |
-| `SS Design` | 18/12/2021 |   |
-| `GURTEEN` | 18/12/2021 |   |
-| `Net Ninjas` | 18/12/2021 |   |
-| `W.H. Stovall` | 18/12/2021 |   |
-| `Ospray Video` | 18/12/2021 |   |
-| `GK.NO` | 18/12/2021 |   |
-| `KBM UK` | 18/12/2021 |   |
-| `EMCO` | 18/12/2021 |   |
-| `Aria Systems` | 18/12/2021 |   |
-| `WAMGROUP` | 18/12/2021 |   |
-| `XacBank` | 18/12/2021 |   |
-| `APR Supply` | 18/12/2021 |   |
-| `Grupo5` | 18/12/2021 |   |
-| `MediaMarkt` | 18/12/2021 |   |
-| `GryphTech` | 18/12/2021 |   |
-| `Raveco` | 18/12/2021 |   |
+| [`North Idaho College`](https://google.com/search?q=North+Idaho+College) | 20/12/2022 | Founded in 1933, North Idaho College is a community college in Coeur d'Alene, Idaho. |
+| [`Innovative Education Management`](https://google.com/search?q=Innovative+Education+Management) | 20/12/2022 | Innovative Education Management (IEM) has been successfully developing and operating California charter schools since 1998 |
+| [`Dixons Allerton Academy`](https://google.com/search?q=Dixons+Allerton+Academy) | 20/12/2022 | Dixons Allerton Academy (formerly Rhodesway Academy) is a coeducational all-through school and sixth form located in Allerton area of the City of Bradford, in the English county of West Yorkshire. |
+| [`City Of Huntsville, Texas`](https://google.com/search?q=City+Of+Huntsville%2C+Texas) | 20/12/2022 | Huntsville Texas is a city in the Texas Hill Country. |
+| [`JAKKS Pacific Inc`](https://google.com/search?q=JAKKS+Pacific+Inc) | 20/12/2022 | JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. The company has become a top six U.S. player in the toys and leisure products sector through product development, licensing agreements and strategic acquisitions. We believe our growth strategy is unique and built upon a concentrated effort to spread earnings across all four quarters. We have accomplished that by expanding and 'counter-seasonalizing' our product lines, adding new retail outlets and leveraging our product development and merchandising expertise on products with staying power. About JAKKS Pacific, Inc. JAKKS Pacific, Inc. is a leading designer, manufacturer and marketer of toys and consumer products sold throughout the world, with its headquarters in Santa Monica, California. JAKKS Pacific’s popular proprietary brands include: Fly Wheels®, Perfectly Cute®, ReDo Skateboard Co.®, X Power Dozer®, Disguise®, Weee-Do™ and a wide range of entertainment-inspired products featuring premier licensed properties. Through JAKKS Cares, the company’s commitment to philanthropy, JAKKS is helping to make a positive impact on the lives of children. Visit us at www.jakks.com and follow us on Instagram (@jakkstoys), Twitter (@jakkstoys) and Facebook (JAKKS Pacific). |
+| [`Stolle Machinery`](https://google.com/search?q=Stolle+Machinery) | 20/12/2022 | **** ALL BLUEPRINTS OF ALL PRODUCT LINES WILL BE AVAILABLE SOON **** Stolle is the world's leading supplier of two piece can and end-making machinery for the global canmaking industry. Our high speed machines can be found in can plants around the world performing the value-added functions of the canmaking process. |
+| [`Mark-Taylor`](https://google.com/search?q=Mark-Taylor) | 14/12/2022 |   |
+| [`Expand Group`](https://google.com/search?q=Expand+Group) | 14/12/2022 |   |
+| [`KNOX College`](https://google.com/search?q=KNOX+College) | 10/12/2022 |   |
+| [`INTERSPORT France`](https://google.com/search?q=INTERSPORT+France) | 06/12/2022 |   |
+| [`Guilford College`](https://google.com/search?q=Guilford+College) | 25/11/2022 |   |
+| [`Norman Public Schools`](https://google.com/search?q=Norman+Public+Schools) | 23/11/2022 |   |
+| [`Hydro-Gear & Agri-Fab`](https://google.com/search?q=Hydro-Gear+%26+Agri-Fab) | 15/11/2022 |   |
+| [`LCMH`](https://google.com/search?q=LCMH) | 15/11/2022 |   |
+| [`MCCROSSAN`](https://google.com/search?q=MCCROSSAN) | 10/11/2022 |   |
+| [`APM Terminals`](https://google.com/search?q=APM+Terminals) | 08/11/2022 |   |
+| [`TCQ`](https://google.com/search?q=TCQ) | 07/11/2022 |   |
+| [`ROYAL GATEWAY CO., LTD`](https://google.com/search?q=ROYAL+GATEWAY+CO.%2C+LTD) | 07/11/2022 |   |
+| [`Cornwell Quality Tools`](https://google.com/search?q=Cornwell+Quality+Tools) | 07/11/2022 |   |
+| [`Landi Renzo`](https://google.com/search?q=Landi+Renzo) | 03/11/2022 |   |
+| [`Tata Power`](https://google.com/search?q=Tata+Power) | 24/10/2022 |   |
+| [`Município De Loures`](https://google.com/search?q=Munic%C3%ADpio+De+Loures) | 09/10/2022 |   |
+| [`Mansfield Independent School District (MISD)`](https://google.com/search?q=Mansfield+Independent+School+District+%28MISD%29) | 30/09/2022 |   |
+| [`Southwell, Inc.`](https://google.com/search?q=Southwell%2C+Inc.) | 27/09/2022 |   |
+| [`Hendry Regional Medical Center`](https://google.com/search?q=Hendry+Regional+Medical+Center) | 27/09/2022 |   |
+| [`JANMARINI`](https://google.com/search?q=JANMARINI) | 27/09/2022 |   |
+| [`TAKAO-UK`](https://google.com/search?q=TAKAO-UK) | 26/09/2022 |   |
+| [`GFG`](https://google.com/search?q=GFG) | 26/09/2022 |   |
+| [`TSMTU`](https://google.com/search?q=TSMTU) | 26/09/2022 |   |
+| [`BHARBERT`](https://google.com/search?q=BHARBERT) | 21/09/2022 |   |
+| [`Sigmund Software`](https://google.com/search?q=Sigmund+Software) | 20/09/2022 |   |
+| [`New York Racing Association`](https://google.com/search?q=New+York+Racing+Association) | 19/09/2022 |   |
+| [`Bell Technical Solutions`](https://google.com/search?q=Bell+Technical+Solutions) | 15/09/2022 |   |
+| [`FONTAINEBLEAU`](https://google.com/search?q=FONTAINEBLEAU) | 15/09/2022 |   |
+| [`California-Oregon Telecommunications Company`](https://google.com/search?q=California-Oregon+Telecommunications+Company) | 06/09/2022 |   |
+| [`Eurocell`](https://google.com/search?q=Eurocell) | 02/09/2022 |   |
+| [`NCG Medical`](https://google.com/search?q=NCG+Medical) | 31/08/2022 |   |
+| [`Altice International`](https://google.com/search?q=Altice+International) | 25/08/2022 |   |
+| [`Baton Rouge General`](https://google.com/search?q=Baton+Rouge+General) | 24/08/2022 |   |
+| [`Reiter Affiliated Companies`](https://google.com/search?q=Reiter+Affiliated+Companies) | 19/08/2022 |   |
+| [`WOOTTON ACADEMY TRUST`](https://google.com/search?q=WOOTTON+ACADEMY+TRUST) | 18/08/2022 |   |
+| [`TriState HVAC Equipment`](https://google.com/search?q=TriState+HVAC+Equipment) | 14/08/2022 |   |
+| [`ENN Group`](https://google.com/search?q=ENN+Group) | 04/08/2022 |   |
+| [`CIMEX`](https://google.com/search?q=CIMEX) | 27/07/2022 |   |
+| [`Weidmueller`](https://google.com/search?q=Weidmueller) | 27/07/2022 |   |
+| [`Empress EMS`](https://google.com/search?q=Empress+EMS) | 26/07/2022 |   |
+| [`LaVan & Neidenberg`](https://google.com/search?q=LaVan+%26+Neidenberg) | 20/07/2022 |   |
+| [`Carrolls Irish Gifts`](https://google.com/search?q=Carrolls+Irish+Gifts) | 16/07/2022 |   |
+| [`Behavioral Health System`](https://google.com/search?q=Behavioral+Health+System) | 14/07/2022 |   |
+| [`FMT`](https://google.com/search?q=FMT) | 14/07/2022 |   |
+| [`CITY-FURNITURE`](https://google.com/search?q=CITY-FURNITURE) | 14/07/2022 |   |
+| [`RALLYE-DOM`](https://google.com/search?q=RALLYE-DOM) | 14/07/2022 |   |
+| [`SANDO`](https://google.com/search?q=SANDO) | 13/07/2022 |   |
+| [`RTVCM`](https://google.com/search?q=RTVCM) | 13/07/2022 |   |
+| [`AdaptIT`](https://google.com/search?q=AdaptIT) | 13/07/2022 |   |
+| [`Exela Technologies`](https://google.com/search?q=Exela+Technologies) | 13/07/2022 |   |
+| [`APETITO`](https://google.com/search?q=APETITO) | 13/07/2022 |   |
+| [`GROUP4 AUSTRALIA`](https://google.com/search?q=GROUP4+AUSTRALIA) | 13/07/2022 |   |
+| [`Authentic Brands Group`](https://google.com/search?q=Authentic+Brands+Group) | 13/07/2022 |   |
+| [`Yurtiçi Kargo`](https://google.com/search?q=Yurti%C3%A7i+Kargo) | 04/07/2022 |   |
+| [`Hamlyns Limited`](https://google.com/search?q=Hamlyns+Limited) | 04/07/2022 |   |
+| [`DIRECTFERRIES`](https://google.com/search?q=DIRECTFERRIES) | 04/07/2022 |   |
+| [`MHIRE`](https://google.com/search?q=MHIRE) | 04/07/2022 |   |
+| [`CAN.COM`](https://google.com/search?q=CAN.COM) | 04/07/2022 |   |
+| [`AUM`](https://google.com/search?q=AUM) | 04/07/2022 |   |
+| [`KDE`](https://google.com/search?q=KDE) | 04/07/2022 |   |
+| [`YURTICIKARGO`](https://google.com/search?q=YURTICIKARGO) | 04/07/2022 |   |
+| [`Massy Distribution Limited`](https://google.com/search?q=Massy+Distribution+Limited) | 04/07/2022 |   |
+| [`WWSTEELE`](https://google.com/search?q=WWSTEELE) | 04/07/2022 |   |
+| [`NETWORK4CARS`](https://google.com/search?q=NETWORK4CARS) | 04/07/2022 |   |
+| [`AG`](https://google.com/search?q=AG) | 03/07/2022 |   |
+| [`Rocky`](https://google.com/search?q=Rocky) | 02/07/2022 |   |
+| [`SuperAlloy Industrial Co., Ltd.`](https://google.com/search?q=SuperAlloy+Industrial+Co.%2C+Ltd.) | 28/06/2022 |   |
+| [`Diskriter`](https://google.com/search?q=Diskriter) | 28/06/2022 |   |
+| [`Alphapointe`](https://google.com/search?q=Alphapointe) | 23/06/2022 |   |
+| [`Arte Radiotelevisivo Argentino (Artear)`](https://google.com/search?q=Arte+Radiotelevisivo+Argentino+%28Artear%29) | 23/06/2022 |   |
+| [`Goodman Campbell Brain & Spine`](https://google.com/search?q=Goodman+Campbell+Brain+%26+Spine) | 08/06/2022 |   |
+| [`G&P Projects And Systems S.A.`](https://google.com/search?q=G%26P+Projects+And+Systems+S.A.) | 30/05/2022 |   |
+| [`Caracol TV`](https://google.com/search?q=Caracol+TV) | 30/05/2022 |   |
+| [`Travira Air`](https://google.com/search?q=Travira+Air) | 28/05/2022 |   |
+| [`XEIAD`](https://google.com/search?q=XEIAD) | 28/05/2022 |   |
+| [`SOUCY`](https://google.com/search?q=SOUCY) | 26/05/2022 |   |
+| [`Guardian Fueling Technologies`](https://google.com/search?q=Guardian+Fueling+Technologies) | 26/05/2022 |   |
+| [`ChemStation International`](https://google.com/search?q=ChemStation+International) | 26/05/2022 |   |
+| [`GUARDFUEL`](https://google.com/search?q=GUARDFUEL) | 25/05/2022 |   |
+| [`NUAIRE`](https://google.com/search?q=NUAIRE) | 25/05/2022 |   |
+| [`IGHQ`](https://google.com/search?q=IGHQ) | 25/05/2022 |   |
+| [`Yachiyo Of America`](https://google.com/search?q=Yachiyo+Of+America) | 25/05/2022 |   |
+| [`RateGain`](https://google.com/search?q=RateGain) | 24/05/2022 |   |
+| [`SPORTPLAZA`](https://google.com/search?q=SPORTPLAZA) | 20/05/2022 |   |
+| [`EIITNET`](https://google.com/search?q=EIITNET) | 19/05/2022 |   |
+| [`CARTEGRAPH`](https://google.com/search?q=CARTEGRAPH) | 19/05/2022 |   |
+| [`Tri-Ko`](https://google.com/search?q=Tri-Ko) | 19/05/2022 |   |
+| [`Faw-Volkswagen Automobile Co., Ltd.`](https://google.com/search?q=Faw-Volkswagen+Automobile+Co.%2C+Ltd.) | 04/05/2022 |   |
+| [`Monterey Mechanical Co.`](https://google.com/search?q=Monterey+Mechanical+Co.) | 29/04/2022 |   |
+| [`Attica Group`](https://google.com/search?q=Attica+Group) | 28/04/2022 |   |
+| [`SSK Ingeniería Y Construcción S.A.C.`](https://google.com/search?q=SSK+Ingenier%C3%ADa+Y+Construcci%C3%B3n+S.A.C.) | 26/04/2022 |   |
+| [`MILLS GROUP`](https://google.com/search?q=MILLS+GROUP) | 18/04/2022 |   |
+| [`FCCH`](https://google.com/search?q=FCCH) | 07/04/2022 |   |
+| [`PHC`](https://google.com/search?q=PHC) | 29/03/2022 |   |
+| [`Konradin Mediengruppe GmbH`](https://google.com/search?q=Konradin+Mediengruppe+GmbH) | 26/03/2022 |   |
+| [`Pollmann`](https://google.com/search?q=Pollmann) | 25/03/2022 |   |
+| [`Passero Associates`](https://google.com/search?q=Passero+Associates) | 24/03/2022 |   |
+| [`KONECTA SERVICIOS ADMINISTRATIVOS Y TECNOLOGICOS S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=KONECTA+SERVICIOS+ADMINISTRATIVOS+Y+TECNOLOGICOS+S.L.+SUCURSAL+ARGENTINA) | 24/03/2022 |   |
+| [`Banco Caribe`](https://google.com/search?q=Banco+Caribe) | 23/03/2022 |   |
+| [`Asphalion`](https://google.com/search?q=Asphalion) | 23/03/2022 |   |
+| [`Instituto De Gesto Estratégica De Sade Do Distrito Federal`](https://google.com/search?q=Instituto+De+Gesto+Estrat%C3%A9gica+De+Sade+Do+Distrito+Federal) | 23/03/2022 |   |
+| [`Wibag Bau Ag`](https://google.com/search?q=Wibag+Bau+Ag) | 23/03/2022 |   |
+| [`Otto Dörner GmbH & Co. KG`](https://google.com/search?q=Otto+D%C3%B6rner+GmbH+%26+Co.+KG) | 22/03/2022 |   |
+| [`GomeA`](https://google.com/search?q=GomeA) | 22/03/2022 |   |
+| [`Ministry For Foreign Affairs Of The Republic Of Indonesia`](https://google.com/search?q=Ministry+For+Foreign+Affairs+Of+The+Republic+Of+Indonesia) | 22/03/2022 |   |
+| [`UCSI University`](https://google.com/search?q=UCSI+University) | 22/03/2022 |   |
+| [`School District Of Janesville`](https://google.com/search?q=School+District+Of+Janesville) | 22/03/2022 |   |
+| [`Rotoplas`](https://google.com/search?q=Rotoplas) | 22/03/2022 |   |
+| [`Centurion Stone`](https://google.com/search?q=Centurion+Stone) | 22/03/2022 |   |
+| [`Dayton T. Brown, Inc`](https://google.com/search?q=Dayton+T.+Brown%2C+Inc) | 22/03/2022 |   |
+| [`Centerline Communication Llc`](https://google.com/search?q=Centerline+Communication+Llc) | 22/03/2022 |   |
+| [`Polynt Group`](https://google.com/search?q=Polynt+Group) | 22/03/2022 |   |
+| [`NSM Insurance Group`](https://google.com/search?q=NSM+Insurance+Group) | 18/03/2022 |   |
+| [`PAN AMERICAN ENERGY S.L. SUCURSAL ARGENTINA`](https://google.com/search?q=PAN+AMERICAN+ENERGY+S.L.+SUCURSAL+ARGENTINA) | 04/03/2022 |   |
+| [`Drake & Scull International PJSC`](https://google.com/search?q=Drake+%26+Scull+International+PJSC) | 25/02/2022 |   |
+| [`Steven L. Sugarman & Associates`](https://google.com/search?q=Steven+L.+Sugarman+%26+Associates) | 25/02/2022 |   |
+| [`Palacios & Asociados`](https://google.com/search?q=Palacios+%26+Asociados) | 25/02/2022 |   |
+| [`Sit'N Sleep`](https://google.com/search?q=Sit%27N+Sleep) | 25/02/2022 |   |
+| [`MAS & Coronis Health`](https://google.com/search?q=MAS+%26+Coronis+Health) | 25/02/2022 |   |
+| [`BERMAN SOBIN GROSS & DARBY`](https://google.com/search?q=BERMAN+SOBIN+GROSS+%26+DARBY) | 25/02/2022 |   |
+| [`Rocky's Ace Hardware`](https://google.com/search?q=Rocky%27s+Ace+Hardware) | 25/02/2022 |   |
+| [`Guts Superpols Co., Ltd.`](https://google.com/search?q=Guts+Superpols+Co.%2C+Ltd.) | 25/02/2022 |   |
+| [`Ningbo Dechang Electric Machinery Manufacturing Co., Ltd.`](https://google.com/search?q=Ningbo+Dechang+Electric+Machinery+Manufacturing+Co.%2C+Ltd.) | 25/02/2022 |   |
+| [`Tite - Live Belgique`](https://google.com/search?q=Tite+-+Live+Belgique) | 25/02/2022 |   |
+| [`Shanghai Huizhong Automotive Manufacturing Co., Ltd.`](https://google.com/search?q=Shanghai+Huizhong+Automotive+Manufacturing+Co.%2C+Ltd.) | 25/02/2022 |   |
+| [`Supernus Pharmaceuticals, NASDAQ: SUPN`](https://google.com/search?q=Supernus+Pharmaceuticals%2C+NASDAQ%3A+SUPN) | 25/02/2022 |   |
+| [`Drake & Scull International PJSC`](https://google.com/search?q=Drake+%26+Scull+International+PJSC) | 25/02/2022 |   |
+| [`Institute For Systems And Robotics (Isr-Lisboa`](https://google.com/search?q=Institute+For+Systems+And+Robotics+%28Isr-Lisboa) | 25/02/2022 |   |
+| [`Centre D'Odontologia Integrada Miret-Puig`](https://google.com/search?q=Centre+D%27Odontologia+Integrada+Miret-Puig) | 25/02/2022 |   |
+| [`Hyundai Samho Heavy Industries Co.,Ltd. (South Korea)`](https://google.com/search?q=Hyundai+Samho+Heavy+Industries+Co.%2CLtd.+%28South+Korea%29) | 25/02/2022 |   |
+| [`Rodonaves Transportes E Encomendas Ltda`](https://google.com/search?q=Rodonaves+Transportes+E+Encomendas+Ltda) | 25/02/2022 |   |
+| [`Eurocoin Interactive B.V.`](https://google.com/search?q=Eurocoin+Interactive+B.V.) | 25/02/2022 |   |
+| [`Emil Frey`](https://google.com/search?q=Emil+Frey) | 25/02/2022 |   |
+| [`Friedrich`](https://google.com/search?q=Friedrich) | 25/02/2022 |   |
+| [`Powerhouse1`](https://google.com/search?q=Powerhouse1) | 25/02/2022 |   |
+| [`Doner`](https://google.com/search?q=Doner) | 25/02/2022 |   |
+| [`EBM`](https://google.com/search?q=EBM) | 25/02/2022 |   |
+| [`ITS InfoCom`](https://google.com/search?q=ITS+InfoCom) | 25/02/2022 |   |
+| [`Vermeer Southeast`](https://google.com/search?q=Vermeer+Southeast) | 25/01/2022 |   |
+| [`Unita Locale Socio`](https://google.com/search?q=Unita+Locale+Socio) | 25/01/2022 |   |
+| [`The British Columbia Institute Of Technology`](https://google.com/search?q=The+British+Columbia+Institute+Of+Technology) | 25/01/2022 |   |
+| [`Sutterfield Financial Group`](https://google.com/search?q=Sutterfield+Financial+Group) | 25/01/2022 |   |
+| [`Schuldnerberatung Ostfriesland e. V.`](https://google.com/search?q=Schuldnerberatung+Ostfriesland+e.+V.) | 25/01/2022 |   |
+| [`Sardinha Family Trust`](https://google.com/search?q=Sardinha+Family+Trust) | 25/01/2022 |   |
+| [`Sadbhav Engineering Limited`](https://google.com/search?q=Sadbhav+Engineering+Limited) | 25/01/2022 |   |
+| [`Ryan Companies`](https://google.com/search?q=Ryan+Companies) | 25/01/2022 |   |
+| [`Résidence Les Chtaigniers`](https://google.com/search?q=R%C3%A9sidence+Les+Chtaigniers) | 25/01/2022 |   |
+| [`Powell Transportation`](https://google.com/search?q=Powell+Transportation) | 25/01/2022 |   |
+| [`Northern Financial Services`](https://google.com/search?q=Northern+Financial+Services) | 25/01/2022 |   |
+| [`Montour School District`](https://google.com/search?q=Montour+School+District) | 25/01/2022 |   |
+| [`Mele Printing`](https://google.com/search?q=Mele+Printing) | 25/01/2022 |   |
+| [`Marten Transport`](https://google.com/search?q=Marten+Transport) | 25/01/2022 |   |
+| [`Macquarie Health Corporation`](https://google.com/search?q=Macquarie+Health+Corporation) | 25/01/2022 |   |
+| [`Johnson Memorial Health`](https://google.com/search?q=Johnson+Memorial+Health) | 25/01/2022 |   |
+| [`Haselden Construction`](https://google.com/search?q=Haselden+Construction) | 25/01/2022 |   |
+| [`Greenway Health`](https://google.com/search?q=Greenway+Health) | 25/01/2022 |   |
+| [`Florida Sugar Cane League`](https://google.com/search?q=Florida+Sugar+Cane+League) | 25/01/2022 |   |
+| [`Family Christian Health Center`](https://google.com/search?q=Family+Christian+Health+Center) | 25/01/2022 |   |
+| [`Erik Buell Racing`](https://google.com/search?q=Erik+Buell+Racing) | 25/01/2022 |   |
+| [`Creative Liquid Coatings INC`](https://google.com/search?q=Creative+Liquid+Coatings+INC) | 25/01/2022 |   |
+| [`ConForm Automotive`](https://google.com/search?q=ConForm+Automotive) | 25/01/2022 |   |
+| [`Claro Colombia`](https://google.com/search?q=Claro+Colombia) | 25/01/2022 |   |
+| [`Brinkman Turkey Farms`](https://google.com/search?q=Brinkman+Turkey+Farms) | 25/01/2022 |   |
+| [`Brakke Asbestsanering BV`](https://google.com/search?q=Brakke+Asbestsanering+BV) | 25/01/2022 |   |
+| [`Bohlke International Airways`](https://google.com/search?q=Bohlke+International+Airways) | 25/01/2022 |   |
+| [`Advanced Geosciences`](https://google.com/search?q=Advanced+Geosciences) | 25/01/2022 |   |
+| [`ANTHONY CATALFANO INTERIORS`](https://google.com/search?q=ANTHONY+CATALFANO+INTERIORS) | 25/01/2022 |   |
+| [`UNICRED`](https://google.com/search?q=UNICRED) | 20/01/2022 |   |
+| [`RIVADIS`](https://google.com/search?q=RIVADIS) | 20/01/2022 |   |
+| [`Ezz Steel`](https://google.com/search?q=Ezz+Steel) | 09/01/2022 |   |
+| [`Metro.Us`](https://google.com/search?q=Metro.Us) | 28/12/2021 |   |
+| [`WOLSEY`](https://google.com/search?q=WOLSEY) | 20/12/2021 |   |
+| [`Madix Inc`](https://google.com/search?q=Madix+Inc) | 20/12/2021 |   |
+| [`Altus Group`](https://google.com/search?q=Altus+Group) | 18/12/2021 |   |
+| [`Mega Vision`](https://google.com/search?q=Mega+Vision) | 18/12/2021 |   |
+| [`HI FLY`](https://google.com/search?q=HI+FLY) | 18/12/2021 |   |
+| [`IBC24 News`](https://google.com/search?q=IBC24+News) | 18/12/2021 |   |
+| [`SS Design`](https://google.com/search?q=SS+Design) | 18/12/2021 |   |
+| [`GURTEEN`](https://google.com/search?q=GURTEEN) | 18/12/2021 |   |
+| [`Net Ninjas`](https://google.com/search?q=Net+Ninjas) | 18/12/2021 |   |
+| [`W.H. Stovall`](https://google.com/search?q=W.H.+Stovall) | 18/12/2021 |   |
+| [`Ospray Video`](https://google.com/search?q=Ospray+Video) | 18/12/2021 |   |
+| [`GK.NO`](https://google.com/search?q=GK.NO) | 18/12/2021 |   |
+| [`KBM UK`](https://google.com/search?q=KBM+UK) | 18/12/2021 |   |
+| [`EMCO`](https://google.com/search?q=EMCO) | 18/12/2021 |   |
+| [`Aria Systems`](https://google.com/search?q=Aria+Systems) | 18/12/2021 |   |
+| [`WAMGROUP`](https://google.com/search?q=WAMGROUP) | 18/12/2021 |   |
+| [`XacBank`](https://google.com/search?q=XacBank) | 18/12/2021 |   |
+| [`APR Supply`](https://google.com/search?q=APR+Supply) | 18/12/2021 |   |
+| [`Grupo5`](https://google.com/search?q=Grupo5) | 18/12/2021 |   |
+| [`MediaMarkt`](https://google.com/search?q=MediaMarkt) | 18/12/2021 |   |
+| [`GryphTech`](https://google.com/search?q=GryphTech) | 18/12/2021 |   |
+| [`Raveco`](https://google.com/search?q=Raveco) | 18/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -3239,17 +3242,17 @@ _`aka hotarus corp`_
 
 | post | date | Description
 |---|---|---|
-| `*.algotrader.com` | 20/08/2022 |   |
-| `*.bestservers.pro` | 20/08/2022 |   |
-| `*.iperactive.com.ar` | 20/08/2022 |   |
-| `*.cco1.com` | 20/08/2022 |   |
-| `*.vps-vds.com` | 20/08/2022 |   |
-| `*.guneshosting.com` | 20/08/2022 |   |
-| `*.kodhosting.com` | 20/08/2022 |   |
-| `*.kru.ac.th` | 20/08/2022 |   |
-| `*.directfn.net` | 20/08/2022 |   |
-| `*.feesh.ch` | 20/08/2022 |   |
-| `*.skifgroup.com` | 20/08/2022 |   |
+| [`*.algotrader.com`](https://google.com/search?q=%2A.algotrader.com) | 20/08/2022 |   |
+| [`*.bestservers.pro`](https://google.com/search?q=%2A.bestservers.pro) | 20/08/2022 |   |
+| [`*.iperactive.com.ar`](https://google.com/search?q=%2A.iperactive.com.ar) | 20/08/2022 |   |
+| [`*.cco1.com`](https://google.com/search?q=%2A.cco1.com) | 20/08/2022 |   |
+| [`*.vps-vds.com`](https://google.com/search?q=%2A.vps-vds.com) | 20/08/2022 |   |
+| [`*.guneshosting.com`](https://google.com/search?q=%2A.guneshosting.com) | 20/08/2022 |   |
+| [`*.kodhosting.com`](https://google.com/search?q=%2A.kodhosting.com) | 20/08/2022 |   |
+| [`*.kru.ac.th`](https://google.com/search?q=%2A.kru.ac.th) | 20/08/2022 |   |
+| [`*.directfn.net`](https://google.com/search?q=%2A.directfn.net) | 20/08/2022 |   |
+| [`*.feesh.ch`](https://google.com/search?q=%2A.feesh.ch) | 20/08/2022 |   |
+| [`*.skifgroup.com`](https://google.com/search?q=%2A.skifgroup.com) | 20/08/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -3276,48 +3279,48 @@ _`aka hotarus corp`_
 | post | date | Description
 |---|---|---|
 | [`Goodwill industries`]() | 21/12/2022 | Centrisys is a USA manufacturer of decanter centrifuges for sludge dewatering and thickening. Since 1987 Centrisys has been a leader in decanter centrifuge service and repair for all brands of centrifuges on the market today. CNP - Technology Water and Biosolids, a subsidiary of Centrifuge-Systems, LLC, designs and supplies innovative nutrient recovery and energy optimization systems for wastewater treatment. In this release we can offer you 403 GB of their corporate data. |
-| `LIBERTY PULTRUSIONS` | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |
-| `TLC` | 18/12/2022 | TLC is a global brand available in more than 84 million homes in the US and 270 million households around the world. Viewers can enjoy their favorite shows anytime, anywhere on discovery+, the definitive non-fiction, real-life subscription streaming service. A destination online, TLC offers in-depth fan sites and exclusive original video content. TLC is part of Discovery (NASDAQ: DISCA, DISCB, DISCK), reaching 3 billion cumulative viewers in more than 220 countries and territories to satisfy curiosity and captivate superfans with a portfolio of premium nonfiction, lifestyle, sports and kids content brands. In this case we will provide you with almost 1 TB of their scripts, videos, internal documentation, as well as personal information of employees and much more. |
-| `Bevolution Group` | 18/12/2022 |   |
-| `Gage Brothers` | 16/12/2022 |   |
-| `Batesville Products` | 13/12/2022 |   |
-| `Municipalidad de belen` | 11/12/2022 |   |
-| `William A. Kibbe & Associates` | 11/12/2022 |   |
-| `Infinitum` | 11/12/2022 |   |
-| `Hiersun Jewelry Co Ltd` | 11/12/2022 |   |
-| `Energy Transfer Durafin Tubes` | 11/12/2022 |   |
-| `KINSHOFER GmbH` | 11/12/2022 |   |
-| `APSM Systems` | 11/12/2022 |   |
-| `Latitude 37` | 11/12/2022 |   |
-| `South Jersey Glass & Doors` | 11/12/2022 |   |
-| `APECQ` | 11/12/2022 |   |
-| `Bergamo Metal` | 11/12/2022 |   |
-| `Metroclean` | 11/12/2022 |   |
-| `Davenport Community School` | 11/12/2022 |   |
-| `Qualified Staffing` | 11/12/2022 |   |
-| `Özel GözAkademi Hastanesi` | 11/12/2022 |   |
-| `Medilife Hastanesi` | 11/12/2022 |   |
-| `ipb Baggenstos Montagen` | 11/12/2022 |   |
-| `The Summit` | 11/12/2022 |   |
-| `Urban` | 11/12/2022 |   |
-| `San Benito Consolidated Independent School District` | 11/12/2022 |   |
-| `Schrader-Pacific International` | 11/12/2022 |   |
-| `Vercity` | 11/12/2022 |   |
-| `Deerberg` | 11/12/2022 |   |
-| `Trantor` | 11/12/2022 |   |
-| `R1 Group` | 11/12/2022 |   |
-| `Club Asteria Belek` | 11/12/2022 |   |
-| `Cheval Electronic Enclosure` | 11/12/2022 |   |
-| `Cromwell Management Inc.` | 11/12/2022 |   |
-| `Ethigen Limited` | 11/12/2022 |   |
-| `Abdullah Al-Othaim Markets` | 11/12/2022 |   |
-| `Legend Holdings` | 11/12/2022 |   |
-| `PTSC` | 11/12/2022 |   |
-| `Regulatory Authority for Telecommunications and Posts (ARTP)` | 11/12/2022 |   |
-| `Roxboro` | 11/12/2022 |   |
-| `Stratus` | 11/12/2022 |   |
-| `BauVal` | 11/12/2022 |   |
-| `Centrisys cnp` | 11/12/2022 |   |
+| [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |
+| [`TLC`](https://google.com/search?q=TLC) | 18/12/2022 | TLC is a global brand available in more than 84 million homes in the US and 270 million households around the world. Viewers can enjoy their favorite shows anytime, anywhere on discovery+, the definitive non-fiction, real-life subscription streaming service. A destination online, TLC offers in-depth fan sites and exclusive original video content. TLC is part of Discovery (NASDAQ: DISCA, DISCB, DISCK), reaching 3 billion cumulative viewers in more than 220 countries and territories to satisfy curiosity and captivate superfans with a portfolio of premium nonfiction, lifestyle, sports and kids content brands. In this case we will provide you with almost 1 TB of their scripts, videos, internal documentation, as well as personal information of employees and much more. |
+| [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | 18/12/2022 |   |
+| [`Gage Brothers`](https://google.com/search?q=Gage+Brothers) | 16/12/2022 |   |
+| [`Batesville Products`](https://google.com/search?q=Batesville+Products) | 13/12/2022 |   |
+| [`Municipalidad de belen`](https://google.com/search?q=Municipalidad+de+belen) | 11/12/2022 |   |
+| [`William A. Kibbe & Associates`](https://google.com/search?q=William+A.+Kibbe+%26+Associates) | 11/12/2022 |   |
+| [`Infinitum`](https://google.com/search?q=Infinitum) | 11/12/2022 |   |
+| [`Hiersun Jewelry Co Ltd`](https://google.com/search?q=Hiersun+Jewelry+Co+Ltd) | 11/12/2022 |   |
+| [`Energy Transfer Durafin Tubes`](https://google.com/search?q=Energy+Transfer+Durafin+Tubes) | 11/12/2022 |   |
+| [`KINSHOFER GmbH`](https://google.com/search?q=KINSHOFER+GmbH) | 11/12/2022 |   |
+| [`APSM Systems`](https://google.com/search?q=APSM+Systems) | 11/12/2022 |   |
+| [`Latitude 37`](https://google.com/search?q=Latitude+37) | 11/12/2022 |   |
+| [`South Jersey Glass & Doors`](https://google.com/search?q=South+Jersey+Glass+%26+Doors) | 11/12/2022 |   |
+| [`APECQ`](https://google.com/search?q=APECQ) | 11/12/2022 |   |
+| [`Bergamo Metal`](https://google.com/search?q=Bergamo+Metal) | 11/12/2022 |   |
+| [`Metroclean`](https://google.com/search?q=Metroclean) | 11/12/2022 |   |
+| [`Davenport Community School`](https://google.com/search?q=Davenport+Community+School) | 11/12/2022 |   |
+| [`Qualified Staffing`](https://google.com/search?q=Qualified+Staffing) | 11/12/2022 |   |
+| [`Özel GözAkademi Hastanesi`](https://google.com/search?q=%C3%96zel+G%C3%B6zAkademi+Hastanesi) | 11/12/2022 |   |
+| [`Medilife Hastanesi`](https://google.com/search?q=Medilife+Hastanesi) | 11/12/2022 |   |
+| [`ipb Baggenstos Montagen`](https://google.com/search?q=ipb+Baggenstos+Montagen) | 11/12/2022 |   |
+| [`The Summit`](https://google.com/search?q=The+Summit) | 11/12/2022 |   |
+| [`Urban`](https://google.com/search?q=Urban) | 11/12/2022 |   |
+| [`San Benito Consolidated Independent School District`](https://google.com/search?q=San+Benito+Consolidated+Independent+School+District) | 11/12/2022 |   |
+| [`Schrader-Pacific International`](https://google.com/search?q=Schrader-Pacific+International) | 11/12/2022 |   |
+| [`Vercity`](https://google.com/search?q=Vercity) | 11/12/2022 |   |
+| [`Deerberg`](https://google.com/search?q=Deerberg) | 11/12/2022 |   |
+| [`Trantor`](https://google.com/search?q=Trantor) | 11/12/2022 |   |
+| [`R1 Group`](https://google.com/search?q=R1+Group) | 11/12/2022 |   |
+| [`Club Asteria Belek`](https://google.com/search?q=Club+Asteria+Belek) | 11/12/2022 |   |
+| [`Cheval Electronic Enclosure`](https://google.com/search?q=Cheval+Electronic+Enclosure) | 11/12/2022 |   |
+| [`Cromwell Management Inc.`](https://google.com/search?q=Cromwell+Management+Inc.) | 11/12/2022 |   |
+| [`Ethigen Limited`](https://google.com/search?q=Ethigen+Limited) | 11/12/2022 |   |
+| [`Abdullah Al-Othaim Markets`](https://google.com/search?q=Abdullah+Al-Othaim+Markets) | 11/12/2022 |   |
+| [`Legend Holdings`](https://google.com/search?q=Legend+Holdings) | 11/12/2022 |   |
+| [`PTSC`](https://google.com/search?q=PTSC) | 11/12/2022 |   |
+| [`Regulatory Authority for Telecommunications and Posts (ARTP)`](https://google.com/search?q=Regulatory+Authority+for+Telecommunications+and+Posts+%28ARTP%29) | 11/12/2022 |   |
+| [`Roxboro`](https://google.com/search?q=Roxboro) | 11/12/2022 |   |
+| [`Stratus`](https://google.com/search?q=Stratus) | 11/12/2022 |   |
+| [`BauVal`](https://google.com/search?q=BauVal) | 11/12/2022 |   |
+| [`Centrisys cnp`](https://google.com/search?q=Centrisys+cnp) | 11/12/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -3349,13 +3352,13 @@ _`aka hotarus corp`_
 
 | post | date | Description
 |---|---|---|
-| `Our first post` | 04/10/2021 |   |
-| `Saurer. Part 1.` | 04/10/2021 |   |
-| `Align Technology. Part 1.` | 04/10/2021 |   |
-| `The next leak will be of a multi billion dollar cosmetics and fragrance company.` | 04/10/2021 |   |
-| `Align Technology. Part 2.` | 04/10/2021 |   |
-| `SI Group. Part 1.` | 04/10/2021 |   |
-| `YASH Technologies. Part 1.` | 04/10/2021 |   |
+| [`Our first post`](https://google.com/search?q=Our+first+post) | 04/10/2021 |   |
+| [`Saurer. Part 1.`](https://google.com/search?q=Saurer.+Part+1.) | 04/10/2021 |   |
+| [`Align Technology. Part 1.`](https://google.com/search?q=Align+Technology.+Part+1.) | 04/10/2021 |   |
+| [`The next leak will be of a multi billion dollar cosmetics and fragrance company.`](https://google.com/search?q=The+next+leak+will+be+of+a+multi+billion+dollar+cosmetics+and+fragrance+company.) | 04/10/2021 |   |
+| [`Align Technology. Part 2.`](https://google.com/search?q=Align+Technology.+Part+2.) | 04/10/2021 |   |
+| [`SI Group. Part 1.`](https://google.com/search?q=SI+Group.+Part+1.) | 04/10/2021 |   |
+| [`YASH Technologies. Part 1.`](https://google.com/search?q=YASH+Technologies.+Part+1.) | 04/10/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -3381,32 +3384,32 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| `TRANSCONTRACT` | 24/05/2022 |   |
-| `Mansfield Energy` | 24/05/2022 |   |
-| `Channel Navigator business intelligence IT` | 13/05/2022 |   |
-| `Next Leak On Hold` | 06/05/2022 |   |
-| `PTC Industries` | 06/05/2022 |   |
-| `Municipality of Posadas` | 03/05/2022 |   |
-| `bfclcoin` | 03/05/2022 |   |
-| `Instance IT Solutions India` | 03/05/2022 |   |
-| `Waiting for next leak` | 25/04/2022 |   |
-| `NATION Costa Rica` | 25/04/2022 |   |
-| `PT Pertamina Gas` | 22/04/2022 |   |
-| `CARACOL TV COLOMBIA` | 01/04/2022 |   |
-| `caribetours` | 01/04/2022 |   |
-| `ICONIC` | 01/04/2022 |   |
-| `eGOV` | 01/04/2022 |   |
-| `Equicom SAVINGS BANK` | 01/04/2022 |   |
-| `Cellulant Corporation` | 01/04/2022 |   |
-| `BEXIMCO` | 01/04/2022 |   |
-| `BMW CHILE` | 01/04/2022 |   |
-| `Banco do Brasil` | 01/04/2022 |   |
-| `CORT` | 01/04/2022 |   |
-| `Nestle` | 01/04/2022 |   |
-| `Salvadoran Ministry of Foreign Affairs` | 01/04/2022 |   |
-| `ANTEL` | 01/04/2022 |   |
-| `Pakistan Human Rights` | 01/04/2022 |   |
-| `CR ASIA` | 01/04/2022 |   |
+| [`TRANSCONTRACT`](https://google.com/search?q=TRANSCONTRACT) | 24/05/2022 |   |
+| [`Mansfield Energy`](https://google.com/search?q=Mansfield+Energy) | 24/05/2022 |   |
+| [`Channel Navigator business intelligence IT`](https://google.com/search?q=Channel+Navigator+business+intelligence+IT) | 13/05/2022 |   |
+| [`Next Leak On Hold`](https://google.com/search?q=Next+Leak+On+Hold) | 06/05/2022 |   |
+| [`PTC Industries`](https://google.com/search?q=PTC+Industries) | 06/05/2022 |   |
+| [`Municipality of Posadas`](https://google.com/search?q=Municipality+of+Posadas) | 03/05/2022 |   |
+| [`bfclcoin`](https://google.com/search?q=bfclcoin) | 03/05/2022 |   |
+| [`Instance IT Solutions India`](https://google.com/search?q=Instance+IT+Solutions+India) | 03/05/2022 |   |
+| [`Waiting for next leak`](https://google.com/search?q=Waiting+for+next+leak) | 25/04/2022 |   |
+| [`NATION Costa Rica`](https://google.com/search?q=NATION+Costa+Rica) | 25/04/2022 |   |
+| [`PT Pertamina Gas`](https://google.com/search?q=PT+Pertamina+Gas) | 22/04/2022 |   |
+| [`CARACOL TV COLOMBIA`](https://google.com/search?q=CARACOL+TV+COLOMBIA) | 01/04/2022 |   |
+| [`caribetours`](https://google.com/search?q=caribetours) | 01/04/2022 |   |
+| [`ICONIC`](https://google.com/search?q=ICONIC) | 01/04/2022 |   |
+| [`eGOV`](https://google.com/search?q=eGOV) | 01/04/2022 |   |
+| [`Equicom SAVINGS BANK`](https://google.com/search?q=Equicom+SAVINGS+BANK) | 01/04/2022 |   |
+| [`Cellulant Corporation`](https://google.com/search?q=Cellulant+Corporation) | 01/04/2022 |   |
+| [`BEXIMCO`](https://google.com/search?q=BEXIMCO) | 01/04/2022 |   |
+| [`BMW CHILE`](https://google.com/search?q=BMW+CHILE) | 01/04/2022 |   |
+| [`Banco do Brasil`](https://google.com/search?q=Banco+do+Brasil) | 01/04/2022 |   |
+| [`CORT`](https://google.com/search?q=CORT) | 01/04/2022 |   |
+| [`Nestle`](https://google.com/search?q=Nestle) | 01/04/2022 |   |
+| [`Salvadoran Ministry of Foreign Affairs`](https://google.com/search?q=Salvadoran+Ministry+of+Foreign+Affairs) | 01/04/2022 |   |
+| [`ANTEL`](https://google.com/search?q=ANTEL) | 01/04/2022 |   |
+| [`Pakistan Human Rights`](https://google.com/search?q=Pakistan+Human+Rights) | 01/04/2022 |   |
+| [`CR ASIA`](https://google.com/search?q=CR+ASIA) | 01/04/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -3429,26 +3432,26 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| `19 You Must Never Forget LeakTheAnalyst` | 29/03/2022 |   |
-| `18 Build your own drone` | 29/03/2022 |   |
-| `17 "Shoulders! How shocking!" Queen` | 01/01/2022 |   |
-| `16 Nuclear leak` | 01/01/2022 |   |
-| `15.1 Supplementary` | 01/01/2022 |   |
-| `15 All we know` | 01/01/2022 |   |
-| `14 Kids vs. Governments !` | 01/01/2022 |   |
-| `13 We are kids !` | 01/01/2022 |   |
-| `12 Escape from the dark` | 01/01/2022 |   |
-| `11 you're awake!` | 01/01/2022 |   |
-| `10 Bearking News` | 01/01/2022 |   |
-| `9 Cuz F5 has caused` | 01/01/2022 |   |
-| `8 Breaking News` | 01/01/2022 |   |
-| `7 Absurd Analysis` | 01/01/2022 |   |
-| `6 Under Attack` | 01/01/2022 |   |
-| `5 Customer Leak and F5 destroying` | 01/01/2022 |   |
-| `4 Breaking News` | 01/01/2022 |   |
-| `3 Breaking News` | 01/01/2022 |   |
-| `2 Breaking News` | 01/01/2022 |   |
-| `1 Breaking News` | 01/01/2022 |   |
+| [`19 You Must Never Forget LeakTheAnalyst`](https://google.com/search?q=19+You+Must+Never+Forget+LeakTheAnalyst) | 29/03/2022 |   |
+| [`18 Build your own drone`](https://google.com/search?q=18+Build+your+own+drone) | 29/03/2022 |   |
+| [`17 "Shoulders! How shocking!" Queen`](https://google.com/search?q=17+%22Shoulders%21+How+shocking%21%22+Queen) | 01/01/2022 |   |
+| [`16 Nuclear leak`](https://google.com/search?q=16+Nuclear+leak) | 01/01/2022 |   |
+| [`15.1 Supplementary`](https://google.com/search?q=15.1+Supplementary) | 01/01/2022 |   |
+| [`15 All we know`](https://google.com/search?q=15+All+we+know) | 01/01/2022 |   |
+| [`14 Kids vs. Governments !`](https://google.com/search?q=14+Kids+vs.+Governments+%21) | 01/01/2022 |   |
+| [`13 We are kids !`](https://google.com/search?q=13+We+are+kids+%21) | 01/01/2022 |   |
+| [`12 Escape from the dark`](https://google.com/search?q=12+Escape+from+the+dark) | 01/01/2022 |   |
+| [`11 you're awake!`](https://google.com/search?q=11+you%27re+awake%21) | 01/01/2022 |   |
+| [`10 Bearking News`](https://google.com/search?q=10+Bearking+News) | 01/01/2022 |   |
+| [`9 Cuz F5 has caused`](https://google.com/search?q=9+Cuz+F5+has+caused) | 01/01/2022 |   |
+| [`8 Breaking News`](https://google.com/search?q=8+Breaking+News) | 01/01/2022 |   |
+| [`7 Absurd Analysis`](https://google.com/search?q=7+Absurd+Analysis) | 01/01/2022 |   |
+| [`6 Under Attack`](https://google.com/search?q=6+Under+Attack) | 01/01/2022 |   |
+| [`5 Customer Leak and F5 destroying`](https://google.com/search?q=5+Customer+Leak+and+F5+destroying) | 01/01/2022 |   |
+| [`4 Breaking News`](https://google.com/search?q=4+Breaking+News) | 01/01/2022 |   |
+| [`3 Breaking News`](https://google.com/search?q=3+Breaking+News) | 01/01/2022 |   |
+| [`2 Breaking News`](https://google.com/search?q=2+Breaking+News) | 01/01/2022 |   |
+| [`1 Breaking News`](https://google.com/search?q=1+Breaking+News) | 01/01/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -3533,1012 +3536,1012 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 | post | date | Description
 |---|---|---|
-| `datalit.it` | 28/06/2022 |   |
-| `oak-brook.org` | 26/06/2022 |   |
-| `ecos-office.com` | 21/06/2022 |   |
-| `coteg-azam.fr` | 21/06/2022 |   |
-| `sigma-alimentos...` | 21/06/2022 |   |
-| `farmaciacirici....` | 21/06/2022 |   |
-| `agricolaandrea....` | 21/06/2022 |   |
-| `business.gov.om` | 20/06/2022 |   |
-| `builditinc.com` | 20/06/2022 |   |
-| `rhenus.group` | 20/06/2022 |   |
-| `kuwaitairways.c...` | 20/06/2022 |   |
-| `plagepalace.com` | 20/06/2022 |   |
-| `emprint.com` | 20/06/2022 |   |
-| `acac.com` | 20/06/2022 |   |
-| `optoma` | 19/06/2022 |   |
-| `vectorinf.com.b...` | 18/06/2022 |   |
-| `tb-kawashima.co...` | 18/06/2022 |   |
-| `lundinroof.com` | 18/06/2022 |   |
-| `keisei-` | 17/06/2022 |   |
-| `https://www.tb-...` | 17/06/2022 |   |
-| `http://www.lund...` | 17/06/2022 |   |
-| `bestatt` | 17/06/2022 |   |
-| `bestattung-` | 16/06/2022 |   |
-| `ardebolassessor` | 16/06/2022 |   |
-| `dgi.gouv.ml` | 15/06/2022 |   |
-| `medcoenergi.com` | 14/06/2022 |   |
-| `genusplc.com` | 14/06/2022 |   |
-| `enclosuresoluti` | 14/06/2022 |   |
-| `https://www.dgi...` | 14/06/2022 |   |
-| `gruppowasteital...` | 14/06/2022 |   |
-| `ptg.com.au` | 13/06/2022 |   |
-| `slgienergy.com` | 12/06/2022 |   |
-| `sanvitale.r` | 12/06/2022 |   |
-| `ses` | 11/06/2022 |   |
-| `www.vectorinf.c...` | 10/06/2022 |   |
-| `cargoexperts.eu` | 10/06/2022 |   |
-| `kaisoten.co.jp` | 09/06/2022 |   |
-| `virtus-` | 09/06/2022 |   |
-| `equis.com` | 07/06/2022 |   |
-| `gpml` | 07/06/2022 |   |
-| `https://www.equ...` | 07/06/2022 |   |
-| `mandiant.com` | 06/06/2022 |   |
-| `kan` | 06/06/2022 |   |
-| `sesver.gob.mx` | 06/06/2022 |   |
-| `patralogistik.c...` | 06/06/2022 |   |
-| `linmark.com` | 06/06/2022 |   |
-| `hyatts.com` | 06/06/2022 |   |
-| `IBRCN.COM` | 06/06/2022 |   |
-| `kansashighwaypa...` | 05/06/2022 |   |
-| `bestattung-walz...` | 05/06/2022 |   |
-| `vainieritraspor...` | 04/06/2022 |   |
-| `rosagroup` | 04/06/2022 |   |
-| `wik-group.com` | 04/06/2022 |   |
-| `specpharm.co.za` | 04/06/2022 |   |
-| `ora.com` | 04/06/2022 |   |
-| `colonail.com` | 04/06/2022 |   |
-| `familyclinicbri...` | 04/06/2022 |   |
-| `sport` | 03/06/2022 |   |
-| `closetheloopeu....` | 02/06/2022 |   |
-| `jewelry.or` | 02/06/2022 |   |
-| `compagniedep` | 02/06/2022 |   |
-| `hilltopconstruc` | 02/06/2022 |   |
-| `cepima` | 02/06/2022 |   |
-| `bradfo` | 01/06/2022 |   |
-| `intertabak.com` | 30/05/2022 |   |
-| `inla` | 30/05/2022 |   |
-| `tcpharmachem.co...` | 30/05/2022 |   |
-| `gpmlife.com` | 30/05/2022 |   |
-| `foxconnbc.com` | 29/05/2022 |   |
-| `koenigstahl.pl` | 29/05/2022 |   |
-| `pauly.de` | 29/05/2022 |   |
-| `hospitalsanjose...` | 29/05/2022 |   |
-| `kerrylog` | 27/05/2022 |   |
-| `skinnertran` | 27/05/2022 |   |
-| `ils.theinnovate...` | 26/05/2022 |   |
-| `edm-stone.com` | 26/05/2022 |   |
-| `pointsbet.com` | 25/05/2022 |   |
-| `vitalprev.com.b...` | 24/05/2022 |   |
-| `https://www.vit...` | 24/05/2022 |   |
-| `pet-link.com` | 24/05/2022 |   |
-| `kuwaitflourmill...` | 24/05/2022 |   |
-| `erdwaerme-gruen...` | 24/05/2022 |   |
-| `architectenbure...` | 24/05/2022 |   |
-| `www.intertabak....` | 24/05/2022 |   |
-| `virtus-advocate...` | 24/05/2022 |   |
-| `berschneider.de` | 23/05/2022 |   |
-| `etrp` | 23/05/2022 |   |
-| `reitzner` | 22/05/2022 |   |
-| `seatarrabida.pt` | 22/05/2022 |   |
-| `focusadventure..` | 21/05/2022 |   |
-| `bsm.upf.ed` | 20/05/2022 |   |
-| `salumificiovene...` | 20/05/2022 |   |
-| `de` | 20/05/2022 |   |
-| `firbarcarolo.it` | 20/05/2022 |   |
-| `morrisonexpress...` | 20/05/2022 |   |
-| `bata` | 20/05/2022 |   |
-| `skinnertrans.ne...` | 19/05/2022 |   |
-| `gymund.dk` | 19/05/2022 |   |
-| `groupe-trouille...` | 19/05/2022 |   |
-| `gdctax.com.au` | 19/05/2022 |   |
-| `fed-gmbh.de` | 19/05/2022 |   |
-| `http://wsretail...` | 19/05/2022 |   |
-| `clublinks.com.a...` | 18/05/2022 |   |
-| `Mercyhurst.edu` | 18/05/2022 |   |
-| `https://clublin...` | 18/05/2022 |   |
-| `suntecktts.com` | 17/05/2022 |   |
-| `modetransportat...` | 17/05/2022 |   |
-| `vivalia.be` | 17/05/2022 |   |
-| `2easy.com.br` | 17/05/2022 |   |
-| `khs-wp.de` | 17/05/2022 |   |
-| `jaykal` | 17/05/2022 |   |
-| `sherpamarketing...` | 16/05/2022 |   |
-| `cassagne.com.ar` | 16/05/2022 |   |
-| `teka.com.mx` | 16/05/2022 |   |
-| `talaadthaii.com` | 16/05/2022 |   |
-| `saludparatodos....` | 16/05/2022 |   |
-| `rexontec.com.tw` | 16/05/2022 |   |
-| `http://2easy.co...` | 16/05/2022 |   |
-| `grupocabal.cl` | 16/05/2022 |   |
-| `STU` | 16/05/2022 |   |
-| `hinakaorg.com` | 16/05/2022 |   |
-| `arcelormittal.h...` | 16/05/2022 |   |
-| `mercyhurst.edu` | 15/05/2022 |   |
-| `boltburdon.co.u...` | 15/05/2022 |   |
-| `redgwick.` | 14/05/2022 |   |
-| `hoffsu` | 14/05/2022 |   |
-| `optoma.com` | 14/05/2022 |   |
-| `boltburdonkemp....` | 13/05/2022 |   |
-| `www.optoma.com` | 13/05/2022 |   |
-| `sgservicesud.it` | 13/05/2022 |   |
-| `riken-nosan.com` | 13/05/2022 |   |
-| `mosaiceins.com` | 13/05/2022 |   |
-| `bradfordmarine....` | 13/05/2022 |   |
-| `purapharm.com` | 13/05/2022 |   |
-| `alliancesand.co...` | 13/05/2022 |   |
-| `agapemeanslove....` | 13/05/2022 |   |
-| `zine-eskola.eus` | 12/05/2022 |   |
-| `saskarc.com` | 11/05/2022 |   |
-| `topaces.us` | 10/05/2022 |   |
-| `sportco.com` | 10/05/2022 |   |
-| `silverbayseafoo...` | 10/05/2022 |   |
-| `hansh` | 10/05/2022 |   |
-| `shimamura.gr.jp` | 09/05/2022 |   |
-| `safarni.com` | 09/05/2022 |   |
-| `realestateconsu...` | 07/05/2022 |   |
-| `nipmo.dst.gov.z...` | 06/05/2022 |   |
-| `mpusd.` | 06/05/2022 |   |
-| `fnoutlet.com` | 06/05/2022 |   |
-| `liceu.barcelon` | 05/05/2022 |   |
-| `delcourt.fr` | 05/05/2022 |   |
-| `jewelry.` | 05/05/2022 |   |
-| `rogz.com` | 04/05/2022 |   |
-| `nizing.com.tw` | 04/05/2022 |   |
-| `aref.government...` | 04/05/2022 |   |
-| `fivestar` | 03/05/2022 |   |
-| `erediriva.it` | 02/05/2022 |   |
-| `cwaengineers.co...` | 02/05/2022 |   |
-| `agenilsen.no` | 02/05/2022 |   |
-| `vestas` | 02/05/2022 |   |
-| `ethiopianai` | 01/05/2022 |   |
-| `card` | 01/05/2022 |   |
-| `zdgllc.com` | 01/05/2022 |   |
-| `smtuc.pt` | 01/05/2022 |   |
-| `orthopaedie-app...` | 01/05/2022 |   |
-| `sagefruit.com` | 30/04/2022 |   |
-| `p` | 30/04/2022 |   |
-| `hispanoamerican...` | 30/04/2022 |   |
-| `7generations.or...` | 30/04/2022 |   |
-| `w` | 30/04/2022 |   |
-| `brid` | 29/04/2022 |   |
-| `remar.` | 29/04/2022 |   |
-| `watermarkbeachr` | 29/04/2022 |   |
-| `bri` | 29/04/2022 |   |
-| `hydromaxusa.com` | 28/04/2022 |   |
-| `ospreyvideo.com` | 28/04/2022 |   |
-| `warrengibson.co...` | 27/04/2022 |   |
-| `davislandscapel...` | 27/04/2022 |   |
-| `multimmobiliare...` | 25/04/2022 |   |
-| `huesser.ch` | 25/04/2022 |   |
-| `emucor.es` | 25/04/2022 |   |
-| `cronos.com.ar` | 25/04/2022 |   |
-| `schriesheim.de` | 25/04/2022 |   |
-| `kdaponte.com` | 24/04/2022 |   |
-| `gp` | 24/04/2022 |   |
-| `valoores.com` | 23/04/2022 |   |
-| `tigergroup.ae` | 23/04/2022 |   |
-| `greenex` | 23/04/2022 |   |
-| `ccfsinc.com` | 23/04/2022 |   |
-| `www.tigergroup....` | 23/04/2022 |   |
-| `https://valoore...` | 23/04/2022 |   |
-| `simplilearn.net` | 22/04/2022 |   |
-| `fazenda.rj.gov....` | 22/04/2022 |   |
-| `lifestylesoluti...` | 22/04/2022 |   |
-| `produitsneptune...` | 22/04/2022 |   |
-| `ekz.de` | 22/04/2022 |   |
-| `wilshire.com` | 22/04/2022 |   |
-| `huntongroup.com` | 22/04/2022 |   |
-| `beckerlaw.com` | 22/04/2022 |   |
-| `incegd.com` | 22/04/2022 |   |
-| `tvothai.com` | 21/04/2022 |   |
-| `asp.messina.it` | 21/04/2022 |   |
-| `breadt` | 21/04/2022 |   |
-| `baugeschaeft-bo...` | 20/04/2022 |   |
-| `DavislandscapeL...` | 20/04/2022 |   |
-| `lekise.com` | 20/04/2022 |   |
-| `MAGNAR-EIKELAND...` | 20/04/2022 |   |
-| `ingesw.com` | 20/04/2022 |   |
-| `compagniedephal...` | 19/04/2022 |   |
-| `reitzner.de` | 19/04/2022 |   |
-| `procab.se` | 19/04/2022 |   |
-| `keisei-const.jp` | 19/04/2022 |   |
-| `jannone.it` | 19/04/2022 |   |
-| `groupe-corbat.c...` | 19/04/2022 |   |
-| `daumar.com` | 19/04/2022 |   |
-| `tnmed.org` | 19/04/2022 |   |
-| `ssi-steel.com` | 19/04/2022 |   |
-| `rockportmusic` | 18/04/2022 |   |
-| `gruppoathesis.i...` | 18/04/2022 |   |
-| `kainz-haustechn.` | 18/04/2022 |   |
-| `ville-sa` | 18/04/2022 |   |
-| `inland-engineer...` | 15/04/2022 |   |
-| `http://inland-e...` | 15/04/2022 |   |
-| `enclosuresoluti...` | 15/04/2022 |   |
-| `museum-dingo` | 15/04/2022 |   |
-| `verifiedlabel.c...` | 14/04/2022 |   |
-| `cassinobuilding...` | 14/04/2022 |   |
-| `mpm.fr` | 14/04/2022 |   |
-| `soharportandfre...` | 14/04/2022 |   |
-| `radmangroup.com` | 14/04/2022 |   |
-| `kpcg.com.hk` | 14/04/2022 |   |
-| `cyberapex.com` | 14/04/2022 |   |
-| `polyplastics.co...` | 14/04/2022 |   |
-| `www.verifiedlab...` | 14/04/2022 |   |
-| `www.mpm.fr` | 14/04/2022 |   |
-| `www.cassinobuil...` | 14/04/2022 |   |
-| `tpdrug.com` | 14/04/2022 |   |
-| `heartlandhealth...` | 13/04/2022 |   |
-| `applya.com` | 13/04/2022 |   |
-| `get-greenenergy...` | 13/04/2022 |   |
-| `northstari` | 13/04/2022 |   |
-| `inglotcosmetics...` | 12/04/2022 |   |
-| `breadtalk.com` | 12/04/2022 |   |
-| `lee-associate` | 11/04/2022 |   |
-| `azcomputerlabs....` | 11/04/2022 |   |
-| `tokyo-plant.co....` | 11/04/2022 |   |
-| `ruthtaubman.com` | 11/04/2022 |   |
-| `lo` | 10/04/2022 |   |
-| `groupemeunier.c...` | 10/04/2022 |   |
-| `farmaciastatuto...` | 10/04/2022 |   |
-| `lerros.com` | 10/04/2022 |   |
-| `www.farmaciasta...` | 10/04/2022 |   |
-| `spirit-ord.com` | 10/04/2022 |   |
-| `l` | 10/04/2022 |   |
-| `sadeco.fr` | 10/04/2022 |   |
-| `https://groupem...` | 10/04/2022 |   |
-| `clinique.cob-os...` | 09/04/2022 |   |
-| `anasia.co` | 09/04/2022 |   |
-| `ch1` | 09/04/2022 |   |
-| `ardeche.fr` | 08/04/2022 |   |
-| `rosagroup.com` | 08/04/2022 |   |
-| `genieroute.be` | 08/04/2022 |   |
-| `tnt` | 07/04/2022 |   |
-| `unholz.ch` | 07/04/2022 |   |
-| `feuerschutzbock...` | 07/04/2022 |   |
-| `get-entkernung....` | 07/04/2022 |   |
-| `wania.at` | 06/04/2022 |   |
-| `toothbuds.com` | 06/04/2022 |   |
-| `rnrinc.com` | 06/04/2022 |   |
-| `www.wania.at` | 06/04/2022 |   |
-| `www.rnrinc.com` | 06/04/2022 |   |
-| `vgoc.ca` | 06/04/2022 |   |
-| `http://www.toot...` | 06/04/2022 |   |
-| `allcountysurvey...` | 06/04/2022 |   |
-| `gordoncounty.or...` | 06/04/2022 |   |
-| `scoular.com` | 05/04/2022 |   |
-| `ferrolabella` | 05/04/2022 |   |
-| `westminster.de` | 04/04/2022 |   |
-| `sep2.com` | 04/04/2022 |   |
-| `noll-law.com` | 04/04/2022 |   |
-| `gva-atencia.es` | 04/04/2022 |   |
-| `ascotlloyd.co.u...` | 04/04/2022 |   |
-| `a-r-s.com` | 04/04/2022 |   |
-| `n` | 04/04/2022 |   |
-| `wiegaarden.dk` | 03/04/2022 |   |
-| `remar.com.ec` | 03/04/2022 |   |
-| `nowiny` | 03/04/2022 |   |
-| `oldenburgdeurbe...` | 03/04/2022 |   |
-| `centralban` | 03/04/2022 |   |
-| `greenexperts.co...` | 03/04/2022 |   |
-| `eksltd.com` | 03/04/2022 |   |
-| `fec-corp.com` | 03/04/2022 |   |
-| `bazzisrl.it` | 03/04/2022 |   |
-| `ledesma.com.ar` | 02/04/2022 |   |
-| `liceu.barcelona` | 02/04/2022 |   |
-| `https://liceu.b...` | 01/04/2022 |   |
-| `kssente` | 01/04/2022 |   |
-| `studiobrazzale....` | 31/03/2022 |   |
-| `keypoint.com` | 31/03/2022 |   |
-| `yachtcharterfle...` | 31/03/2022 |   |
-| `bafokengholding...` | 31/03/2022 |   |
-| `omalleytunstall...` | 31/03/2022 |   |
-| `avcimmedia.com` | 30/03/2022 |   |
-| `grupodeincendio...` | 30/03/2022 |   |
-| `jlmsolicitors.c...` | 30/03/2022 |   |
-| `papierswhitebi` | 30/03/2022 |   |
-| `burlingtonsafet...` | 30/03/2022 |   |
-| `botswana` | 30/03/2022 |   |
-| `bcad.org` | 30/03/2022 |   |
-| `rebuildingt` | 30/03/2022 |   |
-| `axessa.ch` | 29/03/2022 |   |
-| `progettoedilesr...` | 28/03/2022 |   |
-| `bro` | 28/03/2022 |   |
-| `its.ws` | 28/03/2022 |   |
-| `qarch.nl` | 28/03/2022 |   |
-| `zentrum-dreilin...` | 28/03/2022 |   |
-| `pirsonholland.c...` | 27/03/2022 |   |
-| `https://pirsonh...` | 27/03/2022 |   |
-| `girlguidingl` | 27/03/2022 |   |
-| `comune.g` | 27/03/2022 |   |
-| `aquazzura.` | 26/03/2022 |   |
-| `aquazzura.co` | 26/03/2022 |   |
-| `microflex-servi...` | 26/03/2022 |   |
-| `centuryaluminum...` | 25/03/2022 |   |
-| `ctigas.com` | 25/03/2022 |   |
-| `https://century...` | 25/03/2022 |   |
-| `standard-furnit...` | 25/03/2022 |   |
-| `alaliengineerin...` | 25/03/2022 |   |
-| `buffingtonl` | 24/03/2022 |   |
-| `onedoc.ch/fr/ce...` | 24/03/2022 |   |
-| `stt-logistique....` | 24/03/2022 |   |
-| `guazzini.it` | 24/03/2022 |   |
-| `japoauto.com` | 24/03/2022 |   |
-| `serilization-se...` | 24/03/2022 |   |
-| `ignitarium.com` | 24/03/2022 |   |
-| `redgwick.com` | 24/03/2022 |   |
-| `intouchgroup.ne...` | 24/03/2022 |   |
-| `credenceid.com` | 23/03/2022 |   |
-| `confindustriaca...` | 23/03/2022 |   |
-| `crich.it` | 23/03/2022 |   |
-| `avidoc.fr` | 23/03/2022 |   |
-| `lazpiur.com` | 23/03/2022 |   |
-| `edukgroup.com` | 22/03/2022 |   |
-| `ca.daiyafoods.c...` | 22/03/2022 |   |
-| `apec-capital.co...` | 22/03/2022 |   |
-| `sete.co.u` | 21/03/2022 |   |
-| `ismea.it` | 21/03/2022 |   |
-| `tomlinsonelectr...` | 21/03/2022 |   |
-| `chicagosteelgro...` | 21/03/2022 |   |
-| `zabel-group.de` | 21/03/2022 |   |
-| `STUDIO PEREGO S...` | 21/03/2022 |   |
-| `rh-europe.com` | 21/03/2022 |   |
-| `onglesdor.com` | 21/03/2022 |   |
-| `besp-oak.com` | 21/03/2022 |   |
-| `bbst-clp.de` | 20/03/2022 |   |
-| `museum-dingolfi...` | 20/03/2022 |   |
-| `meritresources` | 20/03/2022 |   |
-| `danubius-exim.r...` | 20/03/2022 |   |
-| `connectcec.com` | 20/03/2022 |   |
-| `pla-pumpen` | 19/03/2022 |   |
-| `denro.ca` | 19/03/2022 |   |
-| `jewelry.org.hk` | 19/03/2022 |   |
-| `dgordonlcswr.co...` | 18/03/2022 |   |
-| `kbkbcpa.com` | 18/03/2022 |   |
-| `centralaccident...` | 18/03/2022 |   |
-| `megaproductos.c...` | 18/03/2022 |   |
-| `solvi.com` | 18/03/2022 |   |
-| `kbkbcpa.com/` | 18/03/2022 |   |
-| `genesis.ky` | 18/03/2022 |   |
-| `draftex.de` | 18/03/2022 |   |
-| `www.centralacci...` | 18/03/2022 |   |
-| `gezairi.com` | 18/03/2022 |   |
-| `ifis.com.sg` | 18/03/2022 |   |
-| `thionvillenola....` | 18/03/2022 |   |
-| `montanarisrl.ne...` | 18/03/2022 |   |
-| `finances.gouv.c...` | 17/03/2022 |   |
-| `hilltopconstruc...` | 17/03/2022 |   |
-| `aetnabridge.com` | 17/03/2022 |   |
-| `specialinc.com` | 17/03/2022 |   |
-| `lawsdn.com` | 17/03/2022 |   |
-| `ihg.com` | 17/03/2022 |   |
-| `rosslare.com.hk` | 17/03/2022 |   |
-| `sbctanzania.co....` | 17/03/2022 |   |
-| `vvrmc.org  Par...` | 17/03/2022 |   |
-| `www.onedoc.ch/f...` | 17/03/2022 |   |
-| `rebuildingtoget...` | 17/03/2022 |   |
-| `onedoc.ch/fr/ca...` | 17/03/2022 |   |
-| `comune.villafra...` | 17/03/2022 |   |
-| `drory.com.cn` | 16/03/2022 |   |
-| `taguefamilyprac...` | 16/03/2022 |   |
-| `www.comune.vill...` | 16/03/2022 |   |
-| `www.rebuildingt...` | 16/03/2022 |   |
-| `matteolisrl.it` | 16/03/2022 |   |
-| `vbsharma.ca` | 16/03/2022 |   |
-| `medinadairy.co....` | 16/03/2022 |   |
-| `mfi` | 15/03/2022 |   |
-| `f` | 15/03/2022 |   |
-| `snteseccion30sa..` | 14/03/2022 |   |
-| `etrps.de` | 13/03/2022 |   |
-| `danubiushotels....` | 13/03/2022 |   |
-| `ambujaneotia.co...` | 13/03/2022 |   |
-| `ikk-group.com` | 13/03/2022 |   |
-| `scanvogn.com` | 13/03/2022 |   |
-| `snteseccion30sa...` | 12/03/2022 |   |
-| `etg.digital` | 12/03/2022 |   |
-| `cachibi.co` | 12/03/2022 |   |
-| `orientalaromati...` | 12/03/2022 |   |
-| `ymcad` | 12/03/2022 |   |
-| `sysmac.com.sg` | 11/03/2022 |   |
-| `weber-betonpump..` | 11/03/2022 |   |
-| `tingtong.com.cn` | 11/03/2022 |   |
-| `bioskin.sg` | 10/03/2022 |   |
-| `fer` | 10/03/2022 |   |
-| `bridgestoneamer...` | 09/03/2022 |   |
-| `hamm` | 08/03/2022 |   |
-| `stanthonys.slou...` | 07/03/2022 |   |
-| `jrichard-paysag...` | 07/03/2022 |   |
-| `brownsville-pub...` | 07/03/2022 |   |
-| `luzeirosfortale.` | 07/03/2022 |   |
-| `abcp.or` | 05/03/2022 |   |
-| `freedomfarmspa....` | 04/03/2022 |   |
-| `tovogom` | 04/03/2022 |   |
-| `simatelex.com.h...` | 03/03/2022 |   |
-| `sapulpaps.org` | 03/03/2022 |   |
-| `tccm.com` | 02/03/2022 |   |
-| `wimmog.ch` | 02/03/2022 |   |
-| `haeny.com` | 02/03/2022 |   |
-| `elitecorp.com` | 02/03/2022 |   |
-| `www.tccm.com` | 02/03/2022 |   |
-| `www.haeny.com` | 02/03/2022 |   |
-| `www.elitecorp.c...` | 02/03/2022 |   |
-| `www.wimmog.ch` | 02/03/2022 |   |
-| `wp` | 01/03/2022 |   |
-| `e-fmc.com.ar` | 01/03/2022 |   |
-| `ccli` | 28/02/2022 |   |
-| `safed.in` | 28/02/2022 |   |
-| `jamailsmith.com` | 28/02/2022 |   |
-| `lakeview.com` | 27/02/2022 |   |
-| `richmondmonroe....` | 27/02/2022 |   |
-| `us.jll.com` | 27/02/2022 |   |
-| `ugcorp.com` | 27/02/2022 |   |
-| `WARNING` | 27/02/2022 |   |
-| `cgm` | 27/02/2022 |   |
-| `ffnm.org` | 27/02/2022 |   |
-| `chip` | 26/02/2022 |   |
-| `giovana` | 26/02/2022 |   |
-| `giovanard` | 26/02/2022 |   |
-| `fehrs.com` | 25/02/2022 |   |
-| `dtstechnical.c` | 24/02/2022 |   |
-| `m` | 24/02/2022 |   |
-| `verisilicon.co` | 24/02/2022 |   |
-| `lipinsk` | 23/02/2022 |   |
-| `stetsonexpo.` | 23/02/2022 |   |
-| `blueocean.consu...` | 23/02/2022 |   |
-| `trauma.lbg.ac.a...` | 23/02/2022 |   |
-| `komeg.de` | 23/02/2022 |   |
-| `photolitto.com` | 23/02/2022 |   |
-| `groupe-sobotram...` | 21/02/2022 |   |
-| `gpvivienda.com` | 21/02/2022 |   |
-| `weye` | 20/02/2022 |   |
-| `bynx.com` | 20/02/2022 |   |
-| `partners.pia.be` | 19/02/2022 |   |
-| `maldegem.be` | 19/02/2022 |   |
-| `strix.com` | 19/02/2022 |   |
-| `plane.biz` | 19/02/2022 |   |
-| `centrictel.com` | 19/02/2022 |   |
-| `asgcourtage.com` | 19/02/2022 |   |
-| `taylorswindows....` | 19/02/2022 |   |
-| `oceantextile.dk` | 19/02/2022 |   |
-| `brookledge.com` | 19/02/2022 |   |
-| `centralia.edu` | 19/02/2022 |   |
-| `pertusipastore....` | 19/02/2022 |   |
-| `kokuyocamlin.co...` | 19/02/2022 |   |
-| `sanvitale.ra.it` | 19/02/2022 |   |
-| `botswanatourism...` | 19/02/2022 |   |
-| `enit.it` | 18/02/2022 |   |
-| `codisel.com.mx` | 15/02/2022 |   |
-| `beautyindustryg...` | 15/02/2022 |   |
-| `hifly.aero` | 14/02/2022 |   |
-| `pwma.org.hk` | 14/02/2022 |   |
-| `ackmo.be` | 14/02/2022 |   |
-| `o2fit.cl` | 14/02/2022 |   |
-| `sienaliteracy.o...` | 14/02/2022 |   |
-| `meeuwesen.nl` | 14/02/2022 |   |
-| `trustinnews.pt` | 14/02/2022 |   |
-| `wingsoft.it` | 13/02/2022 |   |
-| `cclint.com` | 13/02/2022 |   |
-| `rbhltd.com` | 13/02/2022 |   |
-| `zhulian.co.th` | 13/02/2022 |   |
-| `i` | 13/02/2022 |   |
-| `gruges.com.mx` | 12/02/2022 |   |
-| `idm-srl.it` | 12/02/2022 |   |
-| `ibasis.com` | 11/02/2022 |   |
-| `cilent` | 09/02/2022 |   |
-| `ibasis.com  Pa...` | 08/02/2022 |   |
-| `aludesign.ro` | 08/02/2022 |   |
-| `skandia.com.mx` | 08/02/2022 |   |
-| `tntorello.com` | 08/02/2022 |   |
-| `tntorello.com -...` | 08/02/2022 |   |
-| `bayer.co.at` | 07/02/2022 |   |
-| `sapulpaps.com` | 06/02/2022 |   |
-| `se.` | 06/02/2022 |   |
-| `watermark` | 06/02/2022 |   |
-| `tyresolesdobras...` | 05/02/2022 |   |
-| `kainz-haustechn...` | 05/02/2022 |   |
-| `aisc-airbus.` | 05/02/2022 |   |
-| `dap.gov.tr` | 05/02/2022 |   |
-| `botafogo.ind.br` | 04/02/2022 |   |
-| `prefimetal.com` | 04/02/2022 |   |
-| `COFRAP ESPAÑOLA...` | 04/02/2022 |   |
-| `progereal.com` | 04/02/2022 |   |
-| `castro-urdiales...` | 04/02/2022 |   |
-| `cometgroup` | 04/02/2022 |   |
-| `hotelcedres.com` | 04/02/2022 |   |
-| `maisonlaprise.c.` | 04/02/2022 |   |
-| `bar2.co.uk` | 04/02/2022 |   |
-| `ametisfacilitie...` | 04/02/2022 |   |
-| `ukrl.co.uk` | 04/02/2022 |   |
-| `dectro.com` | 04/02/2022 |   |
-| `savonia.fi` | 04/02/2022 |   |
-| `rabba` | 04/02/2022 |   |
-| `Ourense do Bras...` | 04/02/2022 |   |
-| `siamdial.com` | 04/02/2022 |   |
-| `nfcaa.org` | 04/02/2022 |   |
-| `fivestarproduct...` | 04/02/2022 |   |
-| `udmercy.edu` | 04/02/2022 |   |
-| `paybito.com` | 03/02/2022 |   |
-| `wolfbergal` | 02/02/2022 |   |
-| `ci.hercules.ca....` | 01/02/2022 |   |
-| `elmonterv.com` | 27/01/2022 |   |
-| `estpm.fr` | 27/01/2022 |   |
-| `girlguidinglase...` | 27/01/2022 |   |
-| `justice.fr` | 27/01/2022 |   |
-| `heubeck.de` | 27/01/2022 |   |
-| `saintcloud.fr` | 27/01/2022 |   |
-| `joda.de` | 27/01/2022 |   |
-| `ambau-team.de` | 27/01/2022 |   |
-| `laponte.it` | 27/01/2022 |   |
-| `vbhlaw.com` | 27/01/2022 |   |
-| `isnardi.it` | 27/01/2022 |   |
-| `optimissa.com` | 27/01/2022 |   |
-| `plainviewmn.com` | 25/01/2022 |   |
-| `mfkmakina.com` | 24/01/2022 |   |
-| `kentkonut.com.t...` | 24/01/2022 |   |
-| `peabo` | 23/01/2022 |   |
-| `bagbyelevator.c...` | 23/01/2022 |   |
-| `r` | 22/01/2022 |   |
-| `onlinesalespro....` | 21/01/2022 |   |
-| `efile.com` | 21/01/2022 |   |
-| `ged` | 20/01/2022 |   |
-| `bayview.com` | 20/01/2022 |   |
-| `roemer-lueftung.` | 20/01/2022 |   |
-| `harrisshelton.c...` | 19/01/2022 |   |
-| `izo.es` | 19/01/2022 |   |
-| `bannerbuzz.com` | 18/01/2022 |   |
-| `huntsville4rent...` | 18/01/2022 |   |
-| `centralbankfl.c...` | 16/01/2022 |   |
-| `khattarlaw.com` | 15/01/2022 |   |
-| `fairnessforall....` | 15/01/2022 |   |
-| `supersave.ca` | 12/01/2022 |   |
-| `northsideplumbi...` | 10/01/2022 |   |
-| `bernheim.org` | 10/01/2022 |   |
-| `amerplumb.com` | 10/01/2022 |   |
-| `torann-france.f...` | 10/01/2022 |   |
-| `securiteassuran...` | 10/01/2022 |   |
-| `focusadventure....` | 08/01/2022 |   |
-| `giovanardi.it` | 08/01/2022 |   |
-| `owenscaroli` | 08/01/2022 |   |
-| `mcsmorandi.com` | 07/01/2022 |   |
-| `chervongroup.co...` | 07/01/2022 |   |
-| `cbibanks.com` | 07/01/2022 |   |
-| `salesiancollege...` | 07/01/2022 |   |
-| `bricofer.it` | 05/01/2022 |   |
-| `atsair.com` | 04/01/2022 |   |
-| `thalesgroup.com` | 03/01/2022 |   |
-| `empireins.com` | 01/01/2022 |   |
-| `aulss6.veneto.i...` | 01/01/2022 |   |
-| `lee-associates....` | 31/12/2021 |   |
-| `independentprin...` | 30/12/2021 |   |
-| `https://www.lee...` | 30/12/2021 |   |
-| `rightsys.com` | 30/12/2021 |   |
-| `grupomakler.com` | 30/12/2021 |   |
-| `smiimaging.com` | 25/12/2021 |   |
-| `riverhead.net` | 25/12/2021 |   |
-| `cgm.com` | 25/12/2021 |   |
-| `lozzaspa.it` | 24/12/2021 |   |
-| `sintesiautomoti...` | 24/12/2021 |   |
-| `cbjblawfirm.com` | 24/12/2021 |   |
-| `burgsimpson.com` | 23/12/2021 |   |
-| `atskorea.co.kr` | 22/12/2021 |   |
-| `pestbusters.com...` | 22/12/2021 |   |
-| `hajery.com` | 21/12/2021 |   |
-| `www.hajery.com` | 21/12/2021 |   |
-| `maibroker.com` | 21/12/2021 |   |
-| `www.maibroker.c...` | 21/12/2021 |   |
-| `lipinskilogging...` | 21/12/2021 |   |
-| `dcashpro.com` | 21/12/2021 |   |
-| `piolax.co.th` | 21/12/2021 |   |
-| `urbandevelop.co...` | 21/12/2021 |   |
-| `cunninghamgolfc...` | 18/12/2021 |   |
-| `baa.legal` | 18/12/2021 |   |
-| `skinnertrans.co...` | 18/12/2021 |   |
-| `boxmarche.it` | 15/12/2021 |   |
-| `vipsmotel.it` | 15/12/2021 |   |
-| `hsisensing.com` | 14/12/2021 |   |
-| `rbauction.com` | 11/12/2021 |   |
-| `masselin.com` | 11/12/2021 |   |
-| `tamerholding.co...` | 10/12/2021 |   |
-| `robroelaw.com` | 10/12/2021 |   |
-| `se.com` | 09/12/2021 |   |
-| `volkswind.de` | 09/12/2021 |   |
-| `ducab.com` | 09/12/2021 |   |
-| `continuumenergy...` | 09/12/2021 |   |
-| `mswood.ba` | 09/12/2021 |   |
-| `bsm.upf.edu` | 09/12/2021 |   |
-| `kssenterprises....` | 09/12/2021 |   |
-| `clubpilates.com` | 09/12/2021 |   |
-| `northstarice.co...` | 09/12/2021 |   |
-| `inperium.org` | 09/12/2021 |   |
-| `apexbrasil.com....` | 09/12/2021 |   |
-| `proximitysystem...` | 09/12/2021 |   |
-| `g1group.co.uk` | 09/12/2021 |   |
-| `pacifichills.co...` | 09/12/2021 |   |
-| `roemer-lueftung...` | 08/12/2021 |   |
-| `nowiny.pl` | 08/12/2021 |   |
-| `atlas.in` | 08/12/2021 |   |
-| `psmportraits.co...` | 08/12/2021 |   |
-| `murrayscheese.c...` | 08/12/2021 |   |
-| `prairiesedgecas...` | 08/12/2021 |   |
-| `vestas.com` | 08/12/2021 |   |
-| `ytlcement.com` | 08/12/2021 |   |
-| `caudillseed.com` | 08/12/2021 |   |
-| `kerrylogistics....` | 08/12/2021 |   |
-| `hp.icon-institu...` | 08/12/2021 |   |
-| `fr.shop-orchest...` | 08/12/2021 |   |
-| `comark.ca` | 08/12/2021 |   |
-| `travel-general....` | 02/12/2021 |   |
-| `mainstreamdata....` | 02/12/2021 |   |
-| `summit-christia...` | 01/12/2021 |   |
-| `kenwal.com` | 30/11/2021 |   |
-| `totalfire.biz` | 29/11/2021 |   |
-| `callay.com.tr` | 29/11/2021 |   |
-| `dlb.it` | 29/11/2021 |   |
-| `telepro.com.mx` | 27/11/2021 |   |
-| `effectual.com` | 27/11/2021 |   |
-| `hsvgroup.talent...` | 27/11/2021 |   |
-| `nextech-asia.co...` | 27/11/2021 |   |
-| `lenzcontractors...` | 26/11/2021 |   |
-| `iveqi.com` | 26/11/2021 |   |
-| `inlad.com` | 26/11/2021 |   |
-| `vicksburgha.org` | 25/11/2021 |   |
-| `ardebolassessor...` | 25/11/2021 |   |
-| `IVEQI.Com` | 25/11/2021 |   |
-| `mpusd.net` | 25/11/2021 |   |
-| `atlas.ind.br` | 24/11/2021 |   |
-| `lawrencegroup.n...` | 24/11/2021 |   |
-| `jurelus.de` | 24/11/2021 |   |
-| `mtradeasia.com` | 23/11/2021 |   |
-| `centerspacehome...` | 23/11/2021 |   |
-| `fluidsealingpro...` | 22/11/2021 |   |
-| `planters-oil.ne...` | 22/11/2021 |   |
-| `kankakeetitle.c...` | 22/11/2021 |   |
-| `wnrllc.com` | 22/11/2021 |   |
-| `roteritaly.com` | 22/11/2021 |   |
-| `mecfond.com` | 22/11/2021 |   |
-| `systematicatec....` | 21/11/2021 |   |
-| `siix.co.jp` | 21/11/2021 |   |
-| `telemovil.com.s...` | 21/11/2021 |   |
-| `evans.co.id` | 21/11/2021 |   |
-| `consortiumlegal...` | 21/11/2021 |   |
-| `apower.com.sg` | 20/11/2021 |   |
-| `a1ssi.com` | 19/11/2021 |   |
-| `duncandisabilit...` | 19/11/2021 |   |
-| `ipbridge.co.jp` | 17/11/2021 |   |
-| `hanshin-dp.co.j...` | 17/11/2021 |   |
-| `peschl-ultravio...` | 17/11/2021 |   |
-| `reiss-beck.de` | 17/11/2021 |   |
-| `btc-alpha.com` | 17/11/2021 |   |
-| `royole.com` | 17/11/2021 |   |
-| `essextec.com` | 16/11/2021 |   |
-| `pkf.com.au` | 16/11/2021 |   |
-| `cloudpros.com` | 15/11/2021 |   |
-| `era.org.uk` | 13/11/2021 |   |
-| `mfitexas.com` | 13/11/2021 |   |
-| `bsg-llp.com` | 12/11/2021 |   |
-| `barfieldinc.com` | 12/11/2021 |   |
-| `http://bsg-llp....` | 12/11/2021 |   |
-| `rintal.com` | 12/11/2021 |   |
-| `daviscrump.com` | 10/11/2021 |   |
-| `ideaitaliausa.c...` | 10/11/2021 |   |
-| `home.hktdc.com` | 10/11/2021 |   |
-| `cardigos.com` | 10/11/2021 |   |
-| `comfacundi.com....` | 10/11/2021 |   |
-| `thinkcaspian.co...` | 10/11/2021 |   |
-| `betsaisonparago...` | 09/11/2021 |   |
-| `breslowstarling...` | 09/11/2021 |   |
-| `abvalve.com` | 09/11/2021 |   |
-| `transaher.es Pa...` | 09/11/2021 |   |
-| `gunninglafazia....` | 09/11/2021 |   |
-| `evolvedevelopme...` | 09/11/2021 |   |
-| `cool-pak.com` | 08/11/2021 |   |
-| `abiom.nl` | 08/11/2021 |   |
-| `eberlesrl.com` | 07/11/2021 |   |
-| `Royale.co.uk` | 07/11/2021 |   |
-| `chatrium.com` | 07/11/2021 |   |
-| `nurihiko.co.jp` | 06/11/2021 |   |
-| `eban.com` | 06/11/2021 |   |
-| `cilentospa.it` | 06/11/2021 |   |
-| `autolaundrysyst...` | 06/11/2021 |   |
-| `besttaxfiler.co...` | 06/11/2021 |   |
-| `rttax.com` | 06/11/2021 |   |
-| `interfor.com` | 06/11/2021 |   |
-| `mcmanislaw.com` | 06/11/2021 |   |
-| `owenscarolina.c...` | 06/11/2021 |   |
-| `trueblueenviron...` | 06/11/2021 |   |
-| `mym.com.pe` | 06/11/2021 |   |
-| `optimumdesign.c...` | 06/11/2021 |   |
-| `arrowheadadvanc...` | 06/11/2021 |   |
-| `fandi.fr` | 06/11/2021 |   |
-| `logistia.com` | 06/11/2021 |   |
-| `cepimanagement....` | 06/11/2021 |   |
-| `waveridernurser...` | 06/11/2021 |   |
-| `waclighting.com` | 06/11/2021 |   |
-| `plumascounty.us` | 06/11/2021 |   |
-| `groweeisen.com` | 04/11/2021 |   |
-| `tornel.com.mx` | 02/11/2021 |   |
-| `gvalue.com` | 02/11/2021 |   |
-| `wpdn.net` | 02/11/2021 |   |
-| `dtstechnical.ca` | 02/11/2021 |   |
-| `immodelaet.be` | 01/11/2021 |   |
-| `bdtaid.com` | 01/11/2021 |   |
-| `morganskenderia...` | 01/11/2021 |   |
-| `https://gvalue....` | 01/11/2021 |   |
-| `comune.gonzaga....` | 01/11/2021 |   |
-| `promo.parker.co...` | 01/11/2021 |   |
-| `www.radium.com....` | 01/11/2021 |   |
-| `logcabinhomes.c...` | 31/10/2021 |   |
-| `logi-cv.com` | 30/10/2021 |   |
-| `rijeka-airport....` | 29/10/2021 |   |
-| `amina-treuhand....` | 28/10/2021 |   |
-| `psomagen.com` | 28/10/2021 |   |
-| `parkhotel.mk` | 28/10/2021 |   |
-| `roadrebel.com` | 28/10/2021 |   |
-| `katzmanproduce....` | 28/10/2021 |   |
-| `pandol.com` | 28/10/2021 |   |
-| `www.parkhotel.m...` | 28/10/2021 |   |
-| `stehimpuls.de` | 28/10/2021 |   |
-| `www.psomagen.co...` | 28/10/2021 |   |
-| `movingstation.c...` | 28/10/2021 |   |
-| `http://www.movi...` | 27/10/2021 |   |
-| `tedia.com` | 27/10/2021 |   |
-| `lawyersforemplo...` | 27/10/2021 |   |
-| `ville-saintaffr...` | 26/10/2021 |   |
-| `le-inc.com` | 26/10/2021 |   |
-| `idline.fr` | 26/10/2021 |   |
-| `dunndev.com` | 26/10/2021 |   |
-| `https://ville-s...` | 26/10/2021 |   |
-| `laserexcel.com` | 26/10/2021 |   |
-| `mediacrush.co.i...` | 25/10/2021 |   |
-| `cti.group` | 25/10/2021 |   |
-| `delete` | 25/10/2021 |   |
-| `https://www.cti...` | 25/10/2021 |   |
-| `https://www.med...` | 25/10/2021 |   |
-| `galaxybuilders....` | 24/10/2021 |   |
-| `rockportmusic.o...` | 24/10/2021 |   |
-| `madejwrobel.pl` | 23/10/2021 |   |
-| `datastorageip.c...` | 22/10/2021 |   |
-| `srstlaw.com` | 22/10/2021 |   |
-| `wnj.com` | 22/10/2021 |   |
-| `selinigroup.it` | 22/10/2021 |   |
-| `www.datastorage...` | 22/10/2021 |   |
-| `urbis.com.hk` | 21/10/2021 |   |
-| `continentalcoun...` | 21/10/2021 |   |
-| `meritresources....` | 21/10/2021 |   |
-| `groeflinag.ch` | 21/10/2021 |   |
-| `radium.com.tw` | 21/10/2021 |   |
-| `bataviacontaine...` | 21/10/2021 |   |
-| `https://www.pea...` | 21/10/2021 |   |
-| `https://www.mer...` | 21/10/2021 |   |
-| `https://www.gro...` | 21/10/2021 |   |
-| `www.continental...` | 21/10/2021 |   |
-| `thefoxhillclub....` | 20/10/2021 |   |
-| `zgoda.net` | 20/10/2021 |   |
-| `atento.com` | 18/10/2021 |   |
-| `ferrolabella.co...` | 17/10/2021 |   |
-| `cassini-technol...` | 16/10/2021 |   |
-| `espera.com` | 16/10/2021 |   |
-| `valleyregionalt...` | 16/10/2021 |   |
-| `uslogic.com` | 16/10/2021 |   |
-| `sb-kc.com` | 15/10/2021 |   |
-| `wmlaw.com.au` | 15/10/2021 |   |
-| `uvisionuav.com` | 15/10/2021 |   |
-| `wataniaind.com` | 15/10/2021 |   |
-| `alwatania.sa` | 15/10/2021 |   |
-| `wolfbergalvarez...` | 13/10/2021 |   |
-| `hitrac-engineer...` | 13/10/2021 |   |
-| `planitox.com.br` | 12/10/2021 |   |
-| `cera` | 12/10/2021 |   |
-| `riversidetwp.or...` | 12/10/2021 |   |
-| `nofeurope.com` | 10/10/2021 |   |
-| `hybuilding.com....` | 10/10/2021 |   |
-| `ceoempowers.org` | 10/10/2021 |   |
-| `weber-betonpump...` | 09/10/2021 |   |
-| `aisc-airbus.com` | 09/10/2021 |   |
-| `watermarkbeachr...` | 09/10/2021 |   |
-| `dusa.com.ve` | 08/10/2021 |   |
-| `cobabebrothers....` | 07/10/2021 |   |
-| `parkertide.com` | 07/10/2021 |   |
-| `jaykaltrading.c...` | 07/10/2021 |   |
-| `sapphiredentalc...` | 07/10/2021 |   |
-| `atsgruppo.eu` | 07/10/2021 |   |
-| `generalplumbing...` | 07/10/2021 |   |
-| `weyers-architek...` | 07/10/2021 |   |
-| `reust.ch` | 07/10/2021 |   |
-| `isvo.it` | 07/10/2021 |   |
-| `kacyumara.com.b...` | 07/10/2021 |   |
-| `sides.fr` | 06/10/2021 |   |
-| `transdev.com` | 05/10/2021 |   |
-| `maisonlaprise.c...` | 05/10/2021 |   |
-| `moonnurseries.c...` | 05/10/2021 |   |
-| `barreaudecharle...` | 05/10/2021 |   |
-| `https://moonnur...` | 05/10/2021 |   |
-| `https://barreau...` | 05/10/2021 |   |
-| `rivercityrental...` | 03/10/2021 |   |
-| `nuevomundosa.co...` | 03/10/2021 |   |
-| `aktieinvest.se` | 03/10/2021 |   |
-| `estampa.com.pa` | 03/10/2021 |   |
-| `riviana.com` | 02/10/2021 |   |
-| `wormingtonlegal...` | 02/10/2021 |   |
-| `dcaa.gov.ae` | 02/10/2021 |   |
-| `yankey.com.tw` | 02/10/2021 |   |
-| `adlinktech.com` | 01/10/2021 |   |
-| `E.M.I.T. Aviati...` | 01/10/2021 |   |
-| `chipsaway.at` | 01/10/2021 |   |
-| `brident.com/en-...` | 01/10/2021 |   |
-| `houstonestatepl...` | 01/10/2021 |   |
-| `newhotel.com` | 30/09/2021 |   |
-| `fugybat.fr` | 30/09/2021 |   |
-| `nitropiso.com.m...` | 30/09/2021 |   |
-| `texasacehvac.co...` | 30/09/2021 |   |
-| `transrendufense...` | 30/09/2021 |   |
-| `geda-produkte.d...` | 30/09/2021 |   |
-| `amista.cz` | 29/09/2021 |   |
-| `sheraton.marrio...` | 29/09/2021 |   |
-| `rabbalshedekraf...` | 29/09/2021 |   |
-| `hoistcrane.com` | 28/09/2021 |   |
-| `wortmann.de` | 28/09/2021 |   |
-| `alderking.com` | 28/09/2021 |   |
-| `https://www.wor...` | 28/09/2021 |   |
-| `anasia.com` | 28/09/2021 |   |
-| `vlastuin.nl` | 28/09/2021 |   |
-| `USA company` | 28/09/2021 |   |
-| `iibg.ca` | 26/09/2021 |   |
-| `scisairsecurity...` | 25/09/2021 |   |
-| `advantecmfs.com` | 25/09/2021 |   |
-| `peabodyproperti...` | 25/09/2021 |   |
-| `dataspeed.it` | 25/09/2021 |   |
-| `jaylon.com.au` | 24/09/2021 |   |
-| `franklinempire....` | 24/09/2021 |   |
-| `papierswhitebir...` | 24/09/2021 |   |
-| `daylewis.co.uk` | 23/09/2021 |   |
-| `buffingtonlawfi...` | 23/09/2021 |   |
-| `sete.co.uk` | 23/09/2021 |   |
-| `www.daylewis.co...` | 23/09/2021 |   |
-| `https://www.buf...` | 23/09/2021 |   |
-| `robsonstreet.ca` | 23/09/2021 |   |
-| `tes-amm.com` | 23/09/2021 |   |
-| `jplegal.net` | 22/09/2021 |   |
-| `hotelservicepro...` | 22/09/2021 |   |
-| `drhrlaw.com` | 22/09/2021 |   |
-| `esopro.com` | 22/09/2021 |   |
-| `hoffsuemmer.de` | 22/09/2021 |   |
-| `wijnendeclerck....` | 22/09/2021 |   |
-| `ebarc.adv.br` | 22/09/2021 |   |
-| `shop.jerryleigh...` | 22/09/2021 |   |
-| `j-addington.com` | 22/09/2021 |   |
-| `johncockerillin...` | 20/09/2021 |   |
-| `ds.net.au` | 20/09/2021 |   |
-| `marriott.com/ho...` | 20/09/2021 |   |
-| `iiservz.com` | 20/09/2021 |   |
-| `drsdoors.com` | 20/09/2021 |   |
-| `westernspirits....` | 20/09/2021 |   |
-| `noone.com.au` | 20/09/2021 |   |
-| `glenroy.com` | 20/09/2021 |   |
-| `dykman.com` | 20/09/2021 |   |
-| `ibes-gmbh.de` | 20/09/2021 |   |
-| `grupowec.com` | 20/09/2021 |   |
-| `denark.com` | 19/09/2021 |   |
-| `51talk.com` | 19/09/2021 |   |
-| `northstarak.com` | 18/09/2021 |   |
-| `novotech.com` | 18/09/2021 |   |
-| `agmfinancial.co...` | 18/09/2021 |   |
-| `abcp.org.br` | 18/09/2021 |   |
-| `nrpa.org` | 18/09/2021 |   |
-| `riscossa.it` | 17/09/2021 |   |
-| `mitchellsternla...` | 17/09/2021 |   |
-| `coldwellbankerh...` | 17/09/2021 |   |
-| `miller-rose.com` | 13/09/2021 |   |
-| `atstrack.com` | 13/09/2021 |   |
-| `rlsblaw.com` | 13/09/2021 |   |
-| `cimico.net` | 13/09/2021 |   |
-| `https://cimico....` | 12/09/2021 |   |
-| `novohamburgo.rs...` | 10/09/2021 |   |
-| `erg.eu` | 10/09/2021 |   |
-| `hbfinanse.pl` | 10/09/2021 |   |
-| `cimaser.com` | 10/09/2021 |   |
-| `cansmart.co.za` | 10/09/2021 |   |
-| `gahesa.com` | 10/09/2021 |   |
-| `https://www.nov...` | 10/09/2021 |   |
-| `colliganlaw.com` | 10/09/2021 |   |
-| `aquazzura.com` | 10/09/2021 |   |
-| `setg.at` | 10/09/2021 |   |
-| `cometgroup.be` | 10/09/2021 |   |
-| `ccz.com.au` | 10/09/2021 |   |
-| `otcqatar.com` | 10/09/2021 |   |
-| `lanexmfg.com` | 10/09/2021 |   |
-| `luzeirosfortale...` | 10/09/2021 |   |
-| `kmazuckert.com` | 10/09/2021 |   |
-| `ymcadc.org` | 10/09/2021 |   |
-| `nutrifood.co.id` | 10/09/2021 |   |
-| `bennetts.com.au` | 10/09/2021 |   |
-| `jginc.biz` | 10/09/2021 |   |
-| `cenco-zotti.com` | 10/09/2021 |   |
-| `mtgsrl.com` | 10/09/2021 |   |
-| `yazaki-group.co...` | 10/09/2021 |   |
-| `hitechpiping.ca` | 10/09/2021 |   |
-| `verisilicon.com` | 10/09/2021 |   |
-| `gicinque.com` | 10/09/2021 |   |
-| `dprotege.com.br` | 10/09/2021 |   |
-| `gdexpress.com` | 10/09/2021 |   |
-| `jaccs.com.ph` | 10/09/2021 |   |
-| `yamato-esulon.c...` | 10/09/2021 |   |
-| `inlineplumbing....` | 10/09/2021 |   |
-| `megawatts.com.s...` | 10/09/2021 |   |
-| `esrmotors.com` | 10/09/2021 |   |
-| `petrologiscanar...` | 10/09/2021 |   |
-| `nwtf.org` | 10/09/2021 |   |
-| `nusantararegas....` | 10/09/2021 |   |
-| `sabre.ca` | 10/09/2021 |   |
-| `accenture.com` | 10/09/2021 |   |
-| `audit-treuhand....` | 10/09/2021 |   |
-| `bpc.ao` | 10/09/2021 |   |
-| `jy-oilseal.com` | 10/09/2021 |   |
-| `meccalte.com` | 10/09/2021 |   |
-| `en.mkb.bg` | 10/09/2021 |   |
-| `autoelectric.co...` | 10/09/2021 |   |
-| `saleeprinting.c...` | 10/09/2021 |   |
-| `selinerag.ch` | 10/09/2021 |   |
-| `livingflame.co....` | 10/09/2021 |   |
-| `lemonastere.ca` | 10/09/2021 |   |
-| `garagedeckx.be` | 10/09/2021 |   |
-| `ceratube.ma` | 10/09/2021 |   |
-| `beardowadams.co...` | 10/09/2021 |   |
-| `ethiopianairlin...` | 10/09/2021 |   |
-| `sdfeg.com` | 10/09/2021 |   |
-| `abecho.co.jp` | 10/09/2021 |   |
-| `delrantownship....` | 10/09/2021 |   |
-| `faberinc.com` | 10/09/2021 |   |
-| `fragerlaw.com` | 10/09/2021 |   |
-| `servisistanbul....` | 10/09/2021 |   |
-| `pla-pumpen.de` | 10/09/2021 |   |
-| `alta-electronic...` | 10/09/2021 |   |
-| `bangkokair.com` | 10/09/2021 |   |
-| `stetsonexpo.com` | 10/09/2021 |   |
-| `conmoto.de` | 10/09/2021 |   |
-| `nepgroup.com` | 10/09/2021 |   |
-| `isoftstone.com` | 10/09/2021 |   |
-| `softvision.com....` | 10/09/2021 |   |
-| `brunsrealty.com` | 10/09/2021 |   |
-| `e-button.com.tw` | 10/09/2021 |   |
-| `pro-beam.com` | 10/09/2021 |   |
-| `nutrix.co.th` | 10/09/2021 |   |
-| `yakimacoop.com` | 10/09/2021 |   |
-| `hellmich-partne...` | 10/09/2021 |   |
-| `overseas-ast.co...` | 10/09/2021 |   |
-| `pridepak.co.za` | 10/09/2021 |   |
-| `maximusinfoware...` | 10/09/2021 |   |
-| `seiei-ashd.co.j...` | 10/09/2021 |   |
-| `ch13bham.com` | 10/09/2021 |   |
-| `pulmuonewildwoo...` | 10/09/2021 |   |
-| `autohausdaehn.d...` | 10/09/2021 |   |
-| `barolit.com` | 10/09/2021 |   |
-| `denverhousing.o...` | 10/09/2021 |   |
-| `prototal.se` | 10/09/2021 |   |
-| `odeffinancieras...` | 10/09/2021 |   |
-| `soenen-golfkart...` | 10/09/2021 |   |
-| `remedios.lawyer` | 10/09/2021 |   |
-| `hpe-konstanz.de` | 10/09/2021 |   |
-| `cheadlelaw.com` | 10/09/2021 |   |
-| `benner.com.br` | 10/09/2021 |   |
-| `callabsolute.co...` | 10/09/2021 |   |
-| `pikecountysheri...` | 10/09/2021 |   |
-| `tesa46.com` | 10/09/2021 |   |
-| `comebi.mx` | 10/09/2021 |   |
-| `suenco.co.th` | 10/09/2021 |   |
-| `royalporcelain....` | 10/09/2021 |   |
-| `tovogomma.it` | 10/09/2021 |   |
-| `envisioncu.com` | 09/09/2021 |   |
-| `ofplaw.com` | 09/09/2021 |   |
-| `pi-hf.com` | 09/09/2021 |   |
-| `russellwbho.co....` | 09/09/2021 |   |
-| `paramountme.com` | 09/09/2021 |   |
-| `jockeyclub.org....` | 09/09/2021 |   |
-| `hancockassociat...` | 09/09/2021 |   |
-| `universalwindow...` | 09/09/2021 |   |
-| `hammer-poznan.p...` | 09/09/2021 |   |
-| `snapmga.com` | 09/09/2021 |   |
+| [`datalit.it`](https://google.com/search?q=datalit.it) | 28/06/2022 |   |
+| [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | 26/06/2022 |   |
+| [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | 21/06/2022 |   |
+| [`coteg-azam.fr`](https://google.com/search?q=coteg-azam.fr) | 21/06/2022 |   |
+| [`sigma-alimentos...`](https://google.com/search?q=sigma-alimentos...) | 21/06/2022 |   |
+| [`farmaciacirici....`](https://google.com/search?q=farmaciacirici....) | 21/06/2022 |   |
+| [`agricolaandrea....`](https://google.com/search?q=agricolaandrea....) | 21/06/2022 |   |
+| [`business.gov.om`](https://google.com/search?q=business.gov.om) | 20/06/2022 |   |
+| [`builditinc.com`](https://google.com/search?q=builditinc.com) | 20/06/2022 |   |
+| [`rhenus.group`](https://google.com/search?q=rhenus.group) | 20/06/2022 |   |
+| [`kuwaitairways.c...`](https://google.com/search?q=kuwaitairways.c...) | 20/06/2022 |   |
+| [`plagepalace.com`](https://google.com/search?q=plagepalace.com) | 20/06/2022 |   |
+| [`emprint.com`](https://google.com/search?q=emprint.com) | 20/06/2022 |   |
+| [`acac.com`](https://google.com/search?q=acac.com) | 20/06/2022 |   |
+| [`optoma`](https://google.com/search?q=optoma) | 19/06/2022 |   |
+| [`vectorinf.com.b...`](https://google.com/search?q=vectorinf.com.b...) | 18/06/2022 |   |
+| [`tb-kawashima.co...`](https://google.com/search?q=tb-kawashima.co...) | 18/06/2022 |   |
+| [`lundinroof.com`](https://google.com/search?q=lundinroof.com) | 18/06/2022 |   |
+| [`keisei-`](https://google.com/search?q=keisei-) | 17/06/2022 |   |
+| [`https://www.tb-...`](https://google.com/search?q=https%3A%2F%2Fwww.tb-...) | 17/06/2022 |   |
+| [`http://www.lund...`](https://google.com/search?q=http%3A%2F%2Fwww.lund...) | 17/06/2022 |   |
+| [`bestatt`](https://google.com/search?q=bestatt) | 17/06/2022 |   |
+| [`bestattung-`](https://google.com/search?q=bestattung-) | 16/06/2022 |   |
+| [`ardebolassessor`](https://google.com/search?q=ardebolassessor) | 16/06/2022 |   |
+| [`dgi.gouv.ml`](https://google.com/search?q=dgi.gouv.ml) | 15/06/2022 |   |
+| [`medcoenergi.com`](https://google.com/search?q=medcoenergi.com) | 14/06/2022 |   |
+| [`genusplc.com`](https://google.com/search?q=genusplc.com) | 14/06/2022 |   |
+| [`enclosuresoluti`](https://google.com/search?q=enclosuresoluti) | 14/06/2022 |   |
+| [`https://www.dgi...`](https://google.com/search?q=https%3A%2F%2Fwww.dgi...) | 14/06/2022 |   |
+| [`gruppowasteital...`](https://google.com/search?q=gruppowasteital...) | 14/06/2022 |   |
+| [`ptg.com.au`](https://google.com/search?q=ptg.com.au) | 13/06/2022 |   |
+| [`slgienergy.com`](https://google.com/search?q=slgienergy.com) | 12/06/2022 |   |
+| [`sanvitale.r`](https://google.com/search?q=sanvitale.r) | 12/06/2022 |   |
+| [`ses`](https://google.com/search?q=ses) | 11/06/2022 |   |
+| [`www.vectorinf.c...`](https://google.com/search?q=www.vectorinf.c...) | 10/06/2022 |   |
+| [`cargoexperts.eu`](https://google.com/search?q=cargoexperts.eu) | 10/06/2022 |   |
+| [`kaisoten.co.jp`](https://google.com/search?q=kaisoten.co.jp) | 09/06/2022 |   |
+| [`virtus-`](https://google.com/search?q=virtus-) | 09/06/2022 |   |
+| [`equis.com`](https://google.com/search?q=equis.com) | 07/06/2022 |   |
+| [`gpml`](https://google.com/search?q=gpml) | 07/06/2022 |   |
+| [`https://www.equ...`](https://google.com/search?q=https%3A%2F%2Fwww.equ...) | 07/06/2022 |   |
+| [`mandiant.com`](https://google.com/search?q=mandiant.com) | 06/06/2022 |   |
+| [`kan`](https://google.com/search?q=kan) | 06/06/2022 |   |
+| [`sesver.gob.mx`](https://google.com/search?q=sesver.gob.mx) | 06/06/2022 |   |
+| [`patralogistik.c...`](https://google.com/search?q=patralogistik.c...) | 06/06/2022 |   |
+| [`linmark.com`](https://google.com/search?q=linmark.com) | 06/06/2022 |   |
+| [`hyatts.com`](https://google.com/search?q=hyatts.com) | 06/06/2022 |   |
+| [`IBRCN.COM`](https://google.com/search?q=IBRCN.COM) | 06/06/2022 |   |
+| [`kansashighwaypa...`](https://google.com/search?q=kansashighwaypa...) | 05/06/2022 |   |
+| [`bestattung-walz...`](https://google.com/search?q=bestattung-walz...) | 05/06/2022 |   |
+| [`vainieritraspor...`](https://google.com/search?q=vainieritraspor...) | 04/06/2022 |   |
+| [`rosagroup`](https://google.com/search?q=rosagroup) | 04/06/2022 |   |
+| [`wik-group.com`](https://google.com/search?q=wik-group.com) | 04/06/2022 |   |
+| [`specpharm.co.za`](https://google.com/search?q=specpharm.co.za) | 04/06/2022 |   |
+| [`ora.com`](https://google.com/search?q=ora.com) | 04/06/2022 |   |
+| [`colonail.com`](https://google.com/search?q=colonail.com) | 04/06/2022 |   |
+| [`familyclinicbri...`](https://google.com/search?q=familyclinicbri...) | 04/06/2022 |   |
+| [`sport`](https://google.com/search?q=sport) | 03/06/2022 |   |
+| [`closetheloopeu....`](https://google.com/search?q=closetheloopeu....) | 02/06/2022 |   |
+| [`jewelry.or`](https://google.com/search?q=jewelry.or) | 02/06/2022 |   |
+| [`compagniedep`](https://google.com/search?q=compagniedep) | 02/06/2022 |   |
+| [`hilltopconstruc`](https://google.com/search?q=hilltopconstruc) | 02/06/2022 |   |
+| [`cepima`](https://google.com/search?q=cepima) | 02/06/2022 |   |
+| [`bradfo`](https://google.com/search?q=bradfo) | 01/06/2022 |   |
+| [`intertabak.com`](https://google.com/search?q=intertabak.com) | 30/05/2022 |   |
+| [`inla`](https://google.com/search?q=inla) | 30/05/2022 |   |
+| [`tcpharmachem.co...`](https://google.com/search?q=tcpharmachem.co...) | 30/05/2022 |   |
+| [`gpmlife.com`](https://google.com/search?q=gpmlife.com) | 30/05/2022 |   |
+| [`foxconnbc.com`](https://google.com/search?q=foxconnbc.com) | 29/05/2022 |   |
+| [`koenigstahl.pl`](https://google.com/search?q=koenigstahl.pl) | 29/05/2022 |   |
+| [`pauly.de`](https://google.com/search?q=pauly.de) | 29/05/2022 |   |
+| [`hospitalsanjose...`](https://google.com/search?q=hospitalsanjose...) | 29/05/2022 |   |
+| [`kerrylog`](https://google.com/search?q=kerrylog) | 27/05/2022 |   |
+| [`skinnertran`](https://google.com/search?q=skinnertran) | 27/05/2022 |   |
+| [`ils.theinnovate...`](https://google.com/search?q=ils.theinnovate...) | 26/05/2022 |   |
+| [`edm-stone.com`](https://google.com/search?q=edm-stone.com) | 26/05/2022 |   |
+| [`pointsbet.com`](https://google.com/search?q=pointsbet.com) | 25/05/2022 |   |
+| [`vitalprev.com.b...`](https://google.com/search?q=vitalprev.com.b...) | 24/05/2022 |   |
+| [`https://www.vit...`](https://google.com/search?q=https%3A%2F%2Fwww.vit...) | 24/05/2022 |   |
+| [`pet-link.com`](https://google.com/search?q=pet-link.com) | 24/05/2022 |   |
+| [`kuwaitflourmill...`](https://google.com/search?q=kuwaitflourmill...) | 24/05/2022 |   |
+| [`erdwaerme-gruen...`](https://google.com/search?q=erdwaerme-gruen...) | 24/05/2022 |   |
+| [`architectenbure...`](https://google.com/search?q=architectenbure...) | 24/05/2022 |   |
+| [`www.intertabak....`](https://google.com/search?q=www.intertabak....) | 24/05/2022 |   |
+| [`virtus-advocate...`](https://google.com/search?q=virtus-advocate...) | 24/05/2022 |   |
+| [`berschneider.de`](https://google.com/search?q=berschneider.de) | 23/05/2022 |   |
+| [`etrp`](https://google.com/search?q=etrp) | 23/05/2022 |   |
+| [`reitzner`](https://google.com/search?q=reitzner) | 22/05/2022 |   |
+| [`seatarrabida.pt`](https://google.com/search?q=seatarrabida.pt) | 22/05/2022 |   |
+| [`focusadventure..`](https://google.com/search?q=focusadventure..) | 21/05/2022 |   |
+| [`bsm.upf.ed`](https://google.com/search?q=bsm.upf.ed) | 20/05/2022 |   |
+| [`salumificiovene...`](https://google.com/search?q=salumificiovene...) | 20/05/2022 |   |
+| [`de`](https://google.com/search?q=de) | 20/05/2022 |   |
+| [`firbarcarolo.it`](https://google.com/search?q=firbarcarolo.it) | 20/05/2022 |   |
+| [`morrisonexpress...`](https://google.com/search?q=morrisonexpress...) | 20/05/2022 |   |
+| [`bata`](https://google.com/search?q=bata) | 20/05/2022 |   |
+| [`skinnertrans.ne...`](https://google.com/search?q=skinnertrans.ne...) | 19/05/2022 |   |
+| [`gymund.dk`](https://google.com/search?q=gymund.dk) | 19/05/2022 |   |
+| [`groupe-trouille...`](https://google.com/search?q=groupe-trouille...) | 19/05/2022 |   |
+| [`gdctax.com.au`](https://google.com/search?q=gdctax.com.au) | 19/05/2022 |   |
+| [`fed-gmbh.de`](https://google.com/search?q=fed-gmbh.de) | 19/05/2022 |   |
+| [`http://wsretail...`](https://google.com/search?q=http%3A%2F%2Fwsretail...) | 19/05/2022 |   |
+| [`clublinks.com.a...`](https://google.com/search?q=clublinks.com.a...) | 18/05/2022 |   |
+| [`Mercyhurst.edu`](https://google.com/search?q=Mercyhurst.edu) | 18/05/2022 |   |
+| [`https://clublin...`](https://google.com/search?q=https%3A%2F%2Fclublin...) | 18/05/2022 |   |
+| [`suntecktts.com`](https://google.com/search?q=suntecktts.com) | 17/05/2022 |   |
+| [`modetransportat...`](https://google.com/search?q=modetransportat...) | 17/05/2022 |   |
+| [`vivalia.be`](https://google.com/search?q=vivalia.be) | 17/05/2022 |   |
+| [`2easy.com.br`](https://google.com/search?q=2easy.com.br) | 17/05/2022 |   |
+| [`khs-wp.de`](https://google.com/search?q=khs-wp.de) | 17/05/2022 |   |
+| [`jaykal`](https://google.com/search?q=jaykal) | 17/05/2022 |   |
+| [`sherpamarketing...`](https://google.com/search?q=sherpamarketing...) | 16/05/2022 |   |
+| [`cassagne.com.ar`](https://google.com/search?q=cassagne.com.ar) | 16/05/2022 |   |
+| [`teka.com.mx`](https://google.com/search?q=teka.com.mx) | 16/05/2022 |   |
+| [`talaadthaii.com`](https://google.com/search?q=talaadthaii.com) | 16/05/2022 |   |
+| [`saludparatodos....`](https://google.com/search?q=saludparatodos....) | 16/05/2022 |   |
+| [`rexontec.com.tw`](https://google.com/search?q=rexontec.com.tw) | 16/05/2022 |   |
+| [`http://2easy.co...`](https://google.com/search?q=http%3A%2F%2F2easy.co...) | 16/05/2022 |   |
+| [`grupocabal.cl`](https://google.com/search?q=grupocabal.cl) | 16/05/2022 |   |
+| [`STU`](https://google.com/search?q=STU) | 16/05/2022 |   |
+| [`hinakaorg.com`](https://google.com/search?q=hinakaorg.com) | 16/05/2022 |   |
+| [`arcelormittal.h...`](https://google.com/search?q=arcelormittal.h...) | 16/05/2022 |   |
+| [`mercyhurst.edu`](https://google.com/search?q=mercyhurst.edu) | 15/05/2022 |   |
+| [`boltburdon.co.u...`](https://google.com/search?q=boltburdon.co.u...) | 15/05/2022 |   |
+| [`redgwick.`](https://google.com/search?q=redgwick.) | 14/05/2022 |   |
+| [`hoffsu`](https://google.com/search?q=hoffsu) | 14/05/2022 |   |
+| [`optoma.com`](https://google.com/search?q=optoma.com) | 14/05/2022 |   |
+| [`boltburdonkemp....`](https://google.com/search?q=boltburdonkemp....) | 13/05/2022 |   |
+| [`www.optoma.com`](https://google.com/search?q=www.optoma.com) | 13/05/2022 |   |
+| [`sgservicesud.it`](https://google.com/search?q=sgservicesud.it) | 13/05/2022 |   |
+| [`riken-nosan.com`](https://google.com/search?q=riken-nosan.com) | 13/05/2022 |   |
+| [`mosaiceins.com`](https://google.com/search?q=mosaiceins.com) | 13/05/2022 |   |
+| [`bradfordmarine....`](https://google.com/search?q=bradfordmarine....) | 13/05/2022 |   |
+| [`purapharm.com`](https://google.com/search?q=purapharm.com) | 13/05/2022 |   |
+| [`alliancesand.co...`](https://google.com/search?q=alliancesand.co...) | 13/05/2022 |   |
+| [`agapemeanslove....`](https://google.com/search?q=agapemeanslove....) | 13/05/2022 |   |
+| [`zine-eskola.eus`](https://google.com/search?q=zine-eskola.eus) | 12/05/2022 |   |
+| [`saskarc.com`](https://google.com/search?q=saskarc.com) | 11/05/2022 |   |
+| [`topaces.us`](https://google.com/search?q=topaces.us) | 10/05/2022 |   |
+| [`sportco.com`](https://google.com/search?q=sportco.com) | 10/05/2022 |   |
+| [`silverbayseafoo...`](https://google.com/search?q=silverbayseafoo...) | 10/05/2022 |   |
+| [`hansh`](https://google.com/search?q=hansh) | 10/05/2022 |   |
+| [`shimamura.gr.jp`](https://google.com/search?q=shimamura.gr.jp) | 09/05/2022 |   |
+| [`safarni.com`](https://google.com/search?q=safarni.com) | 09/05/2022 |   |
+| [`realestateconsu...`](https://google.com/search?q=realestateconsu...) | 07/05/2022 |   |
+| [`nipmo.dst.gov.z...`](https://google.com/search?q=nipmo.dst.gov.z...) | 06/05/2022 |   |
+| [`mpusd.`](https://google.com/search?q=mpusd.) | 06/05/2022 |   |
+| [`fnoutlet.com`](https://google.com/search?q=fnoutlet.com) | 06/05/2022 |   |
+| [`liceu.barcelon`](https://google.com/search?q=liceu.barcelon) | 05/05/2022 |   |
+| [`delcourt.fr`](https://google.com/search?q=delcourt.fr) | 05/05/2022 |   |
+| [`jewelry.`](https://google.com/search?q=jewelry.) | 05/05/2022 |   |
+| [`rogz.com`](https://google.com/search?q=rogz.com) | 04/05/2022 |   |
+| [`nizing.com.tw`](https://google.com/search?q=nizing.com.tw) | 04/05/2022 |   |
+| [`aref.government...`](https://google.com/search?q=aref.government...) | 04/05/2022 |   |
+| [`fivestar`](https://google.com/search?q=fivestar) | 03/05/2022 |   |
+| [`erediriva.it`](https://google.com/search?q=erediriva.it) | 02/05/2022 |   |
+| [`cwaengineers.co...`](https://google.com/search?q=cwaengineers.co...) | 02/05/2022 |   |
+| [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | 02/05/2022 |   |
+| [`vestas`](https://google.com/search?q=vestas) | 02/05/2022 |   |
+| [`ethiopianai`](https://google.com/search?q=ethiopianai) | 01/05/2022 |   |
+| [`card`](https://google.com/search?q=card) | 01/05/2022 |   |
+| [`zdgllc.com`](https://google.com/search?q=zdgllc.com) | 01/05/2022 |   |
+| [`smtuc.pt`](https://google.com/search?q=smtuc.pt) | 01/05/2022 |   |
+| [`orthopaedie-app...`](https://google.com/search?q=orthopaedie-app...) | 01/05/2022 |   |
+| [`sagefruit.com`](https://google.com/search?q=sagefruit.com) | 30/04/2022 |   |
+| [`p`](https://google.com/search?q=p) | 30/04/2022 |   |
+| [`hispanoamerican...`](https://google.com/search?q=hispanoamerican...) | 30/04/2022 |   |
+| [`7generations.or...`](https://google.com/search?q=7generations.or...) | 30/04/2022 |   |
+| [`w`](https://google.com/search?q=w) | 30/04/2022 |   |
+| [`brid`](https://google.com/search?q=brid) | 29/04/2022 |   |
+| [`remar.`](https://google.com/search?q=remar.) | 29/04/2022 |   |
+| [`watermarkbeachr`](https://google.com/search?q=watermarkbeachr) | 29/04/2022 |   |
+| [`bri`](https://google.com/search?q=bri) | 29/04/2022 |   |
+| [`hydromaxusa.com`](https://google.com/search?q=hydromaxusa.com) | 28/04/2022 |   |
+| [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | 28/04/2022 |   |
+| [`warrengibson.co...`](https://google.com/search?q=warrengibson.co...) | 27/04/2022 |   |
+| [`davislandscapel...`](https://google.com/search?q=davislandscapel...) | 27/04/2022 |   |
+| [`multimmobiliare...`](https://google.com/search?q=multimmobiliare...) | 25/04/2022 |   |
+| [`huesser.ch`](https://google.com/search?q=huesser.ch) | 25/04/2022 |   |
+| [`emucor.es`](https://google.com/search?q=emucor.es) | 25/04/2022 |   |
+| [`cronos.com.ar`](https://google.com/search?q=cronos.com.ar) | 25/04/2022 |   |
+| [`schriesheim.de`](https://google.com/search?q=schriesheim.de) | 25/04/2022 |   |
+| [`kdaponte.com`](https://google.com/search?q=kdaponte.com) | 24/04/2022 |   |
+| [`gp`](https://google.com/search?q=gp) | 24/04/2022 |   |
+| [`valoores.com`](https://google.com/search?q=valoores.com) | 23/04/2022 |   |
+| [`tigergroup.ae`](https://google.com/search?q=tigergroup.ae) | 23/04/2022 |   |
+| [`greenex`](https://google.com/search?q=greenex) | 23/04/2022 |   |
+| [`ccfsinc.com`](https://google.com/search?q=ccfsinc.com) | 23/04/2022 |   |
+| [`www.tigergroup....`](https://google.com/search?q=www.tigergroup....) | 23/04/2022 |   |
+| [`https://valoore...`](https://google.com/search?q=https%3A%2F%2Fvaloore...) | 23/04/2022 |   |
+| [`simplilearn.net`](https://google.com/search?q=simplilearn.net) | 22/04/2022 |   |
+| [`fazenda.rj.gov....`](https://google.com/search?q=fazenda.rj.gov....) | 22/04/2022 |   |
+| [`lifestylesoluti...`](https://google.com/search?q=lifestylesoluti...) | 22/04/2022 |   |
+| [`produitsneptune...`](https://google.com/search?q=produitsneptune...) | 22/04/2022 |   |
+| [`ekz.de`](https://google.com/search?q=ekz.de) | 22/04/2022 |   |
+| [`wilshire.com`](https://google.com/search?q=wilshire.com) | 22/04/2022 |   |
+| [`huntongroup.com`](https://google.com/search?q=huntongroup.com) | 22/04/2022 |   |
+| [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | 22/04/2022 |   |
+| [`incegd.com`](https://google.com/search?q=incegd.com) | 22/04/2022 |   |
+| [`tvothai.com`](https://google.com/search?q=tvothai.com) | 21/04/2022 |   |
+| [`asp.messina.it`](https://google.com/search?q=asp.messina.it) | 21/04/2022 |   |
+| [`breadt`](https://google.com/search?q=breadt) | 21/04/2022 |   |
+| [`baugeschaeft-bo...`](https://google.com/search?q=baugeschaeft-bo...) | 20/04/2022 |   |
+| [`DavislandscapeL...`](https://google.com/search?q=DavislandscapeL...) | 20/04/2022 |   |
+| [`lekise.com`](https://google.com/search?q=lekise.com) | 20/04/2022 |   |
+| [`MAGNAR-EIKELAND...`](https://google.com/search?q=MAGNAR-EIKELAND...) | 20/04/2022 |   |
+| [`ingesw.com`](https://google.com/search?q=ingesw.com) | 20/04/2022 |   |
+| [`compagniedephal...`](https://google.com/search?q=compagniedephal...) | 19/04/2022 |   |
+| [`reitzner.de`](https://google.com/search?q=reitzner.de) | 19/04/2022 |   |
+| [`procab.se`](https://google.com/search?q=procab.se) | 19/04/2022 |   |
+| [`keisei-const.jp`](https://google.com/search?q=keisei-const.jp) | 19/04/2022 |   |
+| [`jannone.it`](https://google.com/search?q=jannone.it) | 19/04/2022 |   |
+| [`groupe-corbat.c...`](https://google.com/search?q=groupe-corbat.c...) | 19/04/2022 |   |
+| [`daumar.com`](https://google.com/search?q=daumar.com) | 19/04/2022 |   |
+| [`tnmed.org`](https://google.com/search?q=tnmed.org) | 19/04/2022 |   |
+| [`ssi-steel.com`](https://google.com/search?q=ssi-steel.com) | 19/04/2022 |   |
+| [`rockportmusic`](https://google.com/search?q=rockportmusic) | 18/04/2022 |   |
+| [`gruppoathesis.i...`](https://google.com/search?q=gruppoathesis.i...) | 18/04/2022 |   |
+| [`kainz-haustechn.`](https://google.com/search?q=kainz-haustechn.) | 18/04/2022 |   |
+| [`ville-sa`](https://google.com/search?q=ville-sa) | 18/04/2022 |   |
+| [`inland-engineer...`](https://google.com/search?q=inland-engineer...) | 15/04/2022 |   |
+| [`http://inland-e...`](https://google.com/search?q=http%3A%2F%2Finland-e...) | 15/04/2022 |   |
+| [`enclosuresoluti...`](https://google.com/search?q=enclosuresoluti...) | 15/04/2022 |   |
+| [`museum-dingo`](https://google.com/search?q=museum-dingo) | 15/04/2022 |   |
+| [`verifiedlabel.c...`](https://google.com/search?q=verifiedlabel.c...) | 14/04/2022 |   |
+| [`cassinobuilding...`](https://google.com/search?q=cassinobuilding...) | 14/04/2022 |   |
+| [`mpm.fr`](https://google.com/search?q=mpm.fr) | 14/04/2022 |   |
+| [`soharportandfre...`](https://google.com/search?q=soharportandfre...) | 14/04/2022 |   |
+| [`radmangroup.com`](https://google.com/search?q=radmangroup.com) | 14/04/2022 |   |
+| [`kpcg.com.hk`](https://google.com/search?q=kpcg.com.hk) | 14/04/2022 |   |
+| [`cyberapex.com`](https://google.com/search?q=cyberapex.com) | 14/04/2022 |   |
+| [`polyplastics.co...`](https://google.com/search?q=polyplastics.co...) | 14/04/2022 |   |
+| [`www.verifiedlab...`](https://google.com/search?q=www.verifiedlab...) | 14/04/2022 |   |
+| [`www.mpm.fr`](https://google.com/search?q=www.mpm.fr) | 14/04/2022 |   |
+| [`www.cassinobuil...`](https://google.com/search?q=www.cassinobuil...) | 14/04/2022 |   |
+| [`tpdrug.com`](https://google.com/search?q=tpdrug.com) | 14/04/2022 |   |
+| [`heartlandhealth...`](https://google.com/search?q=heartlandhealth...) | 13/04/2022 |   |
+| [`applya.com`](https://google.com/search?q=applya.com) | 13/04/2022 |   |
+| [`get-greenenergy...`](https://google.com/search?q=get-greenenergy...) | 13/04/2022 |   |
+| [`northstari`](https://google.com/search?q=northstari) | 13/04/2022 |   |
+| [`inglotcosmetics...`](https://google.com/search?q=inglotcosmetics...) | 12/04/2022 |   |
+| [`breadtalk.com`](https://google.com/search?q=breadtalk.com) | 12/04/2022 |   |
+| [`lee-associate`](https://google.com/search?q=lee-associate) | 11/04/2022 |   |
+| [`azcomputerlabs....`](https://google.com/search?q=azcomputerlabs....) | 11/04/2022 |   |
+| [`tokyo-plant.co....`](https://google.com/search?q=tokyo-plant.co....) | 11/04/2022 |   |
+| [`ruthtaubman.com`](https://google.com/search?q=ruthtaubman.com) | 11/04/2022 |   |
+| [`lo`](https://google.com/search?q=lo) | 10/04/2022 |   |
+| [`groupemeunier.c...`](https://google.com/search?q=groupemeunier.c...) | 10/04/2022 |   |
+| [`farmaciastatuto...`](https://google.com/search?q=farmaciastatuto...) | 10/04/2022 |   |
+| [`lerros.com`](https://google.com/search?q=lerros.com) | 10/04/2022 |   |
+| [`www.farmaciasta...`](https://google.com/search?q=www.farmaciasta...) | 10/04/2022 |   |
+| [`spirit-ord.com`](https://google.com/search?q=spirit-ord.com) | 10/04/2022 |   |
+| [`l`](https://google.com/search?q=l) | 10/04/2022 |   |
+| [`sadeco.fr`](https://google.com/search?q=sadeco.fr) | 10/04/2022 |   |
+| [`https://groupem...`](https://google.com/search?q=https%3A%2F%2Fgroupem...) | 10/04/2022 |   |
+| [`clinique.cob-os...`](https://google.com/search?q=clinique.cob-os...) | 09/04/2022 |   |
+| [`anasia.co`](https://google.com/search?q=anasia.co) | 09/04/2022 |   |
+| [`ch1`](https://google.com/search?q=ch1) | 09/04/2022 |   |
+| [`ardeche.fr`](https://google.com/search?q=ardeche.fr) | 08/04/2022 |   |
+| [`rosagroup.com`](https://google.com/search?q=rosagroup.com) | 08/04/2022 |   |
+| [`genieroute.be`](https://google.com/search?q=genieroute.be) | 08/04/2022 |   |
+| [`tnt`](https://google.com/search?q=tnt) | 07/04/2022 |   |
+| [`unholz.ch`](https://google.com/search?q=unholz.ch) | 07/04/2022 |   |
+| [`feuerschutzbock...`](https://google.com/search?q=feuerschutzbock...) | 07/04/2022 |   |
+| [`get-entkernung....`](https://google.com/search?q=get-entkernung....) | 07/04/2022 |   |
+| [`wania.at`](https://google.com/search?q=wania.at) | 06/04/2022 |   |
+| [`toothbuds.com`](https://google.com/search?q=toothbuds.com) | 06/04/2022 |   |
+| [`rnrinc.com`](https://google.com/search?q=rnrinc.com) | 06/04/2022 |   |
+| [`www.wania.at`](https://google.com/search?q=www.wania.at) | 06/04/2022 |   |
+| [`www.rnrinc.com`](https://google.com/search?q=www.rnrinc.com) | 06/04/2022 |   |
+| [`vgoc.ca`](https://google.com/search?q=vgoc.ca) | 06/04/2022 |   |
+| [`http://www.toot...`](https://google.com/search?q=http%3A%2F%2Fwww.toot...) | 06/04/2022 |   |
+| [`allcountysurvey...`](https://google.com/search?q=allcountysurvey...) | 06/04/2022 |   |
+| [`gordoncounty.or...`](https://google.com/search?q=gordoncounty.or...) | 06/04/2022 |   |
+| [`scoular.com`](https://google.com/search?q=scoular.com) | 05/04/2022 |   |
+| [`ferrolabella`](https://google.com/search?q=ferrolabella) | 05/04/2022 |   |
+| [`westminster.de`](https://google.com/search?q=westminster.de) | 04/04/2022 |   |
+| [`sep2.com`](https://google.com/search?q=sep2.com) | 04/04/2022 |   |
+| [`noll-law.com`](https://google.com/search?q=noll-law.com) | 04/04/2022 |   |
+| [`gva-atencia.es`](https://google.com/search?q=gva-atencia.es) | 04/04/2022 |   |
+| [`ascotlloyd.co.u...`](https://google.com/search?q=ascotlloyd.co.u...) | 04/04/2022 |   |
+| [`a-r-s.com`](https://google.com/search?q=a-r-s.com) | 04/04/2022 |   |
+| [`n`](https://google.com/search?q=n) | 04/04/2022 |   |
+| [`wiegaarden.dk`](https://google.com/search?q=wiegaarden.dk) | 03/04/2022 |   |
+| [`remar.com.ec`](https://google.com/search?q=remar.com.ec) | 03/04/2022 |   |
+| [`nowiny`](https://google.com/search?q=nowiny) | 03/04/2022 |   |
+| [`oldenburgdeurbe...`](https://google.com/search?q=oldenburgdeurbe...) | 03/04/2022 |   |
+| [`centralban`](https://google.com/search?q=centralban) | 03/04/2022 |   |
+| [`greenexperts.co...`](https://google.com/search?q=greenexperts.co...) | 03/04/2022 |   |
+| [`eksltd.com`](https://google.com/search?q=eksltd.com) | 03/04/2022 |   |
+| [`fec-corp.com`](https://google.com/search?q=fec-corp.com) | 03/04/2022 |   |
+| [`bazzisrl.it`](https://google.com/search?q=bazzisrl.it) | 03/04/2022 |   |
+| [`ledesma.com.ar`](https://google.com/search?q=ledesma.com.ar) | 02/04/2022 |   |
+| [`liceu.barcelona`](https://google.com/search?q=liceu.barcelona) | 02/04/2022 |   |
+| [`https://liceu.b...`](https://google.com/search?q=https%3A%2F%2Fliceu.b...) | 01/04/2022 |   |
+| [`kssente`](https://google.com/search?q=kssente) | 01/04/2022 |   |
+| [`studiobrazzale....`](https://google.com/search?q=studiobrazzale....) | 31/03/2022 |   |
+| [`keypoint.com`](https://google.com/search?q=keypoint.com) | 31/03/2022 |   |
+| [`yachtcharterfle...`](https://google.com/search?q=yachtcharterfle...) | 31/03/2022 |   |
+| [`bafokengholding...`](https://google.com/search?q=bafokengholding...) | 31/03/2022 |   |
+| [`omalleytunstall...`](https://google.com/search?q=omalleytunstall...) | 31/03/2022 |   |
+| [`avcimmedia.com`](https://google.com/search?q=avcimmedia.com) | 30/03/2022 |   |
+| [`grupodeincendio...`](https://google.com/search?q=grupodeincendio...) | 30/03/2022 |   |
+| [`jlmsolicitors.c...`](https://google.com/search?q=jlmsolicitors.c...) | 30/03/2022 |   |
+| [`papierswhitebi`](https://google.com/search?q=papierswhitebi) | 30/03/2022 |   |
+| [`burlingtonsafet...`](https://google.com/search?q=burlingtonsafet...) | 30/03/2022 |   |
+| [`botswana`](https://google.com/search?q=botswana) | 30/03/2022 |   |
+| [`bcad.org`](https://google.com/search?q=bcad.org) | 30/03/2022 |   |
+| [`rebuildingt`](https://google.com/search?q=rebuildingt) | 30/03/2022 |   |
+| [`axessa.ch`](https://google.com/search?q=axessa.ch) | 29/03/2022 |   |
+| [`progettoedilesr...`](https://google.com/search?q=progettoedilesr...) | 28/03/2022 |   |
+| [`bro`](https://google.com/search?q=bro) | 28/03/2022 |   |
+| [`its.ws`](https://google.com/search?q=its.ws) | 28/03/2022 |   |
+| [`qarch.nl`](https://google.com/search?q=qarch.nl) | 28/03/2022 |   |
+| [`zentrum-dreilin...`](https://google.com/search?q=zentrum-dreilin...) | 28/03/2022 |   |
+| [`pirsonholland.c...`](https://google.com/search?q=pirsonholland.c...) | 27/03/2022 |   |
+| [`https://pirsonh...`](https://google.com/search?q=https%3A%2F%2Fpirsonh...) | 27/03/2022 |   |
+| [`girlguidingl`](https://google.com/search?q=girlguidingl) | 27/03/2022 |   |
+| [`comune.g`](https://google.com/search?q=comune.g) | 27/03/2022 |   |
+| [`aquazzura.`](https://google.com/search?q=aquazzura.) | 26/03/2022 |   |
+| [`aquazzura.co`](https://google.com/search?q=aquazzura.co) | 26/03/2022 |   |
+| [`microflex-servi...`](https://google.com/search?q=microflex-servi...) | 26/03/2022 |   |
+| [`centuryaluminum...`](https://google.com/search?q=centuryaluminum...) | 25/03/2022 |   |
+| [`ctigas.com`](https://google.com/search?q=ctigas.com) | 25/03/2022 |   |
+| [`https://century...`](https://google.com/search?q=https%3A%2F%2Fcentury...) | 25/03/2022 |   |
+| [`standard-furnit...`](https://google.com/search?q=standard-furnit...) | 25/03/2022 |   |
+| [`alaliengineerin...`](https://google.com/search?q=alaliengineerin...) | 25/03/2022 |   |
+| [`buffingtonl`](https://google.com/search?q=buffingtonl) | 24/03/2022 |   |
+| [`onedoc.ch/fr/ce...`](https://google.com/search?q=onedoc.ch%2Ffr%2Fce...) | 24/03/2022 |   |
+| [`stt-logistique....`](https://google.com/search?q=stt-logistique....) | 24/03/2022 |   |
+| [`guazzini.it`](https://google.com/search?q=guazzini.it) | 24/03/2022 |   |
+| [`japoauto.com`](https://google.com/search?q=japoauto.com) | 24/03/2022 |   |
+| [`serilization-se...`](https://google.com/search?q=serilization-se...) | 24/03/2022 |   |
+| [`ignitarium.com`](https://google.com/search?q=ignitarium.com) | 24/03/2022 |   |
+| [`redgwick.com`](https://google.com/search?q=redgwick.com) | 24/03/2022 |   |
+| [`intouchgroup.ne...`](https://google.com/search?q=intouchgroup.ne...) | 24/03/2022 |   |
+| [`credenceid.com`](https://google.com/search?q=credenceid.com) | 23/03/2022 |   |
+| [`confindustriaca...`](https://google.com/search?q=confindustriaca...) | 23/03/2022 |   |
+| [`crich.it`](https://google.com/search?q=crich.it) | 23/03/2022 |   |
+| [`avidoc.fr`](https://google.com/search?q=avidoc.fr) | 23/03/2022 |   |
+| [`lazpiur.com`](https://google.com/search?q=lazpiur.com) | 23/03/2022 |   |
+| [`edukgroup.com`](https://google.com/search?q=edukgroup.com) | 22/03/2022 |   |
+| [`ca.daiyafoods.c...`](https://google.com/search?q=ca.daiyafoods.c...) | 22/03/2022 |   |
+| [`apec-capital.co...`](https://google.com/search?q=apec-capital.co...) | 22/03/2022 |   |
+| [`sete.co.u`](https://google.com/search?q=sete.co.u) | 21/03/2022 |   |
+| [`ismea.it`](https://google.com/search?q=ismea.it) | 21/03/2022 |   |
+| [`tomlinsonelectr...`](https://google.com/search?q=tomlinsonelectr...) | 21/03/2022 |   |
+| [`chicagosteelgro...`](https://google.com/search?q=chicagosteelgro...) | 21/03/2022 |   |
+| [`zabel-group.de`](https://google.com/search?q=zabel-group.de) | 21/03/2022 |   |
+| [`STUDIO PEREGO S...`](https://google.com/search?q=STUDIO+PEREGO+S...) | 21/03/2022 |   |
+| [`rh-europe.com`](https://google.com/search?q=rh-europe.com) | 21/03/2022 |   |
+| [`onglesdor.com`](https://google.com/search?q=onglesdor.com) | 21/03/2022 |   |
+| [`besp-oak.com`](https://google.com/search?q=besp-oak.com) | 21/03/2022 |   |
+| [`bbst-clp.de`](https://google.com/search?q=bbst-clp.de) | 20/03/2022 |   |
+| [`museum-dingolfi...`](https://google.com/search?q=museum-dingolfi...) | 20/03/2022 |   |
+| [`meritresources`](https://google.com/search?q=meritresources) | 20/03/2022 |   |
+| [`danubius-exim.r...`](https://google.com/search?q=danubius-exim.r...) | 20/03/2022 |   |
+| [`connectcec.com`](https://google.com/search?q=connectcec.com) | 20/03/2022 |   |
+| [`pla-pumpen`](https://google.com/search?q=pla-pumpen) | 19/03/2022 |   |
+| [`denro.ca`](https://google.com/search?q=denro.ca) | 19/03/2022 |   |
+| [`jewelry.org.hk`](https://google.com/search?q=jewelry.org.hk) | 19/03/2022 |   |
+| [`dgordonlcswr.co...`](https://google.com/search?q=dgordonlcswr.co...) | 18/03/2022 |   |
+| [`kbkbcpa.com`](https://google.com/search?q=kbkbcpa.com) | 18/03/2022 |   |
+| [`centralaccident...`](https://google.com/search?q=centralaccident...) | 18/03/2022 |   |
+| [`megaproductos.c...`](https://google.com/search?q=megaproductos.c...) | 18/03/2022 |   |
+| [`solvi.com`](https://google.com/search?q=solvi.com) | 18/03/2022 |   |
+| [`kbkbcpa.com/`](https://google.com/search?q=kbkbcpa.com%2F) | 18/03/2022 |   |
+| [`genesis.ky`](https://google.com/search?q=genesis.ky) | 18/03/2022 |   |
+| [`draftex.de`](https://google.com/search?q=draftex.de) | 18/03/2022 |   |
+| [`www.centralacci...`](https://google.com/search?q=www.centralacci...) | 18/03/2022 |   |
+| [`gezairi.com`](https://google.com/search?q=gezairi.com) | 18/03/2022 |   |
+| [`ifis.com.sg`](https://google.com/search?q=ifis.com.sg) | 18/03/2022 |   |
+| [`thionvillenola....`](https://google.com/search?q=thionvillenola....) | 18/03/2022 |   |
+| [`montanarisrl.ne...`](https://google.com/search?q=montanarisrl.ne...) | 18/03/2022 |   |
+| [`finances.gouv.c...`](https://google.com/search?q=finances.gouv.c...) | 17/03/2022 |   |
+| [`hilltopconstruc...`](https://google.com/search?q=hilltopconstruc...) | 17/03/2022 |   |
+| [`aetnabridge.com`](https://google.com/search?q=aetnabridge.com) | 17/03/2022 |   |
+| [`specialinc.com`](https://google.com/search?q=specialinc.com) | 17/03/2022 |   |
+| [`lawsdn.com`](https://google.com/search?q=lawsdn.com) | 17/03/2022 |   |
+| [`ihg.com`](https://google.com/search?q=ihg.com) | 17/03/2022 |   |
+| [`rosslare.com.hk`](https://google.com/search?q=rosslare.com.hk) | 17/03/2022 |   |
+| [`sbctanzania.co....`](https://google.com/search?q=sbctanzania.co....) | 17/03/2022 |   |
+| [`vvrmc.org  Par...`](https://google.com/search?q=vvrmc.org+%7C+Par...) | 17/03/2022 |   |
+| [`www.onedoc.ch/f...`](https://google.com/search?q=www.onedoc.ch%2Ff...) | 17/03/2022 |   |
+| [`rebuildingtoget...`](https://google.com/search?q=rebuildingtoget...) | 17/03/2022 |   |
+| [`onedoc.ch/fr/ca...`](https://google.com/search?q=onedoc.ch%2Ffr%2Fca...) | 17/03/2022 |   |
+| [`comune.villafra...`](https://google.com/search?q=comune.villafra...) | 17/03/2022 |   |
+| [`drory.com.cn`](https://google.com/search?q=drory.com.cn) | 16/03/2022 |   |
+| [`taguefamilyprac...`](https://google.com/search?q=taguefamilyprac...) | 16/03/2022 |   |
+| [`www.comune.vill...`](https://google.com/search?q=www.comune.vill...) | 16/03/2022 |   |
+| [`www.rebuildingt...`](https://google.com/search?q=www.rebuildingt...) | 16/03/2022 |   |
+| [`matteolisrl.it`](https://google.com/search?q=matteolisrl.it) | 16/03/2022 |   |
+| [`vbsharma.ca`](https://google.com/search?q=vbsharma.ca) | 16/03/2022 |   |
+| [`medinadairy.co....`](https://google.com/search?q=medinadairy.co....) | 16/03/2022 |   |
+| [`mfi`](https://google.com/search?q=mfi) | 15/03/2022 |   |
+| [`f`](https://google.com/search?q=f) | 15/03/2022 |   |
+| [`snteseccion30sa..`](https://google.com/search?q=snteseccion30sa..) | 14/03/2022 |   |
+| [`etrps.de`](https://google.com/search?q=etrps.de) | 13/03/2022 |   |
+| [`danubiushotels....`](https://google.com/search?q=danubiushotels....) | 13/03/2022 |   |
+| [`ambujaneotia.co...`](https://google.com/search?q=ambujaneotia.co...) | 13/03/2022 |   |
+| [`ikk-group.com`](https://google.com/search?q=ikk-group.com) | 13/03/2022 |   |
+| [`scanvogn.com`](https://google.com/search?q=scanvogn.com) | 13/03/2022 |   |
+| [`snteseccion30sa...`](https://google.com/search?q=snteseccion30sa...) | 12/03/2022 |   |
+| [`etg.digital`](https://google.com/search?q=etg.digital) | 12/03/2022 |   |
+| [`cachibi.co`](https://google.com/search?q=cachibi.co) | 12/03/2022 |   |
+| [`orientalaromati...`](https://google.com/search?q=orientalaromati...) | 12/03/2022 |   |
+| [`ymcad`](https://google.com/search?q=ymcad) | 12/03/2022 |   |
+| [`sysmac.com.sg`](https://google.com/search?q=sysmac.com.sg) | 11/03/2022 |   |
+| [`weber-betonpump..`](https://google.com/search?q=weber-betonpump..) | 11/03/2022 |   |
+| [`tingtong.com.cn`](https://google.com/search?q=tingtong.com.cn) | 11/03/2022 |   |
+| [`bioskin.sg`](https://google.com/search?q=bioskin.sg) | 10/03/2022 |   |
+| [`fer`](https://google.com/search?q=fer) | 10/03/2022 |   |
+| [`bridgestoneamer...`](https://google.com/search?q=bridgestoneamer...) | 09/03/2022 |   |
+| [`hamm`](https://google.com/search?q=hamm) | 08/03/2022 |   |
+| [`stanthonys.slou...`](https://google.com/search?q=stanthonys.slou...) | 07/03/2022 |   |
+| [`jrichard-paysag...`](https://google.com/search?q=jrichard-paysag...) | 07/03/2022 |   |
+| [`brownsville-pub...`](https://google.com/search?q=brownsville-pub...) | 07/03/2022 |   |
+| [`luzeirosfortale.`](https://google.com/search?q=luzeirosfortale.) | 07/03/2022 |   |
+| [`abcp.or`](https://google.com/search?q=abcp.or) | 05/03/2022 |   |
+| [`freedomfarmspa....`](https://google.com/search?q=freedomfarmspa....) | 04/03/2022 |   |
+| [`tovogom`](https://google.com/search?q=tovogom) | 04/03/2022 |   |
+| [`simatelex.com.h...`](https://google.com/search?q=simatelex.com.h...) | 03/03/2022 |   |
+| [`sapulpaps.org`](https://google.com/search?q=sapulpaps.org) | 03/03/2022 |   |
+| [`tccm.com`](https://google.com/search?q=tccm.com) | 02/03/2022 |   |
+| [`wimmog.ch`](https://google.com/search?q=wimmog.ch) | 02/03/2022 |   |
+| [`haeny.com`](https://google.com/search?q=haeny.com) | 02/03/2022 |   |
+| [`elitecorp.com`](https://google.com/search?q=elitecorp.com) | 02/03/2022 |   |
+| [`www.tccm.com`](https://google.com/search?q=www.tccm.com) | 02/03/2022 |   |
+| [`www.haeny.com`](https://google.com/search?q=www.haeny.com) | 02/03/2022 |   |
+| [`www.elitecorp.c...`](https://google.com/search?q=www.elitecorp.c...) | 02/03/2022 |   |
+| [`www.wimmog.ch`](https://google.com/search?q=www.wimmog.ch) | 02/03/2022 |   |
+| [`wp`](https://google.com/search?q=wp) | 01/03/2022 |   |
+| [`e-fmc.com.ar`](https://google.com/search?q=e-fmc.com.ar) | 01/03/2022 |   |
+| [`ccli`](https://google.com/search?q=ccli) | 28/02/2022 |   |
+| [`safed.in`](https://google.com/search?q=safed.in) | 28/02/2022 |   |
+| [`jamailsmith.com`](https://google.com/search?q=jamailsmith.com) | 28/02/2022 |   |
+| [`lakeview.com`](https://google.com/search?q=lakeview.com) | 27/02/2022 |   |
+| [`richmondmonroe....`](https://google.com/search?q=richmondmonroe....) | 27/02/2022 |   |
+| [`us.jll.com`](https://google.com/search?q=us.jll.com) | 27/02/2022 |   |
+| [`ugcorp.com`](https://google.com/search?q=ugcorp.com) | 27/02/2022 |   |
+| [`WARNING`](https://google.com/search?q=WARNING) | 27/02/2022 |   |
+| [`cgm`](https://google.com/search?q=cgm) | 27/02/2022 |   |
+| [`ffnm.org`](https://google.com/search?q=ffnm.org) | 27/02/2022 |   |
+| [`chip`](https://google.com/search?q=chip) | 26/02/2022 |   |
+| [`giovana`](https://google.com/search?q=giovana) | 26/02/2022 |   |
+| [`giovanard`](https://google.com/search?q=giovanard) | 26/02/2022 |   |
+| [`fehrs.com`](https://google.com/search?q=fehrs.com) | 25/02/2022 |   |
+| [`dtstechnical.c`](https://google.com/search?q=dtstechnical.c) | 24/02/2022 |   |
+| [`m`](https://google.com/search?q=m) | 24/02/2022 |   |
+| [`verisilicon.co`](https://google.com/search?q=verisilicon.co) | 24/02/2022 |   |
+| [`lipinsk`](https://google.com/search?q=lipinsk) | 23/02/2022 |   |
+| [`stetsonexpo.`](https://google.com/search?q=stetsonexpo.) | 23/02/2022 |   |
+| [`blueocean.consu...`](https://google.com/search?q=blueocean.consu...) | 23/02/2022 |   |
+| [`trauma.lbg.ac.a...`](https://google.com/search?q=trauma.lbg.ac.a...) | 23/02/2022 |   |
+| [`komeg.de`](https://google.com/search?q=komeg.de) | 23/02/2022 |   |
+| [`photolitto.com`](https://google.com/search?q=photolitto.com) | 23/02/2022 |   |
+| [`groupe-sobotram...`](https://google.com/search?q=groupe-sobotram...) | 21/02/2022 |   |
+| [`gpvivienda.com`](https://google.com/search?q=gpvivienda.com) | 21/02/2022 |   |
+| [`weye`](https://google.com/search?q=weye) | 20/02/2022 |   |
+| [`bynx.com`](https://google.com/search?q=bynx.com) | 20/02/2022 |   |
+| [`partners.pia.be`](https://google.com/search?q=partners.pia.be) | 19/02/2022 |   |
+| [`maldegem.be`](https://google.com/search?q=maldegem.be) | 19/02/2022 |   |
+| [`strix.com`](https://google.com/search?q=strix.com) | 19/02/2022 |   |
+| [`plane.biz`](https://google.com/search?q=plane.biz) | 19/02/2022 |   |
+| [`centrictel.com`](https://google.com/search?q=centrictel.com) | 19/02/2022 |   |
+| [`asgcourtage.com`](https://google.com/search?q=asgcourtage.com) | 19/02/2022 |   |
+| [`taylorswindows....`](https://google.com/search?q=taylorswindows....) | 19/02/2022 |   |
+| [`oceantextile.dk`](https://google.com/search?q=oceantextile.dk) | 19/02/2022 |   |
+| [`brookledge.com`](https://google.com/search?q=brookledge.com) | 19/02/2022 |   |
+| [`centralia.edu`](https://google.com/search?q=centralia.edu) | 19/02/2022 |   |
+| [`pertusipastore....`](https://google.com/search?q=pertusipastore....) | 19/02/2022 |   |
+| [`kokuyocamlin.co...`](https://google.com/search?q=kokuyocamlin.co...) | 19/02/2022 |   |
+| [`sanvitale.ra.it`](https://google.com/search?q=sanvitale.ra.it) | 19/02/2022 |   |
+| [`botswanatourism...`](https://google.com/search?q=botswanatourism...) | 19/02/2022 |   |
+| [`enit.it`](https://google.com/search?q=enit.it) | 18/02/2022 |   |
+| [`codisel.com.mx`](https://google.com/search?q=codisel.com.mx) | 15/02/2022 |   |
+| [`beautyindustryg...`](https://google.com/search?q=beautyindustryg...) | 15/02/2022 |   |
+| [`hifly.aero`](https://google.com/search?q=hifly.aero) | 14/02/2022 |   |
+| [`pwma.org.hk`](https://google.com/search?q=pwma.org.hk) | 14/02/2022 |   |
+| [`ackmo.be`](https://google.com/search?q=ackmo.be) | 14/02/2022 |   |
+| [`o2fit.cl`](https://google.com/search?q=o2fit.cl) | 14/02/2022 |   |
+| [`sienaliteracy.o...`](https://google.com/search?q=sienaliteracy.o...) | 14/02/2022 |   |
+| [`meeuwesen.nl`](https://google.com/search?q=meeuwesen.nl) | 14/02/2022 |   |
+| [`trustinnews.pt`](https://google.com/search?q=trustinnews.pt) | 14/02/2022 |   |
+| [`wingsoft.it`](https://google.com/search?q=wingsoft.it) | 13/02/2022 |   |
+| [`cclint.com`](https://google.com/search?q=cclint.com) | 13/02/2022 |   |
+| [`rbhltd.com`](https://google.com/search?q=rbhltd.com) | 13/02/2022 |   |
+| [`zhulian.co.th`](https://google.com/search?q=zhulian.co.th) | 13/02/2022 |   |
+| [`i`](https://google.com/search?q=i) | 13/02/2022 |   |
+| [`gruges.com.mx`](https://google.com/search?q=gruges.com.mx) | 12/02/2022 |   |
+| [`idm-srl.it`](https://google.com/search?q=idm-srl.it) | 12/02/2022 |   |
+| [`ibasis.com`](https://google.com/search?q=ibasis.com) | 11/02/2022 |   |
+| [`cilent`](https://google.com/search?q=cilent) | 09/02/2022 |   |
+| [`ibasis.com  Pa...`](https://google.com/search?q=ibasis.com+%7C+Pa...) | 08/02/2022 |   |
+| [`aludesign.ro`](https://google.com/search?q=aludesign.ro) | 08/02/2022 |   |
+| [`skandia.com.mx`](https://google.com/search?q=skandia.com.mx) | 08/02/2022 |   |
+| [`tntorello.com`](https://google.com/search?q=tntorello.com) | 08/02/2022 |   |
+| [`tntorello.com -...`](https://google.com/search?q=tntorello.com+-...) | 08/02/2022 |   |
+| [`bayer.co.at`](https://google.com/search?q=bayer.co.at) | 07/02/2022 |   |
+| [`sapulpaps.com`](https://google.com/search?q=sapulpaps.com) | 06/02/2022 |   |
+| [`se.`](https://google.com/search?q=se.) | 06/02/2022 |   |
+| [`watermark`](https://google.com/search?q=watermark) | 06/02/2022 |   |
+| [`tyresolesdobras...`](https://google.com/search?q=tyresolesdobras...) | 05/02/2022 |   |
+| [`kainz-haustechn...`](https://google.com/search?q=kainz-haustechn...) | 05/02/2022 |   |
+| [`aisc-airbus.`](https://google.com/search?q=aisc-airbus.) | 05/02/2022 |   |
+| [`dap.gov.tr`](https://google.com/search?q=dap.gov.tr) | 05/02/2022 |   |
+| [`botafogo.ind.br`](https://google.com/search?q=botafogo.ind.br) | 04/02/2022 |   |
+| [`prefimetal.com`](https://google.com/search?q=prefimetal.com) | 04/02/2022 |   |
+| [`COFRAP ESPAÑOLA...`](https://google.com/search?q=COFRAP+ESPA%C3%91OLA...) | 04/02/2022 |   |
+| [`progereal.com`](https://google.com/search?q=progereal.com) | 04/02/2022 |   |
+| [`castro-urdiales...`](https://google.com/search?q=castro-urdiales...) | 04/02/2022 |   |
+| [`cometgroup`](https://google.com/search?q=cometgroup) | 04/02/2022 |   |
+| [`hotelcedres.com`](https://google.com/search?q=hotelcedres.com) | 04/02/2022 |   |
+| [`maisonlaprise.c.`](https://google.com/search?q=maisonlaprise.c.) | 04/02/2022 |   |
+| [`bar2.co.uk`](https://google.com/search?q=bar2.co.uk) | 04/02/2022 |   |
+| [`ametisfacilitie...`](https://google.com/search?q=ametisfacilitie...) | 04/02/2022 |   |
+| [`ukrl.co.uk`](https://google.com/search?q=ukrl.co.uk) | 04/02/2022 |   |
+| [`dectro.com`](https://google.com/search?q=dectro.com) | 04/02/2022 |   |
+| [`savonia.fi`](https://google.com/search?q=savonia.fi) | 04/02/2022 |   |
+| [`rabba`](https://google.com/search?q=rabba) | 04/02/2022 |   |
+| [`Ourense do Bras...`](https://google.com/search?q=Ourense+do+Bras...) | 04/02/2022 |   |
+| [`siamdial.com`](https://google.com/search?q=siamdial.com) | 04/02/2022 |   |
+| [`nfcaa.org`](https://google.com/search?q=nfcaa.org) | 04/02/2022 |   |
+| [`fivestarproduct...`](https://google.com/search?q=fivestarproduct...) | 04/02/2022 |   |
+| [`udmercy.edu`](https://google.com/search?q=udmercy.edu) | 04/02/2022 |   |
+| [`paybito.com`](https://google.com/search?q=paybito.com) | 03/02/2022 |   |
+| [`wolfbergal`](https://google.com/search?q=wolfbergal) | 02/02/2022 |   |
+| [`ci.hercules.ca....`](https://google.com/search?q=ci.hercules.ca....) | 01/02/2022 |   |
+| [`elmonterv.com`](https://google.com/search?q=elmonterv.com) | 27/01/2022 |   |
+| [`estpm.fr`](https://google.com/search?q=estpm.fr) | 27/01/2022 |   |
+| [`girlguidinglase...`](https://google.com/search?q=girlguidinglase...) | 27/01/2022 |   |
+| [`justice.fr`](https://google.com/search?q=justice.fr) | 27/01/2022 |   |
+| [`heubeck.de`](https://google.com/search?q=heubeck.de) | 27/01/2022 |   |
+| [`saintcloud.fr`](https://google.com/search?q=saintcloud.fr) | 27/01/2022 |   |
+| [`joda.de`](https://google.com/search?q=joda.de) | 27/01/2022 |   |
+| [`ambau-team.de`](https://google.com/search?q=ambau-team.de) | 27/01/2022 |   |
+| [`laponte.it`](https://google.com/search?q=laponte.it) | 27/01/2022 |   |
+| [`vbhlaw.com`](https://google.com/search?q=vbhlaw.com) | 27/01/2022 |   |
+| [`isnardi.it`](https://google.com/search?q=isnardi.it) | 27/01/2022 |   |
+| [`optimissa.com`](https://google.com/search?q=optimissa.com) | 27/01/2022 |   |
+| [`plainviewmn.com`](https://google.com/search?q=plainviewmn.com) | 25/01/2022 |   |
+| [`mfkmakina.com`](https://google.com/search?q=mfkmakina.com) | 24/01/2022 |   |
+| [`kentkonut.com.t...`](https://google.com/search?q=kentkonut.com.t...) | 24/01/2022 |   |
+| [`peabo`](https://google.com/search?q=peabo) | 23/01/2022 |   |
+| [`bagbyelevator.c...`](https://google.com/search?q=bagbyelevator.c...) | 23/01/2022 |   |
+| [`r`](https://google.com/search?q=r) | 22/01/2022 |   |
+| [`onlinesalespro....`](https://google.com/search?q=onlinesalespro....) | 21/01/2022 |   |
+| [`efile.com`](https://google.com/search?q=efile.com) | 21/01/2022 |   |
+| [`ged`](https://google.com/search?q=ged) | 20/01/2022 |   |
+| [`bayview.com`](https://google.com/search?q=bayview.com) | 20/01/2022 |   |
+| [`roemer-lueftung.`](https://google.com/search?q=roemer-lueftung.) | 20/01/2022 |   |
+| [`harrisshelton.c...`](https://google.com/search?q=harrisshelton.c...) | 19/01/2022 |   |
+| [`izo.es`](https://google.com/search?q=izo.es) | 19/01/2022 |   |
+| [`bannerbuzz.com`](https://google.com/search?q=bannerbuzz.com) | 18/01/2022 |   |
+| [`huntsville4rent...`](https://google.com/search?q=huntsville4rent...) | 18/01/2022 |   |
+| [`centralbankfl.c...`](https://google.com/search?q=centralbankfl.c...) | 16/01/2022 |   |
+| [`khattarlaw.com`](https://google.com/search?q=khattarlaw.com) | 15/01/2022 |   |
+| [`fairnessforall....`](https://google.com/search?q=fairnessforall....) | 15/01/2022 |   |
+| [`supersave.ca`](https://google.com/search?q=supersave.ca) | 12/01/2022 |   |
+| [`northsideplumbi...`](https://google.com/search?q=northsideplumbi...) | 10/01/2022 |   |
+| [`bernheim.org`](https://google.com/search?q=bernheim.org) | 10/01/2022 |   |
+| [`amerplumb.com`](https://google.com/search?q=amerplumb.com) | 10/01/2022 |   |
+| [`torann-france.f...`](https://google.com/search?q=torann-france.f...) | 10/01/2022 |   |
+| [`securiteassuran...`](https://google.com/search?q=securiteassuran...) | 10/01/2022 |   |
+| [`focusadventure....`](https://google.com/search?q=focusadventure....) | 08/01/2022 |   |
+| [`giovanardi.it`](https://google.com/search?q=giovanardi.it) | 08/01/2022 |   |
+| [`owenscaroli`](https://google.com/search?q=owenscaroli) | 08/01/2022 |   |
+| [`mcsmorandi.com`](https://google.com/search?q=mcsmorandi.com) | 07/01/2022 |   |
+| [`chervongroup.co...`](https://google.com/search?q=chervongroup.co...) | 07/01/2022 |   |
+| [`cbibanks.com`](https://google.com/search?q=cbibanks.com) | 07/01/2022 |   |
+| [`salesiancollege...`](https://google.com/search?q=salesiancollege...) | 07/01/2022 |   |
+| [`bricofer.it`](https://google.com/search?q=bricofer.it) | 05/01/2022 |   |
+| [`atsair.com`](https://google.com/search?q=atsair.com) | 04/01/2022 |   |
+| [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | 03/01/2022 |   |
+| [`empireins.com`](https://google.com/search?q=empireins.com) | 01/01/2022 |   |
+| [`aulss6.veneto.i...`](https://google.com/search?q=aulss6.veneto.i...) | 01/01/2022 |   |
+| [`lee-associates....`](https://google.com/search?q=lee-associates....) | 31/12/2021 |   |
+| [`independentprin...`](https://google.com/search?q=independentprin...) | 30/12/2021 |   |
+| [`https://www.lee...`](https://google.com/search?q=https%3A%2F%2Fwww.lee...) | 30/12/2021 |   |
+| [`rightsys.com`](https://google.com/search?q=rightsys.com) | 30/12/2021 |   |
+| [`grupomakler.com`](https://google.com/search?q=grupomakler.com) | 30/12/2021 |   |
+| [`smiimaging.com`](https://google.com/search?q=smiimaging.com) | 25/12/2021 |   |
+| [`riverhead.net`](https://google.com/search?q=riverhead.net) | 25/12/2021 |   |
+| [`cgm.com`](https://google.com/search?q=cgm.com) | 25/12/2021 |   |
+| [`lozzaspa.it`](https://google.com/search?q=lozzaspa.it) | 24/12/2021 |   |
+| [`sintesiautomoti...`](https://google.com/search?q=sintesiautomoti...) | 24/12/2021 |   |
+| [`cbjblawfirm.com`](https://google.com/search?q=cbjblawfirm.com) | 24/12/2021 |   |
+| [`burgsimpson.com`](https://google.com/search?q=burgsimpson.com) | 23/12/2021 |   |
+| [`atskorea.co.kr`](https://google.com/search?q=atskorea.co.kr) | 22/12/2021 |   |
+| [`pestbusters.com...`](https://google.com/search?q=pestbusters.com...) | 22/12/2021 |   |
+| [`hajery.com`](https://google.com/search?q=hajery.com) | 21/12/2021 |   |
+| [`www.hajery.com`](https://google.com/search?q=www.hajery.com) | 21/12/2021 |   |
+| [`maibroker.com`](https://google.com/search?q=maibroker.com) | 21/12/2021 |   |
+| [`www.maibroker.c...`](https://google.com/search?q=www.maibroker.c...) | 21/12/2021 |   |
+| [`lipinskilogging...`](https://google.com/search?q=lipinskilogging...) | 21/12/2021 |   |
+| [`dcashpro.com`](https://google.com/search?q=dcashpro.com) | 21/12/2021 |   |
+| [`piolax.co.th`](https://google.com/search?q=piolax.co.th) | 21/12/2021 |   |
+| [`urbandevelop.co...`](https://google.com/search?q=urbandevelop.co...) | 21/12/2021 |   |
+| [`cunninghamgolfc...`](https://google.com/search?q=cunninghamgolfc...) | 18/12/2021 |   |
+| [`baa.legal`](https://google.com/search?q=baa.legal) | 18/12/2021 |   |
+| [`skinnertrans.co...`](https://google.com/search?q=skinnertrans.co...) | 18/12/2021 |   |
+| [`boxmarche.it`](https://google.com/search?q=boxmarche.it) | 15/12/2021 |   |
+| [`vipsmotel.it`](https://google.com/search?q=vipsmotel.it) | 15/12/2021 |   |
+| [`hsisensing.com`](https://google.com/search?q=hsisensing.com) | 14/12/2021 |   |
+| [`rbauction.com`](https://google.com/search?q=rbauction.com) | 11/12/2021 |   |
+| [`masselin.com`](https://google.com/search?q=masselin.com) | 11/12/2021 |   |
+| [`tamerholding.co...`](https://google.com/search?q=tamerholding.co...) | 10/12/2021 |   |
+| [`robroelaw.com`](https://google.com/search?q=robroelaw.com) | 10/12/2021 |   |
+| [`se.com`](https://google.com/search?q=se.com) | 09/12/2021 |   |
+| [`volkswind.de`](https://google.com/search?q=volkswind.de) | 09/12/2021 |   |
+| [`ducab.com`](https://google.com/search?q=ducab.com) | 09/12/2021 |   |
+| [`continuumenergy...`](https://google.com/search?q=continuumenergy...) | 09/12/2021 |   |
+| [`mswood.ba`](https://google.com/search?q=mswood.ba) | 09/12/2021 |   |
+| [`bsm.upf.edu`](https://google.com/search?q=bsm.upf.edu) | 09/12/2021 |   |
+| [`kssenterprises....`](https://google.com/search?q=kssenterprises....) | 09/12/2021 |   |
+| [`clubpilates.com`](https://google.com/search?q=clubpilates.com) | 09/12/2021 |   |
+| [`northstarice.co...`](https://google.com/search?q=northstarice.co...) | 09/12/2021 |   |
+| [`inperium.org`](https://google.com/search?q=inperium.org) | 09/12/2021 |   |
+| [`apexbrasil.com....`](https://google.com/search?q=apexbrasil.com....) | 09/12/2021 |   |
+| [`proximitysystem...`](https://google.com/search?q=proximitysystem...) | 09/12/2021 |   |
+| [`g1group.co.uk`](https://google.com/search?q=g1group.co.uk) | 09/12/2021 |   |
+| [`pacifichills.co...`](https://google.com/search?q=pacifichills.co...) | 09/12/2021 |   |
+| [`roemer-lueftung...`](https://google.com/search?q=roemer-lueftung...) | 08/12/2021 |   |
+| [`nowiny.pl`](https://google.com/search?q=nowiny.pl) | 08/12/2021 |   |
+| [`atlas.in`](https://google.com/search?q=atlas.in) | 08/12/2021 |   |
+| [`psmportraits.co...`](https://google.com/search?q=psmportraits.co...) | 08/12/2021 |   |
+| [`murrayscheese.c...`](https://google.com/search?q=murrayscheese.c...) | 08/12/2021 |   |
+| [`prairiesedgecas...`](https://google.com/search?q=prairiesedgecas...) | 08/12/2021 |   |
+| [`vestas.com`](https://google.com/search?q=vestas.com) | 08/12/2021 |   |
+| [`ytlcement.com`](https://google.com/search?q=ytlcement.com) | 08/12/2021 |   |
+| [`caudillseed.com`](https://google.com/search?q=caudillseed.com) | 08/12/2021 |   |
+| [`kerrylogistics....`](https://google.com/search?q=kerrylogistics....) | 08/12/2021 |   |
+| [`hp.icon-institu...`](https://google.com/search?q=hp.icon-institu...) | 08/12/2021 |   |
+| [`fr.shop-orchest...`](https://google.com/search?q=fr.shop-orchest...) | 08/12/2021 |   |
+| [`comark.ca`](https://google.com/search?q=comark.ca) | 08/12/2021 |   |
+| [`travel-general....`](https://google.com/search?q=travel-general....) | 02/12/2021 |   |
+| [`mainstreamdata....`](https://google.com/search?q=mainstreamdata....) | 02/12/2021 |   |
+| [`summit-christia...`](https://google.com/search?q=summit-christia...) | 01/12/2021 |   |
+| [`kenwal.com`](https://google.com/search?q=kenwal.com) | 30/11/2021 |   |
+| [`totalfire.biz`](https://google.com/search?q=totalfire.biz) | 29/11/2021 |   |
+| [`callay.com.tr`](https://google.com/search?q=callay.com.tr) | 29/11/2021 |   |
+| [`dlb.it`](https://google.com/search?q=dlb.it) | 29/11/2021 |   |
+| [`telepro.com.mx`](https://google.com/search?q=telepro.com.mx) | 27/11/2021 |   |
+| [`effectual.com`](https://google.com/search?q=effectual.com) | 27/11/2021 |   |
+| [`hsvgroup.talent...`](https://google.com/search?q=hsvgroup.talent...) | 27/11/2021 |   |
+| [`nextech-asia.co...`](https://google.com/search?q=nextech-asia.co...) | 27/11/2021 |   |
+| [`lenzcontractors...`](https://google.com/search?q=lenzcontractors...) | 26/11/2021 |   |
+| [`iveqi.com`](https://google.com/search?q=iveqi.com) | 26/11/2021 |   |
+| [`inlad.com`](https://google.com/search?q=inlad.com) | 26/11/2021 |   |
+| [`vicksburgha.org`](https://google.com/search?q=vicksburgha.org) | 25/11/2021 |   |
+| [`ardebolassessor...`](https://google.com/search?q=ardebolassessor...) | 25/11/2021 |   |
+| [`IVEQI.Com`](https://google.com/search?q=IVEQI.Com) | 25/11/2021 |   |
+| [`mpusd.net`](https://google.com/search?q=mpusd.net) | 25/11/2021 |   |
+| [`atlas.ind.br`](https://google.com/search?q=atlas.ind.br) | 24/11/2021 |   |
+| [`lawrencegroup.n...`](https://google.com/search?q=lawrencegroup.n...) | 24/11/2021 |   |
+| [`jurelus.de`](https://google.com/search?q=jurelus.de) | 24/11/2021 |   |
+| [`mtradeasia.com`](https://google.com/search?q=mtradeasia.com) | 23/11/2021 |   |
+| [`centerspacehome...`](https://google.com/search?q=centerspacehome...) | 23/11/2021 |   |
+| [`fluidsealingpro...`](https://google.com/search?q=fluidsealingpro...) | 22/11/2021 |   |
+| [`planters-oil.ne...`](https://google.com/search?q=planters-oil.ne...) | 22/11/2021 |   |
+| [`kankakeetitle.c...`](https://google.com/search?q=kankakeetitle.c...) | 22/11/2021 |   |
+| [`wnrllc.com`](https://google.com/search?q=wnrllc.com) | 22/11/2021 |   |
+| [`roteritaly.com`](https://google.com/search?q=roteritaly.com) | 22/11/2021 |   |
+| [`mecfond.com`](https://google.com/search?q=mecfond.com) | 22/11/2021 |   |
+| [`systematicatec....`](https://google.com/search?q=systematicatec....) | 21/11/2021 |   |
+| [`siix.co.jp`](https://google.com/search?q=siix.co.jp) | 21/11/2021 |   |
+| [`telemovil.com.s...`](https://google.com/search?q=telemovil.com.s...) | 21/11/2021 |   |
+| [`evans.co.id`](https://google.com/search?q=evans.co.id) | 21/11/2021 |   |
+| [`consortiumlegal...`](https://google.com/search?q=consortiumlegal...) | 21/11/2021 |   |
+| [`apower.com.sg`](https://google.com/search?q=apower.com.sg) | 20/11/2021 |   |
+| [`a1ssi.com`](https://google.com/search?q=a1ssi.com) | 19/11/2021 |   |
+| [`duncandisabilit...`](https://google.com/search?q=duncandisabilit...) | 19/11/2021 |   |
+| [`ipbridge.co.jp`](https://google.com/search?q=ipbridge.co.jp) | 17/11/2021 |   |
+| [`hanshin-dp.co.j...`](https://google.com/search?q=hanshin-dp.co.j...) | 17/11/2021 |   |
+| [`peschl-ultravio...`](https://google.com/search?q=peschl-ultravio...) | 17/11/2021 |   |
+| [`reiss-beck.de`](https://google.com/search?q=reiss-beck.de) | 17/11/2021 |   |
+| [`btc-alpha.com`](https://google.com/search?q=btc-alpha.com) | 17/11/2021 |   |
+| [`royole.com`](https://google.com/search?q=royole.com) | 17/11/2021 |   |
+| [`essextec.com`](https://google.com/search?q=essextec.com) | 16/11/2021 |   |
+| [`pkf.com.au`](https://google.com/search?q=pkf.com.au) | 16/11/2021 |   |
+| [`cloudpros.com`](https://google.com/search?q=cloudpros.com) | 15/11/2021 |   |
+| [`era.org.uk`](https://google.com/search?q=era.org.uk) | 13/11/2021 |   |
+| [`mfitexas.com`](https://google.com/search?q=mfitexas.com) | 13/11/2021 |   |
+| [`bsg-llp.com`](https://google.com/search?q=bsg-llp.com) | 12/11/2021 |   |
+| [`barfieldinc.com`](https://google.com/search?q=barfieldinc.com) | 12/11/2021 |   |
+| [`http://bsg-llp....`](https://google.com/search?q=http%3A%2F%2Fbsg-llp....) | 12/11/2021 |   |
+| [`rintal.com`](https://google.com/search?q=rintal.com) | 12/11/2021 |   |
+| [`daviscrump.com`](https://google.com/search?q=daviscrump.com) | 10/11/2021 |   |
+| [`ideaitaliausa.c...`](https://google.com/search?q=ideaitaliausa.c...) | 10/11/2021 |   |
+| [`home.hktdc.com`](https://google.com/search?q=home.hktdc.com) | 10/11/2021 |   |
+| [`cardigos.com`](https://google.com/search?q=cardigos.com) | 10/11/2021 |   |
+| [`comfacundi.com....`](https://google.com/search?q=comfacundi.com....) | 10/11/2021 |   |
+| [`thinkcaspian.co...`](https://google.com/search?q=thinkcaspian.co...) | 10/11/2021 |   |
+| [`betsaisonparago...`](https://google.com/search?q=betsaisonparago...) | 09/11/2021 |   |
+| [`breslowstarling...`](https://google.com/search?q=breslowstarling...) | 09/11/2021 |   |
+| [`abvalve.com`](https://google.com/search?q=abvalve.com) | 09/11/2021 |   |
+| [`transaher.es Pa...`](https://google.com/search?q=transaher.es+Pa...) | 09/11/2021 |   |
+| [`gunninglafazia....`](https://google.com/search?q=gunninglafazia....) | 09/11/2021 |   |
+| [`evolvedevelopme...`](https://google.com/search?q=evolvedevelopme...) | 09/11/2021 |   |
+| [`cool-pak.com`](https://google.com/search?q=cool-pak.com) | 08/11/2021 |   |
+| [`abiom.nl`](https://google.com/search?q=abiom.nl) | 08/11/2021 |   |
+| [`eberlesrl.com`](https://google.com/search?q=eberlesrl.com) | 07/11/2021 |   |
+| [`Royale.co.uk`](https://google.com/search?q=Royale.co.uk) | 07/11/2021 |   |
+| [`chatrium.com`](https://google.com/search?q=chatrium.com) | 07/11/2021 |   |
+| [`nurihiko.co.jp`](https://google.com/search?q=nurihiko.co.jp) | 06/11/2021 |   |
+| [`eban.com`](https://google.com/search?q=eban.com) | 06/11/2021 |   |
+| [`cilentospa.it`](https://google.com/search?q=cilentospa.it) | 06/11/2021 |   |
+| [`autolaundrysyst...`](https://google.com/search?q=autolaundrysyst...) | 06/11/2021 |   |
+| [`besttaxfiler.co...`](https://google.com/search?q=besttaxfiler.co...) | 06/11/2021 |   |
+| [`rttax.com`](https://google.com/search?q=rttax.com) | 06/11/2021 |   |
+| [`interfor.com`](https://google.com/search?q=interfor.com) | 06/11/2021 |   |
+| [`mcmanislaw.com`](https://google.com/search?q=mcmanislaw.com) | 06/11/2021 |   |
+| [`owenscarolina.c...`](https://google.com/search?q=owenscarolina.c...) | 06/11/2021 |   |
+| [`trueblueenviron...`](https://google.com/search?q=trueblueenviron...) | 06/11/2021 |   |
+| [`mym.com.pe`](https://google.com/search?q=mym.com.pe) | 06/11/2021 |   |
+| [`optimumdesign.c...`](https://google.com/search?q=optimumdesign.c...) | 06/11/2021 |   |
+| [`arrowheadadvanc...`](https://google.com/search?q=arrowheadadvanc...) | 06/11/2021 |   |
+| [`fandi.fr`](https://google.com/search?q=fandi.fr) | 06/11/2021 |   |
+| [`logistia.com`](https://google.com/search?q=logistia.com) | 06/11/2021 |   |
+| [`cepimanagement....`](https://google.com/search?q=cepimanagement....) | 06/11/2021 |   |
+| [`waveridernurser...`](https://google.com/search?q=waveridernurser...) | 06/11/2021 |   |
+| [`waclighting.com`](https://google.com/search?q=waclighting.com) | 06/11/2021 |   |
+| [`plumascounty.us`](https://google.com/search?q=plumascounty.us) | 06/11/2021 |   |
+| [`groweeisen.com`](https://google.com/search?q=groweeisen.com) | 04/11/2021 |   |
+| [`tornel.com.mx`](https://google.com/search?q=tornel.com.mx) | 02/11/2021 |   |
+| [`gvalue.com`](https://google.com/search?q=gvalue.com) | 02/11/2021 |   |
+| [`wpdn.net`](https://google.com/search?q=wpdn.net) | 02/11/2021 |   |
+| [`dtstechnical.ca`](https://google.com/search?q=dtstechnical.ca) | 02/11/2021 |   |
+| [`immodelaet.be`](https://google.com/search?q=immodelaet.be) | 01/11/2021 |   |
+| [`bdtaid.com`](https://google.com/search?q=bdtaid.com) | 01/11/2021 |   |
+| [`morganskenderia...`](https://google.com/search?q=morganskenderia...) | 01/11/2021 |   |
+| [`https://gvalue....`](https://google.com/search?q=https%3A%2F%2Fgvalue....) | 01/11/2021 |   |
+| [`comune.gonzaga....`](https://google.com/search?q=comune.gonzaga....) | 01/11/2021 |   |
+| [`promo.parker.co...`](https://google.com/search?q=promo.parker.co...) | 01/11/2021 |   |
+| [`www.radium.com....`](https://google.com/search?q=www.radium.com....) | 01/11/2021 |   |
+| [`logcabinhomes.c...`](https://google.com/search?q=logcabinhomes.c...) | 31/10/2021 |   |
+| [`logi-cv.com`](https://google.com/search?q=logi-cv.com) | 30/10/2021 |   |
+| [`rijeka-airport....`](https://google.com/search?q=rijeka-airport....) | 29/10/2021 |   |
+| [`amina-treuhand....`](https://google.com/search?q=amina-treuhand....) | 28/10/2021 |   |
+| [`psomagen.com`](https://google.com/search?q=psomagen.com) | 28/10/2021 |   |
+| [`parkhotel.mk`](https://google.com/search?q=parkhotel.mk) | 28/10/2021 |   |
+| [`roadrebel.com`](https://google.com/search?q=roadrebel.com) | 28/10/2021 |   |
+| [`katzmanproduce....`](https://google.com/search?q=katzmanproduce....) | 28/10/2021 |   |
+| [`pandol.com`](https://google.com/search?q=pandol.com) | 28/10/2021 |   |
+| [`www.parkhotel.m...`](https://google.com/search?q=www.parkhotel.m...) | 28/10/2021 |   |
+| [`stehimpuls.de`](https://google.com/search?q=stehimpuls.de) | 28/10/2021 |   |
+| [`www.psomagen.co...`](https://google.com/search?q=www.psomagen.co...) | 28/10/2021 |   |
+| [`movingstation.c...`](https://google.com/search?q=movingstation.c...) | 28/10/2021 |   |
+| [`http://www.movi...`](https://google.com/search?q=http%3A%2F%2Fwww.movi...) | 27/10/2021 |   |
+| [`tedia.com`](https://google.com/search?q=tedia.com) | 27/10/2021 |   |
+| [`lawyersforemplo...`](https://google.com/search?q=lawyersforemplo...) | 27/10/2021 |   |
+| [`ville-saintaffr...`](https://google.com/search?q=ville-saintaffr...) | 26/10/2021 |   |
+| [`le-inc.com`](https://google.com/search?q=le-inc.com) | 26/10/2021 |   |
+| [`idline.fr`](https://google.com/search?q=idline.fr) | 26/10/2021 |   |
+| [`dunndev.com`](https://google.com/search?q=dunndev.com) | 26/10/2021 |   |
+| [`https://ville-s...`](https://google.com/search?q=https%3A%2F%2Fville-s...) | 26/10/2021 |   |
+| [`laserexcel.com`](https://google.com/search?q=laserexcel.com) | 26/10/2021 |   |
+| [`mediacrush.co.i...`](https://google.com/search?q=mediacrush.co.i...) | 25/10/2021 |   |
+| [`cti.group`](https://google.com/search?q=cti.group) | 25/10/2021 |   |
+| [`delete`](https://google.com/search?q=delete) | 25/10/2021 |   |
+| [`https://www.cti...`](https://google.com/search?q=https%3A%2F%2Fwww.cti...) | 25/10/2021 |   |
+| [`https://www.med...`](https://google.com/search?q=https%3A%2F%2Fwww.med...) | 25/10/2021 |   |
+| [`galaxybuilders....`](https://google.com/search?q=galaxybuilders....) | 24/10/2021 |   |
+| [`rockportmusic.o...`](https://google.com/search?q=rockportmusic.o...) | 24/10/2021 |   |
+| [`madejwrobel.pl`](https://google.com/search?q=madejwrobel.pl) | 23/10/2021 |   |
+| [`datastorageip.c...`](https://google.com/search?q=datastorageip.c...) | 22/10/2021 |   |
+| [`srstlaw.com`](https://google.com/search?q=srstlaw.com) | 22/10/2021 |   |
+| [`wnj.com`](https://google.com/search?q=wnj.com) | 22/10/2021 |   |
+| [`selinigroup.it`](https://google.com/search?q=selinigroup.it) | 22/10/2021 |   |
+| [`www.datastorage...`](https://google.com/search?q=www.datastorage...) | 22/10/2021 |   |
+| [`urbis.com.hk`](https://google.com/search?q=urbis.com.hk) | 21/10/2021 |   |
+| [`continentalcoun...`](https://google.com/search?q=continentalcoun...) | 21/10/2021 |   |
+| [`meritresources....`](https://google.com/search?q=meritresources....) | 21/10/2021 |   |
+| [`groeflinag.ch`](https://google.com/search?q=groeflinag.ch) | 21/10/2021 |   |
+| [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | 21/10/2021 |   |
+| [`bataviacontaine...`](https://google.com/search?q=bataviacontaine...) | 21/10/2021 |   |
+| [`https://www.pea...`](https://google.com/search?q=https%3A%2F%2Fwww.pea...) | 21/10/2021 |   |
+| [`https://www.mer...`](https://google.com/search?q=https%3A%2F%2Fwww.mer...) | 21/10/2021 |   |
+| [`https://www.gro...`](https://google.com/search?q=https%3A%2F%2Fwww.gro...) | 21/10/2021 |   |
+| [`www.continental...`](https://google.com/search?q=www.continental...) | 21/10/2021 |   |
+| [`thefoxhillclub....`](https://google.com/search?q=thefoxhillclub....) | 20/10/2021 |   |
+| [`zgoda.net`](https://google.com/search?q=zgoda.net) | 20/10/2021 |   |
+| [`atento.com`](https://google.com/search?q=atento.com) | 18/10/2021 |   |
+| [`ferrolabella.co...`](https://google.com/search?q=ferrolabella.co...) | 17/10/2021 |   |
+| [`cassini-technol...`](https://google.com/search?q=cassini-technol...) | 16/10/2021 |   |
+| [`espera.com`](https://google.com/search?q=espera.com) | 16/10/2021 |   |
+| [`valleyregionalt...`](https://google.com/search?q=valleyregionalt...) | 16/10/2021 |   |
+| [`uslogic.com`](https://google.com/search?q=uslogic.com) | 16/10/2021 |   |
+| [`sb-kc.com`](https://google.com/search?q=sb-kc.com) | 15/10/2021 |   |
+| [`wmlaw.com.au`](https://google.com/search?q=wmlaw.com.au) | 15/10/2021 |   |
+| [`uvisionuav.com`](https://google.com/search?q=uvisionuav.com) | 15/10/2021 |   |
+| [`wataniaind.com`](https://google.com/search?q=wataniaind.com) | 15/10/2021 |   |
+| [`alwatania.sa`](https://google.com/search?q=alwatania.sa) | 15/10/2021 |   |
+| [`wolfbergalvarez...`](https://google.com/search?q=wolfbergalvarez...) | 13/10/2021 |   |
+| [`hitrac-engineer...`](https://google.com/search?q=hitrac-engineer...) | 13/10/2021 |   |
+| [`planitox.com.br`](https://google.com/search?q=planitox.com.br) | 12/10/2021 |   |
+| [`cera`](https://google.com/search?q=cera) | 12/10/2021 |   |
+| [`riversidetwp.or...`](https://google.com/search?q=riversidetwp.or...) | 12/10/2021 |   |
+| [`nofeurope.com`](https://google.com/search?q=nofeurope.com) | 10/10/2021 |   |
+| [`hybuilding.com....`](https://google.com/search?q=hybuilding.com....) | 10/10/2021 |   |
+| [`ceoempowers.org`](https://google.com/search?q=ceoempowers.org) | 10/10/2021 |   |
+| [`weber-betonpump...`](https://google.com/search?q=weber-betonpump...) | 09/10/2021 |   |
+| [`aisc-airbus.com`](https://google.com/search?q=aisc-airbus.com) | 09/10/2021 |   |
+| [`watermarkbeachr...`](https://google.com/search?q=watermarkbeachr...) | 09/10/2021 |   |
+| [`dusa.com.ve`](https://google.com/search?q=dusa.com.ve) | 08/10/2021 |   |
+| [`cobabebrothers....`](https://google.com/search?q=cobabebrothers....) | 07/10/2021 |   |
+| [`parkertide.com`](https://google.com/search?q=parkertide.com) | 07/10/2021 |   |
+| [`jaykaltrading.c...`](https://google.com/search?q=jaykaltrading.c...) | 07/10/2021 |   |
+| [`sapphiredentalc...`](https://google.com/search?q=sapphiredentalc...) | 07/10/2021 |   |
+| [`atsgruppo.eu`](https://google.com/search?q=atsgruppo.eu) | 07/10/2021 |   |
+| [`generalplumbing...`](https://google.com/search?q=generalplumbing...) | 07/10/2021 |   |
+| [`weyers-architek...`](https://google.com/search?q=weyers-architek...) | 07/10/2021 |   |
+| [`reust.ch`](https://google.com/search?q=reust.ch) | 07/10/2021 |   |
+| [`isvo.it`](https://google.com/search?q=isvo.it) | 07/10/2021 |   |
+| [`kacyumara.com.b...`](https://google.com/search?q=kacyumara.com.b...) | 07/10/2021 |   |
+| [`sides.fr`](https://google.com/search?q=sides.fr) | 06/10/2021 |   |
+| [`transdev.com`](https://google.com/search?q=transdev.com) | 05/10/2021 |   |
+| [`maisonlaprise.c...`](https://google.com/search?q=maisonlaprise.c...) | 05/10/2021 |   |
+| [`moonnurseries.c...`](https://google.com/search?q=moonnurseries.c...) | 05/10/2021 |   |
+| [`barreaudecharle...`](https://google.com/search?q=barreaudecharle...) | 05/10/2021 |   |
+| [`https://moonnur...`](https://google.com/search?q=https%3A%2F%2Fmoonnur...) | 05/10/2021 |   |
+| [`https://barreau...`](https://google.com/search?q=https%3A%2F%2Fbarreau...) | 05/10/2021 |   |
+| [`rivercityrental...`](https://google.com/search?q=rivercityrental...) | 03/10/2021 |   |
+| [`nuevomundosa.co...`](https://google.com/search?q=nuevomundosa.co...) | 03/10/2021 |   |
+| [`aktieinvest.se`](https://google.com/search?q=aktieinvest.se) | 03/10/2021 |   |
+| [`estampa.com.pa`](https://google.com/search?q=estampa.com.pa) | 03/10/2021 |   |
+| [`riviana.com`](https://google.com/search?q=riviana.com) | 02/10/2021 |   |
+| [`wormingtonlegal...`](https://google.com/search?q=wormingtonlegal...) | 02/10/2021 |   |
+| [`dcaa.gov.ae`](https://google.com/search?q=dcaa.gov.ae) | 02/10/2021 |   |
+| [`yankey.com.tw`](https://google.com/search?q=yankey.com.tw) | 02/10/2021 |   |
+| [`adlinktech.com`](https://google.com/search?q=adlinktech.com) | 01/10/2021 |   |
+| [`E.M.I.T. Aviati...`](https://google.com/search?q=E.M.I.T.+Aviati...) | 01/10/2021 |   |
+| [`chipsaway.at`](https://google.com/search?q=chipsaway.at) | 01/10/2021 |   |
+| [`brident.com/en-...`](https://google.com/search?q=brident.com%2Fen-...) | 01/10/2021 |   |
+| [`houstonestatepl...`](https://google.com/search?q=houstonestatepl...) | 01/10/2021 |   |
+| [`newhotel.com`](https://google.com/search?q=newhotel.com) | 30/09/2021 |   |
+| [`fugybat.fr`](https://google.com/search?q=fugybat.fr) | 30/09/2021 |   |
+| [`nitropiso.com.m...`](https://google.com/search?q=nitropiso.com.m...) | 30/09/2021 |   |
+| [`texasacehvac.co...`](https://google.com/search?q=texasacehvac.co...) | 30/09/2021 |   |
+| [`transrendufense...`](https://google.com/search?q=transrendufense...) | 30/09/2021 |   |
+| [`geda-produkte.d...`](https://google.com/search?q=geda-produkte.d...) | 30/09/2021 |   |
+| [`amista.cz`](https://google.com/search?q=amista.cz) | 29/09/2021 |   |
+| [`sheraton.marrio...`](https://google.com/search?q=sheraton.marrio...) | 29/09/2021 |   |
+| [`rabbalshedekraf...`](https://google.com/search?q=rabbalshedekraf...) | 29/09/2021 |   |
+| [`hoistcrane.com`](https://google.com/search?q=hoistcrane.com) | 28/09/2021 |   |
+| [`wortmann.de`](https://google.com/search?q=wortmann.de) | 28/09/2021 |   |
+| [`alderking.com`](https://google.com/search?q=alderking.com) | 28/09/2021 |   |
+| [`https://www.wor...`](https://google.com/search?q=https%3A%2F%2Fwww.wor...) | 28/09/2021 |   |
+| [`anasia.com`](https://google.com/search?q=anasia.com) | 28/09/2021 |   |
+| [`vlastuin.nl`](https://google.com/search?q=vlastuin.nl) | 28/09/2021 |   |
+| [`USA company`](https://google.com/search?q=USA+company) | 28/09/2021 |   |
+| [`iibg.ca`](https://google.com/search?q=iibg.ca) | 26/09/2021 |   |
+| [`scisairsecurity...`](https://google.com/search?q=scisairsecurity...) | 25/09/2021 |   |
+| [`advantecmfs.com`](https://google.com/search?q=advantecmfs.com) | 25/09/2021 |   |
+| [`peabodyproperti...`](https://google.com/search?q=peabodyproperti...) | 25/09/2021 |   |
+| [`dataspeed.it`](https://google.com/search?q=dataspeed.it) | 25/09/2021 |   |
+| [`jaylon.com.au`](https://google.com/search?q=jaylon.com.au) | 24/09/2021 |   |
+| [`franklinempire....`](https://google.com/search?q=franklinempire....) | 24/09/2021 |   |
+| [`papierswhitebir...`](https://google.com/search?q=papierswhitebir...) | 24/09/2021 |   |
+| [`daylewis.co.uk`](https://google.com/search?q=daylewis.co.uk) | 23/09/2021 |   |
+| [`buffingtonlawfi...`](https://google.com/search?q=buffingtonlawfi...) | 23/09/2021 |   |
+| [`sete.co.uk`](https://google.com/search?q=sete.co.uk) | 23/09/2021 |   |
+| [`www.daylewis.co...`](https://google.com/search?q=www.daylewis.co...) | 23/09/2021 |   |
+| [`https://www.buf...`](https://google.com/search?q=https%3A%2F%2Fwww.buf...) | 23/09/2021 |   |
+| [`robsonstreet.ca`](https://google.com/search?q=robsonstreet.ca) | 23/09/2021 |   |
+| [`tes-amm.com`](https://google.com/search?q=tes-amm.com) | 23/09/2021 |   |
+| [`jplegal.net`](https://google.com/search?q=jplegal.net) | 22/09/2021 |   |
+| [`hotelservicepro...`](https://google.com/search?q=hotelservicepro...) | 22/09/2021 |   |
+| [`drhrlaw.com`](https://google.com/search?q=drhrlaw.com) | 22/09/2021 |   |
+| [`esopro.com`](https://google.com/search?q=esopro.com) | 22/09/2021 |   |
+| [`hoffsuemmer.de`](https://google.com/search?q=hoffsuemmer.de) | 22/09/2021 |   |
+| [`wijnendeclerck....`](https://google.com/search?q=wijnendeclerck....) | 22/09/2021 |   |
+| [`ebarc.adv.br`](https://google.com/search?q=ebarc.adv.br) | 22/09/2021 |   |
+| [`shop.jerryleigh...`](https://google.com/search?q=shop.jerryleigh...) | 22/09/2021 |   |
+| [`j-addington.com`](https://google.com/search?q=j-addington.com) | 22/09/2021 |   |
+| [`johncockerillin...`](https://google.com/search?q=johncockerillin...) | 20/09/2021 |   |
+| [`ds.net.au`](https://google.com/search?q=ds.net.au) | 20/09/2021 |   |
+| [`marriott.com/ho...`](https://google.com/search?q=marriott.com%2Fho...) | 20/09/2021 |   |
+| [`iiservz.com`](https://google.com/search?q=iiservz.com) | 20/09/2021 |   |
+| [`drsdoors.com`](https://google.com/search?q=drsdoors.com) | 20/09/2021 |   |
+| [`westernspirits....`](https://google.com/search?q=westernspirits....) | 20/09/2021 |   |
+| [`noone.com.au`](https://google.com/search?q=noone.com.au) | 20/09/2021 |   |
+| [`glenroy.com`](https://google.com/search?q=glenroy.com) | 20/09/2021 |   |
+| [`dykman.com`](https://google.com/search?q=dykman.com) | 20/09/2021 |   |
+| [`ibes-gmbh.de`](https://google.com/search?q=ibes-gmbh.de) | 20/09/2021 |   |
+| [`grupowec.com`](https://google.com/search?q=grupowec.com) | 20/09/2021 |   |
+| [`denark.com`](https://google.com/search?q=denark.com) | 19/09/2021 |   |
+| [`51talk.com`](https://google.com/search?q=51talk.com) | 19/09/2021 |   |
+| [`northstarak.com`](https://google.com/search?q=northstarak.com) | 18/09/2021 |   |
+| [`novotech.com`](https://google.com/search?q=novotech.com) | 18/09/2021 |   |
+| [`agmfinancial.co...`](https://google.com/search?q=agmfinancial.co...) | 18/09/2021 |   |
+| [`abcp.org.br`](https://google.com/search?q=abcp.org.br) | 18/09/2021 |   |
+| [`nrpa.org`](https://google.com/search?q=nrpa.org) | 18/09/2021 |   |
+| [`riscossa.it`](https://google.com/search?q=riscossa.it) | 17/09/2021 |   |
+| [`mitchellsternla...`](https://google.com/search?q=mitchellsternla...) | 17/09/2021 |   |
+| [`coldwellbankerh...`](https://google.com/search?q=coldwellbankerh...) | 17/09/2021 |   |
+| [`miller-rose.com`](https://google.com/search?q=miller-rose.com) | 13/09/2021 |   |
+| [`atstrack.com`](https://google.com/search?q=atstrack.com) | 13/09/2021 |   |
+| [`rlsblaw.com`](https://google.com/search?q=rlsblaw.com) | 13/09/2021 |   |
+| [`cimico.net`](https://google.com/search?q=cimico.net) | 13/09/2021 |   |
+| [`https://cimico....`](https://google.com/search?q=https%3A%2F%2Fcimico....) | 12/09/2021 |   |
+| [`novohamburgo.rs...`](https://google.com/search?q=novohamburgo.rs...) | 10/09/2021 |   |
+| [`erg.eu`](https://google.com/search?q=erg.eu) | 10/09/2021 |   |
+| [`hbfinanse.pl`](https://google.com/search?q=hbfinanse.pl) | 10/09/2021 |   |
+| [`cimaser.com`](https://google.com/search?q=cimaser.com) | 10/09/2021 |   |
+| [`cansmart.co.za`](https://google.com/search?q=cansmart.co.za) | 10/09/2021 |   |
+| [`gahesa.com`](https://google.com/search?q=gahesa.com) | 10/09/2021 |   |
+| [`https://www.nov...`](https://google.com/search?q=https%3A%2F%2Fwww.nov...) | 10/09/2021 |   |
+| [`colliganlaw.com`](https://google.com/search?q=colliganlaw.com) | 10/09/2021 |   |
+| [`aquazzura.com`](https://google.com/search?q=aquazzura.com) | 10/09/2021 |   |
+| [`setg.at`](https://google.com/search?q=setg.at) | 10/09/2021 |   |
+| [`cometgroup.be`](https://google.com/search?q=cometgroup.be) | 10/09/2021 |   |
+| [`ccz.com.au`](https://google.com/search?q=ccz.com.au) | 10/09/2021 |   |
+| [`otcqatar.com`](https://google.com/search?q=otcqatar.com) | 10/09/2021 |   |
+| [`lanexmfg.com`](https://google.com/search?q=lanexmfg.com) | 10/09/2021 |   |
+| [`luzeirosfortale...`](https://google.com/search?q=luzeirosfortale...) | 10/09/2021 |   |
+| [`kmazuckert.com`](https://google.com/search?q=kmazuckert.com) | 10/09/2021 |   |
+| [`ymcadc.org`](https://google.com/search?q=ymcadc.org) | 10/09/2021 |   |
+| [`nutrifood.co.id`](https://google.com/search?q=nutrifood.co.id) | 10/09/2021 |   |
+| [`bennetts.com.au`](https://google.com/search?q=bennetts.com.au) | 10/09/2021 |   |
+| [`jginc.biz`](https://google.com/search?q=jginc.biz) | 10/09/2021 |   |
+| [`cenco-zotti.com`](https://google.com/search?q=cenco-zotti.com) | 10/09/2021 |   |
+| [`mtgsrl.com`](https://google.com/search?q=mtgsrl.com) | 10/09/2021 |   |
+| [`yazaki-group.co...`](https://google.com/search?q=yazaki-group.co...) | 10/09/2021 |   |
+| [`hitechpiping.ca`](https://google.com/search?q=hitechpiping.ca) | 10/09/2021 |   |
+| [`verisilicon.com`](https://google.com/search?q=verisilicon.com) | 10/09/2021 |   |
+| [`gicinque.com`](https://google.com/search?q=gicinque.com) | 10/09/2021 |   |
+| [`dprotege.com.br`](https://google.com/search?q=dprotege.com.br) | 10/09/2021 |   |
+| [`gdexpress.com`](https://google.com/search?q=gdexpress.com) | 10/09/2021 |   |
+| [`jaccs.com.ph`](https://google.com/search?q=jaccs.com.ph) | 10/09/2021 |   |
+| [`yamato-esulon.c...`](https://google.com/search?q=yamato-esulon.c...) | 10/09/2021 |   |
+| [`inlineplumbing....`](https://google.com/search?q=inlineplumbing....) | 10/09/2021 |   |
+| [`megawatts.com.s...`](https://google.com/search?q=megawatts.com.s...) | 10/09/2021 |   |
+| [`esrmotors.com`](https://google.com/search?q=esrmotors.com) | 10/09/2021 |   |
+| [`petrologiscanar...`](https://google.com/search?q=petrologiscanar...) | 10/09/2021 |   |
+| [`nwtf.org`](https://google.com/search?q=nwtf.org) | 10/09/2021 |   |
+| [`nusantararegas....`](https://google.com/search?q=nusantararegas....) | 10/09/2021 |   |
+| [`sabre.ca`](https://google.com/search?q=sabre.ca) | 10/09/2021 |   |
+| [`accenture.com`](https://google.com/search?q=accenture.com) | 10/09/2021 |   |
+| [`audit-treuhand....`](https://google.com/search?q=audit-treuhand....) | 10/09/2021 |   |
+| [`bpc.ao`](https://google.com/search?q=bpc.ao) | 10/09/2021 |   |
+| [`jy-oilseal.com`](https://google.com/search?q=jy-oilseal.com) | 10/09/2021 |   |
+| [`meccalte.com`](https://google.com/search?q=meccalte.com) | 10/09/2021 |   |
+| [`en.mkb.bg`](https://google.com/search?q=en.mkb.bg) | 10/09/2021 |   |
+| [`autoelectric.co...`](https://google.com/search?q=autoelectric.co...) | 10/09/2021 |   |
+| [`saleeprinting.c...`](https://google.com/search?q=saleeprinting.c...) | 10/09/2021 |   |
+| [`selinerag.ch`](https://google.com/search?q=selinerag.ch) | 10/09/2021 |   |
+| [`livingflame.co....`](https://google.com/search?q=livingflame.co....) | 10/09/2021 |   |
+| [`lemonastere.ca`](https://google.com/search?q=lemonastere.ca) | 10/09/2021 |   |
+| [`garagedeckx.be`](https://google.com/search?q=garagedeckx.be) | 10/09/2021 |   |
+| [`ceratube.ma`](https://google.com/search?q=ceratube.ma) | 10/09/2021 |   |
+| [`beardowadams.co...`](https://google.com/search?q=beardowadams.co...) | 10/09/2021 |   |
+| [`ethiopianairlin...`](https://google.com/search?q=ethiopianairlin...) | 10/09/2021 |   |
+| [`sdfeg.com`](https://google.com/search?q=sdfeg.com) | 10/09/2021 |   |
+| [`abecho.co.jp`](https://google.com/search?q=abecho.co.jp) | 10/09/2021 |   |
+| [`delrantownship....`](https://google.com/search?q=delrantownship....) | 10/09/2021 |   |
+| [`faberinc.com`](https://google.com/search?q=faberinc.com) | 10/09/2021 |   |
+| [`fragerlaw.com`](https://google.com/search?q=fragerlaw.com) | 10/09/2021 |   |
+| [`servisistanbul....`](https://google.com/search?q=servisistanbul....) | 10/09/2021 |   |
+| [`pla-pumpen.de`](https://google.com/search?q=pla-pumpen.de) | 10/09/2021 |   |
+| [`alta-electronic...`](https://google.com/search?q=alta-electronic...) | 10/09/2021 |   |
+| [`bangkokair.com`](https://google.com/search?q=bangkokair.com) | 10/09/2021 |   |
+| [`stetsonexpo.com`](https://google.com/search?q=stetsonexpo.com) | 10/09/2021 |   |
+| [`conmoto.de`](https://google.com/search?q=conmoto.de) | 10/09/2021 |   |
+| [`nepgroup.com`](https://google.com/search?q=nepgroup.com) | 10/09/2021 |   |
+| [`isoftstone.com`](https://google.com/search?q=isoftstone.com) | 10/09/2021 |   |
+| [`softvision.com....`](https://google.com/search?q=softvision.com....) | 10/09/2021 |   |
+| [`brunsrealty.com`](https://google.com/search?q=brunsrealty.com) | 10/09/2021 |   |
+| [`e-button.com.tw`](https://google.com/search?q=e-button.com.tw) | 10/09/2021 |   |
+| [`pro-beam.com`](https://google.com/search?q=pro-beam.com) | 10/09/2021 |   |
+| [`nutrix.co.th`](https://google.com/search?q=nutrix.co.th) | 10/09/2021 |   |
+| [`yakimacoop.com`](https://google.com/search?q=yakimacoop.com) | 10/09/2021 |   |
+| [`hellmich-partne...`](https://google.com/search?q=hellmich-partne...) | 10/09/2021 |   |
+| [`overseas-ast.co...`](https://google.com/search?q=overseas-ast.co...) | 10/09/2021 |   |
+| [`pridepak.co.za`](https://google.com/search?q=pridepak.co.za) | 10/09/2021 |   |
+| [`maximusinfoware...`](https://google.com/search?q=maximusinfoware...) | 10/09/2021 |   |
+| [`seiei-ashd.co.j...`](https://google.com/search?q=seiei-ashd.co.j...) | 10/09/2021 |   |
+| [`ch13bham.com`](https://google.com/search?q=ch13bham.com) | 10/09/2021 |   |
+| [`pulmuonewildwoo...`](https://google.com/search?q=pulmuonewildwoo...) | 10/09/2021 |   |
+| [`autohausdaehn.d...`](https://google.com/search?q=autohausdaehn.d...) | 10/09/2021 |   |
+| [`barolit.com`](https://google.com/search?q=barolit.com) | 10/09/2021 |   |
+| [`denverhousing.o...`](https://google.com/search?q=denverhousing.o...) | 10/09/2021 |   |
+| [`prototal.se`](https://google.com/search?q=prototal.se) | 10/09/2021 |   |
+| [`odeffinancieras...`](https://google.com/search?q=odeffinancieras...) | 10/09/2021 |   |
+| [`soenen-golfkart...`](https://google.com/search?q=soenen-golfkart...) | 10/09/2021 |   |
+| [`remedios.lawyer`](https://google.com/search?q=remedios.lawyer) | 10/09/2021 |   |
+| [`hpe-konstanz.de`](https://google.com/search?q=hpe-konstanz.de) | 10/09/2021 |   |
+| [`cheadlelaw.com`](https://google.com/search?q=cheadlelaw.com) | 10/09/2021 |   |
+| [`benner.com.br`](https://google.com/search?q=benner.com.br) | 10/09/2021 |   |
+| [`callabsolute.co...`](https://google.com/search?q=callabsolute.co...) | 10/09/2021 |   |
+| [`pikecountysheri...`](https://google.com/search?q=pikecountysheri...) | 10/09/2021 |   |
+| [`tesa46.com`](https://google.com/search?q=tesa46.com) | 10/09/2021 |   |
+| [`comebi.mx`](https://google.com/search?q=comebi.mx) | 10/09/2021 |   |
+| [`suenco.co.th`](https://google.com/search?q=suenco.co.th) | 10/09/2021 |   |
+| [`royalporcelain....`](https://google.com/search?q=royalporcelain....) | 10/09/2021 |   |
+| [`tovogomma.it`](https://google.com/search?q=tovogomma.it) | 10/09/2021 |   |
+| [`envisioncu.com`](https://google.com/search?q=envisioncu.com) | 09/09/2021 |   |
+| [`ofplaw.com`](https://google.com/search?q=ofplaw.com) | 09/09/2021 |   |
+| [`pi-hf.com`](https://google.com/search?q=pi-hf.com) | 09/09/2021 |   |
+| [`russellwbho.co....`](https://google.com/search?q=russellwbho.co....) | 09/09/2021 |   |
+| [`paramountme.com`](https://google.com/search?q=paramountme.com) | 09/09/2021 |   |
+| [`jockeyclub.org....`](https://google.com/search?q=jockeyclub.org....) | 09/09/2021 |   |
+| [`hancockassociat...`](https://google.com/search?q=hancockassociat...) | 09/09/2021 |   |
+| [`universalwindow...`](https://google.com/search?q=universalwindow...) | 09/09/2021 |   |
+| [`hammer-poznan.p...`](https://google.com/search?q=hammer-poznan.p...) | 09/09/2021 |   |
+| [`snapmga.com`](https://google.com/search?q=snapmga.com) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -4587,391 +4590,391 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`bavelloni.com`]() | 23/12/2022 | Bavelloni SpA provides glass processing technology and services for the architectural, furniture and domestic appliance and solar industries.We encrypted the network of this company. We also stole about 200GB of the date. Financial information. Sal... |
 | [`thedonovancompany.com`]() | 22/12/2022 | A small boutique CPA firm located in Irvine California. We provide tax and accounting services to individuals and their businesses. Hands on assistance with tax planning, tax compliance and various other matters. We believe getting to know our client... |
 | [`maxionwheels.com`]() | 22/12/2022 | Founded in 1908 and headquartered in Novi, Michigan, MAXION Wheels wheel manufacturer for passenger cars, light trucks, buses, commercial trucks, and trailers. |
-| `teknowsource.in` | 20/12/2022 | We are an organization helping our valued customers run their commercial operations in India. |
-| `polyflor.co.nz` | 19/12/2022 | POLYFLORAt Polyflor we believe that the products we choose can help us design for a better environment, both inside and out. Our collection of vinyl flooring, which is suitable for a variety of commercial and residential applications, makes a big... |
-| `catalyst-group.co.nz` | 19/12/2022 | We are a kiwi-owned, responsive and agile, multi-disciplinary design and construct firm offering a seamless end-to-end service or a tailored single service solution to suit your needs.Our business is built on strong client partnerships with local... |
-| `stmc.edu.hk` | 19/12/2022 | Sha Tin Methodist College |
-| `Monte Cristalina S.A.` | 19/12/2022 | Monte Cristalina SA is a holding company headquartered in Sao Paulo.A Monte Cristalina é a controladora da Igarapava Participações S.A. |
-| `jka.co.uk` | 19/12/2022 | Jackson Kent Associates started trading in July 1997 and since then have built up a loyal customer base through mainly recommendation. We are a small company that offers personal service and a high level of expertise. |
-| `mayflowerdentalgroup.com` | 19/12/2022 | At Mayflower Dental Group, we provide comprehensive care to all of our patients. We strive to ensure our patients have a thorough understanding of their dental health, and treatment options available to them, to keep their smile healthy. |
-| `agriobtentions.com` | 19/12/2022 | Founded in 1983, Agri Obtentions, a subsidiary of INRAE, is an independent company specialised in creating and promoting varietal innovations.Agri Obtentions' values are sustainable agriculture and innovation.Agri Obtentions - a few key figures... |
-| `womgroup.com` | 19/12/2022 | WOM India has a large staff of design engineers who take pride in innovation and continuous ongoing development of its products.The engineering staff takes an active interest not only in the design but also in the manufacturing and assembly activit... |
-| `rgvfirm.com` | 19/12/2022 | Griffith Law Group is committed to the optimal resolution of all disputes in the most profitable, efficient and cost-effective way. When you contact our firm, we will work to develop a winning strategy tailored to your unique circumstances. This may... |
-| `businesscentral.org.nz` | 19/12/2022 | We’re an organisation focused exclusively on businesses. Whether you’re looking for comprehensive employment advice and support, learning and development to help your business and people grow, help to find skilled staff, business mentors, succession... |
-| `mercuryit.co.nz` | 19/12/2022 | IT is a company that provides services in its field to many companies in New Zealand and Australia. Unfortunately, this company could not protect itself and its customers. As a result of our attack, more than 500 TB of customer data was encrypted... |
-| `senateshj.com` | 19/12/2022 | SenateSHJ helps include government, healthcare, journalism, media, marketing, business consulting, digital and social strategy management,as well as communication consulting. They help organizations solve their reputation, change, and engagement pr... |
-| `accuro.co.nz` | 19/12/2022 | Accuro is a New Zealand-owned, not for profit insurer. We put our 30,000 members before financial gain. When you combine our quality products with fast claims turnaround and our knowledgeable customer service team, it’s no wonder we are New Zeala... |
-| `mcft.com` | 15/12/2022 |   |
-| `veolus.com` | 12/12/2022 |   |
-| `tdtu.edu.vn` | 12/12/2022 |   |
-| `sentecgroup.com` | 12/12/2022 |   |
-| `rkfoodland.com` | 12/12/2022 |   |
-| `luxeprint.com.tw` | 12/12/2022 |   |
-| `k-toko.com` | 12/12/2022 |   |
-| `jieh.vn` | 12/12/2022 |   |
-| `financierareyes.com.mx` | 12/12/2022 |   |
-| `dof.ca.gov` | 12/12/2022 |   |
-| `amazing-global.com` | 12/12/2022 |   |
-| `koda.com.tw` | 10/12/2022 |   |
-| `biotipo.com.br` | 10/12/2022 |   |
-| `oltax.com` | 10/12/2022 |   |
-| `rhotelja.com` | 09/12/2022 |   |
-| `hawanasalalah.com` | 09/12/2022 |   |
-| `g4s.com` | 06/12/2022 |   |
-| `amundson.co.nz` | 06/12/2022 |   |
-| `myersontooth.com` | 06/12/2022 |   |
-| `prinovaglobal.com` | 05/12/2022 |   |
-| `littleswitzerland.com` | 05/12/2022 |   |
-| `sentenia.net` | 05/12/2022 |   |
-| `handrhealthcare.com` | 05/12/2022 |   |
-| `brunoy.fr` | 05/12/2022 |   |
-| `abilways.com` | 04/12/2022 |   |
-| `thorntontomasetti.com` | 02/12/2022 |   |
-| `st-group.com` | 02/12/2022 |   |
-| `smithsinterconnect.com` | 02/12/2022 |   |
-| `menziesaviation.com` | 02/12/2022 |   |
-| `hildinganders.com` | 02/12/2022 |   |
-| `ckfinc.com` | 02/12/2022 |   |
-| `adamjeeinsurance.com` | 02/12/2022 |   |
-| `8x8.com` | 02/12/2022 |   |
-| `colonialgeneral.com` | 29/11/2022 |   |
-| `bankseta.org.za` | 28/11/2022 |   |
-| `ssp-worldwide.com` | 22/11/2022 |   |
-| `ryokikogyo.co.jp` | 22/11/2022 |   |
-| `westmount.org` | 20/11/2022 |   |
-| `norseman.ca` | 19/11/2022 |   |
-| `zagiel.pl` | 15/11/2022 |   |
-| `linkplus.com.hk` | 15/11/2022 |   |
-| `itis-technology.com` | 15/11/2022 |   |
-| `gulfcoastwindows.com` | 15/11/2022 |   |
-| `amend.com.br` | 15/11/2022 |   |
-| `scottindustrialsystems.com` | 14/11/2022 |   |
-| `amarillogeeks.webhop.org` | 11/11/2022 |   |
-| `thecondorgroup.com` | 09/11/2022 |   |
-| `chahousing.org` | 09/11/2022 |   |
-| `adnec.ae` | 09/11/2022 |   |
-| `stavbar.cz` | 09/11/2022 |   |
-| `sinopecthc.com` | 09/11/2022 |   |
-| `oehc.corsica` | 09/11/2022 |   |
-| `carone.com.mx` | 09/11/2022 |   |
-| `shmcomputers.screenconnect.com` | 09/11/2022 |   |
-| `thaiho.com` | 08/11/2022 |   |
-| `crtl.com` | 08/11/2022 |   |
-| `richard-wolf.com` | 07/11/2022 |   |
-| `thenet.group` | 06/11/2022 |   |
-| `rockworthindia.com` | 06/11/2022 |   |
-| `optiprint.ca` | 06/11/2022 |   |
-| `everstrong.com` | 05/11/2022 |   |
-| `KEARNEYCO.COM` | 05/11/2022 |   |
-| `hettichbenelux.com` | 03/11/2022 |   |
-| `continental.com` | 03/11/2022 |   |
-| `tekniplex.be` | 03/11/2022 |   |
-| `fiscosaudepe.com.br` | 01/11/2022 |   |
-| `zurifurniture.com` | 31/10/2022 |   |
-| `will-b.jp` | 31/10/2022 |   |
-| `thalesgroup.com` | 31/10/2022 |   |
-| `sociedadbilbaina.com` | 31/10/2022 |   |
-| `seamlessglobalsolutions.com` | 31/10/2022 |   |
-| `santimuni.com` | 31/10/2022 |   |
-| `macrotel.com.ar` | 31/10/2022 |   |
-| `hoosierco.com` | 31/10/2022 |   |
-| `happmobi.com.br` | 31/10/2022 |   |
-| `gruposanford.com` | 31/10/2022 |   |
-| `exco.fr` | 31/10/2022 |   |
-| `coopavegra.fi.cr` | 31/10/2022 |   |
-| `close-upinternational.com.uy` | 31/10/2022 |   |
-| `cacula.com` | 31/10/2022 |   |
-| `bellettiascensori.it` | 30/10/2022 |   |
-| `aaanchorbolt.com` | 30/10/2022 |   |
-| `byp-global.com` | 30/10/2022 |   |
-| `saurer.com` | 30/10/2022 |   |
-| `railway.gov.tw` | 30/10/2022 |   |
-| `lincare.com` | 30/10/2022 |   |
-| `fvsra.org` | 29/10/2022 |   |
-| `greenstamp.co.jp` | 29/10/2022 |   |
-| `steelesolutions.com` | 27/10/2022 |   |
-| `tiffinmetal.com` | 27/10/2022 |   |
-| `sskb.com.au` | 25/10/2022 |   |
-| `pendragonplc.com` | 24/10/2022 |   |
-| `kingfisherinsurance.com` | 17/10/2022 |   |
-| `tokaisolidtire.com` | 16/10/2022 |   |
-| `oomiya.co.jp` | 16/10/2022 |   |
-| `kingteam.com.tw` | 16/10/2022 |   |
-| `groupesavoie.com` | 16/10/2022 |   |
-| `eureka-puzzle.eu` | 16/10/2022 |   |
-| `eeckman.eu` | 16/10/2022 |   |
-| `centurion.com.pl` | 15/10/2022 |   |
-| `castemark.tw` | 15/10/2022 |   |
-| `Quantumce.com` | 15/10/2022 |   |
-| `villajuris.be` | 15/10/2022 |   |
-| `tamhash.co.il` | 15/10/2022 |   |
-| `mk.co.th` | 15/10/2022 |   |
-| `kilvington.vic.edu.au` | 14/10/2022 |   |
-| `heronconstruction.co.nz` | 14/10/2022 |   |
-| `bankruptcypa.com` | 14/10/2022 |   |
-| `nelsonautohaus.com` | 13/10/2022 |   |
-| `mtrx.com` | 12/10/2022 |   |
-| `marktel.es` | 12/10/2022 |   |
-| `martel.es` | 12/10/2022 |   |
-| `bigcenters.rs` | 12/10/2022 |   |
-| `tdwood.com` | 11/10/2022 |   |
-| `polycube.co.th` | 10/10/2022 |   |
-| `jtchapman.com` | 10/10/2022 |   |
-| `dmcinet.com` | 10/10/2022 |   |
-| `securityalliancegroup.com` | 09/10/2022 |   |
-| `dragages-ports.fr` | 09/10/2022 |   |
-| `cedemo.com` | 09/10/2022 |   |
-| `alliedusa.com` | 09/10/2022 |   |
-| `buydps.com` | 09/10/2022 |   |
-| `apunipima.org.au` | 06/10/2022 |   |
-| `seaviewresortkhaolak.com` | 01/10/2022 |   |
-| `kimed.pl` | 01/10/2022 |   |
-| `hriindia.com` | 01/10/2022 |   |
-| `aidsalabama.org` | 30/09/2022 |   |
-| `toyotaalabang.com.ph` | 30/09/2022 |   |
-| `samyang.com` | 29/09/2022 |   |
-| `yehu.org` | 28/09/2022 |   |
-| `hdhopwood.com` | 28/09/2022 |   |
-| `bew.co.th` | 28/09/2022 |   |
-| `vitalityhp.net` | 27/09/2022 |   |
-| `bliss-d.com` | 27/09/2022 |   |
-| `Nihonsakari Co. , Ltd` | 26/09/2022 |   |
-| `quantumce.com` | 25/09/2022 |   |
-| `multicareinc.com` | 25/09/2022 |   |
-| `melorita.com` | 25/09/2022 |   |
-| `rbroof.com` | 23/09/2022 |   |
-| `idtech.com.tw` | 22/09/2022 |   |
-| `congerbuilt.com` | 22/09/2022 |   |
-| `webnordeste.com.br` | 22/09/2022 |   |
-| `thorguard.com` | 22/09/2022 |   |
-| `yourprivateitaly.com` | 22/09/2022 |   |
-| `uide.edu.ec` | 22/09/2022 |   |
-| `scrd.ca` | 21/09/2022 |   |
-| `parrottsims.com` | 21/09/2022 |   |
-| `ifwglobal.com` | 21/09/2022 |   |
-| `elementnor.no` | 20/09/2022 |   |
-| `psi.com.tw` | 19/09/2022 |   |
-| `okibrasil.com` | 19/09/2022 |   |
-| `mts.mektec.com` | 19/09/2022 |   |
-| `ducanh.com` | 19/09/2022 |   |
-| `franckbeun.fr` | 19/09/2022 |   |
-| `hering-heinz.de` | 19/09/2022 |   |
-| `First bounty payout $50,000` | 17/09/2022 |   |
-| `scottobrothers.com` | 16/09/2022 |   |
-| `kaffeeberlin.com` | 16/09/2022 |   |
-| `equatortrustees.com` | 16/09/2022 |   |
-| `ces-conditionneur.fr` | 16/09/2022 |   |
-| `software-line.it` | 16/09/2022 |   |
-| `asecna.org` | 15/09/2022 |   |
-| `dss-cz.com` | 15/09/2022 |   |
-| `midlandplastics.com` | 15/09/2022 |   |
-| `nakamuracorp.co.jp` | 15/09/2022 |   |
-| `medical69.com` | 14/09/2022 |   |
-| `d-securite.com` | 14/09/2022 |   |
-| `aliat.group` | 14/09/2022 |   |
-| `southamptoncounty.org` | 14/09/2022 |   |
-| `makler.com.ve` | 14/09/2022 |   |
-| `independence.com.co` | 14/09/2022 |   |
-| `cnachile.cl` | 14/09/2022 |   |
-| `markherder.com` | 14/09/2022 |   |
-| `inspecshawaii.com` | 14/09/2022 |   |
-| `ville-faulquemont.fr` | 14/09/2022 |   |
-| `thezincgroup.com` | 14/09/2022 |   |
-| `taxprepandmore.com` | 14/09/2022 |   |
-| `tapcocu.org` | 14/09/2022 |   |
-| `sva-avignon.concession-landrover.fr` | 14/09/2022 |   |
-| `sarassure.fr` | 14/09/2022 |   |
-| `quintal.com.co` | 14/09/2022 |   |
-| `pays-colombey-sudtoulois.fr` | 14/09/2022 |   |
-| `mj-donnais.fr` | 14/09/2022 |   |
-| `maleosante.fr` | 14/09/2022 |   |
-| `maisonloisy.fr` | 14/09/2022 |   |
-| `mackenzie-law.co.uk` | 14/09/2022 |   |
-| `lagence33.com` | 14/09/2022 |   |
-| `kwp.at` | 14/09/2022 |   |
-| `kcgreenholdings.com` | 14/09/2022 |   |
-| `jt-engineering.com` | 14/09/2022 |   |
-| `euromip.fr` | 14/09/2022 |   |
-| `euro-modules.fr` | 14/09/2022 |   |
-| `daune.org` | 14/09/2022 |   |
-| `cultivar.net` | 14/09/2022 |   |
-| `cmb-artimmo.com` | 14/09/2022 |   |
-| `cityofbartlett.org` | 14/09/2022 |   |
-| `camdomain.com` | 14/09/2022 |   |
-| `artdis.fr` | 14/09/2022 |   |
-| `aipcenergy.com` | 14/09/2022 |   |
-| `idealtridon.com` | 14/09/2022 |   |
-| `bakkerheftrucks.com` | 13/09/2022 |   |
-| `bakkerheftrucks.local` | 13/09/2022 |   |
-| `omegaservices.com.au` | 12/09/2022 |   |
-| `frigobandeira.com` | 12/09/2022 |   |
-| `ch-sf.fr` | 12/09/2022 |   |
-| `ch-sf.fr (old)` | 12/09/2022 |   |
-| `hamiota.com` | 11/09/2022 |   |
-| `canadiansolar.com` | 11/09/2022 |   |
-| `aralaw.cr` | 11/09/2022 |   |
-| `marugokiso.co.jp` | 09/09/2022 |   |
-| `lacalera.pe` | 09/09/2022 |   |
-| `diakonissen-riehen.ch` | 09/09/2022 |   |
-| `dcashpro.com` | 09/09/2022 |   |
-| `connectvitypoint.com` | 09/09/2022 |   |
-| `kisan.com.tr` | 09/09/2022 |   |
-| `kortrijkserijschool.be` | 09/09/2022 |   |
-| `marcopolohotels.com` | 07/09/2022 |   |
-| `hunters.com` | 07/09/2022 |   |
-| `misumi.com.tw` | 07/09/2022 |   |
-| `metaage.com.tw` | 07/09/2022 |   |
-| `lafondasantafe.com` | 06/09/2022 |   |
-| `gavresorts.com.br` | 06/09/2022 |   |
-| `sbr-zwiesel.de` | 05/09/2022 |   |
-| `pdh.com.tw` | 05/09/2022 |   |
-| `monnensenpartners.be` | 05/09/2022 |   |
-| `sportscity.com.tw` | 05/09/2022 |   |
-| `finnco.eu` | 05/09/2022 |   |
-| `www3.comune.gorizia.it` | 05/09/2022 |   |
-| `kamut.com` | 05/09/2022 |   |
-| `divultec.pt` | 05/09/2022 |   |
-| `eneva.com.br` | 05/09/2022 |   |
-| `hmets.com` | 04/09/2022 |   |
-| `floresfunza.com` | 04/09/2022 |   |
-| `peakinternational.com` | 02/09/2022 |   |
-| `solidatech.com` | 01/09/2022 |   |
-| `precision.com` | 01/09/2022 |   |
-| `hspatent.com` | 01/09/2022 |   |
-| `MEIJI.COM.SG` | 31/08/2022 |   |
-| `currierryan.com` | 29/08/2022 |   |
-| `ygboulons.com` | 28/08/2022 |   |
-| `uplexis.com.br` | 28/08/2022 |   |
-| `embalajescapsa.com` | 28/08/2022 |   |
-| `accionplus.com` | 28/08/2022 |   |
-| `goodwillnm.org` | 28/08/2022 |   |
-| `thininfra.nl` | 26/08/2022 |   |
-| `stjohnvianney.org` | 26/08/2022 |   |
-| `stevesilvaplumbing.com` | 26/08/2022 |   |
-| `statravel.de` | 26/08/2022 |   |
-| `sportlavit.nl` | 26/08/2022 |   |
-| `perteet.com` | 26/08/2022 |   |
-| `microdepot.com` | 26/08/2022 |   |
-| `lenax.com` | 26/08/2022 |   |
-| `kkcsworld.com` | 26/08/2022 |   |
-| `galenica.ma` | 26/08/2022 |   |
-| `draperyconceptsny.com` | 26/08/2022 |   |
-| `cenviro.com` | 26/08/2022 |   |
-| `americantilestone.com` | 26/08/2022 |   |
-| `trufab.com` | 26/08/2022 |   |
-| `canteen.com` | 26/08/2022 |   |
-| `hikadikoy.com` | 26/08/2022 |   |
-| `centrodsr.it` | 26/08/2022 |   |
-| `growag.ch` | 25/08/2022 |   |
-| `studiobarba.com` | 23/08/2022 |   |
-| `ruffinlawyers.com.au` | 23/08/2022 |   |
-| `robitgroup.com` | 23/08/2022 |   |
-| `pinjuhlaw.com` | 23/08/2022 |   |
-| `orioninc.com` | 23/08/2022 |   |
-| `destinationhope.com` | 23/08/2022 |   |
-| `barrydowd.com` | 23/08/2022 |   |
-| `northwestpipe.com` | 22/08/2022 |   |
-| `wabteccorp.com` | 18/08/2022 |   |
-| `traveldoc.ca` | 18/08/2022 |   |
-| `entrust.com` | 18/08/2022 |   |
-| `megal.com` | 18/08/2022 |   |
-| `porcelanosa-usa.com` | 16/08/2022 |   |
-| `tier1techs.screenconnect.com` | 16/08/2022 |   |
-| `ospreyvideo.com` | 16/08/2022 |   |
-| `altaadhod.com` | 16/08/2022 |   |
-| `vsainc.com` | 13/08/2022 |   |
-| `qualitymedicalinc.com` | 13/08/2022 |   |
-| `pinnick.co.uk` | 13/08/2022 |   |
-| `centuryaluminum.com` | 13/08/2022 |   |
-| `besttaxfiler.com` | 13/08/2022 |   |
-| `beckerlaw.com` | 13/08/2022 |   |
-| `whitworth.edu` | 10/08/2022 |   |
-| `okcu.edu` | 10/08/2022 |   |
-| `ah-a.de` | 09/08/2022 |   |
-| `FOSUN.COM` | 09/08/2022 |   |
-| `versma.com` | 07/08/2022 |   |
-| `ring-plastik.de` | 07/08/2022 |   |
-| `unimasters.com` | 06/08/2022 |   |
-| `wrschool.net` | 06/08/2022 |   |
-| `trialpro.com` | 06/08/2022 |   |
-| `newwestmetals.com` | 06/08/2022 |   |
-| `hatcherins.com` | 06/08/2022 |   |
-| `tekinox.it` | 02/08/2022 |   |
-| `obriengroupaustralia.com.au` | 02/08/2022 |   |
-| `kangaroo.vn` | 02/08/2022 |   |
-| `casapellas.com` | 02/08/2022 |   |
-| `scohil.com` | 01/08/2022 |   |
-| `preflooring.com` | 01/08/2022 |   |
-| `shopper360.com.my` | 01/08/2022 |   |
-| `get.es` | 31/07/2022 |   |
-| `vytelle.com` | 31/07/2022 |   |
-| `emunworks.com` | 31/07/2022 |   |
-| `autoliv.com` | 29/07/2022 |   |
-| `fruca.es` | 28/07/2022 |   |
-| `armassist.ie` | 28/07/2022 |   |
-| `correounir.com.ar` | 28/07/2022 |   |
-| `maldegem.be` | 27/07/2022 |   |
-| `groupe-helios.com` | 27/07/2022 |   |
-| `cheungwoh.com.sg` | 26/07/2022 |   |
-| `ymaunivers.com` | 26/07/2022 |   |
-| `sieam.fr` | 26/07/2022 |   |
-| `ginko.com.tw` | 25/07/2022 |   |
-| `eclipse-print.com` | 25/07/2022 |   |
-| `overseas-ast.com` | 25/07/2022 |   |
-| `legacy-hospitality.com` | 25/07/2022 |   |
-| `agenziaentrate.gov.it` | 25/07/2022 |   |
-| `riken.co.jp` | 24/07/2022 |   |
-| `daytonsuperior.com` | 24/07/2022 |   |
-| `roedeanschool.co.za` | 23/07/2022 |   |
-| `lanormandise.fr` | 22/07/2022 |   |
-| `laneprint.com.au` | 22/07/2022 |   |
-| `Yong Mao Environmental Tech. Co.,Ltd` | 22/07/2022 |   |
-| `taylorstafford.com` | 22/07/2022 |   |
-| `osde.com.ar` | 22/07/2022 |   |
-| `zhulian.co.th` | 22/07/2022 |   |
-| `townofstmarys.com` | 22/07/2022 |   |
-| `bizebra.com` | 22/07/2022 |   |
-| `a2-pas.fr` | 21/07/2022 |   |
-| `ocrex.com` | 21/07/2022 |   |
-| `mwd.digital` | 21/07/2022 |   |
-| `mec.com` | 20/07/2022 |   |
-| `lexingtonnational.com` | 20/07/2022 |   |
-| `competencia.com.ec` | 20/07/2022 |   |
-| `coastalmedps.com` | 20/07/2022 |   |
-| `addconsult.nl` | 20/07/2022 |   |
-| `cristianaspinecenter.com` | 19/07/2022 |   |
-| `crbrandsinc.com` | 19/07/2022 |   |
-| `rovagnati.it` | 19/07/2022 |   |
-| `madcoenergi.com` | 19/07/2022 |   |
-| `fedefarma.com` | 19/07/2022 |   |
-| `cpicfiber.com` | 19/07/2022 |   |
-| `columbiagrain.com` | 19/07/2022 |   |
-| `clestra.com` | 19/07/2022 |   |
-| `bizframe.co.za` | 18/07/2022 |   |
-| `integrate.ch` | 18/07/2022 |   |
-| `aresfoods.ca` | 18/07/2022 |   |
-| `sig.id` | 17/07/2022 |   |
-| `frederickco.gov` | 14/07/2022 |   |
-| `genusplc.com` | 14/07/2022 |   |
-| `vlp.nl` | 14/07/2022 |   |
-| `iis.ac.uk` | 14/07/2022 |   |
-| `etgworld.com` | 14/07/2022 |   |
-| `emprint.com` | 09/07/2022 |   |
-| `acac.com` | 08/07/2022 |   |
-| `lapostemobile.fr` | 07/07/2022 |   |
-| `carnbrea.com.au` | 07/07/2022 |   |
-| `alpachem.com` | 06/07/2022 |   |
-| `cabbageinc.com` | 06/07/2022 |   |
-| `bosco-avocats.com` | 02/07/2022 |   |
-| `faacgroup.com` | 02/07/2022 |   |
-| `lesbureauxdelepargne.com` | 02/07/2022 |   |
-| `plravocats.fr` | 02/07/2022 |   |
-| `slpcolombus.com` | 02/07/2022 |   |
-| `axelcium.com` | 02/07/2022 |   |
-| `sigma-alimentos.com` | 01/07/2022 |   |
-| `diodes.com` | 30/06/2022 |   |
-| `metroappliancesandmore.com` | 29/06/2022 |   |
-| `lonseal.com` | 29/06/2022 |   |
+| [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | 20/12/2022 | We are an organization helping our valued customers run their commercial operations in India. |
+| [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | 19/12/2022 | POLYFLORAt Polyflor we believe that the products we choose can help us design for a better environment, both inside and out. Our collection of vinyl flooring, which is suitable for a variety of commercial and residential applications, makes a big... |
+| [`catalyst-group.co.nz`](https://google.com/search?q=catalyst-group.co.nz) | 19/12/2022 | We are a kiwi-owned, responsive and agile, multi-disciplinary design and construct firm offering a seamless end-to-end service or a tailored single service solution to suit your needs.Our business is built on strong client partnerships with local... |
+| [`stmc.edu.hk`](https://google.com/search?q=stmc.edu.hk) | 19/12/2022 | Sha Tin Methodist College |
+| [`Monte Cristalina S.A.`](https://google.com/search?q=Monte+Cristalina+S.A.) | 19/12/2022 | Monte Cristalina SA is a holding company headquartered in Sao Paulo.A Monte Cristalina é a controladora da Igarapava Participações S.A. |
+| [`jka.co.uk`](https://google.com/search?q=jka.co.uk) | 19/12/2022 | Jackson Kent Associates started trading in July 1997 and since then have built up a loyal customer base through mainly recommendation. We are a small company that offers personal service and a high level of expertise. |
+| [`mayflowerdentalgroup.com`](https://google.com/search?q=mayflowerdentalgroup.com) | 19/12/2022 | At Mayflower Dental Group, we provide comprehensive care to all of our patients. We strive to ensure our patients have a thorough understanding of their dental health, and treatment options available to them, to keep their smile healthy. |
+| [`agriobtentions.com`](https://google.com/search?q=agriobtentions.com) | 19/12/2022 | Founded in 1983, Agri Obtentions, a subsidiary of INRAE, is an independent company specialised in creating and promoting varietal innovations.Agri Obtentions' values are sustainable agriculture and innovation.Agri Obtentions - a few key figures... |
+| [`womgroup.com`](https://google.com/search?q=womgroup.com) | 19/12/2022 | WOM India has a large staff of design engineers who take pride in innovation and continuous ongoing development of its products.The engineering staff takes an active interest not only in the design but also in the manufacturing and assembly activit... |
+| [`rgvfirm.com`](https://google.com/search?q=rgvfirm.com) | 19/12/2022 | Griffith Law Group is committed to the optimal resolution of all disputes in the most profitable, efficient and cost-effective way. When you contact our firm, we will work to develop a winning strategy tailored to your unique circumstances. This may... |
+| [`businesscentral.org.nz`](https://google.com/search?q=businesscentral.org.nz) | 19/12/2022 | We’re an organisation focused exclusively on businesses. Whether you’re looking for comprehensive employment advice and support, learning and development to help your business and people grow, help to find skilled staff, business mentors, succession... |
+| [`mercuryit.co.nz`](https://google.com/search?q=mercuryit.co.nz) | 19/12/2022 | IT is a company that provides services in its field to many companies in New Zealand and Australia. Unfortunately, this company could not protect itself and its customers. As a result of our attack, more than 500 TB of customer data was encrypted... |
+| [`senateshj.com`](https://google.com/search?q=senateshj.com) | 19/12/2022 | SenateSHJ helps include government, healthcare, journalism, media, marketing, business consulting, digital and social strategy management,as well as communication consulting. They help organizations solve their reputation, change, and engagement pr... |
+| [`accuro.co.nz`](https://google.com/search?q=accuro.co.nz) | 19/12/2022 | Accuro is a New Zealand-owned, not for profit insurer. We put our 30,000 members before financial gain. When you combine our quality products with fast claims turnaround and our knowledgeable customer service team, it’s no wonder we are New Zeala... |
+| [`mcft.com`](https://google.com/search?q=mcft.com) | 15/12/2022 |   |
+| [`veolus.com`](https://google.com/search?q=veolus.com) | 12/12/2022 |   |
+| [`tdtu.edu.vn`](https://google.com/search?q=tdtu.edu.vn) | 12/12/2022 |   |
+| [`sentecgroup.com`](https://google.com/search?q=sentecgroup.com) | 12/12/2022 |   |
+| [`rkfoodland.com`](https://google.com/search?q=rkfoodland.com) | 12/12/2022 |   |
+| [`luxeprint.com.tw`](https://google.com/search?q=luxeprint.com.tw) | 12/12/2022 |   |
+| [`k-toko.com`](https://google.com/search?q=k-toko.com) | 12/12/2022 |   |
+| [`jieh.vn`](https://google.com/search?q=jieh.vn) | 12/12/2022 |   |
+| [`financierareyes.com.mx`](https://google.com/search?q=financierareyes.com.mx) | 12/12/2022 |   |
+| [`dof.ca.gov`](https://google.com/search?q=dof.ca.gov) | 12/12/2022 |   |
+| [`amazing-global.com`](https://google.com/search?q=amazing-global.com) | 12/12/2022 |   |
+| [`koda.com.tw`](https://google.com/search?q=koda.com.tw) | 10/12/2022 |   |
+| [`biotipo.com.br`](https://google.com/search?q=biotipo.com.br) | 10/12/2022 |   |
+| [`oltax.com`](https://google.com/search?q=oltax.com) | 10/12/2022 |   |
+| [`rhotelja.com`](https://google.com/search?q=rhotelja.com) | 09/12/2022 |   |
+| [`hawanasalalah.com`](https://google.com/search?q=hawanasalalah.com) | 09/12/2022 |   |
+| [`g4s.com`](https://google.com/search?q=g4s.com) | 06/12/2022 |   |
+| [`amundson.co.nz`](https://google.com/search?q=amundson.co.nz) | 06/12/2022 |   |
+| [`myersontooth.com`](https://google.com/search?q=myersontooth.com) | 06/12/2022 |   |
+| [`prinovaglobal.com`](https://google.com/search?q=prinovaglobal.com) | 05/12/2022 |   |
+| [`littleswitzerland.com`](https://google.com/search?q=littleswitzerland.com) | 05/12/2022 |   |
+| [`sentenia.net`](https://google.com/search?q=sentenia.net) | 05/12/2022 |   |
+| [`handrhealthcare.com`](https://google.com/search?q=handrhealthcare.com) | 05/12/2022 |   |
+| [`brunoy.fr`](https://google.com/search?q=brunoy.fr) | 05/12/2022 |   |
+| [`abilways.com`](https://google.com/search?q=abilways.com) | 04/12/2022 |   |
+| [`thorntontomasetti.com`](https://google.com/search?q=thorntontomasetti.com) | 02/12/2022 |   |
+| [`st-group.com`](https://google.com/search?q=st-group.com) | 02/12/2022 |   |
+| [`smithsinterconnect.com`](https://google.com/search?q=smithsinterconnect.com) | 02/12/2022 |   |
+| [`menziesaviation.com`](https://google.com/search?q=menziesaviation.com) | 02/12/2022 |   |
+| [`hildinganders.com`](https://google.com/search?q=hildinganders.com) | 02/12/2022 |   |
+| [`ckfinc.com`](https://google.com/search?q=ckfinc.com) | 02/12/2022 |   |
+| [`adamjeeinsurance.com`](https://google.com/search?q=adamjeeinsurance.com) | 02/12/2022 |   |
+| [`8x8.com`](https://google.com/search?q=8x8.com) | 02/12/2022 |   |
+| [`colonialgeneral.com`](https://google.com/search?q=colonialgeneral.com) | 29/11/2022 |   |
+| [`bankseta.org.za`](https://google.com/search?q=bankseta.org.za) | 28/11/2022 |   |
+| [`ssp-worldwide.com`](https://google.com/search?q=ssp-worldwide.com) | 22/11/2022 |   |
+| [`ryokikogyo.co.jp`](https://google.com/search?q=ryokikogyo.co.jp) | 22/11/2022 |   |
+| [`westmount.org`](https://google.com/search?q=westmount.org) | 20/11/2022 |   |
+| [`norseman.ca`](https://google.com/search?q=norseman.ca) | 19/11/2022 |   |
+| [`zagiel.pl`](https://google.com/search?q=zagiel.pl) | 15/11/2022 |   |
+| [`linkplus.com.hk`](https://google.com/search?q=linkplus.com.hk) | 15/11/2022 |   |
+| [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | 15/11/2022 |   |
+| [`gulfcoastwindows.com`](https://google.com/search?q=gulfcoastwindows.com) | 15/11/2022 |   |
+| [`amend.com.br`](https://google.com/search?q=amend.com.br) | 15/11/2022 |   |
+| [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | 14/11/2022 |   |
+| [`amarillogeeks.webhop.org`](https://google.com/search?q=amarillogeeks.webhop.org) | 11/11/2022 |   |
+| [`thecondorgroup.com`](https://google.com/search?q=thecondorgroup.com) | 09/11/2022 |   |
+| [`chahousing.org`](https://google.com/search?q=chahousing.org) | 09/11/2022 |   |
+| [`adnec.ae`](https://google.com/search?q=adnec.ae) | 09/11/2022 |   |
+| [`stavbar.cz`](https://google.com/search?q=stavbar.cz) | 09/11/2022 |   |
+| [`sinopecthc.com`](https://google.com/search?q=sinopecthc.com) | 09/11/2022 |   |
+| [`oehc.corsica`](https://google.com/search?q=oehc.corsica) | 09/11/2022 |   |
+| [`carone.com.mx`](https://google.com/search?q=carone.com.mx) | 09/11/2022 |   |
+| [`shmcomputers.screenconnect.com`](https://google.com/search?q=shmcomputers.screenconnect.com) | 09/11/2022 |   |
+| [`thaiho.com`](https://google.com/search?q=thaiho.com) | 08/11/2022 |   |
+| [`crtl.com`](https://google.com/search?q=crtl.com) | 08/11/2022 |   |
+| [`richard-wolf.com`](https://google.com/search?q=richard-wolf.com) | 07/11/2022 |   |
+| [`thenet.group`](https://google.com/search?q=thenet.group) | 06/11/2022 |   |
+| [`rockworthindia.com`](https://google.com/search?q=rockworthindia.com) | 06/11/2022 |   |
+| [`optiprint.ca`](https://google.com/search?q=optiprint.ca) | 06/11/2022 |   |
+| [`everstrong.com`](https://google.com/search?q=everstrong.com) | 05/11/2022 |   |
+| [`KEARNEYCO.COM`](https://google.com/search?q=KEARNEYCO.COM) | 05/11/2022 |   |
+| [`hettichbenelux.com`](https://google.com/search?q=hettichbenelux.com) | 03/11/2022 |   |
+| [`continental.com`](https://google.com/search?q=continental.com) | 03/11/2022 |   |
+| [`tekniplex.be`](https://google.com/search?q=tekniplex.be) | 03/11/2022 |   |
+| [`fiscosaudepe.com.br`](https://google.com/search?q=fiscosaudepe.com.br) | 01/11/2022 |   |
+| [`zurifurniture.com`](https://google.com/search?q=zurifurniture.com) | 31/10/2022 |   |
+| [`will-b.jp`](https://google.com/search?q=will-b.jp) | 31/10/2022 |   |
+| [`thalesgroup.com`](https://google.com/search?q=thalesgroup.com) | 31/10/2022 |   |
+| [`sociedadbilbaina.com`](https://google.com/search?q=sociedadbilbaina.com) | 31/10/2022 |   |
+| [`seamlessglobalsolutions.com`](https://google.com/search?q=seamlessglobalsolutions.com) | 31/10/2022 |   |
+| [`santimuni.com`](https://google.com/search?q=santimuni.com) | 31/10/2022 |   |
+| [`macrotel.com.ar`](https://google.com/search?q=macrotel.com.ar) | 31/10/2022 |   |
+| [`hoosierco.com`](https://google.com/search?q=hoosierco.com) | 31/10/2022 |   |
+| [`happmobi.com.br`](https://google.com/search?q=happmobi.com.br) | 31/10/2022 |   |
+| [`gruposanford.com`](https://google.com/search?q=gruposanford.com) | 31/10/2022 |   |
+| [`exco.fr`](https://google.com/search?q=exco.fr) | 31/10/2022 |   |
+| [`coopavegra.fi.cr`](https://google.com/search?q=coopavegra.fi.cr) | 31/10/2022 |   |
+| [`close-upinternational.com.uy`](https://google.com/search?q=close-upinternational.com.uy) | 31/10/2022 |   |
+| [`cacula.com`](https://google.com/search?q=cacula.com) | 31/10/2022 |   |
+| [`bellettiascensori.it`](https://google.com/search?q=bellettiascensori.it) | 30/10/2022 |   |
+| [`aaanchorbolt.com`](https://google.com/search?q=aaanchorbolt.com) | 30/10/2022 |   |
+| [`byp-global.com`](https://google.com/search?q=byp-global.com) | 30/10/2022 |   |
+| [`saurer.com`](https://google.com/search?q=saurer.com) | 30/10/2022 |   |
+| [`railway.gov.tw`](https://google.com/search?q=railway.gov.tw) | 30/10/2022 |   |
+| [`lincare.com`](https://google.com/search?q=lincare.com) | 30/10/2022 |   |
+| [`fvsra.org`](https://google.com/search?q=fvsra.org) | 29/10/2022 |   |
+| [`greenstamp.co.jp`](https://google.com/search?q=greenstamp.co.jp) | 29/10/2022 |   |
+| [`steelesolutions.com`](https://google.com/search?q=steelesolutions.com) | 27/10/2022 |   |
+| [`tiffinmetal.com`](https://google.com/search?q=tiffinmetal.com) | 27/10/2022 |   |
+| [`sskb.com.au`](https://google.com/search?q=sskb.com.au) | 25/10/2022 |   |
+| [`pendragonplc.com`](https://google.com/search?q=pendragonplc.com) | 24/10/2022 |   |
+| [`kingfisherinsurance.com`](https://google.com/search?q=kingfisherinsurance.com) | 17/10/2022 |   |
+| [`tokaisolidtire.com`](https://google.com/search?q=tokaisolidtire.com) | 16/10/2022 |   |
+| [`oomiya.co.jp`](https://google.com/search?q=oomiya.co.jp) | 16/10/2022 |   |
+| [`kingteam.com.tw`](https://google.com/search?q=kingteam.com.tw) | 16/10/2022 |   |
+| [`groupesavoie.com`](https://google.com/search?q=groupesavoie.com) | 16/10/2022 |   |
+| [`eureka-puzzle.eu`](https://google.com/search?q=eureka-puzzle.eu) | 16/10/2022 |   |
+| [`eeckman.eu`](https://google.com/search?q=eeckman.eu) | 16/10/2022 |   |
+| [`centurion.com.pl`](https://google.com/search?q=centurion.com.pl) | 15/10/2022 |   |
+| [`castemark.tw`](https://google.com/search?q=castemark.tw) | 15/10/2022 |   |
+| [`Quantumce.com`](https://google.com/search?q=Quantumce.com) | 15/10/2022 |   |
+| [`villajuris.be`](https://google.com/search?q=villajuris.be) | 15/10/2022 |   |
+| [`tamhash.co.il`](https://google.com/search?q=tamhash.co.il) | 15/10/2022 |   |
+| [`mk.co.th`](https://google.com/search?q=mk.co.th) | 15/10/2022 |   |
+| [`kilvington.vic.edu.au`](https://google.com/search?q=kilvington.vic.edu.au) | 14/10/2022 |   |
+| [`heronconstruction.co.nz`](https://google.com/search?q=heronconstruction.co.nz) | 14/10/2022 |   |
+| [`bankruptcypa.com`](https://google.com/search?q=bankruptcypa.com) | 14/10/2022 |   |
+| [`nelsonautohaus.com`](https://google.com/search?q=nelsonautohaus.com) | 13/10/2022 |   |
+| [`mtrx.com`](https://google.com/search?q=mtrx.com) | 12/10/2022 |   |
+| [`marktel.es`](https://google.com/search?q=marktel.es) | 12/10/2022 |   |
+| [`martel.es`](https://google.com/search?q=martel.es) | 12/10/2022 |   |
+| [`bigcenters.rs`](https://google.com/search?q=bigcenters.rs) | 12/10/2022 |   |
+| [`tdwood.com`](https://google.com/search?q=tdwood.com) | 11/10/2022 |   |
+| [`polycube.co.th`](https://google.com/search?q=polycube.co.th) | 10/10/2022 |   |
+| [`jtchapman.com`](https://google.com/search?q=jtchapman.com) | 10/10/2022 |   |
+| [`dmcinet.com`](https://google.com/search?q=dmcinet.com) | 10/10/2022 |   |
+| [`securityalliancegroup.com`](https://google.com/search?q=securityalliancegroup.com) | 09/10/2022 |   |
+| [`dragages-ports.fr`](https://google.com/search?q=dragages-ports.fr) | 09/10/2022 |   |
+| [`cedemo.com`](https://google.com/search?q=cedemo.com) | 09/10/2022 |   |
+| [`alliedusa.com`](https://google.com/search?q=alliedusa.com) | 09/10/2022 |   |
+| [`buydps.com`](https://google.com/search?q=buydps.com) | 09/10/2022 |   |
+| [`apunipima.org.au`](https://google.com/search?q=apunipima.org.au) | 06/10/2022 |   |
+| [`seaviewresortkhaolak.com`](https://google.com/search?q=seaviewresortkhaolak.com) | 01/10/2022 |   |
+| [`kimed.pl`](https://google.com/search?q=kimed.pl) | 01/10/2022 |   |
+| [`hriindia.com`](https://google.com/search?q=hriindia.com) | 01/10/2022 |   |
+| [`aidsalabama.org`](https://google.com/search?q=aidsalabama.org) | 30/09/2022 |   |
+| [`toyotaalabang.com.ph`](https://google.com/search?q=toyotaalabang.com.ph) | 30/09/2022 |   |
+| [`samyang.com`](https://google.com/search?q=samyang.com) | 29/09/2022 |   |
+| [`yehu.org`](https://google.com/search?q=yehu.org) | 28/09/2022 |   |
+| [`hdhopwood.com`](https://google.com/search?q=hdhopwood.com) | 28/09/2022 |   |
+| [`bew.co.th`](https://google.com/search?q=bew.co.th) | 28/09/2022 |   |
+| [`vitalityhp.net`](https://google.com/search?q=vitalityhp.net) | 27/09/2022 |   |
+| [`bliss-d.com`](https://google.com/search?q=bliss-d.com) | 27/09/2022 |   |
+| [`Nihonsakari Co. , Ltd`](https://google.com/search?q=Nihonsakari+Co.+%2C+Ltd) | 26/09/2022 |   |
+| [`quantumce.com`](https://google.com/search?q=quantumce.com) | 25/09/2022 |   |
+| [`multicareinc.com`](https://google.com/search?q=multicareinc.com) | 25/09/2022 |   |
+| [`melorita.com`](https://google.com/search?q=melorita.com) | 25/09/2022 |   |
+| [`rbroof.com`](https://google.com/search?q=rbroof.com) | 23/09/2022 |   |
+| [`idtech.com.tw`](https://google.com/search?q=idtech.com.tw) | 22/09/2022 |   |
+| [`congerbuilt.com`](https://google.com/search?q=congerbuilt.com) | 22/09/2022 |   |
+| [`webnordeste.com.br`](https://google.com/search?q=webnordeste.com.br) | 22/09/2022 |   |
+| [`thorguard.com`](https://google.com/search?q=thorguard.com) | 22/09/2022 |   |
+| [`yourprivateitaly.com`](https://google.com/search?q=yourprivateitaly.com) | 22/09/2022 |   |
+| [`uide.edu.ec`](https://google.com/search?q=uide.edu.ec) | 22/09/2022 |   |
+| [`scrd.ca`](https://google.com/search?q=scrd.ca) | 21/09/2022 |   |
+| [`parrottsims.com`](https://google.com/search?q=parrottsims.com) | 21/09/2022 |   |
+| [`ifwglobal.com`](https://google.com/search?q=ifwglobal.com) | 21/09/2022 |   |
+| [`elementnor.no`](https://google.com/search?q=elementnor.no) | 20/09/2022 |   |
+| [`psi.com.tw`](https://google.com/search?q=psi.com.tw) | 19/09/2022 |   |
+| [`okibrasil.com`](https://google.com/search?q=okibrasil.com) | 19/09/2022 |   |
+| [`mts.mektec.com`](https://google.com/search?q=mts.mektec.com) | 19/09/2022 |   |
+| [`ducanh.com`](https://google.com/search?q=ducanh.com) | 19/09/2022 |   |
+| [`franckbeun.fr`](https://google.com/search?q=franckbeun.fr) | 19/09/2022 |   |
+| [`hering-heinz.de`](https://google.com/search?q=hering-heinz.de) | 19/09/2022 |   |
+| [`First bounty payout $50,000`](https://google.com/search?q=First+bounty+payout+%2450%2C000) | 17/09/2022 |   |
+| [`scottobrothers.com`](https://google.com/search?q=scottobrothers.com) | 16/09/2022 |   |
+| [`kaffeeberlin.com`](https://google.com/search?q=kaffeeberlin.com) | 16/09/2022 |   |
+| [`equatortrustees.com`](https://google.com/search?q=equatortrustees.com) | 16/09/2022 |   |
+| [`ces-conditionneur.fr`](https://google.com/search?q=ces-conditionneur.fr) | 16/09/2022 |   |
+| [`software-line.it`](https://google.com/search?q=software-line.it) | 16/09/2022 |   |
+| [`asecna.org`](https://google.com/search?q=asecna.org) | 15/09/2022 |   |
+| [`dss-cz.com`](https://google.com/search?q=dss-cz.com) | 15/09/2022 |   |
+| [`midlandplastics.com`](https://google.com/search?q=midlandplastics.com) | 15/09/2022 |   |
+| [`nakamuracorp.co.jp`](https://google.com/search?q=nakamuracorp.co.jp) | 15/09/2022 |   |
+| [`medical69.com`](https://google.com/search?q=medical69.com) | 14/09/2022 |   |
+| [`d-securite.com`](https://google.com/search?q=d-securite.com) | 14/09/2022 |   |
+| [`aliat.group`](https://google.com/search?q=aliat.group) | 14/09/2022 |   |
+| [`southamptoncounty.org`](https://google.com/search?q=southamptoncounty.org) | 14/09/2022 |   |
+| [`makler.com.ve`](https://google.com/search?q=makler.com.ve) | 14/09/2022 |   |
+| [`independence.com.co`](https://google.com/search?q=independence.com.co) | 14/09/2022 |   |
+| [`cnachile.cl`](https://google.com/search?q=cnachile.cl) | 14/09/2022 |   |
+| [`markherder.com`](https://google.com/search?q=markherder.com) | 14/09/2022 |   |
+| [`inspecshawaii.com`](https://google.com/search?q=inspecshawaii.com) | 14/09/2022 |   |
+| [`ville-faulquemont.fr`](https://google.com/search?q=ville-faulquemont.fr) | 14/09/2022 |   |
+| [`thezincgroup.com`](https://google.com/search?q=thezincgroup.com) | 14/09/2022 |   |
+| [`taxprepandmore.com`](https://google.com/search?q=taxprepandmore.com) | 14/09/2022 |   |
+| [`tapcocu.org`](https://google.com/search?q=tapcocu.org) | 14/09/2022 |   |
+| [`sva-avignon.concession-landrover.fr`](https://google.com/search?q=sva-avignon.concession-landrover.fr) | 14/09/2022 |   |
+| [`sarassure.fr`](https://google.com/search?q=sarassure.fr) | 14/09/2022 |   |
+| [`quintal.com.co`](https://google.com/search?q=quintal.com.co) | 14/09/2022 |   |
+| [`pays-colombey-sudtoulois.fr`](https://google.com/search?q=pays-colombey-sudtoulois.fr) | 14/09/2022 |   |
+| [`mj-donnais.fr`](https://google.com/search?q=mj-donnais.fr) | 14/09/2022 |   |
+| [`maleosante.fr`](https://google.com/search?q=maleosante.fr) | 14/09/2022 |   |
+| [`maisonloisy.fr`](https://google.com/search?q=maisonloisy.fr) | 14/09/2022 |   |
+| [`mackenzie-law.co.uk`](https://google.com/search?q=mackenzie-law.co.uk) | 14/09/2022 |   |
+| [`lagence33.com`](https://google.com/search?q=lagence33.com) | 14/09/2022 |   |
+| [`kwp.at`](https://google.com/search?q=kwp.at) | 14/09/2022 |   |
+| [`kcgreenholdings.com`](https://google.com/search?q=kcgreenholdings.com) | 14/09/2022 |   |
+| [`jt-engineering.com`](https://google.com/search?q=jt-engineering.com) | 14/09/2022 |   |
+| [`euromip.fr`](https://google.com/search?q=euromip.fr) | 14/09/2022 |   |
+| [`euro-modules.fr`](https://google.com/search?q=euro-modules.fr) | 14/09/2022 |   |
+| [`daune.org`](https://google.com/search?q=daune.org) | 14/09/2022 |   |
+| [`cultivar.net`](https://google.com/search?q=cultivar.net) | 14/09/2022 |   |
+| [`cmb-artimmo.com`](https://google.com/search?q=cmb-artimmo.com) | 14/09/2022 |   |
+| [`cityofbartlett.org`](https://google.com/search?q=cityofbartlett.org) | 14/09/2022 |   |
+| [`camdomain.com`](https://google.com/search?q=camdomain.com) | 14/09/2022 |   |
+| [`artdis.fr`](https://google.com/search?q=artdis.fr) | 14/09/2022 |   |
+| [`aipcenergy.com`](https://google.com/search?q=aipcenergy.com) | 14/09/2022 |   |
+| [`idealtridon.com`](https://google.com/search?q=idealtridon.com) | 14/09/2022 |   |
+| [`bakkerheftrucks.com`](https://google.com/search?q=bakkerheftrucks.com) | 13/09/2022 |   |
+| [`bakkerheftrucks.local`](https://google.com/search?q=bakkerheftrucks.local) | 13/09/2022 |   |
+| [`omegaservices.com.au`](https://google.com/search?q=omegaservices.com.au) | 12/09/2022 |   |
+| [`frigobandeira.com`](https://google.com/search?q=frigobandeira.com) | 12/09/2022 |   |
+| [`ch-sf.fr`](https://google.com/search?q=ch-sf.fr) | 12/09/2022 |   |
+| [`ch-sf.fr (old)`](https://google.com/search?q=ch-sf.fr+%28old%29) | 12/09/2022 |   |
+| [`hamiota.com`](https://google.com/search?q=hamiota.com) | 11/09/2022 |   |
+| [`canadiansolar.com`](https://google.com/search?q=canadiansolar.com) | 11/09/2022 |   |
+| [`aralaw.cr`](https://google.com/search?q=aralaw.cr) | 11/09/2022 |   |
+| [`marugokiso.co.jp`](https://google.com/search?q=marugokiso.co.jp) | 09/09/2022 |   |
+| [`lacalera.pe`](https://google.com/search?q=lacalera.pe) | 09/09/2022 |   |
+| [`diakonissen-riehen.ch`](https://google.com/search?q=diakonissen-riehen.ch) | 09/09/2022 |   |
+| [`dcashpro.com`](https://google.com/search?q=dcashpro.com) | 09/09/2022 |   |
+| [`connectvitypoint.com`](https://google.com/search?q=connectvitypoint.com) | 09/09/2022 |   |
+| [`kisan.com.tr`](https://google.com/search?q=kisan.com.tr) | 09/09/2022 |   |
+| [`kortrijkserijschool.be`](https://google.com/search?q=kortrijkserijschool.be) | 09/09/2022 |   |
+| [`marcopolohotels.com`](https://google.com/search?q=marcopolohotels.com) | 07/09/2022 |   |
+| [`hunters.com`](https://google.com/search?q=hunters.com) | 07/09/2022 |   |
+| [`misumi.com.tw`](https://google.com/search?q=misumi.com.tw) | 07/09/2022 |   |
+| [`metaage.com.tw`](https://google.com/search?q=metaage.com.tw) | 07/09/2022 |   |
+| [`lafondasantafe.com`](https://google.com/search?q=lafondasantafe.com) | 06/09/2022 |   |
+| [`gavresorts.com.br`](https://google.com/search?q=gavresorts.com.br) | 06/09/2022 |   |
+| [`sbr-zwiesel.de`](https://google.com/search?q=sbr-zwiesel.de) | 05/09/2022 |   |
+| [`pdh.com.tw`](https://google.com/search?q=pdh.com.tw) | 05/09/2022 |   |
+| [`monnensenpartners.be`](https://google.com/search?q=monnensenpartners.be) | 05/09/2022 |   |
+| [`sportscity.com.tw`](https://google.com/search?q=sportscity.com.tw) | 05/09/2022 |   |
+| [`finnco.eu`](https://google.com/search?q=finnco.eu) | 05/09/2022 |   |
+| [`www3.comune.gorizia.it`](https://google.com/search?q=www3.comune.gorizia.it) | 05/09/2022 |   |
+| [`kamut.com`](https://google.com/search?q=kamut.com) | 05/09/2022 |   |
+| [`divultec.pt`](https://google.com/search?q=divultec.pt) | 05/09/2022 |   |
+| [`eneva.com.br`](https://google.com/search?q=eneva.com.br) | 05/09/2022 |   |
+| [`hmets.com`](https://google.com/search?q=hmets.com) | 04/09/2022 |   |
+| [`floresfunza.com`](https://google.com/search?q=floresfunza.com) | 04/09/2022 |   |
+| [`peakinternational.com`](https://google.com/search?q=peakinternational.com) | 02/09/2022 |   |
+| [`solidatech.com`](https://google.com/search?q=solidatech.com) | 01/09/2022 |   |
+| [`precision.com`](https://google.com/search?q=precision.com) | 01/09/2022 |   |
+| [`hspatent.com`](https://google.com/search?q=hspatent.com) | 01/09/2022 |   |
+| [`MEIJI.COM.SG`](https://google.com/search?q=MEIJI.COM.SG) | 31/08/2022 |   |
+| [`currierryan.com`](https://google.com/search?q=currierryan.com) | 29/08/2022 |   |
+| [`ygboulons.com`](https://google.com/search?q=ygboulons.com) | 28/08/2022 |   |
+| [`uplexis.com.br`](https://google.com/search?q=uplexis.com.br) | 28/08/2022 |   |
+| [`embalajescapsa.com`](https://google.com/search?q=embalajescapsa.com) | 28/08/2022 |   |
+| [`accionplus.com`](https://google.com/search?q=accionplus.com) | 28/08/2022 |   |
+| [`goodwillnm.org`](https://google.com/search?q=goodwillnm.org) | 28/08/2022 |   |
+| [`thininfra.nl`](https://google.com/search?q=thininfra.nl) | 26/08/2022 |   |
+| [`stjohnvianney.org`](https://google.com/search?q=stjohnvianney.org) | 26/08/2022 |   |
+| [`stevesilvaplumbing.com`](https://google.com/search?q=stevesilvaplumbing.com) | 26/08/2022 |   |
+| [`statravel.de`](https://google.com/search?q=statravel.de) | 26/08/2022 |   |
+| [`sportlavit.nl`](https://google.com/search?q=sportlavit.nl) | 26/08/2022 |   |
+| [`perteet.com`](https://google.com/search?q=perteet.com) | 26/08/2022 |   |
+| [`microdepot.com`](https://google.com/search?q=microdepot.com) | 26/08/2022 |   |
+| [`lenax.com`](https://google.com/search?q=lenax.com) | 26/08/2022 |   |
+| [`kkcsworld.com`](https://google.com/search?q=kkcsworld.com) | 26/08/2022 |   |
+| [`galenica.ma`](https://google.com/search?q=galenica.ma) | 26/08/2022 |   |
+| [`draperyconceptsny.com`](https://google.com/search?q=draperyconceptsny.com) | 26/08/2022 |   |
+| [`cenviro.com`](https://google.com/search?q=cenviro.com) | 26/08/2022 |   |
+| [`americantilestone.com`](https://google.com/search?q=americantilestone.com) | 26/08/2022 |   |
+| [`trufab.com`](https://google.com/search?q=trufab.com) | 26/08/2022 |   |
+| [`canteen.com`](https://google.com/search?q=canteen.com) | 26/08/2022 |   |
+| [`hikadikoy.com`](https://google.com/search?q=hikadikoy.com) | 26/08/2022 |   |
+| [`centrodsr.it`](https://google.com/search?q=centrodsr.it) | 26/08/2022 |   |
+| [`growag.ch`](https://google.com/search?q=growag.ch) | 25/08/2022 |   |
+| [`studiobarba.com`](https://google.com/search?q=studiobarba.com) | 23/08/2022 |   |
+| [`ruffinlawyers.com.au`](https://google.com/search?q=ruffinlawyers.com.au) | 23/08/2022 |   |
+| [`robitgroup.com`](https://google.com/search?q=robitgroup.com) | 23/08/2022 |   |
+| [`pinjuhlaw.com`](https://google.com/search?q=pinjuhlaw.com) | 23/08/2022 |   |
+| [`orioninc.com`](https://google.com/search?q=orioninc.com) | 23/08/2022 |   |
+| [`destinationhope.com`](https://google.com/search?q=destinationhope.com) | 23/08/2022 |   |
+| [`barrydowd.com`](https://google.com/search?q=barrydowd.com) | 23/08/2022 |   |
+| [`northwestpipe.com`](https://google.com/search?q=northwestpipe.com) | 22/08/2022 |   |
+| [`wabteccorp.com`](https://google.com/search?q=wabteccorp.com) | 18/08/2022 |   |
+| [`traveldoc.ca`](https://google.com/search?q=traveldoc.ca) | 18/08/2022 |   |
+| [`entrust.com`](https://google.com/search?q=entrust.com) | 18/08/2022 |   |
+| [`megal.com`](https://google.com/search?q=megal.com) | 18/08/2022 |   |
+| [`porcelanosa-usa.com`](https://google.com/search?q=porcelanosa-usa.com) | 16/08/2022 |   |
+| [`tier1techs.screenconnect.com`](https://google.com/search?q=tier1techs.screenconnect.com) | 16/08/2022 |   |
+| [`ospreyvideo.com`](https://google.com/search?q=ospreyvideo.com) | 16/08/2022 |   |
+| [`altaadhod.com`](https://google.com/search?q=altaadhod.com) | 16/08/2022 |   |
+| [`vsainc.com`](https://google.com/search?q=vsainc.com) | 13/08/2022 |   |
+| [`qualitymedicalinc.com`](https://google.com/search?q=qualitymedicalinc.com) | 13/08/2022 |   |
+| [`pinnick.co.uk`](https://google.com/search?q=pinnick.co.uk) | 13/08/2022 |   |
+| [`centuryaluminum.com`](https://google.com/search?q=centuryaluminum.com) | 13/08/2022 |   |
+| [`besttaxfiler.com`](https://google.com/search?q=besttaxfiler.com) | 13/08/2022 |   |
+| [`beckerlaw.com`](https://google.com/search?q=beckerlaw.com) | 13/08/2022 |   |
+| [`whitworth.edu`](https://google.com/search?q=whitworth.edu) | 10/08/2022 |   |
+| [`okcu.edu`](https://google.com/search?q=okcu.edu) | 10/08/2022 |   |
+| [`ah-a.de`](https://google.com/search?q=ah-a.de) | 09/08/2022 |   |
+| [`FOSUN.COM`](https://google.com/search?q=FOSUN.COM) | 09/08/2022 |   |
+| [`versma.com`](https://google.com/search?q=versma.com) | 07/08/2022 |   |
+| [`ring-plastik.de`](https://google.com/search?q=ring-plastik.de) | 07/08/2022 |   |
+| [`unimasters.com`](https://google.com/search?q=unimasters.com) | 06/08/2022 |   |
+| [`wrschool.net`](https://google.com/search?q=wrschool.net) | 06/08/2022 |   |
+| [`trialpro.com`](https://google.com/search?q=trialpro.com) | 06/08/2022 |   |
+| [`newwestmetals.com`](https://google.com/search?q=newwestmetals.com) | 06/08/2022 |   |
+| [`hatcherins.com`](https://google.com/search?q=hatcherins.com) | 06/08/2022 |   |
+| [`tekinox.it`](https://google.com/search?q=tekinox.it) | 02/08/2022 |   |
+| [`obriengroupaustralia.com.au`](https://google.com/search?q=obriengroupaustralia.com.au) | 02/08/2022 |   |
+| [`kangaroo.vn`](https://google.com/search?q=kangaroo.vn) | 02/08/2022 |   |
+| [`casapellas.com`](https://google.com/search?q=casapellas.com) | 02/08/2022 |   |
+| [`scohil.com`](https://google.com/search?q=scohil.com) | 01/08/2022 |   |
+| [`preflooring.com`](https://google.com/search?q=preflooring.com) | 01/08/2022 |   |
+| [`shopper360.com.my`](https://google.com/search?q=shopper360.com.my) | 01/08/2022 |   |
+| [`get.es`](https://google.com/search?q=get.es) | 31/07/2022 |   |
+| [`vytelle.com`](https://google.com/search?q=vytelle.com) | 31/07/2022 |   |
+| [`emunworks.com`](https://google.com/search?q=emunworks.com) | 31/07/2022 |   |
+| [`autoliv.com`](https://google.com/search?q=autoliv.com) | 29/07/2022 |   |
+| [`fruca.es`](https://google.com/search?q=fruca.es) | 28/07/2022 |   |
+| [`armassist.ie`](https://google.com/search?q=armassist.ie) | 28/07/2022 |   |
+| [`correounir.com.ar`](https://google.com/search?q=correounir.com.ar) | 28/07/2022 |   |
+| [`maldegem.be`](https://google.com/search?q=maldegem.be) | 27/07/2022 |   |
+| [`groupe-helios.com`](https://google.com/search?q=groupe-helios.com) | 27/07/2022 |   |
+| [`cheungwoh.com.sg`](https://google.com/search?q=cheungwoh.com.sg) | 26/07/2022 |   |
+| [`ymaunivers.com`](https://google.com/search?q=ymaunivers.com) | 26/07/2022 |   |
+| [`sieam.fr`](https://google.com/search?q=sieam.fr) | 26/07/2022 |   |
+| [`ginko.com.tw`](https://google.com/search?q=ginko.com.tw) | 25/07/2022 |   |
+| [`eclipse-print.com`](https://google.com/search?q=eclipse-print.com) | 25/07/2022 |   |
+| [`overseas-ast.com`](https://google.com/search?q=overseas-ast.com) | 25/07/2022 |   |
+| [`legacy-hospitality.com`](https://google.com/search?q=legacy-hospitality.com) | 25/07/2022 |   |
+| [`agenziaentrate.gov.it`](https://google.com/search?q=agenziaentrate.gov.it) | 25/07/2022 |   |
+| [`riken.co.jp`](https://google.com/search?q=riken.co.jp) | 24/07/2022 |   |
+| [`daytonsuperior.com`](https://google.com/search?q=daytonsuperior.com) | 24/07/2022 |   |
+| [`roedeanschool.co.za`](https://google.com/search?q=roedeanschool.co.za) | 23/07/2022 |   |
+| [`lanormandise.fr`](https://google.com/search?q=lanormandise.fr) | 22/07/2022 |   |
+| [`laneprint.com.au`](https://google.com/search?q=laneprint.com.au) | 22/07/2022 |   |
+| [`Yong Mao Environmental Tech. Co.,Ltd`](https://google.com/search?q=Yong+Mao+Environmental+Tech.+Co.%2CLtd) | 22/07/2022 |   |
+| [`taylorstafford.com`](https://google.com/search?q=taylorstafford.com) | 22/07/2022 |   |
+| [`osde.com.ar`](https://google.com/search?q=osde.com.ar) | 22/07/2022 |   |
+| [`zhulian.co.th`](https://google.com/search?q=zhulian.co.th) | 22/07/2022 |   |
+| [`townofstmarys.com`](https://google.com/search?q=townofstmarys.com) | 22/07/2022 |   |
+| [`bizebra.com`](https://google.com/search?q=bizebra.com) | 22/07/2022 |   |
+| [`a2-pas.fr`](https://google.com/search?q=a2-pas.fr) | 21/07/2022 |   |
+| [`ocrex.com`](https://google.com/search?q=ocrex.com) | 21/07/2022 |   |
+| [`mwd.digital`](https://google.com/search?q=mwd.digital) | 21/07/2022 |   |
+| [`mec.com`](https://google.com/search?q=mec.com) | 20/07/2022 |   |
+| [`lexingtonnational.com`](https://google.com/search?q=lexingtonnational.com) | 20/07/2022 |   |
+| [`competencia.com.ec`](https://google.com/search?q=competencia.com.ec) | 20/07/2022 |   |
+| [`coastalmedps.com`](https://google.com/search?q=coastalmedps.com) | 20/07/2022 |   |
+| [`addconsult.nl`](https://google.com/search?q=addconsult.nl) | 20/07/2022 |   |
+| [`cristianaspinecenter.com`](https://google.com/search?q=cristianaspinecenter.com) | 19/07/2022 |   |
+| [`crbrandsinc.com`](https://google.com/search?q=crbrandsinc.com) | 19/07/2022 |   |
+| [`rovagnati.it`](https://google.com/search?q=rovagnati.it) | 19/07/2022 |   |
+| [`madcoenergi.com`](https://google.com/search?q=madcoenergi.com) | 19/07/2022 |   |
+| [`fedefarma.com`](https://google.com/search?q=fedefarma.com) | 19/07/2022 |   |
+| [`cpicfiber.com`](https://google.com/search?q=cpicfiber.com) | 19/07/2022 |   |
+| [`columbiagrain.com`](https://google.com/search?q=columbiagrain.com) | 19/07/2022 |   |
+| [`clestra.com`](https://google.com/search?q=clestra.com) | 19/07/2022 |   |
+| [`bizframe.co.za`](https://google.com/search?q=bizframe.co.za) | 18/07/2022 |   |
+| [`integrate.ch`](https://google.com/search?q=integrate.ch) | 18/07/2022 |   |
+| [`aresfoods.ca`](https://google.com/search?q=aresfoods.ca) | 18/07/2022 |   |
+| [`sig.id`](https://google.com/search?q=sig.id) | 17/07/2022 |   |
+| [`frederickco.gov`](https://google.com/search?q=frederickco.gov) | 14/07/2022 |   |
+| [`genusplc.com`](https://google.com/search?q=genusplc.com) | 14/07/2022 |   |
+| [`vlp.nl`](https://google.com/search?q=vlp.nl) | 14/07/2022 |   |
+| [`iis.ac.uk`](https://google.com/search?q=iis.ac.uk) | 14/07/2022 |   |
+| [`etgworld.com`](https://google.com/search?q=etgworld.com) | 14/07/2022 |   |
+| [`emprint.com`](https://google.com/search?q=emprint.com) | 09/07/2022 |   |
+| [`acac.com`](https://google.com/search?q=acac.com) | 08/07/2022 |   |
+| [`lapostemobile.fr`](https://google.com/search?q=lapostemobile.fr) | 07/07/2022 |   |
+| [`carnbrea.com.au`](https://google.com/search?q=carnbrea.com.au) | 07/07/2022 |   |
+| [`alpachem.com`](https://google.com/search?q=alpachem.com) | 06/07/2022 |   |
+| [`cabbageinc.com`](https://google.com/search?q=cabbageinc.com) | 06/07/2022 |   |
+| [`bosco-avocats.com`](https://google.com/search?q=bosco-avocats.com) | 02/07/2022 |   |
+| [`faacgroup.com`](https://google.com/search?q=faacgroup.com) | 02/07/2022 |   |
+| [`lesbureauxdelepargne.com`](https://google.com/search?q=lesbureauxdelepargne.com) | 02/07/2022 |   |
+| [`plravocats.fr`](https://google.com/search?q=plravocats.fr) | 02/07/2022 |   |
+| [`slpcolombus.com`](https://google.com/search?q=slpcolombus.com) | 02/07/2022 |   |
+| [`axelcium.com`](https://google.com/search?q=axelcium.com) | 02/07/2022 |   |
+| [`sigma-alimentos.com`](https://google.com/search?q=sigma-alimentos.com) | 01/07/2022 |   |
+| [`diodes.com`](https://google.com/search?q=diodes.com) | 30/06/2022 |   |
+| [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | 29/06/2022 |   |
+| [`lonseal.com`](https://google.com/search?q=lonseal.com) | 29/06/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5042,11 +5045,11 @@ _`marketplace - not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| `[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103` | 09/09/2021 |   |
-| `[Saudi Arabia] Al Wefag Trading & Manufacturing` | 09/09/2021 |   |
-| `[CZ]  GORDIC spol. s r.o.` | 09/09/2021 |   |
-| `[USA] Crary Industries Inc.` | 09/09/2021 |   |
-| `[CHINA] TCL China Star Optoelectronics Technology Co., Ltd` | 09/09/2021 |   |
+| [`[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103`](https://google.com/search?q=%5BUSA%5D+OrthoCare%2C+700+Lake+Ave%2C+Ste+6%2C+Manchester%2C+New+Hampshire%2C+03103) | 09/09/2021 |   |
+| [`[Saudi Arabia] Al Wefag Trading & Manufacturing`](https://google.com/search?q=%5BSaudi+Arabia%5D+Al+Wefag+Trading+%26+Manufacturing) | 09/09/2021 |   |
+| [`[CZ]  GORDIC spol. s r.o.`](https://google.com/search?q=%5BCZ%5D++GORDIC+spol.+s+r.o.) | 09/09/2021 |   |
+| [`[USA] Crary Industries Inc.`](https://google.com/search?q=%5BUSA%5D+Crary+Industries+Inc.) | 09/09/2021 |   |
+| [`[CHINA] TCL China Star Optoelectronics Technology Co., Ltd`](https://google.com/search?q=%5BCHINA%5D+TCL+China+Star+Optoelectronics+Technology+Co.%2C+Ltd) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5099,61 +5102,61 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 | post | date | Description
 |---|---|---|
-| `Albina Asphalt` | 07/12/2022 |   |
-| `Holler-Classic` | 30/11/2022 |   |
-| `Nissan of Las Cruces` | 14/11/2022 |   |
-| `Salud Family Health` | 14/11/2022 |   |
-| `Main & Main Capital Group` | 10/11/2022 |   |
-| `Miracapo pizza company` | 27/10/2022 |   |
-| `Wes-tec inc.` | 18/10/2022 |   |
-| `Laddawn Inc.` | 16/09/2022 |   |
-| `Engine Power` | 23/08/2022 |   |
-| `Northern Contours Inc.` | 22/08/2022 |   |
-| `Fandeli` | 29/07/2022 |   |
-| `Van Ausdall & Farrar, inc` | 13/07/2022 |   |
-| `Biothane usa` | 13/07/2022 |   |
-| `Gresco` | 13/07/2022 |   |
-| `Uppco` | 11/07/2022 |   |
-| `Wis-Pak, Inc` | 05/07/2022 |   |
-| `Bonneville Collections` | 27/06/2022 |   |
-| `Westwood` | 31/05/2022 |   |
-| `Mebulbs` | 26/05/2022 |   |
-| `Magtek` | 19/05/2022 |   |
-| `Brunk Industries Inc.` | 16/05/2022 |   |
-| `AmCham Shanghai` | 16/05/2022 |   |
-| `Tosoh Corporation` | 05/05/2022 |   |
-| `Tosoh Bioscience` | 04/05/2022 |   |
-| `Morrie's Auto Group` | 21/04/2022 |   |
-| `Musco Sports Lighting` | 14/04/2022 |   |
-| `Simply Placed` | 13/04/2022 |   |
-| `DeeZee` | 12/04/2022 |   |
-| `Advizrs` | 11/04/2022 |   |
-| `Keicorp(ICPM)` | 06/04/2022 |   |
-| `Biz Retek` | 29/03/2022 |   |
-| `Fuji America Corporation` | 15/03/2022 |   |
-| `VadaTech` | 15/03/2022 |   |
-| `Ward Hadaway` | 15/03/2022 |   |
-| `Hensoldt` | 11/01/2022 |   |
-| `Turner Enterprises, Inc.` | 23/12/2021 |   |
-| `Kenall/Legrand` | 14/12/2021 |   |
-| `Component Assembly Systems` | 15/11/2021 |   |
-| `SCREEN Holdings` | 21/09/2021 |   |
-| `Sebastian` | 10/08/2021 |   |
-| `Miller-Valentine Group` | 29/07/2021 |   |
-| `MPS Credit Union` | 27/07/2021 |   |
-| `Buchanan Hauling & Rigging` | 24/06/2021 |   |
-| `Langs Building Supplies Pty Ltd` | 01/06/2021 |   |
-| `Challenge Manufacturing Company` | 11/05/2021 |   |
-| `Airtech Advanced Materials Group` | 29/04/2021 |   |
-| `DNS Toptech` | 13/04/2021 |   |
-| `Joy Cone` | 11/04/2021 |   |
-| `Wolfe Eye Clinic` | 01/04/2021 |   |
-| `Bases Conversion and Development Authority (BCDA)` | 01/04/2021 |   |
-| `Tygavac ltd.` | 01/04/2021 |   |
-| `The managementtrust` | 11/02/2021 |   |
-| `Multifeeder` | 10/01/2021 |   |
-| `Commport Communications` | 20/12/2020 |   |
-| `Windemuller` | 12/01/2020 |   |
+| [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | 07/12/2022 |   |
+| [`Holler-Classic`](https://google.com/search?q=Holler-Classic) | 30/11/2022 |   |
+| [`Nissan of Las Cruces`](https://google.com/search?q=Nissan+of+Las+Cruces) | 14/11/2022 |   |
+| [`Salud Family Health`](https://google.com/search?q=Salud+Family+Health) | 14/11/2022 |   |
+| [`Main & Main Capital Group`](https://google.com/search?q=Main+%26+Main+Capital+Group) | 10/11/2022 |   |
+| [`Miracapo pizza company`](https://google.com/search?q=Miracapo+pizza+company) | 27/10/2022 |   |
+| [`Wes-tec inc.`](https://google.com/search?q=Wes-tec+inc.) | 18/10/2022 |   |
+| [`Laddawn Inc.`](https://google.com/search?q=Laddawn+Inc.) | 16/09/2022 |   |
+| [`Engine Power`](https://google.com/search?q=Engine+Power) | 23/08/2022 |   |
+| [`Northern Contours Inc.`](https://google.com/search?q=Northern+Contours+Inc.) | 22/08/2022 |   |
+| [`Fandeli`](https://google.com/search?q=Fandeli) | 29/07/2022 |   |
+| [`Van Ausdall & Farrar, inc`](https://google.com/search?q=Van+Ausdall+%26+Farrar%2C+inc) | 13/07/2022 |   |
+| [`Biothane usa`](https://google.com/search?q=Biothane+usa) | 13/07/2022 |   |
+| [`Gresco`](https://google.com/search?q=Gresco) | 13/07/2022 |   |
+| [`Uppco`](https://google.com/search?q=Uppco) | 11/07/2022 |   |
+| [`Wis-Pak, Inc`](https://google.com/search?q=Wis-Pak%2C+Inc) | 05/07/2022 |   |
+| [`Bonneville Collections`](https://google.com/search?q=Bonneville+Collections) | 27/06/2022 |   |
+| [`Westwood`](https://google.com/search?q=Westwood) | 31/05/2022 |   |
+| [`Mebulbs`](https://google.com/search?q=Mebulbs) | 26/05/2022 |   |
+| [`Magtek`](https://google.com/search?q=Magtek) | 19/05/2022 |   |
+| [`Brunk Industries Inc.`](https://google.com/search?q=Brunk+Industries+Inc.) | 16/05/2022 |   |
+| [`AmCham Shanghai`](https://google.com/search?q=AmCham+Shanghai) | 16/05/2022 |   |
+| [`Tosoh Corporation`](https://google.com/search?q=Tosoh+Corporation) | 05/05/2022 |   |
+| [`Tosoh Bioscience`](https://google.com/search?q=Tosoh+Bioscience) | 04/05/2022 |   |
+| [`Morrie's Auto Group`](https://google.com/search?q=Morrie%27s+Auto+Group) | 21/04/2022 |   |
+| [`Musco Sports Lighting`](https://google.com/search?q=Musco+Sports+Lighting) | 14/04/2022 |   |
+| [`Simply Placed`](https://google.com/search?q=Simply+Placed) | 13/04/2022 |   |
+| [`DeeZee`](https://google.com/search?q=DeeZee) | 12/04/2022 |   |
+| [`Advizrs`](https://google.com/search?q=Advizrs) | 11/04/2022 |   |
+| [`Keicorp(ICPM)`](https://google.com/search?q=Keicorp%28ICPM%29) | 06/04/2022 |   |
+| [`Biz Retek`](https://google.com/search?q=Biz+Retek) | 29/03/2022 |   |
+| [`Fuji America Corporation`](https://google.com/search?q=Fuji+America+Corporation) | 15/03/2022 |   |
+| [`VadaTech`](https://google.com/search?q=VadaTech) | 15/03/2022 |   |
+| [`Ward Hadaway`](https://google.com/search?q=Ward+Hadaway) | 15/03/2022 |   |
+| [`Hensoldt`](https://google.com/search?q=Hensoldt) | 11/01/2022 |   |
+| [`Turner Enterprises, Inc.`](https://google.com/search?q=Turner+Enterprises%2C+Inc.) | 23/12/2021 |   |
+| [`Kenall/Legrand`](https://google.com/search?q=Kenall%2FLegrand) | 14/12/2021 |   |
+| [`Component Assembly Systems`](https://google.com/search?q=Component+Assembly+Systems) | 15/11/2021 |   |
+| [`SCREEN Holdings`](https://google.com/search?q=SCREEN+Holdings) | 21/09/2021 |   |
+| [`Sebastian`](https://google.com/search?q=Sebastian) | 10/08/2021 |   |
+| [`Miller-Valentine Group`](https://google.com/search?q=Miller-Valentine+Group) | 29/07/2021 |   |
+| [`MPS Credit Union`](https://google.com/search?q=MPS+Credit+Union) | 27/07/2021 |   |
+| [`Buchanan Hauling & Rigging`](https://google.com/search?q=Buchanan+Hauling+%26+Rigging) | 24/06/2021 |   |
+| [`Langs Building Supplies Pty Ltd`](https://google.com/search?q=Langs+Building+Supplies+Pty+Ltd) | 01/06/2021 |   |
+| [`Challenge Manufacturing Company`](https://google.com/search?q=Challenge+Manufacturing+Company) | 11/05/2021 |   |
+| [`Airtech Advanced Materials Group`](https://google.com/search?q=Airtech+Advanced+Materials+Group) | 29/04/2021 |   |
+| [`DNS Toptech`](https://google.com/search?q=DNS+Toptech) | 13/04/2021 |   |
+| [`Joy Cone`](https://google.com/search?q=Joy+Cone) | 11/04/2021 |   |
+| [`Wolfe Eye Clinic`](https://google.com/search?q=Wolfe+Eye+Clinic) | 01/04/2021 |   |
+| [`Bases Conversion and Development Authority (BCDA)`](https://google.com/search?q=Bases+Conversion+and+Development+Authority+%28BCDA%29) | 01/04/2021 |   |
+| [`Tygavac ltd.`](https://google.com/search?q=Tygavac+ltd.) | 01/04/2021 |   |
+| [`The managementtrust`](https://google.com/search?q=The+managementtrust) | 11/02/2021 |   |
+| [`Multifeeder`](https://google.com/search?q=Multifeeder) | 10/01/2021 |   |
+| [`Commport Communications`](https://google.com/search?q=Commport+Communications) | 20/12/2020 |   |
+| [`Windemuller`](https://google.com/search?q=Windemuller) | 12/01/2020 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5185,69 +5188,69 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 | post | date | Description
 |---|---|---|
-| `GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA` | 27/11/2022 |   |
-| `UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P` | 19/11/2022 |   |
-| `THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.` | 14/11/2022 |   |
-| `BRAZILIAN PET FOODS` | 11/11/2022 |   |
-| `LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.` | 09/11/2022 |   |
-| `CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED` | 03/11/2022 |   |
-| `Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED` | 02/11/2022 |   |
-| `AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED` | 02/11/2022 |   |
-| `WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!` | 02/11/2022 |   |
-| `PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED` | 02/11/2022 |   |
-| `THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED` | 02/11/2022 |   |
-| `ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED` | 02/11/2022 |   |
-| `GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION` | 02/11/2022 |   |
-| `SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN` | 02/11/2022 |   |
-| `KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED` | 02/11/2022 |   |
-| `SICOTEC WAS HACKED. 200GB SENSETIVE DATA LEAKED` | 02/11/2022 |   |
-| `ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED` | 25/08/2022 |   |
-| `ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN` | 15/08/2022 |   |
-| `STTLK - HACKED AND MORE THEN 200GB DATA LEAKED` | 13/08/2022 |   |
-| `valverdehotel.com` | 09/08/2022 |   |
-| `SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN` | 04/08/2022 |   |
-| `WARTSILA DATA - ATTENTION !!!` | 04/08/2022 |   |
-| `STTLK` | 04/08/2022 |   |
-| `BAFNAGROUP.COM - HACKED AND MORE THEN 20 GB DATA LEAKED` | 31/07/2022 |   |
-| `Hong Kong Special Care Dentistry Association Limited` | 29/07/2022 |   |
-| `studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED` | 27/07/2022 |   |
-| `ryanhanley.ie - HACKED AND MORE THEN 200GB DATA LEAKED` | 25/07/2022 |   |
-| `sppc.com.sa - HACKED and more then 900GB data leaked` | 25/07/2022 |   |
-| `WARTSILA.COM - HACKED AND MORE THEN 2000 GB DATA LEAKED` | 25/07/2022 |   |
-| `BAHRA ELECTRIC - HACKED AND MORE THEN 800 GB DATA LEAKED` | 22/06/2022 |   |
-| `MOLTOLUCE - HACKED AND DATA LEAKED` | 15/06/2022 |   |
-| `SCHIFFMANS - HACKED AND DATA LEAKED` | 14/06/2022 |   |
-| `MOTOLUCLE.COM - HACKED AND DATA LEAKED` | 14/06/2022 |   |
-| `CAPECODRTA - HACKED AND DATA LEAKED` | 09/06/2022 |   |
-| `SilTerra - HACKED AND 1 TB DATA LEAKED WITH SOURCES AND NDA` | 04/06/2022 |   |
-| `XYTECH - HACKED AND 650 GB DATA LEAKED` | 01/06/2022 |   |
-| `CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED` | 01/06/2022 |   |
-| `Important announcement` | 19/05/2022 |   |
-| `CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.` | 02/05/2022 |   |
-| `MOTIVE-ENERGY - HACKED AND 1.5 TB DATA LEAKED` | 29/04/2022 |   |
-| `Importador Ferretero Trujillo Cia. Ltda` | 15/04/2022 |   |
-| `OPS omniplussystem.com` | 18/02/2022 |   |
-| `gruporoveri.com.br` | 16/02/2022 |   |
-| `www.tikg.co.jp` | 14/02/2022 |   |
-| `ufa.com.lb` | 11/02/2022 |   |
-| `lhotellerie-restauration.fr` | 29/01/2022 |   |
-| `wagstaff.com - 1.5TB LEAKED` | 31/12/2021 |   |
-| `reliancenj.com - HACKED AND MORE THEN 200GB DATA LEAKED` | 21/12/2021 |   |
-| `agrofair.nl` | 16/12/2021 |   |
-| `tt-network.dk` | 13/12/2021 |   |
-| `KOBE BUSSAN - HACKED AND MORE THEN 500Gb DATA LEAKED` | 10/12/2021 |   |
-| `benlineagencies.com` | 09/12/2021 |   |
-| `tlpterminal.com.my` | 08/12/2021 |   |
-| `serta.com - MORE THEN 500Gb DATA LEAKED` | 08/12/2021 |   |
-| `jpbdselangor.gov.my` | 06/12/2021 |   |
-| `gaben.cz` | 05/12/2021 |   |
-| `promhotel.fr` | 05/12/2021 |   |
-| `ALPSRX.COM - MORE THEN 150GB DATA LEAKED` | 23/11/2021 |   |
-| `scotttesting.com  - MORE THEN 2.5TB DATA LEAKED` | 23/11/2021 |   |
-| `reigroup.com` | 22/11/2021 |   |
-| `redsrugby.com.au - more then 300GB data leaked` | 22/11/2021 |   |
-| `docol.com.br - more then 1.5TB data leaked` | 22/11/2021 |   |
-| `adhhealth.com - more then 1.2Tb data leaaked` | 22/11/2021 |   |
+| [`GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA`](https://google.com/search?q=GLEN+DIMPLEX+GROUP+UNITS+WERE+HACKED+%28DEFOND%2C+DEFONDTECH+AND+OTHER%29.+MORE+THAN+1TB+DATA+WA) | 27/11/2022 |   |
+| [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | 19/11/2022 |   |
+| [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | 14/11/2022 |   |
+| [`BRAZILIAN PET FOODS`](https://google.com/search?q=BRAZILIAN+PET+FOODS) | 11/11/2022 |   |
+| [`LAW OFFICES OF JOHN T ORCUTT WAS HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED.`](https://google.com/search?q=LAW+OFFICES+OF+JOHN+T+ORCUTT+WAS+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED.) | 09/11/2022 |   |
+| [`CONSUMAX.COM.AR - WAS HACKED AND MORE THEN 2TB SENSETIVE DATA LEAKED`](https://google.com/search?q=CONSUMAX.COM.AR+-+WAS+HACKED+AND+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED) | 03/11/2022 |   |
+| [`Saint Jean Industries  - MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=Saint+Jean+Industries++-+MORE+THEN+1.5+TB+DATA+LEAKED) | 02/11/2022 |   |
+| [`AWESOME-DENTAL.COM - HACKED AND MORE THEN 100GB LEAKED`](https://google.com/search?q=AWESOME-DENTAL.COM+-+HACKED+AND+MORE+THEN+100GB+LEAKED) | 02/11/2022 |   |
+| [`WICKERSHAMCONSTRUCTION.COM - HACKED AND MORE THEN 1000GB DATA LEAKED!`](https://google.com/search?q=WICKERSHAMCONSTRUCTION.COM+-+HACKED+AND+MORE+THEN+1000GB+DATA+LEAKED%21) | 02/11/2022 |   |
+| [`PARAMOUNT ENTERPRISE INTERNATIONAL HACKED AND MORE THEN 1.5 TB DATA LEAKED`](https://google.com/search?q=PARAMOUNT+ENTERPRISE+INTERNATIONAL+HACKED+AND+MORE+THEN+1.5+TB+DATA+LEAKED) | 02/11/2022 |   |
+| [`THEHURSTGROUP.CO.UK - HACKED AND MORE THEN 2000GB SENSITIVE DATA LEAKED`](https://google.com/search?q=THEHURSTGROUP.CO.UK+-+HACKED+AND+MORE+THEN+2000GB+SENSITIVE+DATA+LEAKED) | 02/11/2022 |   |
+| [`ROUGIER HACKED. 1 TB SENSITIVE DATA LEAKED`](https://google.com/search?q=ROUGIER+HACKED.+1+TB+SENSITIVE+DATA+LEAKED) | 02/11/2022 |   |
+| [`GRUPO SIFU HACKED. MORE THEN 2TB SENSETIVE DATA LEAKED AND READY FOR PUBLICATION`](https://google.com/search?q=GRUPO+SIFU+HACKED.+MORE+THEN+2TB+SENSETIVE+DATA+LEAKED+AND+READY+FOR+PUBLICATION) | 02/11/2022 |   |
+| [`SUBCARN WAS HACKED AND OVER 200 GB OF SENSETIVE DATA WAS STOLEN`](https://google.com/search?q=SUBCARN+WAS+HACKED+AND+OVER+200+GB+OF+SENSETIVE+DATA+WAS+STOLEN) | 02/11/2022 |   |
+| [`KINETIC.PH WAS HACKED. 200 GB ENGINEERING AND CONFIDENTIAL DATA LEAKED`](https://google.com/search?q=KINETIC.PH+WAS+HACKED.+200+GB+ENGINEERING+AND+CONFIDENTIAL+DATA+LEAKED) | 02/11/2022 |   |
+| [`SICOTEC WAS HACKED. 200GB SENSETIVE DATA LEAKED`](https://google.com/search?q=SICOTEC+WAS+HACKED.+200GB+SENSETIVE+DATA+LEAKED) | 02/11/2022 |   |
+| [`ANGT - HACKED. MORE THEN 700 GB SENSITIVE DATA LEAKED`](https://google.com/search?q=ANGT+-+HACKED.+MORE+THEN+700+GB+SENSITIVE+DATA+LEAKED) | 25/08/2022 |   |
+| [`ELEFONDATI SRL - WAS HACKED. 20 GB OF SENSITIVE DATA STOLEN`](https://google.com/search?q=ELEFONDATI+SRL+-+WAS+HACKED.+20+GB+OF+SENSITIVE+DATA+STOLEN) | 15/08/2022 |   |
+| [`STTLK - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=STTLK+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | 13/08/2022 |   |
+| [`valverdehotel.com`](https://google.com/search?q=valverdehotel.com) | 09/08/2022 |   |
+| [`SEMIKRON - EXTREMELY LOW LEVEL OF CYBERSECURITY. 2 TB OF CORPORATE DATA STOLEN`](https://google.com/search?q=SEMIKRON+-+EXTREMELY+LOW+LEVEL+OF+CYBERSECURITY.+2+TB+OF+CORPORATE+DATA+STOLEN) | 04/08/2022 |   |
+| [`WARTSILA DATA - ATTENTION !!!`](https://google.com/search?q=WARTSILA+DATA+-+ATTENTION+%21%21%21) | 04/08/2022 |   |
+| [`STTLK`](https://google.com/search?q=STTLK) | 04/08/2022 |   |
+| [`BAFNAGROUP.COM - HACKED AND MORE THEN 20 GB DATA LEAKED`](https://google.com/search?q=BAFNAGROUP.COM+-+HACKED+AND+MORE+THEN+20+GB+DATA+LEAKED) | 31/07/2022 |   |
+| [`Hong Kong Special Care Dentistry Association Limited`](https://google.com/search?q=Hong+Kong+Special+Care+Dentistry+Association+Limited) | 29/07/2022 |   |
+| [`studioteruzzi.com - HACKED AND MORE THEN 80GB DATA LEAKED`](https://google.com/search?q=studioteruzzi.com+-+HACKED+AND+MORE+THEN+80GB+DATA+LEAKED) | 27/07/2022 |   |
+| [`ryanhanley.ie - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=ryanhanley.ie+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | 25/07/2022 |   |
+| [`sppc.com.sa - HACKED and more then 900GB data leaked`](https://google.com/search?q=sppc.com.sa+-+HACKED+and+more+then+900GB+data+leaked) | 25/07/2022 |   |
+| [`WARTSILA.COM - HACKED AND MORE THEN 2000 GB DATA LEAKED`](https://google.com/search?q=WARTSILA.COM+-+HACKED+AND+MORE+THEN+2000+GB+DATA+LEAKED) | 25/07/2022 |   |
+| [`BAHRA ELECTRIC - HACKED AND MORE THEN 800 GB DATA LEAKED`](https://google.com/search?q=BAHRA+ELECTRIC+-+HACKED+AND+MORE+THEN+800+GB+DATA+LEAKED) | 22/06/2022 |   |
+| [`MOLTOLUCE - HACKED AND DATA LEAKED`](https://google.com/search?q=MOLTOLUCE+-+HACKED+AND+DATA+LEAKED) | 15/06/2022 |   |
+| [`SCHIFFMANS - HACKED AND DATA LEAKED`](https://google.com/search?q=SCHIFFMANS+-+HACKED+AND+DATA+LEAKED) | 14/06/2022 |   |
+| [`MOTOLUCLE.COM - HACKED AND DATA LEAKED`](https://google.com/search?q=MOTOLUCLE.COM+-+HACKED+AND+DATA+LEAKED) | 14/06/2022 |   |
+| [`CAPECODRTA - HACKED AND DATA LEAKED`](https://google.com/search?q=CAPECODRTA+-+HACKED+AND+DATA+LEAKED) | 09/06/2022 |   |
+| [`SilTerra - HACKED AND 1 TB DATA LEAKED WITH SOURCES AND NDA`](https://google.com/search?q=SilTerra+-+HACKED+AND+1+TB+DATA+LEAKED+WITH+SOURCES+AND+NDA) | 04/06/2022 |   |
+| [`XYTECH - HACKED AND 650 GB DATA LEAKED`](https://google.com/search?q=XYTECH+-+HACKED+AND+650+GB+DATA+LEAKED) | 01/06/2022 |   |
+| [`CICIS.COM- HACKED AND INFORMATION MORE THEN 120,000 CUSTOMERS LEAKED`](https://google.com/search?q=CICIS.COM-+HACKED+AND+INFORMATION+MORE+THEN+120%2C000+CUSTOMERS+LEAKED) | 01/06/2022 |   |
+| [`Important announcement`](https://google.com/search?q=Important+announcement) | 19/05/2022 |   |
+| [`CPQD - BANCO CENTRAL OF BRASIL BLOCKHAIN. 1.8TB DATA LEAKED WITH ALL SOURCES.`](https://google.com/search?q=CPQD+-+BANCO+CENTRAL+OF+BRASIL+BLOCKHAIN.+1.8TB+DATA+LEAKED+WITH+ALL+SOURCES.) | 02/05/2022 |   |
+| [`MOTIVE-ENERGY - HACKED AND 1.5 TB DATA LEAKED`](https://google.com/search?q=MOTIVE-ENERGY+-+HACKED+AND+1.5+TB+DATA+LEAKED) | 29/04/2022 |   |
+| [`Importador Ferretero Trujillo Cia. Ltda`](https://google.com/search?q=Importador+Ferretero+Trujillo+Cia.+Ltda) | 15/04/2022 |   |
+| [`OPS omniplussystem.com`](https://google.com/search?q=OPS+omniplussystem.com) | 18/02/2022 |   |
+| [`gruporoveri.com.br`](https://google.com/search?q=gruporoveri.com.br) | 16/02/2022 |   |
+| [`www.tikg.co.jp`](https://google.com/search?q=www.tikg.co.jp) | 14/02/2022 |   |
+| [`ufa.com.lb`](https://google.com/search?q=ufa.com.lb) | 11/02/2022 |   |
+| [`lhotellerie-restauration.fr`](https://google.com/search?q=lhotellerie-restauration.fr) | 29/01/2022 |   |
+| [`wagstaff.com - 1.5TB LEAKED`](https://google.com/search?q=wagstaff.com+-+1.5TB+LEAKED) | 31/12/2021 |   |
+| [`reliancenj.com - HACKED AND MORE THEN 200GB DATA LEAKED`](https://google.com/search?q=reliancenj.com+-+HACKED+AND+MORE+THEN+200GB+DATA+LEAKED) | 21/12/2021 |   |
+| [`agrofair.nl`](https://google.com/search?q=agrofair.nl) | 16/12/2021 |   |
+| [`tt-network.dk`](https://google.com/search?q=tt-network.dk) | 13/12/2021 |   |
+| [`KOBE BUSSAN - HACKED AND MORE THEN 500Gb DATA LEAKED`](https://google.com/search?q=KOBE+BUSSAN+-+HACKED+AND+MORE+THEN+500Gb+DATA+LEAKED) | 10/12/2021 |   |
+| [`benlineagencies.com`](https://google.com/search?q=benlineagencies.com) | 09/12/2021 |   |
+| [`tlpterminal.com.my`](https://google.com/search?q=tlpterminal.com.my) | 08/12/2021 |   |
+| [`serta.com - MORE THEN 500Gb DATA LEAKED`](https://google.com/search?q=serta.com+-+MORE+THEN+500Gb+DATA+LEAKED) | 08/12/2021 |   |
+| [`jpbdselangor.gov.my`](https://google.com/search?q=jpbdselangor.gov.my) | 06/12/2021 |   |
+| [`gaben.cz`](https://google.com/search?q=gaben.cz) | 05/12/2021 |   |
+| [`promhotel.fr`](https://google.com/search?q=promhotel.fr) | 05/12/2021 |   |
+| [`ALPSRX.COM - MORE THEN 150GB DATA LEAKED`](https://google.com/search?q=ALPSRX.COM+-+MORE+THEN+150GB+DATA+LEAKED) | 23/11/2021 |   |
+| [`scotttesting.com  - MORE THEN 2.5TB DATA LEAKED`](https://google.com/search?q=scotttesting.com++-+MORE+THEN+2.5TB+DATA+LEAKED) | 23/11/2021 |   |
+| [`reigroup.com`](https://google.com/search?q=reigroup.com) | 22/11/2021 |   |
+| [`redsrugby.com.au - more then 300GB data leaked`](https://google.com/search?q=redsrugby.com.au+-+more+then+300GB+data+leaked) | 22/11/2021 |   |
+| [`docol.com.br - more then 1.5TB data leaked`](https://google.com/search?q=docol.com.br+-+more+then+1.5TB+data+leaked) | 22/11/2021 |   |
+| [`adhhealth.com - more then 1.2Tb data leaaked`](https://google.com/search?q=adhhealth.com+-+more+then+1.2Tb+data+leaaked) | 22/11/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5270,15 +5273,15 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 | post | date | Description
 |---|---|---|
-| `Ban Leong Technologies Ltd` | 14/12/2022 |   |
-| `Canny Elevator Co Ltd` | 04/11/2022 |   |
-| `API MDC Technical Research Centre Sdn Bhd` | 04/11/2022 |   |
-| `Aerotech Precision Manufacturing` | 04/11/2022 |   |
-| `CLUB DE TENIS LA PAZ` | 04/11/2022 |   |
-| `Canny Elevator Co Ltd` | 04/11/2022 |   |
-| `API MDC Technical Research Centre Sdn Bhd` | 04/11/2022 |   |
-| `Aerotech Precision Manufacturing` | 04/11/2022 |   |
-| `CLUB DE TENIS LA PAZ` | 04/11/2022 |   |
+| [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | 14/12/2022 |   |
+| [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | 04/11/2022 |   |
+| [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | 04/11/2022 |   |
+| [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | 04/11/2022 |   |
+| [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | 04/11/2022 |   |
+| [`Canny Elevator Co Ltd`](https://google.com/search?q=Canny+Elevator+Co+Ltd) | 04/11/2022 |   |
+| [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | 04/11/2022 |   |
+| [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | 04/11/2022 |   |
+| [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | 04/11/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5313,38 +5316,38 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description
 |---|---|---|
-| `Vehicle Service Group (VSG)` | 14/02/2022 |   |
-| `Millensys` | 07/12/2021 |   |
-| `GigaTribe` | 07/12/2021 |   |
-| `Morgan Truck Body, LLC` | 07/12/2021 |   |
-| `Luxottica Group S.p.A.` | 07/12/2021 |   |
-| `Kawasaki Kisen Kaisha, Ltd. (“K” LINE)` | 07/12/2021 |   |
-| `X-FAB` | 07/12/2021 |   |
-| `Axis Communications` | 07/12/2021 |   |
-| `Gamesa Corporation leaked data` | 07/12/2021 |   |
-| `Sea Mar Community Health Centers` | 07/12/2021 |   |
-| `Elm3 Financial Group, LLC` | 07/12/2021 |   |
-| `Virginia Department of Military Affairs` | 07/12/2021 |   |
-| `Sandhills Center` | 07/12/2021 |   |
-| `Virginia Defense Force` | 07/12/2021 |   |
-| `Otto Instrument` | 07/12/2021 |   |
-| `Navistar (Volkswagen Group)` | 07/12/2021 |   |
-| `Align Technology, Inc` | 07/12/2021 |   |
-| `puma.com` | 07/12/2021 |   |
-| `meditopia.com` | 07/12/2021 |   |
-| `tpicorp.com` | 07/12/2021 |   |
-| `elementia.com` | 07/12/2021 |   |
-| `gigatribe.com` | 07/12/2021 |   |
-| `millensys.com` | 07/12/2021 |   |
-| `cbsltrans.com` | 07/12/2021 |   |
-| `bowmanplating.com` | 07/12/2021 |   |
-| `morgancorp.com` | 07/12/2021 |   |
-| `fujitsu.com` | 07/12/2021 |   |
-| `spsr-law.com` | 07/12/2021 |   |
-| `esited.com` | 07/12/2021 |   |
-| `epicor.com` | 07/12/2021 |   |
-| `luxottica.com` | 07/12/2021 |   |
-| `dwr.virginia.gov` | 07/12/2021 |   |
+| [`Vehicle Service Group (VSG)`](https://google.com/search?q=Vehicle+Service+Group+%28VSG%29) | 14/02/2022 |   |
+| [`Millensys`](https://google.com/search?q=Millensys) | 07/12/2021 |   |
+| [`GigaTribe`](https://google.com/search?q=GigaTribe) | 07/12/2021 |   |
+| [`Morgan Truck Body, LLC`](https://google.com/search?q=Morgan+Truck+Body%2C+LLC) | 07/12/2021 |   |
+| [`Luxottica Group S.p.A.`](https://google.com/search?q=Luxottica+Group+S.p.A.) | 07/12/2021 |   |
+| [`Kawasaki Kisen Kaisha, Ltd. (“K” LINE)`](https://google.com/search?q=Kawasaki+Kisen+Kaisha%2C+Ltd.+%28%E2%80%9CK%E2%80%9D+LINE%29) | 07/12/2021 |   |
+| [`X-FAB`](https://google.com/search?q=X-FAB) | 07/12/2021 |   |
+| [`Axis Communications`](https://google.com/search?q=Axis+Communications) | 07/12/2021 |   |
+| [`Gamesa Corporation leaked data`](https://google.com/search?q=Gamesa+Corporation+leaked+data) | 07/12/2021 |   |
+| [`Sea Mar Community Health Centers`](https://google.com/search?q=Sea+Mar+Community+Health+Centers) | 07/12/2021 |   |
+| [`Elm3 Financial Group, LLC`](https://google.com/search?q=Elm3+Financial+Group%2C+LLC) | 07/12/2021 |   |
+| [`Virginia Department of Military Affairs`](https://google.com/search?q=Virginia+Department+of+Military+Affairs) | 07/12/2021 |   |
+| [`Sandhills Center`](https://google.com/search?q=Sandhills+Center) | 07/12/2021 |   |
+| [`Virginia Defense Force`](https://google.com/search?q=Virginia+Defense+Force) | 07/12/2021 |   |
+| [`Otto Instrument`](https://google.com/search?q=Otto+Instrument) | 07/12/2021 |   |
+| [`Navistar (Volkswagen Group)`](https://google.com/search?q=Navistar+%28Volkswagen+Group%29) | 07/12/2021 |   |
+| [`Align Technology, Inc`](https://google.com/search?q=Align+Technology%2C+Inc) | 07/12/2021 |   |
+| [`puma.com`](https://google.com/search?q=puma.com) | 07/12/2021 |   |
+| [`meditopia.com`](https://google.com/search?q=meditopia.com) | 07/12/2021 |   |
+| [`tpicorp.com`](https://google.com/search?q=tpicorp.com) | 07/12/2021 |   |
+| [`elementia.com`](https://google.com/search?q=elementia.com) | 07/12/2021 |   |
+| [`gigatribe.com`](https://google.com/search?q=gigatribe.com) | 07/12/2021 |   |
+| [`millensys.com`](https://google.com/search?q=millensys.com) | 07/12/2021 |   |
+| [`cbsltrans.com`](https://google.com/search?q=cbsltrans.com) | 07/12/2021 |   |
+| [`bowmanplating.com`](https://google.com/search?q=bowmanplating.com) | 07/12/2021 |   |
+| [`morgancorp.com`](https://google.com/search?q=morgancorp.com) | 07/12/2021 |   |
+| [`fujitsu.com`](https://google.com/search?q=fujitsu.com) | 07/12/2021 |   |
+| [`spsr-law.com`](https://google.com/search?q=spsr-law.com) | 07/12/2021 |   |
+| [`esited.com`](https://google.com/search?q=esited.com) | 07/12/2021 |   |
+| [`epicor.com`](https://google.com/search?q=epicor.com) | 07/12/2021 |   |
+| [`luxottica.com`](https://google.com/search?q=luxottica.com) | 07/12/2021 |   |
+| [`dwr.virginia.gov`](https://google.com/search?q=dwr.virginia.gov) | 07/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5416,27 +5419,27 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description
 |---|---|---|
-| `DGLEGAL` | 15/11/2022 |   |
-| `emscrm` | 15/11/2022 |   |
-| `MIDAS Company` | 15/11/2022 |   |
-| `AURIS KONINKLIJKE AURIS GROEP` | 15/11/2022 |   |
-| `fidelityunited.ae` | 15/11/2022 |   |
-| `goldcreekfoods` | 15/11/2022 |   |
-| `exheat.com` | 15/11/2022 |   |
-| `hwrpc.com` | 15/11/2022 |   |
-| `Salmon Software` | 15/11/2022 |   |
-| `tristatefabricators_inc` | 15/11/2022 |   |
-| `atlantisholidays` | 15/11/2022 |   |
-| `archimages inc` | 15/11/2022 |   |
-| `ALTlTUDE AEROSPACE INC` | 15/11/2022 |   |
-| `Fonderia Boccacci` | 15/11/2022 |   |
-| `Zelena Laguna Hotel` | 15/11/2022 |   |
-| `LEGAZPIBANK` | 15/11/2022 |   |
-| `MCCLEAN16  company` | 15/11/2022 |   |
-| `lawtrade company` | 15/11/2022 |   |
-| `Autosoft company` | 15/11/2022 |   |
-| `BIOPLAN` | 15/11/2022 |   |
-| `Dyatech company` | 15/11/2022 |   |
+| [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | 15/11/2022 |   |
+| [`emscrm`](https://google.com/search?q=emscrm) | 15/11/2022 |   |
+| [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | 15/11/2022 |   |
+| [`AURIS KONINKLIJKE AURIS GROEP`](https://google.com/search?q=AURIS+KONINKLIJKE+AURIS+GROEP) | 15/11/2022 |   |
+| [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | 15/11/2022 |   |
+| [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | 15/11/2022 |   |
+| [`exheat.com`](https://google.com/search?q=exheat.com) | 15/11/2022 |   |
+| [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | 15/11/2022 |   |
+| [`Salmon Software`](https://google.com/search?q=Salmon+Software) | 15/11/2022 |   |
+| [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | 15/11/2022 |   |
+| [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | 15/11/2022 |   |
+| [`archimages inc`](https://google.com/search?q=archimages+inc) | 15/11/2022 |   |
+| [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | 15/11/2022 |   |
+| [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | 15/11/2022 |   |
+| [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | 15/11/2022 |   |
+| [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | 15/11/2022 |   |
+| [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | 15/11/2022 |   |
+| [`lawtrade company`](https://google.com/search?q=lawtrade+company) | 15/11/2022 |   |
+| [`Autosoft company`](https://google.com/search?q=Autosoft+company) | 15/11/2022 |   |
+| [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | 15/11/2022 |   |
+| [`Dyatech company`](https://google.com/search?q=Dyatech+company) | 15/11/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5458,50 +5461,50 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description
 |---|---|---|
-| `Basra Multipurposr Terminal` | 14/04/2022 |   |
-| `SUPREME SERVICES` | 07/04/2022 |   |
-| `Jiangsu Kaili Carpet Co., Ltd.` | 07/04/2022 |   |
-| `New Company 04.2022` | 03/04/2022 |   |
-| `NetCompany` | 23/03/2022 |   |
-| `Bigmtransport` | 21/03/2022 |   |
-| `1` | 18/03/2022 |   |
-| `Grcouceiro` | 15/03/2022 |   |
-| `S` | 23/02/2022 |   |
-| `SOUTHWARK METAL MANUFACTURING` | 22/02/2022 |   |
-| `New3` | 13/02/2022 |   |
-| `New-New2` | 12/02/2022 |   |
-| `J` | 12/02/2022 |   |
-| `Keuerleber` | 01/02/2022 |   |
-| `CIG de la Grande Couronne` | 28/01/2022 |   |
-| `crossroadshealth lake` | 18/01/2022 |   |
-| `New Corp` | 27/12/2021 |   |
-| `MAX International Converters` | 25/12/2021 |   |
-| `NewWave Technologies Inc` | 08/12/2021 |   |
-| `CurIT` | 29/11/2021 |   |
-| `Westrup Company` | 29/11/2021 |   |
-| `GROUP OF COMPANY` | 29/11/2021 |   |
-| `ChaddadGroup` | 29/11/2021 |   |
-| `CRM GROUP` | 29/11/2021 |   |
-| `Bouquet Mulligan DeMaio` | 29/11/2021 |   |
-| `IDSFULFILLMENT` | 29/11/2021 |   |
-| `RWL GmbH` | 29/11/2021 |   |
-| `EISENBERG HEFLER & LEVY LLP` | 29/11/2021 |   |
-| `HAMTACO` | 29/11/2021 |   |
-| `CABINET CAZANAVE` | 29/11/2021 |   |
-| `Raisetech` | 29/11/2021 |   |
-| `EPOWER INTERNATIONAL ( SHANGHAl )CO.,LTD.` | 29/11/2021 |   |
-| `Dongguan IMR Technology Co., Ltd` | 29/11/2021 |   |
-| `Capital Distributors (S) Pte Ltd` | 29/11/2021 |   |
-| `KPS GROUP` | 29/11/2021 |   |
-| `Shanghai Cyeco Environmental Technology Co., Ltd.` | 29/11/2021 |   |
-| `Xiamen Naier Electronics Co., Ltd.` | 29/11/2021 |   |
-| `Haiti Meat Processing SA` | 29/11/2021 |   |
-| `Consult Three Architects` | 29/11/2021 |   |
-| `Trendico GmbH` | 29/11/2021 |   |
-| `Pellisard` | 29/11/2021 |   |
-| `G.E.W. CORPORATION LIMITED` | 29/11/2021 |   |
-| `Texas Enterprises, Inc (TEI)` | 29/11/2021 |   |
-| `Calibrus` | 29/11/2021 |   |
+| [`Basra Multipurposr Terminal`](https://google.com/search?q=Basra+Multipurposr+Terminal) | 14/04/2022 |   |
+| [`SUPREME SERVICES`](https://google.com/search?q=SUPREME+SERVICES) | 07/04/2022 |   |
+| [`Jiangsu Kaili Carpet Co., Ltd.`](https://google.com/search?q=Jiangsu+Kaili+Carpet+Co.%2C+Ltd.) | 07/04/2022 |   |
+| [`New Company 04.2022`](https://google.com/search?q=New+Company+04.2022) | 03/04/2022 |   |
+| [`NetCompany`](https://google.com/search?q=NetCompany) | 23/03/2022 |   |
+| [`Bigmtransport`](https://google.com/search?q=Bigmtransport) | 21/03/2022 |   |
+| [`1`](https://google.com/search?q=1) | 18/03/2022 |   |
+| [`Grcouceiro`](https://google.com/search?q=Grcouceiro) | 15/03/2022 |   |
+| [`S`](https://google.com/search?q=S) | 23/02/2022 |   |
+| [`SOUTHWARK METAL MANUFACTURING`](https://google.com/search?q=SOUTHWARK+METAL+MANUFACTURING) | 22/02/2022 |   |
+| [`New3`](https://google.com/search?q=New3) | 13/02/2022 |   |
+| [`New-New2`](https://google.com/search?q=New-New2) | 12/02/2022 |   |
+| [`J`](https://google.com/search?q=J) | 12/02/2022 |   |
+| [`Keuerleber`](https://google.com/search?q=Keuerleber) | 01/02/2022 |   |
+| [`CIG de la Grande Couronne`](https://google.com/search?q=CIG+de+la+Grande+Couronne) | 28/01/2022 |   |
+| [`crossroadshealth lake`](https://google.com/search?q=crossroadshealth+lake) | 18/01/2022 |   |
+| [`New Corp`](https://google.com/search?q=New+Corp) | 27/12/2021 |   |
+| [`MAX International Converters`](https://google.com/search?q=MAX+International+Converters) | 25/12/2021 |   |
+| [`NewWave Technologies Inc`](https://google.com/search?q=NewWave+Technologies+Inc) | 08/12/2021 |   |
+| [`CurIT`](https://google.com/search?q=CurIT) | 29/11/2021 |   |
+| [`Westrup Company`](https://google.com/search?q=Westrup+Company) | 29/11/2021 |   |
+| [`GROUP OF COMPANY`](https://google.com/search?q=GROUP+OF+COMPANY) | 29/11/2021 |   |
+| [`ChaddadGroup`](https://google.com/search?q=ChaddadGroup) | 29/11/2021 |   |
+| [`CRM GROUP`](https://google.com/search?q=CRM+GROUP) | 29/11/2021 |   |
+| [`Bouquet Mulligan DeMaio`](https://google.com/search?q=Bouquet+Mulligan+DeMaio) | 29/11/2021 |   |
+| [`IDSFULFILLMENT`](https://google.com/search?q=IDSFULFILLMENT) | 29/11/2021 |   |
+| [`RWL GmbH`](https://google.com/search?q=RWL+GmbH) | 29/11/2021 |   |
+| [`EISENBERG HEFLER & LEVY LLP`](https://google.com/search?q=EISENBERG+HEFLER+%26+LEVY+LLP) | 29/11/2021 |   |
+| [`HAMTACO`](https://google.com/search?q=HAMTACO) | 29/11/2021 |   |
+| [`CABINET CAZANAVE`](https://google.com/search?q=CABINET+CAZANAVE) | 29/11/2021 |   |
+| [`Raisetech`](https://google.com/search?q=Raisetech) | 29/11/2021 |   |
+| [`EPOWER INTERNATIONAL ( SHANGHAl )CO.,LTD.`](https://google.com/search?q=EPOWER+INTERNATIONAL+%28+SHANGHAl+%29CO.%2CLTD.) | 29/11/2021 |   |
+| [`Dongguan IMR Technology Co., Ltd`](https://google.com/search?q=Dongguan+IMR+Technology+Co.%2C+Ltd) | 29/11/2021 |   |
+| [`Capital Distributors (S) Pte Ltd`](https://google.com/search?q=Capital+Distributors+%28S%29+Pte+Ltd) | 29/11/2021 |   |
+| [`KPS GROUP`](https://google.com/search?q=KPS+GROUP) | 29/11/2021 |   |
+| [`Shanghai Cyeco Environmental Technology Co., Ltd.`](https://google.com/search?q=Shanghai+Cyeco+Environmental+Technology+Co.%2C+Ltd.) | 29/11/2021 |   |
+| [`Xiamen Naier Electronics Co., Ltd.`](https://google.com/search?q=Xiamen+Naier+Electronics+Co.%2C+Ltd.) | 29/11/2021 |   |
+| [`Haiti Meat Processing SA`](https://google.com/search?q=Haiti+Meat+Processing+SA) | 29/11/2021 |   |
+| [`Consult Three Architects`](https://google.com/search?q=Consult+Three+Architects) | 29/11/2021 |   |
+| [`Trendico GmbH`](https://google.com/search?q=Trendico+GmbH) | 29/11/2021 |   |
+| [`Pellisard`](https://google.com/search?q=Pellisard) | 29/11/2021 |   |
+| [`G.E.W. CORPORATION LIMITED`](https://google.com/search?q=G.E.W.+CORPORATION+LIMITED) | 29/11/2021 |   |
+| [`Texas Enterprises, Inc (TEI)`](https://google.com/search?q=Texas+Enterprises%2C+Inc+%28TEI%29) | 29/11/2021 |   |
+| [`Calibrus`](https://google.com/search?q=Calibrus) | 29/11/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5523,19 +5526,19 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description
 |---|---|---|
-| `willsent` | 05/05/2022 |   |
-| `welplaat` | 05/05/2022 |   |
-| `toshfarms` | 05/05/2022 |   |
-| `thebureau` | 05/05/2022 |   |
-| `smd` | 05/05/2022 |   |
-| `simpsonplastering` | 05/05/2022 |   |
-| `nottco` | 05/05/2022 |   |
-| `micropakkn` | 05/05/2022 |   |
-| `mediuscorp` | 05/05/2022 |   |
-| `diager` | 05/05/2022 |   |
-| `callinc` | 05/05/2022 |   |
-| `allwell` | 05/05/2022 |   |
-| `acorentacar` | 05/05/2022 |   |
+| [`willsent`](https://google.com/search?q=willsent) | 05/05/2022 |   |
+| [`welplaat`](https://google.com/search?q=welplaat) | 05/05/2022 |   |
+| [`toshfarms`](https://google.com/search?q=toshfarms) | 05/05/2022 |   |
+| [`thebureau`](https://google.com/search?q=thebureau) | 05/05/2022 |   |
+| [`smd`](https://google.com/search?q=smd) | 05/05/2022 |   |
+| [`simpsonplastering`](https://google.com/search?q=simpsonplastering) | 05/05/2022 |   |
+| [`nottco`](https://google.com/search?q=nottco) | 05/05/2022 |   |
+| [`micropakkn`](https://google.com/search?q=micropakkn) | 05/05/2022 |   |
+| [`mediuscorp`](https://google.com/search?q=mediuscorp) | 05/05/2022 |   |
+| [`diager`](https://google.com/search?q=diager) | 05/05/2022 |   |
+| [`callinc`](https://google.com/search?q=callinc) | 05/05/2022 |   |
+| [`allwell`](https://google.com/search?q=allwell) | 05/05/2022 |   |
+| [`acorentacar`](https://google.com/search?q=acorentacar) | 05/05/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5561,7 +5564,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | post | date | Description
 |---|---|---|
 | [`Every one of you been a good customer this year`]() | 22/12/2022 |  |
-| `test` | 07/12/2022 |   |
+| [`test`](https://google.com/search?q=test) | 07/12/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5597,22 +5600,22 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| `Electron Csillag` | 18/12/2021 |   |
-| `Meshulam` | 18/12/2021 |   |
-| `DOSIK Technology` | 18/12/2021 |   |
-| `Epsilor Company` | 18/12/2021 |   |
-| `First part of Israel Post data leaked` | 18/12/2021 |   |
-| `Israel MOD and Benny Gantz` | 18/12/2021 |   |
-| `First part of Epsilor data leaked` | 18/12/2021 |   |
-| `Ehud Leviathan Engineering` | 18/12/2021 |   |
-| `David Engineers` | 18/12/2021 |   |
-| `H.G.M Engineering` | 18/12/2021 |   |
-| `AHEC Tax Solutions` | 18/12/2021 |   |
-| `V-ON` | 18/12/2021 |   |
-| `MATITIAHU BRUCHIM Law office` | 18/12/2021 |   |
-| `Unit 8200` | 18/12/2021 |   |
-| `3D imagery of israel` | 18/12/2021 |   |
-| `This is just the beginning` | 18/12/2021 |   |
+| [`Electron Csillag`](https://google.com/search?q=Electron+Csillag) | 18/12/2021 |   |
+| [`Meshulam`](https://google.com/search?q=Meshulam) | 18/12/2021 |   |
+| [`DOSIK Technology`](https://google.com/search?q=DOSIK+Technology) | 18/12/2021 |   |
+| [`Epsilor Company`](https://google.com/search?q=Epsilor+Company) | 18/12/2021 |   |
+| [`First part of Israel Post data leaked`](https://google.com/search?q=First+part+of+Israel+Post+data+leaked) | 18/12/2021 |   |
+| [`Israel MOD and Benny Gantz`](https://google.com/search?q=Israel+MOD+and+Benny+Gantz) | 18/12/2021 |   |
+| [`First part of Epsilor data leaked`](https://google.com/search?q=First+part+of+Epsilor+data+leaked) | 18/12/2021 |   |
+| [`Ehud Leviathan Engineering`](https://google.com/search?q=Ehud+Leviathan+Engineering) | 18/12/2021 |   |
+| [`David Engineers`](https://google.com/search?q=David+Engineers) | 18/12/2021 |   |
+| [`H.G.M Engineering`](https://google.com/search?q=H.G.M+Engineering) | 18/12/2021 |   |
+| [`AHEC Tax Solutions`](https://google.com/search?q=AHEC+Tax+Solutions) | 18/12/2021 |   |
+| [`V-ON`](https://google.com/search?q=V-ON) | 18/12/2021 |   |
+| [`MATITIAHU BRUCHIM Law office`](https://google.com/search?q=MATITIAHU+BRUCHIM+Law+office) | 18/12/2021 |   |
+| [`Unit 8200`](https://google.com/search?q=Unit+8200) | 18/12/2021 |   |
+| [`3D imagery of israel`](https://google.com/search?q=3D+imagery+of+israel) | 18/12/2021 |   |
+| [`This is just the beginning`](https://google.com/search?q=This+is+just+the+beginning) | 18/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5708,16 +5711,16 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| `Atlanta Allergy & Asthma. Part 1.` | 09/09/2021 |   |
-| `Grimmway Farms. Part 1.` | 09/09/2021 |   |
-| `Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.` | 09/09/2021 |   |
-| `Seven Seas. Part 1.` | 09/09/2021 |   |
-| `The MADSACK Media Group. Part 1.` | 09/09/2021 |   |
-| `Tegut. Part 1.` | 09/09/2021 |   |
-| `TPG Internet. Part 1.` | 09/09/2021 |   |
-| `Saipa Press. Part 1.` | 09/09/2021 |   |
-| `Tegut. Part 2.` | 09/09/2021 |   |
-| `The MADSACK Media Group. Part 2.` | 09/09/2021 |   |
+| [`Atlanta Allergy & Asthma. Part 1.`](https://google.com/search?q=Atlanta+Allergy+%26+Asthma.+Part+1.) | 09/09/2021 |   |
+| [`Grimmway Farms. Part 1.`](https://google.com/search?q=Grimmway+Farms.+Part+1.) | 09/09/2021 |   |
+| [`Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.`](https://google.com/search?q=Elliott+Group+%2F+Cascade+Engineering+%2F+Unitex+Textile+Rental+Services.+Teaser.) | 09/09/2021 |   |
+| [`Seven Seas. Part 1.`](https://google.com/search?q=Seven+Seas.+Part+1.) | 09/09/2021 |   |
+| [`The MADSACK Media Group. Part 1.`](https://google.com/search?q=The+MADSACK+Media+Group.+Part+1.) | 09/09/2021 |   |
+| [`Tegut. Part 1.`](https://google.com/search?q=Tegut.+Part+1.) | 09/09/2021 |   |
+| [`TPG Internet. Part 1.`](https://google.com/search?q=TPG+Internet.+Part+1.) | 09/09/2021 |   |
+| [`Saipa Press. Part 1.`](https://google.com/search?q=Saipa+Press.+Part+1.) | 09/09/2021 |   |
+| [`Tegut. Part 2.`](https://google.com/search?q=Tegut.+Part+2.) | 09/09/2021 |   |
+| [`The MADSACK Media Group. Part 2.`](https://google.com/search?q=The+MADSACK+Media+Group.+Part+2.) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5746,7 +5749,7 @@ _`not a ransomware group`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/nemty/nemty_v16.txt" target=_blank>#1</a>  <a href="/ransomware_notes/nemty/nemty_v25.txt" target=_blank>#2</a>  <a href="/ransomware_notes/nemty/nemty_v1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/nemty/nemty_v1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/nemty/nemty_v16.txt" target=_blank>#2</a>  <a href="/ransomware_notes/nemty/nemty_v25.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -5807,8 +5810,8 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| `AKIJ GROUP` | 04/01/2022 |   |
-| `æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹` | 04/01/2022 |   |
+| [`AKIJ GROUP`](https://google.com/search?q=AKIJ+GROUP) | 04/01/2022 |   |
+| [`æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹`](https://google.com/search?q=%C3%A6%C2%9D%C2%B1%C3%A4%C2%BA%C2%AC%C3%A3%C2%82%C2%B3%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%94%C3%A3%C2%83%C2%A5%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%BF%C3%A3%C2%82%C2%B5%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%93%C3%A3%C2%82%C2%B9) | 04/01/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5829,7 +5832,7 @@ _`not a ransomware group`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/nokoyawa/nokoyawa.txt" target=_blank>#1</a>  <a href="/ransomware_notes/nokoyawa/AWAYOKON-readme.txt" target=_blank>#2</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/nokoyawa/AWAYOKON-readme.txt" target=_blank>#1</a>  <a href="/ransomware_notes/nokoyawa/nokoyawa.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -5886,34 +5889,34 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| `www.artisticstairs.com` | 21/11/2022 |   |
-| `www.wayan.com.mx` | 21/11/2022 |   |
-| `www.candcfarmsupply.com` | 21/11/2022 |   |
-| `www.ackermanplumbinginc.com` | 21/11/2022 |   |
-| `www.semaphorehq.com` | 21/11/2022 |   |
-| `www.baltholding.eu` | 21/11/2022 |   |
-| `www.pacmaritime.com` | 21/11/2022 |   |
-| `www.waynefamilypractice.com` | 21/11/2022 |   |
-| `www.advantagedirectcare.com` | 21/11/2022 |   |
-| `www.cucafresca.com.br` | 21/11/2022 |   |
-| `www.arisaseguros.com` | 21/11/2022 |   |
-| `www.jaspercountysheriffoffice.com` | 21/11/2022 |   |
-| `www.minex.gob.gt` | 21/11/2022 |   |
-| `www.projectredirectdc.org` | 21/11/2022 |   |
-| `Ministerio de Relaciones Exteriores` | 27/09/2022 |   |
-| `Borough of Union Beach` | 05/08/2022 |   |
-| `ARISA CORREDORES DE SEGUROS` | 01/08/2022 |   |
-| `CUCA FRESCA` | 26/07/2022 |   |
-| `WAYAN NATURAL WEAR` | 26/07/2022 |   |
-| `Artistic Stairs & Railings` | 26/07/2022 |   |
-| `Baltholding OÃ` | 26/07/2022 |   |
-| `Jasper County Sheriff's Office` | 29/04/2022 |   |
-| `Pacific Maritime Industries Corp.` | 29/04/2022 |   |
-| `WAYNE FAMILY PRACTICE, ASSOC., P.C.` | 29/04/2022 |   |
-| `Advantage Direct Care` | 29/04/2022 |   |
-| `C&C FARMERSâ SUPPLY CORP` | 29/04/2022 |   |
-| `Semaphore Solutions Inc` | 29/04/2022 |   |
-| `Ackerman Plumbing Inc` | 29/04/2022 |   |
+| [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | 21/11/2022 |   |
+| [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | 21/11/2022 |   |
+| [`www.candcfarmsupply.com`](https://google.com/search?q=www.candcfarmsupply.com) | 21/11/2022 |   |
+| [`www.ackermanplumbinginc.com`](https://google.com/search?q=www.ackermanplumbinginc.com) | 21/11/2022 |   |
+| [`www.semaphorehq.com`](https://google.com/search?q=www.semaphorehq.com) | 21/11/2022 |   |
+| [`www.baltholding.eu`](https://google.com/search?q=www.baltholding.eu) | 21/11/2022 |   |
+| [`www.pacmaritime.com`](https://google.com/search?q=www.pacmaritime.com) | 21/11/2022 |   |
+| [`www.waynefamilypractice.com`](https://google.com/search?q=www.waynefamilypractice.com) | 21/11/2022 |   |
+| [`www.advantagedirectcare.com`](https://google.com/search?q=www.advantagedirectcare.com) | 21/11/2022 |   |
+| [`www.cucafresca.com.br`](https://google.com/search?q=www.cucafresca.com.br) | 21/11/2022 |   |
+| [`www.arisaseguros.com`](https://google.com/search?q=www.arisaseguros.com) | 21/11/2022 |   |
+| [`www.jaspercountysheriffoffice.com`](https://google.com/search?q=www.jaspercountysheriffoffice.com) | 21/11/2022 |   |
+| [`www.minex.gob.gt`](https://google.com/search?q=www.minex.gob.gt) | 21/11/2022 |   |
+| [`www.projectredirectdc.org`](https://google.com/search?q=www.projectredirectdc.org) | 21/11/2022 |   |
+| [`Ministerio de Relaciones Exteriores`](https://google.com/search?q=Ministerio+de+Relaciones+Exteriores) | 27/09/2022 |   |
+| [`Borough of Union Beach`](https://google.com/search?q=Borough+of+Union+Beach) | 05/08/2022 |   |
+| [`ARISA CORREDORES DE SEGUROS`](https://google.com/search?q=ARISA+CORREDORES+DE+SEGUROS) | 01/08/2022 |   |
+| [`CUCA FRESCA`](https://google.com/search?q=CUCA+FRESCA) | 26/07/2022 |   |
+| [`WAYAN NATURAL WEAR`](https://google.com/search?q=WAYAN+NATURAL+WEAR) | 26/07/2022 |   |
+| [`Artistic Stairs & Railings`](https://google.com/search?q=Artistic+Stairs+%26+Railings) | 26/07/2022 |   |
+| [`Baltholding OÃ`](https://google.com/search?q=Baltholding+O%C3%83%C2%9C) | 26/07/2022 |   |
+| [`Jasper County Sheriff's Office`](https://google.com/search?q=Jasper+County+Sheriff%27s+Office) | 29/04/2022 |   |
+| [`Pacific Maritime Industries Corp.`](https://google.com/search?q=Pacific+Maritime+Industries+Corp.) | 29/04/2022 |   |
+| [`WAYNE FAMILY PRACTICE, ASSOC., P.C.`](https://google.com/search?q=WAYNE+FAMILY+PRACTICE%2C+ASSOC.%2C+P.C.) | 29/04/2022 |   |
+| [`Advantage Direct Care`](https://google.com/search?q=Advantage+Direct+Care) | 29/04/2022 |   |
+| [`C&C FARMERSâ SUPPLY CORP`](https://google.com/search?q=C%26C+FARMERS%C3%A2%C2%80%C2%99+SUPPLY+CORP) | 29/04/2022 |   |
+| [`Semaphore Solutions Inc`](https://google.com/search?q=Semaphore+Solutions+Inc) | 29/04/2022 |   |
+| [`Ackerman Plumbing Inc`](https://google.com/search?q=Ackerman+Plumbing+Inc) | 29/04/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5939,11 +5942,11 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| `Hearst` | 30/03/2022 |   |
-| `United Cumberland` | 30/03/2022 |   |
-| `Jaffe Raitt Heuer & Weiss, P.C.` | 17/03/2022 |   |
-| `GlobalWafers Japan` | 17/03/2022 |   |
-| `Rosewd` | 17/03/2022 |   |
+| [`Hearst`](https://google.com/search?q=Hearst) | 30/03/2022 |   |
+| [`United Cumberland`](https://google.com/search?q=United+Cumberland) | 30/03/2022 |   |
+| [`Jaffe Raitt Heuer & Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26+Weiss%2C+P.C.) | 17/03/2022 |   |
+| [`GlobalWafers Japan`](https://google.com/search?q=GlobalWafers+Japan) | 17/03/2022 |   |
+| [`Rosewd`](https://google.com/search?q=Rosewd) | 17/03/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -5974,12 +5977,12 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| `MT-LAW [Markman&Tomashin Law Firm]` | 09/09/2021 |   |
-| `INTER - InterElectric` | 09/09/2021 |   |
-| `InfiApps - Joyvoo` | 09/09/2021 |   |
-| `Intel - Habana Labs` | 09/09/2021 |   |
-| `IAI - Israel Aerospace Industries` | 09/09/2021 |   |
-| `Portnox - Network Security Solutions` | 09/09/2021 |   |
+| [`MT-LAW [Markman&Tomashin Law Firm]`](https://google.com/search?q=MT-LAW+%5BMarkman%26Tomashin+Law+Firm%5D) | 09/09/2021 |   |
+| [`INTER - InterElectric`](https://google.com/search?q=INTER+-+InterElectric) | 09/09/2021 |   |
+| [`InfiApps - Joyvoo`](https://google.com/search?q=InfiApps+-+Joyvoo) | 09/09/2021 |   |
+| [`Intel - Habana Labs`](https://google.com/search?q=Intel+-+Habana+Labs) | 09/09/2021 |   |
+| [`IAI - Israel Aerospace Industries`](https://google.com/search?q=IAI+-+Israel+Aerospace+Industries) | 09/09/2021 |   |
+| [`Portnox - Network Security Solutions`](https://google.com/search?q=Portnox+-+Network+Security+Solutions) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6003,35 +6006,35 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| `aquila.ch` | 06/01/2022 |   |
-| `www.paw.eu` | 01/01/2022 |   |
-| `Serenity Homes SWFL` | 01/01/2022 |   |
-| `www.hillsdalefurniture.com` | 23/12/2021 |   |
-| `dawsoncountyne.org` | 19/10/2021 |   |
-| `www.lockslaw.com` | 16/10/2021 |   |
-| `calautomotive.com` | 30/09/2021 |   |
-| `calsoft` | 30/09/2021 |   |
-| `calsoft.com` | 30/09/2021 |   |
-| `www.myyp.com` | 25/09/2021 |   |
-| `Reconservices.com` | 09/09/2021 |   |
-| `Capstoneins.com` | 09/09/2021 |   |
-| `neuro-logica.com` | 09/09/2021 |   |
-| `webstercare.com.au` | 09/09/2021 |   |
-| `www.crm.com` | 09/09/2021 |   |
-| `www.coreslab.com` | 09/09/2021 |   |
-| `www.emmawillard.org` | 09/09/2021 |   |
-| `pdsec.com` | 09/09/2021 |   |
-| `conferenceusa.com` | 09/09/2021 |   |
-| `sklarwilton.com` | 09/09/2021 |   |
-| `nsuship.co.jp` | 09/09/2021 |   |
-| `iRely LLC's Grand Failure` | 09/09/2021 |   |
-| `CD Project data` | 09/09/2021 |   |
-| `Victrongroup.com` | 09/09/2021 |   |
-| `Uptownbakers.com` | 09/09/2021 |   |
-| `Truckcentercompanies.com` | 09/09/2021 |   |
-| `Connelypartners.com` | 09/09/2021 |   |
-| `Wrgtexas.com` | 09/09/2021 |   |
-| `www.webstercare.com.au` | 09/09/2021 |   |
+| [`aquila.ch`](https://google.com/search?q=aquila.ch) | 06/01/2022 |   |
+| [`www.paw.eu`](https://google.com/search?q=www.paw.eu) | 01/01/2022 |   |
+| [`Serenity Homes SWFL`](https://google.com/search?q=Serenity+Homes+SWFL) | 01/01/2022 |   |
+| [`www.hillsdalefurniture.com`](https://google.com/search?q=www.hillsdalefurniture.com) | 23/12/2021 |   |
+| [`dawsoncountyne.org`](https://google.com/search?q=dawsoncountyne.org) | 19/10/2021 |   |
+| [`www.lockslaw.com`](https://google.com/search?q=www.lockslaw.com) | 16/10/2021 |   |
+| [`calautomotive.com`](https://google.com/search?q=calautomotive.com) | 30/09/2021 |   |
+| [`calsoft`](https://google.com/search?q=calsoft) | 30/09/2021 |   |
+| [`calsoft.com`](https://google.com/search?q=calsoft.com) | 30/09/2021 |   |
+| [`www.myyp.com`](https://google.com/search?q=www.myyp.com) | 25/09/2021 |   |
+| [`Reconservices.com`](https://google.com/search?q=Reconservices.com) | 09/09/2021 |   |
+| [`Capstoneins.com`](https://google.com/search?q=Capstoneins.com) | 09/09/2021 |   |
+| [`neuro-logica.com`](https://google.com/search?q=neuro-logica.com) | 09/09/2021 |   |
+| [`webstercare.com.au`](https://google.com/search?q=webstercare.com.au) | 09/09/2021 |   |
+| [`www.crm.com`](https://google.com/search?q=www.crm.com) | 09/09/2021 |   |
+| [`www.coreslab.com`](https://google.com/search?q=www.coreslab.com) | 09/09/2021 |   |
+| [`www.emmawillard.org`](https://google.com/search?q=www.emmawillard.org) | 09/09/2021 |   |
+| [`pdsec.com`](https://google.com/search?q=pdsec.com) | 09/09/2021 |   |
+| [`conferenceusa.com`](https://google.com/search?q=conferenceusa.com) | 09/09/2021 |   |
+| [`sklarwilton.com`](https://google.com/search?q=sklarwilton.com) | 09/09/2021 |   |
+| [`nsuship.co.jp`](https://google.com/search?q=nsuship.co.jp) | 09/09/2021 |   |
+| [`iRely LLC's Grand Failure`](https://google.com/search?q=iRely+LLC%27s+Grand+Failure) | 09/09/2021 |   |
+| [`CD Project data`](https://google.com/search?q=CD+Project+data) | 09/09/2021 |   |
+| [`Victrongroup.com`](https://google.com/search?q=Victrongroup.com) | 09/09/2021 |   |
+| [`Uptownbakers.com`](https://google.com/search?q=Uptownbakers.com) | 09/09/2021 |   |
+| [`Truckcentercompanies.com`](https://google.com/search?q=Truckcentercompanies.com) | 09/09/2021 |   |
+| [`Connelypartners.com`](https://google.com/search?q=Connelypartners.com) | 09/09/2021 |   |
+| [`Wrgtexas.com`](https://google.com/search?q=Wrgtexas.com) | 09/09/2021 |   |
+| [`www.webstercare.com.au`](https://google.com/search?q=www.webstercare.com.au) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6066,39 +6069,39 @@ _`aka vsop`_
 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`]() | 27/12/2022 |  |
 | [`Cervecería Regional`]() | 22/12/2022 |  |
 | [`F???????, ???, D????????, T???????, S?????????????`]() | 22/12/2022 |  |
-| `OPUS IT Services` | 18/12/2022 |   |
-| `H-Hotels` | 18/12/2022 |   |
-| `C???e????? ?????????????` | 18/12/2022 |   |
-| `Creta Farm` | 18/12/2022 |   |
-| `S??????????` | 18/12/2022 |   |
-| `Arsat` | 16/12/2022 |   |
-| `JMicron` | 16/12/2022 |   |
-| `VFS` | 13/12/2022 |   |
-| `Cetrogar` | 13/12/2022 |   |
-| `Una Seguros` | 11/12/2022 |   |
-| `Antwerpen` | 11/12/2022 |   |
-| `???????` | 09/12/2022 |   |
-| `Hilldrup` | 09/12/2022 |   |
-| `????` | 08/12/2022 |   |
-| `Skoda Praha` | 07/12/2022 |   |
-| `MME Group` | 07/12/2022 |   |
-| `Highwater Ethanol` | 07/12/2022 |   |
-| `Wrota Mazowsza` | 07/12/2022 |   |
-| `UJV Rez` | 07/12/2022 |   |
-| `????????? ???? ?????` | 07/12/2022 |   |
-| `CIBTvisas` | 06/12/2022 |   |
-| `Austria Presse Agentur` | 05/12/2022 |   |
-| `???` | 29/11/2022 |   |
-| `Verity cloud` | 28/11/2022 |   |
-| `???????????` | 28/11/2022 |   |
-| `???? ?????` | 28/11/2022 |   |
-| `PVFCCo` | 26/11/2022 |   |
-| `Leadtek` | 26/11/2022 |   |
-| `Alcomet` | 26/11/2022 |   |
-| `Ministry of Transport and Public Works` | 26/11/2022 |   |
-| `Itsgroup` | 26/11/2022 |   |
-| `Conseil departemental - Alpes-Maritimes` | 26/11/2022 |   |
-| `Origin Property Company Limited` | 26/11/2022 |   |
+| [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | 18/12/2022 |   |
+| [`H-Hotels`](https://google.com/search?q=H-Hotels) | 18/12/2022 |   |
+| [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 18/12/2022 |   |
+| [`Creta Farm`](https://google.com/search?q=Creta+Farm) | 18/12/2022 |   |
+| [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 18/12/2022 |   |
+| [`Arsat`](https://google.com/search?q=Arsat) | 16/12/2022 |   |
+| [`JMicron`](https://google.com/search?q=JMicron) | 16/12/2022 |   |
+| [`VFS`](https://google.com/search?q=VFS) | 13/12/2022 |   |
+| [`Cetrogar`](https://google.com/search?q=Cetrogar) | 13/12/2022 |   |
+| [`Una Seguros`](https://google.com/search?q=Una+Seguros) | 11/12/2022 |   |
+| [`Antwerpen`](https://google.com/search?q=Antwerpen) | 11/12/2022 |   |
+| [`???????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F) | 09/12/2022 |   |
+| [`Hilldrup`](https://google.com/search?q=Hilldrup) | 09/12/2022 |   |
+| [`????`](https://google.com/search?q=%3F%3F%3F%3F) | 08/12/2022 |   |
+| [`Skoda Praha`](https://google.com/search?q=Skoda+Praha) | 07/12/2022 |   |
+| [`MME Group`](https://google.com/search?q=MME+Group) | 07/12/2022 |   |
+| [`Highwater Ethanol`](https://google.com/search?q=Highwater+Ethanol) | 07/12/2022 |   |
+| [`Wrota Mazowsza`](https://google.com/search?q=Wrota+Mazowsza) | 07/12/2022 |   |
+| [`UJV Rez`](https://google.com/search?q=UJV+Rez) | 07/12/2022 |   |
+| [`????????? ???? ?????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | 07/12/2022 |   |
+| [`CIBTvisas`](https://google.com/search?q=CIBTvisas) | 06/12/2022 |   |
+| [`Austria Presse Agentur`](https://google.com/search?q=Austria+Presse+Agentur) | 05/12/2022 |   |
+| [`???`](https://google.com/search?q=%3F%3F%3F) | 29/11/2022 |   |
+| [`Verity cloud`](https://google.com/search?q=Verity+cloud) | 28/11/2022 |   |
+| [`???????????`](https://google.com/search?q=%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 28/11/2022 |   |
+| [`???? ?????`](https://google.com/search?q=%3F%3F%3F%3F+%3F%3F%3F%3F%3F) | 28/11/2022 |   |
+| [`PVFCCo`](https://google.com/search?q=PVFCCo) | 26/11/2022 |   |
+| [`Leadtek`](https://google.com/search?q=Leadtek) | 26/11/2022 |   |
+| [`Alcomet`](https://google.com/search?q=Alcomet) | 26/11/2022 |   |
+| [`Ministry of Transport and Public Works`](https://google.com/search?q=Ministry+of+Transport+and+Public+Works) | 26/11/2022 |   |
+| [`Itsgroup`](https://google.com/search?q=Itsgroup) | 26/11/2022 |   |
+| [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | 26/11/2022 |   |
+| [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | 26/11/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6119,11 +6122,11 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| `Doctors Center Hospital` | 18/12/2022 | Doctors' Center Hospital is among the leaders in the hospital network of Puerto Rico. |
-| `Willis Klein` | 11/11/2022 | Founded in 1960, Willis Klein has multiple divisions providing decorative plumbing, door hardware, custom bathroom cabinets and furniture, commercial hardware. |
-| `BroadMed Holding` | 11/11/2022 | BroadMed Holding (BMH) is a company that specializes in healthcare related businesses. The range of experience stretches to supply the medical field with a wide |
-| `Turner & Associates, LLP` | 11/11/2022 | Outstanding service to our clients is what makes Turner & Associates, LLP one of the leading CPA firms in the State of Florida. Our combined 75 years of Partner |
-| `Sterling Battery` | 11/11/2022 | Sterling Battery Co is a company that operates in the Automotive industry. |
+| [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | 18/12/2022 | Doctors' Center Hospital is among the leaders in the hospital network of Puerto Rico. |
+| [`Willis Klein`](https://google.com/search?q=Willis+Klein) | 11/11/2022 | Founded in 1960, Willis Klein has multiple divisions providing decorative plumbing, door hardware, custom bathroom cabinets and furniture, commercial hardware. |
+| [`BroadMed Holding`](https://google.com/search?q=BroadMed+Holding) | 11/11/2022 | BroadMed Holding (BMH) is a company that specializes in healthcare related businesses. The range of experience stretches to supply the medical field with a wide |
+| [`Turner & Associates, LLP`](https://google.com/search?q=Turner+%26+Associates%2C+LLP) | 11/11/2022 | Outstanding service to our clients is what makes Turner & Associates, LLP one of the leading CPA firms in the State of Florida. Our combined 75 years of Partner |
+| [`Sterling Battery`](https://google.com/search?q=Sterling+Battery) | 11/11/2022 | Sterling Battery Co is a company that operates in the Automotive industry. |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6208,314 +6211,314 @@ _`aka pwndlocker`_
 
 | post | date | Description
 |---|---|---|
-| `Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥` | 20/09/2022 |   |
-| `CHR Solutions` | 06/12/2021 |   |
-| `The Skinners Kent Academy` | 08/11/2021 |   |
-| `Kent County Council` | 08/11/2021 |   |
-| `Rusty Hardin & Associates` | 08/11/2021 |   |
-| `R.E. Pedrotti Co.` | 08/11/2021 |   |
-| `UEMOA` | 08/11/2021 |   |
-| `Skatetown` | 08/11/2021 |   |
-| `CHRYSO` | 08/11/2021 |   |
-| `itimCloud` | 08/11/2021 |   |
-| `Bayonet` | 08/11/2021 |   |
-| `Fly Arik Air` | 08/11/2021 |   |
-| `Las Vegas Cancer Center` | 08/11/2021 |   |
-| `CarpenterProjects` | 08/11/2021 |   |
-| `Westmont Helena` | 08/11/2021 |   |
-| `Woodchurch High School` | 08/11/2021 |   |
-| `Emkay Food Sales` | 08/11/2021 |   |
-| `Premier Energy` | 08/11/2021 |   |
-| `Schmincke KÃ¼nstlerfarben` | 08/11/2021 |   |
-| `Stratford Land` | 08/11/2021 |   |
-| `Dr Schneider` | 08/11/2021 |   |
-| `Rockbridge and Bath County` | 08/11/2021 |   |
-| `Nordic Pharma` | 08/11/2021 |   |
-| `The Leschaco Group` | 08/11/2021 |   |
-| `Eason Horticultural Resources` | 08/11/2021 |   |
-| `Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥` | 08/11/2021 |   |
-| `SWL` | 08/11/2021 |   |
-| `Lucton School` | 08/11/2021 |   |
-| `Hickory Veterinary Hospital` | 08/11/2021 |   |
-| `Westvale Primary School` | 08/11/2021 |   |
-| `Property Damage Restoration` | 08/11/2021 |   |
-| `Garner Dental Group` | 08/11/2021 |   |
-| `MVS Mailers` | 08/11/2021 |   |
-| `EHS` | 08/11/2021 |   |
-| `Comstock Johnson Architects` | 08/11/2021 |   |
-| `La Bodega` | 08/11/2021 |   |
-| `Gulfport MS` | 08/11/2021 |   |
-| `Pitts Baptist Church` | 08/11/2021 |   |
-| `Emi Jay` | 08/11/2021 |   |
-| `Niemi Bil i LuleÃ¥` | 08/11/2021 |   |
-| `Department of Justice and Constitutional Development` | 08/11/2021 |   |
-| `MPRL E&P` | 08/11/2021 |   |
-| `Capitol Beauty School` | 08/11/2021 |   |
-| `Bryant Industrial Services` | 08/11/2021 |   |
-| `Alternatives, Inc.` | 08/11/2021 |   |
-| `Family Dental Health` | 08/11/2021 |   |
-| `Community Brands` | 08/11/2021 |   |
-| `Vision Source` | 08/11/2021 |   |
-| `AECOM` | 08/11/2021 |   |
-| `Jalasoft` | 08/11/2021 |   |
-| `Astera Software` | 08/11/2021 |   |
-| `Thunderbird Adventist Academy` | 08/11/2021 |   |
-| `Raj Transport Inc.` | 08/11/2021 |   |
-| `Metaenergia` | 08/11/2021 |   |
-| `Florida Heart Associates` | 08/11/2021 |   |
-| `Family Dentist Newbury` | 08/11/2021 |   |
-| `ProActive Works` | 08/11/2021 |   |
-| `DiputaciÃ³n de Segovia` | 08/11/2021 |   |
-| `City of Bridgeport, WV` | 08/11/2021 |   |
-| `Ferrara` | 08/11/2021 |   |
-| `Universitat AutÃ²noma de Barcelona` | 08/11/2021 |   |
-| `HÃ¶erskool Labori Paarl` | 25/10/2021 |   |
-| `Cenikor` | 25/10/2021 |   |
-| `Suntide Commercial Realty` | 25/10/2021 |   |
-| `Motor Appliance Corporation` | 25/10/2021 |   |
-| `Townley Grammar School` | 22/10/2021 |   |
-| `Ruskin Community High School` | 22/10/2021 |   |
-| `Weiss Properties` | 22/10/2021 |   |
-| `Lesk Engineering` | 18/10/2021 |   |
-| `Our Lady's Abingdon` | 18/10/2021 |   |
-| `Western Urethane` | 18/10/2021 |   |
-| `QPharma` | 18/10/2021 |   |
-| `Price Davis LLC` | 18/10/2021 |   |
-| `Campus Sacre Coeur Wien Gymnasium` | 18/10/2021 |   |
-| `CreateInfor` | 18/10/2021 |   |
-| `InfoSync IT Solutions` | 18/10/2021 |   |
-| `Hall Technologies Inc` | 18/10/2021 |   |
-| `Consolidated High School District 230` | 04/10/2021 |   |
-| `SantÃ©lys` | 04/10/2021 |   |
-| `Instituto Mixto de Ayuda Social` | 04/10/2021 |   |
-| `Ardagh Group` | 04/10/2021 |   |
-| `ITS, Inc.` | 04/10/2021 |   |
-| `St Benet Biscop` | 04/10/2021 |   |
-| `Jurysync` | 04/10/2021 |   |
-| `Adore Fashions` | 04/10/2021 |   |
-| `HMCC` | 04/10/2021 |   |
-| `Associated Solutions` | 04/10/2021 |   |
-| `Ocean View Nursing & Rehabilitation` | 04/10/2021 |   |
-| `Betson Enterprises` | 13/09/2021 |   |
-| `One Community Health` | 13/09/2021 |   |
-| `Jesse Engineering Co` | 13/09/2021 |   |
-| `Grupo SAN` | 13/09/2021 |   |
-| `Spartanburg & Pelham OB-GYN` | 13/09/2021 |   |
-| `Haverhill High School` | 13/09/2021 |   |
-| `Woodlake Unified` | 13/09/2021 |   |
-| `HABI` | 13/09/2021 |   |
-| `Drug Alcohol Testing` | 10/09/2021 |   |
-| `Sacschool` | 09/09/2021 |   |
-| `Liberty Linehaul` | 09/09/2021 |   |
-| `Faic` | 09/09/2021 |   |
-| `Diamond Box` | 09/09/2021 |   |
-| `Allard` | 09/09/2021 |   |
-| `Fincamex` | 09/09/2021 |   |
-| `Matthews` | 09/09/2021 |   |
-| `Oliviers` | 09/09/2021 |   |
-| `Poliview` | 09/09/2021 |   |
-| `Famisanar` | 09/09/2021 |   |
-| `Saludladera` | 09/09/2021 |   |
-| `Pjfitzpatrick` | 09/09/2021 |   |
-| `CDPO` | 09/09/2021 |   |
-| `Aebel` | 09/09/2021 |   |
-| `HAC` | 09/09/2021 |   |
-| `Ribasalvarez` | 09/09/2021 |   |
-| `Noorulislam` | 09/09/2021 |   |
-| `Grupocif` | 09/09/2021 |   |
-| `Cretsenbelledonne` | 09/09/2021 |   |
-| `Groupe Lefebvre M.R.P.` | 09/09/2021 |   |
-| `The Masonic Home of Florida` | 09/09/2021 |   |
-| `Q3 Academy` | 09/09/2021 |   |
-| `Piedmont Orthopedics  OrthoAtlanta` | 09/09/2021 |   |
-| `MCLINC` | 09/09/2021 |   |
-| `WHSE` | 09/09/2021 |   |
-| `John Hardy` | 09/09/2021 |   |
-| `Marseille Provence` | 09/09/2021 |   |
-| `Alliance Building Services` | 09/09/2021 |   |
-| `Wichita Sheet Metal` | 09/09/2021 |   |
-| `Illinois Valley Community College` | 09/09/2021 |   |
-| `Monty Holding Group` | 09/09/2021 |   |
-| `The Dantherm Group` | 09/09/2021 |   |
-| `The Sixth Form Bolton` | 09/09/2021 |   |
-| `Lindenwold` | 09/09/2021 |   |
-| `The CFC` | 09/09/2021 |   |
-| `Dublin` | 09/09/2021 |   |
-| `Upper Columbia Academy` | 09/09/2021 |   |
-| `The Seifert Logistics Group` | 09/09/2021 |   |
-| `Uxbridge College` | 09/09/2021 |   |
-| `Assured Imaging` | 09/09/2021 |   |
-| `Grand Homes` | 09/09/2021 |   |
-| `Nonin Medical` | 09/09/2021 |   |
-| `The Teka Group` | 09/09/2021 |   |
-| `ACE Glass` | 09/09/2021 |   |
-| `Bosley` | 09/09/2021 |   |
-| `MK Products` | 09/09/2021 |   |
-| `Myerscough College` | 09/09/2021 |   |
-| `UCEL` | 09/09/2021 |   |
-| `Tor Vergata` | 09/09/2021 |   |
-| `West Central Foodservice` | 09/09/2021 |   |
-| `Kuenne Gruppe` | 09/09/2021 |   |
-| `Irish Farmers Journals` | 09/09/2021 |   |
-| `CASES` | 09/09/2021 |   |
-| `Rafaela Alimentos` | 09/09/2021 |   |
-| `ASE Bucuresti` | 09/09/2021 |   |
-| `Heartland` | 09/09/2021 |   |
-| `Winters Independent School District` | 09/09/2021 |   |
-| `IQA` | 09/09/2021 |   |
-| `Bakers S.A. Limited` | 09/09/2021 |   |
-| `Econocom` | 09/09/2021 |   |
-| `Avelia` | 09/09/2021 |   |
-| `Mongoldford` | 09/09/2021 |   |
-| `CWF Group Inc.` | 09/09/2021 |   |
-| `Telhai` | 09/09/2021 |   |
-| `Ayuntamiento de Guadarrama` | 09/09/2021 |   |
-| `Hackney Council` | 09/09/2021 |   |
-| `Market Pioneer` | 09/09/2021 |   |
-| `Roughrider Internation Ltd.` | 09/09/2021 |   |
-| `Bruce Turner` | 09/09/2021 |   |
-| `Mendes JÃºnior` | 09/09/2021 |   |
-| `Affinity Education` | 09/09/2021 |   |
-| `Gemitchellco` | 09/09/2021 |   |
-| `Rontis Medical` | 09/09/2021 |   |
-| `Mirai` | 09/09/2021 |   |
-| `Tech 2000` | 09/09/2021 |   |
-| `Benchmark Family Services` | 09/09/2021 |   |
-| `Dayliff` | 09/09/2021 |   |
-| `Merchant Taylors' School` | 09/09/2021 |   |
-| `Riggins Company` | 09/09/2021 |   |
-| `St. Margaretâs Hospice Care` | 09/09/2021 |   |
-| `Bene Ficencia` | 09/09/2021 |   |
-| `Grupo Infoar` | 09/09/2021 |   |
-| `McKinney` | 09/09/2021 |   |
-| `Overlake Obstetricians & Gynecologists,PC` | 09/09/2021 |   |
-| `St. Mary School Hyde Park` | 09/09/2021 |   |
-| `Torello Moving Strategies` | 09/09/2021 |   |
-| `Max. Aarts` | 09/09/2021 |   |
-| `Mid-Florida Pathology` | 09/09/2021 |   |
-| `Serinus Energy Plc` | 09/09/2021 |   |
-| `Outwest Express LLC` | 09/09/2021 |   |
-| `King Henrys` | 09/09/2021 |   |
-| `Summit Appliance` | 09/09/2021 |   |
-| `Brickhaus` | 09/09/2021 |   |
-| `Finance Evolution` | 09/09/2021 |   |
-| `Nama Khoi Municipality` | 09/09/2021 |   |
-| `Thinkware` | 09/09/2021 |   |
-| `Brookfield Public Schools` | 09/09/2021 |   |
-| `Salesianum School` | 09/09/2021 |   |
-| `Provenza Floors` | 09/09/2021 |   |
-| `CCS` | 09/09/2021 |   |
-| `Palos Community Consolidated School District 118` | 09/09/2021 |   |
-| `DFW Communications,Inc.` | 09/09/2021 |   |
-| `The FitzWimark School` | 09/09/2021 |   |
-| `Ãstre Toten Kommune Voksenopplring` | 09/09/2021 |   |
-| `Blueknight Energy Partners` | 09/09/2021 |   |
-| `The Bascom` | 09/09/2021 |   |
-| `Bridgwater & Taunton College` | 09/09/2021 |   |
-| `Neenan Company` | 09/09/2021 |   |
-| `Romanoff Group` | 09/09/2021 |   |
-| `Jebco Agencies Inc.` | 09/09/2021 |   |
-| `Wisconsin Public Radio` | 09/09/2021 |   |
-| `Intecs group` | 09/09/2021 |   |
-| `Prairie View A&M University` | 09/09/2021 |   |
-| `Flamingo Horticulture` | 09/09/2021 |   |
-| `Little Elm` | 09/09/2021 |   |
-| `Peters Bosel Lawyers` | 09/09/2021 |   |
-| `Implanta Spa` | 09/09/2021 |   |
-| `Wolf Lake Industrial Center and Terminals` | 09/09/2021 |   |
-| `Tucker Oil Company Inc.` | 09/09/2021 |   |
-| `Cleveland Institute of Music` | 09/09/2021 |   |
-| `Grand Annecy Agglomeration` | 09/09/2021 |   |
-| `Doak Shirreff Lawyers` | 09/09/2021 |   |
-| `Fairfax University of America` | 09/09/2021 |   |
-| `Brain:IT` | 09/09/2021 |   |
-| `Powerblanket` | 09/09/2021 |   |
-| `Viport` | 09/09/2021 |   |
-| `Grant Supplies` | 09/09/2021 |   |
-| `Plantaciones de PlÃ¡tano` | 09/09/2021 |   |
-| `Siesacloud` | 09/09/2021 |   |
-| `Syracuse New Times` | 09/09/2021 |   |
-| `Prefeitura de BalneÃ¡rio CamboriÃº` | 09/09/2021 |   |
-| `Lo Studio Bartoli & Arveda` | 09/09/2021 |   |
-| `ProSource Wholesale` | 09/09/2021 |   |
-| `American Industrial Felt & Supply, Inc` | 09/09/2021 |   |
-| `Esteyco` | 09/09/2021 |   |
-| `D.W. Haber & Son` | 09/09/2021 |   |
-| `Dallas Production` | 09/09/2021 |   |
-| `IDS Online Store` | 09/09/2021 |   |
-| `Zionsville Community Schools` | 09/09/2021 |   |
-| `Blackhawk Mining` | 09/09/2021 |   |
-| `Baldwin Wallace University` | 09/09/2021 |   |
-| `La ChÃ¢taigneraie` | 09/09/2021 |   |
-| `A Superior Towing` | 09/09/2021 |   |
-| `OnLINE FM` | 09/09/2021 |   |
-| `Ogden Golf & Country Club` | 09/09/2021 |   |
-| `BABB Security Systems` | 09/09/2021 |   |
-| `Repro X-Press` | 09/09/2021 |   |
-| `EBSU` | 09/09/2021 |   |
-| `Paysoft` | 09/09/2021 |   |
-| `Tenderloin Housing Clinic` | 09/09/2021 |   |
-| `FirstCash Inc` | 09/09/2021 |   |
-| `Florence-Darlington Technical College` | 09/09/2021 |   |
-| `Momentum Transportation` | 09/09/2021 |   |
-| `Woodholme Gastroenterology Associates` | 09/09/2021 |   |
-| `Forest City Fire Protection` | 09/09/2021 |   |
-| `Western Flyer Express` | 09/09/2021 |   |
-| `City of Covington Louisiana` | 09/09/2021 |   |
-| `Bridgeway Inc` | 09/09/2021 |   |
-| `Transam Carriers` | 09/09/2021 |   |
-| `Dale Operating Company` | 09/09/2021 |   |
-| `Levante UD` | 09/09/2021 |   |
-| `Upstate Home Care` | 09/09/2021 |   |
-| `Modern Data Systems` | 09/09/2021 |   |
-| `Immanuel Lutheran Church and School` | 09/09/2021 |   |
-| `Millersville University` | 09/09/2021 |   |
-| `Marlboro Pediatric Dentistryâ` | 09/09/2021 |   |
-| `Public Restroom Company` | 09/09/2021 |   |
-| `Grover Corparation` | 09/09/2021 |   |
-| `Aireko` | 09/09/2021 |   |
-| `Legacy Housing Corporation` | 09/09/2021 |   |
-| `Wiener Laboratorios` | 09/09/2021 |   |
-| `Eagle Eye Produce` | 09/09/2021 |   |
-| `Ciruli Brothers` | 09/09/2021 |   |
-| `JVSmith Companies` | 09/09/2021 |   |
-| `Home Grown Grocery Food Supermarket` | 09/09/2021 |   |
-| `Gering Public Schools` | 09/09/2021 |   |
-| `Affton School District` | 09/09/2021 |   |
-| `Worldwide Oilfield Machine` | 09/09/2021 |   |
-| `Divorce Lawyer in Reading & Douglassville, PA` | 09/09/2021 |   |
-| `Drug Alcohol Testing and Screening Compliance in Texas` | 09/09/2021 |   |
-| `Dayton Door Sales` | 09/09/2021 |   |
-| `Children's Network of Southwest Florida` | 09/09/2021 |   |
-| `Zamora` | 09/09/2021 |   |
-| `ATC Transportation` | 09/09/2021 |   |
-| `Commack Fire Department` | 09/09/2021 |   |
-| `Zane State College` | 09/09/2021 |   |
-| `AFP Elevator` | 09/09/2021 |   |
-| `Alliance Architecture` | 09/09/2021 |   |
-| `Aztec Events` | 09/09/2021 |   |
-| `Buffalo Schools` | 09/09/2021 |   |
-| `St Bede's College` | 09/09/2021 |   |
-| `Hyper Microsystems` | 09/09/2021 |   |
-| `Geotechnical Consultants Inc.` | 09/09/2021 |   |
-| `Cyclone Steel` | 09/09/2021 |   |
-| `OHL Judlau` | 09/09/2021 |   |
-| `The Fashion Group International` | 09/09/2021 |   |
-| `Upstate HomeCare` | 09/09/2021 |   |
-| `Vermont Personal Injury Lawyers` | 09/09/2021 |   |
-| `Sarmad Steel` | 09/09/2021 |   |
-| `Bulley` | 09/09/2021 |   |
-| `the NET - Northeast Tennessee Media Group` | 09/09/2021 |   |
-| `Famous Supply` | 09/09/2021 |   |
-| `LJ Hooker Aspley` | 09/09/2021 |   |
-| `WPSD Local 6` | 09/09/2021 |   |
-| `Karavan Trailers` | 09/09/2021 |   |
-| `Logansport Community School Corporation` | 09/09/2021 |   |
-| `FCS Financial` | 09/09/2021 |   |
-| `Danko Emergency Equipment` | 09/09/2021 |   |
-| `HVAC Facility & Plant Maintenance Tools` | 09/09/2021 |   |
-| `HPW` | 09/09/2021 |   |
-| `My Cloud Star` | 09/09/2021 |   |
+| [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | 20/09/2022 |   |
+| [`CHR Solutions`](https://google.com/search?q=CHR+Solutions) | 06/12/2021 |   |
+| [`The Skinners Kent Academy`](https://google.com/search?q=The+Skinners+Kent+Academy) | 08/11/2021 |   |
+| [`Kent County Council`](https://google.com/search?q=Kent+County+Council) | 08/11/2021 |   |
+| [`Rusty Hardin & Associates`](https://google.com/search?q=Rusty+Hardin+%26+Associates) | 08/11/2021 |   |
+| [`R.E. Pedrotti Co.`](https://google.com/search?q=R.E.+Pedrotti+Co.) | 08/11/2021 |   |
+| [`UEMOA`](https://google.com/search?q=UEMOA) | 08/11/2021 |   |
+| [`Skatetown`](https://google.com/search?q=Skatetown) | 08/11/2021 |   |
+| [`CHRYSO`](https://google.com/search?q=CHRYSO) | 08/11/2021 |   |
+| [`itimCloud`](https://google.com/search?q=itimCloud) | 08/11/2021 |   |
+| [`Bayonet`](https://google.com/search?q=Bayonet) | 08/11/2021 |   |
+| [`Fly Arik Air`](https://google.com/search?q=Fly+Arik+Air) | 08/11/2021 |   |
+| [`Las Vegas Cancer Center`](https://google.com/search?q=Las+Vegas+Cancer+Center) | 08/11/2021 |   |
+| [`CarpenterProjects`](https://google.com/search?q=CarpenterProjects) | 08/11/2021 |   |
+| [`Westmont Helena`](https://google.com/search?q=Westmont+Helena) | 08/11/2021 |   |
+| [`Woodchurch High School`](https://google.com/search?q=Woodchurch+High+School) | 08/11/2021 |   |
+| [`Emkay Food Sales`](https://google.com/search?q=Emkay+Food+Sales) | 08/11/2021 |   |
+| [`Premier Energy`](https://google.com/search?q=Premier+Energy) | 08/11/2021 |   |
+| [`Schmincke KÃ¼nstlerfarben`](https://google.com/search?q=Schmincke+K%C3%83%C2%BCnstlerfarben) | 08/11/2021 |   |
+| [`Stratford Land`](https://google.com/search?q=Stratford+Land) | 08/11/2021 |   |
+| [`Dr Schneider`](https://google.com/search?q=Dr+Schneider) | 08/11/2021 |   |
+| [`Rockbridge and Bath County`](https://google.com/search?q=Rockbridge+and+Bath+County) | 08/11/2021 |   |
+| [`Nordic Pharma`](https://google.com/search?q=Nordic+Pharma) | 08/11/2021 |   |
+| [`The Leschaco Group`](https://google.com/search?q=The+Leschaco+Group) | 08/11/2021 |   |
+| [`Eason Horticultural Resources`](https://google.com/search?q=Eason+Horticultural+Resources) | 08/11/2021 |   |
+| [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E+%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E+%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E+%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | 08/11/2021 |   |
+| [`SWL`](https://google.com/search?q=SWL) | 08/11/2021 |   |
+| [`Lucton School`](https://google.com/search?q=Lucton+School) | 08/11/2021 |   |
+| [`Hickory Veterinary Hospital`](https://google.com/search?q=Hickory+Veterinary+Hospital) | 08/11/2021 |   |
+| [`Westvale Primary School`](https://google.com/search?q=Westvale+Primary+School) | 08/11/2021 |   |
+| [`Property Damage Restoration`](https://google.com/search?q=Property+Damage+Restoration) | 08/11/2021 |   |
+| [`Garner Dental Group`](https://google.com/search?q=Garner+Dental+Group) | 08/11/2021 |   |
+| [`MVS Mailers`](https://google.com/search?q=MVS+Mailers) | 08/11/2021 |   |
+| [`EHS`](https://google.com/search?q=EHS) | 08/11/2021 |   |
+| [`Comstock Johnson Architects`](https://google.com/search?q=Comstock+Johnson+Architects) | 08/11/2021 |   |
+| [`La Bodega`](https://google.com/search?q=La+Bodega) | 08/11/2021 |   |
+| [`Gulfport MS`](https://google.com/search?q=Gulfport+MS) | 08/11/2021 |   |
+| [`Pitts Baptist Church`](https://google.com/search?q=Pitts+Baptist+Church) | 08/11/2021 |   |
+| [`Emi Jay`](https://google.com/search?q=Emi+Jay) | 08/11/2021 |   |
+| [`Niemi Bil i LuleÃ¥`](https://google.com/search?q=Niemi+Bil+i+Lule%C3%83%C2%A5) | 08/11/2021 |   |
+| [`Department of Justice and Constitutional Development`](https://google.com/search?q=Department+of+Justice+and+Constitutional+Development) | 08/11/2021 |   |
+| [`MPRL E&P`](https://google.com/search?q=MPRL+E%26P) | 08/11/2021 |   |
+| [`Capitol Beauty School`](https://google.com/search?q=Capitol+Beauty+School) | 08/11/2021 |   |
+| [`Bryant Industrial Services`](https://google.com/search?q=Bryant+Industrial+Services) | 08/11/2021 |   |
+| [`Alternatives, Inc.`](https://google.com/search?q=Alternatives%2C+Inc.) | 08/11/2021 |   |
+| [`Family Dental Health`](https://google.com/search?q=Family+Dental+Health) | 08/11/2021 |   |
+| [`Community Brands`](https://google.com/search?q=Community+Brands) | 08/11/2021 |   |
+| [`Vision Source`](https://google.com/search?q=Vision+Source) | 08/11/2021 |   |
+| [`AECOM`](https://google.com/search?q=AECOM) | 08/11/2021 |   |
+| [`Jalasoft`](https://google.com/search?q=Jalasoft) | 08/11/2021 |   |
+| [`Astera Software`](https://google.com/search?q=Astera+Software) | 08/11/2021 |   |
+| [`Thunderbird Adventist Academy`](https://google.com/search?q=Thunderbird+Adventist+Academy) | 08/11/2021 |   |
+| [`Raj Transport Inc.`](https://google.com/search?q=Raj+Transport+Inc.) | 08/11/2021 |   |
+| [`Metaenergia`](https://google.com/search?q=Metaenergia) | 08/11/2021 |   |
+| [`Florida Heart Associates`](https://google.com/search?q=Florida+Heart+Associates) | 08/11/2021 |   |
+| [`Family Dentist Newbury`](https://google.com/search?q=Family+Dentist+Newbury) | 08/11/2021 |   |
+| [`ProActive Works`](https://google.com/search?q=ProActive+Works) | 08/11/2021 |   |
+| [`DiputaciÃ³n de Segovia`](https://google.com/search?q=Diputaci%C3%83%C2%B3n+de+Segovia) | 08/11/2021 |   |
+| [`City of Bridgeport, WV`](https://google.com/search?q=City+of+Bridgeport%2C+WV) | 08/11/2021 |   |
+| [`Ferrara`](https://google.com/search?q=Ferrara) | 08/11/2021 |   |
+| [`Universitat AutÃ²noma de Barcelona`](https://google.com/search?q=Universitat+Aut%C3%83%C2%B2noma+de+Barcelona) | 08/11/2021 |   |
+| [`HÃ¶erskool Labori Paarl`](https://google.com/search?q=H%C3%83%C2%B6erskool+Labori+Paarl) | 25/10/2021 |   |
+| [`Cenikor`](https://google.com/search?q=Cenikor) | 25/10/2021 |   |
+| [`Suntide Commercial Realty`](https://google.com/search?q=Suntide+Commercial+Realty) | 25/10/2021 |   |
+| [`Motor Appliance Corporation`](https://google.com/search?q=Motor+Appliance+Corporation) | 25/10/2021 |   |
+| [`Townley Grammar School`](https://google.com/search?q=Townley+Grammar+School) | 22/10/2021 |   |
+| [`Ruskin Community High School`](https://google.com/search?q=Ruskin+Community+High+School) | 22/10/2021 |   |
+| [`Weiss Properties`](https://google.com/search?q=Weiss+Properties) | 22/10/2021 |   |
+| [`Lesk Engineering`](https://google.com/search?q=Lesk+Engineering) | 18/10/2021 |   |
+| [`Our Lady's Abingdon`](https://google.com/search?q=Our+Lady%27s+Abingdon) | 18/10/2021 |   |
+| [`Western Urethane`](https://google.com/search?q=Western+Urethane) | 18/10/2021 |   |
+| [`QPharma`](https://google.com/search?q=QPharma) | 18/10/2021 |   |
+| [`Price Davis LLC`](https://google.com/search?q=Price+Davis+LLC) | 18/10/2021 |   |
+| [`Campus Sacre Coeur Wien Gymnasium`](https://google.com/search?q=Campus+Sacre+Coeur+Wien+Gymnasium) | 18/10/2021 |   |
+| [`CreateInfor`](https://google.com/search?q=CreateInfor) | 18/10/2021 |   |
+| [`InfoSync IT Solutions`](https://google.com/search?q=InfoSync+IT+Solutions) | 18/10/2021 |   |
+| [`Hall Technologies Inc`](https://google.com/search?q=Hall+Technologies+Inc) | 18/10/2021 |   |
+| [`Consolidated High School District 230`](https://google.com/search?q=Consolidated+High+School+District+230) | 04/10/2021 |   |
+| [`SantÃ©lys`](https://google.com/search?q=Sant%C3%83%C2%A9lys) | 04/10/2021 |   |
+| [`Instituto Mixto de Ayuda Social`](https://google.com/search?q=Instituto+Mixto+de+Ayuda+Social) | 04/10/2021 |   |
+| [`Ardagh Group`](https://google.com/search?q=Ardagh+Group) | 04/10/2021 |   |
+| [`ITS, Inc.`](https://google.com/search?q=ITS%2C+Inc.) | 04/10/2021 |   |
+| [`St Benet Biscop`](https://google.com/search?q=St+Benet+Biscop) | 04/10/2021 |   |
+| [`Jurysync`](https://google.com/search?q=Jurysync) | 04/10/2021 |   |
+| [`Adore Fashions`](https://google.com/search?q=Adore+Fashions) | 04/10/2021 |   |
+| [`HMCC`](https://google.com/search?q=HMCC) | 04/10/2021 |   |
+| [`Associated Solutions`](https://google.com/search?q=Associated+Solutions) | 04/10/2021 |   |
+| [`Ocean View Nursing & Rehabilitation`](https://google.com/search?q=Ocean+View+Nursing+%26+Rehabilitation) | 04/10/2021 |   |
+| [`Betson Enterprises`](https://google.com/search?q=Betson+Enterprises) | 13/09/2021 |   |
+| [`One Community Health`](https://google.com/search?q=One+Community+Health) | 13/09/2021 |   |
+| [`Jesse Engineering Co`](https://google.com/search?q=Jesse+Engineering+Co) | 13/09/2021 |   |
+| [`Grupo SAN`](https://google.com/search?q=Grupo+SAN) | 13/09/2021 |   |
+| [`Spartanburg & Pelham OB-GYN`](https://google.com/search?q=Spartanburg+%26+Pelham+OB-GYN) | 13/09/2021 |   |
+| [`Haverhill High School`](https://google.com/search?q=Haverhill+High+School) | 13/09/2021 |   |
+| [`Woodlake Unified`](https://google.com/search?q=Woodlake+Unified) | 13/09/2021 |   |
+| [`HABI`](https://google.com/search?q=HABI) | 13/09/2021 |   |
+| [`Drug Alcohol Testing`](https://google.com/search?q=Drug+Alcohol+Testing) | 10/09/2021 |   |
+| [`Sacschool`](https://google.com/search?q=Sacschool) | 09/09/2021 |   |
+| [`Liberty Linehaul`](https://google.com/search?q=Liberty+Linehaul) | 09/09/2021 |   |
+| [`Faic`](https://google.com/search?q=Faic) | 09/09/2021 |   |
+| [`Diamond Box`](https://google.com/search?q=Diamond+Box) | 09/09/2021 |   |
+| [`Allard`](https://google.com/search?q=Allard) | 09/09/2021 |   |
+| [`Fincamex`](https://google.com/search?q=Fincamex) | 09/09/2021 |   |
+| [`Matthews`](https://google.com/search?q=Matthews) | 09/09/2021 |   |
+| [`Oliviers`](https://google.com/search?q=Oliviers) | 09/09/2021 |   |
+| [`Poliview`](https://google.com/search?q=Poliview) | 09/09/2021 |   |
+| [`Famisanar`](https://google.com/search?q=Famisanar) | 09/09/2021 |   |
+| [`Saludladera`](https://google.com/search?q=Saludladera) | 09/09/2021 |   |
+| [`Pjfitzpatrick`](https://google.com/search?q=Pjfitzpatrick) | 09/09/2021 |   |
+| [`CDPO`](https://google.com/search?q=CDPO) | 09/09/2021 |   |
+| [`Aebel`](https://google.com/search?q=Aebel) | 09/09/2021 |   |
+| [`HAC`](https://google.com/search?q=HAC) | 09/09/2021 |   |
+| [`Ribasalvarez`](https://google.com/search?q=Ribasalvarez) | 09/09/2021 |   |
+| [`Noorulislam`](https://google.com/search?q=Noorulislam) | 09/09/2021 |   |
+| [`Grupocif`](https://google.com/search?q=Grupocif) | 09/09/2021 |   |
+| [`Cretsenbelledonne`](https://google.com/search?q=Cretsenbelledonne) | 09/09/2021 |   |
+| [`Groupe Lefebvre M.R.P.`](https://google.com/search?q=Groupe+Lefebvre+M.R.P.) | 09/09/2021 |   |
+| [`The Masonic Home of Florida`](https://google.com/search?q=The+Masonic+Home+of+Florida) | 09/09/2021 |   |
+| [`Q3 Academy`](https://google.com/search?q=Q3+Academy) | 09/09/2021 |   |
+| [`Piedmont Orthopedics  OrthoAtlanta`](https://google.com/search?q=Piedmont+Orthopedics+%7C+OrthoAtlanta) | 09/09/2021 |   |
+| [`MCLINC`](https://google.com/search?q=MCLINC) | 09/09/2021 |   |
+| [`WHSE`](https://google.com/search?q=WHSE) | 09/09/2021 |   |
+| [`John Hardy`](https://google.com/search?q=John+Hardy) | 09/09/2021 |   |
+| [`Marseille Provence`](https://google.com/search?q=Marseille+Provence) | 09/09/2021 |   |
+| [`Alliance Building Services`](https://google.com/search?q=Alliance+Building+Services) | 09/09/2021 |   |
+| [`Wichita Sheet Metal`](https://google.com/search?q=Wichita+Sheet+Metal) | 09/09/2021 |   |
+| [`Illinois Valley Community College`](https://google.com/search?q=Illinois+Valley+Community+College) | 09/09/2021 |   |
+| [`Monty Holding Group`](https://google.com/search?q=Monty+Holding+Group) | 09/09/2021 |   |
+| [`The Dantherm Group`](https://google.com/search?q=The+Dantherm+Group) | 09/09/2021 |   |
+| [`The Sixth Form Bolton`](https://google.com/search?q=The+Sixth+Form+Bolton) | 09/09/2021 |   |
+| [`Lindenwold`](https://google.com/search?q=Lindenwold) | 09/09/2021 |   |
+| [`The CFC`](https://google.com/search?q=The+CFC) | 09/09/2021 |   |
+| [`Dublin`](https://google.com/search?q=Dublin) | 09/09/2021 |   |
+| [`Upper Columbia Academy`](https://google.com/search?q=Upper+Columbia+Academy) | 09/09/2021 |   |
+| [`The Seifert Logistics Group`](https://google.com/search?q=The+Seifert+Logistics+Group) | 09/09/2021 |   |
+| [`Uxbridge College`](https://google.com/search?q=Uxbridge+College) | 09/09/2021 |   |
+| [`Assured Imaging`](https://google.com/search?q=Assured+Imaging) | 09/09/2021 |   |
+| [`Grand Homes`](https://google.com/search?q=Grand+Homes) | 09/09/2021 |   |
+| [`Nonin Medical`](https://google.com/search?q=Nonin+Medical) | 09/09/2021 |   |
+| [`The Teka Group`](https://google.com/search?q=The+Teka+Group) | 09/09/2021 |   |
+| [`ACE Glass`](https://google.com/search?q=ACE+Glass) | 09/09/2021 |   |
+| [`Bosley`](https://google.com/search?q=Bosley) | 09/09/2021 |   |
+| [`MK Products`](https://google.com/search?q=MK+Products) | 09/09/2021 |   |
+| [`Myerscough College`](https://google.com/search?q=Myerscough+College) | 09/09/2021 |   |
+| [`UCEL`](https://google.com/search?q=UCEL) | 09/09/2021 |   |
+| [`Tor Vergata`](https://google.com/search?q=Tor+Vergata) | 09/09/2021 |   |
+| [`West Central Foodservice`](https://google.com/search?q=West+Central+Foodservice) | 09/09/2021 |   |
+| [`Kuenne Gruppe`](https://google.com/search?q=Kuenne+Gruppe) | 09/09/2021 |   |
+| [`Irish Farmers Journals`](https://google.com/search?q=Irish+Farmers+Journals) | 09/09/2021 |   |
+| [`CASES`](https://google.com/search?q=CASES) | 09/09/2021 |   |
+| [`Rafaela Alimentos`](https://google.com/search?q=Rafaela+Alimentos) | 09/09/2021 |   |
+| [`ASE Bucuresti`](https://google.com/search?q=ASE+Bucuresti) | 09/09/2021 |   |
+| [`Heartland`](https://google.com/search?q=Heartland) | 09/09/2021 |   |
+| [`Winters Independent School District`](https://google.com/search?q=Winters+Independent+School+District) | 09/09/2021 |   |
+| [`IQA`](https://google.com/search?q=IQA) | 09/09/2021 |   |
+| [`Bakers S.A. Limited`](https://google.com/search?q=Bakers+S.A.+Limited) | 09/09/2021 |   |
+| [`Econocom`](https://google.com/search?q=Econocom) | 09/09/2021 |   |
+| [`Avelia`](https://google.com/search?q=Avelia) | 09/09/2021 |   |
+| [`Mongoldford`](https://google.com/search?q=Mongoldford) | 09/09/2021 |   |
+| [`CWF Group Inc.`](https://google.com/search?q=CWF+Group+Inc.) | 09/09/2021 |   |
+| [`Telhai`](https://google.com/search?q=Telhai) | 09/09/2021 |   |
+| [`Ayuntamiento de Guadarrama`](https://google.com/search?q=Ayuntamiento+de+Guadarrama) | 09/09/2021 |   |
+| [`Hackney Council`](https://google.com/search?q=Hackney+Council) | 09/09/2021 |   |
+| [`Market Pioneer`](https://google.com/search?q=Market+Pioneer) | 09/09/2021 |   |
+| [`Roughrider Internation Ltd.`](https://google.com/search?q=Roughrider+Internation+Ltd.) | 09/09/2021 |   |
+| [`Bruce Turner`](https://google.com/search?q=Bruce+Turner) | 09/09/2021 |   |
+| [`Mendes JÃºnior`](https://google.com/search?q=Mendes+J%C3%83%C2%BAnior) | 09/09/2021 |   |
+| [`Affinity Education`](https://google.com/search?q=Affinity+Education) | 09/09/2021 |   |
+| [`Gemitchellco`](https://google.com/search?q=Gemitchellco) | 09/09/2021 |   |
+| [`Rontis Medical`](https://google.com/search?q=Rontis+Medical) | 09/09/2021 |   |
+| [`Mirai`](https://google.com/search?q=Mirai) | 09/09/2021 |   |
+| [`Tech 2000`](https://google.com/search?q=Tech+2000) | 09/09/2021 |   |
+| [`Benchmark Family Services`](https://google.com/search?q=Benchmark+Family+Services) | 09/09/2021 |   |
+| [`Dayliff`](https://google.com/search?q=Dayliff) | 09/09/2021 |   |
+| [`Merchant Taylors' School`](https://google.com/search?q=Merchant+Taylors%27+School) | 09/09/2021 |   |
+| [`Riggins Company`](https://google.com/search?q=Riggins+Company) | 09/09/2021 |   |
+| [`St. Margaretâs Hospice Care`](https://google.com/search?q=St.+Margaret%C3%A2%C2%80%C2%99s+Hospice+Care) | 09/09/2021 |   |
+| [`Bene Ficencia`](https://google.com/search?q=Bene+Ficencia) | 09/09/2021 |   |
+| [`Grupo Infoar`](https://google.com/search?q=Grupo+Infoar) | 09/09/2021 |   |
+| [`McKinney`](https://google.com/search?q=McKinney) | 09/09/2021 |   |
+| [`Overlake Obstetricians & Gynecologists,PC`](https://google.com/search?q=Overlake+Obstetricians+%26+Gynecologists%2CPC) | 09/09/2021 |   |
+| [`St. Mary School Hyde Park`](https://google.com/search?q=St.+Mary+School+Hyde+Park) | 09/09/2021 |   |
+| [`Torello Moving Strategies`](https://google.com/search?q=Torello+Moving+Strategies) | 09/09/2021 |   |
+| [`Max. Aarts`](https://google.com/search?q=Max.+Aarts) | 09/09/2021 |   |
+| [`Mid-Florida Pathology`](https://google.com/search?q=Mid-Florida+Pathology) | 09/09/2021 |   |
+| [`Serinus Energy Plc`](https://google.com/search?q=Serinus+Energy+Plc) | 09/09/2021 |   |
+| [`Outwest Express LLC`](https://google.com/search?q=Outwest+Express+LLC) | 09/09/2021 |   |
+| [`King Henrys`](https://google.com/search?q=King+Henrys) | 09/09/2021 |   |
+| [`Summit Appliance`](https://google.com/search?q=Summit+Appliance) | 09/09/2021 |   |
+| [`Brickhaus`](https://google.com/search?q=Brickhaus) | 09/09/2021 |   |
+| [`Finance Evolution`](https://google.com/search?q=Finance+Evolution) | 09/09/2021 |   |
+| [`Nama Khoi Municipality`](https://google.com/search?q=Nama+Khoi+Municipality) | 09/09/2021 |   |
+| [`Thinkware`](https://google.com/search?q=Thinkware) | 09/09/2021 |   |
+| [`Brookfield Public Schools`](https://google.com/search?q=Brookfield+Public+Schools) | 09/09/2021 |   |
+| [`Salesianum School`](https://google.com/search?q=Salesianum+School) | 09/09/2021 |   |
+| [`Provenza Floors`](https://google.com/search?q=Provenza+Floors) | 09/09/2021 |   |
+| [`CCS`](https://google.com/search?q=CCS) | 09/09/2021 |   |
+| [`Palos Community Consolidated School District 118`](https://google.com/search?q=Palos+Community+Consolidated+School+District+118) | 09/09/2021 |   |
+| [`DFW Communications,Inc.`](https://google.com/search?q=DFW+Communications%2CInc.) | 09/09/2021 |   |
+| [`The FitzWimark School`](https://google.com/search?q=The+FitzWimark+School) | 09/09/2021 |   |
+| [`Ãstre Toten Kommune Voksenopplring`](https://google.com/search?q=%C3%83%C2%98stre+Toten+Kommune+Voksenopplring) | 09/09/2021 |   |
+| [`Blueknight Energy Partners`](https://google.com/search?q=Blueknight+Energy+Partners) | 09/09/2021 |   |
+| [`The Bascom`](https://google.com/search?q=The+Bascom) | 09/09/2021 |   |
+| [`Bridgwater & Taunton College`](https://google.com/search?q=Bridgwater+%26+Taunton+College) | 09/09/2021 |   |
+| [`Neenan Company`](https://google.com/search?q=Neenan+Company) | 09/09/2021 |   |
+| [`Romanoff Group`](https://google.com/search?q=Romanoff+Group) | 09/09/2021 |   |
+| [`Jebco Agencies Inc.`](https://google.com/search?q=Jebco+Agencies+Inc.) | 09/09/2021 |   |
+| [`Wisconsin Public Radio`](https://google.com/search?q=Wisconsin+Public+Radio) | 09/09/2021 |   |
+| [`Intecs group`](https://google.com/search?q=Intecs+group) | 09/09/2021 |   |
+| [`Prairie View A&M University`](https://google.com/search?q=Prairie+View+A%26M+University) | 09/09/2021 |   |
+| [`Flamingo Horticulture`](https://google.com/search?q=Flamingo+Horticulture) | 09/09/2021 |   |
+| [`Little Elm`](https://google.com/search?q=Little+Elm) | 09/09/2021 |   |
+| [`Peters Bosel Lawyers`](https://google.com/search?q=Peters+Bosel+Lawyers) | 09/09/2021 |   |
+| [`Implanta Spa`](https://google.com/search?q=Implanta+Spa) | 09/09/2021 |   |
+| [`Wolf Lake Industrial Center and Terminals`](https://google.com/search?q=Wolf+Lake+Industrial+Center+and+Terminals) | 09/09/2021 |   |
+| [`Tucker Oil Company Inc.`](https://google.com/search?q=Tucker+Oil+Company+Inc.) | 09/09/2021 |   |
+| [`Cleveland Institute of Music`](https://google.com/search?q=Cleveland+Institute+of+Music) | 09/09/2021 |   |
+| [`Grand Annecy Agglomeration`](https://google.com/search?q=Grand+Annecy+Agglomeration) | 09/09/2021 |   |
+| [`Doak Shirreff Lawyers`](https://google.com/search?q=Doak+Shirreff+Lawyers) | 09/09/2021 |   |
+| [`Fairfax University of America`](https://google.com/search?q=Fairfax+University+of+America) | 09/09/2021 |   |
+| [`Brain:IT`](https://google.com/search?q=Brain%3AIT) | 09/09/2021 |   |
+| [`Powerblanket`](https://google.com/search?q=Powerblanket) | 09/09/2021 |   |
+| [`Viport`](https://google.com/search?q=Viport) | 09/09/2021 |   |
+| [`Grant Supplies`](https://google.com/search?q=Grant+Supplies) | 09/09/2021 |   |
+| [`Plantaciones de PlÃ¡tano`](https://google.com/search?q=Plantaciones+de+Pl%C3%83%C2%A1tano) | 09/09/2021 |   |
+| [`Siesacloud`](https://google.com/search?q=Siesacloud) | 09/09/2021 |   |
+| [`Syracuse New Times`](https://google.com/search?q=Syracuse+New+Times) | 09/09/2021 |   |
+| [`Prefeitura de BalneÃ¡rio CamboriÃº`](https://google.com/search?q=Prefeitura+de+Balne%C3%83%C2%A1rio+Cambori%C3%83%C2%BA) | 09/09/2021 |   |
+| [`Lo Studio Bartoli & Arveda`](https://google.com/search?q=Lo+Studio+Bartoli+%26+Arveda) | 09/09/2021 |   |
+| [`ProSource Wholesale`](https://google.com/search?q=ProSource+Wholesale) | 09/09/2021 |   |
+| [`American Industrial Felt & Supply, Inc`](https://google.com/search?q=American+Industrial+Felt+%26+Supply%2C+Inc) | 09/09/2021 |   |
+| [`Esteyco`](https://google.com/search?q=Esteyco) | 09/09/2021 |   |
+| [`D.W. Haber & Son`](https://google.com/search?q=D.W.+Haber+%26+Son) | 09/09/2021 |   |
+| [`Dallas Production`](https://google.com/search?q=Dallas+Production) | 09/09/2021 |   |
+| [`IDS Online Store`](https://google.com/search?q=IDS+Online+Store) | 09/09/2021 |   |
+| [`Zionsville Community Schools`](https://google.com/search?q=Zionsville+Community+Schools) | 09/09/2021 |   |
+| [`Blackhawk Mining`](https://google.com/search?q=Blackhawk+Mining) | 09/09/2021 |   |
+| [`Baldwin Wallace University`](https://google.com/search?q=Baldwin+Wallace+University) | 09/09/2021 |   |
+| [`La ChÃ¢taigneraie`](https://google.com/search?q=La+Ch%C3%83%C2%A2taigneraie) | 09/09/2021 |   |
+| [`A Superior Towing`](https://google.com/search?q=A+Superior+Towing) | 09/09/2021 |   |
+| [`OnLINE FM`](https://google.com/search?q=OnLINE+FM) | 09/09/2021 |   |
+| [`Ogden Golf & Country Club`](https://google.com/search?q=Ogden+Golf+%26+Country+Club) | 09/09/2021 |   |
+| [`BABB Security Systems`](https://google.com/search?q=BABB+Security+Systems) | 09/09/2021 |   |
+| [`Repro X-Press`](https://google.com/search?q=Repro+X-Press) | 09/09/2021 |   |
+| [`EBSU`](https://google.com/search?q=EBSU) | 09/09/2021 |   |
+| [`Paysoft`](https://google.com/search?q=Paysoft) | 09/09/2021 |   |
+| [`Tenderloin Housing Clinic`](https://google.com/search?q=Tenderloin+Housing+Clinic) | 09/09/2021 |   |
+| [`FirstCash Inc`](https://google.com/search?q=FirstCash+Inc) | 09/09/2021 |   |
+| [`Florence-Darlington Technical College`](https://google.com/search?q=Florence-Darlington+Technical+College) | 09/09/2021 |   |
+| [`Momentum Transportation`](https://google.com/search?q=Momentum+Transportation) | 09/09/2021 |   |
+| [`Woodholme Gastroenterology Associates`](https://google.com/search?q=Woodholme+Gastroenterology+Associates) | 09/09/2021 |   |
+| [`Forest City Fire Protection`](https://google.com/search?q=Forest+City+Fire+Protection) | 09/09/2021 |   |
+| [`Western Flyer Express`](https://google.com/search?q=Western+Flyer+Express) | 09/09/2021 |   |
+| [`City of Covington Louisiana`](https://google.com/search?q=City+of+Covington+Louisiana) | 09/09/2021 |   |
+| [`Bridgeway Inc`](https://google.com/search?q=Bridgeway+Inc) | 09/09/2021 |   |
+| [`Transam Carriers`](https://google.com/search?q=Transam+Carriers) | 09/09/2021 |   |
+| [`Dale Operating Company`](https://google.com/search?q=Dale+Operating+Company) | 09/09/2021 |   |
+| [`Levante UD`](https://google.com/search?q=Levante+UD) | 09/09/2021 |   |
+| [`Upstate Home Care`](https://google.com/search?q=Upstate+Home+Care) | 09/09/2021 |   |
+| [`Modern Data Systems`](https://google.com/search?q=Modern+Data+Systems) | 09/09/2021 |   |
+| [`Immanuel Lutheran Church and School`](https://google.com/search?q=Immanuel+Lutheran+Church+and+School) | 09/09/2021 |   |
+| [`Millersville University`](https://google.com/search?q=Millersville+University) | 09/09/2021 |   |
+| [`Marlboro Pediatric Dentistryâ`](https://google.com/search?q=Marlboro+Pediatric+Dentistry%C3%A2%C2%80%C2%8B) | 09/09/2021 |   |
+| [`Public Restroom Company`](https://google.com/search?q=Public+Restroom+Company) | 09/09/2021 |   |
+| [`Grover Corparation`](https://google.com/search?q=Grover+Corparation) | 09/09/2021 |   |
+| [`Aireko`](https://google.com/search?q=Aireko) | 09/09/2021 |   |
+| [`Legacy Housing Corporation`](https://google.com/search?q=Legacy+Housing+Corporation) | 09/09/2021 |   |
+| [`Wiener Laboratorios`](https://google.com/search?q=Wiener+Laboratorios) | 09/09/2021 |   |
+| [`Eagle Eye Produce`](https://google.com/search?q=Eagle+Eye+Produce) | 09/09/2021 |   |
+| [`Ciruli Brothers`](https://google.com/search?q=Ciruli+Brothers) | 09/09/2021 |   |
+| [`JVSmith Companies`](https://google.com/search?q=JVSmith+Companies) | 09/09/2021 |   |
+| [`Home Grown Grocery Food Supermarket`](https://google.com/search?q=Home+Grown+Grocery+Food+Supermarket) | 09/09/2021 |   |
+| [`Gering Public Schools`](https://google.com/search?q=Gering+Public+Schools) | 09/09/2021 |   |
+| [`Affton School District`](https://google.com/search?q=Affton+School+District) | 09/09/2021 |   |
+| [`Worldwide Oilfield Machine`](https://google.com/search?q=Worldwide+Oilfield+Machine) | 09/09/2021 |   |
+| [`Divorce Lawyer in Reading & Douglassville, PA`](https://google.com/search?q=Divorce+Lawyer+in+Reading+%26+Douglassville%2C+PA) | 09/09/2021 |   |
+| [`Drug Alcohol Testing and Screening Compliance in Texas`](https://google.com/search?q=Drug+Alcohol+Testing+and+Screening+Compliance+in+Texas) | 09/09/2021 |   |
+| [`Dayton Door Sales`](https://google.com/search?q=Dayton+Door+Sales) | 09/09/2021 |   |
+| [`Children's Network of Southwest Florida`](https://google.com/search?q=Children%27s+Network+of+Southwest+Florida) | 09/09/2021 |   |
+| [`Zamora`](https://google.com/search?q=Zamora) | 09/09/2021 |   |
+| [`ATC Transportation`](https://google.com/search?q=ATC+Transportation) | 09/09/2021 |   |
+| [`Commack Fire Department`](https://google.com/search?q=Commack+Fire+Department) | 09/09/2021 |   |
+| [`Zane State College`](https://google.com/search?q=Zane+State+College) | 09/09/2021 |   |
+| [`AFP Elevator`](https://google.com/search?q=AFP+Elevator) | 09/09/2021 |   |
+| [`Alliance Architecture`](https://google.com/search?q=Alliance+Architecture) | 09/09/2021 |   |
+| [`Aztec Events`](https://google.com/search?q=Aztec+Events) | 09/09/2021 |   |
+| [`Buffalo Schools`](https://google.com/search?q=Buffalo+Schools) | 09/09/2021 |   |
+| [`St Bede's College`](https://google.com/search?q=St+Bede%27s+College) | 09/09/2021 |   |
+| [`Hyper Microsystems`](https://google.com/search?q=Hyper+Microsystems) | 09/09/2021 |   |
+| [`Geotechnical Consultants Inc.`](https://google.com/search?q=Geotechnical+Consultants+Inc.) | 09/09/2021 |   |
+| [`Cyclone Steel`](https://google.com/search?q=Cyclone+Steel) | 09/09/2021 |   |
+| [`OHL Judlau`](https://google.com/search?q=OHL+Judlau) | 09/09/2021 |   |
+| [`The Fashion Group International`](https://google.com/search?q=The+Fashion+Group+International) | 09/09/2021 |   |
+| [`Upstate HomeCare`](https://google.com/search?q=Upstate+HomeCare) | 09/09/2021 |   |
+| [`Vermont Personal Injury Lawyers`](https://google.com/search?q=Vermont+Personal+Injury+Lawyers) | 09/09/2021 |   |
+| [`Sarmad Steel`](https://google.com/search?q=Sarmad+Steel) | 09/09/2021 |   |
+| [`Bulley`](https://google.com/search?q=Bulley) | 09/09/2021 |   |
+| [`the NET - Northeast Tennessee Media Group`](https://google.com/search?q=the+NET+-+Northeast+Tennessee+Media+Group) | 09/09/2021 |   |
+| [`Famous Supply`](https://google.com/search?q=Famous+Supply) | 09/09/2021 |   |
+| [`LJ Hooker Aspley`](https://google.com/search?q=LJ+Hooker+Aspley) | 09/09/2021 |   |
+| [`WPSD Local 6`](https://google.com/search?q=WPSD+Local+6) | 09/09/2021 |   |
+| [`Karavan Trailers`](https://google.com/search?q=Karavan+Trailers) | 09/09/2021 |   |
+| [`Logansport Community School Corporation`](https://google.com/search?q=Logansport+Community+School+Corporation) | 09/09/2021 |   |
+| [`FCS Financial`](https://google.com/search?q=FCS+Financial) | 09/09/2021 |   |
+| [`Danko Emergency Equipment`](https://google.com/search?q=Danko+Emergency+Equipment) | 09/09/2021 |   |
+| [`HVAC Facility & Plant Maintenance Tools`](https://google.com/search?q=HVAC+Facility+%26+Plant+Maintenance+Tools) | 09/09/2021 |   |
+| [`HPW`](https://google.com/search?q=HPW) | 09/09/2021 |   |
+| [`My Cloud Star`](https://google.com/search?q=My+Cloud+Star) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6538,17 +6541,17 @@ _`aka pwndlocker`_
 
 | post | date | Description
 |---|---|---|
-| `https://dialog.com.au` | 21/11/2022 |   |
-| `https://robertbernard.com` | 21/11/2022 |   |
-| `https://contempocard.com` | 21/11/2022 |   |
-| `https://lojastorra.com.br` | 21/11/2022 |   |
-| `https://emtelco.com.co` | 21/11/2022 |   |
-| `dialog.com.au` | 08/10/2022 |   |
-| `scinopharm.com` | 08/10/2022 |   |
-| `robertbernard.com` | 08/10/2022 |   |
-| `contempocard.com` | 08/10/2022 |   |
-| `lojastorra.com.br` | 08/10/2022 |   |
-| `www.emtelco.com.co` | 08/10/2022 |   |
+| [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | 21/11/2022 |   |
+| [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | 21/11/2022 |   |
+| [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | 21/11/2022 |   |
+| [`https://lojastorra.com.br`](https://google.com/search?q=https%3A%2F%2Flojastorra.com.br) | 21/11/2022 |   |
+| [`https://emtelco.com.co`](https://google.com/search?q=https%3A%2F%2Femtelco.com.co) | 21/11/2022 |   |
+| [`dialog.com.au`](https://google.com/search?q=dialog.com.au) | 08/10/2022 |   |
+| [`scinopharm.com`](https://google.com/search?q=scinopharm.com) | 08/10/2022 |   |
+| [`robertbernard.com`](https://google.com/search?q=robertbernard.com) | 08/10/2022 |   |
+| [`contempocard.com`](https://google.com/search?q=contempocard.com) | 08/10/2022 |   |
+| [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | 08/10/2022 |   |
+| [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | 08/10/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6601,74 +6604,74 @@ _`login page, no posts`_
 
 | post | date | Description
 |---|---|---|
-| `ChemiFlex` | 09/12/2022 |   |
-| `Radical Sportscars` | 09/12/2022 |   |
-| `Orotex` | 09/12/2022 |   |
-| `Acquarius Trust Group` | 09/12/2022 |   |
-| `Pilenpak` | 09/12/2022 |   |
-| `AHT Wisconsin Windows` | 09/12/2022 |   |
-| `Midland Cogeneration Venture` | 13/11/2022 |   |
-| `MCV Holding Company LLC ` | 02/11/2022 |   |
-| `Midland Cogeneration Venture, Michigan` | 01/11/2022 |   |
-| `Lightbank` | 23/10/2022 |   |
-| `Rosenblatt Securities` | 19/10/2022 |   |
-| `Instituto Agrario Dominicano` | 02/09/2022 |   |
-| `Moscone Center` | 01/09/2022 |   |
-| `Moskowitz, Mandell & Salim, P.A.` | 23/08/2022 |   |
-| `Shaw & Slavsky` | 19/08/2022 |   |
-| `Freyr Solutions` | 08/08/2022 |   |
-| `Liftow LTD` | 04/08/2022 |   |
-| `BEESENSE` | 04/08/2022 |   |
-| `Delon Hampton & Associates, Chartered` | 19/07/2022 |   |
-| `Autohaus` | 19/07/2022 |   |
-| `Broshuis  Driving innovation` | 18/07/2022 |   |
-| `ZEUS Scientific` | 14/07/2022 |   |
-| `American International Industries` | 12/07/2022 |   |
-| `Crupi Group` | 30/06/2022 |   |
-| `Avante Health Solutions` | 29/06/2022 |   |
-| `RG Alliance Group` | 16/06/2022 |   |
-| `Shred Station` | 14/06/2022 |   |
-| `YMCA` | 14/06/2022 |   |
-| `M. Green and Company LLP` | 14/06/2022 |   |
-| `Medlab Pathology` | 14/06/2022 |   |
-| `Florida Department of Veterans' Affairs` | 27/05/2022 |   |
-| `Active Communications International` | 23/05/2022 |   |
-| `Transsion Holdings` | 23/05/2022 |   |
-| `Eurocept` | 23/05/2022 |   |
-| `Tex-Isle Supply` | 17/05/2022 |   |
-| `Hirsch Watch Straps & Accessories` | 17/05/2022 |   |
-| `InnPower` | 17/05/2022 |   |
-| `Valley Rentals` | 29/04/2022 |   |
-| `Hufcor` | 29/04/2022 |   |
-| `Grosvenor Engineering Group` | 29/04/2022 |   |
-| `Drive Products` | 29/04/2022 |   |
-| `Petro Serve` | 29/04/2022 |   |
-| `Henry` | 29/04/2022 |   |
-| `Tehama County Social Services` | 28/04/2022 |   |
-| `Elgin County` | 27/04/2022 |   |
-| `Confcommercio - Alessandria - Home` | 26/04/2022 |   |
-| `Camden City School District` | 20/04/2022 |   |
-| `JetStar` | 12/04/2022 |   |
-| `Hi Tech HoneyComb` | 12/04/2022 |   |
-| `Service Employees' International Union` | 12/04/2022 |   |
-| `Broadleaf` | 11/04/2022 |   |
-| `Wolfe Industrial` | 11/04/2022 |   |
-| `InfoTek Consulting Services` | 28/02/2022 |   |
-| `Jazeera Airways` | 09/02/2022 |   |
-| `Altoona Area School District` | 02/02/2022 |   |
-| `Lewis & Clark College` | 13/01/2022 |   |
-| `Chattanooga Chamber of Commerce` | 31/12/2021 |   |
-| `Biotique` | 23/12/2021 |   |
-| `Sodiba` | 23/12/2021 |   |
-| `PRIDE Community Services` | 09/12/2021 |   |
-| `Zepter` | 09/12/2021 |   |
-| `Digital Workplace Services & Solutions` | 09/12/2021 |   |
-| `The Jewelry Exchange is the Nations #1 Diamond Store.` | 09/12/2021 |   |
-| `UABL S.A.` | 30/11/2021 |   |
-| `</a>` | 22/11/2021 |   |
-| `TILIA GROUP` | 04/11/2021 |   |
-| `PVR Ltd.` | 04/11/2021 |   |
-| `Maple Lodge Farms` | 09/09/2021 |   |
+| [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | 09/12/2022 |   |
+| [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | 09/12/2022 |   |
+| [`Orotex`](https://google.com/search?q=Orotex) | 09/12/2022 |   |
+| [`Acquarius Trust Group`](https://google.com/search?q=Acquarius+Trust+Group) | 09/12/2022 |   |
+| [`Pilenpak`](https://google.com/search?q=Pilenpak) | 09/12/2022 |   |
+| [`AHT Wisconsin Windows`](https://google.com/search?q=AHT+Wisconsin+Windows) | 09/12/2022 |   |
+| [`Midland Cogeneration Venture`](https://google.com/search?q=Midland+Cogeneration+Venture) | 13/11/2022 |   |
+| [`MCV Holding Company LLC `](https://google.com/search?q=MCV+Holding+Company+LLC+) | 02/11/2022 |   |
+| [`Midland Cogeneration Venture, Michigan`](https://google.com/search?q=Midland+Cogeneration+Venture%2C+Michigan) | 01/11/2022 |   |
+| [`Lightbank`](https://google.com/search?q=Lightbank) | 23/10/2022 |   |
+| [`Rosenblatt Securities`](https://google.com/search?q=Rosenblatt+Securities) | 19/10/2022 |   |
+| [`Instituto Agrario Dominicano`](https://google.com/search?q=Instituto+Agrario+Dominicano) | 02/09/2022 |   |
+| [`Moscone Center`](https://google.com/search?q=Moscone+Center) | 01/09/2022 |   |
+| [`Moskowitz, Mandell & Salim, P.A.`](https://google.com/search?q=Moskowitz%2C+Mandell+%26+Salim%2C+P.A.) | 23/08/2022 |   |
+| [`Shaw & Slavsky`](https://google.com/search?q=Shaw+%26+Slavsky) | 19/08/2022 |   |
+| [`Freyr Solutions`](https://google.com/search?q=Freyr+Solutions) | 08/08/2022 |   |
+| [`Liftow LTD`](https://google.com/search?q=Liftow+LTD) | 04/08/2022 |   |
+| [`BEESENSE`](https://google.com/search?q=BEESENSE) | 04/08/2022 |   |
+| [`Delon Hampton & Associates, Chartered`](https://google.com/search?q=Delon+Hampton+%26+Associates%2C+Chartered) | 19/07/2022 |   |
+| [`Autohaus`](https://google.com/search?q=Autohaus) | 19/07/2022 |   |
+| [`Broshuis  Driving innovation`](https://google.com/search?q=Broshuis+%7C+Driving+innovation) | 18/07/2022 |   |
+| [`ZEUS Scientific`](https://google.com/search?q=ZEUS+Scientific) | 14/07/2022 |   |
+| [`American International Industries`](https://google.com/search?q=American+International+Industries) | 12/07/2022 |   |
+| [`Crupi Group`](https://google.com/search?q=Crupi+Group) | 30/06/2022 |   |
+| [`Avante Health Solutions`](https://google.com/search?q=Avante+Health+Solutions) | 29/06/2022 |   |
+| [`RG Alliance Group`](https://google.com/search?q=RG+Alliance+Group) | 16/06/2022 |   |
+| [`Shred Station`](https://google.com/search?q=Shred+Station) | 14/06/2022 |   |
+| [`YMCA`](https://google.com/search?q=YMCA) | 14/06/2022 |   |
+| [`M. Green and Company LLP`](https://google.com/search?q=M.+Green+and+Company+LLP) | 14/06/2022 |   |
+| [`Medlab Pathology`](https://google.com/search?q=Medlab+Pathology) | 14/06/2022 |   |
+| [`Florida Department of Veterans' Affairs`](https://google.com/search?q=Florida+Department+of+Veterans%27+Affairs) | 27/05/2022 |   |
+| [`Active Communications International`](https://google.com/search?q=Active+Communications+International) | 23/05/2022 |   |
+| [`Transsion Holdings`](https://google.com/search?q=Transsion+Holdings) | 23/05/2022 |   |
+| [`Eurocept`](https://google.com/search?q=Eurocept) | 23/05/2022 |   |
+| [`Tex-Isle Supply`](https://google.com/search?q=Tex-Isle+Supply) | 17/05/2022 |   |
+| [`Hirsch Watch Straps & Accessories`](https://google.com/search?q=Hirsch+Watch+Straps+%26+Accessories) | 17/05/2022 |   |
+| [`InnPower`](https://google.com/search?q=InnPower) | 17/05/2022 |   |
+| [`Valley Rentals`](https://google.com/search?q=Valley+Rentals) | 29/04/2022 |   |
+| [`Hufcor`](https://google.com/search?q=Hufcor) | 29/04/2022 |   |
+| [`Grosvenor Engineering Group`](https://google.com/search?q=Grosvenor+Engineering+Group) | 29/04/2022 |   |
+| [`Drive Products`](https://google.com/search?q=Drive+Products) | 29/04/2022 |   |
+| [`Petro Serve`](https://google.com/search?q=Petro+Serve) | 29/04/2022 |   |
+| [`Henry`](https://google.com/search?q=Henry) | 29/04/2022 |   |
+| [`Tehama County Social Services`](https://google.com/search?q=Tehama+County+Social+Services) | 28/04/2022 |   |
+| [`Elgin County`](https://google.com/search?q=Elgin+County) | 27/04/2022 |   |
+| [`Confcommercio - Alessandria - Home`](https://google.com/search?q=Confcommercio+-+Alessandria+-+Home) | 26/04/2022 |   |
+| [`Camden City School District`](https://google.com/search?q=Camden+City+School+District) | 20/04/2022 |   |
+| [`JetStar`](https://google.com/search?q=JetStar) | 12/04/2022 |   |
+| [`Hi Tech HoneyComb`](https://google.com/search?q=Hi+Tech+HoneyComb) | 12/04/2022 |   |
+| [`Service Employees' International Union`](https://google.com/search?q=Service+Employees%27+International+Union) | 12/04/2022 |   |
+| [`Broadleaf`](https://google.com/search?q=Broadleaf) | 11/04/2022 |   |
+| [`Wolfe Industrial`](https://google.com/search?q=Wolfe+Industrial) | 11/04/2022 |   |
+| [`InfoTek Consulting Services`](https://google.com/search?q=InfoTek+Consulting+Services) | 28/02/2022 |   |
+| [`Jazeera Airways`](https://google.com/search?q=Jazeera+Airways) | 09/02/2022 |   |
+| [`Altoona Area School District`](https://google.com/search?q=Altoona+Area+School+District) | 02/02/2022 |   |
+| [`Lewis & Clark College`](https://google.com/search?q=Lewis+%26+Clark+College) | 13/01/2022 |   |
+| [`Chattanooga Chamber of Commerce`](https://google.com/search?q=Chattanooga+Chamber+of+Commerce) | 31/12/2021 |   |
+| [`Biotique`](https://google.com/search?q=Biotique) | 23/12/2021 |   |
+| [`Sodiba`](https://google.com/search?q=Sodiba) | 23/12/2021 |   |
+| [`PRIDE Community Services`](https://google.com/search?q=PRIDE+Community+Services) | 09/12/2021 |   |
+| [`Zepter`](https://google.com/search?q=Zepter) | 09/12/2021 |   |
+| [`Digital Workplace Services & Solutions`](https://google.com/search?q=Digital+Workplace+Services+%26+Solutions) | 09/12/2021 |   |
+| [`The Jewelry Exchange is the Nations #1 Diamond Store.`](https://google.com/search?q=The+Jewelry+Exchange+is+the+Nations+%231+Diamond+Store.) | 09/12/2021 |   |
+| [`UABL S.A.`](https://google.com/search?q=UABL+S.A.) | 30/11/2021 |   |
+| [`</a>`](https://google.com/search?q=%3C%2Fa%3E) | 22/11/2021 |   |
+| [`TILIA GROUP`](https://google.com/search?q=TILIA+GROUP) | 04/11/2021 |   |
+| [`PVR Ltd.`](https://google.com/search?q=PVR+Ltd.) | 04/11/2021 |   |
+| [`Maple Lodge Farms`](https://google.com/search?q=Maple+Lodge+Farms) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6701,98 +6704,98 @@ _`login page, no posts`_
 | post | date | Description
 |---|---|---|
 | [`Hundred thousands of personal data, leak preview`]() | 28/12/2022 |  |
-| `Wrapex Industrial - Leaked` | 20/12/2022 |  |
-| `Serena Hotels - Leaked` | 20/12/2022 |  |
-| `ITONCLOUD - LEAKED` | 13/12/2022 |   |
-| `Essent company - Leaked` | 25/11/2022 |   |
-| `Leak Announcement - IT company ITonCLOUD` | 22/11/2022 |   |
-| `Belgium company Zwijndrecht - Leaked` | 16/11/2022 |   |
-| `DURAVIT A.G. - Announcement before publishing data` | 27/10/2022 |   |
-| `Dollmar SpA - Leaked` | 19/10/2022 |   |
-| `DIPF-INTERN - Leaked` | 18/10/2022 |   |
-| `Fashion company ZIGI NY - Leaked` | 13/10/2022 |   |
-| `DMCI Holding Leaked` | 10/10/2022 |   |
-| `TANG CAPITAL LEAKED` | 10/10/2022 |   |
-| `Avalon luxury transport company - Leaked` | 05/10/2022 |   |
-| `AudioQuest Data Leaked` | 03/10/2022 |   |
-| `Malayan Flour Mills Bhd. Data Leak` | 03/10/2022 |   |
-| `Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.` | 19/09/2022 |   |
-| `TAP Air Leak of more than 1.5 million of customers and many other.` | 19/09/2022 |   |
-| `TAP AIR PORTUGAL - 115k personal data leak` | 12/09/2022 |   |
-| `DDoS instead of the Discuss - Nice try TAP Air` | 07/09/2022 |   |
-| `TAP Air - First Facts` | 02/09/2022 |   |
-| `USA Insurance company - Smith brothers File tree and some proofs` | 31/08/2022 |   |
-| `Huge drama for Tap Air Portugal` | 31/08/2022 |   |
-| `Announcement. Action Lab File-tree` | 23/08/2022 |   |
-| `DESFA - Pipeline company LEAK` | 23/08/2022 |   |
-| `Greece pipeline company breached - DESFA` | 19/08/2022 |   |
-| `File-tree of Tang Capital` | 18/08/2022 |   |
-| `Puma Biotechnology - decided to allow Leaks` | 02/08/2022 |   |
-| `GENSCO Inc. - allows Leak` | 19/07/2022 |   |
-| `Epec.PL - Lied about the absence of Leak` | 13/07/2022 |   |
-| `New Leak: Prudential LTG.` | 24/06/2022 |   |
-| `New Leak: Northern Data Systems` | 23/06/2022 |   |
-| `Sierra Packaging Leaked` | 04/06/2022 |   |
-| `Jonathan Adler Leaks` | 01/06/2022 |   |
-| `Germany Corporation "VMT-GmbH" Leaked` | 23/05/2022 |   |
-| `Simonson-Lumber decided to be Leaked` | 11/05/2022 |   |
-| `Simonson-Lumber Inc. First batch of Data.` | 20/04/2022 |   |
-| `International Centre Leaked` | 06/04/2022 |   |
-| `Smith Transport Full Leak` | 14/03/2022 |   |
-| `GHI Hornos Industriales Fully Leaked` | 04/03/2022 |   |
-| `GHI Hornos Industriales  first batch of Data (0,1%)` | 28/02/2022 |   |
-| `Airspan Networks got Leaked` | 25/01/2022 |   |
-| `IT-companies Subex & Sectrio Leaked` | 08/01/2022 |   |
-| `Company Group LDLC` | 15/12/2021 |   |
-| `Leak of IT company Saksoft` | 10/12/2021 |   |
-| `Full Data Leak Linical` | 09/12/2021 |   |
-| `Update: Linicals Data` | 04/12/2021 |   |
-| `Groupe LDLC is going to be Leaked` | 02/12/2021 |   |
-| `Team Computers Ltd. - Leak` | 23/11/2021 |   |
-| `LINICAL doesn't care about digital hygiene` | 30/10/2021 |   |
-| `Atlas Financial Holdings, Inc. - Leaked` | 06/10/2021 |   |
-| `FULL DATA LEAK of Primary Residential Mortgage, Inc. //` | 14/09/2021 |   |
-| `Primary Residential Mortgage inc. - Leaked` | 11/09/2021 |   |
-| `Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.` | 09/09/2021 |   |
-| `Announcement: FTP` | 01/07/2021 |   |
-| `GATEWAY Property Management` | 23/06/2021 |   |
-| `Software company Xoriant` | 06/06/2021 |   |
-| `New Leak GatewayPM` | 05/06/2021 |   |
-| `NEW Links for ADATA` | 26/05/2021 |   |
-| `ADATA LEAKED` | 25/05/2021 |   |
-| `Webhelp's company - XtraSource` | 08/02/2021 |   |
-| `Ludwig Pfeiffer Leaked` | 26/01/2021 |   |
-| `Grupo SADA Leak` | 24/12/2020 |   |
-| `New Data Leak post from Chemical company` | 23/12/2020 |   |
-| `Kaye/Bassman International - New "Wall of Shamer"` | 18/12/2020 |   |
-| `Cornerstone-BB Group Leaked` | 14/12/2020 |   |
-| `Attention, Dassault Falcon Jet updated` | 13/12/2020 |   |
-| `Advertising Material: Forest Construction Leaked` | 12/12/2020 |   |
-| `LEAK Post Campari Group` | 10/12/2020 |   |
-| `Updates with files in EastCoastSeafood Inc.` | 10/12/2020 |   |
-| `New "WallofShamer" - East Coast Seafood Inc.` | 10/12/2020 |   |
-| `Shasun Chemicals & Drugs Ltd. LEAK` | 06/12/2020 |   |
-| `JMA Energy LEAK` | 05/12/2020 |   |
-| `New Files For Leak Campari Post` | 30/11/2020 |   |
-| `Ragnar_Team Announce of Potential "WallofShamer"` | 10/11/2020 |   |
-| `LEAK Post CAPCOM` | 08/11/2020 |   |
-| `LEAK post FINSA` | 08/11/2020 |   |
-| `Official appeal to DASSAULT FALCON JET` | 01/11/2020 |   |
-| `DASSAULT FALCON JET` | 30/10/2020 |   |
-| `Security breach of CAPCOM network` | 20/10/2020 |   |
-| `Security breach of Campari Group network` | 08/10/2020 |   |
-| `BIOLOGICAL E. Ltd. (BE) LEAK POST` | 27/09/2020 |   |
-| `Insignia Environmental company.` | 13/07/2020 |   |
-| `Astro Industries, Inc.` | 22/06/2020 |   |
-| `Bailey&Galyen Attorney at Law` | 22/06/2020 |   |
-| `New leaks from SOLTEK PACIFIC` | 22/06/2020 |   |
-| `GST Autoleather Company !` | 22/06/2020 |   |
-| `ST Engineering` | 22/06/2020 |   |
-| `Leaks from company EDP Group` | 19/06/2020 |   |
-| `Leaks from company Omniga GmbH & Co.` | 19/06/2020 |   |
-| `Leakage from company Catania, Mahon & Rider, PLLC` | 11/06/2020 |   |
-| `Brunner Announce – Hello World !` | 11/06/2020 |   |
-| `Leaks Company Birch Communications inc.` | 10/06/2020 |   |
+| [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | 20/12/2022 |  |
+| [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | 20/12/2022 |  |
+| [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | 13/12/2022 |   |
+| [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | 25/11/2022 |   |
+| [`Leak Announcement - IT company ITonCLOUD`](https://google.com/search?q=Leak+Announcement+-+IT+company+ITonCLOUD) | 22/11/2022 |   |
+| [`Belgium company Zwijndrecht - Leaked`](https://google.com/search?q=Belgium+company+Zwijndrecht+-+Leaked) | 16/11/2022 |   |
+| [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | 27/10/2022 |   |
+| [`Dollmar SpA - Leaked`](https://google.com/search?q=Dollmar+SpA+-+Leaked) | 19/10/2022 |   |
+| [`DIPF-INTERN - Leaked`](https://google.com/search?q=DIPF-INTERN+-+Leaked) | 18/10/2022 |   |
+| [`Fashion company ZIGI NY - Leaked`](https://google.com/search?q=Fashion+company+ZIGI+NY+-+Leaked) | 13/10/2022 |   |
+| [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | 10/10/2022 |   |
+| [`TANG CAPITAL LEAKED`](https://google.com/search?q=TANG+CAPITAL+LEAKED) | 10/10/2022 |   |
+| [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | 05/10/2022 |   |
+| [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | 03/10/2022 |   |
+| [`Malayan Flour Mills Bhd. Data Leak`](https://google.com/search?q=Malayan+Flour+Mills+Bhd.+Data+Leak) | 03/10/2022 |   |
+| [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | 19/09/2022 |   |
+| [`TAP Air Leak of more than 1.5 million of customers and many other.`](https://google.com/search?q=TAP+Air+Leak+of+more+than+1.5+million+of+customers+and+many+other.) | 19/09/2022 |   |
+| [`TAP AIR PORTUGAL - 115k personal data leak`](https://google.com/search?q=TAP+AIR+PORTUGAL+-+115k+personal+data+leak) | 12/09/2022 |   |
+| [`DDoS instead of the Discuss - Nice try TAP Air`](https://google.com/search?q=DDoS+instead+of+the+Discuss+-+Nice+try+TAP+Air) | 07/09/2022 |   |
+| [`TAP Air - First Facts`](https://google.com/search?q=TAP+Air+-+First+Facts) | 02/09/2022 |   |
+| [`USA Insurance company - Smith brothers File tree and some proofs`](https://google.com/search?q=USA+Insurance+company+-+Smith+brothers+File+tree+and+some+proofs) | 31/08/2022 |   |
+| [`Huge drama for Tap Air Portugal`](https://google.com/search?q=Huge+drama+for+Tap+Air+Portugal) | 31/08/2022 |   |
+| [`Announcement. Action Lab File-tree`](https://google.com/search?q=Announcement.+Action+Lab+File-tree) | 23/08/2022 |   |
+| [`DESFA - Pipeline company LEAK`](https://google.com/search?q=DESFA+-+Pipeline+company+LEAK) | 23/08/2022 |   |
+| [`Greece pipeline company breached - DESFA`](https://google.com/search?q=Greece+pipeline+company+breached+-+DESFA) | 19/08/2022 |   |
+| [`File-tree of Tang Capital`](https://google.com/search?q=File-tree+of+Tang+Capital) | 18/08/2022 |   |
+| [`Puma Biotechnology - decided to allow Leaks`](https://google.com/search?q=Puma+Biotechnology+-+decided+to+allow+Leaks) | 02/08/2022 |   |
+| [`GENSCO Inc. - allows Leak`](https://google.com/search?q=GENSCO+Inc.+-+allows+Leak) | 19/07/2022 |   |
+| [`Epec.PL - Lied about the absence of Leak`](https://google.com/search?q=Epec.PL+-+Lied+about+the+absence+of+Leak) | 13/07/2022 |   |
+| [`New Leak: Prudential LTG.`](https://google.com/search?q=New+Leak%3A+Prudential+LTG.) | 24/06/2022 |   |
+| [`New Leak: Northern Data Systems`](https://google.com/search?q=New+Leak%3A+Northern+Data+Systems) | 23/06/2022 |   |
+| [`Sierra Packaging Leaked`](https://google.com/search?q=Sierra+Packaging+Leaked) | 04/06/2022 |   |
+| [`Jonathan Adler Leaks`](https://google.com/search?q=Jonathan+Adler+Leaks) | 01/06/2022 |   |
+| [`Germany Corporation "VMT-GmbH" Leaked`](https://google.com/search?q=Germany+Corporation+%22VMT-GmbH%22+Leaked) | 23/05/2022 |   |
+| [`Simonson-Lumber decided to be Leaked`](https://google.com/search?q=Simonson-Lumber+decided+to+be+Leaked) | 11/05/2022 |   |
+| [`Simonson-Lumber Inc. First batch of Data.`](https://google.com/search?q=Simonson-Lumber+Inc.+First+batch+of+Data.) | 20/04/2022 |   |
+| [`International Centre Leaked`](https://google.com/search?q=International+Centre+Leaked) | 06/04/2022 |   |
+| [`Smith Transport Full Leak`](https://google.com/search?q=Smith+Transport+Full+Leak) | 14/03/2022 |   |
+| [`GHI Hornos Industriales Fully Leaked`](https://google.com/search?q=GHI+Hornos+Industriales+Fully+Leaked) | 04/03/2022 |   |
+| [`GHI Hornos Industriales  first batch of Data (0,1%)`](https://google.com/search?q=GHI+Hornos+Industriales++first+batch+of+Data+%280%2C1%25%29) | 28/02/2022 |   |
+| [`Airspan Networks got Leaked`](https://google.com/search?q=Airspan+Networks+got+Leaked) | 25/01/2022 |   |
+| [`IT-companies Subex & Sectrio Leaked`](https://google.com/search?q=IT-companies+Subex+%26+Sectrio+Leaked) | 08/01/2022 |   |
+| [`Company Group LDLC`](https://google.com/search?q=Company+Group+LDLC) | 15/12/2021 |   |
+| [`Leak of IT company Saksoft`](https://google.com/search?q=Leak+of+IT+company+Saksoft) | 10/12/2021 |   |
+| [`Full Data Leak Linical`](https://google.com/search?q=Full+Data+Leak+Linical) | 09/12/2021 |   |
+| [`Update: Linicals Data`](https://google.com/search?q=Update%3A+Linicals+Data) | 04/12/2021 |   |
+| [`Groupe LDLC is going to be Leaked`](https://google.com/search?q=Groupe+LDLC+is+going+to+be+Leaked) | 02/12/2021 |   |
+| [`Team Computers Ltd. - Leak`](https://google.com/search?q=Team+Computers+Ltd.+-+Leak) | 23/11/2021 |   |
+| [`LINICAL doesn't care about digital hygiene`](https://google.com/search?q=LINICAL+doesn%27t+care+about+digital+hygiene) | 30/10/2021 |   |
+| [`Atlas Financial Holdings, Inc. - Leaked`](https://google.com/search?q=Atlas+Financial+Holdings%2C+Inc.+-+Leaked) | 06/10/2021 |   |
+| [`FULL DATA LEAK of Primary Residential Mortgage, Inc. //`](https://google.com/search?q=FULL+DATA+LEAK+of+Primary+Residential+Mortgage%2C+Inc.+%2F%2F) | 14/09/2021 |   |
+| [`Primary Residential Mortgage inc. - Leaked`](https://google.com/search?q=Primary+Residential+Mortgage+inc.+-+Leaked) | 11/09/2021 |   |
+| [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F+Or+what+recovery+experts+prefer+to+keep+silent.) | 09/09/2021 |   |
+| [`Announcement: FTP`](https://google.com/search?q=Announcement%3A+FTP) | 01/07/2021 |   |
+| [`GATEWAY Property Management`](https://google.com/search?q=GATEWAY+Property+Management) | 23/06/2021 |   |
+| [`Software company Xoriant`](https://google.com/search?q=Software+company+Xoriant) | 06/06/2021 |   |
+| [`New Leak GatewayPM`](https://google.com/search?q=New+Leak+GatewayPM) | 05/06/2021 |   |
+| [`NEW Links for ADATA`](https://google.com/search?q=NEW+Links+for+ADATA) | 26/05/2021 |   |
+| [`ADATA LEAKED`](https://google.com/search?q=ADATA+LEAKED) | 25/05/2021 |   |
+| [`Webhelp's company - XtraSource`](https://google.com/search?q=Webhelp%27s+company+-+XtraSource) | 08/02/2021 |   |
+| [`Ludwig Pfeiffer Leaked`](https://google.com/search?q=Ludwig+Pfeiffer+Leaked) | 26/01/2021 |   |
+| [`Grupo SADA Leak`](https://google.com/search?q=Grupo+SADA+Leak) | 24/12/2020 |   |
+| [`New Data Leak post from Chemical company`](https://google.com/search?q=New+Data+Leak+post+from+Chemical+company) | 23/12/2020 |   |
+| [`Kaye/Bassman International - New "Wall of Shamer"`](https://google.com/search?q=Kaye%2FBassman+International+-+New+%22Wall+of+Shamer%22) | 18/12/2020 |   |
+| [`Cornerstone-BB Group Leaked`](https://google.com/search?q=Cornerstone-BB+Group+Leaked) | 14/12/2020 |   |
+| [`Attention, Dassault Falcon Jet updated`](https://google.com/search?q=Attention%2C+Dassault+Falcon+Jet+updated) | 13/12/2020 |   |
+| [`Advertising Material: Forest Construction Leaked`](https://google.com/search?q=Advertising+Material%3A+Forest+Construction+Leaked) | 12/12/2020 |   |
+| [`LEAK Post Campari Group`](https://google.com/search?q=LEAK+Post+Campari+Group) | 10/12/2020 |   |
+| [`Updates with files in EastCoastSeafood Inc.`](https://google.com/search?q=Updates+with+files+in+EastCoastSeafood+Inc.) | 10/12/2020 |   |
+| [`New "WallofShamer" - East Coast Seafood Inc.`](https://google.com/search?q=New+%22WallofShamer%22+-+East+Coast+Seafood+Inc.) | 10/12/2020 |   |
+| [`Shasun Chemicals & Drugs Ltd. LEAK`](https://google.com/search?q=Shasun+Chemicals+%26+Drugs+Ltd.+LEAK) | 06/12/2020 |   |
+| [`JMA Energy LEAK`](https://google.com/search?q=JMA+Energy+LEAK) | 05/12/2020 |   |
+| [`New Files For Leak Campari Post`](https://google.com/search?q=New+Files+For+Leak+Campari+Post) | 30/11/2020 |   |
+| [`Ragnar_Team Announce of Potential "WallofShamer"`](https://google.com/search?q=Ragnar_Team+Announce+of+Potential+%22WallofShamer%22) | 10/11/2020 |   |
+| [`LEAK Post CAPCOM`](https://google.com/search?q=LEAK+Post+CAPCOM) | 08/11/2020 |   |
+| [`LEAK post FINSA`](https://google.com/search?q=LEAK+post+FINSA) | 08/11/2020 |   |
+| [`Official appeal to DASSAULT FALCON JET`](https://google.com/search?q=Official+appeal+to+DASSAULT+FALCON+JET) | 01/11/2020 |   |
+| [`DASSAULT FALCON JET`](https://google.com/search?q=DASSAULT+FALCON+JET) | 30/10/2020 |   |
+| [`Security breach of CAPCOM network`](https://google.com/search?q=Security+breach+of+CAPCOM+network) | 20/10/2020 |   |
+| [`Security breach of Campari Group network`](https://google.com/search?q=Security+breach+of+Campari+Group+network) | 08/10/2020 |   |
+| [`BIOLOGICAL E. Ltd. (BE) LEAK POST`](https://google.com/search?q=BIOLOGICAL+E.+Ltd.+%28BE%29+LEAK+POST) | 27/09/2020 |   |
+| [`Insignia Environmental company.`](https://google.com/search?q=Insignia+Environmental+company.) | 13/07/2020 |   |
+| [`Astro Industries, Inc.`](https://google.com/search?q=Astro+Industries%2C+Inc.) | 22/06/2020 |   |
+| [`Bailey&Galyen Attorney at Law`](https://google.com/search?q=Bailey%26Galyen+Attorney+at+Law) | 22/06/2020 |   |
+| [`New leaks from SOLTEK PACIFIC`](https://google.com/search?q=New+leaks+from+SOLTEK+PACIFIC) | 22/06/2020 |   |
+| [`GST Autoleather Company !`](https://google.com/search?q=GST+Autoleather+Company+%21) | 22/06/2020 |   |
+| [`ST Engineering`](https://google.com/search?q=ST+Engineering) | 22/06/2020 |   |
+| [`Leaks from company EDP Group`](https://google.com/search?q=Leaks+from+company+EDP+Group) | 19/06/2020 |   |
+| [`Leaks from company Omniga GmbH & Co.`](https://google.com/search?q=Leaks+from+company+Omniga+GmbH+%26+Co.) | 19/06/2020 |   |
+| [`Leakage from company Catania, Mahon & Rider, PLLC`](https://google.com/search?q=Leakage+from+company+Catania%2C+Mahon+%26+Rider%2C+PLLC) | 11/06/2020 |   |
+| [`Brunner Announce – Hello World !`](https://google.com/search?q=Brunner+Announce+%E2%80%93+Hello+World+%21) | 11/06/2020 |   |
+| [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | 10/06/2020 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6830,8 +6833,8 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `FNBNWFL Data leaked` | 30/12/2021 |   |
-| `Decrypt` | 09/09/2021 |   |
+| [`FNBNWFL Data leaked`](https://google.com/search?q=FNBNWFL+Data+leaked) | 30/12/2021 |   |
+| [`Decrypt`](https://google.com/search?q=Decrypt) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6907,47 +6910,47 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `REC Silicon` | 11/12/2022 |   |
-| `Unimed Belem` | 19/10/2022 |   |
-| `Consorci Sanitari Integral & Geseme` | 11/10/2022 |   |
-| `Ferrari` | 02/10/2022 |   |
-| `Bombardier Recreational Products (BRP) - SOURCE CODES` | 01/10/2022 |   |
-| `Fundo Nacional de Desenvolvimento da Educação` | 03/09/2022 |   |
-| `Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)` | 24/08/2022 |   |
-| `Bombardier Recreational Products (BRP)` | 23/08/2022 |   |
-| `Sonae` | 05/04/2022 |   |
-| `Stago` | 29/03/2022 |   |
-| `Scottish Association for Mental Health` | 20/03/2022 |   |
-| `Viva Air` | 14/03/2022 |   |
-| `POP TV` | 15/02/2022 |   |
-| `KCA Deutag` | 28/01/2022 |   |
-| `Hellmann Worldwide Logistics` | 15/12/2021 |   |
-| `UMW Group` | 10/12/2021 |   |
-| `Ruwac` | 06/12/2021 |   |
-| `Unione dei Comuni Terre di Pianura` | 16/11/2021 |   |
-| `Digicel Group` | 24/10/2021 |   |
-| `Unione Reno Galliera` | 26/09/2021 |   |
-| `United Carton Industries Company Ltd` | 20/09/2021 |   |
-| `Ultrapar Participações S.A.` | 09/09/2021 |   |
-| `Vistra` | 09/09/2021 |   |
-| `Indura SA` | 09/09/2021 |   |
-| `Soluzioni Infrastrutturali Telefoniche ed Elettriche S.p.A.` | 09/09/2021 |   |
-| `CalAmp (NASDAQ: CAMP)` | 09/09/2021 |   |
-| `Pertamina EP` | 09/09/2021 |   |
-| `Consiglio Nazionale del Notariato` | 09/09/2021 |   |
-| `Ajuntament de Castelló` | 09/09/2021 |   |
-| `Nobiskrug` | 09/09/2021 |   |
-| `Samvardhana Motherson Peguform` | 09/09/2021 |   |
-| `Wallace & Carey` | 09/09/2021 |   |
-| `STEMCOR` | 09/09/2021 |   |
-| `Universal Assistance S.A.` | 09/09/2021 |   |
-| `WT Microelectronics` | 09/09/2021 |   |
-| `Walsin` | 09/09/2021 |   |
-| `Corporación Nacional de Telecomunicación` | 09/09/2021 |   |
-| `Liberty Group & ForHousing` | 09/09/2021 |   |
-| `Ermenegildo Zegna Holding` | 09/09/2021 |   |
-| `Gigabyte Technology` | 09/09/2021 |   |
-| `American Megatrends International` | 09/09/2021 |   |
+| [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 |   |
+| [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | 19/10/2022 |   |
+| [`Consorci Sanitari Integral & Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26+Geseme) | 11/10/2022 |   |
+| [`Ferrari`](https://google.com/search?q=Ferrari) | 02/10/2022 |   |
+| [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | 01/10/2022 |   |
+| [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | 03/09/2022 |   |
+| [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | 24/08/2022 |   |
+| [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | 23/08/2022 |   |
+| [`Sonae`](https://google.com/search?q=Sonae) | 05/04/2022 |   |
+| [`Stago`](https://google.com/search?q=Stago) | 29/03/2022 |   |
+| [`Scottish Association for Mental Health`](https://google.com/search?q=Scottish+Association+for+Mental+Health) | 20/03/2022 |   |
+| [`Viva Air`](https://google.com/search?q=Viva+Air) | 14/03/2022 |   |
+| [`POP TV`](https://google.com/search?q=POP+TV) | 15/02/2022 |   |
+| [`KCA Deutag`](https://google.com/search?q=KCA+Deutag) | 28/01/2022 |   |
+| [`Hellmann Worldwide Logistics`](https://google.com/search?q=Hellmann+Worldwide+Logistics) | 15/12/2021 |   |
+| [`UMW Group`](https://google.com/search?q=UMW+Group) | 10/12/2021 |   |
+| [`Ruwac`](https://google.com/search?q=Ruwac) | 06/12/2021 |   |
+| [`Unione dei Comuni Terre di Pianura`](https://google.com/search?q=Unione+dei+Comuni+Terre+di+Pianura) | 16/11/2021 |   |
+| [`Digicel Group`](https://google.com/search?q=Digicel+Group) | 24/10/2021 |   |
+| [`Unione Reno Galliera`](https://google.com/search?q=Unione+Reno+Galliera) | 26/09/2021 |   |
+| [`United Carton Industries Company Ltd`](https://google.com/search?q=United+Carton+Industries+Company+Ltd) | 20/09/2021 |   |
+| [`Ultrapar Participações S.A.`](https://google.com/search?q=Ultrapar+Participa%C3%A7%C3%B5es+S.A.) | 09/09/2021 |   |
+| [`Vistra`](https://google.com/search?q=Vistra) | 09/09/2021 |   |
+| [`Indura SA`](https://google.com/search?q=Indura+SA) | 09/09/2021 |   |
+| [`Soluzioni Infrastrutturali Telefoniche ed Elettriche S.p.A.`](https://google.com/search?q=Soluzioni+Infrastrutturali+Telefoniche+ed+Elettriche+S.p.A.) | 09/09/2021 |   |
+| [`CalAmp (NASDAQ: CAMP)`](https://google.com/search?q=CalAmp+%28NASDAQ%3A+CAMP%29) | 09/09/2021 |   |
+| [`Pertamina EP`](https://google.com/search?q=Pertamina+EP) | 09/09/2021 |   |
+| [`Consiglio Nazionale del Notariato`](https://google.com/search?q=Consiglio+Nazionale+del+Notariato) | 09/09/2021 |   |
+| [`Ajuntament de Castelló`](https://google.com/search?q=Ajuntament+de+Castell%C3%B3) | 09/09/2021 |   |
+| [`Nobiskrug`](https://google.com/search?q=Nobiskrug) | 09/09/2021 |   |
+| [`Samvardhana Motherson Peguform`](https://google.com/search?q=Samvardhana+Motherson+Peguform) | 09/09/2021 |   |
+| [`Wallace & Carey`](https://google.com/search?q=Wallace+%26+Carey) | 09/09/2021 |   |
+| [`STEMCOR`](https://google.com/search?q=STEMCOR) | 09/09/2021 |   |
+| [`Universal Assistance S.A.`](https://google.com/search?q=Universal+Assistance+S.A.) | 09/09/2021 |   |
+| [`WT Microelectronics`](https://google.com/search?q=WT+Microelectronics) | 09/09/2021 |   |
+| [`Walsin`](https://google.com/search?q=Walsin) | 09/09/2021 |   |
+| [`Corporación Nacional de Telecomunicación`](https://google.com/search?q=Corporaci%C3%B3n+Nacional+de+Telecomunicaci%C3%B3n) | 09/09/2021 |   |
+| [`Liberty Group & ForHousing`](https://google.com/search?q=Liberty+Group+%26+ForHousing) | 09/09/2021 |   |
+| [`Ermenegildo Zegna Holding`](https://google.com/search?q=Ermenegildo+Zegna+Holding) | 09/09/2021 |   |
+| [`Gigabyte Technology`](https://google.com/search?q=Gigabyte+Technology) | 09/09/2021 |   |
+| [`American Megatrends International`](https://google.com/search?q=American+Megatrends+International) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6974,23 +6977,23 @@ _`shut down & offering a decryptor`_
 |---|---|---|
 | [`Republic of Vanuatu`](https://www.gov.vu/) | 24/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
 | [`Strem Chemicals`](https://www.strem.com/) | 22/12/2022 | Strem established in 1964, is a company that manufactures and markets specialty chemicals of high purity. Strem was acquired by Ascensus Specialties in 2021. Its clients include academic, industrial and government research and development laboratories as well as commercial scale businesses in the pharmaceutical, microelectronic and chemical / petrochemical industries. Strem also provides custom synthesis (including high pressure synthesis) and cGMP manufacturing services. |
-| `Keralty` | 19/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
-| `Advanced Micro Devices, Inc` | 05/12/2022 |   |
-| `Fairfax - Crum & Forster` | 05/12/2022 |   |
-| `Ipca Laboratories` | 05/12/2022 |   |
-| `Carmen Copper Corporation` | 05/12/2022 |   |
-| `ROFA INDUSTRIAL AUTOMATION` | 05/12/2022 |   |
-| `ADATA Technology` | 05/12/2022 |   |
-| `Severn Glocon Group` | 05/12/2022 |   |
-| `SMB Solutions` | 05/12/2022 |   |
-| `BRYCON Construction` | 05/12/2022 |   |
-| `8 Italy Districts` | 09/08/2022 |   |
-| `Summit Care` | 11/07/2022 |   |
-| `SHOPRITE HOLDINGS LTD` | 14/06/2022 |   |
-| `Saskatchewan Liquor and Gaming Authority` | 09/05/2022 |   |
-| `Jefferson Credit Union` | 09/05/2022 |   |
-| `Dellner Couplers AB` | 09/05/2022 |   |
-| `AHS Aviation Handling Services GmbH` | 09/05/2022 |   |
+| [`Keralty`](https://google.com/search?q=Keralty) | 19/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
+| [`Advanced Micro Devices, Inc`](https://google.com/search?q=Advanced+Micro+Devices%2C+Inc) | 05/12/2022 |   |
+| [`Fairfax - Crum & Forster`](https://google.com/search?q=Fairfax+-+Crum+%26+Forster) | 05/12/2022 |   |
+| [`Ipca Laboratories`](https://google.com/search?q=Ipca+Laboratories) | 05/12/2022 |   |
+| [`Carmen Copper Corporation`](https://google.com/search?q=Carmen+Copper+Corporation) | 05/12/2022 |   |
+| [`ROFA INDUSTRIAL AUTOMATION`](https://google.com/search?q=ROFA+INDUSTRIAL+AUTOMATION) | 05/12/2022 |   |
+| [`ADATA Technology`](https://google.com/search?q=ADATA+Technology) | 05/12/2022 |   |
+| [`Severn Glocon Group`](https://google.com/search?q=Severn+Glocon+Group) | 05/12/2022 |   |
+| [`SMB Solutions`](https://google.com/search?q=SMB+Solutions) | 05/12/2022 |   |
+| [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | 05/12/2022 |   |
+| [`8 Italy Districts`](https://google.com/search?q=8+Italy+Districts) | 09/08/2022 |   |
+| [`Summit Care`](https://google.com/search?q=Summit+Care) | 11/07/2022 |   |
+| [`SHOPRITE HOLDINGS LTD`](https://google.com/search?q=SHOPRITE+HOLDINGS+LTD) | 14/06/2022 |   |
+| [`Saskatchewan Liquor and Gaming Authority`](https://google.com/search?q=Saskatchewan+Liquor+and+Gaming+Authority) | 09/05/2022 |   |
+| [`Jefferson Credit Union`](https://google.com/search?q=Jefferson+Credit+Union) | 09/05/2022 |   |
+| [`Dellner Couplers AB`](https://google.com/search?q=Dellner+Couplers+AB) | 09/05/2022 |   |
+| [`AHS Aviation Handling Services GmbH`](https://google.com/search?q=AHS+Aviation+Handling+Services+GmbH) | 09/05/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7051,12 +7054,12 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `www.bbadmin.com` | 22/09/2022 |   |
-| `groupg4.com` | 13/09/2022 |   |
-| `coarc.org` | 28/07/2022 |   |
-| `keystonelegal.co.uk` | 20/07/2022 |   |
-| `vahanen.com` | 15/07/2022 |   |
-| `syredis.fr` | 14/07/2022 |   |
+| [`www.bbadmin.com`](https://google.com/search?q=www.bbadmin.com) | 22/09/2022 |   |
+| [`groupg4.com`](https://google.com/search?q=groupg4.com) | 13/09/2022 |   |
+| [`coarc.org`](https://google.com/search?q=coarc.org) | 28/07/2022 |   |
+| [`keystonelegal.co.uk`](https://google.com/search?q=keystonelegal.co.uk) | 20/07/2022 |   |
+| [`vahanen.com`](https://google.com/search?q=vahanen.com) | 15/07/2022 |   |
+| [`syredis.fr`](https://google.com/search?q=syredis.fr) | 14/07/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7083,7 +7086,7 @@ _`shut down & offering a decryptor`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/revil/revil2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/revil/revil3.txt" target=_blank>#2</a>  <a href="/ransomware_notes/revil/revil1.txt" target=_blank>#3</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/revil/revil1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/revil/revil2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/revil/revil3.txt" target=_blank>#3</a> 
 
 ### Posts
 
@@ -7091,47 +7094,47 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `kusd.edu` | 28/11/2022 |   |
-| `Sunknowledge Services Inc` | 28/11/2022 |   |
-| `medibank.com.au` | 07/11/2022 |   |
-| `Midea Group` | 01/09/2022 |   |
-| `Doosan Group` | 02/08/2022 |   |
-| `OptiProERP is a leading global provider of industry-specific ERP solutions for manufacture` | 25/07/2022 |   |
-| `Ludwig Freytag Group` | 12/05/2022 |   |
-| `Unicity International` | 03/05/2022 |   |
-| `Stratford University` | 22/04/2022 |   |
-| `Asfaltproductienijmegen` | 21/04/2022 |   |
-| `CYMZ` | 21/04/2022 |   |
-| `www.oil-india.com` | 21/04/2022 |   |
-| `Visotec Group www.visotec.com` | 20/04/2022 |   |
-| `PTT Exploration and Production - 720GB` | 15/10/2021 |   |
-| `ECKERD PERU S.A, INKAFARMA, MIFARMA` | 08/10/2021 |   |
-| `Join us on RAMP` | 07/10/2021 |   |
-| `Ronmor Holdings` | 01/10/2021 |   |
-| `Fimmick CRM Hong Kong (www.fimmick.com)` | 30/09/2021 |   |
-| `Fimmick CRM Honk Kong (www.fimmick.com)` | 30/09/2021 |   |
-| `Spiezle Architectural Group Inc.` | 16/09/2021 |   |
-| `ohiograting.com` | 11/09/2021 |   |
-| `Apex America` | 09/09/2021 |   |
-| `Allen, Dyer, Doppelt, & Gilchrist, P.A.` | 09/09/2021 |   |
-| `Betenbough Homes` | 09/09/2021 |   |
-| `CEC Vibration Products` | 09/09/2021 |   |
-| `ENPOL LLC` | 09/09/2021 |   |
-| `Iaffaldano, Shaw & Young LLP` | 09/09/2021 |   |
-| `angstrom automotive group` | 09/09/2021 |   |
-| `Agile Property Holdings` | 09/09/2021 |   |
-| `Möbelstadt Sommerlad` | 09/09/2021 |   |
-| `Gosiger` | 09/09/2021 |   |
-| `neroindustry.com` | 09/09/2021 |   |
-| `kuk.de / KREBS + KIEFER / 500GB` | 09/09/2021 |   |
-| `KASEYA ATTACK INFO` | 09/09/2021 |   |
-| `Daylesford - BHoldings - Bamford - The Wild Rabbit` | 09/09/2021 |   |
-| `Hx5, LLC` | 09/09/2021 |   |
-| `inocean.no / 2000 GB` | 09/09/2021 |   |
-| `Primo Water` | 09/09/2021 |   |
-| `lstaff.com / atworksprofessional / atworks.com` | 09/09/2021 |   |
-| `South Carolina Legal Services breach` | 09/09/2021 |   |
-| `ensingerplastics.com` | 09/09/2021 |   |
+| [`kusd.edu`](https://google.com/search?q=kusd.edu) | 28/11/2022 |   |
+| [`Sunknowledge Services Inc`](https://google.com/search?q=Sunknowledge+Services+Inc) | 28/11/2022 |   |
+| [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | 07/11/2022 |   |
+| [`Midea Group`](https://google.com/search?q=Midea+Group) | 01/09/2022 |   |
+| [`Doosan Group`](https://google.com/search?q=Doosan+Group) | 02/08/2022 |   |
+| [`OptiProERP is a leading global provider of industry-specific ERP solutions for manufacture`](https://google.com/search?q=OptiProERP+is+a+leading+global+provider+of+industry-specific+ERP+solutions+for+manufacture) | 25/07/2022 |   |
+| [`Ludwig Freytag Group`](https://google.com/search?q=Ludwig+Freytag+Group) | 12/05/2022 |   |
+| [`Unicity International`](https://google.com/search?q=Unicity+International) | 03/05/2022 |   |
+| [`Stratford University`](https://google.com/search?q=Stratford+University) | 22/04/2022 |   |
+| [`Asfaltproductienijmegen`](https://google.com/search?q=Asfaltproductienijmegen) | 21/04/2022 |   |
+| [`CYMZ`](https://google.com/search?q=CYMZ) | 21/04/2022 |   |
+| [`www.oil-india.com`](https://google.com/search?q=www.oil-india.com) | 21/04/2022 |   |
+| [`Visotec Group www.visotec.com`](https://google.com/search?q=Visotec+Group+www.visotec.com) | 20/04/2022 |   |
+| [`PTT Exploration and Production - 720GB`](https://google.com/search?q=PTT+Exploration+and+Production+-+720GB) | 15/10/2021 |   |
+| [`ECKERD PERU S.A, INKAFARMA, MIFARMA`](https://google.com/search?q=ECKERD+PERU+S.A%2C+INKAFARMA%2C+MIFARMA) | 08/10/2021 |   |
+| [`Join us on RAMP`](https://google.com/search?q=Join+us+on+RAMP) | 07/10/2021 |   |
+| [`Ronmor Holdings`](https://google.com/search?q=Ronmor+Holdings) | 01/10/2021 |   |
+| [`Fimmick CRM Hong Kong (www.fimmick.com)`](https://google.com/search?q=Fimmick+CRM+Hong+Kong+%28www.fimmick.com%29) | 30/09/2021 |   |
+| [`Fimmick CRM Honk Kong (www.fimmick.com)`](https://google.com/search?q=Fimmick+CRM+Honk+Kong+%28www.fimmick.com%29) | 30/09/2021 |   |
+| [`Spiezle Architectural Group Inc.`](https://google.com/search?q=Spiezle+Architectural+Group+Inc.) | 16/09/2021 |   |
+| [`ohiograting.com`](https://google.com/search?q=ohiograting.com) | 11/09/2021 |   |
+| [`Apex America`](https://google.com/search?q=Apex+America) | 09/09/2021 |   |
+| [`Allen, Dyer, Doppelt, & Gilchrist, P.A.`](https://google.com/search?q=Allen%2C+Dyer%2C+Doppelt%2C+%26+Gilchrist%2C+P.A.) | 09/09/2021 |   |
+| [`Betenbough Homes`](https://google.com/search?q=Betenbough+Homes) | 09/09/2021 |   |
+| [`CEC Vibration Products`](https://google.com/search?q=CEC+Vibration+Products) | 09/09/2021 |   |
+| [`ENPOL LLC`](https://google.com/search?q=ENPOL+LLC) | 09/09/2021 |   |
+| [`Iaffaldano, Shaw & Young LLP`](https://google.com/search?q=Iaffaldano%2C+Shaw+%26+Young+LLP) | 09/09/2021 |   |
+| [`angstrom automotive group`](https://google.com/search?q=angstrom+automotive+group) | 09/09/2021 |   |
+| [`Agile Property Holdings`](https://google.com/search?q=Agile+Property+Holdings) | 09/09/2021 |   |
+| [`Möbelstadt Sommerlad`](https://google.com/search?q=M%C3%B6belstadt+Sommerlad) | 09/09/2021 |   |
+| [`Gosiger`](https://google.com/search?q=Gosiger) | 09/09/2021 |   |
+| [`neroindustry.com`](https://google.com/search?q=neroindustry.com) | 09/09/2021 |   |
+| [`kuk.de / KREBS + KIEFER / 500GB`](https://google.com/search?q=kuk.de+%2F+KREBS+%2B+KIEFER+%2F+500GB) | 09/09/2021 |   |
+| [`KASEYA ATTACK INFO`](https://google.com/search?q=KASEYA+ATTACK+INFO) | 09/09/2021 |   |
+| [`Daylesford - BHoldings - Bamford - The Wild Rabbit`](https://google.com/search?q=Daylesford+-+BHoldings+-+Bamford+-+The+Wild+Rabbit) | 09/09/2021 |   |
+| [`Hx5, LLC`](https://google.com/search?q=Hx5%2C+LLC) | 09/09/2021 |   |
+| [`inocean.no / 2000 GB`](https://google.com/search?q=inocean.no+%2F+2000+GB) | 09/09/2021 |   |
+| [`Primo Water`](https://google.com/search?q=Primo+Water) | 09/09/2021 |   |
+| [`lstaff.com / atworksprofessional / atworks.com`](https://google.com/search?q=lstaff.com+%2F+atworksprofessional+%2F+atworks.com) | 09/09/2021 |   |
+| [`South Carolina Legal Services breach`](https://google.com/search?q=South+Carolina+Legal+Services+breach) | 09/09/2021 |   |
+| [`ensingerplastics.com`](https://google.com/search?q=ensingerplastics.com) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7159,7 +7162,7 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `Besson Seguros` | 06/12/2021 |   |
+| [`Besson Seguros`](https://google.com/search?q=Besson+Seguros) | 06/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7189,15 +7192,15 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `Abdi ibrahim` | 08/01/2022 |   |
-| `Evalueserve` | 28/12/2021 |   |
-| `DENSO` | 28/12/2021 |   |
-| `Data breach summary` | 26/12/2021 |   |
-| `Rossell Techsys(Data will be given tomorrow)` | 18/12/2021 |   |
-| `KMG Prestige, Inc. (Data will be given tomorrow)` | 18/12/2021 |   |
-| `Rosendahl Design Group` | 14/12/2021 |   |
-| `Rossell Techsys` | 14/12/2021 |   |
-| `KMG Prestige, Inc.` | 07/12/2021 |   |
+| [`Abdi ibrahim`](https://google.com/search?q=Abdi+ibrahim) | 08/01/2022 |   |
+| [`Evalueserve`](https://google.com/search?q=Evalueserve) | 28/12/2021 |   |
+| [`DENSO`](https://google.com/search?q=DENSO) | 28/12/2021 |   |
+| [`Data breach summary`](https://google.com/search?q=Data+breach+summary) | 26/12/2021 |   |
+| [`Rossell Techsys(Data will be given tomorrow)`](https://google.com/search?q=Rossell+Techsys%28Data+will+be+given+tomorrow%29) | 18/12/2021 |   |
+| [`KMG Prestige, Inc. (Data will be given tomorrow)`](https://google.com/search?q=KMG+Prestige%2C+Inc.+%28Data+will+be+given+tomorrow%29) | 18/12/2021 |   |
+| [`Rosendahl Design Group`](https://google.com/search?q=Rosendahl+Design+Group) | 14/12/2021 |   |
+| [`Rossell Techsys`](https://google.com/search?q=Rossell+Techsys) | 14/12/2021 |   |
+| [`KMG Prestige, Inc.`](https://google.com/search?q=KMG+Prestige%2C+Inc.) | 07/12/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7236,97 +7239,97 @@ _`shut down & offering a decryptor`_
 | [`Rech Informatica Ltda`](https://www.rech.com.br) | 23/12/2022 | Rech Informática Ltda is a company that operates in the Staffing and Recruiting industry. It employs 51-100 people and has $10M-$25M of revenue. Headquarters: 460 Rua Tupanciretã, Novo Hamburgo, Rs, 93334-480, Brazil |
 | [`Pinnacle Communications`](http://www.pinnaclecommunications.com) | 22/12/2022 | Pinnacle Communications merged with Justin Hannesson and Pinnacle West LLC to become the company that we are today. This dynamic strength exhibited within both companies merging into one has positioned Pinnacle as one of the most valued brands in the hospitality industry. Through all of 30-plus years, we continue to grow and our reputation for quality service and a robust product line keeps us in the forefront of the niche hospitality market. Pinnacle’s employees have always been the core and heartbeat of the company since the day we started. Along with an unmatched work-ethic, talent and ingenuity, Pinnacle’s all-star staff has survived the many economic and turbulent challenges of the past 30 years. Through it all our proven leadership team and staff have shown great determination and passion for our company, and we look forward to a bright future. |
 | [`ATLAS`](http://www.atlascommodities.com) | 21/12/2022 | Passports / SSN / Confidential Docs  |
-| `Zehnders of Frankenmuth` | 20/12/2022 | ZEHNDER'S OF FRANKENMUTH - A FOUR-SEASON FAMILY VACATION DESTINATION - HOTEL, WATERPARK, DINING, SHOPPING & GOLFWelcome to Zehnder's and make yourself at home. This is your web window to our world famous, flagship restaurant Zehnder's of Frankenmuth, our championship golf course The Fortress, our unique shopping experience Zehnder's Marketplace and the aquatic excitement of Zehnder's Splash Village Hotel and Indoor waterpark. Eat, sleep, shop, and play in the Bavarian themed village of Frankenmuth, Michigan. Just 90 miles north of Detroit and voted best day trip in Michigan by Detroit News readers, Zehnder's and Frankenmuth is enjoyed by millions of people each year. |
-| `MARK-TAYLOR` | 19/12/2022 | Mark-Taylor Companies is the leading developer, owner, and investment manager of Arizona's premier rental communities. Our mission is to create exceptional communities that invite, inspire, and feel like home. Because we function as a private developer, owner, and operator, our in-house team is able to maintain our high standards throughout every aspect of our business. Today, our diverse business lines as both a principal and service provider allow us to successfully adapt to trends within the real estate industry. |
-| `Conform` | 18/12/2022 |   |
-| `All Seasons Global Solutions` | 17/12/2022 |   |
-| `Mol` | 16/12/2022 |   |
-| `Q.E.P` | 16/12/2022 | QEP Co., Inc. was founded in 1979. The first QEP branded tiling product was a “Do-It-Yourself” Bathtub Edging Kit. In 1981, this Bathtub Edging Kit was picked up by a small 6 store “home improvement” chain called The Home Depot, quickly opening the doors of opportunity for QEP in the tile tool market. Over 30 years later, QEP has become an established and recognized brand, specializing in installation tools and accessories for tile, porcelain and natural stone. Today, QEP products could be found in all 50 of the States and in over 80 countries worldwide. We continually introduce new and innovative products that address the challenges of today’s market including our 900XT 10” Pro Tile Saw that won the Surfaces 2014 Best New Product Award. |
-| `The Keenan Agency Inc` | 16/12/2022 | The Keenan Agency IncHeadquarters:6805 Avery-muirfield Dr Ste 200, Dublin, Ohio, 43016, United StatesPhone Number:(614) 764-7000Revenue: $5 MillionThe Keenan Agency Inc is a leading independent insurance agency in Central Ohio, founded in 1938. As a leader, The Keenan Agency insures thousands of clients nationwide. We provide each client a comprehensive insurance and risk management program tailored to their unique needs.We take pride in our consultative approach; at The Keenan Agency we take the time to understand your changing insurance needs, and will put a personal insurance or business insurance program in place that will deliver economy, superior protection, and risk management assistance. |
-| `Lamtec` | 16/12/2022 | Lamtec Corporation is a global supplier of insulation vapor retarders and facings to the leading manufacturers, laminators and fabricators of fiberglass, rockwool, foam board and tape. Our focus is the building products market, specifically the Metal Building, Duct Wrap, Duct Board, Pipe, Foam Board / Panel, Tape and OEM insulation segments.Lamtec's insulation vapor retarders and facings are engineered to protect insulation from physical abuse and the damaging effects of moisture. In addition, our facings are designed with proprietary flame retardant chemistry to assist you in meeting demanding fire codes and standards.Our technical resources are available to leverage their decades of insulation industry experience to assist you in solving your product and process challenges.For over 40 years, our philosophy has been simple, Design and manufacture the very best in laminated insulation facing / vapor retarders, offer them at competitive pricing, deliver them on time and follow-up with comprehensive technical support. Lamtec's 260,000 square foot facility is situated on a 45 acre site in Northeastern Pennsylvania, convenient to all New York metropolitan area ports and major North-South and East-West interstate highways. |
-| `Naulty, Scaricamazza and McDevitt, LLC` | 16/12/2022 | NaultyPennsylvania, United States · 56 Employees Headquarters: 1617 Jfk Blvd Ste 750, Philadelphia, Pennsylvania, 19103, United StatesPhone Number: (215) 568-5116Website: www.naulty.comRevenue: $14 MillionNaulty, Scaricamazza & McDevitt was founded in 1952 by the late John F. Naulty following his service as house counsel for two national insurance companies. He was then joined by Angelo L. Scaricamazza and Francis T. McDevitt. Angelo continued to practice law and lead the firm until his untimely passing on December 2, 2020. Francis remains a prominent attorney and leader. The firm has grown from small beginnings to being considered among the most active and respected firms in Pennsylvania, New Jersey and Delaware.Since it’s founding, our firm’s mission continues to be providing the highest level of representation while focusing on the individual needs of our clients. By thoroughly understanding and analyzing clients’ needs, we deliver tangible results that exceed their expectations. Our philosophy has earned us a strong reputation for superior counsel, cost-conscious litigation strategies and loyal clients.Our attorneys are all committed to providing our clients with diligent, aggressive and professionally responsible representation. Our firm’s self-insured clients consist of retail stores, shopping centers, manufacturing companies, trucking companies, and related governmental entities. On the insurance side, the firm has represented almost every type of business in existence. |
-| `Cristal Controls` | 16/12/2022 | Cristal Controls manufactures energy management systems, low voltage lighting control systems, temperature controls, humidity controls, and automation electronic products for manufacturers, specialized distributors, and integrators. We design all our systems and provide the necessary product training.One of our main objectives is to ensure continued growth by delivering high-quality products within the specified deadline. We maintain close business relations with our customers by bringing them the appropriate solutions that truly fulfill their needs.﻿Cristal Controls, manufacturer of SCR and SSR power controllers, and of lighting control systems and energy management systems, was founded in Québec City in 1991. Since its creation, the company has maintained a solid and steady growth. Starting with only two employees and limited production capabilities, Cristal Controls’ team is now made up of almost 30 members, all working together for the success of your projects.With the years, we have gained a solid and considerable expertise in many lines of products, such as SCR and Triac modulating energy controllers, linear step controllers, BACnet’s energy management systems, low voltage lighting control systems, and automation systems.Cristal Controls collaborates with many major companies by providing them with high quality products as well as by developping for them customized solutions that meet their specific needs. |
-| `M2S Electronics` | 16/12/2022 | At M2S Electronics, we are committed to improving the world around us and doing business the right way.The right way for our employees, for our suppliers and partners, for our customers and for the communities in which we live and work.M2S is partnering with manufacturers located in North America, offering electronic value-added subcontracting, designed to meet the customer’s expectations.In accordance with our values: Progress, Control and Harmony. |
-| `Los Angeles Business Journal` | 16/12/2022 | The Los Angeles Business Journal, established in 1979, is a weekly newspaper and online news source in Los Angeles, California, which provides coverage of local business news. According to the Journal's website, it has a weekly print circulation of 24,000 and over 40,000 unique monthly website visitors. It is published each Monday. |
-| `Virginia Farm Bureau` | 16/12/2022 | Virginia Farm Bureau is the largest non-profit agricultural advocacy organization in Virginia. With the support of our members, we help protect farming, agriculture, and the Virginia way of life.Virginia Farm Bureau Mutual Insurance Company was founded to protect the lives and livelihoods of Virginia's farmers. But today, we continue to offer the same reliable coverage to all Virginians. |
-| `McAndrews Law Offices` | 16/12/2022 | McAndrews Law Offices   Founded in 1983 and headquartered in Berwyn, Pennsylvania, McAndrews Law Firm is a legal representation firm. McAndrews Law Offices is a nationally recognized firm that is committed to providing families of Pennsylvania, Delaware, Maryland, the Metropolitan Washington, D.C. Area, and New Jersey with exceptional legal representation.   Since 1982, McAndrews Law Offices has provided exceptional representation on matters involving probate, estate planning, planning when a family member has a disability, special needs trusts, personal injury, guardianship, special education, public benefits for seniors, long-term medical care and elder law. |
-| `Law Firm of Friedman + Bartoumian` | 16/12/2022 | Friedman & BartoumianCalifornia, United States · 43 EmployeesHeadquarters: 30401 Agoura Rd Ste 200, Agoura Hills, California, 91301, United States(818) 707-1488Facsimile: (818) 707-0490Tax Identification No. 95-4304462https://www.friedmanlawoffices.com/$10 MillionThe Law Firm of Friedman + Bartoumian offers a broad range of legal expertise. Our attorneys have earned the respect of other attorneys, judges and clients throughout California and the nation. In recognition of our legal ability and ethical standards, we have received a high rating from the Martindale-Hubbell organization, the most respected source of authoritative biographical information about members of the legal community worldwide. |
-| `Tubular Steel Inc` | 16/12/2022 | Tubular Steel Inc is a company that operates in the Mining & Metals industry. It employs 21-50 people and has $10M-$25M of revenue.Headquarters:285 Raleigh Ave, Scarborough, Ontario, M1K 1A5, Canada: (416) 261-9571: www.tubularsteel.ca: $19 MillionTubular Steel Inc. is a North American leader in precision welded steel tube production. Our culture of continuous improvement helps to maintain our leadership role as one of the most forward-thinking carbon steel tube manufacturers in North America. |
-| `RMCLAW` | 16/12/2022 |   |
-| `Cates Control Systems` | 16/12/2022 |   |
-| `Trussbilt LLC` | 16/12/2022 |   |
-| `Duplicator Sales & Service` | 16/12/2022 |   |
-| `PGT Innovations` | 16/12/2022 |   |
-| `Summit` | 16/12/2022 |   |
-| `Adams-Friendship Area School District` | 16/12/2022 |   |
-| `Vincent Fister` | 16/12/2022 |   |
-| `Leo Hamel Fine Jewelers` | 16/12/2022 |   |
-| `https://allseasonmovers.com` | 03/12/2022 |   |
-| `http://www.pgtinnovations.com` | 02/12/2022 |   |
-| `http://www.yoursummit.com` | 02/12/2022 |   |
-| `https://www.rmclaw.net/` | 29/11/2022 |   |
-| `https://www.cates.com` | 28/11/2022 |   |
-| `https://tubularsteel.ca` | 28/11/2022 |   |
-| `https://www.friedmanlawoffices.com/` | 26/11/2022 |   |
-| `https://www.labusinessjournal.com` | 24/11/2022 |   |
-| `https://mcandrewslaw.com/` | 20/11/2022 |   |
-| `https://www.vafb.com` | 18/11/2022 |   |
-| `https://naulty.com/` | 18/11/2022 |   |
-| `https://www.m2selectronics.com` | 17/11/2022 |   |
-| `https://www.cristalcontrols.com` | 15/11/2022 |   |
-| `http://www.lamtec.com` | 15/11/2022 |   |
-| `https://www.keenanins.com` | 15/11/2022 |   |
-| `https://www.qep.com` | 11/11/2022 |   |
-| `http://bfernandez.com` | 11/11/2022 |   |
-| `http://www.adven.com` | 09/11/2022 |   |
-| `http://www.silverstone.co.uk` | 09/11/2022 |   |
-| `http://www.zender.de` | 09/11/2022 |   |
-| `http://www.h-ortmeier.de` | 08/11/2022 |   |
-| `http://aviso.ci` | 08/11/2022 |   |
-| `https://www.sohnen.com/` | 07/11/2022 |   |
-| `http://ivacorm.com` | 07/11/2022 |   |
-| `http://www.sheehanfamilycompanies.com` | 07/11/2022 |   |
-| `https://www.zoominfo.com/c/maynards-industries-ltd/24117794` | 05/11/2022 |   |
-| `https://nmhsi.org` | 04/11/2022 |   |
-| `https://www.prioritypower.net` | 04/11/2022 |   |
-| `https://happysapiensdental.com` | 04/11/2022 |   |
-| `https://www.caminorealkitchens.com` | 04/11/2022 |   |
-| `https://www.benbrooklibrary.org` | 04/11/2022 |   |
-| `https://millermilling.com` | 04/11/2022 |   |
-| `https://www.sunwell.com` | 04/11/2022 |   |
-| `http://www.power-soft.com` | 04/11/2022 |   |
-| `https://orthoexperts.com/` | 04/11/2022 |   |
-| `https://www.mmemed.com` | 04/11/2022 |   |
-| `https://www.infocision.com` | 04/11/2022 |   |
-| `http://www.wiseyes.net` | 04/11/2022 |   |
-| `http://www.royalimaging.com` | 04/11/2022 |   |
-| `https://www.whitneyoilco.com` | 04/11/2022 |   |
-| `http://www.pandafunds.com` | 04/11/2022 |   |
-| `http://www.veroni.it` | 04/11/2022 |   |
-| `http://www.pressco.com` | 04/11/2022 |   |
-| `http://www.cymax.com` | 04/11/2022 |   |
-| `https://fishmans.ca` | 04/11/2022 |   |
-| `https://quantumplastics.com` | 04/11/2022 |   |
-| `https://nmhsi.org` | 04/11/2022 |   |
-| `https://www.prioritypower.net` | 04/11/2022 |   |
-| `https://happysapiensdental.com` | 04/11/2022 |   |
-| `https://www.caminorealkitchens.com` | 04/11/2022 |   |
-| `https://www.benbrooklibrary.org` | 04/11/2022 |   |
-| `https://millermilling.com` | 04/11/2022 |   |
-| `https://www.sunwell.com` | 04/11/2022 |   |
-| `http://www.power-soft.com` | 04/11/2022 |   |
-| `https://orthoexperts.com/` | 04/11/2022 |   |
-| `https://www.mmemed.com` | 04/11/2022 |   |
-| `https://www.infocision.com` | 04/11/2022 |   |
-| `http://www.wiseyes.net` | 04/11/2022 |   |
-| `http://www.royalimaging.com` | 04/11/2022 |   |
-| `https://www.whitneyoilco.com` | 04/11/2022 |   |
-| `http://www.pandafunds.com` | 04/11/2022 |   |
-| `http://www.veroni.it` | 04/11/2022 |   |
-| `http://www.pressco.com` | 04/11/2022 |   |
-| `http://www.cymax.com` | 04/11/2022 |   |
-| `https://fishmans.ca` | 04/11/2022 |   |
-| `https://quantumplastics.com` | 04/11/2022 |   |
+| [`Zehnders of Frankenmuth`](https://google.com/search?q=Zehnders+of+Frankenmuth) | 20/12/2022 | ZEHNDER'S OF FRANKENMUTH - A FOUR-SEASON FAMILY VACATION DESTINATION - HOTEL, WATERPARK, DINING, SHOPPING & GOLFWelcome to Zehnder's and make yourself at home. This is your web window to our world famous, flagship restaurant Zehnder's of Frankenmuth, our championship golf course The Fortress, our unique shopping experience Zehnder's Marketplace and the aquatic excitement of Zehnder's Splash Village Hotel and Indoor waterpark. Eat, sleep, shop, and play in the Bavarian themed village of Frankenmuth, Michigan. Just 90 miles north of Detroit and voted best day trip in Michigan by Detroit News readers, Zehnder's and Frankenmuth is enjoyed by millions of people each year. |
+| [`MARK-TAYLOR`](https://google.com/search?q=MARK-TAYLOR) | 19/12/2022 | Mark-Taylor Companies is the leading developer, owner, and investment manager of Arizona's premier rental communities. Our mission is to create exceptional communities that invite, inspire, and feel like home. Because we function as a private developer, owner, and operator, our in-house team is able to maintain our high standards throughout every aspect of our business. Today, our diverse business lines as both a principal and service provider allow us to successfully adapt to trends within the real estate industry. |
+| [`Conform`](https://google.com/search?q=Conform) | 18/12/2022 |   |
+| [`All Seasons Global Solutions`](https://google.com/search?q=All+Seasons+Global+Solutions) | 17/12/2022 |   |
+| [`Mol`](https://google.com/search?q=Mol) | 16/12/2022 |   |
+| [`Q.E.P`](https://google.com/search?q=Q.E.P) | 16/12/2022 | QEP Co., Inc. was founded in 1979. The first QEP branded tiling product was a “Do-It-Yourself” Bathtub Edging Kit. In 1981, this Bathtub Edging Kit was picked up by a small 6 store “home improvement” chain called The Home Depot, quickly opening the doors of opportunity for QEP in the tile tool market. Over 30 years later, QEP has become an established and recognized brand, specializing in installation tools and accessories for tile, porcelain and natural stone. Today, QEP products could be found in all 50 of the States and in over 80 countries worldwide. We continually introduce new and innovative products that address the challenges of today’s market including our 900XT 10” Pro Tile Saw that won the Surfaces 2014 Best New Product Award. |
+| [`The Keenan Agency Inc`](https://google.com/search?q=The+Keenan+Agency+Inc) | 16/12/2022 | The Keenan Agency IncHeadquarters:6805 Avery-muirfield Dr Ste 200, Dublin, Ohio, 43016, United StatesPhone Number:(614) 764-7000Revenue: $5 MillionThe Keenan Agency Inc is a leading independent insurance agency in Central Ohio, founded in 1938. As a leader, The Keenan Agency insures thousands of clients nationwide. We provide each client a comprehensive insurance and risk management program tailored to their unique needs.We take pride in our consultative approach; at The Keenan Agency we take the time to understand your changing insurance needs, and will put a personal insurance or business insurance program in place that will deliver economy, superior protection, and risk management assistance. |
+| [`Lamtec`](https://google.com/search?q=Lamtec) | 16/12/2022 | Lamtec Corporation is a global supplier of insulation vapor retarders and facings to the leading manufacturers, laminators and fabricators of fiberglass, rockwool, foam board and tape. Our focus is the building products market, specifically the Metal Building, Duct Wrap, Duct Board, Pipe, Foam Board / Panel, Tape and OEM insulation segments.Lamtec's insulation vapor retarders and facings are engineered to protect insulation from physical abuse and the damaging effects of moisture. In addition, our facings are designed with proprietary flame retardant chemistry to assist you in meeting demanding fire codes and standards.Our technical resources are available to leverage their decades of insulation industry experience to assist you in solving your product and process challenges.For over 40 years, our philosophy has been simple, Design and manufacture the very best in laminated insulation facing / vapor retarders, offer them at competitive pricing, deliver them on time and follow-up with comprehensive technical support. Lamtec's 260,000 square foot facility is situated on a 45 acre site in Northeastern Pennsylvania, convenient to all New York metropolitan area ports and major North-South and East-West interstate highways. |
+| [`Naulty, Scaricamazza and McDevitt, LLC`](https://google.com/search?q=Naulty%2C+Scaricamazza+and+McDevitt%2C+LLC) | 16/12/2022 | NaultyPennsylvania, United States · 56 Employees Headquarters: 1617 Jfk Blvd Ste 750, Philadelphia, Pennsylvania, 19103, United StatesPhone Number: (215) 568-5116Website: www.naulty.comRevenue: $14 MillionNaulty, Scaricamazza & McDevitt was founded in 1952 by the late John F. Naulty following his service as house counsel for two national insurance companies. He was then joined by Angelo L. Scaricamazza and Francis T. McDevitt. Angelo continued to practice law and lead the firm until his untimely passing on December 2, 2020. Francis remains a prominent attorney and leader. The firm has grown from small beginnings to being considered among the most active and respected firms in Pennsylvania, New Jersey and Delaware.Since it’s founding, our firm’s mission continues to be providing the highest level of representation while focusing on the individual needs of our clients. By thoroughly understanding and analyzing clients’ needs, we deliver tangible results that exceed their expectations. Our philosophy has earned us a strong reputation for superior counsel, cost-conscious litigation strategies and loyal clients.Our attorneys are all committed to providing our clients with diligent, aggressive and professionally responsible representation. Our firm’s self-insured clients consist of retail stores, shopping centers, manufacturing companies, trucking companies, and related governmental entities. On the insurance side, the firm has represented almost every type of business in existence. |
+| [`Cristal Controls`](https://google.com/search?q=Cristal+Controls) | 16/12/2022 | Cristal Controls manufactures energy management systems, low voltage lighting control systems, temperature controls, humidity controls, and automation electronic products for manufacturers, specialized distributors, and integrators. We design all our systems and provide the necessary product training.One of our main objectives is to ensure continued growth by delivering high-quality products within the specified deadline. We maintain close business relations with our customers by bringing them the appropriate solutions that truly fulfill their needs.﻿Cristal Controls, manufacturer of SCR and SSR power controllers, and of lighting control systems and energy management systems, was founded in Québec City in 1991. Since its creation, the company has maintained a solid and steady growth. Starting with only two employees and limited production capabilities, Cristal Controls’ team is now made up of almost 30 members, all working together for the success of your projects.With the years, we have gained a solid and considerable expertise in many lines of products, such as SCR and Triac modulating energy controllers, linear step controllers, BACnet’s energy management systems, low voltage lighting control systems, and automation systems.Cristal Controls collaborates with many major companies by providing them with high quality products as well as by developping for them customized solutions that meet their specific needs. |
+| [`M2S Electronics`](https://google.com/search?q=M2S+Electronics) | 16/12/2022 | At M2S Electronics, we are committed to improving the world around us and doing business the right way.The right way for our employees, for our suppliers and partners, for our customers and for the communities in which we live and work.M2S is partnering with manufacturers located in North America, offering electronic value-added subcontracting, designed to meet the customer’s expectations.In accordance with our values: Progress, Control and Harmony. |
+| [`Los Angeles Business Journal`](https://google.com/search?q=Los+Angeles+Business+Journal) | 16/12/2022 | The Los Angeles Business Journal, established in 1979, is a weekly newspaper and online news source in Los Angeles, California, which provides coverage of local business news. According to the Journal's website, it has a weekly print circulation of 24,000 and over 40,000 unique monthly website visitors. It is published each Monday. |
+| [`Virginia Farm Bureau`](https://google.com/search?q=Virginia+Farm+Bureau) | 16/12/2022 | Virginia Farm Bureau is the largest non-profit agricultural advocacy organization in Virginia. With the support of our members, we help protect farming, agriculture, and the Virginia way of life.Virginia Farm Bureau Mutual Insurance Company was founded to protect the lives and livelihoods of Virginia's farmers. But today, we continue to offer the same reliable coverage to all Virginians. |
+| [`McAndrews Law Offices`](https://google.com/search?q=McAndrews+Law+Offices) | 16/12/2022 | McAndrews Law Offices   Founded in 1983 and headquartered in Berwyn, Pennsylvania, McAndrews Law Firm is a legal representation firm. McAndrews Law Offices is a nationally recognized firm that is committed to providing families of Pennsylvania, Delaware, Maryland, the Metropolitan Washington, D.C. Area, and New Jersey with exceptional legal representation.   Since 1982, McAndrews Law Offices has provided exceptional representation on matters involving probate, estate planning, planning when a family member has a disability, special needs trusts, personal injury, guardianship, special education, public benefits for seniors, long-term medical care and elder law. |
+| [`Law Firm of Friedman + Bartoumian`](https://google.com/search?q=Law+Firm+of+Friedman+%2B+Bartoumian) | 16/12/2022 | Friedman & BartoumianCalifornia, United States · 43 EmployeesHeadquarters: 30401 Agoura Rd Ste 200, Agoura Hills, California, 91301, United States(818) 707-1488Facsimile: (818) 707-0490Tax Identification No. 95-4304462https://www.friedmanlawoffices.com/$10 MillionThe Law Firm of Friedman + Bartoumian offers a broad range of legal expertise. Our attorneys have earned the respect of other attorneys, judges and clients throughout California and the nation. In recognition of our legal ability and ethical standards, we have received a high rating from the Martindale-Hubbell organization, the most respected source of authoritative biographical information about members of the legal community worldwide. |
+| [`Tubular Steel Inc`](https://google.com/search?q=Tubular+Steel+Inc) | 16/12/2022 | Tubular Steel Inc is a company that operates in the Mining & Metals industry. It employs 21-50 people and has $10M-$25M of revenue.Headquarters:285 Raleigh Ave, Scarborough, Ontario, M1K 1A5, Canada: (416) 261-9571: www.tubularsteel.ca: $19 MillionTubular Steel Inc. is a North American leader in precision welded steel tube production. Our culture of continuous improvement helps to maintain our leadership role as one of the most forward-thinking carbon steel tube manufacturers in North America. |
+| [`RMCLAW`](https://google.com/search?q=RMCLAW) | 16/12/2022 |   |
+| [`Cates Control Systems`](https://google.com/search?q=Cates+Control+Systems) | 16/12/2022 |   |
+| [`Trussbilt LLC`](https://google.com/search?q=Trussbilt+LLC) | 16/12/2022 |   |
+| [`Duplicator Sales & Service`](https://google.com/search?q=Duplicator+Sales+%26+Service) | 16/12/2022 |   |
+| [`PGT Innovations`](https://google.com/search?q=PGT+Innovations) | 16/12/2022 |   |
+| [`Summit`](https://google.com/search?q=Summit) | 16/12/2022 |   |
+| [`Adams-Friendship Area School District`](https://google.com/search?q=Adams-Friendship+Area+School+District) | 16/12/2022 |   |
+| [`Vincent Fister`](https://google.com/search?q=Vincent+Fister) | 16/12/2022 |   |
+| [`Leo Hamel Fine Jewelers`](https://google.com/search?q=Leo+Hamel+Fine+Jewelers) | 16/12/2022 |   |
+| [`https://allseasonmovers.com`](https://google.com/search?q=https%3A%2F%2Fallseasonmovers.com) | 03/12/2022 |   |
+| [`http://www.pgtinnovations.com`](https://google.com/search?q=http%3A%2F%2Fwww.pgtinnovations.com) | 02/12/2022 |   |
+| [`http://www.yoursummit.com`](https://google.com/search?q=http%3A%2F%2Fwww.yoursummit.com) | 02/12/2022 |   |
+| [`https://www.rmclaw.net/`](https://google.com/search?q=https%3A%2F%2Fwww.rmclaw.net%2F) | 29/11/2022 |   |
+| [`https://www.cates.com`](https://google.com/search?q=https%3A%2F%2Fwww.cates.com) | 28/11/2022 |   |
+| [`https://tubularsteel.ca`](https://google.com/search?q=https%3A%2F%2Ftubularsteel.ca) | 28/11/2022 |   |
+| [`https://www.friedmanlawoffices.com/`](https://google.com/search?q=https%3A%2F%2Fwww.friedmanlawoffices.com%2F) | 26/11/2022 |   |
+| [`https://www.labusinessjournal.com`](https://google.com/search?q=https%3A%2F%2Fwww.labusinessjournal.com) | 24/11/2022 |   |
+| [`https://mcandrewslaw.com/`](https://google.com/search?q=https%3A%2F%2Fmcandrewslaw.com%2F) | 20/11/2022 |   |
+| [`https://www.vafb.com`](https://google.com/search?q=https%3A%2F%2Fwww.vafb.com) | 18/11/2022 |   |
+| [`https://naulty.com/`](https://google.com/search?q=https%3A%2F%2Fnaulty.com%2F) | 18/11/2022 |   |
+| [`https://www.m2selectronics.com`](https://google.com/search?q=https%3A%2F%2Fwww.m2selectronics.com) | 17/11/2022 |   |
+| [`https://www.cristalcontrols.com`](https://google.com/search?q=https%3A%2F%2Fwww.cristalcontrols.com) | 15/11/2022 |   |
+| [`http://www.lamtec.com`](https://google.com/search?q=http%3A%2F%2Fwww.lamtec.com) | 15/11/2022 |   |
+| [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | 15/11/2022 |   |
+| [`https://www.qep.com`](https://google.com/search?q=https%3A%2F%2Fwww.qep.com) | 11/11/2022 |   |
+| [`http://bfernandez.com`](https://google.com/search?q=http%3A%2F%2Fbfernandez.com) | 11/11/2022 |   |
+| [`http://www.adven.com`](https://google.com/search?q=http%3A%2F%2Fwww.adven.com) | 09/11/2022 |   |
+| [`http://www.silverstone.co.uk`](https://google.com/search?q=http%3A%2F%2Fwww.silverstone.co.uk) | 09/11/2022 |   |
+| [`http://www.zender.de`](https://google.com/search?q=http%3A%2F%2Fwww.zender.de) | 09/11/2022 |   |
+| [`http://www.h-ortmeier.de`](https://google.com/search?q=http%3A%2F%2Fwww.h-ortmeier.de) | 08/11/2022 |   |
+| [`http://aviso.ci`](https://google.com/search?q=http%3A%2F%2Faviso.ci) | 08/11/2022 |   |
+| [`https://www.sohnen.com/`](https://google.com/search?q=https%3A%2F%2Fwww.sohnen.com%2F) | 07/11/2022 |   |
+| [`http://ivacorm.com`](https://google.com/search?q=http%3A%2F%2Fivacorm.com) | 07/11/2022 |   |
+| [`http://www.sheehanfamilycompanies.com`](https://google.com/search?q=http%3A%2F%2Fwww.sheehanfamilycompanies.com) | 07/11/2022 |   |
+| [`https://www.zoominfo.com/c/maynards-industries-ltd/24117794`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fmaynards-industries-ltd%2F24117794) | 05/11/2022 |   |
+| [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | 04/11/2022 |   |
+| [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | 04/11/2022 |   |
+| [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | 04/11/2022 |   |
+| [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | 04/11/2022 |   |
+| [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | 04/11/2022 |   |
+| [`https://millermilling.com`](https://google.com/search?q=https%3A%2F%2Fmillermilling.com) | 04/11/2022 |   |
+| [`https://www.sunwell.com`](https://google.com/search?q=https%3A%2F%2Fwww.sunwell.com) | 04/11/2022 |   |
+| [`http://www.power-soft.com`](https://google.com/search?q=http%3A%2F%2Fwww.power-soft.com) | 04/11/2022 |   |
+| [`https://orthoexperts.com/`](https://google.com/search?q=https%3A%2F%2Forthoexperts.com%2F) | 04/11/2022 |   |
+| [`https://www.mmemed.com`](https://google.com/search?q=https%3A%2F%2Fwww.mmemed.com) | 04/11/2022 |   |
+| [`https://www.infocision.com`](https://google.com/search?q=https%3A%2F%2Fwww.infocision.com) | 04/11/2022 |   |
+| [`http://www.wiseyes.net`](https://google.com/search?q=http%3A%2F%2Fwww.wiseyes.net) | 04/11/2022 |   |
+| [`http://www.royalimaging.com`](https://google.com/search?q=http%3A%2F%2Fwww.royalimaging.com) | 04/11/2022 |   |
+| [`https://www.whitneyoilco.com`](https://google.com/search?q=https%3A%2F%2Fwww.whitneyoilco.com) | 04/11/2022 |   |
+| [`http://www.pandafunds.com`](https://google.com/search?q=http%3A%2F%2Fwww.pandafunds.com) | 04/11/2022 |   |
+| [`http://www.veroni.it`](https://google.com/search?q=http%3A%2F%2Fwww.veroni.it) | 04/11/2022 |   |
+| [`http://www.pressco.com`](https://google.com/search?q=http%3A%2F%2Fwww.pressco.com) | 04/11/2022 |   |
+| [`http://www.cymax.com`](https://google.com/search?q=http%3A%2F%2Fwww.cymax.com) | 04/11/2022 |   |
+| [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | 04/11/2022 |   |
+| [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | 04/11/2022 |   |
+| [`https://nmhsi.org`](https://google.com/search?q=https%3A%2F%2Fnmhsi.org) | 04/11/2022 |   |
+| [`https://www.prioritypower.net`](https://google.com/search?q=https%3A%2F%2Fwww.prioritypower.net) | 04/11/2022 |   |
+| [`https://happysapiensdental.com`](https://google.com/search?q=https%3A%2F%2Fhappysapiensdental.com) | 04/11/2022 |   |
+| [`https://www.caminorealkitchens.com`](https://google.com/search?q=https%3A%2F%2Fwww.caminorealkitchens.com) | 04/11/2022 |   |
+| [`https://www.benbrooklibrary.org`](https://google.com/search?q=https%3A%2F%2Fwww.benbrooklibrary.org) | 04/11/2022 |   |
+| [`https://millermilling.com`](https://google.com/search?q=https%3A%2F%2Fmillermilling.com) | 04/11/2022 |   |
+| [`https://www.sunwell.com`](https://google.com/search?q=https%3A%2F%2Fwww.sunwell.com) | 04/11/2022 |   |
+| [`http://www.power-soft.com`](https://google.com/search?q=http%3A%2F%2Fwww.power-soft.com) | 04/11/2022 |   |
+| [`https://orthoexperts.com/`](https://google.com/search?q=https%3A%2F%2Forthoexperts.com%2F) | 04/11/2022 |   |
+| [`https://www.mmemed.com`](https://google.com/search?q=https%3A%2F%2Fwww.mmemed.com) | 04/11/2022 |   |
+| [`https://www.infocision.com`](https://google.com/search?q=https%3A%2F%2Fwww.infocision.com) | 04/11/2022 |   |
+| [`http://www.wiseyes.net`](https://google.com/search?q=http%3A%2F%2Fwww.wiseyes.net) | 04/11/2022 |   |
+| [`http://www.royalimaging.com`](https://google.com/search?q=http%3A%2F%2Fwww.royalimaging.com) | 04/11/2022 |   |
+| [`https://www.whitneyoilco.com`](https://google.com/search?q=https%3A%2F%2Fwww.whitneyoilco.com) | 04/11/2022 |   |
+| [`http://www.pandafunds.com`](https://google.com/search?q=http%3A%2F%2Fwww.pandafunds.com) | 04/11/2022 |   |
+| [`http://www.veroni.it`](https://google.com/search?q=http%3A%2F%2Fwww.veroni.it) | 04/11/2022 |   |
+| [`http://www.pressco.com`](https://google.com/search?q=http%3A%2F%2Fwww.pressco.com) | 04/11/2022 |   |
+| [`http://www.cymax.com`](https://google.com/search?q=http%3A%2F%2Fwww.cymax.com) | 04/11/2022 |   |
+| [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | 04/11/2022 |   |
+| [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | 04/11/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7369,23 +7372,23 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `aria-label=Google>` | 28/02/2022 |   |
-| `JALEEL TRADERS LLC` | 15/01/2022 |   |
-| `ASL Napoli 3 Sud Network Seized` | 14/01/2022 |   |
-| `Protected: PRIVATE POST  ITALY` | 12/01/2022 |   |
-| `Summit College` | 04/01/2022 |   |
-| `Close drawer` | 04/01/2022 |   |
-| `Close search modal` | 04/01/2022 |   |
-| `TRIGYN 2 0  Data Leak` | 28/12/2021 |   |
-| `Prenax` | 20/12/2021 |   |
-| `Social Enterprise (SEC)` | 12/12/2021 |   |
-| `Trigyn Technologies Ltd` | 10/12/2021 |   |
-| `Flagship` | 22/11/2021 |   |
-| `Stoningtonschools` | 22/11/2021 |   |
-| `AISD` | 22/11/2021 |   |
-| `Starline` | 22/11/2021 |   |
-| `RocTechnologies` | 22/11/2021 |   |
-| `MCP Services LLC` | 22/11/2021 |   |
+| [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | 28/02/2022 |   |
+| [`JALEEL TRADERS LLC`](https://google.com/search?q=JALEEL+TRADERS+LLC) | 15/01/2022 |   |
+| [`ASL Napoli 3 Sud Network Seized`](https://google.com/search?q=ASL+Napoli+3+Sud+Network+Seized) | 14/01/2022 |   |
+| [`Protected: PRIVATE POST  ITALY`](https://google.com/search?q=Protected%3A+PRIVATE+POST++ITALY) | 12/01/2022 |   |
+| [`Summit College`](https://google.com/search?q=Summit+College) | 04/01/2022 |   |
+| [`Close drawer`](https://google.com/search?q=Close+drawer) | 04/01/2022 |   |
+| [`Close search modal`](https://google.com/search?q=Close+search+modal) | 04/01/2022 |   |
+| [`TRIGYN 2 0  Data Leak`](https://google.com/search?q=TRIGYN+2+0+%7C+Data+Leak) | 28/12/2021 |   |
+| [`Prenax`](https://google.com/search?q=Prenax) | 20/12/2021 |   |
+| [`Social Enterprise (SEC)`](https://google.com/search?q=Social+Enterprise+%28SEC%29) | 12/12/2021 |   |
+| [`Trigyn Technologies Ltd`](https://google.com/search?q=Trigyn+Technologies+Ltd) | 10/12/2021 |   |
+| [`Flagship`](https://google.com/search?q=Flagship) | 22/11/2021 |   |
+| [`Stoningtonschools`](https://google.com/search?q=Stoningtonschools) | 22/11/2021 |   |
+| [`AISD`](https://google.com/search?q=AISD) | 22/11/2021 |   |
+| [`Starline`](https://google.com/search?q=Starline) | 22/11/2021 |   |
+| [`RocTechnologies`](https://google.com/search?q=RocTechnologies) | 22/11/2021 |   |
+| [`MCP Services LLC`](https://google.com/search?q=MCP+Services+LLC) | 22/11/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7406,10 +7409,10 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `Welcome to new customers!` | 01/11/2022 |   |
-| `Some of our customers was not payed to us for data decryption. So we publish some of his d` | 01/11/2022 |   |
-| `Update for boxerproperty` | 01/11/2022 |   |
-| `Greetings to havi.com and tmsw.com` | 01/11/2022 |   |
+| [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | 01/11/2022 |   |
+| [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | 01/11/2022 |   |
+| [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | 01/11/2022 |   |
+| [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | 01/11/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7451,66 +7454,66 @@ _`shut down & offering a decryptor`_
 | [`TCL Chinese Theatres`]() | 28/12/2022 | The TCL Chinese Theatre is the most iconic movie palace in the world. With over 50 events a year, including movie premieres, imprint ceremonies, and film festivals, the theatre continues to make Hollywood history every day. |
 | [`Trubee, Collins & Co`]() | 28/12/2022 | Trubee, Collins & Co., Inc. is one of the oldest, independently-owned Financial Services in Western New York. Established in 1940, Trubee, Collins & Co., Inc. has earned the respect of our clients by demonstrating competence, integrity and a solid long term investment philosophy. The company |
 | [`Einatec`]() | 28/12/2022 | Nuestros equipos han desarrollado desde aplicaciones multiplataforma hasta grandes infraestructuras IT. Y nuestras mentes creativas se encargan del branding, diseño y el marketing de nuestros clientes. |
-| `STGi` | 28/11/2022 |   |
-| `McGRATH` | 20/11/2022 |   |
-| `SAIPRESS` | 20/11/2022 |   |
-| `YASH Technologies` | 13/11/2022 |   |
-| `Saurer` | 13/11/2022 |   |
-| `Grandview, MO` | 01/11/2022 |   |
-| `HENSOLDT France` | 30/10/2022 |   |
-| `Kenosha Unified School District` | 24/10/2022 |   |
-| `Weidmuller` | 19/10/2022 |   |
-| `OPPLE Lighting` | 05/10/2022 |   |
-| `Empower Insurance` | 05/10/2022 |   |
-| `Unicity` | 05/10/2022 |   |
-| `Oil India Limited` | 05/10/2022 |   |
-| `Stratford University` | 17/08/2022 |   |
-| `Atlantic Dialysis Management Services` | 30/06/2022 |   |
-| `Apex` | 29/06/2022 |   |
-| `HEMERIA` | 22/05/2022 |   |
-| `Yip in Tsoi` | 31/03/2022 |   |
-| `Xtera` | 08/03/2022 |   |
-| `Warren Resources` | 08/03/2022 |   |
-| `Private company #2` | 03/03/2022 |   |
-| `McDonald's` | 25/02/2022 |   |
-| `CIELD` | 19/02/2022 |   |
-| `PFEIFER Drako` | 19/02/2022 |   |
-| `PetroVietnam` | 09/02/2022 |   |
-| `Overseas Travel Agency` | 02/02/2022 |   |
-| `Mab Group` | 27/01/2022 |   |
-| `Thomson Broadbent` | 25/01/2022 |   |
-| `Vehicle Service Group` | 18/01/2022 |   |
-| `Hall Cross Academy` | 18/01/2022 |   |
-| `Private Company` | 16/01/2022 |   |
-| `Hanon Systems` | 13/01/2022 |   |
-| `HAPOLO` | 13/01/2022 |   |
-| `TaxNetUSA` | 11/01/2022 |   |
-| `Premium Transportation Group` | 05/01/2022 |   |
-| `TUI UK` | 26/12/2021 |   |
-| `LAVA` | 26/12/2021 |   |
-| `Leuze` | 21/12/2021 |   |
-| `InTown Suites` | 21/12/2021 |   |
-| `leuzeusa.com` | 21/12/2021 |   |
-| `Skyxe Saskatoon Airport` | 20/12/2021 |   |
-| `The ExecuSearch Group` | 14/12/2021 |   |
-| `ABC Seamless` | 14/12/2021 |   |
-| `Medical Pharmacies` | 10/12/2021 |   |
-| `Altrux Medical` | 07/12/2021 |   |
-| `Fittingbox` | 07/12/2021 |   |
-| `Lootah Group` | 02/12/2021 |   |
-| `CareFirst CHPDC` | 02/12/2021 |   |
-| `Volvo Car Corporation` | 30/11/2021 |   |
-| `QRS Healthcare Solutions` | 30/11/2021 |   |
-| `Amtech Corporation` | 29/11/2021 |   |
-| `APG Neuros` | 29/11/2021 |   |
-| `Salinen Austria` | 29/11/2021 |   |
-| `Ishida` | 29/11/2021 |   |
-| `Arbitech` | 29/11/2021 |   |
-| `Daylesford Organic` | 29/11/2021 |   |
-| `Bock, Hatch, Lewis & Oppenheim, LLC` | 29/11/2021 |   |
-| `Landmark Builders` | 29/11/2021 |   |
-| `Match MG` | 29/11/2021 |   |
-| `Cadence Aerospace` | 29/11/2021 |   |
+| [`STGi`](https://google.com/search?q=STGi) | 28/11/2022 |   |
+| [`McGRATH`](https://google.com/search?q=McGRATH) | 20/11/2022 |   |
+| [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | 20/11/2022 |   |
+| [`YASH Technologies`](https://google.com/search?q=YASH+Technologies) | 13/11/2022 |   |
+| [`Saurer`](https://google.com/search?q=Saurer) | 13/11/2022 |   |
+| [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | 01/11/2022 |   |
+| [`HENSOLDT France`](https://google.com/search?q=HENSOLDT+France) | 30/10/2022 |   |
+| [`Kenosha Unified School District`](https://google.com/search?q=Kenosha+Unified+School+District) | 24/10/2022 |   |
+| [`Weidmuller`](https://google.com/search?q=Weidmuller) | 19/10/2022 |   |
+| [`OPPLE Lighting`](https://google.com/search?q=OPPLE+Lighting) | 05/10/2022 |   |
+| [`Empower Insurance`](https://google.com/search?q=Empower+Insurance) | 05/10/2022 |   |
+| [`Unicity`](https://google.com/search?q=Unicity) | 05/10/2022 |   |
+| [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | 05/10/2022 |   |
+| [`Stratford University`](https://google.com/search?q=Stratford+University) | 17/08/2022 |   |
+| [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | 30/06/2022 |   |
+| [`Apex`](https://google.com/search?q=Apex) | 29/06/2022 |   |
+| [`HEMERIA`](https://google.com/search?q=HEMERIA) | 22/05/2022 |   |
+| [`Yip in Tsoi`](https://google.com/search?q=Yip+in+Tsoi) | 31/03/2022 |   |
+| [`Xtera`](https://google.com/search?q=Xtera) | 08/03/2022 |   |
+| [`Warren Resources`](https://google.com/search?q=Warren+Resources) | 08/03/2022 |   |
+| [`Private company #2`](https://google.com/search?q=Private+company+%232) | 03/03/2022 |   |
+| [`McDonald's`](https://google.com/search?q=McDonald%27s) | 25/02/2022 |   |
+| [`CIELD`](https://google.com/search?q=CIELD) | 19/02/2022 |   |
+| [`PFEIFER Drako`](https://google.com/search?q=PFEIFER+Drako) | 19/02/2022 |   |
+| [`PetroVietnam`](https://google.com/search?q=PetroVietnam) | 09/02/2022 |   |
+| [`Overseas Travel Agency`](https://google.com/search?q=Overseas+Travel+Agency) | 02/02/2022 |   |
+| [`Mab Group`](https://google.com/search?q=Mab+Group) | 27/01/2022 |   |
+| [`Thomson Broadbent`](https://google.com/search?q=Thomson+Broadbent) | 25/01/2022 |   |
+| [`Vehicle Service Group`](https://google.com/search?q=Vehicle+Service+Group) | 18/01/2022 |   |
+| [`Hall Cross Academy`](https://google.com/search?q=Hall+Cross+Academy) | 18/01/2022 |   |
+| [`Private Company`](https://google.com/search?q=Private+Company) | 16/01/2022 |   |
+| [`Hanon Systems`](https://google.com/search?q=Hanon+Systems) | 13/01/2022 |   |
+| [`HAPOLO`](https://google.com/search?q=HAPOLO) | 13/01/2022 |   |
+| [`TaxNetUSA`](https://google.com/search?q=TaxNetUSA) | 11/01/2022 |   |
+| [`Premium Transportation Group`](https://google.com/search?q=Premium+Transportation+Group) | 05/01/2022 |   |
+| [`TUI UK`](https://google.com/search?q=TUI+UK) | 26/12/2021 |   |
+| [`LAVA`](https://google.com/search?q=LAVA) | 26/12/2021 |   |
+| [`Leuze`](https://google.com/search?q=Leuze) | 21/12/2021 |   |
+| [`InTown Suites`](https://google.com/search?q=InTown+Suites) | 21/12/2021 |   |
+| [`leuzeusa.com`](https://google.com/search?q=leuzeusa.com) | 21/12/2021 |   |
+| [`Skyxe Saskatoon Airport`](https://google.com/search?q=Skyxe+Saskatoon+Airport) | 20/12/2021 |   |
+| [`The ExecuSearch Group`](https://google.com/search?q=The+Execu%7CSearch+Group) | 14/12/2021 |   |
+| [`ABC Seamless`](https://google.com/search?q=ABC+Seamless) | 14/12/2021 |   |
+| [`Medical Pharmacies`](https://google.com/search?q=Medical+Pharmacies) | 10/12/2021 |   |
+| [`Altrux Medical`](https://google.com/search?q=Altrux+Medical) | 07/12/2021 |   |
+| [`Fittingbox`](https://google.com/search?q=Fittingbox) | 07/12/2021 |   |
+| [`Lootah Group`](https://google.com/search?q=Lootah+Group) | 02/12/2021 |   |
+| [`CareFirst CHPDC`](https://google.com/search?q=CareFirst+CHPDC) | 02/12/2021 |   |
+| [`Volvo Car Corporation`](https://google.com/search?q=Volvo+Car+Corporation) | 30/11/2021 |   |
+| [`QRS Healthcare Solutions`](https://google.com/search?q=QRS+Healthcare+Solutions) | 30/11/2021 |   |
+| [`Amtech Corporation`](https://google.com/search?q=Amtech+Corporation) | 29/11/2021 |   |
+| [`APG Neuros`](https://google.com/search?q=APG+Neuros) | 29/11/2021 |   |
+| [`Salinen Austria`](https://google.com/search?q=Salinen+Austria) | 29/11/2021 |   |
+| [`Ishida`](https://google.com/search?q=Ishida) | 29/11/2021 |   |
+| [`Arbitech`](https://google.com/search?q=Arbitech) | 29/11/2021 |   |
+| [`Daylesford Organic`](https://google.com/search?q=Daylesford+Organic) | 29/11/2021 |   |
+| [`Bock, Hatch, Lewis & Oppenheim, LLC`](https://google.com/search?q=Bock%2C+Hatch%2C+Lewis+%26+Oppenheim%2C+LLC) | 29/11/2021 |   |
+| [`Landmark Builders`](https://google.com/search?q=Landmark+Builders) | 29/11/2021 |   |
+| [`Match MG`](https://google.com/search?q=Match+MG) | 29/11/2021 |   |
+| [`Cadence Aerospace`](https://google.com/search?q=Cadence+Aerospace) | 29/11/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7553,22 +7556,22 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `GRUPO COPISA` | 22/09/2022 |   |
-| `MR. WONDERFUL` | 14/09/2022 |   |
-| `AUTO88` | 14/09/2022 |   |
-| `FONT PACKAGING` | 14/09/2022 |   |
-| `Gallery Hotels` | 13/09/2022 |   |
-| `Auto88` | 13/09/2022 |   |
-| `Font Packaging` | 13/09/2022 |   |
-| `Ferrer&Ojeda` | 13/09/2022 |   |
-| `Tema Litoclean Group` | 13/09/2022 |   |
-| `Grupo Galilea` | 13/09/2022 |   |
-| `FundaciÃ³ Sant Francesc d'AssÃ­s ` | 13/09/2022 |   |
-| `INDIBA` | 13/09/2022 |   |
-| `RIVISA` | 13/09/2022 |   |
-| `RABAT` | 13/09/2022 |   |
-| `COMSA CORPORATION` | 13/09/2022 |   |
-| `SERCOM` | 13/09/2022 |   |
+| [`GRUPO COPISA`](https://google.com/search?q=GRUPO+COPISA) | 22/09/2022 |   |
+| [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | 14/09/2022 |   |
+| [`AUTO88`](https://google.com/search?q=AUTO88) | 14/09/2022 |   |
+| [`FONT PACKAGING`](https://google.com/search?q=FONT+PACKAGING) | 14/09/2022 |   |
+| [`Gallery Hotels`](https://google.com/search?q=Gallery+Hotels) | 13/09/2022 |   |
+| [`Auto88`](https://google.com/search?q=Auto88) | 13/09/2022 |   |
+| [`Font Packaging`](https://google.com/search?q=Font+Packaging) | 13/09/2022 |   |
+| [`Ferrer&Ojeda`](https://google.com/search?q=Ferrer%26Ojeda) | 13/09/2022 |   |
+| [`Tema Litoclean Group`](https://google.com/search?q=Tema+Litoclean+Group) | 13/09/2022 |   |
+| [`Grupo Galilea`](https://google.com/search?q=Grupo+Galilea) | 13/09/2022 |   |
+| [`FundaciÃ³ Sant Francesc d'AssÃ­s `](https://google.com/search?q=Fundaci%C3%83%C2%B3+Sant+Francesc+d%27Ass%C3%83%C2%ADs+) | 13/09/2022 |   |
+| [`INDIBA`](https://google.com/search?q=INDIBA) | 13/09/2022 |   |
+| [`RIVISA`](https://google.com/search?q=RIVISA) | 13/09/2022 |   |
+| [`RABAT`](https://google.com/search?q=RABAT) | 13/09/2022 |   |
+| [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | 13/09/2022 |   |
+| [`SERCOM`](https://google.com/search?q=SERCOM) | 13/09/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7589,41 +7592,41 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `North Island` | 19/10/2021 |   |
-| `All County Surveying Inc` | 19/10/2021 |   |
-| `Page Automation` | 19/10/2021 |   |
-| `Toos Asphalt Company` | 18/10/2021 |   |
-| `Grupo Vía` | 18/10/2021 |   |
-| `NOF CORPORATION` | 16/10/2021 |   |
-| `Apex Filling Systems` | 16/10/2021 |   |
-| `Princess Yachts International` | 13/10/2021 |   |
-| `Neofidelys` | 12/10/2021 |   |
-| `Paris Society` | 12/10/2021 |   |
-| `VKP` | 11/10/2021 |   |
-| `Ferretti International` | 11/10/2021 |   |
-| `CABINET FONT GUILLOT` | 10/10/2021 |   |
-| `Sbc Studio` | 10/10/2021 |   |
-| `Audras &#038; Delaunois` | 09/10/2021 |   |
-| `TV FUEGO` | 09/10/2021 |   |
-| `Kurier` | 09/10/2021 |   |
-| `Kern Glass and Aluminum Company` | 08/10/2021 |   |
-| `La SECAN` | 08/10/2021 |   |
-| `Gestão Contabilidade Empresarial` | 07/10/2021 |   |
-| `MOLNÁRBETON Kft.` | 06/10/2021 |   |
-| `COURTOISE MOTORS` | 05/10/2021 |   |
-| `Cock Foods Co., Ltd.` | 05/10/2021 |   |
-| `Legendary, Inc.` | 05/10/2021 |   |
-| `Sashida warehouse CO., Ltd` | 04/10/2021 |   |
-| `GLOBAL PROTEIN` | 04/10/2021 |   |
-| `Van Dijk De Jongh Notarissen` | 04/10/2021 |   |
-| `TOA ELECTRIC INDUSTRIAL CO., LTD.` | 04/10/2021 |   |
-| `I&#8217;M CORPORATION(SUZHOU)CO.,LTD` | 04/10/2021 |   |
-| `ORLANDO IMPORT-EXPORT 2001 SRL` | 04/10/2021 |   |
-| `VIASHOPPING` | 04/10/2021 |   |
-| `Pierce Property Management, Inc.` | 04/10/2021 |   |
-| `ASISMED S.A.` | 04/10/2021 |   |
-| `Transports Verlhac et Fils` | 04/10/2021 |   |
-| `Verhoff Machine &#038; Welding` | 04/10/2021 |   |
+| [`North Island`](https://google.com/search?q=North+Island) | 19/10/2021 |   |
+| [`All County Surveying Inc`](https://google.com/search?q=All+County+Surveying+Inc) | 19/10/2021 |   |
+| [`Page Automation`](https://google.com/search?q=Page+Automation) | 19/10/2021 |   |
+| [`Toos Asphalt Company`](https://google.com/search?q=Toos+Asphalt+Company) | 18/10/2021 |   |
+| [`Grupo Vía`](https://google.com/search?q=Grupo+V%C3%ADa) | 18/10/2021 |   |
+| [`NOF CORPORATION`](https://google.com/search?q=NOF+CORPORATION) | 16/10/2021 |   |
+| [`Apex Filling Systems`](https://google.com/search?q=Apex+Filling+Systems) | 16/10/2021 |   |
+| [`Princess Yachts International`](https://google.com/search?q=Princess+Yachts+International) | 13/10/2021 |   |
+| [`Neofidelys`](https://google.com/search?q=Neofidelys) | 12/10/2021 |   |
+| [`Paris Society`](https://google.com/search?q=Paris+Society) | 12/10/2021 |   |
+| [`VKP`](https://google.com/search?q=VKP) | 11/10/2021 |   |
+| [`Ferretti International`](https://google.com/search?q=Ferretti+International) | 11/10/2021 |   |
+| [`CABINET FONT GUILLOT`](https://google.com/search?q=CABINET+FONT+GUILLOT) | 10/10/2021 |   |
+| [`Sbc Studio`](https://google.com/search?q=Sbc+Studio) | 10/10/2021 |   |
+| [`Audras &#038; Delaunois`](https://google.com/search?q=Audras+%26%23038%3B+Delaunois) | 09/10/2021 |   |
+| [`TV FUEGO`](https://google.com/search?q=TV+FUEGO) | 09/10/2021 |   |
+| [`Kurier`](https://google.com/search?q=Kurier) | 09/10/2021 |   |
+| [`Kern Glass and Aluminum Company`](https://google.com/search?q=Kern+Glass+and+Aluminum+Company) | 08/10/2021 |   |
+| [`La SECAN`](https://google.com/search?q=La+SECAN) | 08/10/2021 |   |
+| [`Gestão Contabilidade Empresarial`](https://google.com/search?q=Gest%C3%A3o+Contabilidade+Empresarial) | 07/10/2021 |   |
+| [`MOLNÁRBETON Kft.`](https://google.com/search?q=MOLN%C3%81RBETON+Kft.) | 06/10/2021 |   |
+| [`COURTOISE MOTORS`](https://google.com/search?q=COURTOISE+MOTORS) | 05/10/2021 |   |
+| [`Cock Foods Co., Ltd.`](https://google.com/search?q=Cock+Foods+Co.%2C+Ltd.) | 05/10/2021 |   |
+| [`Legendary, Inc.`](https://google.com/search?q=Legendary%2C+Inc.) | 05/10/2021 |   |
+| [`Sashida warehouse CO., Ltd`](https://google.com/search?q=Sashida+warehouse+CO.%2C+Ltd) | 04/10/2021 |   |
+| [`GLOBAL PROTEIN`](https://google.com/search?q=GLOBAL+PROTEIN) | 04/10/2021 |   |
+| [`Van Dijk De Jongh Notarissen`](https://google.com/search?q=Van+Dijk+De+Jongh+Notarissen) | 04/10/2021 |   |
+| [`TOA ELECTRIC INDUSTRIAL CO., LTD.`](https://google.com/search?q=TOA+ELECTRIC+INDUSTRIAL+CO.%2C+LTD.) | 04/10/2021 |   |
+| [`I&#8217;M CORPORATION(SUZHOU)CO.,LTD`](https://google.com/search?q=I%26%238217%3BM+CORPORATION%28SUZHOU%29CO.%2CLTD) | 04/10/2021 |   |
+| [`ORLANDO IMPORT-EXPORT 2001 SRL`](https://google.com/search?q=ORLANDO+IMPORT-EXPORT+2001+SRL) | 04/10/2021 |   |
+| [`VIASHOPPING`](https://google.com/search?q=VIASHOPPING) | 04/10/2021 |   |
+| [`Pierce Property Management, Inc.`](https://google.com/search?q=Pierce+Property+Management%2C+Inc.) | 04/10/2021 |   |
+| [`ASISMED S.A.`](https://google.com/search?q=ASISMED+S.A.) | 04/10/2021 |   |
+| [`Transports Verlhac et Fils`](https://google.com/search?q=Transports+Verlhac+et+Fils) | 04/10/2021 |   |
+| [`Verhoff Machine &#038; Welding`](https://google.com/search?q=Verhoff+Machine+%26%23038%3B+Welding) | 04/10/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7647,24 +7650,24 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `ioi` | 09/05/2022 |   |
-| `Danaher` | 25/04/2022 |   |
-| `Mattele` | 25/04/2022 |   |
-| `Coca-Cola` | 25/04/2022 |   |
-| `Epic Games Data Breach` | 12/04/2022 |   |
-| `National Rehabilitation Training Center` | 12/04/2022 |   |
-| `ALAM LMS` | 12/04/2022 |   |
-| `Delhi Heights School` | 12/04/2022 |   |
-| `Success Neeti` | 12/04/2022 |   |
-| `A message to France` | 04/04/2022 |   |
-| `infotech ua` | 31/03/2022 |   |
-| `Smith Transport company` | 28/03/2022 |   |
-| `MIGROS` | 28/03/2022 |   |
-| `3S Standard Sharing Software` | 24/03/2022 |   |
-| `Satz Kontor GmbH data` | 23/03/2022 |   |
-| `Aurora hacked data` | 22/03/2022 |   |
-| `Core Design` | 22/03/2022 |   |
-| `Company ENOS PROPERTIES` | 22/03/2022 |   |
+| [`ioi`](https://google.com/search?q=ioi) | 09/05/2022 |   |
+| [`Danaher`](https://google.com/search?q=Danaher) | 25/04/2022 |   |
+| [`Mattele`](https://google.com/search?q=Mattele) | 25/04/2022 |   |
+| [`Coca-Cola`](https://google.com/search?q=Coca-Cola) | 25/04/2022 |   |
+| [`Epic Games Data Breach`](https://google.com/search?q=Epic+Games+Data+Breach) | 12/04/2022 |   |
+| [`National Rehabilitation Training Center`](https://google.com/search?q=National+Rehabilitation+Training+Center) | 12/04/2022 |   |
+| [`ALAM LMS`](https://google.com/search?q=ALAM+LMS) | 12/04/2022 |   |
+| [`Delhi Heights School`](https://google.com/search?q=Delhi+Heights+School) | 12/04/2022 |   |
+| [`Success Neeti`](https://google.com/search?q=Success+Neeti) | 12/04/2022 |   |
+| [`A message to France`](https://google.com/search?q=A+message+to+France) | 04/04/2022 |   |
+| [`infotech ua`](https://google.com/search?q=infotech+ua) | 31/03/2022 |   |
+| [`Smith Transport company`](https://google.com/search?q=Smith+Transport+company) | 28/03/2022 |   |
+| [`MIGROS`](https://google.com/search?q=MIGROS) | 28/03/2022 |   |
+| [`3S Standard Sharing Software`](https://google.com/search?q=3S+Standard+Sharing+Software) | 24/03/2022 |   |
+| [`Satz Kontor GmbH data`](https://google.com/search?q=Satz+Kontor+GmbH+data) | 23/03/2022 |   |
+| [`Aurora hacked data`](https://google.com/search?q=Aurora+hacked+data) | 22/03/2022 |   |
+| [`Core Design`](https://google.com/search?q=Core+Design) | 22/03/2022 |   |
+| [`Company ENOS PROPERTIES`](https://google.com/search?q=Company+ENOS+PROPERTIES) | 22/03/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7727,36 +7730,36 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| `SOCOTEC` | 18/06/2022 |   |
-| `Northeastern Technical College` | 04/06/2022 |   |
-| `Co-opbank Pertama` | 24/04/2022 |   |
-| `DJS associate` | 16/04/2022 |   |
-| `Gemeente Buren` | 14/04/2022 |   |
-| `Atlas Copco` | 14/04/2022 |   |
-| `Oklahoma City Indian Clinic` | 28/03/2022 |   |
-| `FitFlop Ltd.` | 17/03/2022 |   |
-| `Migros` | 16/03/2022 |   |
-| `Royal Smilde` | 21/02/2022 |   |
-| `CENTRAL BAPTIST COLLEGE` | 21/02/2022 |   |
-| `KVK Tech  Specialty Brands and Generics` | 15/02/2022 |   |
-| `Heartland Alliance` | 08/02/2022 |   |
-| `Community Health Center  Valle del Sol` | 08/02/2022 |   |
-| `Consumers Supply Distributing LLC` | 05/02/2022 |   |
-| `Bohlin Cywinski Jackson` | 03/12/2021 |   |
-| `Read more` | 30/11/2021 |   |
-| `Hospitality Furnishings & Design Inc.` | 19/11/2021 |   |
-| `Herman & Kittle Properties Inc.` | 19/11/2021 |   |
-| `Outdoor Venture Corporation (OVC)` | 05/11/2021 |   |
-| `Tri-signal Intergration` | 09/09/2021 |   |
-| `Glen Dimplex Home Appliances` | 09/09/2021 |   |
-| `Grushwitz` | 09/09/2021 |   |
-| `Mark A. O'neal and Associates` | 09/09/2021 |   |
-| `AGSO` | 09/09/2021 |   |
-| `Dean and Fulkerson` | 09/09/2021 |   |
-| `SB Zantal Markt` | 09/09/2021 |   |
-| `JSW Steel USA` | 09/09/2021 |   |
-| `PRP diagnostic imaging` | 09/09/2021 |   |
-| `Cornerstone Automation Systems, LLC` | 09/09/2021 |   |
+| [`SOCOTEC`](https://google.com/search?q=SOCOTEC) | 18/06/2022 |   |
+| [`Northeastern Technical College`](https://google.com/search?q=Northeastern+Technical+College) | 04/06/2022 |   |
+| [`Co-opbank Pertama`](https://google.com/search?q=Co-opbank+Pertama) | 24/04/2022 |   |
+| [`DJS associate`](https://google.com/search?q=DJS+associate) | 16/04/2022 |   |
+| [`Gemeente Buren`](https://google.com/search?q=Gemeente+Buren) | 14/04/2022 |   |
+| [`Atlas Copco`](https://google.com/search?q=Atlas+Copco) | 14/04/2022 |   |
+| [`Oklahoma City Indian Clinic`](https://google.com/search?q=Oklahoma+City+Indian+Clinic) | 28/03/2022 |   |
+| [`FitFlop Ltd.`](https://google.com/search?q=FitFlop+Ltd.) | 17/03/2022 |   |
+| [`Migros`](https://google.com/search?q=Migros) | 16/03/2022 |   |
+| [`Royal Smilde`](https://google.com/search?q=Royal+Smilde) | 21/02/2022 |   |
+| [`CENTRAL BAPTIST COLLEGE`](https://google.com/search?q=CENTRAL+BAPTIST+COLLEGE) | 21/02/2022 |   |
+| [`KVK Tech  Specialty Brands and Generics`](https://google.com/search?q=KVK+Tech+%7C+Specialty+Brands+and+Generics) | 15/02/2022 |   |
+| [`Heartland Alliance`](https://google.com/search?q=Heartland+Alliance) | 08/02/2022 |   |
+| [`Community Health Center  Valle del Sol`](https://google.com/search?q=Community+Health+Center+%7C+Valle+del+Sol) | 08/02/2022 |   |
+| [`Consumers Supply Distributing LLC`](https://google.com/search?q=Consumers+Supply+Distributing+LLC) | 05/02/2022 |   |
+| [`Bohlin Cywinski Jackson`](https://google.com/search?q=Bohlin+Cywinski+Jackson) | 03/12/2021 |   |
+| [`Read more`](https://google.com/search?q=Read+more) | 30/11/2021 |   |
+| [`Hospitality Furnishings & Design Inc.`](https://google.com/search?q=Hospitality+Furnishings+%26+Design+Inc.) | 19/11/2021 |   |
+| [`Herman & Kittle Properties Inc.`](https://google.com/search?q=Herman+%26+Kittle+Properties+Inc.) | 19/11/2021 |   |
+| [`Outdoor Venture Corporation (OVC)`](https://google.com/search?q=Outdoor+Venture+Corporation+%28OVC%29) | 05/11/2021 |   |
+| [`Tri-signal Intergration`](https://google.com/search?q=Tri-signal+Intergration) | 09/09/2021 |   |
+| [`Glen Dimplex Home Appliances`](https://google.com/search?q=Glen+Dimplex+Home+Appliances) | 09/09/2021 |   |
+| [`Grushwitz`](https://google.com/search?q=Grushwitz) | 09/09/2021 |   |
+| [`Mark A. O'neal and Associates`](https://google.com/search?q=Mark+A.+O%27neal+and+Associates) | 09/09/2021 |   |
+| [`AGSO`](https://google.com/search?q=AGSO) | 09/09/2021 |   |
+| [`Dean and Fulkerson`](https://google.com/search?q=Dean+and+Fulkerson) | 09/09/2021 |   |
+| [`SB Zantal Markt`](https://google.com/search?q=SB+Zantal+Markt) | 09/09/2021 |   |
+| [`JSW Steel USA`](https://google.com/search?q=JSW+Steel+USA) | 09/09/2021 |   |
+| [`PRP diagnostic imaging`](https://google.com/search?q=PRP+diagnostic+imaging) | 09/09/2021 |   |
+| [`Cornerstone Automation Systems, LLC`](https://google.com/search?q=Cornerstone+Automation+Systems%2C+LLC) | 09/09/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -7888,151 +7891,151 @@ _`ecdmr42axxx.onion - fileserver`_
 
 | post | date | Description
 |---|---|---|
-| `FREDERICK Public Schools` | 20/12/2022 | Our Mission: To provide a caring and creative environment that promotes excellence, fosters integrity, and empowers, inspires, and encourages each student to reach his or her full academic, extracurricular, and social potential. |
-| `McNamara & Thiel Insurance Agency` | 20/12/2022 | Established in 1974, McNamara & Thiel has been one of the leading full-service, independent agencies in Fond du Lac and the surrounding areas. Our combined experience of over 41 years focuses on service to our clients and community. |
-| `JEALSA` | 20/12/2022 | Jealsa is a family business based in Galicia and founded in 1958 with its central headquarters located in Boiro (La CoruÃ±a â€“ Spain). We are dedicated to manufacturing and distribution of canned seafood and fish. |
-| `Communications Solutions Company` | 20/12/2022 | Ltd (CSC) is a Saudi Arabian Company based in Riyadh. CSC is a leading company in Telecommunication & Networking field services. CSC is accredited by STC, ACWA Power, MOFA, SEC, GASCO, Mobily, Zain, SWCC, KJO, Siemens, Nokia, Ericsson and Saudi Aramco. |
-| `Priority Building Services, LLC` | 20/12/2022 | Over three decades of combined experience in managing the janitorial maintenance programs of some of the most prominent Fortune 500 companies has made Priority Building Services one of the most experienced facility services firms in the industry. |
-| `Waikato District Health Board` | 20/12/2022 | The Waikato District Health Board is a district health board with the focus on providing healthcare to the Waikato region of New Zealand. |
-| `Whitehouse Independent School District` | 20/12/2022 | The mission of Whitehouse ISD, the standard of excellence, is to inspire and equip students through innovative and challenging opportunities. |
-| `Karl Bachl GmbH & Co.KG` | 20/12/2022 | The small brickyard has now developed into a group of companies with over 2,700 employees at home and abroad. In addition to the German production sites, plants and trading branches are now operated in Austria, the Czech Republic, Hungary, Italy, Poland, Romania and Croatia. |
-| `Holy Family RC & CE College` | 20/12/2022 | We are proud to be a joint faith college serving Catholic and Anglican young people here in Heywood. The message of Christ is at the very heart of the education we look to provide here at Holy Family instilling the values of Faith, Integrity, Compassion, Perseverance and Community in our young people. |
-| `SparJames Hall & CompanyHeron and Brearley` | 20/12/2022 | Heron & Brearley and its related group of companies is a major employer in the Isle of Man, as well as a leader in the Island's hospitality industry. From managed houses to convenience stores and forecourts we offer an impressive array of services to a diverse range of customers, both on-Island and in the UK. |
-| `Higher School of the Public Ministry of the Union` | 20/12/2022 | The mission of the ESMPU is to facilitate the continuous improvement of the members and servants of the Public Prosecutor's Office for an effective professional performance. |
-| `San Luis Coastal Unified School District` | 20/12/2022 | Small neighborhood schools are a hallmark of the District where students are educated from preschool through twelfth grade and a world-class adult school program offers unique, life-improving courses to thousands of community members. |
-| `Consejo Superior de Investigaciones Cientificas` | 20/12/2022 | The Higher Council for Scientific Research (CSIC) is the largest public institution in Spain dedicated to scientific and technical research and one of the most prominent in the European Research Area. |
-| `Family Medicine CentersFMC Clinics` | 20/12/2022 | Family Medicine Centers are the area's leading provider of family medical care. Our board-certified physicians use the latest technology to provide your family with the highest level of care. |
-| `CR&R Environmental Services` | 20/12/2022 | CR&R Incorporated is one of Southern California's most innovative and successful waste and recycling collection companies, serving more than 3 million people and over 25,000 businesses throughout Orange, Los Angeles, San Bernardino, Imperial and Riverside counties. In addition, we also have operations in Southern Arizona and Colorado. |
-| `Xavier University of Louisiana` | 20/12/2022 | Xavier University of Louisiana, founded by Saint Katharine Drexel and the Sisters of the Blessed Sacrament, is Catholic and historically Black. The ultimate purpose of the University is to contribute to the promotion of a more just and humane society by preparing its students to assume roles of leadership and service in a global society. |
-| `University Institute of Technology of Paris` | 17/12/2022 | The University Institute of Technology (IUT) of Paris - Rives de Seine welcomes 3,000 students each year from a wide variety of backgrounds, ranging from recent high school graduates, holders of a higher education diploma and students engaged in continuing education. All our students share a common goal founded on professionalization, academic innovation and educational quality. |
-| `Publicare` | 16/12/2022 |   |
-| `Universidade Catolica Portuguesa` | 15/12/2022 |   |
-| `New Partners` | 08/12/2022 |   |
-| `Feu Vert` | 06/12/2022 |   |
-| `Glutz` | 05/12/2022 |   |
-| `Plascar Participacoes Industriais` | 29/11/2022 |   |
-| `IKEA MoroccoIKEA Kuwait` | 28/11/2022 | We believe that no matter what we do in life, we should always try to be the absolute best at it. At IKEA we focus on being the best at ordinary everyday things. Because to us, the ordinary everyday contains the best of life. We want to be Extraordinary at the ordinary for you. |
-| `Cincinnati State` | 24/11/2022 |   |
-| `Institute of Science and Technology Austria` | 17/11/2022 |   |
-| `Baysgarth School` | 14/11/2022 |   |
-| `Kreisverwaltung Rhein-Pfalz-Kreis` | 10/11/2022 |   |
-| `Hartnell College` | 09/11/2022 |   |
-| `CR&R Environmental Services` | 06/11/2022 |   |
-| `YMCA of Metropolitan Washington` | 03/11/2022 |   |
-| `Unidad Medica Angloamericana` | 02/11/2022 |   |
-| `Rooks Heath School` | 01/11/2022 |   |
-| `The Bishop of Hereford's Bluecoat School` | 29/10/2022 |   |
-| `Kujalleq Municipality` | 29/10/2022 |   |
-| `Grupo Jaime Camara` | 23/10/2022 |   |
-| `TMShipping` | 23/10/2022 |   |
-| `HALYVOURGIKI.S.A.` | 23/10/2022 |   |
-| `Marist College Ashgrove` | 23/10/2022 |   |
-| `Pate's Grammar School` | 23/10/2022 |   |
-| `Test Valley School` | 23/10/2022 |   |
-| `Mars Area School District` | 23/10/2022 |   |
-| `Maternite des Bluets` | 23/10/2022 |   |
-| `Los Angeles Unified School District` | 30/09/2022 |   |
-| `Samuel Ryder Academy` | 26/09/2022 |   |
-| `School of Oriental African Studies` | 22/09/2022 |   |
-| `Sierra College` | 20/09/2022 |   |
-| `Elmbrook Schools` | 04/09/2022 |   |
-| `Moon Area School District` | 01/09/2022 |   |
-| `Lampton School` | 25/08/2022 |   |
-| `Frances King School of English` | 25/08/2022 |   |
-| `Family Medicine Centers` | 21/08/2022 |   |
-| `BSA Hospice of the Southwest` | 21/08/2022 |   |
-| `PROSOL` | 19/08/2022 |   |
-| `Department of Indre-et-Loire` | 18/08/2022 |   |
-| `Consejo Superior de` | 18/08/2022 |   |
-| `Vygon Spain` | 16/08/2022 |   |
-| `CHDE POLSKA` | 21/07/2022 |   |
-| `Edenfield` | 20/07/2022 |   |
-| `XQUADRAT GmbH` | 19/07/2022 |   |
-| `San Luis Coastal Unified` | 19/07/2022 |   |
-| `Vectalia group` | 04/07/2022 |   |
-| `Ministry of Agriculture Rebublic Indonesia` | 27/06/2022 | Indonesia's rich natural resources are influenced by its tropical climate and geographical location between two continents, Asia and Australia, and two oceans, the Pacific Ocean and the Indian Ocean. Therefore, Indonesia is known as an agrarian country with a variety of products from agriculture, plantations, livestock, fisheries and forestry. |
-| `Medical University of Innsbruck` | 26/06/2022 |   |
-| `PT Astra Honda Motor` | 22/06/2022 |   |
-| `Pilton Community College` | 22/06/2022 |   |
-| `Ospedale Macedonio Melloni` | 21/06/2022 |   |
-| `Novelty Group` | 15/06/2022 |   |
-| `Magnum` | 15/06/2022 |   |
-| `Grand Valley State University` | 13/06/2022 |   |
-| `Palermo` | 09/06/2022 |   |
-| `St Paul` | 02/06/2022 |   |
-| `Acorn Recruitment` | 02/06/2022 |   |
-| `The De Montfort School` | 02/06/2022 |   |
-| `The Catholic Foundation` | 20/05/2022 |   |
-| `Atlanta Perinatal Associates` | 19/05/2022 |   |
-| `Carmel College` | 19/05/2022 |   |
-| `Higher School of the Public` | 19/05/2022 |   |
-| `Trans Technology Pte Ltd.` | 11/05/2022 |   |
-| `Caldes de Montbui` | 11/05/2022 |   |
-| `Salud Total` | 11/05/2022 |   |
-| `ELTA Hellenic Post` | 04/05/2022 |   |
-| `Haynes Manuals` | 04/05/2022 |   |
-| `Asia Pacific University` | 03/05/2022 |   |
-| `Mercadocar Mercantil Ltda.` | 29/04/2022 |   |
-| `Suhl. City in Germany` | 29/04/2022 |   |
-| `Associazione Bancaria Italiana` | 29/04/2022 |   |
-| `Domingues and Pinho Contadores` | 29/04/2022 |   |
-| `Building Plastics, Inc.` | 29/04/2022 |   |
-| `Fonseca Supermarkets` | 29/04/2022 |   |
-| `GOLDENDUCK GROUP` | 29/04/2022 |   |
-| `Levantina, Ingenieria y Construccion` | 28/04/2022 |   |
-| `Stratton Finance` | 28/04/2022 |   |
-| `Est Ensemble` | 28/04/2022 |   |
-| `CORFERIAS` | 28/04/2022 |   |
-| `ALMANIE GROUP` | 28/04/2022 |   |
-| `Mossbourne Federation` | 23/04/2022 |   |
-| `Centre Hospitalier de Castelluccio` | 22/04/2022 |   |
-| `Small Industries DevelopmentBank of India` | 21/04/2022 | Small Industries Development Bank of India is the apex regulatory body for overall licensing and regulation of micro, small and medium enterprise finance companies in India. It is under the jurisdiction of Ministry of Finance, Government of India headquartered at Lucknow and having its offices all over the country. |
-| `Maristes Hermitage` | 21/04/2022 |   |
-| `NuLife Med` | 17/04/2022 |   |
-| `APSM Systems` | 29/03/2022 |   |
-| `ASPIRO` | 29/03/2022 |   |
-| `Ciments Guyanais` | 29/03/2022 |   |
-| `OSSEG Obra Social del Seguro` | 28/03/2022 |   |
-| `Jammal Trust Bank` | 28/03/2022 |   |
-| `Establishment of the Agency for the Environmental Protection of the Marche Region` | 24/03/2022 |   |
-| `ICEHOTEL` | 23/03/2022 |   |
-| `Griggsville-Perry High School` | 23/03/2022 |   |
-| `SENADO Argentina` | 13/03/2022 |   |
-| `Optionis` | 27/01/2022 |   |
-| `Butler County Community College` | 14/01/2022 |   |
-| `Durham Cathedral Schools Foundation` | 12/01/2022 |   |
-| `Butler Community College` | 12/01/2022 |   |
-| `XAL` | 12/01/2022 |   |
-| `SAVANNAH State University` | 09/01/2022 |   |
-| `Carthage R-9 School District` | 09/01/2022 |   |
-| `Amaveca Salud` | 07/01/2022 |   |
-| `Rolle` | 06/01/2022 |   |
-| `Alliance COAL, LLC` | 06/01/2022 |   |
-| `Whitehouse` | 06/01/2022 |   |
-| `FILGO` | 06/01/2022 |   |
-| `Walter's Automotive Group` | 06/01/2022 |   |
-| `Gateway College` | 06/01/2022 |   |
-| `Centre Hospitalier D'Arles` | 06/01/2022 |   |
-| `3V Sigma` | 06/01/2022 |   |
-| `Eskenazi Health Foundation` | 06/01/2022 |   |
-| `Butali` | 06/01/2022 |   |
-| `Plastipak Holdings, Inc.` | 06/01/2022 |   |
-| `Barlow Respiratory Hospital` | 06/01/2022 |   |
-| `ROC Mondriaan` | 06/01/2022 |   |
-| `United Health Centers` | 06/01/2022 |   |
-| `KESSEL AG` | 06/01/2022 |   |
-| `Karl Bachl GmbH & Co.KG` | 06/01/2022 |   |
-| `SRH Holding` | 06/01/2022 |   |
-| `Manhasset Union Free School District` | 06/01/2022 |   |
-| `Lufkin Independent School District` | 06/01/2022 |   |
-| `City of Witten` | 06/01/2022 |   |
-| `Holy Family RC & CE College` | 06/01/2022 |   |
-| `Hawthorn The Community Pub Co.` | 06/01/2022 |   |
-| `Pontificia Universidad Javeriana` | 06/01/2022 |   |
-| `DFL` | 06/01/2022 |   |
-| `Spar` | 06/01/2022 |   |
-| `OSSEG Obra Social de Seguros` | 01/01/2022 |   |
-| `Universidade Federal de Sao Paulo` | 01/01/2022 |   |
+| [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | 20/12/2022 | Our Mission: To provide a caring and creative environment that promotes excellence, fosters integrity, and empowers, inspires, and encourages each student to reach his or her full academic, extracurricular, and social potential. |
+| [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | 20/12/2022 | Established in 1974, McNamara & Thiel has been one of the leading full-service, independent agencies in Fond du Lac and the surrounding areas. Our combined experience of over 41 years focuses on service to our clients and community. |
+| [`JEALSA`](https://google.com/search?q=JEALSA) | 20/12/2022 | Jealsa is a family business based in Galicia and founded in 1958 with its central headquarters located in Boiro (La CoruÃ±a â€“ Spain). We are dedicated to manufacturing and distribution of canned seafood and fish. |
+| [`Communications Solutions Company`](https://google.com/search?q=Communications+Solutions+Company) | 20/12/2022 | Ltd (CSC) is a Saudi Arabian Company based in Riyadh. CSC is a leading company in Telecommunication & Networking field services. CSC is accredited by STC, ACWA Power, MOFA, SEC, GASCO, Mobily, Zain, SWCC, KJO, Siemens, Nokia, Ericsson and Saudi Aramco. |
+| [`Priority Building Services, LLC`](https://google.com/search?q=Priority+Building+Services%2C+LLC) | 20/12/2022 | Over three decades of combined experience in managing the janitorial maintenance programs of some of the most prominent Fortune 500 companies has made Priority Building Services one of the most experienced facility services firms in the industry. |
+| [`Waikato District Health Board`](https://google.com/search?q=Waikato+District+Health+Board) | 20/12/2022 | The Waikato District Health Board is a district health board with the focus on providing healthcare to the Waikato region of New Zealand. |
+| [`Whitehouse Independent School District`](https://google.com/search?q=Whitehouse+Independent+School+District) | 20/12/2022 | The mission of Whitehouse ISD, the standard of excellence, is to inspire and equip students through innovative and challenging opportunities. |
+| [`Karl Bachl GmbH & Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26+Co.KG) | 20/12/2022 | The small brickyard has now developed into a group of companies with over 2,700 employees at home and abroad. In addition to the German production sites, plants and trading branches are now operated in Austria, the Czech Republic, Hungary, Italy, Poland, Romania and Croatia. |
+| [`Holy Family RC & CE College`](https://google.com/search?q=Holy+Family+RC+%26+CE+College) | 20/12/2022 | We are proud to be a joint faith college serving Catholic and Anglican young people here in Heywood. The message of Christ is at the very heart of the education we look to provide here at Holy Family instilling the values of Faith, Integrity, Compassion, Perseverance and Community in our young people. |
+| [`SparJames Hall & CompanyHeron and Brearley`](https://google.com/search?q=SparJames+Hall+%26+CompanyHeron+and+Brearley) | 20/12/2022 | Heron & Brearley and its related group of companies is a major employer in the Isle of Man, as well as a leader in the Island's hospitality industry. From managed houses to convenience stores and forecourts we offer an impressive array of services to a diverse range of customers, both on-Island and in the UK. |
+| [`Higher School of the Public Ministry of the Union`](https://google.com/search?q=Higher+School+of+the+Public+Ministry+of+the+Union) | 20/12/2022 | The mission of the ESMPU is to facilitate the continuous improvement of the members and servants of the Public Prosecutor's Office for an effective professional performance. |
+| [`San Luis Coastal Unified School District`](https://google.com/search?q=San+Luis+Coastal+Unified+School+District) | 20/12/2022 | Small neighborhood schools are a hallmark of the District where students are educated from preschool through twelfth grade and a world-class adult school program offers unique, life-improving courses to thousands of community members. |
+| [`Consejo Superior de Investigaciones Cientificas`](https://google.com/search?q=Consejo+Superior+de+Investigaciones+Cientificas) | 20/12/2022 | The Higher Council for Scientific Research (CSIC) is the largest public institution in Spain dedicated to scientific and technical research and one of the most prominent in the European Research Area. |
+| [`Family Medicine CentersFMC Clinics`](https://google.com/search?q=Family+Medicine+CentersFMC+Clinics) | 20/12/2022 | Family Medicine Centers are the area's leading provider of family medical care. Our board-certified physicians use the latest technology to provide your family with the highest level of care. |
+| [`CR&R Environmental Services`](https://google.com/search?q=CR%26R+Environmental+Services) | 20/12/2022 | CR&R Incorporated is one of Southern California's most innovative and successful waste and recycling collection companies, serving more than 3 million people and over 25,000 businesses throughout Orange, Los Angeles, San Bernardino, Imperial and Riverside counties. In addition, we also have operations in Southern Arizona and Colorado. |
+| [`Xavier University of Louisiana`](https://google.com/search?q=Xavier+University+of+Louisiana) | 20/12/2022 | Xavier University of Louisiana, founded by Saint Katharine Drexel and the Sisters of the Blessed Sacrament, is Catholic and historically Black. The ultimate purpose of the University is to contribute to the promotion of a more just and humane society by preparing its students to assume roles of leadership and service in a global society. |
+| [`University Institute of Technology of Paris`](https://google.com/search?q=University+Institute+of+Technology+of+Paris) | 17/12/2022 | The University Institute of Technology (IUT) of Paris - Rives de Seine welcomes 3,000 students each year from a wide variety of backgrounds, ranging from recent high school graduates, holders of a higher education diploma and students engaged in continuing education. All our students share a common goal founded on professionalization, academic innovation and educational quality. |
+| [`Publicare`](https://google.com/search?q=Publicare) | 16/12/2022 |   |
+| [`Universidade Catolica Portuguesa`](https://google.com/search?q=Universidade+Catolica+Portuguesa) | 15/12/2022 |   |
+| [`New Partners`](https://google.com/search?q=New+Partners) | 08/12/2022 |   |
+| [`Feu Vert`](https://google.com/search?q=Feu+Vert) | 06/12/2022 |   |
+| [`Glutz`](https://google.com/search?q=Glutz) | 05/12/2022 |   |
+| [`Plascar Participacoes Industriais`](https://google.com/search?q=Plascar+Participacoes+Industriais) | 29/11/2022 |   |
+| [`IKEA MoroccoIKEA Kuwait`](https://google.com/search?q=IKEA+MoroccoIKEA+Kuwait) | 28/11/2022 | We believe that no matter what we do in life, we should always try to be the absolute best at it. At IKEA we focus on being the best at ordinary everyday things. Because to us, the ordinary everyday contains the best of life. We want to be Extraordinary at the ordinary for you. |
+| [`Cincinnati State`](https://google.com/search?q=Cincinnati+State) | 24/11/2022 |   |
+| [`Institute of Science and Technology Austria`](https://google.com/search?q=Institute+of+Science+and+Technology+Austria) | 17/11/2022 |   |
+| [`Baysgarth School`](https://google.com/search?q=Baysgarth+School) | 14/11/2022 |   |
+| [`Kreisverwaltung Rhein-Pfalz-Kreis`](https://google.com/search?q=Kreisverwaltung+Rhein-Pfalz-Kreis) | 10/11/2022 |   |
+| [`Hartnell College`](https://google.com/search?q=Hartnell+College) | 09/11/2022 |   |
+| [`CR&R Environmental Services`](https://google.com/search?q=CR%26R+Environmental+Services) | 06/11/2022 |   |
+| [`YMCA of Metropolitan Washington`](https://google.com/search?q=YMCA+of+Metropolitan+Washington) | 03/11/2022 |   |
+| [`Unidad Medica Angloamericana`](https://google.com/search?q=Unidad+Medica+Angloamericana) | 02/11/2022 |   |
+| [`Rooks Heath School`](https://google.com/search?q=Rooks+Heath+School) | 01/11/2022 |   |
+| [`The Bishop of Hereford's Bluecoat School`](https://google.com/search?q=The+Bishop+of+Hereford%27s+Bluecoat+School) | 29/10/2022 |   |
+| [`Kujalleq Municipality`](https://google.com/search?q=Kujalleq+Municipality) | 29/10/2022 |   |
+| [`Grupo Jaime Camara`](https://google.com/search?q=Grupo+Jaime+Camara) | 23/10/2022 |   |
+| [`TMShipping`](https://google.com/search?q=TMShipping) | 23/10/2022 |   |
+| [`HALYVOURGIKI.S.A.`](https://google.com/search?q=HALYVOURGIKI.S.A.) | 23/10/2022 |   |
+| [`Marist College Ashgrove`](https://google.com/search?q=Marist+College+Ashgrove) | 23/10/2022 |   |
+| [`Pate's Grammar School`](https://google.com/search?q=Pate%27s+Grammar+School) | 23/10/2022 |   |
+| [`Test Valley School`](https://google.com/search?q=Test+Valley+School) | 23/10/2022 |   |
+| [`Mars Area School District`](https://google.com/search?q=Mars+Area+School+District) | 23/10/2022 |   |
+| [`Maternite des Bluets`](https://google.com/search?q=Maternite+des+Bluets) | 23/10/2022 |   |
+| [`Los Angeles Unified School District`](https://google.com/search?q=Los+Angeles+Unified+School+District) | 30/09/2022 |   |
+| [`Samuel Ryder Academy`](https://google.com/search?q=Samuel+Ryder+Academy) | 26/09/2022 |   |
+| [`School of Oriental African Studies`](https://google.com/search?q=School+of+Oriental+African+Studies) | 22/09/2022 |   |
+| [`Sierra College`](https://google.com/search?q=Sierra+College) | 20/09/2022 |   |
+| [`Elmbrook Schools`](https://google.com/search?q=Elmbrook+Schools) | 04/09/2022 |   |
+| [`Moon Area School District`](https://google.com/search?q=Moon+Area+School+District) | 01/09/2022 |   |
+| [`Lampton School`](https://google.com/search?q=Lampton+School) | 25/08/2022 |   |
+| [`Frances King School of English`](https://google.com/search?q=Frances+King+School+of+English) | 25/08/2022 |   |
+| [`Family Medicine Centers`](https://google.com/search?q=Family+Medicine+Centers) | 21/08/2022 |   |
+| [`BSA Hospice of the Southwest`](https://google.com/search?q=BSA+Hospice+of+the+Southwest) | 21/08/2022 |   |
+| [`PROSOL`](https://google.com/search?q=PROSOL) | 19/08/2022 |   |
+| [`Department of Indre-et-Loire`](https://google.com/search?q=Department+of+Indre-et-Loire) | 18/08/2022 |   |
+| [`Consejo Superior de`](https://google.com/search?q=Consejo+Superior+de) | 18/08/2022 |   |
+| [`Vygon Spain`](https://google.com/search?q=Vygon+Spain) | 16/08/2022 |   |
+| [`CHDE POLSKA`](https://google.com/search?q=CHDE+POLSKA) | 21/07/2022 |   |
+| [`Edenfield`](https://google.com/search?q=Edenfield) | 20/07/2022 |   |
+| [`XQUADRAT GmbH`](https://google.com/search?q=XQUADRAT+GmbH) | 19/07/2022 |   |
+| [`San Luis Coastal Unified`](https://google.com/search?q=San+Luis+Coastal+Unified) | 19/07/2022 |   |
+| [`Vectalia group`](https://google.com/search?q=Vectalia+group) | 04/07/2022 |   |
+| [`Ministry of Agriculture Rebublic Indonesia`](https://google.com/search?q=Ministry+of+Agriculture+Rebublic+Indonesia) | 27/06/2022 | Indonesia's rich natural resources are influenced by its tropical climate and geographical location between two continents, Asia and Australia, and two oceans, the Pacific Ocean and the Indian Ocean. Therefore, Indonesia is known as an agrarian country with a variety of products from agriculture, plantations, livestock, fisheries and forestry. |
+| [`Medical University of Innsbruck`](https://google.com/search?q=Medical+University+of+Innsbruck) | 26/06/2022 |   |
+| [`PT Astra Honda Motor`](https://google.com/search?q=PT+Astra+Honda+Motor) | 22/06/2022 |   |
+| [`Pilton Community College`](https://google.com/search?q=Pilton+Community+College) | 22/06/2022 |   |
+| [`Ospedale Macedonio Melloni`](https://google.com/search?q=Ospedale+Macedonio+Melloni) | 21/06/2022 |   |
+| [`Novelty Group`](https://google.com/search?q=Novelty+Group) | 15/06/2022 |   |
+| [`Magnum`](https://google.com/search?q=Magnum) | 15/06/2022 |   |
+| [`Grand Valley State University`](https://google.com/search?q=Grand+Valley+State+University) | 13/06/2022 |   |
+| [`Palermo`](https://google.com/search?q=Palermo) | 09/06/2022 |   |
+| [`St Paul`](https://google.com/search?q=St+Paul) | 02/06/2022 |   |
+| [`Acorn Recruitment`](https://google.com/search?q=Acorn+Recruitment) | 02/06/2022 |   |
+| [`The De Montfort School`](https://google.com/search?q=The+De+Montfort+School) | 02/06/2022 |   |
+| [`The Catholic Foundation`](https://google.com/search?q=The+Catholic+Foundation) | 20/05/2022 |   |
+| [`Atlanta Perinatal Associates`](https://google.com/search?q=Atlanta+Perinatal+Associates) | 19/05/2022 |   |
+| [`Carmel College`](https://google.com/search?q=Carmel+College) | 19/05/2022 |   |
+| [`Higher School of the Public`](https://google.com/search?q=Higher+School+of+the+Public) | 19/05/2022 |   |
+| [`Trans Technology Pte Ltd.`](https://google.com/search?q=Trans+Technology+Pte+Ltd.) | 11/05/2022 |   |
+| [`Caldes de Montbui`](https://google.com/search?q=Caldes+de+Montbui) | 11/05/2022 |   |
+| [`Salud Total`](https://google.com/search?q=Salud+Total) | 11/05/2022 |   |
+| [`ELTA Hellenic Post`](https://google.com/search?q=ELTA+Hellenic+Post) | 04/05/2022 |   |
+| [`Haynes Manuals`](https://google.com/search?q=Haynes+Manuals) | 04/05/2022 |   |
+| [`Asia Pacific University`](https://google.com/search?q=Asia+Pacific+University) | 03/05/2022 |   |
+| [`Mercadocar Mercantil Ltda.`](https://google.com/search?q=Mercadocar+Mercantil+Ltda.) | 29/04/2022 |   |
+| [`Suhl. City in Germany`](https://google.com/search?q=Suhl.+City+in+Germany) | 29/04/2022 |   |
+| [`Associazione Bancaria Italiana`](https://google.com/search?q=Associazione+Bancaria+Italiana) | 29/04/2022 |   |
+| [`Domingues and Pinho Contadores`](https://google.com/search?q=Domingues+and+Pinho+Contadores) | 29/04/2022 |   |
+| [`Building Plastics, Inc.`](https://google.com/search?q=Building+Plastics%2C+Inc.) | 29/04/2022 |   |
+| [`Fonseca Supermarkets`](https://google.com/search?q=Fonseca+Supermarkets) | 29/04/2022 |   |
+| [`GOLDENDUCK GROUP`](https://google.com/search?q=GOLDENDUCK+GROUP) | 29/04/2022 |   |
+| [`Levantina, Ingenieria y Construccion`](https://google.com/search?q=Levantina%2C+Ingenieria+y+Construccion) | 28/04/2022 |   |
+| [`Stratton Finance`](https://google.com/search?q=Stratton+Finance) | 28/04/2022 |   |
+| [`Est Ensemble`](https://google.com/search?q=Est+Ensemble) | 28/04/2022 |   |
+| [`CORFERIAS`](https://google.com/search?q=CORFERIAS) | 28/04/2022 |   |
+| [`ALMANIE GROUP`](https://google.com/search?q=ALMANIE+GROUP) | 28/04/2022 |   |
+| [`Mossbourne Federation`](https://google.com/search?q=Mossbourne+Federation) | 23/04/2022 |   |
+| [`Centre Hospitalier de Castelluccio`](https://google.com/search?q=Centre+Hospitalier+de+Castelluccio) | 22/04/2022 |   |
+| [`Small Industries DevelopmentBank of India`](https://google.com/search?q=Small+Industries+DevelopmentBank+of+India) | 21/04/2022 | Small Industries Development Bank of India is the apex regulatory body for overall licensing and regulation of micro, small and medium enterprise finance companies in India. It is under the jurisdiction of Ministry of Finance, Government of India headquartered at Lucknow and having its offices all over the country. |
+| [`Maristes Hermitage`](https://google.com/search?q=Maristes+Hermitage) | 21/04/2022 |   |
+| [`NuLife Med`](https://google.com/search?q=NuLife+Med) | 17/04/2022 |   |
+| [`APSM Systems`](https://google.com/search?q=APSM+Systems) | 29/03/2022 |   |
+| [`ASPIRO`](https://google.com/search?q=ASPIRO) | 29/03/2022 |   |
+| [`Ciments Guyanais`](https://google.com/search?q=Ciments+Guyanais) | 29/03/2022 |   |
+| [`OSSEG Obra Social del Seguro`](https://google.com/search?q=OSSEG+Obra+Social+del+Seguro) | 28/03/2022 |   |
+| [`Jammal Trust Bank`](https://google.com/search?q=Jammal+Trust+Bank) | 28/03/2022 |   |
+| [`Establishment of the Agency for the Environmental Protection of the Marche Region`](https://google.com/search?q=Establishment+of+the+Agency+for+the+Environmental+Protection+of+the+Marche+Region) | 24/03/2022 |   |
+| [`ICEHOTEL`](https://google.com/search?q=ICEHOTEL) | 23/03/2022 |   |
+| [`Griggsville-Perry High School`](https://google.com/search?q=Griggsville-Perry+High+School) | 23/03/2022 |   |
+| [`SENADO Argentina`](https://google.com/search?q=SENADO+Argentina) | 13/03/2022 |   |
+| [`Optionis`](https://google.com/search?q=Optionis) | 27/01/2022 |   |
+| [`Butler County Community College`](https://google.com/search?q=Butler+County+Community+College) | 14/01/2022 |   |
+| [`Durham Cathedral Schools Foundation`](https://google.com/search?q=Durham+Cathedral+Schools+Foundation) | 12/01/2022 |   |
+| [`Butler Community College`](https://google.com/search?q=Butler+Community+College) | 12/01/2022 |   |
+| [`XAL`](https://google.com/search?q=XAL) | 12/01/2022 |   |
+| [`SAVANNAH State University`](https://google.com/search?q=SAVANNAH+State+University) | 09/01/2022 |   |
+| [`Carthage R-9 School District`](https://google.com/search?q=Carthage+R-9+School+District) | 09/01/2022 |   |
+| [`Amaveca Salud`](https://google.com/search?q=Amaveca+Salud) | 07/01/2022 |   |
+| [`Rolle`](https://google.com/search?q=Rolle) | 06/01/2022 |   |
+| [`Alliance COAL, LLC`](https://google.com/search?q=Alliance+COAL%2C+LLC) | 06/01/2022 |   |
+| [`Whitehouse`](https://google.com/search?q=Whitehouse) | 06/01/2022 |   |
+| [`FILGO`](https://google.com/search?q=FILGO) | 06/01/2022 |   |
+| [`Walter's Automotive Group`](https://google.com/search?q=Walter%27s+Automotive+Group) | 06/01/2022 |   |
+| [`Gateway College`](https://google.com/search?q=Gateway+College) | 06/01/2022 |   |
+| [`Centre Hospitalier D'Arles`](https://google.com/search?q=Centre+Hospitalier+D%27Arles) | 06/01/2022 |   |
+| [`3V Sigma`](https://google.com/search?q=3V+Sigma) | 06/01/2022 |   |
+| [`Eskenazi Health Foundation`](https://google.com/search?q=Eskenazi+Health+Foundation) | 06/01/2022 |   |
+| [`Butali`](https://google.com/search?q=Butali) | 06/01/2022 |   |
+| [`Plastipak Holdings, Inc.`](https://google.com/search?q=Plastipak+Holdings%2C+Inc.) | 06/01/2022 |   |
+| [`Barlow Respiratory Hospital`](https://google.com/search?q=Barlow+Respiratory+Hospital) | 06/01/2022 |   |
+| [`ROC Mondriaan`](https://google.com/search?q=ROC+Mondriaan) | 06/01/2022 |   |
+| [`United Health Centers`](https://google.com/search?q=United+Health+Centers) | 06/01/2022 |   |
+| [`KESSEL AG`](https://google.com/search?q=KESSEL+AG) | 06/01/2022 |   |
+| [`Karl Bachl GmbH & Co.KG`](https://google.com/search?q=Karl+Bachl+GmbH+%26+Co.KG) | 06/01/2022 |   |
+| [`SRH Holding`](https://google.com/search?q=SRH+Holding) | 06/01/2022 |   |
+| [`Manhasset Union Free School District`](https://google.com/search?q=Manhasset+Union+Free+School+District) | 06/01/2022 |   |
+| [`Lufkin Independent School District`](https://google.com/search?q=Lufkin+Independent+School+District) | 06/01/2022 |   |
+| [`City of Witten`](https://google.com/search?q=City+of+Witten) | 06/01/2022 |   |
+| [`Holy Family RC & CE College`](https://google.com/search?q=Holy+Family+RC+%26+CE+College) | 06/01/2022 |   |
+| [`Hawthorn The Community Pub Co.`](https://google.com/search?q=Hawthorn+The+Community+Pub+Co.) | 06/01/2022 |   |
+| [`Pontificia Universidad Javeriana`](https://google.com/search?q=Pontificia+Universidad+Javeriana) | 06/01/2022 |   |
+| [`DFL`](https://google.com/search?q=DFL) | 06/01/2022 |   |
+| [`Spar`](https://google.com/search?q=Spar) | 06/01/2022 |   |
+| [`OSSEG Obra Social de Seguros`](https://google.com/search?q=OSSEG+Obra+Social+de+Seguros) | 01/01/2022 |   |
+| [`Universidade Federal de Sao Paulo`](https://google.com/search?q=Universidade+Federal+de+Sao+Paulo) | 01/01/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -8078,27 +8081,27 @@ _`xing use a custom mountlocker exe`_
 
 | post | date | Description
 |---|---|---|
-| `Wayne Automatic Fire Sprinklers, Inc.` | 26/10/2021 |   |
-| `Tilia GmbH. TILIA GROUP` | 08/10/2021 |   |
-| `J.Irwin Company` | 17/08/2021 |   |
-| `DiaSorin` | 08/07/2021 |   |
-| `Greenwood Fabricating & Plating` | 03/06/2021 |   |
-| `Positive Promotions, Inc.` | 02/06/2021 |   |
-| `AQUALUNG` | 02/06/2021 |   |
-| `Sharafi Group Investments` | 27/05/2021 |   |
-| `Coastal Family Health Center` | 24/05/2021 |   |
-| `T.I.S. Group` | 24/05/2021 |   |
-| `OSF Healthcare System` | 18/05/2021 |   |
-| `Solen A.S` | 14/05/2021 |   |
-| `CBN Logistic` | 14/05/2021 |   |
-| `LineStar` | 14/05/2021 |   |
-| `Desert Plastering LLC` | 13/05/2021 |   |
-| `Gulfeagle Supply` | 11/05/2021 |   |
-| `GlobeMed Saudi` | 06/05/2021 |   |
-| `Washoe Tribe` | 06/05/2021 |   |
-| `Bridgelux, Inc.` | 06/05/2021 |   |
-| `Pezzuto Group` | 29/04/2021 |   |
-| `NAVNIT GROUP` | 29/04/2021 |   |
+| [`Wayne Automatic Fire Sprinklers, Inc.`](https://google.com/search?q=Wayne+Automatic+Fire+Sprinklers%2C+Inc.) | 26/10/2021 |   |
+| [`Tilia GmbH. TILIA GROUP`](https://google.com/search?q=Tilia+GmbH.+TILIA+GROUP) | 08/10/2021 |   |
+| [`J.Irwin Company`](https://google.com/search?q=J.Irwin+Company) | 17/08/2021 |   |
+| [`DiaSorin`](https://google.com/search?q=DiaSorin) | 08/07/2021 |   |
+| [`Greenwood Fabricating & Plating`](https://google.com/search?q=Greenwood+Fabricating+%26+Plating) | 03/06/2021 |   |
+| [`Positive Promotions, Inc.`](https://google.com/search?q=Positive+Promotions%2C+Inc.) | 02/06/2021 |   |
+| [`AQUALUNG`](https://google.com/search?q=AQUALUNG) | 02/06/2021 |   |
+| [`Sharafi Group Investments`](https://google.com/search?q=Sharafi+Group+Investments) | 27/05/2021 |   |
+| [`Coastal Family Health Center`](https://google.com/search?q=Coastal+Family+Health+Center) | 24/05/2021 |   |
+| [`T.I.S. Group`](https://google.com/search?q=T.I.S.+Group) | 24/05/2021 |   |
+| [`OSF Healthcare System`](https://google.com/search?q=OSF+Healthcare+System) | 18/05/2021 |   |
+| [`Solen A.S`](https://google.com/search?q=Solen+A.S) | 14/05/2021 |   |
+| [`CBN Logistic`](https://google.com/search?q=CBN+Logistic) | 14/05/2021 |   |
+| [`LineStar`](https://google.com/search?q=LineStar) | 14/05/2021 |   |
+| [`Desert Plastering LLC`](https://google.com/search?q=Desert+Plastering+LLC) | 13/05/2021 |   |
+| [`Gulfeagle Supply`](https://google.com/search?q=Gulfeagle+Supply) | 11/05/2021 |   |
+| [`GlobeMed Saudi`](https://google.com/search?q=GlobeMed+Saudi) | 06/05/2021 |   |
+| [`Washoe Tribe`](https://google.com/search?q=Washoe+Tribe) | 06/05/2021 |   |
+| [`Bridgelux, Inc.`](https://google.com/search?q=Bridgelux%2C+Inc.) | 06/05/2021 |   |
+| [`Pezzuto Group`](https://google.com/search?q=Pezzuto+Group) | 29/04/2021 |   |
+| [`NAVNIT GROUP`](https://google.com/search?q=NAVNIT+GROUP) | 29/04/2021 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -8148,12 +8151,12 @@ _`aka fonix`_
 
 | post | date | Description
 |---|---|---|
-| `Hot news straight from Cisco` | 10/08/2022 |   |
-| `Shorr.com leakage` | 02/07/2022 |   |
-| `Greetings to havi.com and tmsw.com` | 02/07/2022 |   |
-| `Big data dump from various organizations` | 02/07/2022 |   |
-| `Walmart was encrypted` | 02/07/2022 |   |
-| `Cincinnati bell didn’t pay the ransom` | 02/07/2022 |   |
+| [`Hot news straight from Cisco`](https://google.com/search?q=Hot+news+straight+from+Cisco) | 10/08/2022 |   |
+| [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | 02/07/2022 |   |
+| [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | 02/07/2022 |   |
+| [`Big data dump from various organizations`](https://google.com/search?q=Big+data+dump+from+various+organizations) | 02/07/2022 |   |
+| [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | 02/07/2022 |   |
+| [`Cincinnati bell didn’t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%E2%80%99t+pay+the+ransom) | 02/07/2022 |   |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -8186,4 +8189,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 29/12/2022 11.18 (UTC)_
+Last update : _Thursday 29/12/2022 13.07 (UTC)_
