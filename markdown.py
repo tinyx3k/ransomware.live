@@ -242,10 +242,11 @@ def recentpage():
     # delete contents of file
     with open(recentpage, 'w', encoding='utf-8') as f:
         f.close()
+    writeline(recentpage,'')
+    writeline(recentpage, '> `Ransomware.live` provides tracking of ransomware groups and their victims')
+    writeline(recentpage,'')
     writeline(recentpage, '# 📰 200 last posts')
     writeline(recentpage, '')
-    #writeline(recentpage, '_last `' + str(fetching_count) + '` posts_')
-    #writeline(recentpage, '')
     writeline(recentpage, '| Date | Title | Group |')
     writeline(recentpage, '|---|---|---|')
     for post in recentposts(fetching_count):
@@ -464,9 +465,6 @@ def decryptiontools():
                 linkhowto = ' 📖  For more information please see this [how-to guide](' + str(linkhowto) +').'
             else:   
                 linkhowto = ' 📖 For more information please see this [how-to guide](https://www.nomoreransom.org' + str(linkhowto) +').'           
-            # Sélectionnez le lien de téléchargement du décrypteur
-            # download_link = str(li.select_one('a.button')['href'])
-            # Sélectionnez le nom de l'auteur du décrypteur
             author_name = re.sub(r'<[^>]*>', '',author_name).replace('Tool made by  ','')
             writeline(decryptionpage, '## '+ re.sub(r'<[^>]*>', '',ransom_name))
             writeline(decryptionpage, '')

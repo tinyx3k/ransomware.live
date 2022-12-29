@@ -1,3 +1,6 @@
+
+> `Ransomware.live` provides tracking of ransomware groups and their victims
+
 # 📰 200 last posts
 
 | Date | Title | Group |
@@ -203,4 +206,4 @@
 | 2022-12-22 | [`STERIS.COM`](https://google.com/search?q=STERIS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PENTAIR.COM`](https://google.com/search?q=PENTAIR.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 29/12/2022 13.31 (UTC)_
+Last update : _Thursday 29/12/2022 14.46 (UTC)_
