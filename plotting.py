@@ -16,7 +16,11 @@ def plot_posts_by_group():
     group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
-    plt.bar(groups, counts, color="#000000")
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
+    plt.bar(groups, counts, color="#42b983")
     plt.title('posts by group')
     plt.xlabel('group name')
     plt.xticks(rotation=90)
@@ -36,7 +40,11 @@ def plot_posts_by_group_by_year(year):
     group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
-    plt.bar(groups, counts, color="#000000")
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
+    plt.bar(groups, counts, color="#42b983")
     plt.title('posts by group in ' + str(year))
     plt.xlabel('group name')
     plt.xticks(rotation=90)
@@ -58,7 +66,11 @@ def plot_posts_by_group_past_7_days():
     group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
-    plt.bar(groups, counts, color="#000000")
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
+    plt.bar(groups, counts, color="#42b983")
     plt.title('posts by group last 7 days')
     plt.xlabel('group name')
     plt.xticks(rotation=90)
@@ -91,7 +103,11 @@ def trend_posts_per_day():
     datecount.sort(key=lambda x: x[0])
     dates = [datetime.datetime.strptime(x[0], '%Y-%m-%d').date() for x in datecount]
     counts = [x[1] for x in datecount]
-    plt.plot(dates, counts, color="#000000")
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
+    plt.plot(dates, counts, color="#42b983")
     plt.title('posts per day')
     plt.xlabel('date')
     plt.xticks(rotation=90)
@@ -125,7 +141,11 @@ def trend_posts_per_day_2022():
     datecount.sort(key=lambda x: x[0])
     dates = [datetime.datetime.strptime(x[0], '%Y-%m-%d').date() for x in datecount]
     counts = [x[1] for x in datecount]
-    plt.plot(dates, counts, color="#000000")
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
+    plt.plot(dates, counts, color="#42b983")
     plt.title('posts per day in 2022')
     plt.xlabel('date')
     plt.xticks(rotation=90)
@@ -157,7 +177,11 @@ def trend_posts_per_day_2023():
     datecount.sort(key=lambda x: x[0])
     dates = [datetime.datetime.strptime(x[0], '%Y-%m-%d').date() for x in datecount]
     counts = [x[1] for x in datecount]
-    plt.plot(dates, counts, color="#000000")
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
+    plt.plot(dates, counts, color="#42b983")
     plt.title('posts per day in 2023')
     plt.xlabel('date')
     plt.xticks(rotation=90)
@@ -183,6 +207,10 @@ def pie_posts_by_group():
     othercount = sum(othercounts)
     topgroups.append('other')
     topcounts.append(othercount)
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
     colours = ['#ffc09f','#ffee93','#fcf5c7','#a0ced9','#adf7b6','#e8dff5','#fce1e4','#fcf4dd','#ddedea','#daeaf6','#79addc','#ffc09f','#ffee93','#fcf5c7','#adf7b6']
     plt.pie(topcounts, labels=topgroups, autopct='%1.1f%%', startangle=140, labeldistance=1.1, pctdistance=0.8, colors=colours)
     plt.legend(loc='lower center', bbox_to_anchor=(0.5, -0.2), ncol=3)
@@ -209,6 +237,10 @@ def pie_posts_by_group_by_year(year):
     othercount = sum(othercounts)
     topgroups.append('other')
     topcounts.append(othercount)
+    plt.rcParams['text.color'] = "#42b983"
+    plt.rcParams['axes.labelcolor'] = "#42b983"
+    plt.rcParams['xtick.color'] = "#42b983"
+    plt.rcParams['ytick.color'] = "#42b983"
     colours = ['#ffc09f','#ffee93','#fcf5c7','#a0ced9','#adf7b6','#e8dff5','#fce1e4','#fcf4dd','#ddedea','#daeaf6','#79addc','#ffc09f','#ffee93','#fcf5c7','#adf7b6']
     plt.pie(topcounts, labels=topgroups, autopct='%1.1f%%', startangle=140, labeldistance=1.1, pctdistance=0.8, colors=colours)
     plt.legend(loc='lower center', bbox_to_anchor=(0.5, -0.2), ncol=3)
