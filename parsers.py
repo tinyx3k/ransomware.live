@@ -469,19 +469,6 @@ def karma():
     for post in posts:
         appender(post, 'karma')
 
-def blackbyte():
-    stdlog('parser: ' + 'blackbyte')
-    # grep "h1" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
-    # grep "display-4" source/blackbyte-*.html --no-filename | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^[ \t]*//' -e 's/^ *//g' -e 's/[[:space:]]*$//'
-    # grep '<h1 class="h_font"' source/blackbyte-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    parser = '''
-    grep --no-filename 'class="h_font"' source/blackbyte-*.html | cut -d '>' -f 2 | cut -d '<' -f 1 | sed -e 's/^ *//g' -e '/^$/d' -e 's/[[:space:]]*$//'
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('blackbyte: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'blackbyte')
 
 def spook():
     stdlog('parser: ' + 'spook')
@@ -1265,4 +1252,23 @@ def snatch():
                 file.close()
         except:
             errlog('snatch: ' + 'parsing fail')
+            pass
+
+def blackbyte():
+    stdlog('parser: ' + 'blackbyte')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('blackbyte-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('table', {"class": "table table-bordered table-content"})
+                # <table class="table table-bordered table-content ">
+                for div in divs_name:
+                    title = div.find('h1').text.strip()
+                    description = div.find('p').text.strip()
+                    appender(title, 'blackbyte', description)
+                file.close()
+        except:
+            errlog('blackbyte: ' + 'parsing fail')
             pass

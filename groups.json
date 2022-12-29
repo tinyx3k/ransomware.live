@@ -557,6 +557,7 @@
                 "fqdn": "jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
                 "title": "BB Auction",
                 "version": 3,
+                "delay": 120,
                 "slug": "http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion",
                 "available": false,
                 "updated": "2022-12-29 10:34:07.113189",
