@@ -35,5 +35,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Thursday 29/12/2022 02.35 (UTC)_
+Last update : _Thursday 29/12/2022 03.34 (UTC)_
 
