@@ -7214,8 +7214,8 @@ _`shut down & offering a decryptor`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Royal | 🟢 | 29/12/2022 21:08 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 29/12/2022 21:09 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 30/12/2022 00:35 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 30/12/2022 00:35 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -7223,10 +7223,12 @@ _`shut down & offering a decryptor`_
 
 ### Posts
 
-> 104 posts found
+> 106 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Iowa Public Television`](http://www.iowapbs.org) | 30/12/2022 | Iowa PBS is Iowa’s statewide public broadcasting network. Iowa PBS provides quality, innovative media and services that educate, inform, enrich and inspire Iowans.Our noncommercial, public-service mission enables us to bring you locally produced programs of lasting value regardless of where you live or what you can afford. Our educational media and resources help prepare Iowa’s children for success in school and opens up the world to them in age-appropriate ways. Nearly half the households in our viewing area tune to Iowa PBS each month for programming that reflects a range of interests for Iowans in all demographic categories. |
+| [`Waterloo Wellington Flight Centre`](https://www.wwfc.ca) | 30/12/2022 | Founded in 1932, at Lexington field in North Waterloo, Waterloo Wellington Flight Centre (WWFC) is deeply rooted in the Waterloo region. |
 | [`Emoney`](http://www.emoneyfinance.com.au) | 28/12/2022 | Australian First Mortgage Pty Ltd is a company that operates in the Financial Services industry. It employs 21-50 people and has $5M-$10M of revenue. |
 | [`www.buildersmutual.com`](http://www.buildersmutual.com) | 28/12/2022 | pBCz04K51g,0+t2:U\mg57Kc|wq222 - pass |
 | [`INTRADO`](http://www.intrado.com) | 27/12/2022 | internal documents \ passports \ employee driver's licenses |
@@ -8190,4 +8192,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 29/12/2022 22.19 (UTC)_
+Last update : _Friday 30/12/2022 00.38 (UTC)_

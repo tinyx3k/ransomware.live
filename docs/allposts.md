@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4810` posts_
+_All `4812` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,8 @@ _All `4810` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-30 | [`Iowa Public Television`](https://google.com/search?q=Iowa+Public+Television) | [royal](profiles.md?id=royal) |
+| 2022-12-30 | [`Waterloo Wellington Flight Centre`](https://google.com/search?q=Waterloo+Wellington+Flight+Centre) | [royal](profiles.md?id=royal) |
 | 2022-12-29 | [`CPTM`](https://google.com/search?q=CPTM) | [blackbyte](profiles.md?id=blackbyte) |
 | 2022-12-29 | [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-29 | [`MITCON Consultancy & Engineering Services`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services) | [bianlian](profiles.md?id=bianlian) |
@@ -4821,4 +4823,4 @@ _All `4810` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 29/12/2022 22.19 (UTC)_
+Last update : _Friday 30/12/2022 00.38 (UTC)_
