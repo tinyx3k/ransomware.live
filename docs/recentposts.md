@@ -206,4 +206,4 @@
 | 2022-12-22 | [`CGG.COM`](https://google.com/search?q=CGG.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`STERIS.COM`](https://google.com/search?q=STERIS.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 29/12/2022 21.16 (UTC)_
+Last update : _Thursday 29/12/2022 22.19 (UTC)_

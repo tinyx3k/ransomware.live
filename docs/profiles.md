@@ -7469,7 +7469,7 @@ _`shut down & offering a decryptor`_
 | [`Unicity`](https://google.com/search?q=Unicity) | 05/10/2022 |   |
 | [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | 05/10/2022 |   |
 | [`Stratford University`](https://google.com/search?q=Stratford+University) | 17/08/2022 |   |
-| [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | 30/06/2022 |   |
+| [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | 30/06/2022 | Atlantic Dialysis Management Services, LLC (“ADMS”) was established to provide new dialysis site development, day to day administration and management of dialysis services and related business development activities. The business strategy is to maximize individual site results through consolidated activities. Central to the ADMS approach is the long term control of these clinical services by nephrologists.  |
 | [`Apex`](https://google.com/search?q=Apex) | 29/06/2022 |   |
 | [`HEMERIA`](https://google.com/search?q=HEMERIA) | 22/05/2022 |   |
 | [`Yip in Tsoi`](https://google.com/search?q=Yip+in+Tsoi) | 31/03/2022 |   |
@@ -7499,7 +7499,7 @@ _`shut down & offering a decryptor`_
 | [`The ExecuSearch Group`](https://google.com/search?q=The+Execu%7CSearch+Group) | 14/12/2021 |   |
 | [`ABC Seamless`](https://google.com/search?q=ABC+Seamless) | 14/12/2021 |   |
 | [`Medical Pharmacies`](https://google.com/search?q=Medical+Pharmacies) | 10/12/2021 |   |
-| [`Altrux Medical`](https://google.com/search?q=Altrux+Medical) | 07/12/2021 |   |
+| [`Altrux Medical`](https://google.com/search?q=Altrux+Medical) | 07/12/2021 | Altrux Medical was established in 2006 and is headquartered in Atlanta, Georgia. We are a family owned and operated business. I enjoyed my early career in information technologies as an Apple Macintosh expert in the executive office suite industry, then home educated our three children. |
 | [`Fittingbox`](https://google.com/search?q=Fittingbox) | 07/12/2021 |   |
 | [`Lootah Group`](https://google.com/search?q=Lootah+Group) | 02/12/2021 |   |
 | [`CareFirst CHPDC`](https://google.com/search?q=CareFirst+CHPDC) | 02/12/2021 |   |
@@ -8190,4 +8190,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 29/12/2022 21.16 (UTC)_
+Last update : _Thursday 29/12/2022 22.19 (UTC)_
