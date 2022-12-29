@@ -124,7 +124,7 @@ def appender(post_title, group_name, description="", website=""):
         #    totwitter(newpost['post_title'], newpost['group_name'])
         #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
         #    toteams(newpost['post_title'], newpost['group_name'])
-        try: 
+        #try: 
             stdlog('Send notification')
             API_KEY = os.getenv('PUSH_API')
             USER_KEY = os.getenv('PUSH_USER')
@@ -141,8 +141,8 @@ def appender(post_title, group_name, description="", website=""):
               "message": MESSAGE
             }), { "Content-type": "application/x-www-form-urlencoded" })
             conn.getresponse()
-        except: 
-            errlog('impossible to push notification')
+        #except: 
+        #    errlog('impossible to push notification')
         groups = openjson('groups.json')
         for group in groups:
             if group["name"] == group_name:
