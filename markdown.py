@@ -26,7 +26,7 @@ from sharedutils import grouppostavailable
 #from sharedutils import countcaptchahosts
 # from sharedutils import stdlog, dbglog, errlog, honk
 from sharedutils import stdlog
-from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days,trend_posts_per_day_2022, trend_posts_per_day_2023, plot_posts_by_group_by_year
+from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days,trend_posts_per_day_2022, trend_posts_per_day_2023, plot_posts_by_group_by_year, pie_posts_by_group_by_year
 
 
 def suffix(d):
@@ -504,5 +504,7 @@ def main():
         plot_posts_by_group_by_year(2023)
         pie_posts_by_group()
         plot_posts_by_group_past_7_days()
+        pie_posts_by_group_by_year(2022)
+        # pie_posts_by_group_by_year(2023)
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')

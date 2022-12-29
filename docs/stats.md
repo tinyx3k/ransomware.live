@@ -5,7 +5,7 @@
 
 | ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |
 |---|---|
-![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |
+| ![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |
 
 
 ## 2023
@@ -15,3 +15,5 @@
 ## 2022
 
 | ![](graphs/postsbyday2022.png) | ![](graphs/postsbygroup2022.png) |
+|---|---|
+| ![](graphs/grouppie2022.png) | | 

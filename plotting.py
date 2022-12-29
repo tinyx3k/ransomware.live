@@ -32,7 +32,6 @@ def plot_posts_by_group_by_year(year):
     '''
     posts = openjson('posts.json')
     group_counts = gcountYear(posts,year)
-    print(len(group_counts))
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     group_counts = [x for x in group_counts if x[0] != 'clop']
     groups = [x[0] for x in group_counts]
@@ -190,5 +189,31 @@ def pie_posts_by_group():
     plt.text(0.5, 0.5, 'total : ' + str(sum(counts)), horizontalalignment='center', verticalalignment='center', transform=plt.gcf().transFigure)
     plt.title('posts by group')
     plt.savefig('docs/graphs/grouppie.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+    plt.clf()
+    plt.cla()
+
+def pie_posts_by_group_by_year(year):
+    '''
+    plot the number of posts by group in a pie
+    '''
+    posts = openjson('posts.json')
+    group_counts = gcountYear(posts,year)
+    group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
+    group_counts = [x for x in group_counts if x[0] != 'clop']
+    groups = [x[0] for x in group_counts]
+    counts = [x[1] for x in group_counts]
+    # ignoring the top 10 groups, merge the rest into "other"
+    topgroups = groups[:10]
+    topcounts = counts[:10]
+    othercounts = counts[10:]
+    othercount = sum(othercounts)
+    topgroups.append('other')
+    topcounts.append(othercount)
+    colours = ['#ffc09f','#ffee93','#fcf5c7','#a0ced9','#adf7b6','#e8dff5','#fce1e4','#fcf4dd','#ddedea','#daeaf6','#79addc','#ffc09f','#ffee93','#fcf5c7','#adf7b6']
+    plt.pie(topcounts, labels=topgroups, autopct='%1.1f%%', startangle=140, labeldistance=1.1, pctdistance=0.8, colors=colours)
+    plt.legend(loc='lower center', bbox_to_anchor=(0.5, -0.2), ncol=3)
+    plt.text(0.5, 0.5, 'total : ' + str(sum(counts)), horizontalalignment='center', verticalalignment='center', transform=plt.gcf().transFigure)
+    plt.title('posts by group in '+ str(year))
+    plt.savefig('docs/graphs/grouppie' + str(year) + '.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     plt.clf()
     plt.cla()
