@@ -199,8 +199,8 @@ def gcount(posts):
 
 def gcountYear(posts,year):
     date_format = "%Y-%m-%d %H:%M:%S.%f"
-    date_debut = date2 = datetime(year, 1, 1)
-    date_fin = date2 = datetime(year, 12, 31)
+    date_debut = datetime(year, 1, 1)
+    date_fin = datetime(year, 12, 31)
     group_counts = {}
     for post in posts:
         if post['group_name'] in group_counts:
