@@ -10,7 +10,7 @@
 
 ## 2023
 
- ![](graphs/postsbyday2023.png) | ![](graphs/postsbygroup2023.png) |
+ | ![](graphs/postsbyday2023.png) | ![](graphs/postsbygroup2023.png) |
  |---|---|
 
 ## 2022
