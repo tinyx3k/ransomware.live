@@ -190,7 +190,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| [`SUMITOMO BAKELITE USA`](sumibe.co.jp) | 28/12/2022 | Sumitomo Bakelite Company Limited, together with its subsidiaries, engages in the research and development, manufacture and sale of semiconductor materials |
+| [`SUMITOMO BAKELITE USA`](https://sumibe.co.jp) | 28/12/2022 | Sumitomo Bakelite Company Limited, together with its subsidiaries, engages in the research and development, manufacture and sale of semiconductor materials |
 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://www.elotech.com.br) | 28/12/2022 | Company: elotech Headquarters: 14 Rua Giampero Monacci, Maringa, Parana, Brazil Phone Number: +55 4440093550  Elotech is the largest and best public administration system company in Paraná and one of the best in Brazil! |
 | [`JAKKS Pacific, Inc.`](https://jakks.com) | 28/12/2022 | Corporate Overview JAKKS Pacific, Inc. is a multi-brand company that, since 1995, has been designing, developing, producing and marketing toys, leisure products and writing instruments for children and adults around the world. |
 | [`Empresas Públicas de Medellín`](https://www.epm.com.co) | 27/12/2022 | The bylaws in force for EPM E.S.P. are contained in Decision 12 of 1998, as amended by Decision 32 of 2006. It operates in the water (and sewerage), electricity and gas sectors. It is legally empowered to also act in the telecommunications and garbage collection sectors. |
@@ -743,47 +743,47 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| [`LW Group`]() | 26/12/2022 | LW Group now represents eight (8) luxury automobile brands operating at nine (9) locations within the Boston, MA and New Hampshire markets. |
-| [`Keyano College`]() | 26/12/2022 | Founded in 1965 and based in Fort McMurray, Canada, Keyano College is a community college meeting both the training and skills acquisition needs of industry.          Headquarters:     8115 Franklin Ave, Fort McMurray, Alberta, T9H 2H7, Canada          Phone Number:     (780) 791-4800 |
-| [`McKenzie Health System`]() | 26/12/2022 | McKenzie Health System (MHS) is a not-for-profit medical and surgical hospital in Sandusky, Mich., with nine clinics in the surrounding region. |
-| [`Avamere Family of Companies`]() | 26/12/2022 | Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere Family of Companies is a group of healthcare organizations and systems. |
-| [`Yildiz Entegre USA`]() | 26/12/2022 | https://www.zoominfo.com/c/yldz-entegre/355492210     https://www.dnb.com/business-directory/company-profiles.yildizlar_yatirim_holding_anonim_sirketi.5db0188dbc06caa3c959161dce6ad867.html     NEWS about ~$200,000,000 investments by Company: Yıldızlar Yatırım Holding. Source: https://www.enkocaeli.com/haber/9845649/yildizlar-yatirim-holdinge-saldiri-iddiasi     We should provide Bank Investigations and refer to The Central Bank of the Republic of Turkey, Federal Reserve etc     List of Holding's affiliated group companies:     1- İstanbul Gübre Sanayi Anonim Şirketi     2- Yıldız Entegre Ağaç San ve Tic AŞ,     3- İGSAŞ Tarımsal Ürünler AŞ,     4- İGSAŞ Sigorta ve Aracılık Hizmetleri AŞ,     5- Yıldız Demir Çelik Sanayi AŞ,     6- YLDZ Laboratuvar Hiz Tic AŞ,     7- Yıldızlar Deniz İşletmeciliği AŞ,     8- YYH Yıldız Enerji Tedarik ve Toptan Satış AŞ,     9- Yıldız Entegre USA INC.,     10- Yıldız Entegre Romania SA,     11- Yıldız Chem SRL,     12- Yıldız Logistica SRL,     13- Yıldız Entegre Russia OOO,     14- Yıldız Entegre Adriya DOO     This leak contains most of Strictly_Confidential files with file extensions: .doc / .xls / .xlsx / .pdf / .msg / etc |
-| [`CMHA National`]() | 26/12/2022 | The Canadian Mental Health Association provides mental health services and support. The Association offers advocacy, education, research, and services to person... |
-| [`Chimbusco`]() | 26/12/2022 | Established in 1972, CHIMBUSCO has since reformed with two major shareholders namely, PetroChina and COSCO Group engaging in marine fuel supply of bunker oil, marine lubricants and fresh water as well as trading, blending, transportation and storage of oil products. CHIMBUSCO operates over 50 major ports and 30 branch offices in China, with an operational fleet of over 100 barges. |
-| [`LPA Design`]() | 26/12/2022 | LPA Design is an electronics R&D consulting company with engineering expertise in printed circuit board design, RF communications and antenna optimization, and remote sensors. LPA Desing developed the PocketWizard™ line of photography products. |
-| [`Public Employees Credit Union`]() | 26/12/2022 | We have confidential files belonging to all 29000 members including Name, Address, SSN, Telephone, Email, Credit Cards, Loan Applications, IRS Documents. Include small sample. |
-| [`TPI Corporation`]() | 26/12/2022 | Data Stolen: ~1TB of confidential data were NDA-agreemtents, email-bases, private conversations .msg, financial statements, IRS, confidential business information, engineering projects, legal statements, accounting statements etc. We uploaded small size of Stolen data in TPI-Part1.zip archive for public review:     2022-03-31 TPI Financial STMTS.pdf     2021-08-30 IRS CP216F Notice.pdf     2021-03-31 Mutual NDA - Hearn TPIFostoria Corporation v1.0 (Executed).pdf     2021-03-31 Headliner NVH Project.msg     2020-07-10 Mission National Ins. Co, 2020 Distribution.pdf     2020-03-16 Oliver's of Oregon Bankruptcy.pdf     2019-02-22 ProcessHeat - Project Thermo Countersigned CA - TPI.pdf     2019-02-15 TPICorpFostoriaProcessEquipment&CustomPaperTubesouthwest-Mutual Non-disclosure Agreement.msg     2013-04-15 Federal Mogul Mutual Confidentiality Agreement.pdf     2012-12-21 Emitted Energy Corp Mutual Non-Disclosure Agreement.pdf     Peter Wang Contact Info.pdf |
-| [`CHRISTUS Health`]() | 26/12/2022 | Founded in 1999, CHRISTUS Health an international Catholic, faith-based, not-for-profit health system, is headquartered in the Dallas area. |
-| [`BLUME GLOBAL INC`]() | 26/12/2022 | BLUME GLOBAL INC     BLUME GLOBAL INDIA PRIVATE LTD     BLUME GLOBAL HONG KONG LIMITED     Data Stolen: Proprietary & Confidential, Strictly Confidential NDA agreemtents signed by DocuSign with: J.P. Morgan Securities LLC, Mitsui & Co (mitsui.com) Signatory Mariko Tsuchida(Deputy General Manager), Yara International ASA Signatory Loredana Nistor(IT Sourcing Manager), Dell Inc. Signatory Lisa Woo(Legal Counsel, Legal Strategy and Operations), Hewlett Packard Enterprise Company Signatory Kim Masone(VP Global Logistics Operations), Desarrollo Logístico, S.A., FAIRMOUNT PARTNERS, CITIGROUP GLOBAL MARKETS INC. Signatory Eric Burns(Managing Director), MARLIN MANAGEMENT COMPANY LLC Signatory Ryan Laurin(Managing Director), GI PARTNERS ACQUISITIONS LLC, LiveSource Inc., Röhlig blue-net GmbH, REZ1 Cisco NDA etc + email-bases, private conversations .msg, financial statement etc. We uploaded small size of Stolen data in Blumeglobal_Part1.zip archive. |
-| [`CPA Mutual Insurance Company`]() | 26/12/2022 | Cyber Insurance policy leaked in sample.           At CPA Mutual, our mission is to provide a quality and lasting solution to the professional liability needs of accountants. We bring added value to our member firms by continually striving to exceed their expectations and helping them manage and prevent risks. |
-| [`Livingston`]() | 26/12/2022 | Livingston is a quality source for rental of all Test Equipment and Equipment Management Services with local offices in all major countries. |
-| [`CR2`]() | 26/12/2022 | CR2 is an Irish-owned banking software company which provides mobile, internet and ATM financial service technology to more than 100 retail banks across Africa, the Middle East and Asia. Headquartered in Dublin, Ireland, the company has offices in Dubai, London, Cairo, Amman, Bengaluru, Lagos, Johannesburg, Singapore and Perth. Its customers include ANZ, Barclays, Standard Chartered, Botswana Savings Bank, Jordanian Bank al Etihad,pan-African bank Orabank, and Nigeria’s Access Bank plc and Diamond Bank.           500 GB+ Data includes:     - Sources to all products ever developed including BankWorld, BankWorld POS & ATM.     - Financials     - HR documents     - Accounting files     - Sensitive information on more than 100 banks worldwide          Sample includes the compressed 500 MB large file list and a couple random files for proof, shareholders e-mail list, all active directory users with their names, titles, phone numbers, and e-mails. (28.8 MB compressed) |
-| [`Bechstein`]() | 26/12/2022 | Top quality since 1853: the C. Bechstein name is synonymous with exquisite grand and upright pianos made in Germany. |
-| [`Montmorency College`]() | 26/12/2022 | Cyberattack at Collège Montmorency: ~8TB personal data has been compromised by AVOSLOCKER.     Board of Directors should contact with us immediately to avoid the full leak on our blog.     News and facts about Cyberattack:     https://www.lapresse.ca/actualites/education/2022-05-21/cyberattaque-au-college-montmorency/la-direction-evoque-un-possible-vol-de-donnees-personnelles.php     https://thecanadian.news/cyberattack-at-college-montmorency-personal-data-has-been-compromised/     https://www.academica.ca/top-ten/cyberattacks-strike-coll%C3%A8ge-montmorency-us-institution     https://oicanadian.com/college-montmorency-victim-of-an-alleged-cyberattack/     https://www.spamchronicles.com/college-montmorency-victim-of-a-cyber-attack/     https://actualnewsmagazine.com/english/cyberattack-at-montmorency-college-the-management-evokes-a-possible-theft-of-personal-data/ |
-| [`Transform Data Into Insight`]() | 26/12/2022 | More Than 50GB Important DATA Stolen Will be Publish |
-| [`Garnica Plywood`]() | 26/12/2022 | WILL LEAK ALL DATA SEPTEMBER 1, SAMPLE INCLUDE CONTACT     At Garnica, we offer a wide range of plantation species; we boast different kinds of wood for construction, mobility, furniture, DIY projects and much more. Discover them here. Architecture and materials 21-07-2022 How is plywood manufactured step by step Our commitment to excellence in the plywood production process is reflected in each step. |
-| [`Casa International`]() | 26/12/2022 | European furniture retailer operating in multiple countries |
-| [`WBSCHOOLS`]() | 26/12/2022 | Employee info leak |
-| [`Los Alamos Nature Center`]() | 26/12/2022 | As a financial cooperative, Los Alamos Schools Credit Union provides financial products and services to members featuring more attractive rates and...     All data will be leaked in the next post update. |
-| [`Mount Vernon Mills`]() | 26/12/2022 | stablished in 1947 and headquartered in Mauldin, South Carolina, Mount Vernon Mills is a textiles manufacturer, producing chemicals, textiles, and... |
-| [`Khoemacau Copper Mining`]() | 26/12/2022 | ALL Active Directory domain hashes leaked!!! Format:     kcm.local\tshiamo.molefe:::13506d75610047a00e0b7692e81f70b2:::     kcm.local\mpho.losike:::923a3103e0e13ab8014c9a8354c6337f:::     kcm.local\roy.basson:::27f0e2227d44e6b2ac122c25350efd4c:::     kcm.local\marius.ungerer:::ba1a5281df2eba76948e8c68aaa9211c:::     kcm.local\helga.hugo:::c67c2209034b9537cc07083d842e9f65:::     kcm.local\FortiEMS-svc:::975020171cada4be8e8fb655fcf49e4f:::     kcm.local\tobokani.mosetlha:::0f9437d2c04e53cf4930a1b7cd50659a:::     kcm.local\nikiwe.mahlasela:::83bcee313b6b3bb5d5cd1434128c92e6:::     kcm.local\mooketsi.rantape:::e9923a513a6ee1fb4e08251da13993b2:::     kcm.local\kuairani.hengari:::3ff04097c34204839ec416b3c1399b8b:::          The Khoemacau copper project is an underground mine being developed by American private equity firm Cupric Canyon Capital's subsidiary Khoemacau Copper Mining in Botswana. Khoemacau Copper signed a $565m project funding package deal with Cupric Canyon Capital for the development of the high-grade Khoemacau copper project in February 2019. |
-| [`The Brigantine`]() | 26/12/2022 | The Brigantine Restaurants are a San Diego favorite for fresh seafood, steaks and chops, friendly and knowledgeable services, and inviting facilities. |
-| [`SCAD EDU`]() | 26/12/2022 | 1 database, filelist, all email/phone leaked in sample! Everything leak in 2 week     Savannah College of Art and Design (SCAD) is a private nonprofit art school with locations in Savannah, Georgia; Atlanta, Georgia; and Lacoste, France.          Founded in 1978 to provide degrees in programs not yet offered in the southeast of the United States, the university now operates two locations in Georgia, a degree-granting online education program, and a study abroad location in Lacoste, France. The university enrolls more than 14,000 students from across the United States and around the world with international students comprising up to 17 percent of the student population.[3] SCAD is accredited by the Southern Association of Colleges and Schools Commission on Colleges and other professional accrediting bodies. |
-| [`Truckslogic`]() | 26/12/2022 | Documents include Legal, Financials, passports, licenses          Truckslogic Optimiza la logística de tu empresa. Queremos hacer tu vida y la de tu empresa más fácil, ofrecemos un servicio personalizado, flexible y con la experiencia de más de 15 años en el mercado.          Colombia     Carrera 12A #78-35, Piso 2, Bogotá.          República Dominicana     Calle Euclides Morillo 58, Diamond Mall - Local 81. Santo Domingo          Guatemala     Calzada Roosevelt 51-25, Ciudad de Guatemala. CP: 01057          Panamá     International Business Park Edificio 3825. local 107, planta baja Panamá Pacífico |
-| [`TeladanPrima Argo Group`]() | 26/12/2022 | 750GB+ of stolen data include contracts, confidential , intellectual property data, and more |
-| [`Sunland Asphalt And Construction`]() | 26/12/2022 | Human Resources, Projects, Documents, and more. If Sunland Asphalt refuses to pay the ransom, every data will be published to the public. |
-| [`Stratford University`]() | 26/12/2022 | samples of:          Confidential agreements      Military personnel (white house service members) related files     taxation data |
-| [`Xybion`]() | 26/12/2022 | Xybion's Emidence TM platform satisfies our current and evolving future needs with the unique adoption technique of "Your Process - Your Way", Joseph F. Molloy Vice President, Workforce Safety. We wanted to go paperless without impacting our existing business processes. It was a smooth transition for our users thanks to Labwise XD. |
-| [`Our Lady of Lake University`]() | 26/12/2022 | Our Lady of the Lake University, founded in 1895 by the Congregation of Divine Providence, is a coeducational institution.     - DB     - Health     - Finance     - Admissions     - IT     - HR     And many of more... |
-| [`Paul Smiths College`]() | 26/12/2022 | At Paul Smith's College, it's about the experience. We are the only four-year institution offering broad-based higher education in the Adirondacks. Our programs... |
-| [`Northwest University`]() | 26/12/2022 | Confidential, taxation, and financial data |
-| [`Emtec Inc`]() | 26/12/2022 | Global IT company with terrible IT security. How can Emtec secure clients when they don't secure their own network?          MISRA SUNIL SSN:050-66-2655 Email:Sunil.Misra@emtecinc.com     JOHNSON	RICK SSN:252-33-1704 Email:Rick.Johnson@emtecinc.com     DESAI DINESH SSN:516-74-2061 Email:Dinesh.Desai@emtecinc.com     CHANDLER GREGORY SSN:220-02-8854 Email:Gregory.Chandler@emtecinc.com     BALLINGER VICKI SSN:208-46-9296 Email:Vicki.Ballinger@emtecinc.com |
-| [`American International Industry`]() | 26/12/2022 | The leading manufacturer and distributor of innovative, quality beauty and skin care products for men and women. With 45 years of industry experience.The leading manufacturer and distributor of innovative, quality beauty and skin care products for men and women. With 45 years of industry experience. |
-| [`Zeus Scientific Inc`]() | 26/12/2022 | https://www.zeusscientific.com/about Zeus Scientific, Inc. manufactures clinical diagnostic solutions. The Company offers flexible solutions for autoimmune and infectious disease testing. AvosLocker team publishes the first part of exfiltrated files from Zeus Scientific Servers, NDA contracts etc |
-| [`Hughes Systems Industrial`]() | 26/12/2022 | All company projects includes drawings, contracts, and all details     employees social security number 401K plans     company financial data includes bank accounts information, and taxation reports      and more |
-| [`DLS Motors`]() | 26/12/2022 | We downloaded 50GB of internal files from DLS Motors. -- Just 83 years ago, the company Sobera S.A. entered the Paraguayan market, bringing new business opportunities, new projects, new sources of employment and contributing to the sustained economic growth of our country. |
-| [`Cosmopoint College`]() | 26/12/2022 | We downloaded about 80 gigabytes of internal school documents, including teacher and student contact information, student loan contracts, internal school financial documents, etc |
-| [`ALVAC SA`]() | 26/12/2022 | Website - https://alvac.es     Company name: ALVAC S.A.     Companies System Administrator trying to hide the cyberattack on the ALVAC S.A. servers. Vídeos confidenciales https://vimeo.com/752214614     AvosLocker team is ready to leak more files on the blog, publish video-files and attack networks again. We should agree with you to decrypt your networks and remove all ALVAC S.A. exfiltrated files from AvosLocker team servers.     https://twitter.com/PedroFe12181764/status/1575117531957846017     https://twitter.com/search?q=%40alvac&src=typed_query&f=live |
+| [`LW Group`](https://google.com/search?q=LW+Group) | 26/12/2022 | LW Group now represents eight (8) luxury automobile brands operating at nine (9) locations within the Boston, MA and New Hampshire markets. |
+| [`Keyano College`](https://google.com/search?q=Keyano+College) | 26/12/2022 | Founded in 1965 and based in Fort McMurray, Canada, Keyano College is a community college meeting both the training and skills acquisition needs of industry.          Headquarters:     8115 Franklin Ave, Fort McMurray, Alberta, T9H 2H7, Canada          Phone Number:     (780) 791-4800 |
+| [`McKenzie Health System`](https://google.com/search?q=McKenzie+Health+System) | 26/12/2022 | McKenzie Health System (MHS) is a not-for-profit medical and surgical hospital in Sandusky, Mich., with nine clinics in the surrounding region. |
+| [`Avamere Family of Companies`](https://google.com/search?q=Avamere+Family+of+Companies) | 26/12/2022 | Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere Family of Companies is a group of healthcare organizations and systems. |
+| [`Yildiz Entegre USA`](https://google.com/search?q=Yildiz+Entegre+USA) | 26/12/2022 | https://www.zoominfo.com/c/yldz-entegre/355492210     https://www.dnb.com/business-directory/company-profiles.yildizlar_yatirim_holding_anonim_sirketi.5db0188dbc06caa3c959161dce6ad867.html     NEWS about ~$200,000,000 investments by Company: Yıldızlar Yatırım Holding. Source: https://www.enkocaeli.com/haber/9845649/yildizlar-yatirim-holdinge-saldiri-iddiasi     We should provide Bank Investigations and refer to The Central Bank of the Republic of Turkey, Federal Reserve etc     List of Holding's affiliated group companies:     1- İstanbul Gübre Sanayi Anonim Şirketi     2- Yıldız Entegre Ağaç San ve Tic AŞ,     3- İGSAŞ Tarımsal Ürünler AŞ,     4- İGSAŞ Sigorta ve Aracılık Hizmetleri AŞ,     5- Yıldız Demir Çelik Sanayi AŞ,     6- YLDZ Laboratuvar Hiz Tic AŞ,     7- Yıldızlar Deniz İşletmeciliği AŞ,     8- YYH Yıldız Enerji Tedarik ve Toptan Satış AŞ,     9- Yıldız Entegre USA INC.,     10- Yıldız Entegre Romania SA,     11- Yıldız Chem SRL,     12- Yıldız Logistica SRL,     13- Yıldız Entegre Russia OOO,     14- Yıldız Entegre Adriya DOO     This leak contains most of Strictly_Confidential files with file extensions: .doc / .xls / .xlsx / .pdf / .msg / etc |
+| [`CMHA National`](https://google.com/search?q=CMHA+National) | 26/12/2022 | The Canadian Mental Health Association provides mental health services and support. The Association offers advocacy, education, research, and services to person... |
+| [`Chimbusco`](https://google.com/search?q=Chimbusco) | 26/12/2022 | Established in 1972, CHIMBUSCO has since reformed with two major shareholders namely, PetroChina and COSCO Group engaging in marine fuel supply of bunker oil, marine lubricants and fresh water as well as trading, blending, transportation and storage of oil products. CHIMBUSCO operates over 50 major ports and 30 branch offices in China, with an operational fleet of over 100 barges. |
+| [`LPA Design`](https://google.com/search?q=LPA+Design) | 26/12/2022 | LPA Design is an electronics R&D consulting company with engineering expertise in printed circuit board design, RF communications and antenna optimization, and remote sensors. LPA Desing developed the PocketWizard™ line of photography products. |
+| [`Public Employees Credit Union`](https://google.com/search?q=Public+Employees+Credit+Union) | 26/12/2022 | We have confidential files belonging to all 29000 members including Name, Address, SSN, Telephone, Email, Credit Cards, Loan Applications, IRS Documents. Include small sample. |
+| [`TPI Corporation`](https://google.com/search?q=TPI+Corporation) | 26/12/2022 | Data Stolen: ~1TB of confidential data were NDA-agreemtents, email-bases, private conversations .msg, financial statements, IRS, confidential business information, engineering projects, legal statements, accounting statements etc. We uploaded small size of Stolen data in TPI-Part1.zip archive for public review:     2022-03-31 TPI Financial STMTS.pdf     2021-08-30 IRS CP216F Notice.pdf     2021-03-31 Mutual NDA - Hearn TPIFostoria Corporation v1.0 (Executed).pdf     2021-03-31 Headliner NVH Project.msg     2020-07-10 Mission National Ins. Co, 2020 Distribution.pdf     2020-03-16 Oliver's of Oregon Bankruptcy.pdf     2019-02-22 ProcessHeat - Project Thermo Countersigned CA - TPI.pdf     2019-02-15 TPICorpFostoriaProcessEquipment&CustomPaperTubesouthwest-Mutual Non-disclosure Agreement.msg     2013-04-15 Federal Mogul Mutual Confidentiality Agreement.pdf     2012-12-21 Emitted Energy Corp Mutual Non-Disclosure Agreement.pdf     Peter Wang Contact Info.pdf |
+| [`CHRISTUS Health`](https://google.com/search?q=CHRISTUS+Health) | 26/12/2022 | Founded in 1999, CHRISTUS Health an international Catholic, faith-based, not-for-profit health system, is headquartered in the Dallas area. |
+| [`BLUME GLOBAL INC`](https://google.com/search?q=BLUME+GLOBAL+INC) | 26/12/2022 | BLUME GLOBAL INC     BLUME GLOBAL INDIA PRIVATE LTD     BLUME GLOBAL HONG KONG LIMITED     Data Stolen: Proprietary & Confidential, Strictly Confidential NDA agreemtents signed by DocuSign with: J.P. Morgan Securities LLC, Mitsui & Co (mitsui.com) Signatory Mariko Tsuchida(Deputy General Manager), Yara International ASA Signatory Loredana Nistor(IT Sourcing Manager), Dell Inc. Signatory Lisa Woo(Legal Counsel, Legal Strategy and Operations), Hewlett Packard Enterprise Company Signatory Kim Masone(VP Global Logistics Operations), Desarrollo Logístico, S.A., FAIRMOUNT PARTNERS, CITIGROUP GLOBAL MARKETS INC. Signatory Eric Burns(Managing Director), MARLIN MANAGEMENT COMPANY LLC Signatory Ryan Laurin(Managing Director), GI PARTNERS ACQUISITIONS LLC, LiveSource Inc., Röhlig blue-net GmbH, REZ1 Cisco NDA etc + email-bases, private conversations .msg, financial statement etc. We uploaded small size of Stolen data in Blumeglobal_Part1.zip archive. |
+| [`CPA Mutual Insurance Company`](https://google.com/search?q=CPA+Mutual+Insurance+Company) | 26/12/2022 | Cyber Insurance policy leaked in sample.           At CPA Mutual, our mission is to provide a quality and lasting solution to the professional liability needs of accountants. We bring added value to our member firms by continually striving to exceed their expectations and helping them manage and prevent risks. |
+| [`Livingston`](https://google.com/search?q=Livingston) | 26/12/2022 | Livingston is a quality source for rental of all Test Equipment and Equipment Management Services with local offices in all major countries. |
+| [`CR2`](https://google.com/search?q=CR2) | 26/12/2022 | CR2 is an Irish-owned banking software company which provides mobile, internet and ATM financial service technology to more than 100 retail banks across Africa, the Middle East and Asia. Headquartered in Dublin, Ireland, the company has offices in Dubai, London, Cairo, Amman, Bengaluru, Lagos, Johannesburg, Singapore and Perth. Its customers include ANZ, Barclays, Standard Chartered, Botswana Savings Bank, Jordanian Bank al Etihad,pan-African bank Orabank, and Nigeria’s Access Bank plc and Diamond Bank.           500 GB+ Data includes:     - Sources to all products ever developed including BankWorld, BankWorld POS & ATM.     - Financials     - HR documents     - Accounting files     - Sensitive information on more than 100 banks worldwide          Sample includes the compressed 500 MB large file list and a couple random files for proof, shareholders e-mail list, all active directory users with their names, titles, phone numbers, and e-mails. (28.8 MB compressed) |
+| [`Bechstein`](https://google.com/search?q=Bechstein) | 26/12/2022 | Top quality since 1853: the C. Bechstein name is synonymous with exquisite grand and upright pianos made in Germany. |
+| [`Montmorency College`](https://google.com/search?q=Montmorency+College) | 26/12/2022 | Cyberattack at Collège Montmorency: ~8TB personal data has been compromised by AVOSLOCKER.     Board of Directors should contact with us immediately to avoid the full leak on our blog.     News and facts about Cyberattack:     https://www.lapresse.ca/actualites/education/2022-05-21/cyberattaque-au-college-montmorency/la-direction-evoque-un-possible-vol-de-donnees-personnelles.php     https://thecanadian.news/cyberattack-at-college-montmorency-personal-data-has-been-compromised/     https://www.academica.ca/top-ten/cyberattacks-strike-coll%C3%A8ge-montmorency-us-institution     https://oicanadian.com/college-montmorency-victim-of-an-alleged-cyberattack/     https://www.spamchronicles.com/college-montmorency-victim-of-a-cyber-attack/     https://actualnewsmagazine.com/english/cyberattack-at-montmorency-college-the-management-evokes-a-possible-theft-of-personal-data/ |
+| [`Transform Data Into Insight`](https://google.com/search?q=Transform+Data+Into+Insight) | 26/12/2022 | More Than 50GB Important DATA Stolen Will be Publish |
+| [`Garnica Plywood`](https://google.com/search?q=Garnica+Plywood) | 26/12/2022 | WILL LEAK ALL DATA SEPTEMBER 1, SAMPLE INCLUDE CONTACT     At Garnica, we offer a wide range of plantation species; we boast different kinds of wood for construction, mobility, furniture, DIY projects and much more. Discover them here. Architecture and materials 21-07-2022 How is plywood manufactured step by step Our commitment to excellence in the plywood production process is reflected in each step. |
+| [`Casa International`](https://google.com/search?q=Casa+International) | 26/12/2022 | European furniture retailer operating in multiple countries |
+| [`WBSCHOOLS`](https://google.com/search?q=WBSCHOOLS) | 26/12/2022 | Employee info leak |
+| [`Los Alamos Nature Center`](https://google.com/search?q=Los+Alamos+Nature+Center) | 26/12/2022 | As a financial cooperative, Los Alamos Schools Credit Union provides financial products and services to members featuring more attractive rates and...     All data will be leaked in the next post update. |
+| [`Mount Vernon Mills`](https://google.com/search?q=Mount+Vernon+Mills) | 26/12/2022 | stablished in 1947 and headquartered in Mauldin, South Carolina, Mount Vernon Mills is a textiles manufacturer, producing chemicals, textiles, and... |
+| [`Khoemacau Copper Mining`](https://google.com/search?q=Khoemacau+Copper+Mining) | 26/12/2022 | ALL Active Directory domain hashes leaked!!! Format:     kcm.local\tshiamo.molefe:::13506d75610047a00e0b7692e81f70b2:::     kcm.local\mpho.losike:::923a3103e0e13ab8014c9a8354c6337f:::     kcm.local\roy.basson:::27f0e2227d44e6b2ac122c25350efd4c:::     kcm.local\marius.ungerer:::ba1a5281df2eba76948e8c68aaa9211c:::     kcm.local\helga.hugo:::c67c2209034b9537cc07083d842e9f65:::     kcm.local\FortiEMS-svc:::975020171cada4be8e8fb655fcf49e4f:::     kcm.local\tobokani.mosetlha:::0f9437d2c04e53cf4930a1b7cd50659a:::     kcm.local\nikiwe.mahlasela:::83bcee313b6b3bb5d5cd1434128c92e6:::     kcm.local\mooketsi.rantape:::e9923a513a6ee1fb4e08251da13993b2:::     kcm.local\kuairani.hengari:::3ff04097c34204839ec416b3c1399b8b:::          The Khoemacau copper project is an underground mine being developed by American private equity firm Cupric Canyon Capital's subsidiary Khoemacau Copper Mining in Botswana. Khoemacau Copper signed a $565m project funding package deal with Cupric Canyon Capital for the development of the high-grade Khoemacau copper project in February 2019. |
+| [`The Brigantine`](https://google.com/search?q=The+Brigantine) | 26/12/2022 | The Brigantine Restaurants are a San Diego favorite for fresh seafood, steaks and chops, friendly and knowledgeable services, and inviting facilities. |
+| [`SCAD EDU`](https://google.com/search?q=SCAD+EDU) | 26/12/2022 | 1 database, filelist, all email/phone leaked in sample! Everything leak in 2 week     Savannah College of Art and Design (SCAD) is a private nonprofit art school with locations in Savannah, Georgia; Atlanta, Georgia; and Lacoste, France.          Founded in 1978 to provide degrees in programs not yet offered in the southeast of the United States, the university now operates two locations in Georgia, a degree-granting online education program, and a study abroad location in Lacoste, France. The university enrolls more than 14,000 students from across the United States and around the world with international students comprising up to 17 percent of the student population.[3] SCAD is accredited by the Southern Association of Colleges and Schools Commission on Colleges and other professional accrediting bodies. |
+| [`Truckslogic`](https://google.com/search?q=Truckslogic) | 26/12/2022 | Documents include Legal, Financials, passports, licenses          Truckslogic Optimiza la logística de tu empresa. Queremos hacer tu vida y la de tu empresa más fácil, ofrecemos un servicio personalizado, flexible y con la experiencia de más de 15 años en el mercado.          Colombia     Carrera 12A #78-35, Piso 2, Bogotá.          República Dominicana     Calle Euclides Morillo 58, Diamond Mall - Local 81. Santo Domingo          Guatemala     Calzada Roosevelt 51-25, Ciudad de Guatemala. CP: 01057          Panamá     International Business Park Edificio 3825. local 107, planta baja Panamá Pacífico |
+| [`TeladanPrima Argo Group`](https://google.com/search?q=TeladanPrima+Argo+Group) | 26/12/2022 | 750GB+ of stolen data include contracts, confidential , intellectual property data, and more |
+| [`Sunland Asphalt And Construction`](https://google.com/search?q=Sunland+Asphalt+And+Construction) | 26/12/2022 | Human Resources, Projects, Documents, and more. If Sunland Asphalt refuses to pay the ransom, every data will be published to the public. |
+| [`Stratford University`](https://google.com/search?q=Stratford+University) | 26/12/2022 | samples of:          Confidential agreements      Military personnel (white house service members) related files     taxation data |
+| [`Xybion`](https://google.com/search?q=Xybion) | 26/12/2022 | Xybion's Emidence TM platform satisfies our current and evolving future needs with the unique adoption technique of "Your Process - Your Way", Joseph F. Molloy Vice President, Workforce Safety. We wanted to go paperless without impacting our existing business processes. It was a smooth transition for our users thanks to Labwise XD. |
+| [`Our Lady of Lake University`](https://google.com/search?q=Our+Lady+of+Lake+University) | 26/12/2022 | Our Lady of the Lake University, founded in 1895 by the Congregation of Divine Providence, is a coeducational institution.     - DB     - Health     - Finance     - Admissions     - IT     - HR     And many of more... |
+| [`Paul Smiths College`](https://google.com/search?q=Paul+Smiths+College) | 26/12/2022 | At Paul Smith's College, it's about the experience. We are the only four-year institution offering broad-based higher education in the Adirondacks. Our programs... |
+| [`Northwest University`](https://google.com/search?q=Northwest+University) | 26/12/2022 | Confidential, taxation, and financial data |
+| [`Emtec Inc`](https://google.com/search?q=Emtec+Inc) | 26/12/2022 | Global IT company with terrible IT security. How can Emtec secure clients when they don't secure their own network?          MISRA SUNIL SSN:050-66-2655 Email:Sunil.Misra@emtecinc.com     JOHNSON	RICK SSN:252-33-1704 Email:Rick.Johnson@emtecinc.com     DESAI DINESH SSN:516-74-2061 Email:Dinesh.Desai@emtecinc.com     CHANDLER GREGORY SSN:220-02-8854 Email:Gregory.Chandler@emtecinc.com     BALLINGER VICKI SSN:208-46-9296 Email:Vicki.Ballinger@emtecinc.com |
+| [`American International Industry`](https://google.com/search?q=American+International+Industry) | 26/12/2022 | The leading manufacturer and distributor of innovative, quality beauty and skin care products for men and women. With 45 years of industry experience.The leading manufacturer and distributor of innovative, quality beauty and skin care products for men and women. With 45 years of industry experience. |
+| [`Zeus Scientific Inc`](https://google.com/search?q=Zeus+Scientific+Inc) | 26/12/2022 | https://www.zeusscientific.com/about Zeus Scientific, Inc. manufactures clinical diagnostic solutions. The Company offers flexible solutions for autoimmune and infectious disease testing. AvosLocker team publishes the first part of exfiltrated files from Zeus Scientific Servers, NDA contracts etc |
+| [`Hughes Systems Industrial`](https://google.com/search?q=Hughes+Systems+Industrial) | 26/12/2022 | All company projects includes drawings, contracts, and all details     employees social security number 401K plans     company financial data includes bank accounts information, and taxation reports      and more |
+| [`DLS Motors`](https://google.com/search?q=DLS+Motors) | 26/12/2022 | We downloaded 50GB of internal files from DLS Motors. -- Just 83 years ago, the company Sobera S.A. entered the Paraguayan market, bringing new business opportunities, new projects, new sources of employment and contributing to the sustained economic growth of our country. |
+| [`Cosmopoint College`](https://google.com/search?q=Cosmopoint+College) | 26/12/2022 | We downloaded about 80 gigabytes of internal school documents, including teacher and student contact information, student loan contracts, internal school financial documents, etc |
+| [`ALVAC SA`](https://google.com/search?q=ALVAC+SA) | 26/12/2022 | Website - https://alvac.es     Company name: ALVAC S.A.     Companies System Administrator trying to hide the cyberattack on the ALVAC S.A. servers. Vídeos confidenciales https://vimeo.com/752214614     AvosLocker team is ready to leak more files on the blog, publish video-files and attack networks again. We should agree with you to decrypt your networks and remove all ALVAC S.A. exfiltrated files from AvosLocker team servers.     https://twitter.com/PedroFe12181764/status/1575117531957846017     https://twitter.com/search?q=%40alvac&src=typed_query&f=live |
 | [`Memory Express`](https://google.com/search?q=Memory+Express) | 26/09/2021 |   |
 | [`Huali Industrial Group`](https://google.com/search?q=Huali+Industrial+Group) | 25/09/2021 |   |
 | [`Whitefish River First Nation`](https://google.com/search?q=Whitefish+River+First+Nation) | 25/09/2021 |   |
@@ -906,17 +906,17 @@ _`captcha prevents indexing`_
 
 | post | date | Description
 |---|---|---|
-| [`St. Rose Hospital`]() | 29/12/2022 | St. Rose Hospital is an hospital located in Hayward, California. It is a designated cardiac arrest receiving center in the Alameda County emergency medical services system, and provides basic emergency medical services. |
-| [`MITCON Consultancy & Engineering Services`]() | 29/12/2022 | Established in 1982 in Pune, Mitcon is a renowned Indian Technical Consulting Organization (TCO) offering One Stop Solution for all your technical, marketing & financial business requirements. |
-| [`*********** E*****`]() | 29/12/2022 | Company that operates in the Oil & Energy industry. |
-| [`Myofficeplace Inc.`]() | 23/12/2022 | Managed, Dedicated enterprise-class Cloud hosting for businesses. Citrix Hosting, Virtual Servers. |
-| [`SEMITEC Corporation`]() | 23/12/2022 | Semitec Vietnam (SEV) is the 15th subsidiary of Semitec Corporation, headquartered in Japan. The company specializes in manufacturing electronics, sensors. |
-| [`*****`]() | 23/12/2022 | International provider of analytics, technology solutions and contract research services for the healthcare industry. |
-| [`Realstar Holdings Partnership`]() | 23/12/2022 | Realstar is a company that operates in the Real Estate industry. It employs 251-500 people and has $50M-$100M of revenue. The company is headquartered in Toronto, Ontario, Canada. |
-| [`Berlina Tbk`]() | 22/12/2022 | Berlina Tbk provides one stop solution for plastic packaging with state-of-the-art technology and machinery, complete product design & development, Tube, Injection Moulding, Blow Moulding, Cap, Decoration and Mould making facilities. |
-| [`M*****`]() | 21/12/2022 | Consultancy and engineering services firm. |
-| [`M*******l***`]() | 21/12/2022 | Hosting, quick book hosting, sql hosting, exchange hosting. |
-| [`S****** Electronics"`]() | 21/12/2022 | Corporation manufactures and sells electronic components in Japan and internationally |
+| [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | 29/12/2022 | St. Rose Hospital is an hospital located in Hayward, California. It is a designated cardiac arrest receiving center in the Alameda County emergency medical services system, and provides basic emergency medical services. |
+| [`MITCON Consultancy & Engineering Services`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services) | 29/12/2022 | Established in 1982 in Pune, Mitcon is a renowned Indian Technical Consulting Organization (TCO) offering One Stop Solution for all your technical, marketing & financial business requirements. |
+| [`*********** E*****`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+E%2A%2A%2A%2A%2A) | 29/12/2022 | Company that operates in the Oil & Energy industry. |
+| [`Myofficeplace Inc.`](https://google.com/search?q=Myofficeplace+Inc.) | 23/12/2022 | Managed, Dedicated enterprise-class Cloud hosting for businesses. Citrix Hosting, Virtual Servers. |
+| [`SEMITEC Corporation`](https://google.com/search?q=SEMITEC+Corporation) | 23/12/2022 | Semitec Vietnam (SEV) is the 15th subsidiary of Semitec Corporation, headquartered in Japan. The company specializes in manufacturing electronics, sensors. |
+| [`*****`](https://google.com/search?q=%2A%2A%2A%2A%2A) | 23/12/2022 | International provider of analytics, technology solutions and contract research services for the healthcare industry. |
+| [`Realstar Holdings Partnership`](https://google.com/search?q=Realstar+Holdings+Partnership) | 23/12/2022 | Realstar is a company that operates in the Real Estate industry. It employs 251-500 people and has $50M-$100M of revenue. The company is headquartered in Toronto, Ontario, Canada. |
+| [`Berlina Tbk`](https://google.com/search?q=Berlina+Tbk) | 22/12/2022 | Berlina Tbk provides one stop solution for plastic packaging with state-of-the-art technology and machinery, complete product design & development, Tube, Injection Moulding, Blow Moulding, Cap, Decoration and Mould making facilities. |
+| [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | 21/12/2022 | Consultancy and engineering services firm. |
+| [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | 21/12/2022 | Hosting, quick book hosting, sql hosting, exchange hosting. |
+| [`S****** Electronics"`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+Electronics%22) | 21/12/2022 | Corporation manufactures and sells electronic components in Japan and internationally |
 | [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | 17/12/2022 |   |
 | [`Spa`](https://google.com/search?q=Spa) | 16/12/2022 |   |
 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | 16/12/2022 |   |
@@ -1561,129 +1561,129 @@ _`claim to donate 80% of earnings to charity`_
 
 | post | date | Description
 |---|---|---|
-| [`SOFTEQ.COM`]() | 22/12/2022 |  |
-| [`MARCELSOLUTION.COM`]() | 22/12/2022 |  |
-| [`ORDEREXPRESS.COM.MX`]() | 22/12/2022 |  |
-| [`LOESCHGROUP.DE`]() | 22/12/2022 |  |
-| [`SOUTH-STAFFS-WATER.CO.UK`]() | 22/12/2022 |  |
-| [`APPLEXUS.COM`]() | 22/12/2022 |  |
-| [`SPINNEYS.COM`]() | 22/12/2022 |  |
-| [`PRICEDEX.COM`]() | 22/12/2022 |  |
-| [`FERRAN-SERVICES.COM`]() | 22/12/2022 |  |
-| [`LATOURNERIE-WOLFROM.COM`]() | 22/12/2022 |  |
-| [`ENSSECURITY.COM`]() | 22/12/2022 |  |
-| [`FTSUMNERK12.COM`]() | 22/12/2022 |  |
-| [`NEWCOURSECC.COM`]() | 22/12/2022 |  |
-| [`PERBIT.COM`]() | 22/12/2022 |  |
-| [`888VOIP.COM`]() | 22/12/2022 |  |
-| [`AFJCONSULTING.NET`]() | 22/12/2022 |  |
-| [`ORBITELECTRIC.COM`]() | 22/12/2022 |  |
-| [`FAIR-RITE.COM`]() | 22/12/2022 |  |
-| [`JDAVIDTAXLAW.COM`]() | 22/12/2022 |  |
-| [`THENOC.NET`]() | 22/12/2022 |  |
-| [`ZISSERFAMILYLAW.COM`]() | 22/12/2022 |  |
-| [`SA1SOLUTIONS.COM`]() | 22/12/2022 |  |
-| [`OAKDELL.COM`]() | 22/12/2022 |  |
-| [`ALTERNATIVETECHS.COM`]() | 22/12/2022 |  |
-| [`DRIVEANDSHINE.COM`]() | 22/12/2022 |  |
-| [`DRC-LAW.COM`]() | 22/12/2022 |  |
-| [`ALEXIM.COM`]() | 22/12/2022 |  |
-| [`CAPCARPET.COM`]() | 22/12/2022 |  |
-| [`JBINSTANTLAWN.NET`]() | 22/12/2022 |  |
-| [`JCWHITE.COM`]() | 22/12/2022 |  |
-| [`DUTTONFIRM.COM`]() | 22/12/2022 |  |
-| [`ENPRECIS.COM`]() | 22/12/2022 |  |
-| [`MTMRECOGNITION.COM`]() | 22/12/2022 |  |
-| [`MUSCHERT-GIERSE.DE`]() | 22/12/2022 |  |
-| [`SWIRESPO.COM`]() | 22/12/2022 |  |
-| [`EDAN.COM`]() | 22/12/2022 |  |
-| [`MCH-GROUP.COM`]() | 22/12/2022 |  |
-| [`SLIMSTOCK.COM`]() | 22/12/2022 |  |
-| [`QUANTUMGROUP.COM`]() | 22/12/2022 |  |
-| [`NATUS.COM`]() | 22/12/2022 |  |
-| [`SMARTERASP.NET`]() | 22/12/2022 |  |
-| [`TONLYELE.COM`]() | 22/12/2022 |  |
-| [`SSMSJUSTICE.COM`]() | 22/12/2022 |  |
-| [`ABSOLUTERESULTS.COM`]() | 22/12/2022 |  |
-| [`BOLTONUSA.COM`]() | 22/12/2022 |  |
-| [`STRATISVISUALS.COM`]() | 22/12/2022 |  |
-| [`EMPIRICAL-RESEARCH.COM`]() | 22/12/2022 |  |
-| [`BRPRINTERS.COM`]() | 22/12/2022 |  |
-| [`BLUEBONNETNUTRITION.COM`]() | 22/12/2022 |  |
-| [`SUNSETHCS.COM`]() | 22/12/2022 |  |
-| [`BPATPA.COM`]() | 22/12/2022 |  |
-| [`GENESISNET.COM`]() | 22/12/2022 |  |
-| [`COMPASSNRG.COM`]() | 22/12/2022 |  |
-| [`COULSONGROUP.COM`]() | 22/12/2022 |  |
-| [`STORAFILE.CO.UK`]() | 22/12/2022 |  |
-| [`KLEINBERGLANGE.COM`]() | 22/12/2022 |  |
-| [`WDMANOR.COM`]() | 22/12/2022 |  |
-| [`MMALTZAN.COM`]() | 22/12/2022 |  |
-| [`KSSENTERPRISES.COM`]() | 22/12/2022 |  |
-| [`PARAGONGRI.COM`]() | 22/12/2022 |  |
-| [`PENBENS.COM`]() | 22/12/2022 |  |
-| [`GOABCO.COM`]() | 22/12/2022 |  |
-| [`ZUCCHETTIKOS.IT`]() | 22/12/2022 |  |
-| [`RMICO.COM`]() | 22/12/2022 |  |
-| [`VALLEYTRUCKANDTRACTOR.COM`]() | 22/12/2022 |  |
-| [`KSSARCHITECTS.COM`]() | 22/12/2022 |  |
-| [`NFT.CO.UK`]() | 22/12/2022 |  |
-| [`ARCHIVE2`]() | 22/12/2022 |  |
-| [`UTILITYTRAILER.COM`]() | 22/12/2022 |  |
-| [`AUROBINDO.COM`]() | 22/12/2022 |  |
-| [`FOODLAND.COM`]() | 22/12/2022 |  |
-| [`NIPRO.COM`]() | 22/12/2022 |  |
-| [`PNCPA.COM`]() | 22/12/2022 |  |
-| [`SHELL.COM`]() | 22/12/2022 |  |
-| [`STANFORD.EDU`]() | 22/12/2022 |  |
-| [`MIAMI.EDU`]() | 22/12/2022 |  |
-| [`COLORADO.EDU`]() | 22/12/2022 |  |
-| [`FLAGSTAR.COM`]() | 22/12/2022 |  |
-| [`BOMBARDIER.COM`]() | 22/12/2022 |  |
-| [`JONESDAY.COM`]() | 22/12/2022 |  |
-| [`DANAHER.COM`]() | 22/12/2022 |  |
-| [`SINGTEL.COM`]() | 22/12/2022 |  |
-| [`SYMRISE.COM`]() | 22/12/2022 |  |
-| [`ELANDRETAIL.COM`]() | 22/12/2022 |  |
-| [`PARKLAND.CA`]() | 22/12/2022 |  |
-| [`SOFTWAREAG.COM`]() | 22/12/2022 |  |
-| [`INDIABULLS.COM`]() | 22/12/2022 |  |
-| [`EXECUPHARM.COM`]() | 22/12/2022 |  |
-| [`SGS-LAW.COM`]() | 22/12/2022 |  |
-| [`RFF.ORG`]() | 22/12/2022 |  |
-| [`BOUTINEXPRESS.COM`]() | 22/12/2022 |  |
-| [`SIUMED.EDU`]() | 22/12/2022 |  |
-| [`TRAVELSTORE.COM`]() | 22/12/2022 |  |
-| [`DURHAM.CA`]() | 22/12/2022 |  |
-| [`UNIVERSITYOFCALIFORNIA.EDU`]() | 22/12/2022 |  |
-| [`UMD.EDU`]() | 22/12/2022 |  |
-| [`YU.EDU`]() | 22/12/2022 |  |
-| [`MARNELLCOMPANIES.COM`]() | 22/12/2022 |  |
-| [`RACETRAC.COM`]() | 22/12/2022 |  |
-| [`EDAG.COM`]() | 22/12/2022 |  |
-| [`WRIGHT.COM`]() | 22/12/2022 |  |
-| [`QUALYS.COM`]() | 22/12/2022 |  |
-| [`MMOSER.COM`]() | 22/12/2022 |  |
-| [`KINZE.COM`]() | 22/12/2022 |  |
-| [`NOWFOODS.COM`]() | 22/12/2022 |  |
-| [`CSX.COM`]() | 22/12/2022 |  |
-| [`CSAGROUP.ORG`]() | 22/12/2022 |  |
-| [`TRANSPORT.NSW.GOV.AU`]() | 22/12/2022 |  |
-| [`CGG.COM`]() | 22/12/2022 |  |
-| [`STERIS.COM`]() | 22/12/2022 |  |
-| [`PENTAIR.COM`]() | 22/12/2022 |  |
-| [`FUGRO.COM`]() | 22/12/2022 |  |
-| [`EAGLE.ORG`]() | 22/12/2022 |  |
-| [`THE7STARS.CO.UK`]() | 22/12/2022 |  |
-| [`AMEY.CO.UK`]() | 22/12/2022 |  |
-| [`NOVABIOMEDICAL.COM`]() | 22/12/2022 |  |
-| [`ALLSTATEPETERBILT.COM`]() | 22/12/2022 |  |
-| [`PRETTL.COM`]() | 22/12/2022 |  |
-| [`NETZSCH.COM`]() | 22/12/2022 |  |
-| [`PROMINENT.COM`]() | 22/12/2022 |  |
-| [`PLANATOL.DE`]() | 22/12/2022 |  |
-| [`TWL.DE`]() | 22/12/2022 |  |
-| [`INRIX.COM`]() | 22/12/2022 |  |
+| [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 |  |
+| [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  |
+| [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  |
+| [`LOESCHGROUP.DE`](https://google.com/search?q=LOESCHGROUP.DE) | 22/12/2022 |  |
+| [`SOUTH-STAFFS-WATER.CO.UK`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK) | 22/12/2022 |  |
+| [`APPLEXUS.COM`](https://google.com/search?q=APPLEXUS.COM) | 22/12/2022 |  |
+| [`SPINNEYS.COM`](https://google.com/search?q=SPINNEYS.COM) | 22/12/2022 |  |
+| [`PRICEDEX.COM`](https://google.com/search?q=PRICEDEX.COM) | 22/12/2022 |  |
+| [`FERRAN-SERVICES.COM`](https://google.com/search?q=FERRAN-SERVICES.COM) | 22/12/2022 |  |
+| [`LATOURNERIE-WOLFROM.COM`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM) | 22/12/2022 |  |
+| [`ENSSECURITY.COM`](https://google.com/search?q=ENSSECURITY.COM) | 22/12/2022 |  |
+| [`FTSUMNERK12.COM`](https://google.com/search?q=FTSUMNERK12.COM) | 22/12/2022 |  |
+| [`NEWCOURSECC.COM`](https://google.com/search?q=NEWCOURSECC.COM) | 22/12/2022 |  |
+| [`PERBIT.COM`](https://google.com/search?q=PERBIT.COM) | 22/12/2022 |  |
+| [`888VOIP.COM`](https://google.com/search?q=888VOIP.COM) | 22/12/2022 |  |
+| [`AFJCONSULTING.NET`](https://google.com/search?q=AFJCONSULTING.NET) | 22/12/2022 |  |
+| [`ORBITELECTRIC.COM`](https://google.com/search?q=ORBITELECTRIC.COM) | 22/12/2022 |  |
+| [`FAIR-RITE.COM`](https://google.com/search?q=FAIR-RITE.COM) | 22/12/2022 |  |
+| [`JDAVIDTAXLAW.COM`](https://google.com/search?q=JDAVIDTAXLAW.COM) | 22/12/2022 |  |
+| [`THENOC.NET`](https://google.com/search?q=THENOC.NET) | 22/12/2022 |  |
+| [`ZISSERFAMILYLAW.COM`](https://google.com/search?q=ZISSERFAMILYLAW.COM) | 22/12/2022 |  |
+| [`SA1SOLUTIONS.COM`](https://google.com/search?q=SA1SOLUTIONS.COM) | 22/12/2022 |  |
+| [`OAKDELL.COM`](https://google.com/search?q=OAKDELL.COM) | 22/12/2022 |  |
+| [`ALTERNATIVETECHS.COM`](https://google.com/search?q=ALTERNATIVETECHS.COM) | 22/12/2022 |  |
+| [`DRIVEANDSHINE.COM`](https://google.com/search?q=DRIVEANDSHINE.COM) | 22/12/2022 |  |
+| [`DRC-LAW.COM`](https://google.com/search?q=DRC-LAW.COM) | 22/12/2022 |  |
+| [`ALEXIM.COM`](https://google.com/search?q=ALEXIM.COM) | 22/12/2022 |  |
+| [`CAPCARPET.COM`](https://google.com/search?q=CAPCARPET.COM) | 22/12/2022 |  |
+| [`JBINSTANTLAWN.NET`](https://google.com/search?q=JBINSTANTLAWN.NET) | 22/12/2022 |  |
+| [`JCWHITE.COM`](https://google.com/search?q=JCWHITE.COM) | 22/12/2022 |  |
+| [`DUTTONFIRM.COM`](https://google.com/search?q=DUTTONFIRM.COM) | 22/12/2022 |  |
+| [`ENPRECIS.COM`](https://google.com/search?q=ENPRECIS.COM) | 22/12/2022 |  |
+| [`MTMRECOGNITION.COM`](https://google.com/search?q=MTMRECOGNITION.COM) | 22/12/2022 |  |
+| [`MUSCHERT-GIERSE.DE`](https://google.com/search?q=MUSCHERT-GIERSE.DE) | 22/12/2022 |  |
+| [`SWIRESPO.COM`](https://google.com/search?q=SWIRESPO.COM) | 22/12/2022 |  |
+| [`EDAN.COM`](https://google.com/search?q=EDAN.COM) | 22/12/2022 |  |
+| [`MCH-GROUP.COM`](https://google.com/search?q=MCH-GROUP.COM) | 22/12/2022 |  |
+| [`SLIMSTOCK.COM`](https://google.com/search?q=SLIMSTOCK.COM) | 22/12/2022 |  |
+| [`QUANTUMGROUP.COM`](https://google.com/search?q=QUANTUMGROUP.COM) | 22/12/2022 |  |
+| [`NATUS.COM`](https://google.com/search?q=NATUS.COM) | 22/12/2022 |  |
+| [`SMARTERASP.NET`](https://google.com/search?q=SMARTERASP.NET) | 22/12/2022 |  |
+| [`TONLYELE.COM`](https://google.com/search?q=TONLYELE.COM) | 22/12/2022 |  |
+| [`SSMSJUSTICE.COM`](https://google.com/search?q=SSMSJUSTICE.COM) | 22/12/2022 |  |
+| [`ABSOLUTERESULTS.COM`](https://google.com/search?q=ABSOLUTERESULTS.COM) | 22/12/2022 |  |
+| [`BOLTONUSA.COM`](https://google.com/search?q=BOLTONUSA.COM) | 22/12/2022 |  |
+| [`STRATISVISUALS.COM`](https://google.com/search?q=STRATISVISUALS.COM) | 22/12/2022 |  |
+| [`EMPIRICAL-RESEARCH.COM`](https://google.com/search?q=EMPIRICAL-RESEARCH.COM) | 22/12/2022 |  |
+| [`BRPRINTERS.COM`](https://google.com/search?q=BRPRINTERS.COM) | 22/12/2022 |  |
+| [`BLUEBONNETNUTRITION.COM`](https://google.com/search?q=BLUEBONNETNUTRITION.COM) | 22/12/2022 |  |
+| [`SUNSETHCS.COM`](https://google.com/search?q=SUNSETHCS.COM) | 22/12/2022 |  |
+| [`BPATPA.COM`](https://google.com/search?q=BPATPA.COM) | 22/12/2022 |  |
+| [`GENESISNET.COM`](https://google.com/search?q=GENESISNET.COM) | 22/12/2022 |  |
+| [`COMPASSNRG.COM`](https://google.com/search?q=COMPASSNRG.COM) | 22/12/2022 |  |
+| [`COULSONGROUP.COM`](https://google.com/search?q=COULSONGROUP.COM) | 22/12/2022 |  |
+| [`STORAFILE.CO.UK`](https://google.com/search?q=STORAFILE.CO.UK) | 22/12/2022 |  |
+| [`KLEINBERGLANGE.COM`](https://google.com/search?q=KLEINBERGLANGE.COM) | 22/12/2022 |  |
+| [`WDMANOR.COM`](https://google.com/search?q=WDMANOR.COM) | 22/12/2022 |  |
+| [`MMALTZAN.COM`](https://google.com/search?q=MMALTZAN.COM) | 22/12/2022 |  |
+| [`KSSENTERPRISES.COM`](https://google.com/search?q=KSSENTERPRISES.COM) | 22/12/2022 |  |
+| [`PARAGONGRI.COM`](https://google.com/search?q=PARAGONGRI.COM) | 22/12/2022 |  |
+| [`PENBENS.COM`](https://google.com/search?q=PENBENS.COM) | 22/12/2022 |  |
+| [`GOABCO.COM`](https://google.com/search?q=GOABCO.COM) | 22/12/2022 |  |
+| [`ZUCCHETTIKOS.IT`](https://google.com/search?q=ZUCCHETTIKOS.IT) | 22/12/2022 |  |
+| [`RMICO.COM`](https://google.com/search?q=RMICO.COM) | 22/12/2022 |  |
+| [`VALLEYTRUCKANDTRACTOR.COM`](https://google.com/search?q=VALLEYTRUCKANDTRACTOR.COM) | 22/12/2022 |  |
+| [`KSSARCHITECTS.COM`](https://google.com/search?q=KSSARCHITECTS.COM) | 22/12/2022 |  |
+| [`NFT.CO.UK`](https://google.com/search?q=NFT.CO.UK) | 22/12/2022 |  |
+| [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | 22/12/2022 |  |
+| [`UTILITYTRAILER.COM`](https://google.com/search?q=UTILITYTRAILER.COM) | 22/12/2022 |  |
+| [`AUROBINDO.COM`](https://google.com/search?q=AUROBINDO.COM) | 22/12/2022 |  |
+| [`FOODLAND.COM`](https://google.com/search?q=FOODLAND.COM) | 22/12/2022 |  |
+| [`NIPRO.COM`](https://google.com/search?q=NIPRO.COM) | 22/12/2022 |  |
+| [`PNCPA.COM`](https://google.com/search?q=PNCPA.COM) | 22/12/2022 |  |
+| [`SHELL.COM`](https://google.com/search?q=SHELL.COM) | 22/12/2022 |  |
+| [`STANFORD.EDU`](https://google.com/search?q=STANFORD.EDU) | 22/12/2022 |  |
+| [`MIAMI.EDU`](https://google.com/search?q=MIAMI.EDU) | 22/12/2022 |  |
+| [`COLORADO.EDU`](https://google.com/search?q=COLORADO.EDU) | 22/12/2022 |  |
+| [`FLAGSTAR.COM`](https://google.com/search?q=FLAGSTAR.COM) | 22/12/2022 |  |
+| [`BOMBARDIER.COM`](https://google.com/search?q=BOMBARDIER.COM) | 22/12/2022 |  |
+| [`JONESDAY.COM`](https://google.com/search?q=JONESDAY.COM) | 22/12/2022 |  |
+| [`DANAHER.COM`](https://google.com/search?q=DANAHER.COM) | 22/12/2022 |  |
+| [`SINGTEL.COM`](https://google.com/search?q=SINGTEL.COM) | 22/12/2022 |  |
+| [`SYMRISE.COM`](https://google.com/search?q=SYMRISE.COM) | 22/12/2022 |  |
+| [`ELANDRETAIL.COM`](https://google.com/search?q=ELANDRETAIL.COM) | 22/12/2022 |  |
+| [`PARKLAND.CA`](https://google.com/search?q=PARKLAND.CA) | 22/12/2022 |  |
+| [`SOFTWAREAG.COM`](https://google.com/search?q=SOFTWAREAG.COM) | 22/12/2022 |  |
+| [`INDIABULLS.COM`](https://google.com/search?q=INDIABULLS.COM) | 22/12/2022 |  |
+| [`EXECUPHARM.COM`](https://google.com/search?q=EXECUPHARM.COM) | 22/12/2022 |  |
+| [`SGS-LAW.COM`](https://google.com/search?q=SGS-LAW.COM) | 22/12/2022 |  |
+| [`RFF.ORG`](https://google.com/search?q=RFF.ORG) | 22/12/2022 |  |
+| [`BOUTINEXPRESS.COM`](https://google.com/search?q=BOUTINEXPRESS.COM) | 22/12/2022 |  |
+| [`SIUMED.EDU`](https://google.com/search?q=SIUMED.EDU) | 22/12/2022 |  |
+| [`TRAVELSTORE.COM`](https://google.com/search?q=TRAVELSTORE.COM) | 22/12/2022 |  |
+| [`DURHAM.CA`](https://google.com/search?q=DURHAM.CA) | 22/12/2022 |  |
+| [`UNIVERSITYOFCALIFORNIA.EDU`](https://google.com/search?q=UNIVERSITYOFCALIFORNIA.EDU) | 22/12/2022 |  |
+| [`UMD.EDU`](https://google.com/search?q=UMD.EDU) | 22/12/2022 |  |
+| [`YU.EDU`](https://google.com/search?q=YU.EDU) | 22/12/2022 |  |
+| [`MARNELLCOMPANIES.COM`](https://google.com/search?q=MARNELLCOMPANIES.COM) | 22/12/2022 |  |
+| [`RACETRAC.COM`](https://google.com/search?q=RACETRAC.COM) | 22/12/2022 |  |
+| [`EDAG.COM`](https://google.com/search?q=EDAG.COM) | 22/12/2022 |  |
+| [`WRIGHT.COM`](https://google.com/search?q=WRIGHT.COM) | 22/12/2022 |  |
+| [`QUALYS.COM`](https://google.com/search?q=QUALYS.COM) | 22/12/2022 |  |
+| [`MMOSER.COM`](https://google.com/search?q=MMOSER.COM) | 22/12/2022 |  |
+| [`KINZE.COM`](https://google.com/search?q=KINZE.COM) | 22/12/2022 |  |
+| [`NOWFOODS.COM`](https://google.com/search?q=NOWFOODS.COM) | 22/12/2022 |  |
+| [`CSX.COM`](https://google.com/search?q=CSX.COM) | 22/12/2022 |  |
+| [`CSAGROUP.ORG`](https://google.com/search?q=CSAGROUP.ORG) | 22/12/2022 |  |
+| [`TRANSPORT.NSW.GOV.AU`](https://google.com/search?q=TRANSPORT.NSW.GOV.AU) | 22/12/2022 |  |
+| [`CGG.COM`](https://google.com/search?q=CGG.COM) | 22/12/2022 |  |
+| [`STERIS.COM`](https://google.com/search?q=STERIS.COM) | 22/12/2022 |  |
+| [`PENTAIR.COM`](https://google.com/search?q=PENTAIR.COM) | 22/12/2022 |  |
+| [`FUGRO.COM`](https://google.com/search?q=FUGRO.COM) | 22/12/2022 |  |
+| [`EAGLE.ORG`](https://google.com/search?q=EAGLE.ORG) | 22/12/2022 |  |
+| [`THE7STARS.CO.UK`](https://google.com/search?q=THE7STARS.CO.UK) | 22/12/2022 |  |
+| [`AMEY.CO.UK`](https://google.com/search?q=AMEY.CO.UK) | 22/12/2022 |  |
+| [`NOVABIOMEDICAL.COM`](https://google.com/search?q=NOVABIOMEDICAL.COM) | 22/12/2022 |  |
+| [`ALLSTATEPETERBILT.COM`](https://google.com/search?q=ALLSTATEPETERBILT.COM) | 22/12/2022 |  |
+| [`PRETTL.COM`](https://google.com/search?q=PRETTL.COM) | 22/12/2022 |  |
+| [`NETZSCH.COM`](https://google.com/search?q=NETZSCH.COM) | 22/12/2022 |  |
+| [`PROMINENT.COM`](https://google.com/search?q=PROMINENT.COM) | 22/12/2022 |  |
+| [`PLANATOL.DE`](https://google.com/search?q=PLANATOL.DE) | 22/12/2022 |  |
+| [`TWL.DE`](https://google.com/search?q=TWL.DE) | 22/12/2022 |  |
+| [`INRIX.COM`](https://google.com/search?q=INRIX.COM) | 22/12/2022 |  |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -2155,7 +2155,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 | post | date | Description
 |---|---|---|
-| [`pu.edu.lb`]() | 27/12/2022 | Phoenicia University (PU) is a non-profit, private, and nonsectarian officially licensed institution of higher education. The University comprises six colleges: Architecture and Design, Arts and Sciences, Business, Engineering, Law... |
+| [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | 27/12/2022 | Phoenicia University (PU) is a non-profit, private, and nonsectarian officially licensed institution of higher education. The University comprises six colleges: Architecture and Design, Arts and Sciences, Business, Engineering, Law... |
 | [`Sae-a`](https://google.com/search?q=Sae-a) | 20/12/2022 | From yarn-production through its fabric mills that draw on in new innovation and technology, to retail operations in Korea, SAE-A has become one of the few apparel manufacturers capable of achieving complete vertical-integration of... |
 | [`2networkit`](https://google.com/search?q=2networkit) | 12/12/2022 |   |
 | [`Landaumedia`](https://google.com/search?q=Landaumedia) | 01/12/2022 |   |
@@ -3278,7 +3278,7 @@ _`aka hotarus corp`_
 
 | post | date | Description
 |---|---|---|
-| [`Goodwill industries`]() | 21/12/2022 | Centrisys is a USA manufacturer of decanter centrifuges for sludge dewatering and thickening. Since 1987 Centrisys has been a leader in decanter centrifuge service and repair for all brands of centrifuges on the market today. CNP - Technology Water and Biosolids, a subsidiary of Centrifuge-Systems, LLC, designs and supplies innovative nutrient recovery and energy optimization systems for wastewater treatment. In this release we can offer you 403 GB of their corporate data. |
+| [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | 21/12/2022 | Centrisys is a USA manufacturer of decanter centrifuges for sludge dewatering and thickening. Since 1987 Centrisys has been a leader in decanter centrifuge service and repair for all brands of centrifuges on the market today. CNP - Technology Water and Biosolids, a subsidiary of Centrifuge-Systems, LLC, designs and supplies innovative nutrient recovery and energy optimization systems for wastewater treatment. In this release we can offer you 403 GB of their corporate data. |
 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |
 | [`TLC`](https://google.com/search?q=TLC) | 18/12/2022 | TLC is a global brand available in more than 84 million homes in the US and 270 million households around the world. Viewers can enjoy their favorite shows anytime, anywhere on discovery+, the definitive non-fiction, real-life subscription streaming service. A destination online, TLC offers in-depth fan sites and exclusive original video content. TLC is part of Discovery (NASDAQ: DISCA, DISCB, DISCK), reaching 3 billion cumulative viewers in more than 220 countries and territories to satisfy curiosity and captivate superfans with a portfolio of premium nonfiction, lifestyle, sports and kids content brands. In this case we will provide you with almost 1 TB of their scripts, videos, internal documentation, as well as personal information of employees and much more. |
 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | 18/12/2022 |   |
@@ -4584,12 +4584,12 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 | post | date | Description
 |---|---|---|
-| [`portodelisboa.pt`]() | 29/12/2022 | Apl Administrao Do Porto De Lisboa SA is a company that operates in the Transportation/Trucking/Railroad industry.After successful work with the Portuguese Port Authority. In our hands are. All financial reports, audits, budgets. Contracts, infor... |
-| [`aristopharma.com`]() | 24/12/2022 | 1 part of:750GB, Personal folders of key employees, all infrastructure\personal data\accounting, etc.Md. Azharul Islam_6581 36gb - Senior Executive,Production at Aristopharma Ltd.  Md. Rubel_10790 4gb - Executive, Production at Aristopharma Ltd... |
-| [`excentiahumanservices.org`]() | 23/12/2022 | Revenue 14kkExcentia Human Services is a nonprofit organization in Lancaster County that provides services for people with developmental needs and autism throughout the lifespan. These services can begin at birth with therapeutic and educati... |
-| [`bavelloni.com`]() | 23/12/2022 | Bavelloni SpA provides glass processing technology and services for the architectural, furniture and domestic appliance and solar industries.We encrypted the network of this company. We also stole about 200GB of the date. Financial information. Sal... |
-| [`thedonovancompany.com`]() | 22/12/2022 | A small boutique CPA firm located in Irvine California. We provide tax and accounting services to individuals and their businesses. Hands on assistance with tax planning, tax compliance and various other matters. We believe getting to know our client... |
-| [`maxionwheels.com`]() | 22/12/2022 | Founded in 1908 and headquartered in Novi, Michigan, MAXION Wheels wheel manufacturer for passenger cars, light trucks, buses, commercial trucks, and trailers. |
+| [`portodelisboa.pt`](https://google.com/search?q=portodelisboa.pt) | 29/12/2022 | Apl Administrao Do Porto De Lisboa SA is a company that operates in the Transportation/Trucking/Railroad industry.After successful work with the Portuguese Port Authority. In our hands are. All financial reports, audits, budgets. Contracts, infor... |
+| [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | 24/12/2022 | 1 part of:750GB, Personal folders of key employees, all infrastructure\personal data\accounting, etc.Md. Azharul Islam_6581 36gb - Senior Executive,Production at Aristopharma Ltd.  Md. Rubel_10790 4gb - Executive, Production at Aristopharma Ltd... |
+| [`excentiahumanservices.org`](https://google.com/search?q=excentiahumanservices.org) | 23/12/2022 | Revenue 14kkExcentia Human Services is a nonprofit organization in Lancaster County that provides services for people with developmental needs and autism throughout the lifespan. These services can begin at birth with therapeutic and educati... |
+| [`bavelloni.com`](https://google.com/search?q=bavelloni.com) | 23/12/2022 | Bavelloni SpA provides glass processing technology and services for the architectural, furniture and domestic appliance and solar industries.We encrypted the network of this company. We also stole about 200GB of the date. Financial information. Sal... |
+| [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | 22/12/2022 | A small boutique CPA firm located in Irvine California. We provide tax and accounting services to individuals and their businesses. Hands on assistance with tax planning, tax compliance and various other matters. We believe getting to know our client... |
+| [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | 22/12/2022 | Founded in 1908 and headquartered in Novi, Michigan, MAXION Wheels wheel manufacturer for passenger cars, light trucks, buses, commercial trucks, and trailers. |
 | [`teknowsource.in`](https://google.com/search?q=teknowsource.in) | 20/12/2022 | We are an organization helping our valued customers run their commercial operations in India. |
 | [`polyflor.co.nz`](https://google.com/search?q=polyflor.co.nz) | 19/12/2022 | POLYFLORAt Polyflor we believe that the products we choose can help us design for a better environment, both inside and out. Our collection of vinyl flooring, which is suitable for a variety of commercial and residential applications, makes a big... |
 | [`catalyst-group.co.nz`](https://google.com/search?q=catalyst-group.co.nz) | 19/12/2022 | We are a kiwi-owned, responsive and agile, multi-disciplinary design and construct firm offering a seamless end-to-end service or a tailored single service solution to suit your needs.Our business is built on strong client partnerships with local... |
@@ -5563,7 +5563,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description
 |---|---|---|
-| [`Every one of you been a good customer this year`]() | 22/12/2022 |  |
+| [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | 22/12/2022 |  |
 | [`test`](https://google.com/search?q=test) | 07/12/2022 |   |
 
 
@@ -5840,7 +5840,7 @@ _`not a ransomware group`_
 
 | post | date | Description
 |---|---|---|
-| [`Nexon Asia Pacific`]() | 09/12/2022 | Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT provider with services ranging from cloud, secure networks, unified communications, managed security, business solutions and digital workspace solutions.Download data: https://mega.nz/folder/****** |
+| [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | 09/12/2022 | Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT provider with services ranging from cloud, secure networks, unified communications, managed security, business solutions and digital workspace solutions.Download data: https://mega.nz/folder/****** |
 
 
 [⤴️](profiles?id=group-profiles)
@@ -6066,9 +6066,9 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`]() | 27/12/2022 |  |
-| [`Cervecería Regional`]() | 22/12/2022 |  |
-| [`F???????, ???, D????????, T???????, S?????????????`]() | 22/12/2022 |  |
+| [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | 27/12/2022 |  |
+| [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | 22/12/2022 |  |
+| [`F???????, ???, D????????, T???????, S?????????????`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%2C+D%3F%3F%3F%3F%3F%3F%3F%3F%2C+T%3F%3F%3F%3F%3F%3F%3F%2C+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 22/12/2022 |  |
 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | 18/12/2022 |   |
 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | 18/12/2022 |   |
 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 18/12/2022 |   |
@@ -6703,7 +6703,7 @@ _`login page, no posts`_
 
 | post | date | Description
 |---|---|---|
-| [`Hundred thousands of personal data, leak preview`]() | 28/12/2022 |  |
+| [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | 28/12/2022 |  |
 | [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | 20/12/2022 |  |
 | [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | 20/12/2022 |  |
 | [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | 13/12/2022 |   |
@@ -7448,12 +7448,12 @@ _`shut down & offering a decryptor`_
 
 | post | date | Description
 |---|---|---|
-| [`Centro Turistico Giovanile`]() | 28/12/2022 | Il CTG è un' associazione nazionale senza scopo di lucro che promuove e realizza un progetto educativo e di formazione integrale della persona, attraverso momenti di crescita, di impegno e di aggregazione sociale, ispirandosi alla concezione cristiana dell'uomo e della vita, nel servizio alle persone |
-| [`ET GLOBAL`]() | 28/12/2022 | We showcase your brands worldwide – with precision and great attention to detail. Therefore, you will find us in major cities around the world. |
-| [`Square Yards`]() | 28/12/2022 | Square Yards is India’s largest integrated platform for Real Estate & Mortgages and one of the fastest growing Proptech platform in UAE, Rest of Middle East, Australia & Canada. Square Yards platform offers an integrated consumer experience & covers the full real-estate journey from search |
-| [`TCL Chinese Theatres`]() | 28/12/2022 | The TCL Chinese Theatre is the most iconic movie palace in the world. With over 50 events a year, including movie premieres, imprint ceremonies, and film festivals, the theatre continues to make Hollywood history every day. |
-| [`Trubee, Collins & Co`]() | 28/12/2022 | Trubee, Collins & Co., Inc. is one of the oldest, independently-owned Financial Services in Western New York. Established in 1940, Trubee, Collins & Co., Inc. has earned the respect of our clients by demonstrating competence, integrity and a solid long term investment philosophy. The company |
-| [`Einatec`]() | 28/12/2022 | Nuestros equipos han desarrollado desde aplicaciones multiplataforma hasta grandes infraestructuras IT. Y nuestras mentes creativas se encargan del branding, diseño y el marketing de nuestros clientes. |
+| [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | 28/12/2022 | Il CTG è un' associazione nazionale senza scopo di lucro che promuove e realizza un progetto educativo e di formazione integrale della persona, attraverso momenti di crescita, di impegno e di aggregazione sociale, ispirandosi alla concezione cristiana dell'uomo e della vita, nel servizio alle persone |
+| [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | 28/12/2022 | We showcase your brands worldwide – with precision and great attention to detail. Therefore, you will find us in major cities around the world. |
+| [`Square Yards`](https://google.com/search?q=Square+Yards) | 28/12/2022 | Square Yards is India’s largest integrated platform for Real Estate & Mortgages and one of the fastest growing Proptech platform in UAE, Rest of Middle East, Australia & Canada. Square Yards platform offers an integrated consumer experience & covers the full real-estate journey from search |
+| [`TCL Chinese Theatres`](https://google.com/search?q=TCL+Chinese+Theatres) | 28/12/2022 | The TCL Chinese Theatre is the most iconic movie palace in the world. With over 50 events a year, including movie premieres, imprint ceremonies, and film festivals, the theatre continues to make Hollywood history every day. |
+| [`Trubee, Collins & Co`](https://google.com/search?q=Trubee%2C+Collins+%26+Co) | 28/12/2022 | Trubee, Collins & Co., Inc. is one of the oldest, independently-owned Financial Services in Western New York. Established in 1940, Trubee, Collins & Co., Inc. has earned the respect of our clients by demonstrating competence, integrity and a solid long term investment philosophy. The company |
+| [`Einatec`](https://google.com/search?q=Einatec) | 28/12/2022 | Nuestros equipos han desarrollado desde aplicaciones multiplataforma hasta grandes infraestructuras IT. Y nuestras mentes creativas se encargan del branding, diseño y el marketing de nuestros clientes. |
 | [`STGi`](https://google.com/search?q=STGi) | 28/11/2022 |   |
 | [`McGRATH`](https://google.com/search?q=McGRATH) | 20/11/2022 |   |
 | [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | 20/11/2022 |   |
@@ -8189,4 +8189,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 29/12/2022 13.07 (UTC)_
+Last update : _Thursday 29/12/2022 13.20 (UTC)_

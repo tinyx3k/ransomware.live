@@ -397,8 +397,15 @@ def profilepage():
                     except:
                         description=' '
                     #if post['website'] is not None: 
-                    try: 
-                        postURL = '[`' + post['post_title'].replace('|', '') + '`](' + post['website'] + ')'
+                    try:
+                        if post['website'] == "": 
+                            urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
+                            postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
+                        else: 
+                            if 'http' in post['website']:                       
+                                postURL = '[`' + post['post_title'].replace('|', '') + '`](' + post['website'] + ')'
+                            else:
+                                postURL = '[`' + post['post_title'].replace('|', '') + '`](https://' + post['website'] + ')'
                     except: 
                         urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
