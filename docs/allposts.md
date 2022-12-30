@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4813` posts_
+_All `4814` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4813` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-30 | [`presco.com`](https://google.com/search?q=presco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hive](profiles.md?id=hive) |
 | 2022-12-30 | [`Iowa Public Television`](https://google.com/search?q=Iowa+Public+Television) | [royal](profiles.md?id=royal) |
 | 2022-12-30 | [`Waterloo Wellington Flight Centre`](https://google.com/search?q=Waterloo+Wellington+Flight+Centre) | [royal](profiles.md?id=royal) |
@@ -4824,4 +4825,4 @@ _All `4813` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 30/12/2022 15.10 (UTC)_
+Last update : _Friday 30/12/2022 17.36 (UTC)_
