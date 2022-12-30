@@ -19,6 +19,7 @@ def screenshot(webpage,fqdn):
             browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
                 args=[''])
             context = browser.new_context(ignore_https_errors= True )
+            Image.MAX_IMAGE_PIXELS = None
             page = context.new_page()
             page.goto(webpage, wait_until='load', timeout = 120000)
             page.bring_to_front()
@@ -32,9 +33,11 @@ def screenshot(webpage,fqdn):
             name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
             page.screenshot(path=name, full_page=True)
             image = Image.open(name)
+            stdlog(' Image : ' + fqdn + ' has been written')
             draw = ImageDraw.Draw(image)
             draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
             image.save(name)
+            stdlog(' Image : ' + fqdn + ' has been tag')
         except PlaywrightTimeoutError:
             stdlog('Timeout!')
         except Exception as exception:

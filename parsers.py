@@ -53,6 +53,7 @@ def screenshot(webpage,fqdn,delay=1500):
                     browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
                         args=[''])
                     context = browser.new_context(ignore_https_errors= True )
+                    Image.MAX_IMAGE_PIXELS = None
                     page = context.new_page()
                     page.goto(webpage, wait_until='load', timeout = 120000)
                     page.bring_to_front()
@@ -128,9 +129,9 @@ def appender(post_title, group_name, description="", website=""):
             stdlog('Send notification')
             API_KEY = os.getenv('PUSH_API')
             USER_KEY = os.getenv('PUSH_USER')
-            if len(API_KEY) < 5:
+            if hasattr(API_KEY, 'attribute_name') and len(API_KEY) < 5:
                 errlog('NO API KEY FOUND')
-            if len(USER_KEY) < 5:
+            if hasattr(USER_KEY, 'attribute_name') and len(USER_KEY) < 5:
                 errlog('NO USER KEY FOUND')
             MESSAGE = "<b>" + post_title +  "</b> est victime du ransomware <b>" + group_name + "</b>"
             conn = http.client.HTTPSConnection("api.pushover.net:443")
