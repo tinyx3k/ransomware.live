@@ -139,7 +139,8 @@ def appender(post_title, group_name, description="", website=""):
             urllib.parse.urlencode({
               "token": API_KEY,
               "user": USER_KEY,
-              "message": MESSAGE
+              "message": MESSAGE,
+              "html": 1
             }), { "Content-type": "application/x-www-form-urlencoded" })
             conn.getresponse()
         except: 
