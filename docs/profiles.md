@@ -2966,9 +2966,9 @@ _``_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Hive | 🟢 | 30/12/2022 06:43 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
-| Hive | 🟢 | 30/12/2022 06:44 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 30/12/2022 06:44 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
+| Hive | 🟢 | 30/12/2022 09:46 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
+| Hive | 🟢 | 30/12/2022 09:46 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 30/12/2022 09:46 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -2976,10 +2976,11 @@ _``_
 
 ### Posts
 
-> 202 posts found
+> 203 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Camst Group`](https://www.camstgroup.com ) | 30/12/2022 | Camst Group is a company that specializes in restaurant services. It offers catering & banqueting, restaurant & bars, catering at the fair, and collective cater. |
 | [`MHMR Authority Of Brazos Valley`](https://www.mhmrabv.org) | 22/12/2022 | The MHMR Authority of Brazos Valley is a public non-profit community MHMR center. Through the Texas Department of State Health Services and Texas Department of |
 | [`Alvaria`](https://www.alvaria.com) | 21/12/2022 | Alvaria, (pronounced: ahl-vahr-ee-uh), a global leader delivering optimized customer experience and workforce engagement software and cloud services technology solutions. |
 | [`Interface`](https://www.interface.com) | 20/12/2022 | **** 30% OF THE DATA IS COMING SOON ****  Interface, Inc. is a global flooring company specializing in carbon neutral carpet tile and resilient flooring.  Stocks: NASDAQ: TILE Equity: IF6N.F, IF6N.BE, IF6N.HA |
@@ -8192,4 +8193,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 30/12/2022 07.14 (UTC)_
+Last update : _Friday 30/12/2022 09.52 (UTC)_

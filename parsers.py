@@ -132,7 +132,7 @@ def appender(post_title, group_name, description="", website=""):
                 errlog('NO API KEY FOUND')
             if len(USER_KEY) < 5:
                 errlog('NO USER KEY FOUND')
-            MESSAGE =  post_title +  " est victime du ransomware " + group_name
+            MESSAGE = "<b>" + post_title +  "</b> est victime du ransomware <b>" + group_name + "</b>"
             conn = http.client.HTTPSConnection("api.pushover.net:443")
             conn.request("POST", "/1/messages.json",
             urllib.parse.urlencode({
@@ -966,53 +966,53 @@ def blackbasta():
 #            errlog('ransomhouse: ' + 'parsing fail')
 #            pass    
 
-#def hive():
-#    stdlog('parser: ' + 'hive')
-#    for filename in os.listdir('source'):
-#        try:
- #           if filename.startswith('hive-hiveapi'):
- #               html_doc='source/'+filename
- #               file=open(html_doc, 'r')
- #               htmlfile = file.read()
- #               jsonfile = re.sub(r'<[^>]+>', '', htmlfile)
- #               data = json.loads(jsonfile)
- #               for element in data:
- #                   title = element['title']
- #                   website = element['website']
- #                   try:
- #                       description = element['description'].replace('\n',' ')
- #                   except:
- #                       errlog('hive: ' + 'something happen')
- #                   appender(title, 'hive', description, website)
- #               file.close()
- #       except:
- #           errlog('hive: ' + 'parsing fail')
- #           pass    
-
 def hive():
     stdlog('parser: ' + 'hive')
     for filename in os.listdir('source'):
         try:
-            html_doc='source/'+filename
-            file=open(html_doc,'r')
-            soup=BeautifulSoup(file,'html.parser')
-            if 'api' in filename:
-                jsonpart= soup.pre.contents
-                data = json.loads(jsonpart[0])
-                for entry in data:
-                    appender(entry['title'].strip(), 'hive', entry["description"].strip(), entry["website"].strip())
-            else:
-                divs_name=soup.find_all('div', {"class": "blog-card-info"})
-                for div in divs_name:
-                    title=div.h2.text.strip()
-                    if div.p is not None:
-                        description=div.p.text.strip()
-                    else:
-                        description = None
-                    appender(title, hive, description)
+            if filename.startswith('hive-hiveapi'):
+                html_doc='source/'+filename
+                file=open(html_doc, 'r')
+                htmlfile = file.read()
+                jsonfile = re.sub(r'<[^>]+>', '', htmlfile)
+                data = json.loads(jsonfile)
+                for element in data:
+                    title = element['title']
+                    website = element['website']
+                    try:
+                        description = element['description'].replace('\n',' ')
+                    except:
+                        errlog('hive: ' + 'something happen')
+                    appender(title, 'hive', description, website)
+                file.close()
         except:
             errlog('hive: ' + 'parsing fail')
             pass    
+
+# def hive():
+#   stdlog('parser: ' + 'hive')
+#    for filename in os.listdir('source'):
+#        try:
+#            html_doc='source/'+filename
+#            file=open(html_doc,'r')
+#            soup=BeautifulSoup(file,'html.parser')
+#            if 'api' in filename:
+#                jsonpart= soup.pre.contents
+#                data = json.loads(jsonpart[0])
+#                for entry in data:
+#                    appender(entry['title'].strip(), 'hive', entry["description"].strip(), entry["website"].strip())
+#            else:
+#                divs_name=soup.find_all('div', {"class": "blog-card-info"})
+#                for div in divs_name:
+#                    title=div.h2.text.strip()
+#                    if div.p is not None:
+#                        description=div.p.text.strip()
+#                    else:
+#                        description = None
+#                    appender(title, hive, description)
+#        except:
+#            errlog('hive: ' + 'parsing fail')
+#            pass    
 
 def vicesociety():
     stdlog('parser: ' + 'vicesociety')

@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hive](profiles.md?id=hive) |
 | 2022-12-30 | [`Iowa Public Television`](https://google.com/search?q=Iowa+Public+Television) | [royal](profiles.md?id=royal) |
 | 2022-12-30 | [`Waterloo Wellington Flight Centre`](https://google.com/search?q=Waterloo+Wellington+Flight+Centre) | [royal](profiles.md?id=royal) |
 | 2022-12-29 | [`CPTM`](https://google.com/search?q=CPTM) | [blackbyte](profiles.md?id=blackbyte) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`NOWFOODS.COM`](https://google.com/search?q=NOWFOODS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`CSX.COM`](https://google.com/search?q=CSX.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`CSAGROUP.ORG`](https://google.com/search?q=CSAGROUP.ORG) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`TRANSPORT.NSW.GOV.AU`](https://google.com/search?q=TRANSPORT.NSW.GOV.AU) | [clop](profiles.md?id=clop) |
 
-Last update : _Friday 30/12/2022 07.14 (UTC)_
+Last update : _Friday 30/12/2022 09.52 (UTC)_
