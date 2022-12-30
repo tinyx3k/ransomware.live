@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-30 | [`AONTTAGL`](https://google.com/search?q=AONTTAGL) | [royal](profiles.md?id=royal) |
 | 2022-12-30 | [`presco.com`](https://google.com/search?q=presco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hive](profiles.md?id=hive) |
 | 2022-12-30 | [`Iowa Public Television`](https://google.com/search?q=Iowa+Public+Television) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`MMOSER.COM`](https://google.com/search?q=MMOSER.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`KINZE.COM`](https://google.com/search?q=KINZE.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`NOWFOODS.COM`](https://google.com/search?q=NOWFOODS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`CSX.COM`](https://google.com/search?q=CSX.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Friday 30/12/2022 17.36 (UTC)_
+Last update : _Friday 30/12/2022 19.26 (UTC)_
