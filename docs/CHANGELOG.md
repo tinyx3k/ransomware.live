@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2022-12-31 🥂🍾 🥳
 
-* Add [`FreeCivilian](profiles.md?id=freecivilian) parser
+* Add [`FreeCivilian`](profiles.md?id=freecivilian) parser
 
 ### 2022-12-24 🎄 🎅🏻 🎁
 
