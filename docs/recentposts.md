@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-31 | [`QUT`](https://google.com/search?q=QUT) | [royal](profiles.md?id=royal) |
+| 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
@@ -203,7 +205,5 @@
 | 2022-12-22 | [`SOFTWAREAG.COM`](https://google.com/search?q=SOFTWAREAG.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`INDIABULLS.COM`](https://google.com/search?q=INDIABULLS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`EXECUPHARM.COM`](https://google.com/search?q=EXECUPHARM.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SGS-LAW.COM`](https://google.com/search?q=SGS-LAW.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`RFF.ORG`](https://google.com/search?q=RFF.ORG) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 31/12/2022 16.37 (UTC)_
+Last update : _Saturday 31/12/2022 18.43 (UTC)_
