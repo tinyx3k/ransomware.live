@@ -14,7 +14,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 
 ## 🤖  How it works
 
-`ransomware.live` is orginally based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet). It has been modify a lot by [me](about.md?id=%f0%9f%91%a8%f0%9f%8f%bc%f0%9f%92%bc-about-me) : 
+`ransomware.live` is orginally based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet). It has been modified by [me](about.md?id=%f0%9f%91%a8%f0%9f%8f%bc%f0%9f%92%bc-about-me) : 
 * new parsers fully in `python` to include victims description and website when available, that's include a new scheme for posts : 
   ```json
       {
