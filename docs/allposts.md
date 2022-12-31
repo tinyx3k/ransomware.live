@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4815` posts_
+_All `4830` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,21 @@ _All `4815` posts_
 
 | date | title | group |
 |---|---|---|
+| 2022-12-31 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`motorsich.com`](https://google.com/search?q=motorsich.com) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`mtsbu.ua`](https://google.com/search?q=mtsbu.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`health.mia`](https://google.com/search?q=health.mia) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`minregion.gov.ua`](https://google.com/search?q=minregion.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`wanted.mvs.gov.ua`](https://google.com/search?q=wanted.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`e-driver.hsc.gov.ua`](https://google.com/search?q=e-driver.hsc.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hive](profiles.md?id=hive) |
 | 2022-12-30 | [`AONTTAGL`](https://google.com/search?q=AONTTAGL) | [royal](profiles.md?id=royal) |
 | 2022-12-30 | [`presco.com`](https://google.com/search?q=presco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hive](profiles.md?id=hive) |
@@ -4826,4 +4841,4 @@ _All `4815` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 31/12/2022 13.29 (UTC)_
+Last update : _Saturday 31/12/2022 16.37 (UTC)_

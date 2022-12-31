@@ -5,6 +5,21 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2022-12-31 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`motorsich.com`](https://google.com/search?q=motorsich.com) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`mtsbu.ua`](https://google.com/search?q=mtsbu.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`health.mia`](https://google.com/search?q=health.mia) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`minregion.gov.ua`](https://google.com/search?q=minregion.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`wanted.mvs.gov.ua`](https://google.com/search?q=wanted.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`e-driver.hsc.gov.ua`](https://google.com/search?q=e-driver.hsc.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
+| 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hive](profiles.md?id=hive) |
 | 2022-12-30 | [`AONTTAGL`](https://google.com/search?q=AONTTAGL) | [royal](profiles.md?id=royal) |
 | 2022-12-30 | [`presco.com`](https://google.com/search?q=presco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hive](profiles.md?id=hive) |
@@ -190,20 +205,5 @@
 | 2022-12-22 | [`EXECUPHARM.COM`](https://google.com/search?q=EXECUPHARM.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SGS-LAW.COM`](https://google.com/search?q=SGS-LAW.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`RFF.ORG`](https://google.com/search?q=RFF.ORG) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`BOUTINEXPRESS.COM`](https://google.com/search?q=BOUTINEXPRESS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SIUMED.EDU`](https://google.com/search?q=SIUMED.EDU) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`TRAVELSTORE.COM`](https://google.com/search?q=TRAVELSTORE.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`DURHAM.CA`](https://google.com/search?q=DURHAM.CA) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`UNIVERSITYOFCALIFORNIA.EDU`](https://google.com/search?q=UNIVERSITYOFCALIFORNIA.EDU) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`UMD.EDU`](https://google.com/search?q=UMD.EDU) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`YU.EDU`](https://google.com/search?q=YU.EDU) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`MARNELLCOMPANIES.COM`](https://google.com/search?q=MARNELLCOMPANIES.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`RACETRAC.COM`](https://google.com/search?q=RACETRAC.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`EDAG.COM`](https://google.com/search?q=EDAG.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`WRIGHT.COM`](https://google.com/search?q=WRIGHT.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`QUALYS.COM`](https://google.com/search?q=QUALYS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`MMOSER.COM`](https://google.com/search?q=MMOSER.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`KINZE.COM`](https://google.com/search?q=KINZE.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`NOWFOODS.COM`](https://google.com/search?q=NOWFOODS.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 31/12/2022 13.29 (UTC)_
+Last update : _Saturday 31/12/2022 16.37 (UTC)_

@@ -262,6 +262,7 @@ if args.mode == 'parse':
     parsers.donutleaks()
     parsers.everest()
     parsers.five4bb47h()
+    parsers.freecivilian()
     parsers.groove()
     parsers.hive()
     parsers.icefire()
