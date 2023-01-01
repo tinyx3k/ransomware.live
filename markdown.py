@@ -298,6 +298,17 @@ def allposts():
     writeline(allpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('all posts page generated')
 
+def censor(text):
+  words = text.split()
+  word_list = ['sendfile.com', 'dropbox.com', 'mega.io', 'anonfiles.com']
+  result = []
+  for word in words:
+    if word in word_list:
+      result.append('******')
+    else:
+      result.append(word)
+  return " ".join(result)
+
 def profilepage():
     '''
     create a profile page for each group in their unique markdown files within docs/profiles
@@ -394,6 +405,7 @@ def profilepage():
                 if post['group_name'] == group['name']:
                     try:
                         description=re.sub(r"folder/.*", "folder/******", (post['description']))
+                        description=censor(description)
                     except:
                         description=' '
                     #if post['website'] is not None: 
@@ -497,15 +509,19 @@ def main():
     if os.path.getmtime('posts.json') > (time.time() - 2700):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
         trend_posts_per_day()
-        trend_posts_per_day_2022()
-        trend_posts_per_day_2023()
-        plot_posts_by_group()
-        plot_posts_by_group_by_year(2022)
-        plot_posts_by_group_by_year(2023)
+        plot_posts_by_group() 
         pie_posts_by_group()
         plot_posts_by_group_past_7_days()
-        pie_posts_by_group_by_year(2022)
+        ## To keep until 2024-01-02
         pie_posts_by_group_by_year(2023)
+        plot_posts_by_group_by_year(2023)
+        trend_posts_per_day_2023()
+        ## No more need 
+        #trend_posts_per_day_2022()
+        #plot_posts_by_group_by_year(2022)
+        #pie_posts_by_group_by_year(2022)
+        #pie_posts_by_group_by_year(2022)
+        ###
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
-    pie_posts_by_group_by_year(2022)
+   
