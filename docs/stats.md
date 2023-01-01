@@ -16,6 +16,7 @@
 
  | ![](graphs/postsbyday2023.png) | ![](graphs/postsbygroup2023.png) |
  |---|---|
+ | ![](graphs/grouppie2023.png) | | 
 
 
 
