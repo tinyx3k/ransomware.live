@@ -508,3 +508,4 @@ def main():
         pie_posts_by_group_by_year(2023)
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
+    pie_posts_by_group_by_year(2022)

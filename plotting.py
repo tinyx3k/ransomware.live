@@ -227,7 +227,7 @@ def pie_posts_by_group_by_year(year):
     posts = openjson('posts.json')
     group_counts = gcountYear(posts,year)
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
-    group_counts = [x for x in group_counts if x[0] != 'clop']
+    group_counts = [x for x in group_counts]
     groups = [x[0] for x in group_counts]
     counts = [x[1] for x in group_counts]
     # ignoring the top 10 groups, merge the rest into "other"
