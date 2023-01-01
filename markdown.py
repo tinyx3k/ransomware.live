@@ -394,8 +394,9 @@ def profilepage():
             for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
-                        description=re.sub(r"folder/.*", "folder/******", (post['description']))
-                        description=re.sub(r".com/file/.*", ".com/file/******", description)
+                        description = re.sub(r"folder/.*", "folder/******", (post['description']))
+                        description = re.sub(r".com/file/.*", ".com/file/******", description)
+                        description = re.sub(r"anonfiles.com/.*/", "anonfiles.com/******/", description)
                     except:
                         description=' '
                     #if post['website'] is not None: 

@@ -953,24 +953,6 @@ def blackbasta():
             pass    
 
 # HTML Version see bellow for JSON version 
-#def ransomhouse():
-#    stdlog('parser: ' + 'ransomhouse')
-#    for filename in os.listdir('source'):
-#        try:
-#            if filename.startswith('ransomhouse-'):
-#                html_doc='source/'+filename
-#                file=open(html_doc, 'r')
-#                data = json.load(file)
-#                for element in data['data']:
-#                    title = element['header']
-#                    website = element['url']
-#                    description = re.sub(r'<[^>]*>', '',element['info'])
-#                    # stdlog(title)
-#                    appender(title, 'ransomhouse', description, website)
-#                file.close()
-#        except:
-#            errlog('ransomhouse: ' + 'parsing fail')
-#            pass    
 
 def hive():
     stdlog('parser: ' + 'hive')
@@ -1155,7 +1137,6 @@ def alphv():
                             title = entry['title'].strip()
                             description = entry['publication']['description'].strip()
                             website = entry['publication']['url'].strip()
-                            description = re.sub(r"anonfiles.com/.*/", "anonfiles.com/*****/", description)
                             appender(title, 'alphv',description.replace('\n',' '),website)
                     except:
                         errlog('nokoyawa: ' + 'parsing fail')
