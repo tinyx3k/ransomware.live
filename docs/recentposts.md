@@ -206,4 +206,4 @@
 | 2022-12-22 | [`SOFTWAREAG.COM`](https://google.com/search?q=SOFTWAREAG.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`INDIABULLS.COM`](https://google.com/search?q=INDIABULLS.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Sunday 01/01/2023 05.17 (UTC)_
+Last update : _Sunday 01/01/2023 07.14 (UTC)_
