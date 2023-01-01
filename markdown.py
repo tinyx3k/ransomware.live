@@ -298,16 +298,6 @@ def allposts():
     writeline(allpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('all posts page generated')
 
-def censor(text):
-  words = text.split()
-  word_list = ['sendfile.com', 'dropbox.com', 'mega.io', 'anonfiles.com']
-  result = []
-  for word in words:
-    if word in word_list:
-      result.append('******')
-    else:
-      result.append(word)
-  return " ".join(result)
 
 def profilepage():
     '''
@@ -405,7 +395,7 @@ def profilepage():
                 if post['group_name'] == group['name']:
                     try:
                         description=re.sub(r"folder/.*", "folder/******", (post['description']))
-                        description=censor(description)
+                        description=re.sub(r".com/file/.*", ".com/file/******", description)
                     except:
                         description=' '
                     #if post['website'] is not None: 
