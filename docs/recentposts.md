@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-01 | [`CDER`](https://google.com/search?q=CDER) | [play](profiles.md?id=play) |
 | 2023-01-01 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`QUT`](https://google.com/search?q=QUT) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`SYMRISE.COM`](https://google.com/search?q=SYMRISE.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`ELANDRETAIL.COM`](https://google.com/search?q=ELANDRETAIL.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PARKLAND.CA`](https://google.com/search?q=PARKLAND.CA) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SOFTWAREAG.COM`](https://google.com/search?q=SOFTWAREAG.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Sunday 01/01/2023 19.42 (UTC)_
+Last update : _Sunday 01/01/2023 20.50 (UTC)_
