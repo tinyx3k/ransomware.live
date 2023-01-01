@@ -4599,10 +4599,11 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ### Posts
 
-> 394 posts found
+> 395 posts found
 
 | post | date | Description
 |---|---|---|
+| [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | 01/01/2023 | EDS Automotive GmbH is a dynamically growing family company that offers development services for the automotive industry as well as their suppliers and service contractors.File tree of 70% data leaked: https://www.sendspace.com/file/5ba1l8 |
 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | 31/12/2022 | We formally apologize for the attack on sikkids.ca and give back the decryptor for free, the partner who attacked this hospital violated our rules, is blocked and is no longer in our affiliate program. http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv... |
 | [`hacla.org`](https://google.com/search?q=hacla.org) | 31/12/2022 | More than 15TB of files | The Housing Authority of the City of Los Angeles is a state-chartered public agency. Established in 1938, HACLA provides the largest stock of affordable housing in the city Los Angeles, California and is one of the nation's... |
 | [`presco.com`](https://google.com/search?q=presco.com) | 30/12/2022 | Founded in 1942, Presco is a company that manufactures safety marking products and engineered films such as barricade tapes, marking flags, marking whiskers, and roll flagging. They are based in Sherman, Texas. |
@@ -8215,4 +8216,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 01/01/2023 07.14 (UTC)_
+Last update : _Sunday 01/01/2023 08.58 (UTC)_

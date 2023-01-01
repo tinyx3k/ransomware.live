@@ -1713,4 +1713,4 @@
 
 _Source : [No More Ransom](https://www.nomoreransom.org/)_
 
-Last update : _Sunday 01/01/2023 07.14 (UTC)_
+Last update : _Sunday 01/01/2023 08.58 (UTC)_

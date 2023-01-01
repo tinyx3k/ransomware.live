@@ -920,7 +920,11 @@ def lockbit3():
                 for div in divs_name:
                     title = div.find('div',{"class": "post-title"}).text.strip()
                     description = div.find('div',{"class" : "post-block-text"}).text.strip()
-                    # stdlog(title)
+                    appender(title, 'lockbit3', description.replace('\n',''))
+                divs_name=soup.find_all('div', {"class": "post-block good"})
+                for div in divs_name:
+                    title = div.find('div',{"class": "post-title"}).text.strip()
+                    description = div.find('div',{"class" : "post-block-text"}).text.strip()
                     appender(title, 'lockbit3', description.replace('\n',''))
                 file.close()
         except:
