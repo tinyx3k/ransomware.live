@@ -6089,16 +6089,16 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| [`Stratacache`](https://google.com/search?q=Stratacache) | 02/01/2023 |  |
-| [`S???`](https://google.com/search?q=S%3F%3F%3F) | 02/01/2023 |  |
-| [`CDER`](https://google.com/search?q=CDER) | 01/01/2023 |  |
-| [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | 27/12/2022 |  |
-| [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | 22/12/2022 |  |
+| [`Stratacache`](https://www.stratacache.com) | 02/01/2023 | Dayton, Ohio, United States |
+| [`S???`](https://google.com/search?q=S%3F%3F%3F) | 02/01/2023 | Utica, New-York |
+| [`CDER`](https://www.cder.fr) | 01/01/2023 | Fere-Champenoise, France |
+| [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | 27/12/2022 | Sweden,EU |
+| [`Cervecería Regional`](https://google.com/search?q=Cervecer%C3%ADa+Regional) | 22/12/2022 | Maracaibo, Zulia, Venezuela |
 | [`F???????, ???, D????????, T???????, S?????????????`](https://google.com/search?q=F%3F%3F%3F%3F%3F%3F%3F%2C+%3F%3F%3F%2C+D%3F%3F%3F%3F%3F%3F%3F%3F%2C+T%3F%3F%3F%3F%3F%3F%3F%2C+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 22/12/2022 |  |
 | [`OPUS IT Services`](https://google.com/search?q=OPUS+IT+Services) | 18/12/2022 |   |
 | [`H-Hotels`](https://google.com/search?q=H-Hotels) | 18/12/2022 |   |
 | [`C???e????? ?????????????`](https://google.com/search?q=C%3F%3F%3Fe%3F%3F%3F%3F%3F+%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 18/12/2022 |   |
-| [`Creta Farm`](https://google.com/search?q=Creta+Farm) | 18/12/2022 |   |
+| [`Creta Farm`](https://google.com/search?q=Creta+Farm) | 18/12/2022 | Athens, Greece |
 | [`S??????????`](https://google.com/search?q=S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F) | 18/12/2022 |   |
 | [`Arsat`](https://google.com/search?q=Arsat) | 16/12/2022 |   |
 | [`JMicron`](https://google.com/search?q=JMicron) | 16/12/2022 |   |
@@ -8219,4 +8219,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 02/01/2023 13.39 (UTC)_
+Last update : _Monday 02/01/2023 14.42 (UTC)_
