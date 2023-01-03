@@ -6090,8 +6090,8 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| [`Furetank`](https://google.com/search?q=Furetank) | 03/01/2023 |  |
-| [`Stratacache`](https://google.com/search?q=Stratacache) | 02/01/2023 |  |
+| [`Furetank`](https://www.furetank.se) | 03/01/2023 | Furetank |
+| [`Stratacache`](https://www.stratacache.com) | 02/01/2023 | Dayton, Ohio, United States |
 | [`S???`](https://google.com/search?q=S%3F%3F%3F) | 02/01/2023 | Utica, New-York |
 | [`CDER`](https://www.cder.fr) | 01/01/2023 | Fere-Champenoise, France |
 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | 27/12/2022 | Sweden,EU |
@@ -8221,4 +8221,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 03/01/2023 13.42 (UTC)_
+Last update : _Tuesday 03/01/2023 14.49 (UTC)_

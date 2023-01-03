@@ -23,9 +23,9 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🏚 There have been `6` posts since the `1st January 2023`
 
-📸 There are `118` ransomware group host screenshots
+📸 There are `119` ransomware group host screenshots
 
-📝 There are `89` ransomware notes
+📝 There are `130` ransomware notes
 
 🚀 There have been `3086` posts `last year`
 
@@ -35,5 +35,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Tuesday 03/01/2023 13.42 (UTC)_
+Last update : _Tuesday 03/01/2023 14.49 (UTC)_
 
