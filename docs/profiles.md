@@ -6090,7 +6090,7 @@ _`aka vsop`_
 
 | post | date | Description
 |---|---|---|
-| [`Furetank`](https://www.furetank.se) | 03/01/2023 | Furetank |
+| [`Furetank`](https://www.furetank.se) | 03/01/2023 | Donso, Vaestra Goetaland, Sweden |
 | [`Stratacache`](https://www.stratacache.com) | 02/01/2023 | Dayton, Ohio, United States |
 | [`S???`](https://google.com/search?q=S%3F%3F%3F) | 02/01/2023 | Utica, New-York |
 | [`CDER`](https://www.cder.fr) | 01/01/2023 | Fere-Champenoise, France |
@@ -8221,4 +8221,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 03/01/2023 14.49 (UTC)_
+Last update : _Tuesday 03/01/2023 14.57 (UTC)_
