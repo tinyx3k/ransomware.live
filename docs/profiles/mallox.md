@@ -8,7 +8,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 03/01/2023 20:58 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 03/01/2023 22:58 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -32,4 +32,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Tuesday 03/01/2023 21.20 (UTC)_
+Last update : _Tuesday 03/01/2023 23.17 (UTC)_
