@@ -14,7 +14,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Babuk - Leaks site | 🟢 | 03/01/2023 16:38 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
+| Babuk - Leaks site | 🟢 | 03/01/2023 18:33 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -35,4 +35,4 @@
  --- 
 
 
-Last update : _Tuesday 03/01/2023 17.27 (UTC)_
+Last update : _Tuesday 03/01/2023 19.23 (UTC)_

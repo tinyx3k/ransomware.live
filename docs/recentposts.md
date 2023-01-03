@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](profiles.md?id=everest) |
 | 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`Furetank`](https://google.com/search?q=Furetank) | [play](profiles.md?id=play) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`MIAMI.EDU`](https://google.com/search?q=MIAMI.EDU) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`COLORADO.EDU`](https://google.com/search?q=COLORADO.EDU) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`FLAGSTAR.COM`](https://google.com/search?q=FLAGSTAR.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`BOMBARDIER.COM`](https://google.com/search?q=BOMBARDIER.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Tuesday 03/01/2023 17.27 (UTC)_
+Last update : _Tuesday 03/01/2023 19.23 (UTC)_

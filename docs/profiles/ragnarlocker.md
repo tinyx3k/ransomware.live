@@ -12,7 +12,7 @@
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://rgleak7op734elep.onion` | ❌ | 
-| Home Page of Ragnar_Locker Leaks site | 🟢 | 03/01/2023 17:13 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
+| Home Page of Ragnar_Locker Leaks site | 🟢 | 03/01/2023 19:11 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://p6o7m73ujalhgkiv.onion` | ❌ | 
 
 
@@ -125,4 +125,4 @@
  --- 
 
 
-Last update : _Tuesday 03/01/2023 17.27 (UTC)_
+Last update : _Tuesday 03/01/2023 19.23 (UTC)_
