@@ -1,0 +1,137 @@
+# Profiles
+
+## **blackbyte**
+
+> Ransomware. Uses dropper written in JavaScript to deploy a .NET payload.
+
+### External analysis
+- 61141FCA047691D0E47CFD84717B59D3BEDF822442B5E907BE147FD6B8A11B723A48DF7FCA47
+
+- BlackByteSupp0rt@onionmail.org
+
+- https://www.zdnet.com/article/blackbyte-ransomware-decryptor-released/
+
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-1-in-depth-analysis/
+
+- https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/blackbyte-ransomware-pt-2-code-obfuscation-analysis/
+
+- https://www.techtarget.com/searchsecurity/news/252510334/BlackByte-ransomware-attacks-exploiting-ProxyShell-flaws
+
+### URLs
+| Title | Available | Last visit | fqdn | screen 
+|---|---|---|---|---|
+| none | 🔴 | 01/05/2021 00:00 | `http://6iaj3efye3q62xjgfxyegrufhewxew7yt4scxjd45tlfafyja6q4ctqd.onion` | ❌ | 
+| BlackByte BLOG | 🔴 | 30/12/2021 09:14 | `http://f5uzduboq4fa2xkjloprmctk7ve3dm46ff7aniis66cbekakvksxgeqd.onion` | ❌ | 
+| BlackByte BLOG | 🔴 | 28/03/2022 11:17 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` | ❌ | 
+| BlackByte BLOG | 🔴 | 24/04/2022 20:21 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` | ❌ | 
+| BlackByte BLOG | 🔴 | 12/07/2022 20:09 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` | ❌ | 
+| BB Auction | 🔴 | 03/01/2023 01:54 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/blackbyte/blackbyte_v2.txt" target=_blank>#1</a> 
+
+### Posts
+
+> 90 posts found
+
+| post | date | Description
+|---|---|---|
+| [`CPTM`](https://google.com/search?q=CPTM) | 29/12/2022 | The São Paulo Metropolitan Train Company is a commuter rail system owned by the Secretariat of Urban Transportation of the State of São Paulo. It was created in 1992 with the merger of several railways in Greater São Paulo, Brazil. |
+| [`lapiamontesa`](https://google.com/search?q=lapiamontesa) | 22/11/2022 |   |
+| [`ALTEK`](https://google.com/search?q=ALTEK) | 07/11/2022 |   |
+| [`PETERSON & HANSON`](https://google.com/search?q=PETERSON+%26+HANSON) | 05/11/2022 |   |
+| [`Broto Legal`](https://google.com/search?q=Broto+Legal) | 05/11/2022 |   |
+| [`Asahi Group`](https://google.com/search?q=Asahi+Group) | 29/10/2022 | Asahi Group Company Limited was founded in the 1970s in Hong Kong. For more than 40 years, we have worked hand in hand with our partners and have built a reputation for not only meeting their requirements, but also exceeding their expectations. Being family-owned allows us to enjoy a high degree of flexibility and provide customized services and innovative solutions to our partners. Our work at the Asahi Group is fueled by a competitive spirit and the active innovative genes that reside in every team member. As our founder always said, 'We are manufacturing for the future.' Asahi Group leverages its capabilities to stay at the cutting-edge of the industry. Our dedicated engineering and research team continuously develops new technologies and solutions, with an aim to manufacture the unmanufactured in a cost-effective way. That is why we had started with precision metal manufacturing and later expanded to total metal solutions which includes both functional and cosmetic metal solutions. |
+| [`CCLint`](https://google.com/search?q=CCLint) | 26/10/2022 |   |
+| [`Municipio de Chihuahua`](https://google.com/search?q=Municipio+de+Chihuahua) | 26/10/2022 |   |
+| [`UNE`](https://google.com/search?q=UNE) | 21/10/2022 |   |
+| [`Pitman Family Farms`](https://google.com/search?q=Pitman+Family+Farms) | 20/10/2022 |   |
+| [`Swiss American`](https://google.com/search?q=Swiss+American) | 01/10/2022 | Cheese engages all the senses. We believe that an amazing specialty food deserves an equally compelling label. Swiss American educates the public on the unique conditions that make the world’s best cheeses, starting with in-store packaging, informative displays, and engaging promotions. From private label to control brands, our artists bring their passion for cheese to everything we create; inviting hungry people everywhere to join us in the world of specialty cheeses.  |
+| [`Almoayed ICT`](https://google.com/search?q=Almoayed+ICT) | 01/10/2022 |   |
+| [`Biggest News`](https://google.com/search?q=Biggest+News) | 19/09/2022 |   |
+| [`South Pacific Inc`](https://google.com/search?q=South+Pacific+Inc) | 19/09/2022 |   |
+| [`Davin Industries Ltd`](https://google.com/search?q=Davin+Industries+Ltd) | 11/09/2022 |   |
+| [`TIB Development Bank`](https://google.com/search?q=TIB+Development+Bank) | 11/09/2022 |   |
+| [`Speed-Buster`](https://google.com/search?q=Speed-Buster) | 05/09/2022 |   |
+| [`Alan Smith`](https://google.com/search?q=Alan+Smith) | 01/09/2022 |   |
+| [`Torin Drive`](https://google.com/search?q=Torin+Drive) | 28/08/2022 |   |
+| [`Grande Stevens`](https://google.com/search?q=Grande+Stevens) | 28/08/2022 | Grande Stevens Law Firm, which bears the name of its founder, Franzo Grande Stevens, has provided legal assistance, both transactional and in litigation proceedings, in the areas of civil, commercial and corporate law for over fifty years. The lawyers of the Firm operate on the basis of the principles set out in the Firm's Policy with the goal of being considered by the clients as trusted counsel. |
+| [`GMX`](https://google.com/search?q=GMX) | 24/08/2022 |   |
+| [`Apex`](https://google.com/search?q=Apex) | 23/08/2022 |   |
+| [`Apex Capital Corp`](https://google.com/search?q=Apex+Capital+Corp) | 17/08/2022 |   |
+| [`PSA`](https://google.com/search?q=PSA) | 11/07/2022 |   |
+| [`Gatewayrehab`](https://google.com/search?q=Gatewayrehab) | 06/07/2022 |   |
+| [`Lamoille Health`](https://google.com/search?q=Lamoille+Health) | 06/07/2022 |   |
+| [`Napa Valley College`](https://google.com/search?q=Napa+Valley+College) | 26/06/2022 |   |
+| [`Opal`](https://google.com/search?q=Opal) | 12/06/2022 |   |
+| [`Grupo Pavisa`](https://google.com/search?q=Grupo+Pavisa) | 21/05/2022 |   |
+| [`Contraloría General de la República`](https://google.com/search?q=Contralor%C3%ADa+General+de+la+Rep%C3%BAblica) | 21/05/2022 |   |
+| [`xydias.gr`](https://google.com/search?q=xydias.gr) | 12/05/2022 |   |
+| [`usu.org.au`](https://google.com/search?q=usu.org.au) | 12/05/2022 |   |
+| [`ats-insubria.it`](https://google.com/search?q=ats-insubria.it) | 12/05/2022 |   |
+| [`FRANSABANK`](https://google.com/search?q=FRANSABANK) | 02/05/2022 |   |
+| [`M+R SPEDAG GROUP`](https://google.com/search?q=M%2BR+SPEDAG+GROUP) | 02/05/2022 |   |
+| [`SOGEGROSS SPA`](https://google.com/search?q=SOGEGROSS+SPA) | 02/05/2022 |   |
+| [`London College of Beauty Therapy`](https://google.com/search?q=London+College+of+Beauty+Therapy) | 30/03/2022 |   |
+| [`Autumn Transport`](https://google.com/search?q=Autumn+Transport) | 30/03/2022 |   |
+| [`MZ Architects`](https://google.com/search?q=MZ+Architects) | 30/03/2022 |   |
+| [`Credit Risk Management Canada`](https://google.com/search?q=Credit+Risk+Management+Canada) | 30/03/2022 |   |
+| [`GEBE`](https://google.com/search?q=GEBE) | 30/03/2022 |   |
+| [`Diamond Pet Foods`](https://google.com/search?q=Diamond+Pet+Foods) | 27/03/2022 |   |
+| [`h1{`](https://google.com/search?q=h1%7B) | 27/03/2022 |   |
+| [`INVIMA`](https://google.com/search?q=INVIMA) | 07/03/2022 |   |
+| [`San Francisco 49ers`](https://google.com/search?q=San+Francisco+49ers) | 12/02/2022 |   |
+| [`Aeronamic`](https://google.com/search?q=Aeronamic) | 08/02/2022 |   |
+| [`Venture Machine & Tool, Inc.`](https://google.com/search?q=Venture+Machine+%26+Tool%2C+Inc.) | 08/02/2022 |   |
+| [`Prince Jewellery & Watch Co., Ltd.`](https://google.com/search?q=Prince+Jewellery+%26+Watch+Co.%2C+Ltd.) | 07/02/2022 |   |
+| [`Bud Griffin and Associates`](https://google.com/search?q=Bud+Griffin+and+Associates) | 05/02/2022 |   |
+| [`Petrolimex`](https://google.com/search?q=Petrolimex) | 05/02/2022 |   |
+| [`Rector Hayden Realtors`](https://google.com/search?q=Rector+Hayden+Realtors) | 05/02/2022 |   |
+| [`Taylor and Martin`](https://google.com/search?q=Taylor+and+Martin) | 05/02/2022 |   |
+| [`Argonaut Gold`](https://google.com/search?q=Argonaut+Gold) | 05/02/2022 |   |
+| [`Kangean Energy Indonesia`](https://google.com/search?q=Kangean+Energy+Indonesia) | 19/12/2021 |   |
+| [`Dental Health Products`](https://google.com/search?q=Dental+Health+Products) | 19/12/2021 |   |
+| [`P&R ENTERPRISES`](https://google.com/search?q=P%26R+ENTERPRISES) | 09/12/2021 |   |
+| [`Unique Home Solutions`](https://google.com/search?q=Unique+Home+Solutions) | 09/12/2021 |   |
+| [`Quanticate`](https://google.com/search?q=Quanticate) | 09/12/2021 |   |
+| [`Bemis Associates`](https://google.com/search?q=Bemis+Associates) | 06/12/2021 |   |
+| [`Karges-Faulconbridge, Inc.`](https://google.com/search?q=Karges-Faulconbridge%2C+Inc.) | 30/11/2021 |   |
+| [`MOTOR VEHICLE ACCIDENT FUND PENSION FUND`](https://google.com/search?q=MOTOR+VEHICLE+ACCIDENT+FUND+PENSION+FUND) | 30/11/2021 |   |
+| [`Koltepatil`](https://google.com/search?q=Koltepatil) | 30/11/2021 |   |
+| [`Goodwill of Central and Coastal Virginia, Inc.`](https://google.com/search?q=Goodwill+of+Central+and+Coastal+Virginia%2C+Inc.) | 23/11/2021 |   |
+| [`INOXPA`](https://google.com/search?q=INOXPA) | 23/11/2021 |   |
+| [`Canada West Land`](https://google.com/search?q=Canada+West+Land) | 15/11/2021 |   |
+| [`Emery Jensen Distribution`](https://google.com/search?q=Emery+Jensen+Distribution) | 15/11/2021 |   |
+| [`Purifoy Chevrolet Co.`](https://google.com/search?q=Purifoy+Chevrolet+Co.) | 15/11/2021 |   |
+| [`Williams & Rowe Company, Inc.`](https://google.com/search?q=Williams+%26+Rowe+Company%2C+Inc.) | 15/11/2021 |   |
+| [`Visage Imaging`](https://google.com/search?q=Visage+Imaging) | 13/11/2021 |   |
+| [`ASPECT STUDIOS ASIA PTY LTD`](https://google.com/search?q=ASPECT+STUDIOS+ASIA+PTY+LTD) | 13/11/2021 |   |
+| [`The Glass House`](https://google.com/search?q=The+Glass+House) | 13/11/2021 |   |
+| [`Regence Footwear`](https://google.com/search?q=Regence+Footwear) | 03/11/2021 |   |
+| [`Napili Kai Foundation Gallery`](https://google.com/search?q=Napili+Kai+Foundation+Gallery) | 31/10/2021 |   |
+| [`H Hotels Collection`](https://google.com/search?q=H+Hotels+Collection) | 28/10/2021 |   |
+| [`MINT Investments`](https://google.com/search?q=MINT+Investments) | 25/10/2021 |   |
+| [`DiGioia Gray & Associates, LLC`](https://google.com/search?q=DiGioia+Gray+%26+Associates%2C+LLC) | 23/10/2021 |   |
+| [`GENERALE PREFABBRICATI SPA`](https://google.com/search?q=GENERALE+PREFABBRICATI+SPA) | 19/10/2021 |   |
+| [`Medical Designs`](https://google.com/search?q=Medical+Designs) | 15/10/2021 |   |
+| [`Statcomm`](https://google.com/search?q=Statcomm) | 15/10/2021 |   |
+| [`Distribuidora de Industrias Nacionales`](https://google.com/search?q=Distribuidora+de+Industrias+Nacionales) | 12/10/2021 |   |
+| [`Tom Lange Company, Inc.`](https://google.com/search?q=Tom+Lange+Company%2C+Inc.) | 04/10/2021 |   |
+| [`Farmers Cooperative Elevator`](https://google.com/search?q=Farmers+Cooperative+Elevator) | 04/10/2021 |   |
+| [`Aluflexpack`](https://google.com/search?q=Aluflexpack) | 04/10/2021 |   |
+| [`Clay County Clerk`](https://google.com/search?q=Clay+County+Clerk) | 04/10/2021 |   |
+| [`AZA chili`](https://google.com/search?q=AZA+chili) | 04/10/2021 |   |
+| [`BOSCA S.p.A`](https://google.com/search?q=BOSCA+S.p.A) | 04/10/2021 |   |
+| [`The Plastic Forming Company`](https://google.com/search?q=The+Plastic+Forming+Company) | 04/10/2021 |   |
+| [`GEO-Alpinbau`](https://google.com/search?q=GEO-Alpinbau) | 04/10/2021 |   |
+| [`Goss Dodge Chrysler Ram Jeep`](https://google.com/search?q=Goss+Dodge+Chrysler+Ram+Jeep) | 04/10/2021 |   |
+| [`Matic Transport`](https://google.com/search?q=Matic+Transport) | 04/10/2021 |   |
+
+
+[⤴️](profiles?id=group-profiles)
+
+ --- 
+
+
+Last update : _Tuesday 03/01/2023 15.08 (UTC)_

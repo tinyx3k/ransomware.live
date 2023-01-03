@@ -428,7 +428,6 @@ def profilepage():
     writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('profile page generation complete')
 
-
 def decryptiontools():
     '''
     create a page for each Decryption Tools
@@ -483,7 +482,136 @@ def decryptiontools():
     writeline(decryptionpage, '')
     writeline(decryptionpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('decryption tools page generation complete')
-
+   
+def profile():
+    '''
+    create a profile page for each group in their unique markdown files within docs/profiles
+    '''
+    groups = openjson('groups.json')
+    for group in groups:
+        stdlog('generating profile page for '+ group['name'])
+        profilepage = 'docs/profiles/' + group['name'] + '.md'
+        # delete contents of file
+        with open(profilepage, 'w', encoding='utf-8') as f:
+            f.close()
+        writeline(profilepage, '# Profiles')
+        writeline(profilepage, '')
+        groups = openjson('groups.json')
+        writeline(profilepage, '## **' + group['name']+'**')
+        try: 
+            writeline(profilepage,'')
+            writeline(profilepage,'> ' + group['description'].replace('\n',''))
+            writeline(profilepage, '')
+        except:
+            writeline(profilepage, '')
+        #if group['captcha'] is True:
+        #    writeline(profilepage, ':warning: _has a captcha_')
+        #    writeline(profilepage, '')
+        #if group['parser'] is True:
+        #    writeline(profilepage, '_parsing : `enabled`_')
+        #    writeline(profilepage, '')
+        #else:
+        #    writeline(profilepage, '_parsing : `disabled`_')
+        #    writeline(profilepage, '')
+        # add notes if present
+        if group['meta'] is not None:
+            writeline(profilepage, '_`' + group['meta'] + '`_')
+            writeline(profilepage, '')
+        #if group['javascript_render'] is True:
+        #    writeline(profilepage, '> fetching this site requires a headless browser')
+        #    writeline(profilepage, '')
+        if len(group['profile']):
+            writeline(profilepage, '### External analysis')
+            for profile in group['profile']:
+                writeline(profilepage, '- ' + profile)
+                writeline(profilepage, '')
+        writeline(profilepage, '### URLs')
+        writeline(profilepage, '| Title | Available | Last visit | fqdn | screen ')
+        writeline(profilepage, '|---|---|---|---|---|')        
+        for host in group['locations']:
+            if host['available'] is True:
+                statusemoji = '🟢'
+            elif host['available'] is False:
+                statusemoji = '🔴'
+                # lastseen = host['lastscrape'].split(' ')[0]
+            # convert date to ddmmyyyy hh:mm
+            date = host['lastscrape'].split(' ')[0]
+            date = date.split('-')
+            date = date[2] + '/' + date[1] + '/' + date[0]
+            time = host['lastscrape'].split(' ')[1]
+            time = time.split(':')
+            time = time[0] + ':' + time[1]
+            screenshot=host['fqdn'].replace('.', '-') + '.png'
+            screen='❌'
+            if os.path.exists('docs/screenshots/'+screenshot):
+                screen='<a href="https://www.ransomware.live/screenshots/' + screenshot + '" target=_blank>📸</a>'
+            if host['title'] is not None:
+                line = '| ' + host['title'].replace('|', '-') + ' | ' + statusemoji +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
+                writeline(profilepage, line)
+            else:
+                line = '| none | ' + statusemoji +  ' | ' + date + ' ' + time + ' | `http://' + host['fqdn'] + '` | ' + screen + ' | ' 
+                writeline(profilepage, line)
+        cpt_note = 0 
+        ransom_notes = ''
+        directory = 'docs/ransomware_notes/' + group['name'] +'/'
+        if directory_exists(directory):
+            for filename in sorted(os.listdir(directory)):
+                # stdlog(filename)
+                cpt_note += 1
+                ransom_notes = ransom_notes + ' <a href="/ransomware_notes/' +group['name'] + '/' + filename + '" target=_blank>#' + str(cpt_note) + '</a> ' 
+                # stdlog('add ' + str(cpt_note) + 'note(s) to '+ group['name'] )
+            writeline(profilepage, '')        
+        if cpt_note > 0:
+            writeline(profilepage, '')
+            writeline(profilepage, '### Ransom note')
+            writeline(profilepage,'* 📝 Ransom notes : ' + ransom_notes)
+        ### POSTS 
+        writeline(profilepage, '')
+        writeline(profilepage, '### Posts')
+        writeline(profilepage, '')
+        writeline(profilepage, '> ' + grouppostcount(group['name']))
+        writeline(profilepage, '')
+        if grouppostavailable(group['name']):
+            writeline(profilepage, '| post | date | Description')
+            writeline(profilepage, '|---|---|---|')
+            posts = openjson('posts.json')
+            sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+            for post in sorted_posts:
+                if post['group_name'] == group['name']:
+                    try:
+                        description = re.sub(r"folder/.*", "folder/******", (post['description']))
+                        description = re.sub(r".com/file/.*", ".com/file/******", description)
+                        description = re.sub(r"anonfiles.com/.*/", "anonfiles.com/******/", description)
+                    except:
+                        description=' '
+                    #if post['website'] is not None: 
+                    try:
+                        if post['website'] == "": 
+                            urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
+                            postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
+                        else: 
+                            if 'http' in post['website']:                       
+                                postURL = '[`' + post['post_title'].replace('|', '') + '`](' + post['website'] + ')'
+                            else:
+                                postURL = '[`' + post['post_title'].replace('|', '') + '`](https://' + post['website'] + ')'
+                    except: 
+                        urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
+                        postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
+                    date = post['discovered'].split(' ')[0]
+                    date = date.split('-')
+                    date = date[2] + '/' + date[1] + '/' + date[0]
+                    line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
+                    writeline(profilepage, line)
+        writeline(profilepage, '')
+        writeline(profilepage, '')
+        writeline(profilepage, '[⤴️](profiles?id=group-profiles)')
+        writeline(profilepage, '')
+        writeline(profilepage,' --- ')
+        writeline(profilepage, '')
+        stdlog('profile page for ' + group['name'] + ' generated')
+        writeline(profilepage, '')
+        writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
+    stdlog('profile pages generation complete')
 
 def main():
     stdlog('generating docs')
@@ -494,6 +622,7 @@ def main():
     allposts()
     # statspage()
     profilepage()
+    profile()
     # if os.path.getmtime('docs/decryption.md') < (time.time() - 14400):
     decryptiontools()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
@@ -515,4 +644,3 @@ def main():
         ###
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
-   

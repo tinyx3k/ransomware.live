@@ -1,0 +1,25 @@
+# Profiles
+
+## **entropy**
+
+> Entropy is a ransomware first seen in 1st quarter of 2022, is being used in conjunction of Dridex infection. The ransomware uses a custom packer to pack itself which has been seen in some early dridex samples. 
+
+_`captcha prevents indexing`_
+
+### URLs
+| Title | Available | Last visit | fqdn | screen 
+|---|---|---|---|---|
+| Entropy hall of fall | 🔴 | 27/02/2022 08:16 | `http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion` | ❌ | 
+
+### Posts
+
+> no post found
+
+
+
+[⤴️](profiles?id=group-profiles)
+
+ --- 
+
+
+Last update : _Tuesday 03/01/2023 15.08 (UTC)_
