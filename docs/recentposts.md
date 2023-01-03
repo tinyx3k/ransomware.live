@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](profiles.md?id=play) |
+| 2023-01-03 | [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`Furetank`](https://google.com/search?q=Furetank) | [play](profiles.md?id=play) |
 | 2023-01-02 | [`Stratacache`](https://google.com/search?q=Stratacache) | [play](profiles.md?id=play) |
 | 2023-01-02 | [`Dental One`](https://google.com/search?q=Dental+One) | [alphv](profiles.md?id=alphv) |
@@ -203,7 +205,5 @@
 | 2022-12-22 | [`COLORADO.EDU`](https://google.com/search?q=COLORADO.EDU) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`FLAGSTAR.COM`](https://google.com/search?q=FLAGSTAR.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`BOMBARDIER.COM`](https://google.com/search?q=BOMBARDIER.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`JONESDAY.COM`](https://google.com/search?q=JONESDAY.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`DANAHER.COM`](https://google.com/search?q=DANAHER.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Tuesday 03/01/2023 15.25 (UTC)_
+Last update : _Tuesday 03/01/2023 17.27 (UTC)_

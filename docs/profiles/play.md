@@ -13,7 +13,7 @@
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | PLAY NEWS | 🔴 | 03/01/2023 13:23 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 03/01/2023 15:05 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 03/01/2023 17:09 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -21,10 +21,12 @@
 
 ### Posts
 
-> 40 posts found
+> 42 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | 03/01/2023 |  |
+| [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | 03/01/2023 |  |
 | [`Furetank`](https://www.furetank.se) | 03/01/2023 | Donso, Vaestra Goetaland, Sweden |
 | [`Stratacache`](https://www.stratacache.com) | 02/01/2023 | Dayton, Ohio, United States |
 | [`S???`](https://google.com/search?q=S%3F%3F%3F) | 02/01/2023 | Utica, New-York |
@@ -72,4 +74,4 @@
  --- 
 
 
-Last update : _Tuesday 03/01/2023 15.25 (UTC)_
+Last update : _Tuesday 03/01/2023 17.27 (UTC)_
