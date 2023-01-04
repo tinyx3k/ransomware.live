@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](profiles.md?id=everest) |
 | 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](profiles.md?id=play) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`SHELL.COM`](https://google.com/search?q=SHELL.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`STANFORD.EDU`](https://google.com/search?q=STANFORD.EDU) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`MIAMI.EDU`](https://google.com/search?q=MIAMI.EDU) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`COLORADO.EDU`](https://google.com/search?q=COLORADO.EDU) | [clop](profiles.md?id=clop) |
 
-Last update : _Wednesday 04/01/2023 15.11 (UTC)_
+Last update : _Wednesday 04/01/2023 17.32 (UTC)_

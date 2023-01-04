@@ -25,7 +25,7 @@
 | BlackByte BLOG | 🔴 | 28/03/2022 11:17 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 24/04/2022 20:21 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 12/07/2022 20:09 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` | ❌ | 
-| BB Auction | 🔴 | 04/01/2023 08:40 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+| BB Auction | 🟢 | 04/01/2023 16:51 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -33,10 +33,11 @@
 
 ### Posts
 
-> 90 posts found
+> 91 posts found
 
 | post | date | Description
 |---|---|---|
+| [`CAPMC`](https://google.com/search?q=CAPMC) | 04/01/2023 | Community Action Partnership of Madera County (CAPMC). Since it was incorporated in 1965, CAPMC has been making a positive difference in our county. CAPMC is committed to improving the social well-being and economic capacity of low to moderate-income individuals and families, as well as providing opportunities to achieve economic independence. |
 | [`CPTM`](https://google.com/search?q=CPTM) | 29/12/2022 | The São Paulo Metropolitan Train Company is a commuter rail system owned by the Secretariat of Urban Transportation of the State of São Paulo. It was created in 1992 with the merger of several railways in Greater São Paulo, Brazil. |
 | [`lapiamontesa`](https://google.com/search?q=lapiamontesa) | 22/11/2022 |   |
 | [`ALTEK`](https://google.com/search?q=ALTEK) | 07/11/2022 |   |
@@ -134,4 +135,4 @@
  --- 
 
 
-Last update : _Wednesday 04/01/2023 15.11 (UTC)_
+Last update : _Wednesday 04/01/2023 17.32 (UTC)_
