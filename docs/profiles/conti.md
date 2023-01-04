@@ -15,7 +15,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | CONTI.News | 🔴 | 22/06/2022 06:25 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` | ❌ | 
-| none | 🟢 | 04/01/2023 18:42 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| none | 🟢 | 04/01/2023 20:38 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
 | Error Response Page | 🔴 | 23/11/2022 12:36 | `http://continews.bz` | ❌ | 
 
 
@@ -368,4 +368,4 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
  --- 
 
 
-Last update : _Wednesday 04/01/2023 19.26 (UTC)_
+Last update : _Wednesday 04/01/2023 21.24 (UTC)_
