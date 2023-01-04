@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4844` posts_
+_All `4845` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4844` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-04 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](profiles.md?id=everest) |
@@ -4855,4 +4856,4 @@ _All `4844` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 04/01/2023 21.24 (UTC)_
+Last update : _Wednesday 04/01/2023 23.10 (UTC)_

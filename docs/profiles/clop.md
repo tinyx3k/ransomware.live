@@ -13,7 +13,7 @@
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 04/01/2023 20:37 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 04/01/2023 22:33 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -21,10 +21,11 @@
 
 ### Posts
 
-> 123 posts found
+> 124 posts found
 
 | post | date | Description
 |---|---|---|
+| [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | 04/01/2023 |  |
 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 |  |
 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  |
 | [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  |
@@ -155,4 +156,4 @@
  --- 
 
 
-Last update : _Wednesday 04/01/2023 21.24 (UTC)_
+Last update : _Wednesday 04/01/2023 23.10 (UTC)_
