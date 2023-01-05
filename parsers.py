@@ -1253,7 +1253,7 @@ def blackbyte():
                 # <table class="table table-bordered table-content ">
                 for div in divs_name:
                     title = div.find('h1').text.strip()
-                    description = div.find('p').text.strip()
+                    description = div.find('p').text.strip().replace("\n", "")
                     appender(title, 'blackbyte', description)
                 file.close()
         except:
