@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-05 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](profiles.md?id=play) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`NIPRO.COM`](https://google.com/search?q=NIPRO.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PNCPA.COM`](https://google.com/search?q=PNCPA.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SHELL.COM`](https://google.com/search?q=SHELL.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`STANFORD.EDU`](https://google.com/search?q=STANFORD.EDU) | [clop](profiles.md?id=clop) |
 
-Last update : _Wednesday 04/01/2023 23.10 (UTC)_
+Last update : _Thursday 05/01/2023 02.36 (UTC)_
