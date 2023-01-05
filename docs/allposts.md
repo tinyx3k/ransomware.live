@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4846` posts_
+_All `4847` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4846` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-05 | [`DSBJ DATA LEAK`](https://google.com/search?q=DSBJ+DATA+LEAK) | [royal](profiles.md?id=royal) |
 | 2023-01-05 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](profiles.md?id=blackbyte) |
@@ -4857,4 +4858,4 @@ _All `4846` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 05/01/2023 03.37 (UTC)_
+Last update : _Thursday 05/01/2023 05.19 (UTC)_

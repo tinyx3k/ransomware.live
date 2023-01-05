@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-05 | [`DSBJ DATA LEAK`](https://google.com/search?q=DSBJ+DATA+LEAK) | [royal](profiles.md?id=royal) |
 | 2023-01-05 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](profiles.md?id=blackbyte) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`FOODLAND.COM`](https://google.com/search?q=FOODLAND.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`NIPRO.COM`](https://google.com/search?q=NIPRO.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PNCPA.COM`](https://google.com/search?q=PNCPA.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SHELL.COM`](https://google.com/search?q=SHELL.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 05/01/2023 03.37 (UTC)_
+Last update : _Thursday 05/01/2023 05.19 (UTC)_
