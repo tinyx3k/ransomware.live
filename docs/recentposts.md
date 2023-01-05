@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-05 | [`Ellison Technologies`](https://google.com/search?q=Ellison+Technologies) | [blackbyte](profiles.md?id=blackbyte) |
+| 2023-01-05 | [`Hayward`](https://google.com/search?q=Hayward) | [blackbyte](profiles.md?id=blackbyte) |
+| 2023-01-05 | [`Kansas City Homes`](https://google.com/search?q=Kansas+City+Homes) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-05 | [`DSBJ DATA LEAK`](https://google.com/search?q=DSBJ+DATA+LEAK) | [royal](profiles.md?id=royal) |
 | 2023-01-05 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | [clop](profiles.md?id=clop) |
 | 2023-01-04 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | [clop](profiles.md?id=clop) |
@@ -202,8 +205,5 @@
 | 2022-12-22 | [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`UTILITYTRAILER.COM`](https://google.com/search?q=UTILITYTRAILER.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`AUROBINDO.COM`](https://google.com/search?q=AUROBINDO.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`FOODLAND.COM`](https://google.com/search?q=FOODLAND.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`NIPRO.COM`](https://google.com/search?q=NIPRO.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`PNCPA.COM`](https://google.com/search?q=PNCPA.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 05/01/2023 15.15 (UTC)_
+Last update : _Thursday 05/01/2023 17.42 (UTC)_
