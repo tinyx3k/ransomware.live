@@ -8,7 +8,7 @@ _`marketplace - not a ransomware group`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Dread Network Status | 🔴 | 06/01/2023 02:07 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` | <a href="https://www.ransomware.live/screenshots/dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad-onion.png" target=_blank>📸</a> | 
+| Dread Network Status | 🟢 | 06/01/2023 04:45 | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion` | <a href="https://www.ransomware.live/screenshots/dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -21,4 +21,4 @@ _`marketplace - not a ransomware group`_
  --- 
 
 
-Last update : _Friday 06/01/2023 03.47 (UTC)_
+Last update : _Friday 06/01/2023 05.20 (UTC)_
