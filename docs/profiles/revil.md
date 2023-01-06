@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 19/08/2022 12:16 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` | ❌ | 
 | 404 Not Found | 🔴 | 19/08/2022 12:17 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` | ❌ | 
-| Blog | 🟢 | 06/01/2023 02:34 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` | <a href="https://www.ransomware.live/screenshots/blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd-onion.png" target=_blank>📸</a> | 
+| Blog | 🟢 | 06/01/2023 03:36 | `http://blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd.onion` | <a href="https://www.ransomware.live/screenshots/blogxxu75w63ujqarv476otld7cyjkq4yoswzt4ijadkjwvg3vrvd5yd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -76,4 +76,4 @@
  --- 
 
 
-Last update : _Friday 06/01/2023 02.43 (UTC)_
+Last update : _Friday 06/01/2023 03.47 (UTC)_
