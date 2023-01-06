@@ -6,8 +6,8 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| 0mega - Blog | 🟢 | 05/01/2023 22:25 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
-| 0mega - Blog | 🟢 | 05/01/2023 22:25 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
+| 0mega - Blog | 🔴 | 05/01/2023 22:25 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
+| 0mega - Blog | 🔴 | 05/01/2023 22:25 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -24,4 +24,4 @@
  --- 
 
 
-Last update : _Thursday 05/01/2023 23.23 (UTC)_
+Last update : _Friday 06/01/2023 02.43 (UTC)_

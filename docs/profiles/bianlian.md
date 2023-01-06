@@ -15,7 +15,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 05/01/2023 22:31 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 06/01/2023 01:58 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -122,4 +122,4 @@
  --- 
 
 
-Last update : _Thursday 05/01/2023 23.23 (UTC)_
+Last update : _Friday 06/01/2023 02.43 (UTC)_
