@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4851` posts_
+_All `4854` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,9 @@ _All `4851` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-06 | [`LetMeRepair`](https://google.com/search?q=LetMeRepair) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Consulate Health Care`](https://google.com/search?q=Consulate+Health+Care) | [hive](profiles.md?id=hive) |
 | 2023-01-05 | [`Ellison Technologies`](https://google.com/search?q=Ellison+Technologies) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-05 | [`Hayward`](https://google.com/search?q=Hayward) | [blackbyte](profiles.md?id=blackbyte) |
@@ -4862,4 +4865,4 @@ _All `4851` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 06/01/2023 07.22 (UTC)_
+Last update : _Friday 06/01/2023 09.19 (UTC)_

@@ -17,11 +17,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 06/01/2023 07:16 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 06/01/2023 09:13 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 06/01/2023 07:17 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 06/01/2023 07:18 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 06/01/2023 07:19 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 06/01/2023 09:14 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🔴 | 06/01/2023 07:18 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 06/01/2023 09:15 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -29,10 +29,13 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 145 posts found
+> 148 posts found
 
 | post | date | Description
 |---|---|---|
+| [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | 06/01/2023 | A team of over 1,800 people who work every day with the desire to inspire the world with designs that move people, innovations that are lasting, and products that make spaces more attractive. Always with the commitment of caring for the environment and communities we're a part of. We are Spradling: Inspiration that covers the world. |
+| [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | 06/01/2023 | Sub-drill was incorporated in 1992 and is a proven and trusted manufacturer and supplier of Subsea Tools and Drilling Equipment to the Global Energy Industry. |
+| [`LetMeRepair`](https://google.com/search?q=LetMeRepair) | 06/01/2023 | We are company focusing on supporting the complete, "presales" and "after sales cycles" for the IT, office automation, consumer Electronics and telecommunication, robotics and electromobility industries. LetMeRepair has set its goal to be the most efficient service company while achieving the highest possible customer satisfaction. |
 | [`FREDERICK Public Schools`](https://google.com/search?q=FREDERICK+Public+Schools) | 20/12/2022 | Our Mission: To provide a caring and creative environment that promotes excellence, fosters integrity, and empowers, inspires, and encourages each student to reach his or her full academic, extracurricular, and social potential. |
 | [`McNamara & Thiel Insurance Agency`](https://google.com/search?q=McNamara+%26+Thiel+Insurance+Agency) | 20/12/2022 | Established in 1974, McNamara & Thiel has been one of the leading full-service, independent agencies in Fond du Lac and the surrounding areas. Our combined experience of over 41 years focuses on service to our clients and community. |
 | [`JEALSA`](https://google.com/search?q=JEALSA) | 20/12/2022 | Jealsa is a family business based in Galicia and founded in 1958 with its central headquarters located in Boiro (La CoruÃ±a â€“ Spain). We are dedicated to manufacturing and distribution of canned seafood and fish. |
@@ -185,4 +188,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Friday 06/01/2023 07.22 (UTC)_
+Last update : _Friday 06/01/2023 09.19 (UTC)_
