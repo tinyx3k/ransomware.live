@@ -17,8 +17,8 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| DDOS Protection | 🟢 | 06/01/2023 18:33 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
-| AvosLocker | 🟢 | 06/01/2023 18:33 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
+| DDOS Protection | 🟢 | 06/01/2023 20:30 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
+| AvosLocker | 🟢 | 06/01/2023 20:30 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -98,4 +98,4 @@ _`captcha prevents indexing`_
  --- 
 
 
-Last update : _Friday 06/01/2023 19.20 (UTC)_
+Last update : _Friday 06/01/2023 21.20 (UTC)_

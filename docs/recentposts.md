@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-06 | [`Park View`](https://google.com/search?q=Park+View) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-06 | [`City Lit`](https://google.com/search?q=City+Lit) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`LEK / HABO`](https://google.com/search?q=LEK+%2F+HABO) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
@@ -202,8 +205,5 @@
 | 2022-12-22 | [`KSSENTERPRISES.COM`](https://google.com/search?q=KSSENTERPRISES.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PARAGONGRI.COM`](https://google.com/search?q=PARAGONGRI.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PENBENS.COM`](https://google.com/search?q=PENBENS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`GOABCO.COM`](https://google.com/search?q=GOABCO.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ZUCCHETTIKOS.IT`](https://google.com/search?q=ZUCCHETTIKOS.IT) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`RMICO.COM`](https://google.com/search?q=RMICO.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Friday 06/01/2023 19.20 (UTC)_
+Last update : _Friday 06/01/2023 21.20 (UTC)_
