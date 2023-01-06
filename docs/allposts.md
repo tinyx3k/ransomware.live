@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4855` posts_
+_All `4856` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,7 @@ _All `4855` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-06 | [`LEK / HABO`](https://google.com/search?q=LEK+%2F+HABO) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](profiles.md?id=vicesociety) |
@@ -4866,4 +4867,4 @@ _All `4855` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 06/01/2023 15.14 (UTC)_
+Last update : _Friday 06/01/2023 17.27 (UTC)_
