@@ -6,7 +6,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Login | 🟢 | 07/01/2023 16:41 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
+| Login | 🟢 | 07/01/2023 18:37 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -16,4 +16,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 18.36 (UTC)_
+Last update : _Saturday 07/01/2023 19.18 (UTC)_
