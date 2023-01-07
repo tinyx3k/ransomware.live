@@ -74,10 +74,17 @@ def mainpage():
     dir_path = r'docs/screenshots'
     screenshots=(len([entry for entry in os.listdir(dir_path) if os.path.isfile(os.path.join(dir_path, entry))]))
     dir_path = r'docs/ransomware_notes'
-    nbransom_notes=sum([len(folder) for r, d, folder in os.walk(dir_path)])-4
+    # nbransom_notes=sum([len(folder) for r, d, folder in os.walk(dir_path)])-4
+    nbransom_notes = 0
+    for root, dirs, files in os.walk(dir_path):
+        # On ignore le répertoire .git
+        if ".git" in dirs:
+            dirs.remove(".git")
+        # Pour chaque fichier trouvé, on incrémente le compteur
+        nbransom_notes += len(files)
     with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
-    writeline(uptime_sheet, '## 📈 Ransomware.live')
+    # writeline(uptime_sheet, '## 📈 Ransomware.live')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet,'')
     writeline(uptime_sheet,'---')
