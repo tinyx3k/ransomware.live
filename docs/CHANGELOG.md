@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2023-01-08
 
-* Add a RSS Feed for the [last 50 entries](https://www.Ransomware.com/rss.xml)
+* Add a RSS Feed for the [last 50 entries](https://www.ransomware.live/rss.xml)
 
 ### 2022-12-31 🥂🍾 🥳
 
