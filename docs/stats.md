@@ -13,6 +13,8 @@
 
 ## 2023
 
+!> [Month by month](stats2023.md)
+
 
  | ![](graphs/postsbyday2023.png) | ![](graphs/postsbygroup2023.png) |
  |---|---|

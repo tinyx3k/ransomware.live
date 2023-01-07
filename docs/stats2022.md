@@ -68,7 +68,7 @@
  | ![](graphs/grouppie202211.png) | |  
 
  ## December
-git 
+
 | ![](graphs/postsbyday202212.png) | ![](graphs/postsbygroup202212.png) |
- |---|---|
- | ![](graphs/grouppie202212.png) | | 
+|---|---|
+| ![](graphs/grouppie202212.png) | | 
