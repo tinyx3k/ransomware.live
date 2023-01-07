@@ -31,10 +31,7 @@
 | [`LIGHT CONVERSION`](https://google.com/search?q=LIGHT+CONVERSION) | 21/12/2021 |   |
 | [`CristÃ¡lia - IndÃºstria FarmacÃªutica`](https://google.com/search?q=Crist%C3%83%C2%A1lia+-+Ind%C3%83%C2%BAstria+Farmac%C3%83%C2%AAutica) | 21/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

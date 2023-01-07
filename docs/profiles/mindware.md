@@ -29,10 +29,7 @@
 | [`allwell`](https://google.com/search?q=allwell) | 05/05/2022 |   |
 | [`acorentacar`](https://google.com/search?q=acorentacar) | 05/05/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

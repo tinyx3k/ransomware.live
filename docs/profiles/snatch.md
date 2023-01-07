@@ -96,10 +96,7 @@
 | [`Match MG`](https://google.com/search?q=Match+MG) | 29/11/2021 |   |
 | [`Cadence Aerospace`](https://google.com/search?q=Cadence+Aerospace) | 29/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

@@ -119,10 +119,7 @@
 | [`Brunner Announce – Hello World !`](https://google.com/search?q=Brunner+Announce+%E2%80%93+Hello+World+%21) | 11/06/2020 |   |
 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | 10/06/2020 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

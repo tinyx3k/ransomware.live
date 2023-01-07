@@ -47,10 +47,7 @@
 | [`Wrgtexas.com`](https://google.com/search?q=Wrgtexas.com) | 09/09/2021 |   |
 | [`www.webstercare.com.au`](https://google.com/search?q=www.webstercare.com.au) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

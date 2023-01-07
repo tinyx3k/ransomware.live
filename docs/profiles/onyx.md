@@ -48,10 +48,7 @@ _`aka vsop`_
 | [`Semaphore Solutions Inc`](https://google.com/search?q=Semaphore+Solutions+Inc) | 29/04/2022 |   |
 | [`Ackerman Plumbing Inc`](https://google.com/search?q=Ackerman+Plumbing+Inc) | 29/04/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

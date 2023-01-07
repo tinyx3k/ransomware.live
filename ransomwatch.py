@@ -239,7 +239,6 @@ if args.mode == 'markdown':
 
 if args.mode == 'parse':
     parsers.alphv()
-    exit()
     parsers.arvinclub()
     parsers.atomsilo()
     parsers.avaddon()

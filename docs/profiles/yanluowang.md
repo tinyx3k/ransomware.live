@@ -25,10 +25,7 @@
 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | 02/07/2022 |   |
 | [`Cincinnati bell didn’t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%E2%80%99t+pay+the+ransom) | 02/07/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

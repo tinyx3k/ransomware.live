@@ -22,10 +22,7 @@
 | [`AKIJ GROUP`](https://google.com/search?q=AKIJ+GROUP) | 04/01/2022 |   |
 | [`æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹`](https://google.com/search?q=%C3%A6%C2%9D%C2%B1%C3%A4%C2%BA%C2%AC%C3%A3%C2%82%C2%B3%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%94%C3%A3%C2%83%C2%A5%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%BF%C3%A3%C2%82%C2%B5%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%93%C3%A3%C2%82%C2%B9) | 04/01/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

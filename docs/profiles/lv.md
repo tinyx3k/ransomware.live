@@ -89,10 +89,7 @@
 | [`docol.com.br - more then 1.5TB data leaked`](https://google.com/search?q=docol.com.br+-+more+then+1.5TB+data+leaked) | 22/11/2021 |   |
 | [`adhhealth.com - more then 1.2Tb data leaaked`](https://google.com/search?q=adhhealth.com+-+more+then+1.2Tb+data+leaaked) | 22/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

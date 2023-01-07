@@ -33,10 +33,7 @@
 | [`Rossell Techsys`](https://google.com/search?q=Rossell+Techsys) | 14/12/2021 |   |
 | [`KMG Prestige, Inc.`](https://google.com/search?q=KMG+Prestige%2C+Inc.) | 07/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

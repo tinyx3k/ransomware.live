@@ -131,10 +131,7 @@
 | [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | 04/11/2022 |   |
 | [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | 04/11/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

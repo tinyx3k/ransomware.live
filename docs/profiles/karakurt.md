@@ -63,10 +63,7 @@
 | [`BauVal`](https://google.com/search?q=BauVal) | 11/12/2022 |   |
 | [`Centrisys cnp`](https://google.com/search?q=Centrisys+cnp) | 11/12/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

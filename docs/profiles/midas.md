@@ -60,10 +60,7 @@
 | [`Texas Enterprises, Inc (TEI)`](https://google.com/search?q=Texas+Enterprises%2C+Inc+%28TEI%29) | 29/11/2021 |   |
 | [`Calibrus`](https://google.com/search?q=Calibrus) | 29/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

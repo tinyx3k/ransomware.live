@@ -167,10 +167,7 @@
 | [`Imperial Printing and Paper Box Mfg`](https://google.com/search?q=Imperial+Printing+and+Paper+Box+Mfg) | 09/09/2021 |   |
 | [`Accounts IQ`](https://google.com/search?q=Accounts+IQ) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

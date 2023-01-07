@@ -33,10 +33,7 @@
 | [`SI Group. Part 1.`](https://google.com/search?q=SI+Group.+Part+1.) | 04/10/2021 |   |
 | [`YASH Technologies. Part 1.`](https://google.com/search?q=YASH+Technologies.+Part+1.) | 04/10/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

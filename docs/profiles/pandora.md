@@ -25,10 +25,7 @@
 | [`GlobalWafers Japan`](https://google.com/search?q=GlobalWafers+Japan) | 17/03/2022 |   |
 | [`Rosewd`](https://google.com/search?q=Rosewd) | 17/03/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

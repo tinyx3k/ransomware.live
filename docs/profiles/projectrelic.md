@@ -20,10 +20,7 @@
 | [`Turner & Associates, LLP`](https://google.com/search?q=Turner+%26+Associates%2C+LLP) | 11/11/2022 | Outstanding service to our clients is what makes Turner & Associates, LLP one of the leading CPA firms in the State of Florida. Our combined 75 years of Partner |
 | [`Sterling Battery`](https://google.com/search?q=Sterling+Battery) | 11/11/2022 | Sterling Battery Co is a company that operates in the Automotive industry. |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

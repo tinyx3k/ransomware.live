@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-07 | [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | [alphv](profiles.md?id=alphv) |
@@ -201,9 +205,5 @@
 | 2022-12-22 | [`BPATPA.COM`](https://google.com/search?q=BPATPA.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`GENESISNET.COM`](https://google.com/search?q=GENESISNET.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`COMPASSNRG.COM`](https://google.com/search?q=COMPASSNRG.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`COULSONGROUP.COM`](https://google.com/search?q=COULSONGROUP.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`STORAFILE.CO.UK`](https://google.com/search?q=STORAFILE.CO.UK) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`KLEINBERGLANGE.COM`](https://google.com/search?q=KLEINBERGLANGE.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`WDMANOR.COM`](https://google.com/search?q=WDMANOR.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

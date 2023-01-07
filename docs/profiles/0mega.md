@@ -18,10 +18,7 @@
 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | 15/09/2022 |   |
 | [`Maxey Moverley`](https://google.com/search?q=Maxey+Moverley) | 14/07/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

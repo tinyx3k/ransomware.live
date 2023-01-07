@@ -29,10 +29,7 @@
 | [`e-driver.hsc.gov.ua`](https://google.com/search?q=e-driver.hsc.gov.ua) | 31/12/2022 |  |
 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | 31/12/2022 |  |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

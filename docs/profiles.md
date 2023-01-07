@@ -18,9 +18,6 @@
 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | 15/09/2022 |   |
 | [`Maxey Moverley`](https://google.com/search?q=Maxey+Moverley) | 14/07/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **Abrahams_Ax**
@@ -36,9 +33,6 @@
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -66,9 +60,6 @@ _`Forum`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **aGl0bGVyCg**
@@ -83,9 +74,6 @@ _`Forum`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -107,9 +95,6 @@ _`extensions .admin1 .admin2 .admin3 .1admin .2admin .3admin`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **againstthewest**
@@ -126,9 +111,6 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -152,9 +134,6 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -439,9 +418,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`RCMS`](https://google.com/search?q=RCMS) | 18/12/2021 |   |
 | [`SVA Jean Rozé - sva-jeanroze.fr`](https://google.com/search?q=SVA+Jean+Roz%C3%A9+-+sva-jeanroze.fr) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **arvinclub**
@@ -486,9 +462,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`T-Mobile`](https://google.com/search?q=T-Mobile) | 09/09/2021 |   |
 | [`elitemate.com`](https://google.com/search?q=elitemate.com) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **atomsilo**
@@ -521,9 +494,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`Eisai Co., Ltd.`](https://google.com/search?q=Eisai+Co.%2C+Ltd.) | 21/12/2021 |   |
 | [`LIGHT CONVERSION`](https://google.com/search?q=LIGHT+CONVERSION) | 21/12/2021 |   |
 | [`CristÃ¡lia - IndÃºstria FarmacÃªutica`](https://google.com/search?q=Crist%C3%83%C2%A1lia+-+Ind%C3%83%C2%BAstria+Farmac%C3%83%C2%AAutica) | 21/12/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -694,9 +664,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`Imperial Printing and Paper Box Mfg`](https://google.com/search?q=Imperial+Printing+and+Paper+Box+Mfg) | 09/09/2021 |   |
 | [`Accounts IQ`](https://google.com/search?q=Accounts+IQ) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **avos**
@@ -711,9 +678,6 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -734,8 +698,8 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| DDOS Protection | 🟢 | 07/01/2023 08:31 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
-| AvosLocker | 🟢 | 07/01/2023 08:32 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
+| DDOS Protection | 🟢 | 07/01/2023 11:55 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
+| AvosLocker | 🟢 | 07/01/2023 11:56 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -809,9 +773,6 @@ _`captcha prevents indexing`_
 | [`Arabian Cargo Group`](https://google.com/search?q=Arabian+Cargo+Group) | 13/06/2021 |   |
 | [`AvosLocker is officially online!`](https://google.com/search?q=AvosLocker+is+officially+online%21) | 01/01/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **aztroteam**
@@ -826,9 +787,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -861,9 +819,6 @@ _`captcha prevents indexing`_
 | [`E.A. Gibson Shipbrokers`](https://google.com/search?q=E.A.+Gibson+Shipbrokers) | 09/09/2021 |   |
 | [`BridgeMill Athletic Club`](https://google.com/search?q=BridgeMill+Athletic+Club) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **babyduck**
@@ -881,9 +836,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -1002,9 +954,6 @@ _`captcha prevents indexing`_
 | [`Anderson Insurance Associates`](https://google.com/search?q=Anderson+Insurance+Associates) | 14/07/2022 |   |
 | [`High Power Technical Services`](https://google.com/search?q=High+Power+Technical+Services) | 14/07/2022 |   |
 | [`Mooresville Schools`](https://google.com/search?q=Mooresville+Schools) | 14/07/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -1186,9 +1135,6 @@ _`captcha prevents indexing`_
 | [`Basler Versicherungen`](https://google.com/search?q=Basler+Versicherungen) | 26/04/2022 |   |
 | [`Deutsche Windtechnik`](https://google.com/search?q=Deutsche+Windtechnik) | 26/04/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **blackbyte**
@@ -1323,9 +1269,6 @@ _`captcha prevents indexing`_
 | [`Goss Dodge Chrysler Ram Jeep`](https://google.com/search?q=Goss+Dodge+Chrysler+Ram+Jeep) | 04/10/2021 |   |
 | [`Matic Transport`](https://google.com/search?q=Matic+Transport) | 04/10/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **blackmatter**
@@ -1386,9 +1329,6 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 | [`Diamond Schmitt`](https://google.com/search?q=Diamond+Schmitt) | 09/09/2021 |   |
 | [`Trust Capital Funding`](https://google.com/search?q=Trust+Capital+Funding) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **blackshadow**
@@ -1414,9 +1354,6 @@ _`previous clearnet domain blackshadow.cc`_
 | [`K.L.S Capital`](https://google.com/search?q=K.L.S+Capital) | 18/12/2021 |   |
 | [`CyberServe Company`](https://google.com/search?q=CyberServe+Company) | 18/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **blacktor**
@@ -1439,9 +1376,6 @@ _`previous clearnet domain blackshadow.cc`_
 | [`unexca-edu-ve`](https://google.com/search?q=unexca-edu-ve) | 30/12/2021 |   |
 | [`2020/04`](https://google.com/search?q=2020%2F04) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **bluesky**
@@ -1460,9 +1394,6 @@ _`previous clearnet domain blackshadow.cc`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -1485,9 +1416,6 @@ _`claim to donate 80% of earnings to charity`_
 | [`Marshall Investigative Group Part 1/3 1000 Client`](https://google.com/search?q=Marshall+Investigative+Group+Part+1%2F3+1000+Client) | 06/12/2021 |   |
 | [`Ward Arcuri Foley & Dwyer  Law Firm`](https://google.com/search?q=Ward+Arcuri+Foley+%26+Dwyer+%7C+Law+Firm) | 04/10/2021 |   |
 | [`Charles Crown Financial Ltd`](https://google.com/search?q=Charles+Crown+Financial+Ltd) | 04/10/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -1522,9 +1450,6 @@ _`claim to donate 80% of earnings to charity`_
 | [`An Belgium Hospital - Unpay`](https://google.com/search?q=An+Belgium+Hospital+-+Unpay) | 29/05/2022 |   |
 | [`An International Maritime Company - Unpay`](https://google.com/search?q=An+International+Maritime+Company+-+Unpay) | 29/05/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **chilelocker**
@@ -1539,9 +1464,6 @@ _`claim to donate 80% of earnings to charity`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -1695,9 +1617,6 @@ _`claim to donate 80% of earnings to charity`_
 | [`PLANATOL.DE`](https://google.com/search?q=PLANATOL.DE) | 22/12/2022 |  |
 | [`TWL.DE`](https://google.com/search?q=TWL.DE) | 22/12/2022 |  |
 | [`INRIX.COM`](https://google.com/search?q=INRIX.COM) | 22/12/2022 |  |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2063,9 +1982,6 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | [`Hanwha Life Vietnam`](https://google.com/search?q=Hanwha+Life+Vietnam) | 09/09/2021 |   |
 | [`SOLWARE`](https://google.com/search?q=SOLWARE) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **cooming**
@@ -2084,9 +2000,6 @@ _`previous clearnet domain coomingproject.com`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **crylock**
@@ -2101,9 +2014,6 @@ _`previous clearnet domain coomingproject.com`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2134,9 +2044,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | [`antistatik-esd-cozumler.com.tr`](https://google.com/search?q=antistatik-esd-cozumler.com.tr) | 18/12/2021 |   |
 | [`paknavy.gov.pk`](https://google.com/search?q=paknavy.gov.pk) | 18/12/2021 |   |
 | [`vaja.ir`](https://google.com/search?q=vaja.ir) | 18/12/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2260,9 +2167,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | [`AFTS supplies the preeminent Payment Processing, IRS 1031 Exchange, Data Processing, Invoi`](https://google.com/search?q=AFTS+supplies+the+preeminent+Payment+Processing%2C+IRS+1031+Exchange%2C+Data+Processing%2C+Invoi) | 09/09/2021 |   |
 | [`OTR Capital believes in simple and straightforward transactions, without hidden costs and`](https://google.com/search?q=OTR+Capital+believes+in+simple+and+straightforward+transactions%2C+without+hidden+costs+and) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **dagonlocker**
@@ -2281,9 +2185,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2309,9 +2210,6 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | [`Fitzgibbon Hospital (USA)`](https://google.com/search?q=Fitzgibbon+Hospital+%28USA%29) | 03/08/2022 |   |
 | [`Trib Total Media (USA)`](https://google.com/search?q=Trib+Total+Media+%28USA%29) | 03/08/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **darkangels**
@@ -2332,9 +2230,6 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2397,9 +2292,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | [`AT&T Database Leak`](https://google.com/search?q=AT%26T+Database+Leak) | 09/09/2021 |   |
 | [`Liquid Global liquid.com`](https://google.com/search?q=Liquid+Global+liquid.com) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **darkside**
@@ -2427,9 +2319,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **dataleak**
@@ -2453,9 +2342,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | [`grantweber.com`](https://google.com/search?q=grantweber.com) | 02/12/2022 |   |
 | [`The Beacon Insurance Company Limited`](https://google.com/search?q=The+Beacon+Insurance+Company+Limited) | 02/12/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **diavol**
@@ -2475,9 +2361,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2506,9 +2389,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | 24/08/2022 |   |
 | [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | 24/08/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **doppelpaymer**
@@ -2534,9 +2414,6 @@ _`marketplace - not a ransomware group, reputation questionable`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **dread**
@@ -2553,9 +2430,6 @@ _`marketplace - not a ransomware group`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2577,9 +2451,6 @@ _`marketplace - not a ransomware group`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **entropy**
@@ -2598,9 +2469,6 @@ _`captcha prevents indexing`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **ep918**
@@ -2615,9 +2483,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2753,9 +2618,6 @@ _`captcha prevents indexing`_
 | [`Alispharm`](https://google.com/search?q=Alispharm) | 09/09/2021 |   |
 | [`Orha Muvek`](https://google.com/search?q=Orha+Muvek) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **exorcist**
@@ -2773,9 +2635,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2808,9 +2667,6 @@ _`captcha prevents indexing`_
 | [`e-driver.hsc.gov.ua`](https://google.com/search?q=e-driver.hsc.gov.ua) | 31/12/2022 |  |
 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | 31/12/2022 |  |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **fsteam**
@@ -2826,9 +2682,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2856,9 +2709,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2895,9 +2745,6 @@ _`captcha prevents indexing`_
 | [`Запатченные fortinet точки входа`](https://google.com/search?q=%D0%97%D0%B0%D0%BF%D0%B0%D1%82%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+fortinet+%D1%82%D0%BE%D1%87%D0%BA%D0%B8+%D0%B2%D1%85%D0%BE%D0%B4%D0%B0) | 09/09/2021 |   |
 | [`Мы можем просто договориться`](https://google.com/search?q=%D0%9C%D1%8B+%D0%BC%D0%BE%D0%B6%D0%B5%D0%BC+%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D0%B4%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D1%8C%D1%81%D1%8F) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **hades**
@@ -2916,9 +2763,6 @@ _`captcha prevents indexing`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2941,9 +2785,6 @@ _`login page, no posts`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -2971,9 +2812,6 @@ _`aka fivehands`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -3213,9 +3051,6 @@ _``_
 | [`GryphTech`](https://google.com/search?q=GryphTech) | 18/12/2021 |   |
 | [`Raveco`](https://google.com/search?q=Raveco) | 18/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **holyghost**
@@ -3230,9 +3065,6 @@ _``_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -3253,9 +3085,6 @@ _`aka hotarus corp`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -3284,9 +3113,6 @@ _`aka hotarus corp`_
 | [`*.directfn.net`](https://google.com/search?q=%2A.directfn.net) | 20/08/2022 |   |
 | [`*.feesh.ch`](https://google.com/search?q=%2A.feesh.ch) | 20/08/2022 |   |
 | [`*.skifgroup.com`](https://google.com/search?q=%2A.skifgroup.com) | 20/08/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -3353,9 +3179,6 @@ _`aka hotarus corp`_
 | [`BauVal`](https://google.com/search?q=BauVal) | 11/12/2022 |   |
 | [`Centrisys cnp`](https://google.com/search?q=Centrisys+cnp) | 11/12/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **karma**
@@ -3390,9 +3213,6 @@ _`aka hotarus corp`_
 | [`Align Technology. Part 2.`](https://google.com/search?q=Align+Technology.+Part+2.) | 04/10/2021 |   |
 | [`SI Group. Part 1.`](https://google.com/search?q=SI+Group.+Part+1.) | 04/10/2021 |   |
 | [`YASH Technologies. Part 1.`](https://google.com/search?q=YASH+Technologies.+Part+1.) | 04/10/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -3442,9 +3262,6 @@ _`not a ransomware group`_
 | [`Pakistan Human Rights`](https://google.com/search?q=Pakistan+Human+Rights) | 01/04/2022 |   |
 | [`CR ASIA`](https://google.com/search?q=CR+ASIA) | 01/04/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **leaktheanalyst**
@@ -3484,9 +3301,6 @@ _`not a ransomware group`_
 | [`2 Breaking News`](https://google.com/search?q=2+Breaking+News) | 01/01/2022 |   |
 | [`1 Breaking News`](https://google.com/search?q=1+Breaking+News) | 01/01/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **lilith**
@@ -3509,9 +3323,6 @@ _`not a ransomware group`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **lockbit**
@@ -3530,9 +3341,6 @@ _`not a ransomware group`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -4574,9 +4382,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`hammer-poznan.p...`](https://google.com/search?q=hammer-poznan.p...) | 09/09/2021 |   |
 | [`snapmga.com`](https://google.com/search?q=snapmga.com) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **lockbit3**
@@ -4585,25 +4390,25 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 07/01/2023 08:45 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:46 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:46 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:47 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:48 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:48 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:49 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:49 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:50 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 07/01/2023 08:50 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:51 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:51 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:52 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:52 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:53 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:53 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:54 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:54 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 07/01/2023 08:54 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:43 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:43 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:44 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:44 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:45 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:45 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:46 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:47 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:48 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 07/01/2023 11:48 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:49 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:49 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:50 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:51 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:51 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:52 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:53 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:53 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 07/01/2023 11:54 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -4611,10 +4416,12 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ### Posts
 
-> 396 posts found
+> 398 posts found
 
 | post | date | Description
 |---|---|---|
+| [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | 07/01/2023 | 100%BancoCaracas, Venezuela |
+| [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | 07/01/2023 | Gobierno MunicipalH. Ayuntamiento de JuárezUnidad Administrativa Benito JuárezAv. Francisco Villa 950 N., CentroC.P. 32000, Juárez, Chihuahua656 737 0000 |
 | [`takamiya.co`](https://google.com/search?q=takamiya.co) | 07/01/2023 | Takamiya provides total services from development/manufacturing, sales, rental, design/construction, management/distribution of various products including temporary equipment .Takamiya Co., LtdWe create products and services with high added value... |
 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | 01/01/2023 | EDS Automotive GmbH is a dynamically growing family company that offers development services for the automotive industry as well as their suppliers and service contractors.File tree of 70% data leaked: https://www.sendspace.com/file/****** |
 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | 31/12/2022 | We formally apologize for the attack on sikkids.ca and give back the decryptor for free, the partner who attacked this hospital violated our rules, is blocked and is no longer in our affiliate program. http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv... |
@@ -5012,9 +4819,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`metroappliancesandmore.com`](https://google.com/search?q=metroappliancesandmore.com) | 29/06/2022 |   |
 | [`lonseal.com`](https://google.com/search?q=lonseal.com) | 29/06/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **lockbit3_fs**
@@ -5055,9 +4859,6 @@ _`previous clearnet fqdn lockbitapt.uz`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **lockdata**
@@ -5087,9 +4888,6 @@ _`marketplace - not a ransomware group`_
 | [`[USA] Crary Industries Inc.`](https://google.com/search?q=%5BUSA%5D+Crary+Industries+Inc.) | 09/09/2021 |   |
 | [`[CHINA] TCL China Star Optoelectronics Technology Co., Ltd`](https://google.com/search?q=%5BCHINA%5D+TCL+China+Star+Optoelectronics+Technology+Co.%2C+Ltd) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **lolnek**
@@ -5106,9 +4904,6 @@ _`marketplace - not a ransomware group`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5193,9 +4988,6 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 | [`Multifeeder`](https://google.com/search?q=Multifeeder) | 10/01/2021 |   |
 | [`Commport Communications`](https://google.com/search?q=Commport+Communications) | 20/12/2020 |   |
 | [`Windemuller`](https://google.com/search?q=Windemuller) | 12/01/2020 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5288,9 +5080,6 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 | [`docol.com.br - more then 1.5TB data leaked`](https://google.com/search?q=docol.com.br+-+more+then+1.5TB+data+leaked) | 22/11/2021 |   |
 | [`adhhealth.com - more then 1.2Tb data leaaked`](https://google.com/search?q=adhhealth.com+-+more+then+1.2Tb+data+leaaked) | 22/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **mallox**
@@ -5318,9 +5107,6 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 | [`API MDC Technical Research Centre Sdn Bhd`](https://google.com/search?q=API+MDC+Technical+Research+Centre+Sdn+Bhd) | 04/11/2022 |   |
 | [`Aerotech Precision Manufacturing`](https://google.com/search?q=Aerotech+Precision+Manufacturing) | 04/11/2022 |   |
 | [`CLUB DE TENIS LA PAZ`](https://google.com/search?q=CLUB+DE+TENIS+LA+PAZ) | 04/11/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5385,9 +5171,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | [`luxottica.com`](https://google.com/search?q=luxottica.com) | 07/12/2021 |   |
 | [`dwr.virginia.gov`](https://google.com/search?q=dwr.virginia.gov) | 07/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **maze**
@@ -5413,9 +5196,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **mbc**
@@ -5433,9 +5213,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5476,9 +5253,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | 15/11/2022 |   |
 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | 15/11/2022 |   |
 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | 15/11/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5542,9 +5316,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | [`Texas Enterprises, Inc (TEI)`](https://google.com/search?q=Texas+Enterprises%2C+Inc+%28TEI%29) | 29/11/2021 |   |
 | [`Calibrus`](https://google.com/search?q=Calibrus) | 29/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **mindware**
@@ -5576,9 +5347,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | [`allwell`](https://google.com/search?q=allwell) | 05/05/2022 |   |
 | [`acorentacar`](https://google.com/search?q=acorentacar) | 05/05/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **monti**
@@ -5601,9 +5369,6 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|
 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | 22/12/2022 |  |
 | [`test`](https://google.com/search?q=test) | 07/12/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5653,9 +5418,6 @@ _`not a ransomware group`_
 | [`3D imagery of israel`](https://google.com/search?q=3D+imagery+of+israel) | 18/12/2021 |   |
 | [`This is just the beginning`](https://google.com/search?q=This+is+just+the+beginning) | 18/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **mount-locker**
@@ -5676,9 +5438,6 @@ _`not a ransomware group`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **mydecryptor**
@@ -5693,9 +5452,6 @@ _`not a ransomware group`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5717,9 +5473,6 @@ _`not a ransomware group`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5758,9 +5511,6 @@ _`not a ransomware group`_
 | [`Tegut. Part 2.`](https://google.com/search?q=Tegut.+Part+2.) | 09/09/2021 |   |
 | [`The MADSACK Media Group. Part 2.`](https://google.com/search?q=The+MADSACK+Media+Group.+Part+2.) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **nemty**
@@ -5792,9 +5542,6 @@ _`not a ransomware group`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **netwalker**
@@ -5822,9 +5569,6 @@ _`not a ransomware group`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **nightsky**
@@ -5848,9 +5592,6 @@ _`not a ransomware group`_
 |---|---|---|
 | [`AKIJ GROUP`](https://google.com/search?q=AKIJ+GROUP) | 04/01/2022 |   |
 | [`æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹`](https://google.com/search?q=%C3%A6%C2%9D%C2%B1%C3%A4%C2%BA%C2%AC%C3%A3%C2%82%C2%B3%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%94%C3%A3%C2%83%C2%A5%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%BF%C3%A3%C2%82%C2%B5%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%93%C3%A3%C2%82%C2%B9) | 04/01/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5878,9 +5619,6 @@ _`not a ransomware group`_
 |---|---|---|
 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | 09/12/2022 | Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT provider with services ranging from cloud, secure networks, unified communications, managed security, business solutions and digital workspace solutions.Download data: https://mega.nz/folder/****** |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **onepercent**
@@ -5900,9 +5638,6 @@ _`not a ransomware group`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -5954,9 +5689,6 @@ _`aka vsop`_
 | [`Semaphore Solutions Inc`](https://google.com/search?q=Semaphore+Solutions+Inc) | 29/04/2022 |   |
 | [`Ackerman Plumbing Inc`](https://google.com/search?q=Ackerman+Plumbing+Inc) | 29/04/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **pandora**
@@ -5983,9 +5715,6 @@ _`aka vsop`_
 | [`Jaffe Raitt Heuer & Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26+Weiss%2C+P.C.) | 17/03/2022 |   |
 | [`GlobalWafers Japan`](https://google.com/search?q=GlobalWafers+Japan) | 17/03/2022 |   |
 | [`Rosewd`](https://google.com/search?q=Rosewd) | 17/03/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6019,9 +5748,6 @@ _`aka vsop`_
 | [`Intel - Habana Labs`](https://google.com/search?q=Intel+-+Habana+Labs) | 09/09/2021 |   |
 | [`IAI - Israel Aerospace Industries`](https://google.com/search?q=IAI+-+Israel+Aerospace+Industries) | 09/09/2021 |   |
 | [`Portnox - Network Security Solutions`](https://google.com/search?q=Portnox+-+Network+Security+Solutions) | 09/09/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6071,9 +5797,6 @@ _`aka vsop`_
 | [`Connelypartners.com`](https://google.com/search?q=Connelypartners.com) | 09/09/2021 |   |
 | [`Wrgtexas.com`](https://google.com/search?q=Wrgtexas.com) | 09/09/2021 |   |
 | [`www.webstercare.com.au`](https://google.com/search?q=www.webstercare.com.au) | 09/09/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6146,9 +5869,6 @@ _`aka vsop`_
 | [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | 26/11/2022 |   |
 | [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | 26/11/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **projectrelic**
@@ -6170,9 +5890,6 @@ _`aka vsop`_
 | [`BroadMed Holding`](https://google.com/search?q=BroadMed+Holding) | 11/11/2022 | BroadMed Holding (BMH) is a company that specializes in healthcare related businesses. The range of experience stretches to supply the medical field with a wide |
 | [`Turner & Associates, LLP`](https://google.com/search?q=Turner+%26+Associates%2C+LLP) | 11/11/2022 | Outstanding service to our clients is what makes Turner & Associates, LLP one of the leading CPA firms in the State of Florida. Our combined 75 years of Partner |
 | [`Sterling Battery`](https://google.com/search?q=Sterling+Battery) | 11/11/2022 | Sterling Battery Co is a company that operates in the Automotive industry. |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6202,9 +5919,6 @@ _`aka pwndlocker`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **prometheus**
@@ -6229,9 +5943,6 @@ _`aka pwndlocker`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6563,9 +6274,6 @@ _`aka pwndlocker`_
 | [`HPW`](https://google.com/search?q=HPW) | 09/09/2021 |   |
 | [`My Cloud Star`](https://google.com/search?q=My+Cloud+Star) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **qilin**
@@ -6596,9 +6304,6 @@ _`aka pwndlocker`_
 | [`lojastorra.com.br`](https://google.com/search?q=lojastorra.com.br) | 08/10/2022 |   |
 | [`www.emtelco.com.co`](https://google.com/search?q=www.emtelco.com.co) | 08/10/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **qlocker**
@@ -6626,9 +6331,6 @@ _`login page, no posts`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6715,9 +6417,6 @@ _`login page, no posts`_
 | [`TILIA GROUP`](https://google.com/search?q=TILIA+GROUP) | 04/11/2021 |   |
 | [`PVR Ltd.`](https://google.com/search?q=PVR+Ltd.) | 04/11/2021 |   |
 | [`Maple Lodge Farms`](https://google.com/search?q=Maple+Lodge+Farms) | 09/09/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6840,9 +6539,6 @@ _`login page, no posts`_
 | [`Brunner Announce – Hello World !`](https://google.com/search?q=Brunner+Announce+%E2%80%93+Hello+World+%21) | 11/06/2020 |   |
 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | 10/06/2020 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **ragnarok**
@@ -6879,9 +6575,6 @@ _`shut down & offering a decryptor`_
 | [`FNBNWFL Data leaked`](https://google.com/search?q=FNBNWFL+Data+leaked) | 30/12/2021 |   |
 | [`Decrypt`](https://google.com/search?q=Decrypt) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **ranion**
@@ -6896,9 +6589,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6921,9 +6611,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -6995,9 +6682,6 @@ _`shut down & offering a decryptor`_
 | [`Gigabyte Technology`](https://google.com/search?q=Gigabyte+Technology) | 09/09/2021 |   |
 | [`American Megatrends International`](https://google.com/search?q=American+Megatrends+International) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **ransomhouse**
@@ -7038,9 +6722,6 @@ _`shut down & offering a decryptor`_
 | [`Dellner Couplers AB`](https://google.com/search?q=Dellner+Couplers+AB) | 09/05/2022 |   |
 | [`AHS Aviation Handling Services GmbH`](https://google.com/search?q=AHS+Aviation+Handling+Services+GmbH) | 09/05/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **ranzy**
@@ -7069,9 +6750,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7103,9 +6781,6 @@ _`shut down & offering a decryptor`_
 | [`keystonelegal.co.uk`](https://google.com/search?q=keystonelegal.co.uk) | 20/07/2022 |   |
 | [`vahanen.com`](https://google.com/search?q=vahanen.com) | 15/07/2022 |   |
 | [`syredis.fr`](https://google.com/search?q=syredis.fr) | 14/07/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7179,9 +6854,6 @@ _`shut down & offering a decryptor`_
 | [`South Carolina Legal Services breach`](https://google.com/search?q=South+Carolina+Legal+Services+breach) | 09/09/2021 |   |
 | [`ensingerplastics.com`](https://google.com/search?q=ensingerplastics.com) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **robinhood**
@@ -7206,9 +6878,6 @@ _`shut down & offering a decryptor`_
 | post | date | Description
 |---|---|---|
 | [`Besson Seguros`](https://google.com/search?q=Besson+Seguros) | 06/12/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7244,9 +6913,6 @@ _`shut down & offering a decryptor`_
 | [`Rosendahl Design Group`](https://google.com/search?q=Rosendahl+Design+Group) | 14/12/2021 |   |
 | [`Rossell Techsys`](https://google.com/search?q=Rossell+Techsys) | 14/12/2021 |   |
 | [`KMG Prestige, Inc.`](https://google.com/search?q=KMG+Prestige%2C+Inc.) | 07/12/2021 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7381,9 +7047,6 @@ _`shut down & offering a decryptor`_
 | [`https://fishmans.ca`](https://google.com/search?q=https%3A%2F%2Ffishmans.ca) | 04/11/2022 |   |
 | [`https://quantumplastics.com`](https://google.com/search?q=https%3A%2F%2Fquantumplastics.com) | 04/11/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **rransom**
@@ -7398,9 +7061,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7440,9 +7100,6 @@ _`shut down & offering a decryptor`_
 | [`RocTechnologies`](https://google.com/search?q=RocTechnologies) | 22/11/2021 |   |
 | [`MCP Services LLC`](https://google.com/search?q=MCP+Services+LLC) | 22/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **shaoleaks**
@@ -7463,9 +7120,6 @@ _`shut down & offering a decryptor`_
 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | 01/11/2022 |   |
 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | 01/11/2022 |   |
 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | 01/11/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7565,9 +7219,6 @@ _`shut down & offering a decryptor`_
 | [`Match MG`](https://google.com/search?q=Match+MG) | 29/11/2021 |   |
 | [`Cadence Aerospace`](https://google.com/search?q=Cadence+Aerospace) | 29/11/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **solidbit**
@@ -7583,9 +7234,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7622,9 +7270,6 @@ _`shut down & offering a decryptor`_
 | [`RABAT`](https://google.com/search?q=RABAT) | 13/09/2022 |   |
 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | 13/09/2022 |   |
 | [`SERCOM`](https://google.com/search?q=SERCOM) | 13/09/2022 |   |
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7678,9 +7323,6 @@ _`shut down & offering a decryptor`_
 | [`Transports Verlhac et Fils`](https://google.com/search?q=Transports+Verlhac+et+Fils) | 04/10/2021 |   |
 | [`Verhoff Machine &#038; Welding`](https://google.com/search?q=Verhoff+Machine+%26%23038%3B+Welding) | 04/10/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **stormous**
@@ -7719,9 +7361,6 @@ _`shut down & offering a decryptor`_
 | [`Core Design`](https://google.com/search?q=Core+Design) | 22/03/2022 |   |
 | [`Company ENOS PROPERTIES`](https://google.com/search?q=Company+ENOS+PROPERTIES) | 22/03/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **sugar**
@@ -7748,9 +7387,6 @@ _`shut down & offering a decryptor`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7811,9 +7447,6 @@ _`shut down & offering a decryptor`_
 | [`PRP diagnostic imaging`](https://google.com/search?q=PRP+diagnostic+imaging) | 09/09/2021 |   |
 | [`Cornerstone Automation Systems, LLC`](https://google.com/search?q=Cornerstone+Automation+Systems%2C+LLC) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **synack**
@@ -7834,9 +7467,6 @@ _`no longer in operation - rebrand`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **unknown**
@@ -7854,9 +7484,6 @@ _`nodes or hosts with no current attribution or identification`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7884,9 +7511,6 @@ _`nodes or hosts with no current attribution or identification`_
 | [`Barakat Travel Co`](https://barakattravel.com) | 21/12/2022 |  country: LB - revenue: 5.00M |
 | [`Ucar`](https://ucar.fr) | 21/12/2022 |  country: FR - revenue: 33.00M |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **vfokx**
@@ -7902,9 +7526,6 @@ _`nodes or hosts with no current attribution or identification`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -7925,11 +7546,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:10 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:14 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:11 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:12 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:12 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:15 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:16 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:17 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -7937,10 +7558,12 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 151 posts found
+> 153 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | 07/01/2023 | Duty Free Philippines - In the service of Philippine Tourism. As a government corporation, DFPC is tasked to operate the duty-and tax-free merchandising system in the Philippines to augment the service facilities for tourists and to generate foreign exchange and revenue for the government. |
+| [`Swift Academies`](https://google.com/search?q=Swift+Academies) | 07/01/2023 | The aim of the Swift Academies is to build, strengthen and expand our Trust across the North of England, by incorporating good and outstanding schools into our family of academies and acting as a sponsor for other primary and secondary academies, aiming to help them improve their standards and performance. |
 | [`Park View`](https://google.com/search?q=Park+View) | 06/01/2023 | Park View is a high performing community school in Tottenham, north London where your child will aspire, achieve and succeed. |
 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | 06/01/2023 | The San Francisco Bay Area Rapid Transit District is a heavy-rail public transit system that connects the San Francisco Peninsula with communities in the East Bay and South Bay. BART operates in five counties with 131 miles of track and 50 stations, carrying approximately 405,000 trips on an average weekday. |
 | [`City Lit`](https://google.com/search?q=City+Lit) | 06/01/2023 | Whether you are looking to kick-start a new career, delve into a favourite topic, keep active or bring some balance to a busy life, City Lit offer a huge range of courses. |
@@ -8093,9 +7716,6 @@ _`ecdmr42axxx.onion - fileserver`_
 | [`OSSEG Obra Social de Seguros`](https://google.com/search?q=OSSEG+Obra+Social+de+Seguros) | 01/01/2022 |   |
 | [`Universidade Federal de Sao Paulo`](https://google.com/search?q=Universidade+Federal+de+Sao+Paulo) | 01/01/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **x001xs**
@@ -8110,9 +7730,6 @@ _`ecdmr42axxx.onion - fileserver`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -8159,9 +7776,6 @@ _`xing use a custom mountlocker exe`_
 | [`Pezzuto Group`](https://google.com/search?q=Pezzuto+Group) | 29/04/2021 |   |
 | [`NAVNIT GROUP`](https://google.com/search?q=NAVNIT+GROUP) | 29/04/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **xinof**
@@ -8183,9 +7797,6 @@ _`aka fonix`_
 
 > no post found
 
-
-
-[⤴️](profiles?id=group-profiles)
 
  --- 
 
@@ -8214,9 +7825,6 @@ _`aka fonix`_
 | [`Walmart was encrypted`](https://google.com/search?q=Walmart+was+encrypted) | 02/07/2022 |   |
 | [`Cincinnati bell didn’t pay the ransom`](https://google.com/search?q=Cincinnati+bell+didn%E2%80%99t+pay+the+ransom) | 02/07/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 ## **zeon**
@@ -8239,10 +7847,7 @@ _`aka fonix`_
 > no post found
 
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

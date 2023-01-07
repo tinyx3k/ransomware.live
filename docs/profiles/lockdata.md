@@ -27,10 +27,7 @@ _`marketplace - not a ransomware group`_
 | [`[USA] Crary Industries Inc.`](https://google.com/search?q=%5BUSA%5D+Crary+Industries+Inc.) | 09/09/2021 |   |
 | [`[CHINA] TCL China Star Optoelectronics Technology Co., Ltd`](https://google.com/search?q=%5BCHINA%5D+TCL+China+Star+Optoelectronics+Technology+Co.%2C+Ltd) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

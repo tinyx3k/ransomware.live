@@ -57,10 +57,7 @@
 | [`PRP diagnostic imaging`](https://google.com/search?q=PRP+diagnostic+imaging) | 09/09/2021 |   |
 | [`Cornerstone Automation Systems, LLC`](https://google.com/search?q=Cornerstone+Automation+Systems%2C+LLC) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

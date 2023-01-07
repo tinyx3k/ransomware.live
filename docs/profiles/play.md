@@ -69,10 +69,7 @@
 | [`Conseil departemental - Alpes-Maritimes`](https://google.com/search?q=Conseil+departemental+-+Alpes-Maritimes) | 26/11/2022 |   |
 | [`Origin Property Company Limited`](https://google.com/search?q=Origin+Property+Company+Limited) | 26/11/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

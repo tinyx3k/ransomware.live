@@ -31,10 +31,7 @@
 | [`IAI - Israel Aerospace Industries`](https://google.com/search?q=IAI+-+Israel+Aerospace+Industries) | 09/09/2021 |   |
 | [`Portnox - Network Security Solutions`](https://google.com/search?q=Portnox+-+Network+Security+Solutions) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

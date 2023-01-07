@@ -362,10 +362,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | [`Hanwha Life Vietnam`](https://google.com/search?q=Hanwha+Life+Vietnam) | 09/09/2021 |   |
 | [`SOLWARE`](https://google.com/search?q=SOLWARE) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

@@ -25,10 +25,7 @@
 | [`PlanET Biogas Solutions`](https://google.com/search?q=PlanET+Biogas+Solutions) | 24/08/2022 |   |
 | [`Sheppard Robson`](https://google.com/search?q=Sheppard+Robson) | 24/08/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

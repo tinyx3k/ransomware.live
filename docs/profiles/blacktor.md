@@ -20,10 +20,7 @@
 | [`unexca-edu-ve`](https://google.com/search?q=unexca-edu-ve) | 30/12/2021 |   |
 | [`2020/04`](https://google.com/search?q=2020%2F04) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

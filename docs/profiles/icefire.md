@@ -26,10 +26,7 @@
 | [`*.feesh.ch`](https://google.com/search?q=%2A.feesh.ch) | 20/08/2022 |   |
 | [`*.skifgroup.com`](https://google.com/search?q=%2A.skifgroup.com) | 20/08/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

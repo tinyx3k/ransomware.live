@@ -23,10 +23,7 @@ _`previous clearnet domain blackshadow.cc`_
 | [`K.L.S Capital`](https://google.com/search?q=K.L.S+Capital) | 18/12/2021 |   |
 | [`CyberServe Company`](https://google.com/search?q=CyberServe+Company) | 18/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

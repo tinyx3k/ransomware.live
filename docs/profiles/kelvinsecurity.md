@@ -46,10 +46,7 @@ _`not a ransomware group`_
 | [`Pakistan Human Rights`](https://google.com/search?q=Pakistan+Human+Rights) | 01/04/2022 |   |
 | [`CR ASIA`](https://google.com/search?q=CR+ASIA) | 01/04/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

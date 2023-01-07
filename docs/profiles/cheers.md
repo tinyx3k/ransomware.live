@@ -31,10 +31,7 @@
 | [`An Belgium Hospital - Unpay`](https://google.com/search?q=An+Belgium+Hospital+-+Unpay) | 29/05/2022 |   |
 | [`An International Maritime Company - Unpay`](https://google.com/search?q=An+International+Maritime+Company+-+Unpay) | 29/05/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

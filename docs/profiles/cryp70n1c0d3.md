@@ -28,10 +28,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | [`paknavy.gov.pk`](https://google.com/search?q=paknavy.gov.pk) | 18/12/2021 |   |
 | [`vaja.ir`](https://google.com/search?q=vaja.ir) | 18/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

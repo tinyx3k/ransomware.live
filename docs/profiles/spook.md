@@ -50,10 +50,7 @@
 | [`Transports Verlhac et Fils`](https://google.com/search?q=Transports+Verlhac+et+Fils) | 04/10/2021 |   |
 | [`Verhoff Machine &#038; Welding`](https://google.com/search?q=Verhoff+Machine+%26%23038%3B+Welding) | 04/10/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

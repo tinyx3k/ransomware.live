@@ -21,10 +21,7 @@
 | [`grantweber.com`](https://google.com/search?q=grantweber.com) | 02/12/2022 |   |
 | [`The Beacon Insurance Company Limited`](https://google.com/search?q=The+Beacon+Insurance+Company+Limited) | 02/12/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

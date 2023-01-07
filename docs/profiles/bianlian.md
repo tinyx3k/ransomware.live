@@ -116,10 +116,7 @@
 | [`High Power Technical Services`](https://google.com/search?q=High+Power+Technical+Services) | 14/07/2022 |   |
 | [`Mooresville Schools`](https://google.com/search?q=Mooresville+Schools) | 14/07/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

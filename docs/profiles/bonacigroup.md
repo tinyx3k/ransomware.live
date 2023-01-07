@@ -20,10 +20,7 @@ _`claim to donate 80% of earnings to charity`_
 | [`Ward Arcuri Foley & Dwyer  Law Firm`](https://google.com/search?q=Ward+Arcuri+Foley+%26+Dwyer+%7C+Law+Firm) | 04/10/2021 |   |
 | [`Charles Crown Financial Ltd`](https://google.com/search?q=Charles+Crown+Financial+Ltd) | 04/10/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

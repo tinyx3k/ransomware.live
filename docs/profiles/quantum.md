@@ -84,10 +84,7 @@
 | [`PVR Ltd.`](https://google.com/search?q=PVR+Ltd.) | 04/11/2021 |   |
 | [`Maple Lodge Farms`](https://google.com/search?q=Maple+Lodge+Farms) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

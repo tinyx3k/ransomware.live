@@ -43,10 +43,7 @@ _`xing use a custom mountlocker exe`_
 | [`Pezzuto Group`](https://google.com/search?q=Pezzuto+Group) | 29/04/2021 |   |
 | [`NAVNIT GROUP`](https://google.com/search?q=NAVNIT+GROUP) | 29/04/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

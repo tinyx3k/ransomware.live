@@ -58,10 +58,7 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 | [`Diamond Schmitt`](https://google.com/search?q=Diamond+Schmitt) | 09/09/2021 |   |
 | [`Trust Capital Funding`](https://google.com/search?q=Trust+Capital+Funding) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

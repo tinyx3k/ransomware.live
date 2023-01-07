@@ -82,10 +82,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 | [`Commport Communications`](https://google.com/search?q=Commport+Communications) | 20/12/2020 |   |
 | [`Windemuller`](https://google.com/search?q=Windemuller) | 12/01/2020 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

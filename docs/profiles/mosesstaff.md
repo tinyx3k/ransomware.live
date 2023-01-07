@@ -46,10 +46,7 @@ _`not a ransomware group`_
 | [`3D imagery of israel`](https://google.com/search?q=3D+imagery+of+israel) | 18/12/2021 |   |
 | [`This is just the beginning`](https://google.com/search?q=This+is+just+the+beginning) | 18/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

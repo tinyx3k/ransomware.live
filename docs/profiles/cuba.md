@@ -120,10 +120,7 @@
 | [`AFTS supplies the preeminent Payment Processing, IRS 1031 Exchange, Data Processing, Invoi`](https://google.com/search?q=AFTS+supplies+the+preeminent+Payment+Processing%2C+IRS+1031+Exchange%2C+Data+Processing%2C+Invoi) | 09/09/2021 |   |
 | [`OTR Capital believes in simple and straightforward transactions, without hidden costs and`](https://google.com/search?q=OTR+Capital+believes+in+simple+and+straightforward+transactions%2C+without+hidden+costs+and) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

@@ -21,10 +21,7 @@
 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | 22/12/2022 |  |
 | [`test`](https://google.com/search?q=test) | 07/12/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

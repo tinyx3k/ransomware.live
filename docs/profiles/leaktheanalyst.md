@@ -37,10 +37,7 @@ _`not a ransomware group`_
 | [`2 Breaking News`](https://google.com/search?q=2+Breaking+News) | 01/01/2022 |   |
 | [`1 Breaking News`](https://google.com/search?q=1+Breaking+News) | 01/01/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

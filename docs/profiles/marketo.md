@@ -61,10 +61,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | [`luxottica.com`](https://google.com/search?q=luxottica.com) | 07/12/2021 |   |
 | [`dwr.virginia.gov`](https://google.com/search?q=dwr.virginia.gov) | 07/12/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

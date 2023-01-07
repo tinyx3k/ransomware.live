@@ -418,9 +418,9 @@ def profilepage():
                     line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
                     writeline(profilepage, line)
         writeline(profilepage, '')
-        writeline(profilepage, '')
-        writeline(profilepage, '[⤴️](profiles?id=group-profiles)')
-        writeline(profilepage, '')
+        #writeline(profilepage, '')
+        #writeline(profilepage, '[⤴️](profiles?id=group-profiles)')
+        #writeline(profilepage, '')
         writeline(profilepage,' --- ')
         writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')
@@ -430,7 +430,7 @@ def profilepage():
 
 def decryptiontools():
     '''
-    create a page for each Decryption Tools
+    create a page for Decryption Tools
     '''
     stdlog('generating decryption tools pages')
     decryptionpage = 'docs/decryption.md'
@@ -603,9 +603,9 @@ def profile():
                     line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
                     writeline(profilepage, line)
         writeline(profilepage, '')
-        writeline(profilepage, '')
-        writeline(profilepage, '[⤴️](profiles?id=group-profiles)')
-        writeline(profilepage, '')
+        #writeline(profilepage, '')
+        #writeline(profilepage, '[⤴️](profiles?id=group-profiles)')
+        #writeline(profilepage, '')
         writeline(profilepage,' --- ')
         writeline(profilepage, '')
         stdlog('profile page for ' + group['name'] + ' generated')

@@ -59,10 +59,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | [`AT&T Database Leak`](https://google.com/search?q=AT%26T+Database+Leak) | 09/09/2021 |   |
 | [`Liquid Global liquid.com`](https://google.com/search?q=Liquid+Global+liquid.com) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

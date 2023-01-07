@@ -34,10 +34,7 @@
 | [`COMSA CORPORATION`](https://google.com/search?q=COMSA+CORPORATION) | 13/09/2022 |   |
 | [`SERCOM`](https://google.com/search?q=SERCOM) | 13/09/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

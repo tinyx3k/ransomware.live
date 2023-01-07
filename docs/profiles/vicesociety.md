@@ -17,11 +17,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:10 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:14 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:11 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:12 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 07/01/2023 09:12 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:15 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:16 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 07/01/2023 12:17 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -29,10 +29,12 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 151 posts found
+> 153 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | 07/01/2023 | Duty Free Philippines - In the service of Philippine Tourism. As a government corporation, DFPC is tasked to operate the duty-and tax-free merchandising system in the Philippines to augment the service facilities for tourists and to generate foreign exchange and revenue for the government. |
+| [`Swift Academies`](https://google.com/search?q=Swift+Academies) | 07/01/2023 | The aim of the Swift Academies is to build, strengthen and expand our Trust across the North of England, by incorporating good and outstanding schools into our family of academies and acting as a sponsor for other primary and secondary academies, aiming to help them improve their standards and performance. |
 | [`Park View`](https://google.com/search?q=Park+View) | 06/01/2023 | Park View is a high performing community school in Tottenham, north London where your child will aspire, achieve and succeed. |
 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | 06/01/2023 | The San Francisco Bay Area Rapid Transit District is a heavy-rail public transit system that connects the San Francisco Peninsula with communities in the East Bay and South Bay. BART operates in five counties with 131 miles of track and 50 stations, carrying approximately 405,000 trips on an average weekday. |
 | [`City Lit`](https://google.com/search?q=City+Lit) | 06/01/2023 | Whether you are looking to kick-start a new career, delve into a favourite topic, keep active or bring some balance to a busy life, City Lit offer a huge range of courses. |
@@ -185,10 +187,7 @@ _`ecdmr42axxx.onion - fileserver`_
 | [`OSSEG Obra Social de Seguros`](https://google.com/search?q=OSSEG+Obra+Social+de+Seguros) | 01/01/2022 |   |
 | [`Universidade Federal de Sao Paulo`](https://google.com/search?q=Universidade+Federal+de+Sao+Paulo) | 01/01/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

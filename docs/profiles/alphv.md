@@ -281,10 +281,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | [`RCMS`](https://google.com/search?q=RCMS) | 18/12/2021 |   |
 | [`SVA Jean Rozé - sva-jeanroze.fr`](https://google.com/search?q=SVA+Jean+Roz%C3%A9+-+sva-jeanroze.fr) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

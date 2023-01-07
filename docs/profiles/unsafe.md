@@ -24,10 +24,7 @@
 | [`Barakat Travel Co`](https://barakattravel.com) | 21/12/2022 |  country: LB - revenue: 5.00M |
 | [`Ucar`](https://ucar.fr) | 21/12/2022 |  country: FR - revenue: 33.00M |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

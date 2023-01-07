@@ -132,10 +132,7 @@
 | [`Goss Dodge Chrysler Ram Jeep`](https://google.com/search?q=Goss+Dodge+Chrysler+Ram+Jeep) | 04/10/2021 |   |
 | [`Matic Transport`](https://google.com/search?q=Matic+Transport) | 04/10/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

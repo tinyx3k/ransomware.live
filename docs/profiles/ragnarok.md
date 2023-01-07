@@ -34,10 +34,7 @@ _`shut down & offering a decryptor`_
 | [`FNBNWFL Data leaked`](https://google.com/search?q=FNBNWFL+Data+leaked) | 30/12/2021 |   |
 | [`Decrypt`](https://google.com/search?q=Decrypt) | 09/09/2021 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_

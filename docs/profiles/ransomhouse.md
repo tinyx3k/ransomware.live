@@ -38,10 +38,7 @@
 | [`Dellner Couplers AB`](https://google.com/search?q=Dellner+Couplers+AB) | 09/05/2022 |   |
 | [`AHS Aviation Handling Services GmbH`](https://google.com/search?q=AHS+Aviation+Handling+Services+GmbH) | 09/05/2022 |   |
 
-
-[⤴️](profiles?id=group-profiles)
-
  --- 
 
 
-Last update : _Saturday 07/01/2023 11.26 (UTC)_
+Last update : _Saturday 07/01/2023 12.25 (UTC)_
