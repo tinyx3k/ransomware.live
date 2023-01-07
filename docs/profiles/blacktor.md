@@ -6,7 +6,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 | 07/01/2023 21:07 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 07/01/2023 21:07 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -22,4 +22,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 22.32 (UTC)_
+Last update : _Saturday 07/01/2023 23.13 (UTC)_

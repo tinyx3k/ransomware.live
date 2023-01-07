@@ -7,7 +7,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Home | 🟢 | 07/01/2023 21:23 | `http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion` | <a href="https://www.ransomware.live/screenshots/hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid-onion.png" target=_blank>📸</a> | 
+| Home | 🔴 | 07/01/2023 21:23 | `http://hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid.onion` | <a href="https://www.ransomware.live/screenshots/hkk62og3s2tce2gipcdxg3m27z4b62mrmml6ugctzdxs25o26q3a4mid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -17,4 +17,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 22.32 (UTC)_
+Last update : _Saturday 07/01/2023 23.13 (UTC)_
