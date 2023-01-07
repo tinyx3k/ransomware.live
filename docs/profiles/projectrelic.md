@@ -6,7 +6,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Project Relic. Dumps, leaks, news, announcements | 🟢 | 07/01/2023 05:02 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
+| Project Relic. Dumps, leaks, news, announcements | 🟢 | 07/01/2023 07:00 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -26,4 +26,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 05.15 (UTC)_
+Last update : _Saturday 07/01/2023 07.15 (UTC)_
