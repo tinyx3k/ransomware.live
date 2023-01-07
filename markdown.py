@@ -620,6 +620,30 @@ def profile():
         writeline(profilepage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     stdlog('profile pages generation complete')
 
+def mainsummaryjson():
+    '''
+    main markdown report generator - used with github pages
+    '''
+    stdlog('generating main page')
+    uptime_sheet = 'docs/datasummary.json'
+    with open(uptime_sheet, 'w', encoding='utf-8') as f:
+        f.close()
+    writeline(uptime_sheet, '[')
+    writeline(uptime_sheet, '{')
+    writeline(uptime_sheet, '"groups": "' + str(groupcount()) + '",')
+    writeline(uptime_sheet, '"servers": "' + str(hostcount()) + '",')
+    writeline(uptime_sheet, '"online": "' + str(onlinecount()) + '",')
+    writeline(uptime_sheet, '"postslast24": "' + str(postslast24h()) + '",')
+    writeline(uptime_sheet, '"monthlypost": "' + str(monthlypostcount()) + '",')
+    writeline(uptime_sheet, '"currentmonth": "' + currentmonthstr() + '",')
+    writeline(uptime_sheet, '"post90day": "' + str(postssince(90)) + '",')
+    writeline(uptime_sheet, '"postthisyear": "' + str(poststhisyear()) + '",')
+    writeline(uptime_sheet, '"thisyear": "' + str(dt.now().year) + '",')
+    writeline(uptime_sheet, '"overallpost": "' + str(postcount())   + '"')
+    writeline(uptime_sheet, '}')
+    writeline(uptime_sheet, ']')
+
+
 def main():
     stdlog('generating docs')
     mainpage()
@@ -632,6 +656,7 @@ def main():
     profile()
     # if os.path.getmtime('docs/decryption.md') < (time.time() - 14400):
     decryptiontools()
+    mainsummaryjson()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
     if os.path.getmtime('posts.json') > (time.time() - 2700):
         stdlog('posts.json has been modified within the last 45 mins, assuming new posts discovered and recreating graphs')
