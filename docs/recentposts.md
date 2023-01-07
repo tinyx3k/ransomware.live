@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-07 | [`Corporate Interiors Inc`](https://google.com/search?q=Corporate+Interiors+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`SUNSETHCS.COM`](https://google.com/search?q=SUNSETHCS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`BPATPA.COM`](https://google.com/search?q=BPATPA.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`GENESISNET.COM`](https://google.com/search?q=GENESISNET.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`COMPASSNRG.COM`](https://google.com/search?q=COMPASSNRG.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 07/01/2023 12.25 (UTC)_
+Last update : _Saturday 07/01/2023 12.33 (UTC)_
