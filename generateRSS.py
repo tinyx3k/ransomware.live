@@ -19,16 +19,24 @@ link.text = 'https://www.ransomware.live/rss.xml'
 description = SubElement(channel, 'description')
 description.text = 'Last entry monitoring by Ransomware.live'
 
+image = SubElement(channel, 'image')
+image_url = SubElement(image, 'url')
+image_url.text = 'https://www.ransomware.live/ransomwarelive.png'
+image_title = SubElement(image, 'title')
+image_title.text = 'Ransomware.live RSS Feed'
+image_link = SubElement(image, 'link')
+image_link.text = 'https://www.ransomware.live/rss.xml'
+
 # Parcourez les données du fichier JSON et ajoutez un élément item pour chaque enregistrement
 for i in reversed(range(len(data)-50, len(data))):
   item = data[i]
   rss_item = SubElement(channel, 'item')
   item_title = SubElement(rss_item, 'title')
-  item_title.text = str(item['group_name']) + " publish a now posts : " + str(item['post_title'])
+  item_title.text = str(item['group_name']) + " published a now posts : " + str(item['post_title'])
   item_link = SubElement(rss_item, 'link')
   item_link.text = 'https://www.ransomware.live/#/profiles/{}'.format(item['group_name'])
-  #item_description = SubElement(rss_item, 'description')
-  #item_description.text = 'Publication de {}'.format(item['group_name'])
+  item_description = SubElement(rss_item, 'description')
+  item_description.text = '{}'.format(item['description'])
   item_guid = SubElement(rss_item, 'guid')
   item_guid.text = 'https://www.ransomware.live/#/profiles/' + str(item['group_name']) + '?' +  str(uuid.uuid1(1234567890))
   
