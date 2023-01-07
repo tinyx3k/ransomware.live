@@ -6,7 +6,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| BlueSky DECRYPTOR | 🟢 | 07/01/2023 12:48 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
+| BlueSky DECRYPTOR | 🟢 | 07/01/2023 14:31 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -20,4 +20,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 13.27 (UTC)_
+Last update : _Saturday 07/01/2023 15.08 (UTC)_

@@ -7,7 +7,7 @@
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 10/11/2022 22:30 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` | ❌ | 
-| Data Leak | 🟢 | 07/01/2023 12:50 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
+| Data Leak | 🔴 | 07/01/2023 12:50 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -25,4 +25,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 13.27 (UTC)_
+Last update : _Saturday 07/01/2023 15.08 (UTC)_

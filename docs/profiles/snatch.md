@@ -16,7 +16,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| News | 🟢 | 07/01/2023 13:20 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 07/01/2023 15:02 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
 | News | 🔴 | 13/12/2022 10:48 | `http://snatch.press` | <a href="https://www.ransomware.live/screenshots/snatch-press.png" target=_blank>📸</a> | 
 
 
@@ -99,4 +99,4 @@
  --- 
 
 
-Last update : _Saturday 07/01/2023 13.27 (UTC)_
+Last update : _Saturday 07/01/2023 15.08 (UTC)_
