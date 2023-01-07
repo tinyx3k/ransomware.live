@@ -9,6 +9,7 @@ import json
 import socket
 # import codecs
 import random
+import calendar
 import tweepy
 import logging
 from datetime import datetime
@@ -201,6 +202,32 @@ def gcountYear(posts,year):
     date_format = "%Y-%m-%d %H:%M:%S.%f"
     date_debut = datetime(year, 1, 1)
     date_fin = datetime(year, 12, 31)
+    group_counts = {}
+    for post in posts:
+        if post['group_name'] in group_counts:
+            date = datetime.strptime(post['discovered'], date_format)
+            if date <= date_fin and date >= date_debut:
+                group_counts[post['group_name']] += 1
+        else:
+            date = datetime.strptime(post['discovered'], date_format)
+            if date <= date_fin and date >= date_debut:
+                group_counts[post['group_name']] = 1
+    return group_counts
+
+
+def last_day_of_month(month, year):
+    # Obtenir le dernier jour du mois en utilisant la fonction monthrange de la bibliothèque calendar
+    last_day = calendar.monthrange(year, month)[1]
+    return last_day
+
+def gcountMonth(posts,year,month=0):
+    date_format = "%Y-%m-%d %H:%M:%S.%f"
+    if month == 0:
+        date_debut = datetime(year, 1, 1)
+        date_fin = datetime(year, 12, 31)
+    else: 
+        date_debut = datetime(year, month, 1)
+        date_fin = datetime(year, month, last_day_of_month(month,year))
     group_counts = {}
     for post in posts:
         if post['group_name'] in group_counts:
