@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](profiles.md?id=alphv) |
+| 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](profiles.md?id=alphv) |
+| 2023-01-07 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`takamiya.co`](https://google.com/search?q=takamiya.co) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-06 | [`Park View`](https://google.com/search?q=Park+View) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](profiles.md?id=vicesociety) |
@@ -202,8 +205,5 @@
 | 2022-12-22 | [`STORAFILE.CO.UK`](https://google.com/search?q=STORAFILE.CO.UK) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`KLEINBERGLANGE.COM`](https://google.com/search?q=KLEINBERGLANGE.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`WDMANOR.COM`](https://google.com/search?q=WDMANOR.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`MMALTZAN.COM`](https://google.com/search?q=MMALTZAN.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`KSSENTERPRISES.COM`](https://google.com/search?q=KSSENTERPRISES.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`PARAGONGRI.COM`](https://google.com/search?q=PARAGONGRI.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 07/01/2023 09.25 (UTC)_
+Last update : _Saturday 07/01/2023 11.26 (UTC)_

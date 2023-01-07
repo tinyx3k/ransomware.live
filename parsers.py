@@ -1130,16 +1130,19 @@ def alphv():
                 file=open(html_doc,'r')
                 soup=BeautifulSoup(file,'html.parser')
                 if 'alphvmmm' in filename:
-                    try:
+                        stdlog('alphv : ' +  'json file')
                         jsonpart= soup.pre.contents
                         data = json.loads(jsonpart[0])
                         for entry in data['items']:
                             title = entry['title'].strip()
-                            description = entry['publication']['description'].strip()
-                            website = entry['publication']['url'].strip()
+                            description =''
+                            website =''
+                            if 'publication' in entry and entry['publication'] is not None:
+                                # Si oui, accédez au champ "description"
+                                description = entry['publication']['description'].strip()
+                                # description = entry['publication']['description'].strip()
+                                website = entry['publication']['url'].strip()
                             appender(title, 'alphv',description.replace('\n',' '),website)
-                    except:
-                        errlog('nokoyawa: ' + 'parsing fail')
                 else: 
                     divs_name=soup.find_all('div', {'class': 'post-body'})
                     for div in divs_name:

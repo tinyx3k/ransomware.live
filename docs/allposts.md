@@ -1,7 +1,7 @@
 # 📰 All posts
 
 
-_All `4860` posts_
+_All `4863` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,9 @@ _All `4860` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](profiles.md?id=alphv) |
+| 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](profiles.md?id=alphv) |
+| 2023-01-07 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`takamiya.co`](https://google.com/search?q=takamiya.co) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-06 | [`Park View`](https://google.com/search?q=Park+View) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](profiles.md?id=vicesociety) |
@@ -4871,4 +4874,4 @@ _All `4860` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 07/01/2023 09.25 (UTC)_
+Last update : _Saturday 07/01/2023 11.26 (UTC)_

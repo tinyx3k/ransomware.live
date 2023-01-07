@@ -65,4 +65,4 @@ _`marketplace - not a ransomware group, reputation questionable`_
  --- 
 
 
-Last update : _Saturday 07/01/2023 09.25 (UTC)_
+Last update : _Saturday 07/01/2023 11.26 (UTC)_

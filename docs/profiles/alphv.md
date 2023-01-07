@@ -28,10 +28,13 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 245 posts found
+> 248 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Buffco Production, Inc.`](https://www.buffcoproduction.com) | 07/01/2023 | Buffco Production, Inc. is a native East Texas exploration and production company with more than 35 years of experience in the oil and natural gas industry. Buffco strives to drill and produce oil and gas efficiently and keep its owners informed while maintaining industry standards. Buffco understands the continuously evolving practices and technologies in the oil and gas industry, and has significant expertise with combatting shifting commodities markets. Buffco can navigate current producing properties, while methodically evaluating new prospects and strategically choosing those that fit current climates. Buffco’s adaptability and expansive knowledge base of conventional and unconventional oil and gas development are the reasons why it has had scalable growth over decades past. |
+| [`Grupo Estrategas EMM`](https://estrategas.com.mx) | 07/01/2023 | Grupo Estrategas S.A. de C.V es una empresa 100 % mexicana comprometida con el mercado asegurador mexicano y socialmente responsable con todos nuestros clientes, proveedores y empleados. |
+| [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | 07/01/2023 |  |
 | [`Dental One`](https://www.dental1.com.au) | 02/01/2023 | Dental One are a caring team of dentists in Craigieburn, Templestowe and Epping North. Affordable options for all, NO GAP on all general dental! |
 | [`SUMITOMO BAKELITE USA`](https://sumibe.co.jp) | 28/12/2022 | Sumitomo Bakelite Company Limited, together with its subsidiaries, engages in the research and development, manufacture and sale of semiconductor materials |
 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://www.elotech.com.br) | 28/12/2022 | Company: elotech Headquarters: 14 Rua Giampero Monacci, Maringa, Parana, Brazil Phone Number: +55 4440093550  Elotech is the largest and best public administration system company in Paraná and one of the best in Brazil! |
@@ -284,4 +287,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Saturday 07/01/2023 09.25 (UTC)_
+Last update : _Saturday 07/01/2023 11.26 (UTC)_
