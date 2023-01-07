@@ -1,16 +1,6 @@
 
 
 
-## Since october 2021
-
-
-| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |
-|---|---|
-| ![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |
-
-
-
-
 ## 2023
 
 !> [Month by month](stats2023.md)
@@ -22,7 +12,6 @@
 
 
 
-
 ## 2022
 
 !> [Month by month](stats2022.md)
@@ -31,3 +20,12 @@
 | ![](graphs/postsbyday2022.png) | ![](graphs/postsbygroup2022.png) |
 |---|---|
 | ![](graphs/grouppie2022.png) | | 
+
+
+
+## Since october 2021
+
+
+| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |
+|---|---|
+| ![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |

@@ -361,13 +361,13 @@ def plot_posts_by_group_by_month(year,month=0):
     plt.xticks(rotation=90)
     plt.ylabel('# of posts')
     if month == 0:
-        plt.title('posts per day in '+str(year))
+        plt.title('posts per group in '+str(year))
         plt.savefig('docs/graphs/postsbygroup'+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     if month < 10:
-        plt.title('posts per day in 0'+ str(month)+'/' + str(year))
+        plt.title('posts per group in 0'+ str(month)+'/' + str(year))
         plt.savefig('docs/graphs/postsbygroup'+str(year)+'0'+str(month)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     if month > 9:
-        plt.title('posts per day in '+ str(month)+'/' + str(year))
+        plt.title('posts per group in '+ str(month)+'/' + str(year))
         plt.savefig('docs/graphs/postsbygroup'+str(year)+str(month)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     plt.clf()
     plt.cla()
