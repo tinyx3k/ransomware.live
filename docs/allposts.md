@@ -10,6 +10,7 @@ _All `4868` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-01-07 | [`Fruttagel`](https://google.com/search?q=Fruttagel) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`Corporate Interiors Inc`](https://google.com/search?q=Corporate+Interiors+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](profiles.md?id=vicesociety) |
@@ -4280,7 +4281,6 @@ _All `4868` posts_
 | 2021-09-09 | [`Pine Labs Data Leak`](https://google.com/search?q=Pine+Labs+Data+Leak) | [darkleakmarket](profiles.md?id=darkleakmarket) |
 | 2021-09-09 | [`AT&T Database Leak`](https://google.com/search?q=AT%26T+Database+Leak) | [darkleakmarket](profiles.md?id=darkleakmarket) |
 | 2021-09-09 | [`Liquid Global liquid.com`](https://google.com/search?q=Liquid+Global+liquid.com) | [darkleakmarket](profiles.md?id=darkleakmarket) |
-| 2021-09-09 | [`2020/04`](https://google.com/search?q=2020%2F04) | [blacktor](profiles.md?id=blacktor) |
 | 2021-09-09 | [`[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103`](https://google.com/search?q=%5BUSA%5D+OrthoCare%2C+700+Lake+Ave%2C+Ste+6%2C+Manchester%2C+New+Hampshire%2C+03103) | [lockdata](profiles.md?id=lockdata) |
 | 2021-09-09 | [`[Saudi Arabia] Al Wefag Trading & Manufacturing`](https://google.com/search?q=%5BSaudi+Arabia%5D+Al+Wefag+Trading+%26+Manufacturing) | [lockdata](profiles.md?id=lockdata) |
 | 2021-09-09 | [`[CZ]  GORDIC spol. s r.o.`](https://google.com/search?q=%5BCZ%5D++GORDIC+spol.+s+r.o.) | [lockdata](profiles.md?id=lockdata) |
@@ -4878,4 +4878,4 @@ _All `4868` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 07/01/2023 20.31 (UTC)_
+Last update : _Saturday 07/01/2023 22.32 (UTC)_

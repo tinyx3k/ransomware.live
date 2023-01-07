@@ -6,11 +6,11 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Bl@ckt0r - Bug Hunter and Data Breacher Group | 🔴 | 31/12/2022 15:17 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
+| Bl@ckt0r - Bug Hunter and Data Breacher Group | 🟢 | 07/01/2023 21:07 | `http://bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid.onion` | <a href="https://www.ransomware.live/screenshots/bl4cktorpms2gybrcyt52aakcxt6yn37byb65uama5cimhifcscnqkid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 5 posts found
+> 4 posts found
 
 | post | date | Description
 |---|---|---|
@@ -18,9 +18,8 @@
 | [`bankjatim-co-id`](https://google.com/search?q=bankjatim-co-id) | 30/12/2021 |   |
 | [`salesplaypos-com`](https://google.com/search?q=salesplaypos-com) | 30/12/2021 |   |
 | [`unexca-edu-ve`](https://google.com/search?q=unexca-edu-ve) | 30/12/2021 |   |
-| [`2020/04`](https://google.com/search?q=2020%2F04) | 09/09/2021 |   |
 
  --- 
 
 
-Last update : _Saturday 07/01/2023 20.31 (UTC)_
+Last update : _Saturday 07/01/2023 22.32 (UTC)_

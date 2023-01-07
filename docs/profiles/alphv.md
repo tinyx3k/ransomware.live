@@ -18,9 +18,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-|   | 🔴 | 07/01/2023 16:35 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 07/01/2023 20:57 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
-|   | 🔴 | 31/12/2022 15:07 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 07/01/2023 20:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,10 +28,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 248 posts found
+> 249 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Fruttagel`](https://www.fruttagel.it) | 07/01/2023 | Fruttagel was founded in 1994 when the Alfonsine plant in Ravenna was established. It combines the legacies of two important players working together in the field: Ala Frutta, a cooperative founded in the early 1960s, specializing in the processing of fresh fruit |
 | [`Buffco Production, Inc.`](https://www.buffcoproduction.com) | 07/01/2023 | Buffco Production, Inc. is a native East Texas exploration and production company with more than 35 years of experience in the oil and natural gas industry. Buffco strives to drill and produce oil and gas efficiently and keep its owners informed while maintaining industry standards. Buffco understands the continuously evolving practices and technologies in the oil and gas industry, and has significant expertise with combatting shifting commodities markets. Buffco can navigate current producing properties, while methodically evaluating new prospects and strategically choosing those that fit current climates. Buffco’s adaptability and expansive knowledge base of conventional and unconventional oil and gas development are the reasons why it has had scalable growth over decades past. |
 | [`Grupo Estrategas EMM`](https://estrategas.com.mx) | 07/01/2023 | Grupo Estrategas S.A. de C.V es una empresa 100 % mexicana comprometida con el mercado asegurador mexicano y socialmente responsable con todos nuestros clientes, proveedores y empleados. |
 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | 07/01/2023 |  |
@@ -284,4 +285,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Saturday 07/01/2023 20.31 (UTC)_
+Last update : _Saturday 07/01/2023 22.32 (UTC)_

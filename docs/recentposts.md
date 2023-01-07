@@ -1,10 +1,11 @@
 
-> `Ransomware.live` provides tracking of ransomware groups and their victims
+> `Ransomware.live` provides tracking of ransomware groups and their victims. Descriptions available in the [group profiles view](profiles.md)
 
-# 📰 200 last posts
+**📰 200 last posts**
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-07 | [`Fruttagel`](https://google.com/search?q=Fruttagel) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`Corporate Interiors Inc`](https://google.com/search?q=Corporate+Interiors+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](profiles.md?id=vicesociety) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`BLUEBONNETNUTRITION.COM`](https://google.com/search?q=BLUEBONNETNUTRITION.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SUNSETHCS.COM`](https://google.com/search?q=SUNSETHCS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`BPATPA.COM`](https://google.com/search?q=BPATPA.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`GENESISNET.COM`](https://google.com/search?q=GENESISNET.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 07/01/2023 20.31 (UTC)_
+Last update : _Saturday 07/01/2023 22.32 (UTC)_

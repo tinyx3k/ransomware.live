@@ -249,9 +249,9 @@ def recentpage():
     with open(recentpage, 'w', encoding='utf-8') as f:
         f.close()
     writeline(recentpage,'')
-    writeline(recentpage, '> `Ransomware.live` provides tracking of ransomware groups and their victims')
+    writeline(recentpage, '> `Ransomware.live` provides tracking of ransomware groups and their victims. Descriptions available in the [group profiles view](profiles.md)')
     writeline(recentpage,'')
-    writeline(recentpage, '# 📰 200 last posts')
+    writeline(recentpage, '**📰 200 last posts**')
     writeline(recentpage, '')
     writeline(recentpage, '| Date | Title | Group |')
     writeline(recentpage, '|---|---|---|')
@@ -315,7 +315,7 @@ def profilepage():
     # delete contents of file
     with open(profilepage, 'w', encoding='utf-8') as f:
         f.close()
-    writeline(profilepage, '# Profiles')
+    #writeline(profilepage, '# Profiles')
     writeline(profilepage, '')
     groups = openjson('groups.json')
     for group in groups:
