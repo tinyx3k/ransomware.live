@@ -23,6 +23,8 @@
 
 ## 2022
 
+** [Month by month](stats2022.md)
+
 
 | ![](graphs/postsbyday2022.png) | ![](graphs/postsbygroup2022.png) |
 |---|---|

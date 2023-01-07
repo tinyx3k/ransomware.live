@@ -334,10 +334,10 @@ def trend_posts_per_day_month(year,month=0):
         plt.savefig('docs/graphs/postsbyday'+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     if month < 10:
         plt.title('posts per day in 0'+ str(month)+'/' + str(year))
-        plt.savefig('docs/graphs/postsbyday0'+str(month)+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+        plt.savefig('docs/graphs/postsbyday'+str(year)+'0'+str(month)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     if month > 9:
         plt.title('posts per day in '+ str(month)+'/' + str(year))
-        plt.savefig('docs/graphs/postsbyday'+str(month)+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+        plt.savefig('docs/graphs/postsbyday'+str(year)+str(month)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     plt.clf()
     plt.cla()
 
@@ -365,9 +365,9 @@ def plot_posts_by_group_by_month(year,month=0):
         plt.savefig('docs/graphs/postsbygroup'+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     if month < 10:
         plt.title('posts per day in 0'+ str(month)+'/' + str(year))
-        plt.savefig('docs/graphs/postsbygroup0'+str(month)+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+        plt.savefig('docs/graphs/postsbygroup'+str(year)+'0'+str(month)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     if month > 9:
         plt.title('posts per day in '+ str(month)+'/' + str(year))
-        plt.savefig('docs/graphs/postsbygroup'+str(month)+str(year)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
+        plt.savefig('docs/graphs/postsbygroup'+str(year)+str(month)+'.png',dpi=300, bbox_inches="tight", pad_inches=0.1, frameon=False, transparent=True)
     plt.clf()
     plt.cla()

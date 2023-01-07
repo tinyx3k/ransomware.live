@@ -1,4 +1,3 @@
-# Decryption tools
 
 ## 777 Ransom
 
@@ -1713,4 +1712,4 @@
 
 _Source : [No More Ransom](https://www.nomoreransom.org/)_
 
-Last update : _Saturday 07/01/2023 15.08 (UTC)_
+Last update : _Saturday 07/01/2023 16.57 (UTC)_

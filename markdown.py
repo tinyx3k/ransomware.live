@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 import re
-import time
+import time, datetime
 import urllib.parse
 from datetime import datetime as dt
 
@@ -643,14 +643,14 @@ def main():
         #pie_posts_by_group_by_year(2022)
         ###
         # pie_posts_by_group_by_month(2023,1)
-        for year in range(2022,2024):
-            for month in range(1, 13):
-                try:
-                    stdlog('generated pie for ' + str(month) + '/' +  str(year))
-                    pie_posts_by_group_by_month(year,month)
-                    trend_posts_per_day_month(year,month)
-                    plot_posts_by_group_by_month(year,month)
-                except:
-                    pass
+        year=datetime.datetime.now().year
+        for month in range(1, 13):
+            try:
+                stdlog('generated pie for ' + str(month) + '/' +  str(year))
+                pie_posts_by_group_by_month(year,month)
+                trend_posts_per_day_month(year,month)
+                plot_posts_by_group_by_month(year,month)
+            except:
+                pass
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
