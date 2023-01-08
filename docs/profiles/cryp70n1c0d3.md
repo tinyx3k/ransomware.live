@@ -31,4 +31,4 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
  --- 
 
 
-Last update : _Sunday 08/01/2023 19.21 (UTC)_
+Last update : _Sunday 08/01/2023 19.19 (UTC)_
