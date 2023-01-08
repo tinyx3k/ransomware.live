@@ -10,7 +10,7 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Everest Ransomware Group | 🟢 | 08/01/2023 08:46 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
+| Everest Ransomware Group | 🟢 | 08/01/2023 10:43 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -135,4 +135,4 @@
  --- 
 
 
-Last update : _Sunday 08/01/2023 09.20 (UTC)_
+Last update : _Sunday 08/01/2023 11.36 (UTC)_

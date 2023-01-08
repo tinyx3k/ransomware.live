@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-08 | [`millennia.pro`](https://google.com/search?q=millennia.pro) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-07 | [`Fruttagel`](https://google.com/search?q=Fruttagel) | [alphv](profiles.md?id=alphv) |
 | 2023-01-07 | [`Corporate Interiors Inc`](https://google.com/search?q=Corporate+Interiors+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](profiles.md?id=vicesociety) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`BRPRINTERS.COM`](https://google.com/search?q=BRPRINTERS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`BLUEBONNETNUTRITION.COM`](https://google.com/search?q=BLUEBONNETNUTRITION.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SUNSETHCS.COM`](https://google.com/search?q=SUNSETHCS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`BPATPA.COM`](https://google.com/search?q=BPATPA.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Sunday 08/01/2023 09.20 (UTC)_
+Last update : _Sunday 08/01/2023 11.36 (UTC)_

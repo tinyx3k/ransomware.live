@@ -8,7 +8,7 @@
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| 502 Bad Gateway | 🔴 | 08/01/2023 06:57 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| 502 Bad Gateway | 🟢 | 08/01/2023 11:02 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -41,4 +41,4 @@
  --- 
 
 
-Last update : _Sunday 08/01/2023 09.20 (UTC)_
+Last update : _Sunday 08/01/2023 11.36 (UTC)_
