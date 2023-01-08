@@ -28,10 +28,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 249 posts found
+> 250 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Koo Wee Rup Secondary College`](https://www.kwrsc.vic.edu.au/) | 08/01/2023 | Koo Wee Rup Secondary College prides itself on building guided pathways with a wholistic approach around student centred learning. KWRSC is a Year 7 to 12 inclusive college with just over 1100 students on one campus. |
 | [`Fruttagel`](https://www.fruttagel.it) | 07/01/2023 | Fruttagel was founded in 1994 when the Alfonsine plant in Ravenna was established. It combines the legacies of two important players working together in the field: Ala Frutta, a cooperative founded in the early 1960s, specializing in the processing of fresh fruit |
 | [`Buffco Production, Inc.`](https://www.buffcoproduction.com) | 07/01/2023 | Buffco Production, Inc. is a native East Texas exploration and production company with more than 35 years of experience in the oil and natural gas industry. Buffco strives to drill and produce oil and gas efficiently and keep its owners informed while maintaining industry standards. Buffco understands the continuously evolving practices and technologies in the oil and gas industry, and has significant expertise with combatting shifting commodities markets. Buffco can navigate current producing properties, while methodically evaluating new prospects and strategically choosing those that fit current climates. Buffco’s adaptability and expansive knowledge base of conventional and unconventional oil and gas development are the reasons why it has had scalable growth over decades past. |
 | [`Grupo Estrategas EMM`](https://estrategas.com.mx) | 07/01/2023 | Grupo Estrategas S.A. de C.V es una empresa 100 % mexicana comprometida con el mercado asegurador mexicano y socialmente responsable con todos nuestros clientes, proveedores y empleados. |
@@ -285,4 +286,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Sunday 08/01/2023 15.17 (UTC)_
+Last update : _Sunday 08/01/2023 18.10 (UTC)_

@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*-
 import os
 import re
-import time, datetime
+import time
 import urllib.parse
 from datetime import datetime as dt
+import datetime
 
 from sharedutils import gcount
 from sharedutils import openjson
@@ -15,15 +16,15 @@ from sharedutils import postssince
 from sharedutils import parsercount
 from sharedutils import onlinecount
 from sharedutils import postslast24h
-from sharedutils import version2count
+# from sharedutils import version2count
 from sharedutils import poststhisyear
 from sharedutils import postslastyear
 from sharedutils import currentmonthstr
 from sharedutils import monthlypostcount
 from sharedutils import grouppostcount
 from sharedutils import grouppostavailable
-#from sharedutils import headlesscount
-#from sharedutils import countcaptchahosts
+# from sharedutils import headlesscount
+# from sharedutils import countcaptchahosts
 # from sharedutils import stdlog, dbglog, errlog, honk
 from sharedutils import stdlog
 from plotting import trend_posts_per_day, plot_posts_by_group, pie_posts_by_group, plot_posts_by_group_past_7_days,trend_posts_per_day_2022, trend_posts_per_day_2023, plot_posts_by_group_by_year, pie_posts_by_group_by_year, pie_posts_by_group_by_month, trend_posts_per_day_month, plot_posts_by_group_by_month
@@ -507,7 +508,6 @@ def profile():
             f.close()
         writeline(profilepage, '# Profiles')
         writeline(profilepage, '')
-        groups = openjson('groups.json')
         writeline(profilepage, '## **' + group['name']+'**')
         try: 
             writeline(profilepage,'')

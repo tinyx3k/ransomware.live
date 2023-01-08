@@ -1,4 +1,9 @@
 
+!> IMPORTANT! Before downloading and starting the solution, read the how-to guide. Make sure you remove the malware from your system first, otherwise it will repeatedly lock your system or encrypt files. Any reliable antivirus solution can do this for you.
+
+
+*Source : [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)
+
 ## 777 Ransom
 
 > Trend Micro Ransomware Decryptor is designed to decrypt files encrypted by 777 Ransom.
@@ -1712,4 +1717,4 @@
 
 _Source : [No More Ransom](https://www.nomoreransom.org/)_
 
-Last update : _Sunday 08/01/2023 15.17 (UTC)_
+Last update : _Sunday 08/01/2023 18.10 (UTC)_

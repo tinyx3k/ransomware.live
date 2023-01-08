@@ -2,6 +2,7 @@ import json
 from datetime import datetime
 import uuid
 from xml.etree.ElementTree import Element, SubElement, Comment, tostring
+from sharedutils import stdlog
 
 # Chargez les données du fichier JSON
 with open('posts.json') as f:
@@ -17,7 +18,7 @@ title.text = 'Ransomware.live RSS Feed'
 link = SubElement(channel, 'link')
 link.text = 'https://www.ransomware.live/rss.xml'
 description = SubElement(channel, 'description')
-description.text = 'Last entry monitoring by Ransomware.live'
+description.text = 'Last 50 entries monitoring by Ransomware.live'
 
 image = SubElement(channel, 'image')
 image_url = SubElement(image, 'url')
@@ -32,7 +33,7 @@ for i in reversed(range(len(data)-50, len(data))):
   item = data[i]
   rss_item = SubElement(channel, 'item')
   item_title = SubElement(rss_item, 'title')
-  item_title.text = str(item['group_name']) + " published a now posts : " + str(item['post_title'])
+  item_title.text = "🏴‍☠️ " + str(item['group_name']) + " published a now post : " + str(item['post_title'])
   item_link = SubElement(rss_item, 'link')
   item_link.text = 'https://www.ransomware.live/#/profiles/{}'.format(item['group_name'])
   item_description = SubElement(rss_item, 'description')
@@ -50,3 +51,4 @@ for i in reversed(range(len(data)-50, len(data))):
 rss_str = tostring(rss, encoding='unicode')
 with open('./docs/rss.xml', 'w') as f:
   f.write(rss_str)
+stdlog('RSS Feed : ' + 'generated')

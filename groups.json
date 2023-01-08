@@ -205,7 +205,8 @@
                 "available": true,
                 "updated": "2023-01-08 14:26:07.328729",
                 "lastscrape": "2023-01-08 14:26:07.328713",
-                "enabled": true
+                "enabled": true,
+                "delay": 60
             },
             {
                 "fqdn": "2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion",
