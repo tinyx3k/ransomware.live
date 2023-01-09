@@ -9,7 +9,7 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-  torsocks-job:
+  run-ransomwatch:
     runs-on: ubuntu-latest
     timeout-minutes: 170
     environment: CI
@@ -40,9 +40,14 @@ jobs:
           PUSH_USER: ${{ secrets.PUSH_USER }}
         run: |
           python3 ransomwatch.py parse
+      - name: Update Ransomware Notes
+        run: |
+          cd docs/ransomware_notes; git pull; cd ../..
       - name: generate markdown & graphs for docsify
         run: |
           python3 ransomwatch.py markdown
+       - name: generate RSS Feed
+        run: |
           python3 generateRSS.py
       - name: save changes
         # git config --global user.email "jmousqueton@users.noreply.github.com"
