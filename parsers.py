@@ -696,16 +696,16 @@ def yanluowang():
     for post in posts:
         appender(post, 'yanluowang')
 
-def omega():
-    stdlog('parser: ' + '0mega')
-    parser = '''
-    grep "<tr class='trow'>" -C 1 source/0mega-*.html | grep '<td>' | cut -d '>' -f 2 | cut -d '<' -f 1 | sort --uniq
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('0mega: ' + 'parsing fail')
-    for post in posts:
-        appender(post, '0mega')
+#def omega():
+#    stdlog('parser: ' + '0mega')
+#    parser = '''
+#    grep "<tr class='trow'>" -C 1 source/0mega-*.html | grep '<td>' | cut -d '>' -f 2 | cut -d '<' -f 1 | sort --uniq
+#    '''
+#    posts = runshellcmd(parser)
+#    if len(posts) == 1:
+#        errlog('0mega: ' + 'parsing fail')
+#    for post in posts:
+#        appender(post, '0mega')
 
 def redalert():
     stdlog('parser: ' + 'redalert')
@@ -1276,6 +1276,25 @@ def freecivilian():
                     for item in div.find_all('a',{'class':"a_href"}) :
                         # (item.text.replace(' - ','#').split('#')[0].replace('+','').strip())
                         appender(item.text.replace(' - ','#').split('#')[0].replace('+','').strip(),'freecivilian')
+            file.close()                
+        except:
+            # errlog('freecivilian: ' + 'parsing fail')
+            pass
+
+def omega():
+    stdlog('parser: ' + '0mega')
+    for filename in os.listdir('source'):
+        try:
+            if filename.startswith('0mega-'):
+                html_doc='source/'+filename
+                file=open(html_doc,'r')
+                soup=BeautifulSoup(file,'html.parser')
+                divs_name=soup.find_all('tr', {"class": "trow"})
+                for div in divs_name:
+                    item = div.find_all('td')
+                    title = item[0].text.strip()
+                    description = item[2].text.strip()
+                    appender(title,'0mega',description)
             file.close()                
         except:
             # errlog('freecivilian: ' + 'parsing fail')

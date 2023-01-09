@@ -16431,7 +16431,8 @@
     {
         "post_title": "Maxey Moverley",
         "group_name": "0mega",
-        "discovered": "2022-07-14 00:20:20.176178"
+        "discovered": "2022-07-14 00:20:20.176178",
+        "description": "Electronics repair & refurbishment, technical service, CCTV"
     },
     {
         "post_title": "Mooresville Schools",
@@ -18577,7 +18578,9 @@
     {
         "post_title": "Nextlabs",
         "group_name": "0mega",
-        "discovered": "2022-09-15 12:59:09.472386"
+        "discovered": "2022-09-15 12:59:09.472386",
+        "description": "Business services, security software & IT services, risk management software "
+
     },
     {
         "post_title": "dss-cz.com",
@@ -25029,6 +25032,13 @@
         "group_name": "karakurt",
         "discovered": "2023-01-09 15:18:32.879839",
         "description": "River City Science Academy (RCSA) is a tuition-free, public charter school located in Duval County in Jacksonville, Florida. RCSA was founded in 2007 and currently serves grades K – 12 through 4 different locations. RCSA offers an emphasis on STEM education. In this release we will show you 63 GB of RCSA's data which include financials, executive and accounting information as well as a great amount of personal student and employee data.",
+        "website": ""
+    },
+    {
+        "post_title": "Aviacode",
+        "group_name": "0mega",
+        "discovered": "2023-01-09 19:24:13.277817",
+        "description": "Medical coding, outsourced coding, auditing & consulting",
         "website": ""
     }
 ]

@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+### 2023-01-09
+
+* Rewrite [0mega](profiles/0mega.md) parse to include description
+
 ### 2023-01-08
 
 * Add a RSS Feed for the [last 50 entries](https://www.ransomware.live/rss.xml)
