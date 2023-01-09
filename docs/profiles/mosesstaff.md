@@ -21,7 +21,7 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://mosesstaffm7hptp.onion` | ❌ | 
-| Activities – Moses Staff | 🟢 | 09/01/2023 09:04 | `http://moses-staff.se` | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
+| Your access to this site has been limited by the s | 🟢 | 09/01/2023 11:04 | `http://moses-staff.se` | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -49,4 +49,4 @@ _`not a ransomware group`_
  --- 
 
 
-Last update : _Monday 09/01/2023 09.20 (UTC)_
+Last update : _Monday 09/01/2023 11.23 (UTC)_

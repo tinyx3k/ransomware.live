@@ -13,7 +13,7 @@
 |---|---|---|---|---|
 | Ransomware - Control Panel | 🔴 | 03/03/2022 18:21 | `http://u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion` | ❌ | 
-| Ransom Cartel | 🔴 | 08/01/2023 13:23 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion` | <a href="https://www.ransomware.live/screenshots/cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id-onion.png" target=_blank>📸</a> | 
+| Ransom Cartel | 🟢 | 09/01/2023 11:11 | `http://cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion` | <a href="https://www.ransomware.live/screenshots/cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -23,4 +23,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 09.20 (UTC)_
+Last update : _Monday 09/01/2023 11.23 (UTC)_
