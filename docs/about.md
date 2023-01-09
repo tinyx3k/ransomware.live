@@ -71,3 +71,9 @@ You can find the changelog [here](CHANGELOG.md).
 ## ⚙️ Contribution
 
 Ransomwatch.live is also reliant on third-party contributions. Please open a pull request or issue on the [Github repository](https://github.com/jmousqueton/ransomwatch/issues).
+
+## 🤩 Credits
+
+- [Josh Highet](https://github.com/joshhighet) for the original [ransomwatch](https://github.com/joshhighet/ransomwatch)project 
+- [Ransomlook](https://github.com/RansomLook/Ransomlook) for ideas of new features included in [Ransomware.live](https://www.ransomware.live)
+
