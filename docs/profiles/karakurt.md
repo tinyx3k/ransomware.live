@@ -9,16 +9,17 @@
 ### URLs
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
-| Chat | 🟢 | 09/01/2023 13:10 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
-| Magazine | 🟢 | 09/01/2023 13:11 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
+| Chat | 🟢 | 09/01/2023 14:48 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
+| Magazine | 🟢 | 09/01/2023 14:48 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
 ### Posts
 
-> 43 posts found
+> 44 posts found
 
 | post | date | Description
 |---|---|---|
+| [`River City Science Academy`](https://google.com/search?q=River+City+Science+Academy) | 09/01/2023 | River City Science Academy (RCSA) is a tuition-free, public charter school located in Duval County in Jacksonville, Florida. RCSA was founded in 2007 and currently serves grades K – 12 through 4 different locations. RCSA offers an emphasis on STEM education. In this release we will show you 63 GB of RCSA's data which include financials, executive and accounting information as well as a great amount of personal student and employee data. |
 | [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | 21/12/2022 | Centrisys is a USA manufacturer of decanter centrifuges for sludge dewatering and thickening. Since 1987 Centrisys has been a leader in decanter centrifuge service and repair for all brands of centrifuges on the market today. CNP - Technology Water and Biosolids, a subsidiary of Centrifuge-Systems, LLC, designs and supplies innovative nutrient recovery and energy optimization systems for wastewater treatment. In this release we can offer you 403 GB of their corporate data. |
 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |
 | [`TLC`](https://google.com/search?q=TLC) | 18/12/2022 | TLC is a global brand available in more than 84 million homes in the US and 270 million households around the world. Viewers can enjoy their favorite shows anytime, anywhere on discovery+, the definitive non-fiction, real-life subscription streaming service. A destination online, TLC offers in-depth fan sites and exclusive original video content. TLC is part of Discovery (NASDAQ: DISCA, DISCB, DISCK), reaching 3 billion cumulative viewers in more than 220 countries and territories to satisfy curiosity and captivate superfans with a portfolio of premium nonfiction, lifestyle, sports and kids content brands. In this case we will provide you with almost 1 TB of their scripts, videos, internal documentation, as well as personal information of employees and much more. |
@@ -66,4 +67,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 13.42 (UTC)_
+Last update : _Monday 09/01/2023 15.19 (UTC)_

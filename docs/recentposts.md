@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-09 | [`River City Science Academy`](https://google.com/search?q=River+City+Science+Academy) | [karakurt](profiles.md?id=karakurt) |
 | 2023-01-08 | [`asianrecorp.com`](https://google.com/search?q=asianrecorp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-08 | [`Koo Wee Rup Secondary College`](https://google.com/search?q=Koo+Wee+Rup+Secondary+College) | [alphv](profiles.md?id=alphv) |
 | 2023-01-08 | [`millennia.pro`](https://google.com/search?q=millennia.pro) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`BOLTONUSA.COM`](https://google.com/search?q=BOLTONUSA.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`STRATISVISUALS.COM`](https://google.com/search?q=STRATISVISUALS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`EMPIRICAL-RESEARCH.COM`](https://google.com/search?q=EMPIRICAL-RESEARCH.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`BRPRINTERS.COM`](https://google.com/search?q=BRPRINTERS.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Monday 09/01/2023 13.42 (UTC)_
+Last update : _Monday 09/01/2023 15.19 (UTC)_
