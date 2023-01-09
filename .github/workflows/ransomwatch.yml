@@ -9,7 +9,7 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-   torsocks-job:
+  run-ransomwatch:
     runs-on: ubuntu-latest
     timeout-minutes: 170
     environment: CI
@@ -46,7 +46,7 @@ jobs:
       - name: Generate markdown & graphs for docsify
         run: |
           python3 ransomwatch.py markdown
-       - name: Generate RSS Feed
+      - name: Generate RSS Feed
         run: |
           python3 generateRSS.py
       - name: Save changes
