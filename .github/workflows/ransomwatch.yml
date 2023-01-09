@@ -9,7 +9,7 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-  run-ransomwatch:
+  run-ransomwach:
     runs-on: ubuntu-latest
     timeout-minutes: 170
     environment: CI
@@ -19,16 +19,16 @@ jobs:
         ports:
         - 9050:9050
     steps:
-      - name: checkout the repo
+      - name: Checkout the repo
         uses: actions/checkout@v2
-      - name: install dependencies
+      - name: Install dependencies
         run: |
           pip3 install -r requirements.txt
           playwright install
-      - name: run scraper
+      - name: Run scraper
         run: |
           python3 ransomwatch.py scrape
-      - name: run parser
+      - name: Run parser
         env: 
           # DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           # MS_TEAMS_WEBHOOK: ${{ secrets.MS_TEAMS_WEBHOOK }}
@@ -43,13 +43,13 @@ jobs:
       - name: Update Ransomware Notes
         run: |
           cd docs/ransomware_notes; git pull; cd ../..
-      - name: generate markdown & graphs for docsify
+      - name: Generate markdown & graphs for docsify
         run: |
           python3 ransomwatch.py markdown
-       - name: generate RSS Feed
+       - name: Generate RSS Feed
         run: |
           python3 generateRSS.py
-      - name: save changes
+      - name: Save changes
         # git config --global user.email "jmousqueton@users.noreply.github.com"
         # git config --global user.name "Julien"
         run: |  
