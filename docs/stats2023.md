@@ -1,14 +1,10 @@
-# Year 2023 in detail 
+# Year 2023 in detail
 
 
-## January  
+## January
 
- | ![](graphs/postsbyday202301.png) | ![](graphs/postsbygroup202301.png) |
- |---|---|
- | ![](graphs/grouppie202301.png) | | 
-
- ## February 
-
-| ![](graphs/postsbyday202302.png) | ![](graphs/postsbygroup202302.png) |
+| ![](graphs/postsbyday202301.png) | ![](graphs/postsbygroup202301.png) |
 |---|---|
-| ![](graphs/grouppie202302.png) | |  
+| ![](graphs/grouppie202301.png) | | 
+
+Last update : _Monday 09/01/2023 22.32 (UTC)_

@@ -33,6 +33,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Add a [Change Log](CHANGELOG.md)
 * Add Pushover notification 
 * Add a [RSS Feed](rss.xml)
+* Add a field `delay` in seconds for every Group locations before scraping (not mandatory)
 * And much more minor modifications
 
 

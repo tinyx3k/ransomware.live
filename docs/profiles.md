@@ -7198,7 +7198,7 @@ _`shut down & offering a decryptor`_
 | [`Unicity`](https://google.com/search?q=Unicity) | 05/10/2022 |   |
 | [`Oil India Limited`](https://google.com/search?q=Oil+India+Limited) | 05/10/2022 |   |
 | [`Stratford University`](https://google.com/search?q=Stratford+University) | 17/08/2022 |   |
-| [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | 30/06/2022 | Atlantic Dialysis Management Services, LLC (“ADMS”) was established to provide new dialysis site development, day to day administration and management of dialysis services and related business development activities. The business strategy is to maximize individual site results through consolidated activities. Central to the ADMS approach is the long term control of these clinical services by nephrologists.  |
+| [`Atlantic Dialysis Management Services`](https://google.com/search?q=Atlantic+Dialysis+Management+Services) | 30/06/2022 | Atlantic Dialysis Management Services, LLC (“ADMS”) was established to provide new dialysis site development, day to day administration and management of dialysis services and related business development activities. The business strategy is to maximize individual site results through consolidated activities. Central to the ADMS approach is the long term control of these clinical services by nephrologists. |
 | [`Apex`](https://google.com/search?q=Apex) | 29/06/2022 |   |
 | [`HEMERIA`](https://google.com/search?q=HEMERIA) | 22/05/2022 |   |
 | [`Yip in Tsoi`](https://google.com/search?q=Yip+in+Tsoi) | 31/03/2022 |   |
@@ -7876,4 +7876,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 09/01/2023 21.19 (UTC)_
+Last update : _Monday 09/01/2023 22.32 (UTC)_

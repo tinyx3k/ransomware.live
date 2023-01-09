@@ -72,3 +72,5 @@
 | ![](graphs/postsbyday202212.png) | ![](graphs/postsbygroup202212.png) |
 |---|---|
 | ![](graphs/grouppie202212.png) | | 
+
+Last update : _Saturday 31/12/2022 23.59 (UTC)_

@@ -188,41 +188,41 @@ def statuspage():
 
 
 
-def sidebar():
-    '''
-    create a sidebar markdown report NOT USED 
-    '''
-    stdlog('generating sidebar')
-    sidebar = 'docs/_sidebar.md'
-    # delete contents of file
-    with open(sidebar, 'w', encoding='utf-8') as f:
-        f.close()
-    writeline(sidebar, '- [home](README.md)')
-    writeline(sidebar, '- [group index](INDEX.md)')
-    writeline(sidebar, '- [recent posts](recentposts.md)')
-    writeline(sidebar, '- [stats & graphs](stats.md)')
-    writeline(sidebar, '- [group profiles](profiles.md)')
-    stdlog('sidebar generated')
+#def sidebar():
+#    '''
+#    create a sidebar markdown report NOT USED 
+#    '''
+#    stdlog('generating sidebar')
+#    sidebar = 'docs/_sidebar.md'
+#    # delete contents of file
+#    with open(sidebar, 'w', encoding='utf-8') as f:
+#        f.close()
+#    writeline(sidebar, '- [home](README.md)')
+#    writeline(sidebar, '- [group index](INDEX.md)')
+#    writeline(sidebar, '- [recent posts](recentposts.md)')
+#    writeline(sidebar, '- [stats & graphs](stats.md)')
+#    writeline(sidebar, '- [group profiles](profiles.md)')
+#    stdlog('sidebar generated')
 
-def statspage():
-    '''
-    create a stats page in markdown containing the matplotlib graphs
-    '''
-    stdlog('generating stats page')
-    statspage = 'docs/stats.md'
-    # delete contents of file
-    with open(statspage, 'w', encoding='utf-8') as f:
-        f.close()
-    writeline(statspage, '# 📊 stats')
-    writeline(statspage, '')
-    #writeline(statspage, '_timestamp association commenced october 2021_')
-    #writeline(statspage, '')
-    writeline(statspage, '| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |')
-    writeline(statspage, '|---|---|')
-    writeline(statspage, '![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |')
-    writeline(statspage, '')
-    writeline(statspage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
-    stdlog('stats page generated')
+#def statspage():
+#    '''
+#    create a stats page in markdown containing the matplotlib graphs
+#    '''
+#    stdlog('generating stats page')
+#    statspage = 'docs/stats.md'
+#    # delete contents of file
+#    with open(statspage, 'w', encoding='utf-8') as f:
+#        f.close()
+#    writeline(statspage, '# 📊 stats')
+#    writeline(statspage, '')
+#    #writeline(statspage, '_timestamp association commenced october 2021_')
+#    #writeline(statspage, '')
+#    writeline(statspage, '| ![](graphs/postsbygroup7days.png) | ![](graphs/postsbyday.png) |')
+#    writeline(statspage, '|---|---|')
+#    writeline(statspage, '![](graphs/postsbygroup.png) | ![](graphs/grouppie.png) |')
+#    writeline(statspage, '')
+#    writeline(statspage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
+#    stdlog('stats page generated')
 
 def recentposts(top):
     '''
@@ -647,19 +647,26 @@ def mainsummaryjson():
     writeline(uptime_sheet, '}')
     writeline(uptime_sheet, ']')
 
+def month_name(month_number):
+  months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+  return months[month_number - 1]
+
+def month_digit(month_number):
+    months = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12']
+    return months[month_number - 1]
 
 def main():
     stdlog('generating docs')
+    year=datetime.datetime.now().year
+    month=datetime.datetime.now().month 
     mainpage()
     statuspage()
-    # sidebar()
     recentpage()
     allposts()
-    # statspage()
     profilepage()
     profile()
-    # if os.path.getmtime('docs/decryption.md') < (time.time() - 14400):
-    decryptiontools()
+    if os.path.getmtime('docs/decryption.md') < (time.time() - 14400):
+        decryptiontools()
     mainsummaryjson()
     # if posts.json has been modified within the last 45 mins, assume new posts discovered and recreate graphs
     if os.path.getmtime('posts.json') > (time.time() - 2700):
@@ -668,25 +675,30 @@ def main():
         plot_posts_by_group() 
         pie_posts_by_group()
         plot_posts_by_group_past_7_days()
-        ## To keep until 2024-01-02
+        stdlog('Creating graphs for '+ str(year))
         pie_posts_by_group_by_year(2023)
         plot_posts_by_group_by_year(2023)
         trend_posts_per_day_2023()
-        ## No more need 
-        #trend_posts_per_day_2022()
-        #plot_posts_by_group_by_year(2022)
-        #pie_posts_by_group_by_year(2022)
-        #pie_posts_by_group_by_year(2022)
-        ###
-        # pie_posts_by_group_by_month(2023,1)
-        year=datetime.datetime.now().year
-        for month in range(1, 13):
-            try:
-                stdlog('generated pie for ' + str(month) + '/' +  str(year))
+        stdlog('generating stats page for ' +  str(year))
+        currentgraph = 'docs/stats'+str(year)+'.md'
+        with open(currentgraph, 'w', encoding='utf-8') as f:
+                f.close()
+        writeline(currentgraph, '# Year '+ str(year) + ' in detail')
+        writeline(currentgraph, '') 
+        for month in range(1, month+1):
+                stdlog('generating stats section for ' +  month_name(month))
+                writeline(currentgraph, '') 
+                writeline(currentgraph, '## '+  month_name(month))
+                writeline(currentgraph, '') 
+                writeline(currentgraph, '| ![](graphs/postsbyday' + str(year) + month_digit(month) + '.png) | ![](graphs/postsbygroup' + str(year) + month_digit(month) + '.png) |')
+                writeline(currentgraph, '|---|---|')
+                writeline(currentgraph, '| ![](graphs/grouppie' + str(year) + month_digit(month) + '.png) | | ')
+                stdlog('generating graphs for ' + str(month) + '/' +  str(year))
                 pie_posts_by_group_by_month(year,month)
                 trend_posts_per_day_month(year,month)
                 plot_posts_by_group_by_month(year,month)
-            except:
-                pass
+        writeline(currentgraph, '')
+        writeline(currentgraph, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
+        stdlog('stats for ' +  str(year) + ' generated')
     else:
         stdlog('posts.json has not been modified within the last 45 mins, assuming no new posts discovered')
