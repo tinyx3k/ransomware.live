@@ -43,7 +43,7 @@ def posttemplate(victim, group_name, timestamp,description,website):
     dbglog(schema)
     return schema
 
-def screenshot(webpage,fqdn,delay=1500):
+def screenshot(webpage,fqdn,delay=15000):
     stdlog('webshot: {}'.format(webpage))
     name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
     try:
@@ -77,7 +77,7 @@ def screenshot(webpage,fqdn,delay=1500):
         else: 
             stdlog('webshot already done : {}'.format(webpage))
     except:
-             stdlog('webshot file not found : {}'.format(webpage))
+             stdlog('Impossible to webshot {}'.format(webpage))
 
 
 def existingpost(post_title, group_name):
