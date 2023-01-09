@@ -2448,6 +2448,10 @@ _`marketplace - not a ransomware group`_
 |---|---|---|---|---|
 | none | 🔴 | 07/01/2023 21:20 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/ech0raix/README_FOR_DECRYPT.txtt" target=_blank>#1</a> 
+
 ### Posts
 
 > no post found
@@ -2839,7 +2843,7 @@ _``_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/hive/hive.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/hive/HOW_TO_DECRYPT.txt" target=_blank>#1</a>  <a href="/ransomware_notes/hive/hive.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -3131,6 +3135,10 @@ _`aka hotarus corp`_
 | Magazine | 🟢 | 09/01/2023 17:05 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/karakurt/!_karakurt_READ_ME_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/karakurt/alert!.txt" target=_blank>#2</a> 
+
 ### Posts
 
 > 44 posts found
@@ -3202,6 +3210,10 @@ _`aka hotarus corp`_
 | Title | Available | Last visit | fqdn | screen 
 |---|---|---|---|---|
 | Karma Leaks | 🔴 | 05/11/2021 02:09 | `http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion` | ❌ | 
+
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/karma/KARMA-ENCRYPTED.txt" target=_blank>#1</a> 
 
 ### Posts
 
@@ -5097,6 +5109,10 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 |---|---|---|---|---|
 | Mallox - Blog | 🟢 | 09/01/2023 17:20 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/mallox/FILE RECOVERY.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 9 posts found
@@ -6701,6 +6717,10 @@ _`shut down & offering a decryptor`_
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
 | none | 🟢 | 09/01/2023 17:28 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/ransomhouse/Restore Your Files.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 19 posts found
@@ -7855,4 +7875,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 09/01/2023 19.27 (UTC)_
+Last update : _Monday 09/01/2023 19.33 (UTC)_

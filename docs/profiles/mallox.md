@@ -10,6 +10,10 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 |---|---|---|---|---|
 | Mallox - Blog | 🟢 | 09/01/2023 17:20 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/mallox/FILE RECOVERY.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 9 posts found
@@ -29,4 +33,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Monday 09/01/2023 19.27 (UTC)_
+Last update : _Monday 09/01/2023 19.33 (UTC)_

@@ -13,6 +13,10 @@
 | Magazine | 🟢 | 09/01/2023 17:05 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/karakurt/!_karakurt_READ_ME_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/karakurt/alert!.txt" target=_blank>#2</a> 
+
 ### Posts
 
 > 44 posts found
@@ -67,4 +71,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 19.27 (UTC)_
+Last update : _Monday 09/01/2023 19.33 (UTC)_

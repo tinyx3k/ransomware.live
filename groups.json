@@ -1193,7 +1193,7 @@
         "locations": [
             {
                 "fqdn": "veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion",
-                "title": null,
+                "title": "404 page not found",
                 "version": 3,
                 "slug": "http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion",
                 "available": false,
@@ -3357,6 +3357,17 @@
                 "updated": "2023-01-09 17:28:47.280112",
                 "lastscrape": "2023-01-09 17:28:47.280098",
                 "enabled": true
+            },
+            {
+                "fqdn": "secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion",
+                "title": "Ransomhouse ©",
+                "version": 3,
+                "slug": "http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion",
+                "available": true,
+                "delay": null,
+                "updated": "2023-01-09 19:28:47.280112",
+                "lastscrape": "2023-01-09 19:28:47.280112",
+                "enabled": false
             }
         ],
         "profile": [

@@ -13,6 +13,10 @@
 |---|---|---|---|---|
 | none | 🔴 | 07/01/2023 21:20 | `http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion` | <a href="https://www.ransomware.live/screenshots/veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/ech0raix/README_FOR_DECRYPT.txtt" target=_blank>#1</a> 
+
 ### Posts
 
 > no post found
@@ -21,4 +25,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 19.27 (UTC)_
+Last update : _Monday 09/01/2023 19.33 (UTC)_

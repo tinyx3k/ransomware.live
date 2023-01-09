@@ -22,7 +22,7 @@ _``_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/hive/hive.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/hive/HOW_TO_DECRYPT.txt" target=_blank>#1</a>  <a href="/ransomware_notes/hive/hive.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -239,4 +239,4 @@ _``_
  --- 
 
 
-Last update : _Monday 09/01/2023 19.27 (UTC)_
+Last update : _Monday 09/01/2023 19.33 (UTC)_
