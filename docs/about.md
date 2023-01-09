@@ -29,10 +29,12 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Add night/day theme ☀️/🌙
 * Add ransom notes when available for each ransomware gang in the [profiles](profiles.md) page
 * Add description of ransomware gang in the [profiles](profiles.md) page
-* Add a [full list](allposts.md) of ransomware gang entry 
+* Add a [full list](allposts.md) of ransomware gang entries 
 * Add a [Change Log](CHANGELOG.md)
 * Add Pushover notification 
-* And much more minor modifications 
+* Add a [RSS Feed](rss.xml)
+* And much more minor modifications
+
 
 `ransomware.live` uses github actions to do everything ... yes it's server less 😄
 
