@@ -30,7 +30,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🐣 There have been `4873` posts `since the dawn of ransomware.live`
 
-⚙️ There are `70` custom parsers indexing posts
+⚙️ There are `76` custom parsers indexing posts
 
 
 

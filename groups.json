@@ -342,7 +342,7 @@
     {
         "name": "avoslocker",
         "captcha": true,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": "captcha prevents indexing",
         "locations": [
@@ -937,7 +937,7 @@
     {
         "name": "daixin",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -1296,7 +1296,7 @@
     {
         "name": "freecivilian",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -1561,7 +1561,7 @@
     {
         "name": "karakurt",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": true,
         "meta": null,
         "locations": [
@@ -2541,7 +2541,7 @@
     {
         "name": "mindware",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": null,
         "locations": [
@@ -2852,7 +2852,7 @@
     {
         "name": "onyx",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": "aka vsop",
         "locations": [
