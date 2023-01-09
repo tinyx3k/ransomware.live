@@ -33,7 +33,7 @@ for i in reversed(range(len(data)-50, len(data))):
   item = data[i]
   rss_item = SubElement(channel, 'item')
   item_title = SubElement(rss_item, 'title')
-  item_title.text = "🏴‍☠️ " + str(item['group_name']) + " published a now post : " + str(item['post_title'])
+  item_title.text = "🏴‍☠️ " + str(item['group_name']) + " has just published a now post : " + str(item['post_title'])
   item_link = SubElement(rss_item, 'link')
   item_link.text = 'https://www.ransomware.live/#/profiles/{}'.format(item['group_name'])
   item_description = SubElement(rss_item, 'description')

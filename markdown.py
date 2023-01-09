@@ -137,7 +137,7 @@ def statuspage():
     writeline(index_sheet, '')
     writeline(index_sheet, '## 🚦 All Groups')
     writeline(index_sheet, '')
-    header = '| Group | Title | Status | Last seen | Location | Screenshoot |'
+    header = '| Group | Title | Status | Last seen | Location | Screenshot |'
     writeline(index_sheet, header)
     writeline(index_sheet, '|---|---|---|---|---|---|')
     for group in groups:
@@ -288,7 +288,7 @@ def allposts():
     writeline(allpage, '💾 [Download](https://www.ransomware.live/posts.csv) full list in **csv** format')
     writeline(allpage, '')
     writeline(allpage, '')
-    writeline(allpage, '| date | title | group |')
+    writeline(allpage, '| Date | Title | Group |')
     writeline(allpage, '|---|---|---|')
     posts = openjson('posts.json')
     sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
@@ -349,7 +349,7 @@ def profilepage():
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
         writeline(profilepage, '### URLs')
-        writeline(profilepage, '| Title | Available | Last visit | fqdn | screen ')
+        writeline(profilepage, '| Title | Available | Last visit | fqdn | Screenshot ')
         writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
             if host['available'] is True:
@@ -518,12 +518,12 @@ def profile():
         #if group['captcha'] is True:
         #    writeline(profilepage, ':warning: _has a captcha_')
         #    writeline(profilepage, '')
-        #if group['parser'] is True:
-        #    writeline(profilepage, '_parsing : `enabled`_')
-        #    writeline(profilepage, '')
-        #else:
-        #    writeline(profilepage, '_parsing : `disabled`_')
-        #    writeline(profilepage, '')
+        if group['parser'] is True:
+            writeline(profilepage, '_Parser : `Available`_')
+            writeline(profilepage, '')
+        else:
+            writeline(profilepage, '_Parser : `Not available`_')
+            writeline(profilepage, '')
         # add notes if present
         if group['meta'] is not None:
             writeline(profilepage, '_`' + group['meta'] + '`_')
@@ -537,7 +537,7 @@ def profile():
                 writeline(profilepage, '- ' + profile)
                 writeline(profilepage, '')
         writeline(profilepage, '### URLs')
-        writeline(profilepage, '| Title | Available | Last visit | fqdn | screen ')
+        writeline(profilepage, '| Title | Available | Last visit | fqdn | Screenshot ')
         writeline(profilepage, '|---|---|---|---|---|')        
         for host in group['locations']:
             if host['available'] is True:
