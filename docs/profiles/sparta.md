@@ -3,11 +3,13 @@
 ## **sparta**
 
 
+_Parser : `Available`_
+
 ### External analysis
 - spartaprogroup@strong.pm
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Blog | 🔴 | 01/10/2022 15:29 | `http://zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion` | ❌ | 
 
@@ -37,4 +39,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

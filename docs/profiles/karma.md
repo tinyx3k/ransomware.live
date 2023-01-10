@@ -3,6 +3,8 @@
 ## **karma**
 
 
+_Parser : `Available`_
+
 ### External analysis
 - https://www.sentinelone.com/labs/karma-ransomware-an-emerging-threat-with-a-hint-of-nemty-pedigree/
 
@@ -15,7 +17,7 @@
 - https://securityaffairs.co/wordpress/123568/malware/karma-ransomware-nemty-similarities.html
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Karma Leaks | 🔴 | 05/11/2021 02:09 | `http://3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion` | ❌ | 
 
@@ -40,4 +42,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

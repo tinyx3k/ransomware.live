@@ -3,6 +3,8 @@
 ## **xinglocker**
 
 
+_Parser : `Available`_
+
 _`xing use a custom mountlocker exe`_
 
 ### External analysis
@@ -11,7 +13,7 @@ _`xing use a custom mountlocker exe`_
 - https://itsecuritywire.com/quick-bytes/xinglocker-spreading-worm-using-mountlocker
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 星Team News | 🔴 | 24/01/2022 06:12 | `http://xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion` | ❌ | 
 
@@ -46,4 +48,4 @@ _`xing use a custom mountlocker exe`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

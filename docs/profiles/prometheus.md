@@ -4,13 +4,15 @@
 
 > Ransomware written in .NET, apparently derived from the codebase of win.hakbit (Thanos) ransomware.
 
+_Parser : `Not available`_
+
 ### External analysis
 - https://therecord.media/decryptor-released-for-prometheus-ransomware-victims
 
 - https://unit42.paloaltonetworks.com/prometheus-ransomwar
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://promethw27cbrcot.onion` | ❌ | 
 
@@ -26,4 +28,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

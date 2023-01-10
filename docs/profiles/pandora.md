@@ -4,11 +4,13 @@
 
 > Pandora ransomware was obtained by vx-underground at 2022-03-14.
 
+_Parser : `Available`_
+
 ### External analysis
 - contact@pandoraxyz.xyz
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Pandora Data Leak | 🔴 | 03/05/2022 11:24 | `http://vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://pandoraxyz.xyz` | ❌ | 
@@ -28,4 +30,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

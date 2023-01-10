@@ -3,10 +3,12 @@
 ## **cryp70n1c0d3**
 
 
+_Parser : `Available`_
+
 _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | -*- CRYP70N1C0D3 Team -*- | 🔴 | 31/12/2022 15:21 | `http://7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion` | ❌ | 
 
@@ -31,4 +33,4 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

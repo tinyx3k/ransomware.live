@@ -3,6 +3,8 @@
 ## **prolock**
 
 
+_Parser : `Not available`_
+
 _`aka pwndlocker`_
 
 ### External analysis
@@ -17,7 +19,7 @@ _`aka pwndlocker`_
 - https://iacc.memberclicks.net/assets/docs/COVID19/FBI%20-%20FLASH%20TLP%20Green%20-%20Indicators%20of%20Compromise%20Associated%20with%20ProLock....pdf
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion` | ❌ | 
 
@@ -29,4 +31,4 @@ _`aka pwndlocker`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

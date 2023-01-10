@@ -3,6 +3,8 @@
 ## **haron**
 
 
+_Parser : `Not available`_
+
 _`login page, no posts`_
 
 ### External analysis
@@ -11,7 +13,7 @@ _`login page, no posts`_
 - https://threatpost.com/ransomware-gangs-haron-blackmatter/168212
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Clients page | 🔴 | 31/01/2022 20:17 | `http://ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion` | ❌ | 
 
@@ -23,4 +25,4 @@ _`login page, no posts`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

@@ -3,10 +3,12 @@
 ## **againstthewest**
 
 
+_Parser : `Not available`_
+
 _`closed forum, access sold from https://sellix.io/atwforums`_
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Threat Actors - Onion Forums  - Internal Error | 🔴 | 07/01/2023 20:56 | `http://giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion` | <a href="https://www.ransomware.live/screenshots/giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd-onion.png" target=_blank>📸</a> | 
 
@@ -18,4 +20,4 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

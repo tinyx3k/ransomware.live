@@ -3,6 +3,8 @@
 ## **atomsilo**
 
 
+_Parser : `Available`_
+
 ### External analysis
 - https://www.cyfirma.com/outofband/malware-research-on-atomsilo-ransomware/
 
@@ -11,7 +13,7 @@
 - https://twitter.com/vinopaljiri/status/1449550289204391940
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | AtomSilo | 🔴 | 17/12/2021 05:02 | `http://mhdehvkomeabau7gsetnsrhkfign4jgnx3wajth5yb5h6kvzbd72wlqd.onion` | ❌ | 
 | AtomSilo | 🔴 | 25/01/2022 06:15 | `http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion` | ❌ | 
@@ -34,4 +36,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

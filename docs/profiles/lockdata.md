@@ -3,6 +3,8 @@
 ## **lockdata**
 
 
+_Parser : `Available`_
+
 _`marketplace - not a ransomware group`_
 
 ### External analysis
@@ -11,7 +13,7 @@ _`marketplace - not a ransomware group`_
 - https://twitter.com/darktracer_int/status/1418318232885153792
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | LockData Auction | 🔴 | 09/04/2022 16:16 | `http://wm6mbuzipviusuc42kcggzkdpbhuv45sn7olyamy6mcqqked3waslbqd.onion` | ❌ | 
 
@@ -30,4 +32,4 @@ _`marketplace - not a ransomware group`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

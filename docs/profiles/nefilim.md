@@ -4,13 +4,15 @@
 
 > According to Vitali Kremez and Michael Gillespie, this ransomware shares much code with Nemty 2.5. A difference is removal of the RaaS component, which was switched to email communications for payments. Uses AES-128, which is then protected RSA2048.
 
+_Parser : `Available`_
+
 ### External analysis
 - https://www.zdnet.com/article/a-deep-dive-into-nefilim-a-double-extortion-ransomware-group
 
 - https://www.trendmicro.com/en_nz/research/21/f/nefilim-modern-ransomware-attack-story.html
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://hxt254aygrsziejn.onion` | ❌ | 
 
@@ -38,4 +40,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

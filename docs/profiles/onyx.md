@@ -3,13 +3,15 @@
 ## **onyx**
 
 
+_Parser : `Available`_
+
 _`aka vsop`_
 
 ### External analysis
 - vsop@onionmail.org
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | VSOP NEWS | 🔴 | 02/01/2023 05:00 | `http://mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion` | <a href="https://www.ransomware.live/screenshots/mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid-onion.png" target=_blank>📸</a> | 
 
@@ -51,4 +53,4 @@ _`aka vsop`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

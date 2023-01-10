@@ -3,6 +3,8 @@
 ## **marketo**
 
 
+_Parser : `Available`_
+
 _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 ### External analysis
@@ -15,7 +17,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 - https://t.me/marketocloud
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://marketojbwagqnwx.onion` | ❌ | 
 | none | 🔴 | 01/05/2021 00:00 | `http://g5sbltooh2okkcb2.onion` | ❌ | 
@@ -64,4 +66,4 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

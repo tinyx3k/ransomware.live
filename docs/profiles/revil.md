@@ -4,6 +4,8 @@
 
 > Sodinokibi ransomware group also known as REvil (Ransomware Evil) operates as a ransomware-as-a-service (RaaS) model. After the group compromised his victims, they would threaten to publish the victim's sensitive data on their darknet blog named 'Happy Blog', unless the ransom is paid. The ransomware malware code used by REvil is pretty similar to the ransomware code used by DarkSide - a different threat actor. REvil group claims to steal information after a successful attack on the supplier of the tech giant Apple and stole confidential schematics of their upcoming products.
 
+_Parser : `Available`_
+
 ### External analysis
 - https://www.zdnet.com/article/revil-ransomware-group-resurfaces-after-brief-hiatus
 
@@ -12,7 +14,7 @@
 - https://www.theverge.com/2021/7/22/22589643/ransomware-kaseya-vsa-decryptor-revil
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 19/08/2022 12:16 | `http://dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion` | ❌ | 
 | 404 Not Found | 🔴 | 19/08/2022 12:17 | `http://aplebzu47wgazapdqks6vrcv6zcnjppkbxbr6wketf56nf6aq2nmyoyd.onion` | ❌ | 
@@ -73,4 +75,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

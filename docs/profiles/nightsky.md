@@ -3,13 +3,15 @@
 ## **nightsky**
 
 
+_Parser : `Available`_
+
 ### External analysis
 - https://t.me/arvin_club/5081
 
 - https://twitter.com/malwrhunterteam/status/1477381209147723788?s=20
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Night Sky | 🔴 | 25/01/2022 05:22 | `http://gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion` | ❌ | 
 
@@ -25,4 +27,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

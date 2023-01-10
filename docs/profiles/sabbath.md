@@ -3,11 +3,13 @@
 ## **sabbath**
 
 
+_Parser : `Available`_
+
 ### External analysis
 - https://www.mandiant.com/resources/sabbath-ransomware-affiliate
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | BLOG | 🔴 | 13/11/2021 03:45 | `http://54bb47h5qu4k7l4d7v5ix3i6ak6elysn3net4by4ihmvrhu7cvbskoqd.onion` | ❌ | 
 | none | 🔴 | 13/04/2022 03:32 | `http://54bb47h.blog` | ❌ | 
@@ -39,4 +41,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

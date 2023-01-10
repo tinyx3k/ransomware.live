@@ -3,10 +3,12 @@
 ## **darkangels**
 
 
+_Parser : `Not available`_
+
 _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Home | 🔴 | 18/07/2022 23:41 | `http://wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion` | ❌ | 
 
@@ -22,4 +24,4 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

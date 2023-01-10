@@ -3,6 +3,8 @@
 ## **lockbit2**
 
 
+_Parser : `Available`_
+
 _`previous clearnet fqdn lockbitapt.uz`_
 
 ### External analysis
@@ -13,7 +15,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 - https://www.cyber.gov.au/acsc/view-all-content/advisories/2021-006-acsc-ransomware-profile-lockbit-20
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | LOCKFILE | 🔴 | 21/11/2021 19:05 | `http://zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion` | ❌ | 
 | LockBit BLOG | 🔴 | 17/06/2022 16:10 | `http://yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion` | ❌ | 
@@ -1041,4 +1043,4 @@ _`previous clearnet fqdn lockbitapt.uz`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

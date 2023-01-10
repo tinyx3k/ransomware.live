@@ -3,10 +3,12 @@
 ## **leaktheanalyst**
 
 
+_Parser : `Available`_
+
 _`not a ransomware group`_
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | #LeakTheAnalyst | 🔴 | 05/08/2022 10:37 | `http://leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion` | ❌ | 
 
@@ -40,4 +42,4 @@ _`not a ransomware group`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

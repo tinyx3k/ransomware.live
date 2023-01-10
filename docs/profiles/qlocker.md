@@ -3,6 +3,8 @@
 ## **qlocker**
 
 
+_Parser : `Not available`_
+
 _`login page, no posts`_
 
 ### External analysis
@@ -13,7 +15,7 @@ _`login page, no posts`_
 - https://www.bleepingcomputer.com/news/security/qlocker-ransomware-shuts-down-after-extorting-hundreds-of-qnap-users/
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 08/11/2022 04:04 | `http://gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion` | ❌ | 
 
@@ -29,4 +31,4 @@ _`login page, no posts`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

@@ -3,13 +3,15 @@
 ## **groove**
 
 
+_Parser : `Available`_
+
 ### External analysis
 - https://intel471.com/blog/groove-gang-ransomware-babuk-revil-blackmatter
 
 - https://www.mcafee.com/blogs/enterprise/mcafee-enterprise-atr/how-groove-gang-is-shaking-up-the-ransomware-as-a-service-market-to-empower-affiliates
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Утечки - Groove | 🔴 | 30/10/2021 10:50 | `http://ws3dh6av66sjbxxkjpw5ao3wqzmtejnkzheswm4dz5rrwvular7xvkqd.onion` | ❌ | 
 
@@ -36,4 +38,4 @@
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

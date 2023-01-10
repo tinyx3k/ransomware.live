@@ -3,6 +3,8 @@
 ## **xinof**
 
 
+_Parser : `Not available`_
+
 _`aka fonix`_
 
 ### External analysis
@@ -11,7 +13,7 @@ _`aka fonix`_
 - https://www.sentinelone.com/labs/the-fonix-raas-new-low-key-threat-with-unnecessary-complexities/
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://wj3b2wtj7u2bzup75tzhnso56bin6bnvsxcbwbfcuvzpc4vcixbywlid.onion` | ❌ | 
 
@@ -23,4 +25,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

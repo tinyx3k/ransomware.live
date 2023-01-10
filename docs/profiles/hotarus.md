@@ -3,13 +3,15 @@
 ## **hotarus**
 
 
+_Parser : `Not available`_
+
 _`aka hotarus corp`_
 
 ### External analysis
 - https://www.bleepingcomputer.com/news/security/ransomware-gang-hacks-ecuadors-largest-private-bank-ministry-of-finance/
 
 ### URLs
-| Title | Available | Last visit | fqdn | screen 
+| Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Hotarus Corp | 🔴 | 22/10/2021 04:52 | `http://r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion` | ❌ | 
 
@@ -21,4 +23,4 @@ _`aka hotarus corp`_
  --- 
 
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_

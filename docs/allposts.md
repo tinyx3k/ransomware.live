@@ -8,7 +8,7 @@ _All `4873` posts_
 💾 [Download](https://www.ransomware.live/posts.csv) full list in **csv** format
 
 
-| date | title | group |
+| Date | Title | Group |
 |---|---|---|
 | 2023-01-09 | [`Aviacode`](https://google.com/search?q=Aviacode) | [0mega](profiles.md?id=0mega) |
 | 2023-01-09 | [`River City Science Academy`](https://google.com/search?q=River+City+Science+Academy) | [karakurt](profiles.md?id=karakurt) |
@@ -4883,4 +4883,4 @@ _All `4873` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 09/01/2023 22.53 (UTC)_
+Last update : _Tuesday 10/01/2023 02.40 (UTC)_
