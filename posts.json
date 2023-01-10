@@ -18580,7 +18580,6 @@
         "group_name": "0mega",
         "discovered": "2022-09-15 12:59:09.472386",
         "description": "Business services, security software & IT services, risk management software "
-
     },
     {
         "post_title": "dss-cz.com",
@@ -25039,6 +25038,27 @@
         "group_name": "0mega",
         "discovered": "2023-01-09 19:24:13.277817",
         "description": "Medical coding, outsourced coding, auditing & consulting",
+        "website": ""
+    },
+    {
+        "post_title": "Shelco",
+        "group_name": "lorenz",
+        "discovered": "2023-01-10 13:41:26.888065",
+        "description": "",
+        "website": ""
+    },
+    {
+        "post_title": "Thor Specialties, Inc.",
+        "group_name": "lorenz",
+        "discovered": "2023-01-10 13:42:07.105272",
+        "description": "",
+        "website": ""
+    },
+    {
+        "post_title": "Fire Rescue Victoria",
+        "group_name": "vicesociety",
+        "discovered": "2023-01-10 13:42:13.620992",
+        "description": "Fire Rescue Victoria is a fire and rescue service in the state of Victoria, Australia, that provides firefighting, rescue, HAZMAT and Emergency Medical Response services in areas of metropolitan Melbourne and major regional centres throughout Victoria.",
         "website": ""
     }
 ]

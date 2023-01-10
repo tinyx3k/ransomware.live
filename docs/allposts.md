@@ -1,6 +1,6 @@
 
 
-_All `4873` posts_
+_All `4876` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `4873` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-10 | [`Fire Rescue Victoria`](https://google.com/search?q=Fire+Rescue+Victoria) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-10 | [`Thor Specialties, Inc.`](https://google.com/search?q=Thor+Specialties%2C+Inc.) | [lorenz](profiles.md?id=lorenz) |
+| 2023-01-10 | [`Shelco`](https://google.com/search?q=Shelco) | [lorenz](profiles.md?id=lorenz) |
 | 2023-01-09 | [`Aviacode`](https://google.com/search?q=Aviacode) | [0mega](profiles.md?id=0mega) |
 | 2023-01-09 | [`River City Science Academy`](https://google.com/search?q=River+City+Science+Academy) | [karakurt](profiles.md?id=karakurt) |
 | 2023-01-08 | [`asianrecorp.com`](https://google.com/search?q=asianrecorp.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4883,4 +4886,4 @@ _All `4873` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 10/01/2023 11.21 (UTC)_
+Last update : _Tuesday 10/01/2023 13.44 (UTC)_
