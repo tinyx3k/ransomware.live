@@ -16,7 +16,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Lorenz | 🟢 | 10/01/2023 13:21 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
+| Lorenz | 🟢 | 10/01/2023 15:02 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -24,10 +24,11 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 ### Posts
 
-> 57 posts found
+> 58 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Chestertons Inc.`](https://google.com/search?q=Chestertons+Inc.) | 10/01/2023 |  |
 | [`Thor Specialties, Inc.`](https://google.com/search?q=Thor+Specialties%2C+Inc.) | 10/01/2023 |  |
 | [`Shelco`](https://google.com/search?q=Shelco) | 10/01/2023 |  |
 | [`Albina Asphalt`](https://google.com/search?q=Albina+Asphalt) | 07/12/2022 |   |
@@ -89,4 +90,4 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
  --- 
 
 
-Last update : _Tuesday 10/01/2023 13.44 (UTC)_
+Last update : _Tuesday 10/01/2023 15.23 (UTC)_
