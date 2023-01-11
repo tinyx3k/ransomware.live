@@ -18,9 +18,9 @@ _``_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Hive | 🟢 | 11/01/2023 17:02 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
-| Hive | 🟢 | 11/01/2023 17:03 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 11/01/2023 17:03 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
+| Hive | 🟢 | 11/01/2023 20:45 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
+| Hive | 🟢 | 11/01/2023 20:45 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 11/01/2023 20:46 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,10 +28,11 @@ _``_
 
 ### Posts
 
-> 205 posts found
+> 206 posts found
 
 | post | date | Description
 |---|---|---|
+| [`G.W. Becker`](https://gwbcrane.com) | 11/01/2023 | ***** DATA IS COMING SOON ****  G.W. Becker, Inc. is a full service, single source, provider of choice for quality overhead crane products and solutions. Family owned since 1980, we have grown from a local overhead crane parts supplier to a recognized industry leader offering a full spectrum of overhead crane related products and services throughout North America.  Proud to be an Executive Member of the Crane Manufacturer’s Association of America, we design and manufacture custom overhead cranes, hoists and components to CMAA Specifications (Class “A” through “F”) or AIST Technical Report #6. We utilize our knowledgeable in-house team of mechanical, structural and electrical engineers to offer application assistance, custom design engineering and manufacturing of overhead crane products with our customers’ needs first and foremost.  Empowered with highly trained and qualified technicians, G.W. Becker, Inc. provides self-performing installations, inspections and field service repairs for all makes and models of overhead cranes; providing compliance with local regulations and ensuring a safe and productive material handling operation.  Staying true to our mission and values, we strive to understand our customers’ needs and deliver specialized expertise and long-term planning solutions for the unique challenges of purchasing and maintaining overhead crane and hoist equipment.  |
 | [`Consulate Health Care`](https://consulatehc.com/) | 06/01/2023 | Consulate Health Care is a leading provider of senior healthcare services, specializing in post-acute care. We offer services ranging from comprehensive short-term rehabilitation and transitional care to Alzheimer’s and dementia care. Consulate Health Care began as a small provider in Cheswick, PA with a strong focus on patient needs. We haven’t waivered from that focus, which has strengthened our family and allows us to sustain jobs in many communities, create rigorous systems of care and deploy technology that makes it easier to understand patient needs. Even as we’ve grown to provide services across 5 states, it’s the little things we do while fulfilling our mission statement of "Providing Service with Our Hearts and Hands" that really makes the difference. From visiting with our patients while they eat, to pulling up the sheets to just the right height, our employees care for patients like family, not because it’s their job, but because it’s their calling.   |
 | [`Centro Médico Virgen De La Caridad`](https://cmvcaridad.com) | 31/12/2022 | Grupo Centro Médico Virgen de la Caridad, a private health company with its own identity that was born in 1981 in the city of Cartagena, where it is headquartered, currently has 2 hospitals (Cartagena and Caravaca), 20 polyclinics, 23 physiotherapy clinics and 16 dental clinics , which are distributed throughout different parts of the Region of Murcia and Orihuela Costa. In addition, the group has 1 aesthetic clinic (Cartagena), plus 1 Ophthalmological clinic (Cartagena).  The health entity that is committed to global, close, accessible and highly qualified care, is made up of more than 600 professionals (including health, administrative and patient care personnel) whose purpose is to offer a wide range of services on a daily basis under the better and more complete health care.  All our centers are equipped with the most advanced technology, an essential support, which together with our highly qualified human capital, has made us, over almost 40 years of activity, a benchmark in private medicine in the Region of Murcia.  We welcome you to Grupo Centro Médico Virgen de la Caridad, where new challenges are not a problem but a challenge for growth and improvement in private healthcare . |
 | [`Camst Group`](https://www.camstgroup.com ) | 30/12/2022 | Camst Group is a company that specializes in restaurant services. It offers catering & banqueting, restaurant & bars, catering at the fair, and collective cater. |
@@ -241,4 +242,4 @@ _``_
  --- 
 
 
-Last update : _Wednesday 11/01/2023 20.40 (UTC)_
+Last update : _Wednesday 11/01/2023 21.23 (UTC)_
