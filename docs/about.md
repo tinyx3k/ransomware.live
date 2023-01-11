@@ -32,7 +32,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Add a [full list](allposts.md) of ransomware gang entries 
 * Add a [Change Log](CHANGELOG.md)
 * Add Pushover notification 
-* Add a [RSS Feed](rss.xml)
+* Add a [RSS Feed](https://www.ransomware.live/rss.xml)
 * Add a field `delay` in seconds for every Group locations before scraping (not mandatory)
 * And much more minor modifications
 
@@ -75,6 +75,6 @@ Ransomwatch.live is also reliant on third-party contributions. Please open a pul
 
 ## 🤩 Credits
 
-- [Josh Highet](https://github.com/joshhighet) for the original [ransomwatch](https://github.com/joshhighet/ransomwatch)project 
-- [Ransomlook](https://github.com/RansomLook/Ransomlook) for ideas of new features included in [Ransomware.live](https://www.ransomware.live)
+- [Josh Highet](https://github.com/joshhighet) for the original [ransomwatch](https://github.com/joshhighet/ransomwatch) project.
+- [Ransomlook](https://github.com/RansomLook/Ransomlook) for ideas of new features included in [Ransomware.live](https://www.ransomware.live).
 

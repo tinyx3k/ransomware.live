@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2023-01-09
 
-* Rewrite [0mega](profiles/0mega.md) parse to include description
+* Rewrite [0mega](profiles/0mega.md) parser to include description
 
 ### 2023-01-08
 
