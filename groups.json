@@ -2964,9 +2964,9 @@
                 "title": "PLAY NEWS",
                 "version": 3,
                 "slug": "http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion/",
-                "available": false,
-                "updated": "2023-01-11 15:09:43.365441",
-                "lastscrape": "2023-01-11 15:09:43.365426",
+                "available": true,
+                "updated": "2023-01-11 19:40:13.349634",
+                "lastscrape": "2023-01-11 19:40:13.349603",
                 "enabled": true
             },
             {
@@ -2974,9 +2974,9 @@
                 "title": "PLAY NEWS",
                 "version": 3,
                 "slug": "http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion/",
-                "available": false,
-                "updated": "2023-01-11 15:10:21.630826",
-                "lastscrape": "2023-01-11 15:10:21.630810",
+                "available": true,
+                "updated": "2023-01-11 19:40:44.660514",
+                "lastscrape": "2023-01-11 19:40:44.660496",
                 "enabled": true
             }
         ],
