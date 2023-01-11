@@ -20,7 +20,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lorenz/lorenz.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/lorenz/HELP_SECURITY_EVENT.html" target=_blank>#1</a>  <a href="/ransomware_notes/lorenz/lorenz.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -90,4 +90,4 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
  --- 
 
 
-Last update : _Wednesday 11/01/2023 17.36 (UTC)_
+Last update : _Wednesday 11/01/2023 19.37 (UTC)_

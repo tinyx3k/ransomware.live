@@ -12,6 +12,10 @@ _Parser : `Available`_
 | Qilin | 🟢 | 11/01/2023 17:22 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
 | Qilin blog | 🟢 | 11/01/2023 17:22 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/qilin/DtMXQFOCos-RECOVER-README.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 11 posts found
@@ -33,4 +37,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 11/01/2023 17.36 (UTC)_
+Last update : _Wednesday 11/01/2023 19.37 (UTC)_

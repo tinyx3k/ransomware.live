@@ -19,6 +19,10 @@ _Parser : `Available`_
 |---|---|---|---|---|
 | BianLian - Home | 🟢 | 11/01/2023 16:51 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/bianlian/Look at this instruction.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 92 posts found
@@ -121,4 +125,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 11/01/2023 17.36 (UTC)_
+Last update : _Wednesday 11/01/2023 19.37 (UTC)_

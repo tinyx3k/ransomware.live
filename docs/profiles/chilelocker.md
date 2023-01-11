@@ -10,6 +10,10 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | Login | 🟢 | 11/01/2023 16:55 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/chilelocker/readme_for_unlock.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > no post found
@@ -18,4 +22,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Wednesday 11/01/2023 17.36 (UTC)_
+Last update : _Wednesday 11/01/2023 19.37 (UTC)_

@@ -861,6 +861,10 @@ _`captcha prevents indexing`_
 |---|---|---|---|---|
 | BianLian - Home | 🟢 | 11/01/2023 16:51 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/bianlian/Look at this instruction.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 92 posts found
@@ -1463,6 +1467,10 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Login | 🟢 | 11/01/2023 16:55 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
+
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/chilelocker/readme_for_unlock.txt" target=_blank>#1</a> 
 
 ### Posts
 
@@ -4946,7 +4954,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/lorenz/lorenz.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/lorenz/HELP_SECURITY_EVENT.html" target=_blank>#1</a>  <a href="/ransomware_notes/lorenz/lorenz.txt" target=_blank>#2</a> 
 
 ### Posts
 
@@ -5114,7 +5122,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 11/01/2023 17:17 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 11/01/2023 19:34 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -5218,7 +5226,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/maze/maze.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/maze/DECRYPT-FILES.txt" target=_blank>#1</a> 
 
 ### Posts
 
@@ -6315,6 +6323,10 @@ _`aka pwndlocker`_
 | Qilin | 🟢 | 11/01/2023 17:22 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
 | Qilin blog | 🟢 | 11/01/2023 17:22 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/qilin/DtMXQFOCos-RECOVER-README.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 11 posts found
@@ -6723,8 +6735,8 @@ _`shut down & offering a decryptor`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🔴 | 11/01/2023 15:15 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
-| Ransomhouse © | 🔴 | 09/01/2023 19:28 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
+| none | 🟢 | 11/01/2023 19:27 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| Ransomhouse © | 🟢 | 11/01/2023 19:29 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
 ### Ransom note
@@ -7885,4 +7897,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 11/01/2023 17.36 (UTC)_
+Last update : _Wednesday 11/01/2023 19.37 (UTC)_

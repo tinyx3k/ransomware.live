@@ -18,7 +18,7 @@ _Parser : `Not available`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/maze/maze.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/maze/DECRYPT-FILES.txt" target=_blank>#1</a> 
 
 ### Posts
 
@@ -28,4 +28,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Wednesday 11/01/2023 17.36 (UTC)_
+Last update : _Wednesday 11/01/2023 19.37 (UTC)_
