@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-11 | [`Liebra Permana`](https://google.com/search?q=Liebra+Permana) | [alphv](profiles.md?id=alphv) |
+| 2023-01-11 | [`TIME TECHNOPLAST LIMITED`](https://google.com/search?q=TIME+TECHNOPLAST+LIMITED) | [alphv](profiles.md?id=alphv) |
 | 2023-01-11 | [`circlevillecourt.com`](https://google.com/search?q=circlevillecourt.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-11 | [`ADIVA CO. LTD`](https://google.com/search?q=ADIVA+CO.+LTD) | [mallox](profiles.md?id=mallox) |
 | 2023-01-10 | [`datair.com`](https://google.com/search?q=datair.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2022-12-22 | [`SWIRESPO.COM`](https://google.com/search?q=SWIRESPO.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`EDAN.COM`](https://google.com/search?q=EDAN.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`MCH-GROUP.COM`](https://google.com/search?q=MCH-GROUP.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SLIMSTOCK.COM`](https://google.com/search?q=SLIMSTOCK.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`QUANTUMGROUP.COM`](https://google.com/search?q=QUANTUMGROUP.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Wednesday 11/01/2023 15.25 (UTC)_
+Last update : _Wednesday 11/01/2023 17.36 (UTC)_

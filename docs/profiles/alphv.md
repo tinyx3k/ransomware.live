@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 11/01/2023 14:40 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 11/01/2023 16:49 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 07/01/2023 20:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,12 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 250 posts found
+> 252 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Liebra Permana`](https://www.liebrapermana.com) | 11/01/2023 | Liebra Permana PT was founded in 1999. The company's line of business includes the manufacturing of womens and childrens underwear. |
+| [`TIME TECHNOPLAST LIMITED`](https://www.timetechnoplast.com) | 11/01/2023 | Time Technoplast engages in manufacturing and suppling of polymer packaging products. Time Technoplast was founded in 1992. |
 | [`Koo Wee Rup Secondary College`](https://www.kwrsc.vic.edu.au/) | 08/01/2023 | Koo Wee Rup Secondary College prides itself on building guided pathways with a wholistic approach around student centred learning. KWRSC is a Year 7 to 12 inclusive college with just over 1100 students on one campus. |
 | [`Fruttagel`](https://www.fruttagel.it) | 07/01/2023 | Fruttagel was founded in 1994 when the Alfonsine plant in Ravenna was established. It combines the legacies of two important players working together in the field: Ala Frutta, a cooperative founded in the early 1960s, specializing in the processing of fresh fruit |
 | [`Buffco Production, Inc.`](https://www.buffcoproduction.com) | 07/01/2023 | Buffco Production, Inc. is a native East Texas exploration and production company with more than 35 years of experience in the oil and natural gas industry. Buffco strives to drill and produce oil and gas efficiently and keep its owners informed while maintaining industry standards. Buffco understands the continuously evolving practices and technologies in the oil and gas industry, and has significant expertise with combatting shifting commodities markets. Buffco can navigate current producing properties, while methodically evaluating new prospects and strategically choosing those that fit current climates. Buffco’s adaptability and expansive knowledge base of conventional and unconventional oil and gas development are the reasons why it has had scalable growth over decades past. |
@@ -288,4 +290,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Wednesday 11/01/2023 15.25 (UTC)_
+Last update : _Wednesday 11/01/2023 17.36 (UTC)_
