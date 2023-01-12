@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`lidestrifoodanddrink.com`](https://google.com/search?q=lidestrifoodanddrink.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2022-12-22 | [`ALTERNATIVETECHS.COM`](https://google.com/search?q=ALTERNATIVETECHS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`DRIVEANDSHINE.COM`](https://google.com/search?q=DRIVEANDSHINE.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`DRC-LAW.COM`](https://google.com/search?q=DRC-LAW.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ALEXIM.COM`](https://google.com/search?q=ALEXIM.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`CAPCARPET.COM`](https://google.com/search?q=CAPCARPET.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 12/01/2023 11.30 (UTC)_
+Last update : _Thursday 12/01/2023 12.54 (UTC)_
