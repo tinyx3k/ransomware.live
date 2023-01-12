@@ -1,6 +1,6 @@
 
 
-_All `4887` posts_
+_All `4891` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,10 @@ _All `4887` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-12 | [`lidestrifoodanddrink.com`](https://google.com/search?q=lidestrifoodanddrink.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-12 | [`versteden.com`](https://google.com/search?q=versteden.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`IMI Hydronic Engineering`](https://google.com/search?q=IMI+Hydronic+Engineering) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-01-12 | [`Physician Partners of America`](https://google.com/search?q=Physician+Partners+of+America) | [snatch](profiles.md?id=snatch) |
 | 2023-01-11 | [`G.W. Becker`](https://google.com/search?q=G.W.+Becker) | [hive](profiles.md?id=hive) |
@@ -4897,4 +4901,4 @@ _All `4887` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 12/01/2023 09.23 (UTC)_
+Last update : _Thursday 12/01/2023 11.30 (UTC)_
