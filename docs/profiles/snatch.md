@@ -18,7 +18,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🔴 | 12/01/2023 02:31 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 12/01/2023 05:16 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
 | News | 🔴 | 13/12/2022 10:48 | `http://snatch.press` | <a href="https://www.ransomware.live/screenshots/snatch-press.png" target=_blank>📸</a> | 
 
 
@@ -27,10 +27,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 66 posts found
+> 67 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Physician Partners of America`](https://google.com/search?q=Physician+Partners+of+America) | 12/01/2023 | Founded in 2013 by a physician-turned-entrepreneur, Physician Partners of America aims to offer patients a safe, seamless healthcare experience and doctors who can totally focus on patients. Physician Partners of America offers pain management, orthopedics, minimally invasive laser spine surgery, mental health counseling. We are |
 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | 28/12/2022 | Il CTG è un' associazione nazionale senza scopo di lucro che promuove e realizza un progetto educativo e di formazione integrale della persona, attraverso momenti di crescita, di impegno e di aggregazione sociale, ispirandosi alla concezione cristiana dell'uomo e della vita, nel servizio alle persone |
 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | 28/12/2022 | We showcase your brands worldwide – with precision and great attention to detail. Therefore, you will find us in major cities around the world. |
 | [`Square Yards`](https://google.com/search?q=Square+Yards) | 28/12/2022 | Square Yards is India’s largest integrated platform for Real Estate & Mortgages and one of the fastest growing Proptech platform in UAE, Rest of Middle East, Australia & Canada. Square Yards platform offers an integrated consumer experience & covers the full real-estate journey from search |
@@ -101,4 +102,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 12/01/2023 03.33 (UTC)_
+Last update : _Thursday 12/01/2023 05.23 (UTC)_
