@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-12 | [`Chinery and Douglas`](https://google.com/search?q=Chinery+and+Douglas) | [royal](profiles.md?id=royal) |
+| 2023-01-12 | [`T A Supply`](https://google.com/search?q=T+A+Supply) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`Ruhrpumpen`](https://google.com/search?q=Ruhrpumpen) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2022-12-22 | [`ZISSERFAMILYLAW.COM`](https://google.com/search?q=ZISSERFAMILYLAW.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SA1SOLUTIONS.COM`](https://google.com/search?q=SA1SOLUTIONS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`OAKDELL.COM`](https://google.com/search?q=OAKDELL.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ALTERNATIVETECHS.COM`](https://google.com/search?q=ALTERNATIVETECHS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`DRIVEANDSHINE.COM`](https://google.com/search?q=DRIVEANDSHINE.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 12/01/2023 17.49 (UTC)_
+Last update : _Thursday 12/01/2023 19.26 (UTC)_
