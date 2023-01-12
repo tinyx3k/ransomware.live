@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🔴 | 12/01/2023 07:07 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🔴 | 12/01/2023 07:08 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 12/01/2023 15:15 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 12/01/2023 15:15 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 111 posts found
+> 112 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Ruhrpumpen`](http://www.ruhrpumpen.com) | 12/01/2023 | PROOF PACK - Passports \ Finance \ Internal documents |
 | [`LEK / HABO`](https://lekhabo.nl) | 06/01/2023 | Lek/Habo realiseert al tientallen jaren met succes innovatieve en toonaangevende energie- en installatietechnische projecten in binnen- en buitenland.Onze vestigingen in Ter Aar (voorheen Lek Installatietechniek) en in Bodegraven (voorheen Habo) hebben hun krachten gebundeld om nog beter complexe turnkey projecten te ontwerpen, produceren, installeren en onderhouden.Met Lek/Habo bouwen we samen aan een duurzame toekomst. |
 | [`Bevolution Group`](http://bevolutiongroup.com) | 06/01/2023 | Food & Beverage · Illinois, United States﻿Bevolution Group produces shelf-stable and frozen beverage products, and cocktail mixes. |
 | [`DSBJ DATA LEAK`](http://www.dsbj.com/) | 05/01/2023 | Suzhou Dongshan Precision Manufacturing Co., Ltd. produces and sells critical components for IoT intelligence, telecommunication equipment, metal precision,8 Fenghuangshan Rd, Suzhou, Jiangsu, 215107, China+86 51266281215Suzhou Dongshan Precision Manufacturing Co LtdFrom specialized production to outstanding accomplishments, we are always advancing forwards. From a small factory to an international enterprise, our roots spread wider with each passing day. From insightful vision to leading the future, we continue to build on our legacy.DSBJ is a leading worldwide technology partner providing critical components for IoT intelligence, with a special focus on Telecommunication Equipment and Metal Precision, LED technologies and Interconnect solutions. With a vision focused on technological breakthroughs, we constantly bring new innovative solutions, high-tech products and high-quality services that propel our customers to success.DSBJ takes surefooted steps forward and takes them quickly. In April 2010, 30 years after our inception, we were listed on the Shenzhen Stock Exchange. We?ve continually evolved over three decades, perpetually innovating and strategically transforming ourselves time and time again. From a small manufacturing company to a prestigious global player, our successful journey is testament to our vision, innovative spirit and determined belief in technology. As we embrace future challenges, we will remain steadfast in our pursuit to benefit both stakeholders and the wider society.Technological innovation is in our DNA and is the cornerstone of DSBJ. With cutting-edge production facilities and advanced technology, we constantly deliver state-of-the-art products and quality services. Our global network of research bases and offices keeps us abreast of the latest tech breakthroughs, so we can effectively allocate resources wherever they're needed. With an established presence in mainland China, Taiwan, South Korea, Finland, India, Sweden, Germany, Poland, Estonia, the US and Mexico, we meet customer needs quickly and competently, providing sales locally in addition to customer service and warehousing capabilities.While deeply proud of our past, we never lose focus of the future. We believe that each and every step is a starting point. Through investments, acquisitions and new facilities, we?ve streamlined our business and expanded frontiers. In 2016 we boosted our revenue by acquiring NASDAQ-listed MFLEX, a top 5 player globally in the FPC industry, operating from the US. In July 2018 we acquired another world-renowned company from the US: PCB solution specialists Multek.At DSBJ, we embrace every opportunity while keeping up to speed with the changing landscape. We consistently explore new avenues and seek next-generation breakthroughs. Looking forward, we have the unwavering determination to deliver critical components and innovative solutions that advance IoT development and build a smarter, more connected world. DSBJ, building a better-connected world for tomorrow. |
@@ -136,4 +137,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 12/01/2023 13.45 (UTC)_
+Last update : _Thursday 12/01/2023 15.24 (UTC)_

@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-12 | [`Ruhrpumpen`](https://google.com/search?q=Ruhrpumpen) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`OAKDELL.COM`](https://google.com/search?q=OAKDELL.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`ALTERNATIVETECHS.COM`](https://google.com/search?q=ALTERNATIVETECHS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`DRIVEANDSHINE.COM`](https://google.com/search?q=DRIVEANDSHINE.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`DRC-LAW.COM`](https://google.com/search?q=DRC-LAW.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Thursday 12/01/2023 13.45 (UTC)_
+Last update : _Thursday 12/01/2023 15.24 (UTC)_

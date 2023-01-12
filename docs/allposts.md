@@ -1,6 +1,6 @@
 
 
-_All `4893` posts_
+_All `4894` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4893` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-12 | [`Ruhrpumpen`](https://google.com/search?q=Ruhrpumpen) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4903,4 +4904,4 @@ _All `4893` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 12/01/2023 13.45 (UTC)_
+Last update : _Thursday 12/01/2023 15.24 (UTC)_
