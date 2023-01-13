@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-13 | [`Fu Yu Corporation`](https://google.com/search?q=Fu+Yu+Corporation) | [alphv](profiles.md?id=alphv) |
+| 2023-01-13 | [`Air Comm Corporation`](https://google.com/search?q=Air+Comm+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-01-13 | [`Trans Maldivian Airways`](https://google.com/search?q=Trans+Maldivian+Airways) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-01-12 | [`Chinery and Douglas`](https://google.com/search?q=Chinery+and+Douglas) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`T A Supply`](https://google.com/search?q=T+A+Supply) | [royal](profiles.md?id=royal) |
@@ -203,7 +205,5 @@
 | 2022-12-22 | [`FAIR-RITE.COM`](https://google.com/search?q=FAIR-RITE.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`JDAVIDTAXLAW.COM`](https://google.com/search?q=JDAVIDTAXLAW.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`THENOC.NET`](https://google.com/search?q=THENOC.NET) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ZISSERFAMILYLAW.COM`](https://google.com/search?q=ZISSERFAMILYLAW.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SA1SOLUTIONS.COM`](https://google.com/search?q=SA1SOLUTIONS.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Friday 13/01/2023 03.37 (UTC)_
+Last update : _Friday 13/01/2023 05.24 (UTC)_

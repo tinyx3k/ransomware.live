@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 12/01/2023 18:35 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 13/01/2023 04:33 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 07/01/2023 20:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,12 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 252 posts found
+> 254 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Fu Yu Corporation`](https://fuyucorp.com) | 13/01/2023 | Fu Yu Corporation Limited (“Fu Yu”) provides vertically-integrated services for the manufacture of precision plastic components and the fabrication of precision moulds and dies.  ​  Since its inception in 1978, Fu Yu has grown to become one of the largest manufacturers of high precision plastic parts and moulds in Asia. Today, the Group has established a strong presence in the region with manufacturing facilities located in Singapore, Malaysia and China.  ​  Leveraging on over 40 years of operating history, Fu Yu has built a broad and diversified customer base of blue chip companies in the printing and imaging, networking and communications, consumer, medical, automotive and power tool sectors. |
+| [`Air Comm Corporation`](https://aircommcorp.com) | 13/01/2023 | Air Comm Corporation (ACC) was founded in 1987 to meet the needs of helicopter operators seeking solutions to problems commonly found in factory-installed environmental control systems. Today, ACC is the industry leader in the development and manufacture of state-of-the-art bleed air heaters and vapor-cycle air conditioners for turbine helicopters.      ACC products and technical support set the industry standard; leading edge design, operating efficiency and factory service optimize environmental control and minimize maintenance expense.     Proven performance worldwide     Comprehensive, user-friendly installation guides     ACC installation technicians available for training & support worldwide |
 | [`Liebra Permana`](https://www.liebrapermana.com) | 11/01/2023 | Liebra Permana PT was founded in 1999. The company's line of business includes the manufacturing of womens and childrens underwear. |
 | [`TIME TECHNOPLAST LIMITED`](https://www.timetechnoplast.com) | 11/01/2023 | Time Technoplast engages in manufacturing and suppling of polymer packaging products. Time Technoplast was founded in 1992. |
 | [`Koo Wee Rup Secondary College`](https://www.kwrsc.vic.edu.au/) | 08/01/2023 | Koo Wee Rup Secondary College prides itself on building guided pathways with a wholistic approach around student centred learning. KWRSC is a Year 7 to 12 inclusive college with just over 1100 students on one campus. |
@@ -290,4 +292,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Friday 13/01/2023 03.37 (UTC)_
+Last update : _Friday 13/01/2023 05.24 (UTC)_

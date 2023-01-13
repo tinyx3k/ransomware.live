@@ -1,6 +1,6 @@
 
 
-_All `4897` posts_
+_All `4899` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `4897` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-13 | [`Fu Yu Corporation`](https://google.com/search?q=Fu+Yu+Corporation) | [alphv](profiles.md?id=alphv) |
+| 2023-01-13 | [`Air Comm Corporation`](https://google.com/search?q=Air+Comm+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-01-13 | [`Trans Maldivian Airways`](https://google.com/search?q=Trans+Maldivian+Airways) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-01-12 | [`Chinery and Douglas`](https://google.com/search?q=Chinery+and+Douglas) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`T A Supply`](https://google.com/search?q=T+A+Supply) | [royal](profiles.md?id=royal) |
@@ -4907,4 +4909,4 @@ _All `4897` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 13/01/2023 03.37 (UTC)_
+Last update : _Friday 13/01/2023 05.24 (UTC)_
