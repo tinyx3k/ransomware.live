@@ -1506,7 +1506,7 @@ _`claim to donate 80% of earnings to charity`_
 
 | post | date | Description
 |---|---|---|
-| [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 |  |
+| [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |
 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | 05/01/2023 |  |
 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | 04/01/2023 |  |
 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 |  |
@@ -6379,7 +6379,7 @@ _`login page, no posts`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/qlocker.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/!!!READ_ME.txt" target=_blank>#1</a> 
 
 ### Posts
 
@@ -7916,4 +7916,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 13/01/2023 17.36 (UTC)_
+Last update : _Friday 13/01/2023 19.09 (UTC)_

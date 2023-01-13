@@ -27,7 +27,7 @@ _Parser : `Available`_
 
 | post | date | Description
 |---|---|---|
-| [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 |  |
+| [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |
 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | 05/01/2023 |  |
 | [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | 04/01/2023 |  |
 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 |  |
@@ -157,4 +157,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 13/01/2023 17.36 (UTC)_
+Last update : _Friday 13/01/2023 19.09 (UTC)_

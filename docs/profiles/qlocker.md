@@ -21,7 +21,7 @@ _`login page, no posts`_
 
 
 ### Ransom note
-* 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/qlocker.txt" target=_blank>#1</a> 
+* 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/!!!READ_ME.txt" target=_blank>#1</a> 
 
 ### Posts
 
@@ -31,4 +31,4 @@ _`login page, no posts`_
  --- 
 
 
-Last update : _Friday 13/01/2023 17.36 (UTC)_
+Last update : _Friday 13/01/2023 19.09 (UTC)_
