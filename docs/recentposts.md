@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-13 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | [clop](profiles.md?id=clop) |
 | 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-13 | [`Fu Yu Corporation`](https://google.com/search?q=Fu+Yu+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-01-13 | [`Air Comm Corporation`](https://google.com/search?q=Air+Comm+Corporation) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`AFJCONSULTING.NET`](https://google.com/search?q=AFJCONSULTING.NET) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`ORBITELECTRIC.COM`](https://google.com/search?q=ORBITELECTRIC.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`FAIR-RITE.COM`](https://google.com/search?q=FAIR-RITE.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`JDAVIDTAXLAW.COM`](https://google.com/search?q=JDAVIDTAXLAW.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Friday 13/01/2023 13.40 (UTC)_
+Last update : _Friday 13/01/2023 15.18 (UTC)_
