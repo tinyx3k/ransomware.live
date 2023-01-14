@@ -5,7 +5,7 @@ parses the source html for each group where a parser exists & contributed to the
 always remember..... https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454
 '''
 import os
-import json,re, html, time
+import json,re, html, time, requests, random
 from sys import platform
 from datetime import datetime
 from bs4 import BeautifulSoup # type: ignore
@@ -93,6 +93,36 @@ def existingpost(post_title, group_name):
     dbglog('post does not exist: ' + post_title)
     return False
 
+def gettitlefromURL(website_url):
+    if not website_url.startswith("www"):
+                website_url = "www." + website_url
+    # check if the post_title starts with "http" or "https"
+    if not website_url.startswith("http"):
+        website_url = "https://" + website_url
+    # retrieve the title of the website from its URL
+    try:
+        with open("asset/useragent.txt", "r") as f:
+            user_agents = f.readlines()
+        # Strip newlines from the user agents
+        user_agents = [ua.strip() for ua in user_agents]
+        # Pick a random user agent
+        headers = {'User-Agent': random.choice(user_agents)}
+        # Make the request
+        page = requests.get(website_url, headers=headers, timeout=10)
+        # page = requests.get(website_url,timeout=10)
+        soup = BeautifulSoup(page.content, 'html.parser')
+        website_title = soup.find('title').get_text()
+        website_title = re.sub(r'[\r\n\t]', '', website_title).replace('|', '-')
+        # add the title of the website as the description
+        description = website_title
+    except requests.exceptions.Timeout:
+        stdlog('Website did not respond, timeout')
+        description = ""
+    except:
+        stdlog('Website did not respond')
+        description = ""
+    return description
+
 def appender(post_title, group_name, description="", website=""):
     '''
     append a new post to posts.json
@@ -106,6 +136,8 @@ def appender(post_title, group_name, description="", website=""):
     post_title=html.unescape(post_title)
     if existingpost(post_title, group_name) is False:
         posts = openjson('posts.json')
+        if description == "_URL_":
+            description = gettitlefromURL(post_title)
         newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website)
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
@@ -125,6 +157,7 @@ def appender(post_title, group_name, description="", website=""):
         #    totwitter(newpost['post_title'], newpost['group_name'])
         #if os.environ.get('MS_TEAMS_WEBHOOK') is not None:
         #    toteams(newpost['post_title'], newpost['group_name'])
+        # Pushover notification 
         try: 
             stdlog('Send notification')
             API_KEY = os.getenv('PUSH_API')
@@ -145,6 +178,7 @@ def appender(post_title, group_name, description="", website=""):
             conn.getresponse()
         except: 
             errlog('impossible to push notification')
+        ### Screenshot 
         groups = openjson('groups.json')
         for group in groups:
             if group["name"] == group_name:
@@ -1101,7 +1135,7 @@ def clop():
                 for item in div.contents :
                     if item in blacklist:
                         continue
-                    appender(item, 'clop')
+                    appender(item, 'clop','_URL_')
 
 def nokoyawa():
     stdlog('parser: ' + 'nokoyawa')
