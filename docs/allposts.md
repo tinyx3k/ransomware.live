@@ -1,6 +1,6 @@
 
 
-_All `4902` posts_
+_All `4905` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `4902` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-14 | [`Hills Salvage and Recycling`](https://google.com/search?q=Hills+Salvage+and+Recycling) | [royal](profiles.md?id=royal) |
+| 2023-01-14 | [`Samuels and Son Seafood`](https://google.com/search?q=Samuels+and+Son+Seafood) | [royal](profiles.md?id=royal) |
 | 2023-01-14 | [`K2 Sports`](https://google.com/search?q=K2+Sports) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-13 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | [clop](profiles.md?id=clop) |
 | 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4912,4 +4915,4 @@ _All `4902` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 14/01/2023 15.19 (UTC)_
+Last update : _Saturday 14/01/2023 17.26 (UTC)_

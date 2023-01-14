@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-14 | [`Hills Salvage and Recycling`](https://google.com/search?q=Hills+Salvage+and+Recycling) | [royal](profiles.md?id=royal) |
+| 2023-01-14 | [`Samuels and Son Seafood`](https://google.com/search?q=Samuels+and+Son+Seafood) | [royal](profiles.md?id=royal) |
 | 2023-01-14 | [`K2 Sports`](https://google.com/search?q=K2+Sports) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-13 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | [clop](profiles.md?id=clop) |
 | 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](profiles.md?id=lockbit3) |
@@ -202,8 +205,5 @@
 | 2022-12-22 | [`FTSUMNERK12.COM`](https://google.com/search?q=FTSUMNERK12.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`NEWCOURSECC.COM`](https://google.com/search?q=NEWCOURSECC.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PERBIT.COM`](https://google.com/search?q=PERBIT.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`888VOIP.COM`](https://google.com/search?q=888VOIP.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`AFJCONSULTING.NET`](https://google.com/search?q=AFJCONSULTING.NET) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ORBITELECTRIC.COM`](https://google.com/search?q=ORBITELECTRIC.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 14/01/2023 15.19 (UTC)_
+Last update : _Saturday 14/01/2023 17.26 (UTC)_

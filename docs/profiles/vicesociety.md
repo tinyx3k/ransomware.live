@@ -19,11 +19,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 14/01/2023 15:14 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 14/01/2023 17:19 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 14/01/2023 15:15 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 14/01/2023 15:15 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 14/01/2023 15:17 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 14/01/2023 17:20 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 14/01/2023 17:21 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 14/01/2023 17:22 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -31,10 +31,11 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 154 posts found
+> 155 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | 14/01/2023 | We offer a comprehensive array of associate degrees, career and technical training, and adult continuing education in delivery formats that address virtually every need. Our tuition rate is among the lowest in the country. |
 | [`Fire Rescue Victoria`](https://google.com/search?q=Fire+Rescue+Victoria) | 10/01/2023 | Fire Rescue Victoria is a fire and rescue service in the state of Victoria, Australia, that provides firefighting, rescue, HAZMAT and Emergency Medical Response services in areas of metropolitan Melbourne and major regional centres throughout Victoria. |
 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | 07/01/2023 | Duty Free Philippines - In the service of Philippine Tourism. As a government corporation, DFPC is tasked to operate the duty-and tax-free merchandising system in the Philippines to augment the service facilities for tourists and to generate foreign exchange and revenue for the government. |
 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | 07/01/2023 | The aim of the Swift Academies is to build, strengthen and expand our Trust across the North of England, by incorporating good and outstanding schools into our family of academies and acting as a sponsor for other primary and secondary academies, aiming to help them improve their standards and performance. |
@@ -193,4 +194,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Saturday 14/01/2023 15.19 (UTC)_
+Last update : _Saturday 14/01/2023 17.26 (UTC)_
