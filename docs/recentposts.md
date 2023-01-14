@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-14 | [`Holovis`](https://google.com/search?q=Holovis) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-14 | [`Hills Salvage and Recycling`](https://google.com/search?q=Hills+Salvage+and+Recycling) | [royal](profiles.md?id=royal) |
 | 2023-01-14 | [`Samuels and Son Seafood`](https://google.com/search?q=Samuels+and+Son+Seafood) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`ENSSECURITY.COM`](https://google.com/search?q=ENSSECURITY.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`FTSUMNERK12.COM`](https://google.com/search?q=FTSUMNERK12.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`NEWCOURSECC.COM`](https://google.com/search?q=NEWCOURSECC.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`PERBIT.COM`](https://google.com/search?q=PERBIT.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Saturday 14/01/2023 19.24 (UTC)_
+Last update : _Saturday 14/01/2023 21.33 (UTC)_

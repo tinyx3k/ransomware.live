@@ -12,8 +12,8 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🟢 | 14/01/2023 19:14 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
-| Ransomhouse © | 🔴 | 12/01/2023 08:23 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
+| none | 🟢 | 14/01/2023 21:30 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| Ransomhouse © | 🟢 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
 ### Ransom note
@@ -21,10 +21,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 21 posts found
+> 22 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Holovis`](https://www.holovis.com/) | 14/01/2023 | Holovis design and install world-class experiential solutions for global themed entertainment, visitor attractions and enterprise clients. |
 | [`Trans Maldivian Airways`](https://www.transmaldivian.com/) | 13/01/2023 | Trans Maldivian Airways is your getaway to the stunning Maldives. With the world’s largest seaplane fleet, Trans Maldivian Airways takes you from Velana International Airport in Malé to your island holiday destination. Life is about the journey, and this will likely be the most scenic one in your life. Trans Maldivian Airways currently offers transfer services to more than 80 Maldives resorts, flying over 1,000,000 passengers per year to their holiday hideaways. |
 | [`IMI Hydronic Engineering`](https://www.imi-hydronic.com/) | 12/01/2023 | IMI plc is a global engineering group that focuses on precision fluid engineering. IMI plc incorporates three divisions, each working to make its vision come to life – IMI Hydronic, Norgren and IMI Critical. |
 | [`Republic of Vanuatu`](https://www.gov.vu/) | 24/12/2022 | We are a leading multinational health group committed to keeping communities healthy through our own Comprehensive Health Model, which is based on prevention, identification and management of health risks, and control and management of the disease and the dependency. |
@@ -50,4 +51,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 14/01/2023 19.24 (UTC)_
+Last update : _Saturday 14/01/2023 21.33 (UTC)_
