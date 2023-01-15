@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🔴 | 15/01/2023 08:39 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 15/01/2023 14:36 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,8 +28,8 @@ _Parser : `Available`_
 | post | date | Description
 |---|---|---|
 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |
-| [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | 05/01/2023 | CGM, LLC |
-| [`UNISALLE.EDU.CO`](https://UNISALLE.EDU.CO) | 04/01/2023 |  |
+| [`CGMLLC.NET`](https://www.CGMLLC.NET) | 05/01/2023 | CGM, LLC |
+| [`UNISALLE.EDU.CO`](https://www.lasalle.edu.co/) | 04/01/2023 | Universidad de La Salle |
 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 | Custom Software Development Company - Softeq |
 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  |
 | [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  |
@@ -157,4 +157,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 15/01/2023 14.36 (UTC)_
+Last update : _Sunday 15/01/2023 15.21 (UTC)_
