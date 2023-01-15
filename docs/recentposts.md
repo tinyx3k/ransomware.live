@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](profiles.md?id=play) |
 | 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](profiles.md?id=mallox) |
 | 2023-01-14 | [`matrixschools.edu.my`](https://google.com/search?q=matrixschools.edu.my) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-14 | [`TIMco`](https://google.com/search?q=TIMco) | [vicesociety](profiles.md?id=vicesociety) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`SPINNEYS.COM`](https://google.com/search?q=SPINNEYS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`PRICEDEX.COM`](https://google.com/search?q=PRICEDEX.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`FERRAN-SERVICES.COM`](https://google.com/search?q=FERRAN-SERVICES.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`LATOURNERIE-WOLFROM.COM`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Sunday 15/01/2023 21.24 (UTC)_
+Last update : _Sunday 15/01/2023 23.20 (UTC)_
