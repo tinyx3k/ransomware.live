@@ -1,0 +1,3 @@
+
+
+ ![](howitworks.png)

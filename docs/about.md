@@ -47,6 +47,8 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Generate the website pages in markdown `python3 ransomwatch.py markdown` 
 * Publish the website with [docsify](https://docsify.js.org/) on Github Pages 
 
+Check [here](howitworks.md) for more details. 
+
 ## 🤖 Fonctionnement (French only 🇫🇷)
 
 Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon blog : [julien.io](https://julien.io/ransomware-live/). 
