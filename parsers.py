@@ -1278,7 +1278,9 @@ def blackbyte():
                 for div in divs_name:
                     title = div.find('h1').text.strip()
                     description = div.find('p').text.strip().replace("\n", "")
-                    appender(title, 'blackbyte', description)
+                    website = div.find('a')
+                    website = website.attrs['href']
+                    appender(title, 'blackbyte', description,website)
                 file.close()
         except:
             errlog('blackbyte: ' + 'parsing fail')
