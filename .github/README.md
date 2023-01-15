@@ -46,19 +46,19 @@ curl -sL https://raw.githubusercontent.com/jmousqueton/ransomware.live/main/grou
 
 The [torproxy](https://github.com/jmousqueton/ransomware.live/torproxy) from [**jmousqueton/ransomware.live/torproxy** registry](https://github.com/jmousqueton/jmousqueton/pkgs/container/ransomwatch%2Ftorproxy) is introduced into the github actions workflow as a [service container](https://docs.github.com/en/actions/guides/about-service-containers) to allow onion routing within [ransomwatch.yml](https://github.com/JMousqueton/ransomware.live/blob/main/.github/workflows/ransomwatch.yml)
 
-Where possible [psf/requests](https://github.com/psf/requests) is used to fetch source html. if a javascript engine is required to render the dom [mozilla/geckodriver](https://github.com/mozilla/geckodriver) and [seleniumhq/selenium](https://github.com/SeleniumHQ/selenium) are invoked.
-
 The frontend is ultimatley markdown, generated with [markdown.py](https://github.com/jmousqueton/ransomware.live/blob/main/markdown.py) and served with [docsifyjs/docsify](https://github.com/docsifyjs/docsify) thanks to [pages.github.com](https://pages.github.com)
 
 Any graphs or visualisations are generated with [plotting.py](https://github.com/jmousqueton/ransomware.live/blob/main/plotting.py) with the help of [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
 
-_Post indexing is done with a mix of `grep`, `awk` and `sed` within [parsers.py](https://github.com/jmousqueton/ransomware.live/blob/main/parsers.py) - it's brittle and like any  ̴̭́H̶̤̓T̸̙̅M̶͇̾L̷͑ͅ ̴̙̏p̸̡͆a̷̛̦r̵̬̿s̴̙͛ĩ̴̺n̸̔͜g̸̘̈, has a limited lifetime._
+_Post indexing is done with a mix of [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) and command line with `grep`, `awk` and `sed` within [parsers.py](https://github.com/jmousqueton/ransomware.live/blob/main/parsers.py)._
 
 [`groups.json`](https://github.com/jmousqueton/ransomware.live/blob/main/groups.json) contains hosts, nodes, relays and mirrors for a tracked group or actor
 
 [`posts.json`](https://github.com/jmousqueton/ransomware.live/blob/main/posts.json) contains parsed posts, noted by their discovery time and accountable group
 
 [Ransomware.live](https::/www.ransomware.live) uses Ransomware Note from [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes)
+
+[Ransomware.live](https::/www.ransomware.live) uses Ransomware group description from [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
 
 ## Analysis tools
 
@@ -87,19 +87,19 @@ _manage the groups within [groups.json](groups.json)_
 #### Add new location (group or additional mirror)
 
 ```shell
-./ransomwatch.py add --name acmecorp --location abcdefg.onion
+python3 ransomwatch.py add --name acmecorp --location abcdefg.onion
 ```
 
 ## Scraping
 
 ```shell
-./ransomwatch.py scrape 
+python3 ransomwatch.py scrape 
 ```
 
 or to force scraping host with `enabled: False`
 
 ```shell
-./ransomwatch.py scrape --force 1
+python3 ransomwatch.py scrape --force 1
 ```
 
 
@@ -110,13 +110,19 @@ Iterate files within the `source/` directory and contribute findings to `posts.j
 > for a crude health-check across all parsers, use `assets/parsers.sh`
 
 ```shell
-./ransomwatch.py parse
+pyhton3 ransomwatch.py parse
 ```
 
 ## Generating page
 
 ```shell
-./ransomwatch.py markdown 
+python3 ransomwatch.py markdown 
+```
+
+## Generating RSS Feed based on posts.json
+
+```shell
+python3 generateRSS.py  
 ```
 
 ## Misc
