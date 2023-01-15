@@ -7,9 +7,6 @@ __pycache__
 **settings.json
 source/linkanalysis/**
 assets/tmp/**
-dev.sh
-scrape.py
-source2/*
-groups.json.ORIG
+*.ORIG
 scraper.py
-test.py
+dev*.*
