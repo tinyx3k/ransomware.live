@@ -29,7 +29,7 @@ _Parser : `Available`_
 |---|---|---|
 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |
 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | 05/01/2023 | CGM, LLC |
-| [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | 04/01/2023 |  |
+| [`UNISALLE.EDU.CO`](https://UNISALLE.EDU.CO) | 04/01/2023 |  |
 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 | Custom Software Development Company - Softeq |
 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  |
 | [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  |
@@ -157,4 +157,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 15/01/2023 13.35 (UTC)_
+Last update : _Sunday 15/01/2023 14.36 (UTC)_

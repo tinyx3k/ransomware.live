@@ -884,7 +884,7 @@ _`captcha prevents indexing`_
 | [`M*****`](https://google.com/search?q=M%2A%2A%2A%2A%2A) | 21/12/2022 | Consultancy and engineering services firm. |
 | [`M*******l***`](https://google.com/search?q=M%2A%2A%2A%2A%2A%2A%2Al%2A%2A%2A) | 21/12/2022 | Hosting, quick book hosting, sql hosting, exchange hosting. |
 | [`S****** Electronics"`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A+Electronics%22) | 21/12/2022 | Corporation manufactures and sells electronic components in Japan and internationally |
-| [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | 17/12/2022 |   |
+| [`Australian Real Estate Group Pty Ltd`](https://google.com/search?q=Australian+Real+Estate+Group+Pty+Ltd) | 17/12/2022 | Australian Real Estate Group Pty Ltd is a company focused on all things real estate. |
 | [`Spa`](https://google.com/search?q=Spa) | 16/12/2022 |   |
 | [`Company, LLC`](https://google.com/search?q=Company%2C+LLC) | 16/12/2022 |   |
 | [`Rudman`](https://google.com/search?q=Rudman) | 15/12/2022 |   |
@@ -894,7 +894,7 @@ _`captcha prevents indexing`_
 | [`Emilio Sanchez American School`](https://google.com/search?q=Emilio+Sanchez+American+School) | 15/12/2022 |   |
 | [`Aria systems`](https://google.com/search?q=Aria+systems) | 15/12/2022 |   |
 | [`CIMT College`](https://google.com/search?q=CIMT+College) | 15/12/2022 |   |
-| [`ZXP Technologies`](https://google.com/search?q=ZXP+Technologies) | 15/12/2022 |   |
+| [`ZXP Technologies`](https://google.com/search?q=ZXP+Technologies) | 15/12/2022 | ZXP Technologies provides blending, packaging and world wide distribution of premium, mineral oil based and synthetic lubricants, fuel treatments, antifreeze, automotive care, agricultural chemical and bulk powder products. |
 | [`Modular Mining Systems`](https://google.com/search?q=Modular+Mining+Systems) | 12/12/2022 |   |
 | [`BRYCON Construction`](https://google.com/search?q=BRYCON+Construction) | 12/12/2022 |   |
 | [`*****a*** law`](https://google.com/search?q=%2A%2A%2A%2A%2Aa%2A%2A%2A+law) | 12/12/2022 |   |
@@ -1509,7 +1509,7 @@ _`claim to donate 80% of earnings to charity`_
 |---|---|---|
 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |
 | [`CGMLLC.NET`](https://google.com/search?q=CGMLLC.NET) | 05/01/2023 | CGM, LLC |
-| [`UNISALLE.EDU.CO`](https://google.com/search?q=UNISALLE.EDU.CO) | 04/01/2023 |  |
+| [`UNISALLE.EDU.CO`](https://UNISALLE.EDU.CO) | 04/01/2023 |  |
 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 | Custom Software Development Company - Softeq |
 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  |
 | [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  |
@@ -7923,4 +7923,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 15/01/2023 13.35 (UTC)_
+Last update : _Sunday 15/01/2023 14.36 (UTC)_
