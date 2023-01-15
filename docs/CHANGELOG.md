@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### 2023-01-15 [🎭](https://en.wikipedia.org/wiki/Moli%C3%A8re)
 
-* Add website for [Blakbyte](profiles/blackbyte.md) ransomware's victims
+* Add website for [Blackbyte](profiles/blackbyte.md) ransomware's victims
 
 ### 2023-01-13 [👻](https://en.wikipedia.org/wiki/Friday_the_13th)
 

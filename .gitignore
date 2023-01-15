@@ -8,5 +8,4 @@ __pycache__
 source/linkanalysis/**
 assets/tmp/**
 *.ORIG
-scraper.py
 dev*.*

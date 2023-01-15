@@ -643,17 +643,6 @@ def shaoleaks():
     for post in posts:
         appender(post, 'shaoleaks')
 
-def mallox():
-    stdlog('parser: ' + 'mallox')
-    parser = '''
-    grep 'class="card-title"' source/mallox-*.html | cut -d '>' -f 2 | cut -d '<' -f 1
-    '''
-    posts = runshellcmd(parser)
-    if len(posts) == 1:
-        errlog('mallox: ' + 'parsing fail')
-    for post in posts:
-        appender(post, 'mallox')
-
 def medusa():
     stdlog('parser: ' + 'medusa')
     parser = '''
@@ -730,6 +719,5 @@ def main():
     sparta()    
     qilin()    
     shaoleaks()    
-    mallox()    
     medusa()    
     dataleak()    
