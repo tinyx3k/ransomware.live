@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`Westsächsische Hochschule Zwickau`](https://google.com/search?q=Wests%C3%A4chsische+Hochschule+Zwickau) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-16 | [`melody.com.tr`](https://google.com/search?q=melody.com.tr) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`Protecmedia`](https://google.com/search?q=Protecmedia) | [alphv](profiles.md?id=alphv) |
 | 2022-12-22 | [`Pinnacle Communications`](https://google.com/search?q=Pinnacle+Communications) | [royal](profiles.md?id=royal) |
 | 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](profiles.md?id=monti) |
-| 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 16/01/2023 19.24 (UTC)_
+Last update : _Monday 16/01/2023 21.21 (UTC)_

@@ -1,6 +1,6 @@
 
 
-_All `4919` posts_
+_All `4920` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4919` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`Westsächsische Hochschule Zwickau`](https://google.com/search?q=Wests%C3%A4chsische+Hochschule+Zwickau) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-16 | [`melody.com.tr`](https://google.com/search?q=melody.com.tr) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4929,4 +4930,4 @@ _All `4919` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 16/01/2023 19.24 (UTC)_
+Last update : _Monday 16/01/2023 21.21 (UTC)_
