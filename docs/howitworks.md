@@ -1,4 +1,4 @@
 
-# How `Ransomware.live`works 
+# How Ransomware.live works 
 
  ![](howitworks.png)

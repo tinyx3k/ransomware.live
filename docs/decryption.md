@@ -2,7 +2,7 @@
 !> IMPORTANT! Before downloading and starting the solution, read the how-to guide. Make sure you remove the malware from your system first, otherwise it will repeatedly lock your system or encrypt files. Any reliable antivirus solution can do this for you.
 
 
-*Source : [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)
+*Source : [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)*
 
 ## 777 Ransom
 
@@ -1717,4 +1717,4 @@
 
 _Source : [No More Ransom](https://www.nomoreransom.org/)_
 
-Last update : _Sunday 15/01/2023 19.53 (UTC)_
+Last update : _Monday 16/01/2023 10.50 (UTC)_

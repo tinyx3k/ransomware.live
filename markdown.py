@@ -449,7 +449,7 @@ def decryptiontools():
     writeline(decryptionpage,'!> IMPORTANT! Before downloading and starting the solution, read the how-to guide. Make sure you remove the malware from your system first, otherwise it will repeatedly lock your system or encrypt files. Any reliable antivirus solution can do this for you.')
     writeline(decryptionpage, '')
     writeline(decryptionpage, '')
-    writeline(decryptionpage, '*Source : [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)')
+    writeline(decryptionpage, '*Source : [NoMoreRansom](https://www.nomoreransom.org/en/decryption-tools.html)*')
     writeline(decryptionpage, '')
     # Définissez l'URL du fichier HTML à télécharger
     url = 'https://www.nomoreransom.org/en/decryption-tools.html'

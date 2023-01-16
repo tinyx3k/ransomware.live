@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-16 | [`Arnold Clark`](https://google.com/search?q=Arnold+Clark) | [play](profiles.md?id=play) |
 | 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](profiles.md?id=play) |
 | 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](profiles.md?id=mallox) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`SOUTH-STAFFS-WATER.CO.UK`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`APPLEXUS.COM`](https://google.com/search?q=APPLEXUS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SPINNEYS.COM`](https://google.com/search?q=SPINNEYS.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`PRICEDEX.COM`](https://google.com/search?q=PRICEDEX.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Monday 16/01/2023 07.22 (UTC)_
+Last update : _Monday 16/01/2023 10.50 (UTC)_
