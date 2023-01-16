@@ -2,10 +2,9 @@
 
 ## **bianlian**
 
+> ⚠️ A decryption tool is available on [Avast](https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/#bianlian_how_to_decrypt) site
 
 _Parser : `Available`_
-
-_`⚠️ [Avast decryption tool](https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/#bianlian_how_to_decrypt)`_
 
 ### External analysis
 - https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/
@@ -129,4 +128,4 @@ _`⚠️ [Avast decryption tool](https://decoded.avast.io/threatresearch/decrypt
  --- 
 
 
-Last update : _Monday 16/01/2023 22.48 (UTC)_
+Last update : _Monday 16/01/2023 22.57 (UTC)_

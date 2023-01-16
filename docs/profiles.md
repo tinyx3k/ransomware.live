@@ -848,8 +848,7 @@ _`captcha prevents indexing`_
 
 ## **bianlian**
 
-
-_`⚠️ [Avast decryption tool](https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/#bianlian_how_to_decrypt)`_
+> ⚠️ A decryption tool is available on [Avast](https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/#bianlian_how_to_decrypt) site
 
 ### External analysis
 - https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/
@@ -7940,4 +7939,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 16/01/2023 22.48 (UTC)_
+Last update : _Monday 16/01/2023 22.57 (UTC)_
