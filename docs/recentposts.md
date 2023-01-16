@@ -206,4 +206,4 @@
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | [clop](profiles.md?id=clop) |
 
-Last update : _Monday 16/01/2023 13.58 (UTC)_
+Last update : _Monday 16/01/2023 15.14 (UTC)_
