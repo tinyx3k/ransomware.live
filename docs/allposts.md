@@ -4922,8 +4922,4 @@ _All `4912` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-<<<<<<< HEAD
-Last update : _Monday 16/01/2023 10.50 (UTC)_
-=======
-Last update : _Monday 16/01/2023 09.31 (UTC)_
->>>>>>> 7692e0e37d383a8e7860b9f203ea045a6850385d
+Last update : _Monday 16/01/2023 10.58 (UTC)_

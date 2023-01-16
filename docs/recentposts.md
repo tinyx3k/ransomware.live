@@ -206,8 +206,4 @@
 | 2022-12-22 | [`APPLEXUS.COM`](https://google.com/search?q=APPLEXUS.COM) | [clop](profiles.md?id=clop) |
 | 2022-12-22 | [`SPINNEYS.COM`](https://google.com/search?q=SPINNEYS.COM) | [clop](profiles.md?id=clop) |
 
-<<<<<<< HEAD
-Last update : _Monday 16/01/2023 10.50 (UTC)_
-=======
-Last update : _Monday 16/01/2023 09.31 (UTC)_
->>>>>>> 7692e0e37d383a8e7860b9f203ea045a6850385d
+Last update : _Monday 16/01/2023 10.58 (UTC)_
