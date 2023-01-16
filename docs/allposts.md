@@ -1,6 +1,6 @@
 
 
-_All `4912` posts_
+_All `4914` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `4912` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-16 | [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | [mallox](profiles.md?id=mallox) |
+| 2023-01-16 | [`ak.com.sa`](https://google.com/search?q=ak.com.sa) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-16 | [`Arnold Clark`](https://google.com/search?q=Arnold+Clark) | [play](profiles.md?id=play) |
 | 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](profiles.md?id=play) |
@@ -4922,4 +4924,4 @@ _All `4912` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 16/01/2023 10.58 (UTC)_
+Last update : _Monday 16/01/2023 11.35 (UTC)_

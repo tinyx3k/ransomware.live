@@ -10,7 +10,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 16/01/2023 09:12 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 16/01/2023 11:04 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -18,10 +18,11 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 ### Posts
 
-> 11 posts found
+> 12 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | 16/01/2023 |  |
 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | 15/01/2023 | Data will be published in 24 hours Stay tuned  |
 | [`ADIVA CO. LTD`](https://google.com/search?q=ADIVA+CO.+LTD) | 11/01/2023 |  |
 | [`Ban Leong Technologies Ltd`](https://google.com/search?q=Ban+Leong+Technologies+Ltd) | 14/12/2022 |   |
@@ -37,4 +38,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Monday 16/01/2023 10.58 (UTC)_
+Last update : _Monday 16/01/2023 11.35 (UTC)_
