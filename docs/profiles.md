@@ -849,7 +849,11 @@ _`captcha prevents indexing`_
 ## **bianlian**
 
 
+_`⚠️ [Avast decryption tool](https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/#bianlian_how_to_decrypt)`_
+
 ### External analysis
+- https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/
+
 - https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/
 
 - https://blogs.blackberry.com/en/2022/10/bianlian-ransomware-encrypts-files-in-the-blink-of-an-eye
@@ -1181,10 +1185,11 @@ _`captcha prevents indexing`_
 
 ### Posts
 
-> 95 posts found
+> 96 posts found
 
 | post | date | Description
 |---|---|---|
+| [`ARC`](https://www.e-arc.com/) | 16/01/2023 | ARC is committed to delighting its customers with document imaging and graphic production services that help visual communication professionals do what they do best.We provide world-class service to more than 90,000 customers, including some of the biggest brands in the world. Our people work side-by-side with professionals from the most renowned companies in Hollywood, prestigious and demanding retail outlets, as well as facility managers of some of the biggest school districts in the country who use visual communication to educate their students and staff on health and safety in public areas.No matter where you look, you’ll find us striving for excellence in design and construction, education, healthcare, marketing, manufacturing, technology, sports, and hospitality. |
 | [`K2 Sports`](https://k2sports.com/) | 14/01/2023 | About K2 Sports: Our mission is to create the most innovative tools for our consumers to provide the best experiences, push the sports, and strengthen the culture. K2 was born in 1962 as America’s ski company on Vashon Island in Washington State’s Puget Sound. Renamed in 2003 as K2 Sports and now based in Seattle, the company today is an international portfolio of world-renowned brands recognized as leaders in the innovation, marketing, and quality of our products and services. Driven by a passion for our sports and enthusiasts, we make alpine skis, snowboards, snowshoes, in-line skates, and Nordic ski equipment, apparel, and accessories. |
 | [`Ellison Technologies`](https://www.ellisontechnologies.com/) | 05/01/2023 | Ellison Technologies is a provider of advanced machining solutions to North American metal-cutting manufacturers and their global affiliates.As a family of companies we are committed to the survival and growth of the American manufacturing industry.  Independent offices provide us a local market focus and the flexibility to advocate the needs of each of our valued customers.Our priority is to introduce technologies that strengthen our customers’ ability to compete in the markets they serve.  Whether the solution involves a stand alone machine, multi-process equipment, or an integrated manufacturing system with robotic automation, our goal remains the same; to optimize throughput and quality at the lowest per-part manufacturing cost. |
 | [`Hayward`](https://www.hayward-pool.com/) | 05/01/2023 | Come on in... The water is Hayward.At Hayward®, we're more than just equipment. Our objective is to make your pool experience worry and hassle-free. That's why our equipment is engineered to last and work smart at keeping your pool sparkling clean and trouble free.For over 80-years, we've been helping pool owners enjoy the pleasures of pool ownership by manufacturing cutting edge, technologically advanced pool equipment worldwide. We strive to ensure that your Totally Hayward™ System operates at maximum efficiency all season long. Our goal is that at the end of the day, your only concern is to turn your equipment on and off. Whether you are trying to create the perfect backyard environment, reduce operating and maintenance costs through the ease of wireless controls, Hayward is your single source solution. Our products include a complete line of technologically advanced pumps, filters, heaters, heat pumps, automatic pool cleaners, lighting, controls and salt chlorine generators—high-quality components engineered to work together to keep your pool at its best.Hayward aims to take the worry out of pool ownership by developing products that are efficient, require little maintenance and add value to your investment. |
@@ -7935,4 +7940,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 16/01/2023 21.21 (UTC)_
+Last update : _Monday 16/01/2023 22.48 (UTC)_

@@ -5,7 +5,11 @@
 
 _Parser : `Available`_
 
+_`⚠️ [Avast decryption tool](https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/#bianlian_how_to_decrypt)`_
+
 ### External analysis
+- https://decoded.avast.io/threatresearch/decrypted-bianlian-ransomware/
+
 - https://redacted.com/blog/bianlian-ransomware-gang-gives-it-a-go/
 
 - https://blogs.blackberry.com/en/2022/10/bianlian-ransomware-encrypts-files-in-the-blink-of-an-eye
@@ -125,4 +129,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 16/01/2023 21.21 (UTC)_
+Last update : _Monday 16/01/2023 22.48 (UTC)_
