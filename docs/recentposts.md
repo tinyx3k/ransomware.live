@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-16 | [`melody.com.tr`](https://google.com/search?q=melody.com.tr) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-16 | [`atcuae.ae`](https://google.com/search?q=atcuae.ae) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-16 | [`politriz.ind.br`](https://google.com/search?q=politriz.ind.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-16 | [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | [mallox](profiles.md?id=mallox) |
 | 2023-01-16 | [`ak.com.sa`](https://google.com/search?q=ak.com.sa) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,9 +205,5 @@
 | 2022-12-22 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | [monti](profiles.md?id=monti) |
 | 2022-12-22 | [`maxionwheels.com`](https://google.com/search?q=maxionwheels.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`LOESCHGROUP.DE`](https://google.com/search?q=LOESCHGROUP.DE) | [clop](profiles.md?id=clop) |
-| 2022-12-22 | [`SOUTH-STAFFS-WATER.CO.UK`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK) | [clop](profiles.md?id=clop) |
 
-Last update : _Monday 16/01/2023 11.35 (UTC)_
+Last update : _Monday 16/01/2023 13.58 (UTC)_
