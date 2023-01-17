@@ -1,6 +1,6 @@
 
 
-_All `4923` posts_
+_All `4924` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4923` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-17 | [`Livingston`](https://google.com/search?q=Livingston) | [royal](profiles.md?id=royal) |
 | 2023-01-17 | [`carinya`](https://google.com/search?q=carinya) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`R C Stevens Construction`](https://google.com/search?q=R+C+Stevens+Construction) | [hive](profiles.md?id=hive) |
 | 2023-01-16 | [`ARC`](https://google.com/search?q=ARC) | [blackbyte](profiles.md?id=blackbyte) |
@@ -4933,4 +4934,4 @@ _All `4923` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 17/01/2023 21.30 (UTC)_
+Last update : _Tuesday 17/01/2023 23.20 (UTC)_
