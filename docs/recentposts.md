@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-17 | [`carinya`](https://google.com/search?q=carinya) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`R C Stevens Construction`](https://google.com/search?q=R+C+Stevens+Construction) | [hive](profiles.md?id=hive) |
 | 2023-01-16 | [`ARC`](https://google.com/search?q=ARC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](profiles.md?id=alphv) |
-| 2022-12-22 | [`Protecmedia`](https://google.com/search?q=Protecmedia) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Tuesday 17/01/2023 11.26 (UTC)_
+Last update : _Tuesday 17/01/2023 13.42 (UTC)_
