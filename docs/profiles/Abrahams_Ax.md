@@ -9,7 +9,7 @@ _Parser : `Not available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | تبر ابراهیم – Abraham's Ax | 🔴 | 16/01/2023 20:26 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | <a href="https://www.ransomware.live/screenshots/abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd-onion.png" target=_blank>📸</a> | 
-| تبر ابراهیم – Abraham's Ax | 🟢 | 16/01/2023 22:27 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
+| تبر ابراهیم – Abraham's Ax | 🟢 | 17/01/2023 01:49 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -19,4 +19,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 16/01/2023 23.18 (UTC)_
+Last update : _Tuesday 17/01/2023 02.38 (UTC)_

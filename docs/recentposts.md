@@ -206,4 +206,4 @@
 | 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](profiles.md?id=alphv) |
 | 2022-12-22 | [`Protecmedia`](https://google.com/search?q=Protecmedia) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Monday 16/01/2023 23.18 (UTC)_
+Last update : _Tuesday 17/01/2023 02.38 (UTC)_
