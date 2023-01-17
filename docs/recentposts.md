@@ -206,4 +206,4 @@
 | 2022-12-22 | [`Strem Chemicals`](https://google.com/search?q=Strem+Chemicals) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-22 | [`Bregman Berbert Schwartz & Gilday`](https://google.com/search?q=Bregman+Berbert+Schwartz+%26+Gilday) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Tuesday 17/01/2023 19.22 (UTC)_
+Last update : _Tuesday 17/01/2023 21.30 (UTC)_
