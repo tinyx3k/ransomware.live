@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 18/01/2023 05:17 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 18/01/2023 05:17 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🔴 | 18/01/2023 05:17 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 18/01/2023 07:18 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 120 posts found
+> 121 posts found
 
 | post | date | Description
 |---|---|---|
+| [`K Azarosian Costello`](https://www.kazcolaw.com) | 18/01/2023 | At KAZAROSIAN COSTELLO,we combine experience, knowledge and a record of success that is hard to find in other firms. In addition to our vast legal experience, the attorneys in our firm are committed to leadership at state and county bar associations. Boasting current and past presidents of bar associations including the Massachusetts Bar Association, Massachusetts Academy of Trial Attorneys, the Essex County Bar Association, and the Haverhill Bar Association, the firm has developed strong relationships in the legal community with both bench and bar.Licensed to practice in Massachusetts, New Hampshire, Maine, and California, our team provides the skilled, individualized representation our clients deserve. |
 | [`Livingston`](http://www.livingstonintl.com) | 17/01/2023 | PROOFPACK - Employee documents \ Finance \  Network structure |
 | [`carinya`](http://www.carinya.nsw.edu.au) | 17/01/2023 | Carinya Christian School Tamworth commenced in May 1984, with six students in Kindergarten to Year Three. It was started by concerned Christian parents The school was founded by the Tamworth Christian Education Association, renamed to Carinya Christian Education Ltd in 2022, as an initiative of Trinity Church. The school is one of the church's ministries, in partnership with parents and other school supporters. |
 | [`Autodelta`](https://www.autodelta.pt/) | 16/01/2023 | Auto Delta is a company that operates in the Automotive industry.The company is headquartered in Leira, Leiria District, Portugal. |
@@ -145,4 +146,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 18/01/2023 05.25 (UTC)_
+Last update : _Wednesday 18/01/2023 07.26 (UTC)_
