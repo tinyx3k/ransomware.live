@@ -206,4 +206,4 @@
 | 2022-12-23 | [`Rech Informatica Ltda`](https://google.com/search?q=Rech+Informatica+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 18/01/2023 07.26 (UTC)_
+Last update : _Wednesday 18/01/2023 09.18 (UTC)_
