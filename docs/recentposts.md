@@ -206,4 +206,4 @@
 | 2022-12-23 | [`Aegea Group companies`](https://google.com/search?q=Aegea+Group+companies) | [royal](profiles.md?id=royal) |
 | 2022-12-23 | [`Rech Informatica Ltda`](https://google.com/search?q=Rech+Informatica+Ltda) | [royal](profiles.md?id=royal) |
 
-Last update : _Wednesday 18/01/2023 16.28 (UTC)_
+Last update : _Wednesday 18/01/2023 17.32 (UTC)_
