@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](profiles.md?id=mallox) |
 | 2023-01-18 | [`K Azarosian Costello`](https://google.com/search?q=K+Azarosian+Costello) | [royal](profiles.md?id=royal) |
 | 2023-01-17 | [`Livingston`](https://google.com/search?q=Livingston) | [royal](profiles.md?id=royal) |
 | 2023-01-17 | [`carinya`](https://google.com/search?q=carinya) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-23 | [`bavelloni.com`](https://google.com/search?q=bavelloni.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-23 | [`Aegea Group companies`](https://google.com/search?q=Aegea+Group+companies) | [royal](profiles.md?id=royal) |
 | 2022-12-23 | [`Rech Informatica Ltda`](https://google.com/search?q=Rech+Informatica+Ltda) | [royal](profiles.md?id=royal) |
-| 2022-12-22 | [`thedonovancompany.com`](https://google.com/search?q=thedonovancompany.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 18/01/2023 13.34 (UTC)_
+Last update : _Wednesday 18/01/2023 15.15 (UTC)_
