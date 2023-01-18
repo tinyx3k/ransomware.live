@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-18 | [`tvk.nl`](https://google.com/search?q=tvk.nl) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-18 | [`duomed.com`](https://google.com/search?q=duomed.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](profiles.md?id=mallox) |
 | 2023-01-18 | [`K Azarosian Costello`](https://google.com/search?q=K+Azarosian+Costello) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-23 | [`Realstar Holdings Partnership`](https://google.com/search?q=Realstar+Holdings+Partnership) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-23 | [`excentiahumanservices.org`](https://google.com/search?q=excentiahumanservices.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-23 | [`bavelloni.com`](https://google.com/search?q=bavelloni.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-23 | [`Aegea Group companies`](https://google.com/search?q=Aegea+Group+companies) | [royal](profiles.md?id=royal) |
 
-Last update : _Wednesday 18/01/2023 19.37 (UTC)_
+Last update : _Wednesday 18/01/2023 21.29 (UTC)_
