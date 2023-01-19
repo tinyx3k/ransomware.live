@@ -293,7 +293,8 @@
             "https://www.cyfirma.com/outofband/malware-research-on-atomsilo-ransomware/",
             "https://www.zscaler.com/blogs/security-research/atomsilo-ransomware-enters-league-double-extortion",
             "https://twitter.com/vinopaljiri/status/1449550289204391940"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "avaddon",
@@ -372,7 +373,8 @@
             "https://blog.malwarebytes.com/threat-intelligence/2021/07/avoslocker-enters-the-ransomware-scene-asks-for-partners",
             "previous parser: c2VkIC1uIC1lICdzL14uKmFyaWEtaGlkZGVuPSJ0cnVlIj48XC9pPiAvL3AnIHNvdXJjZS9hdm9zbG9ja2VyLSouaHRtbCB8IGN1dCAtZCAiPCIgLWYx",
             "previous parser: ZWdyZXAgLW8gJ3RpdGxlPSIoW1s6YWxudW06XV18IHxcLikrIicgc291cmNlL2F2b3Nsb2NrZXItKi5odG1sIHwgY3V0IC1kICciJyAtZjI="
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "aztroteam",
@@ -860,7 +862,8 @@
                 "enabled": false
             }
         ],
-        "profile": []
+        "profile": [],
+        "description": ""
     },
     {
         "name": "cryp70n1c0d3",
@@ -934,7 +937,8 @@
                 "enabled": false
             }
         ],
-        "profile": []
+        "profile": [],
+        "description": ""
     },
     {
         "name": "daixin",
@@ -1207,7 +1211,8 @@
         "profile": [
             "https://www.anomali.com/blog/the-ech0raix-ransomware",
             "https://www.bleepingcomputer.com/news/security/qnap-nas-devices-hit-in-surge-of-ech0raix-ransomware-attacks/"
-        ]
+        ],
+        "description": "The QNAPCrypt ransomware works similarly to other ransomware, including encrypting all files and delivering a ransom note. However, there are several important differences:1. The ransom note was included solely as a text file, without any message on the screen—naturally, because it is a server and not an endpoint.2. Every victim is provided with a different, unique Bitcoin wallet—this could help the attackers avoid being traced.3. Once a victim is compromised, the malware requests a wallet address and a public RSA key from the command and control server (C&C) before file encryption."
     },
     {
         "name": "entropy",
@@ -1690,7 +1695,8 @@
         ],
         "profile": [
             "BAC01607F29EC417FB4106AEAB5BDF79CD948F9120C8D889E8785ADFDCE88C00F08429E092EC"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "lockbit",
@@ -1710,7 +1716,8 @@
                 "enabled": false
             }
         ],
-        "profile": []
+        "profile": [],
+        "description": ""
     },
     {
         "name": "lockbit2",
@@ -2795,7 +2802,8 @@
         "profile": [
             "https://t.me/arvin_club/5081",
             "https://twitter.com/malwrhunterteam/status/1477381209147723788?s=20"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "nokoyawa",
@@ -2953,7 +2961,8 @@
         ],
         "profile": [
             "https://cyberintelmag.com/malware-viruses/payloadbin-ransomware-attributed-to-evil-corp"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "play",
@@ -3210,7 +3219,8 @@
         "profile": [
             "https://news.sophos.com/en-us/2020/05/21/ragnar-locker-ransomware-deploys-virtual-machine-to-dodge-security",
             "https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-leak-data-if-victim-contacts-fbi-police"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "ragnarok",
@@ -3504,7 +3514,8 @@
             "https://www.sentinelone.com/labs/robinhood-ransomware-coolmaker-functions-not-so-cool/",
             "https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/",
             "previous parser: Z3JlcCAnPGgyIGNsYXNzPSJ0aXRsZSInIHNvdXJjZS9yb2Jpbmhvb2QtKi5odG1sIC0tbm8tZmlsZW5hbWUgfCBjdXQgLWQgJz4nIC1mIDMgfCBjdXQgLWQgJzwnIC1mIDE="
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "rook",
@@ -3809,7 +3820,8 @@
             "https://www.tetradefense.com/incident-response-services/cause-and-effect-suncrypt-ransomware-analysis",
             "https://www.intezer.com/blog/malware-analysis/when-viruses-mutate-did-suncrypt-ransomware-evolve-from-qnapcrypt",
             "https://medium.com/s2wblog/case-analysis-of-suncrypt-ransomware-negotiation-and-bitcoin-transaction-43a2194ac0bc"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "synack",
@@ -3831,7 +3843,8 @@
         ],
         "profile": [
             "https://www.zdnet.com/article/synack-ransomware-group-releases-decryption-keys-as-they-rebrand-to-el-cometa"
-        ]
+        ],
+        "description": ""
     },
     {
         "name": "unknown",
