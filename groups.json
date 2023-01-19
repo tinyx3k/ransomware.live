@@ -2385,6 +2385,7 @@
                 "enabled": true
             }
         ],
+        "description": "This ransomware uses a combination of different crypto algorithms (ChaCha20, AES-128, Curve25519). The activity of this malware is dated to mid-June 2021. The extension of the encrypted files are set to the compromised company: .<target_company>",
         "profile": []
     },
     {
@@ -3026,6 +3027,7 @@
                 "enabled": false
             }
         ],
+        "description": "PwndLocker is a ransomware that was observed in late 2019 and is reported to have been used to target businesses and local governments/cities. According to one source, ransom amounts demanded as part of PwndLocker activity range from $175k USD to $650k USD depending on the size of the network. PwndLocker attempts to disable a variety of Windows services so that their data can be encrypted. Various processes will also be targeted, such as web browsers and software related to security, backups, and databases. Shadow copies are cleared by the ransomware, and encryption of files occurs once the system has been prepared in this way. Executable files and those that are likely to be important for the system to continue to function appear to be skipped by the ransomware, and a large number of folders mostly related to Microsoft Windows system files are also ignored. As of March 2020, encrypted files have been observed with the added extensions of .key and .pwnd. Ransom notes are dropped in folders where encrypted files are found and also on the user's desktop.",
         "profile": [
             "https://www.zdnet.com/article/prolock-ransomware-everything-you-need-to-know/",
             "https://news.sophos.com/en-us/2020/07/27/prolock-ransomware-gives-you-the-first-8-kilobytes-of-decryption-for-free/",
@@ -3064,6 +3066,7 @@
         "parser": true,
         "javascript_render": false,
         "meta": null,
+        "description": "Mespinosa is a ransomware which encrypts file using an asymmetric encryption and adds .pysa as file extension. According to dissectingmalware the extension \"pysa\" is probably derived from the Zanzibari Coin with the same name.",
         "locations": [
             {
                 "fqdn": "pysa2bitc5ldeyfak4seeruqymqs4sj5wt5qkcq7aoyg4h2acqieywad.onion",
