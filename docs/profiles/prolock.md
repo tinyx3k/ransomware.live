@@ -2,6 +2,7 @@
 
 ## **prolock**
 
+> PwndLocker is a ransomware that was observed in late 2019 and is reported to have been used to target businesses and local governments/cities. According to one source, ransom amounts demanded as part of PwndLocker activity range from $175k USD to $650k USD depending on the size of the network. PwndLocker attempts to disable a variety of Windows services so that their data can be encrypted. Various processes will also be targeted, such as web browsers and software related to security, backups, and databases. Shadow copies are cleared by the ransomware, and encryption of files occurs once the system has been prepared in this way. Executable files and those that are likely to be important for the system to continue to function appear to be skipped by the ransomware, and a large number of folders mostly related to Microsoft Windows system files are also ignored. As of March 2020, encrypted files have been observed with the added extensions of .key and .pwnd. Ransom notes are dropped in folders where encrypted files are found and also on the user's desktop.
 
 _Parser : `Not available`_
 
@@ -31,4 +32,4 @@ _`aka pwndlocker`_
  --- 
 
 
-Last update : _Thursday 19/01/2023 15.19 (UTC)_
+Last update : _Thursday 19/01/2023 17.29 (UTC)_

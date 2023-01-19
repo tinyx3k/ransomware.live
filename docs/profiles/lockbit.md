@@ -2,6 +2,7 @@
 
 ## **lockbit**
 
+> 
 
 _Parser : `Not available`_
 
@@ -22,4 +23,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 19/01/2023 15.19 (UTC)_
+Last update : _Thursday 19/01/2023 17.29 (UTC)_

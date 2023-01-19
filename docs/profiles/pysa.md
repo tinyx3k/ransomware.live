@@ -2,6 +2,7 @@
 
 ## **pysa**
 
+> Mespinosa is a ransomware which encrypts file using an asymmetric encryption and adds .pysa as file extension. According to dissectingmalware the extension "pysa" is probably derived from the Zanzibari Coin with the same name.
 
 _Parser : `Available`_
 
@@ -333,4 +334,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 19/01/2023 15.19 (UTC)_
+Last update : _Thursday 19/01/2023 17.29 (UTC)_

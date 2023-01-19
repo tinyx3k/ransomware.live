@@ -2,6 +2,7 @@
 
 ## **synack**
 
+> 
 
 _Parser : `Available`_
 
@@ -23,4 +24,4 @@ _`no longer in operation - rebrand`_
  --- 
 
 
-Last update : _Thursday 19/01/2023 15.19 (UTC)_
+Last update : _Thursday 19/01/2023 17.29 (UTC)_

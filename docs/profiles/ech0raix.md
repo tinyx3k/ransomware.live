@@ -2,6 +2,7 @@
 
 ## **ech0raix**
 
+> The QNAPCrypt ransomware works similarly to other ransomware, including encrypting all files and delivering a ransom note. However, there are several important differences:1. The ransom note was included solely as a text file, without any message on the screen—naturally, because it is a server and not an endpoint.2. Every victim is provided with a different, unique Bitcoin wallet—this could help the attackers avoid being traced.3. Once a victim is compromised, the malware requests a wallet address and a public RSA key from the command and control server (C&C) before file encryption.
 
 _Parser : `Not available`_
 
@@ -27,4 +28,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Thursday 19/01/2023 15.19 (UTC)_
+Last update : _Thursday 19/01/2023 17.29 (UTC)_
