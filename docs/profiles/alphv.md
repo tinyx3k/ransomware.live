@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 18/01/2023 16:38 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 19/01/2023 02:00 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 07/01/2023 20:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,13 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 254 posts found
+> 257 posts found
 
 | post | date | Description
 |---|---|---|
+| [`NextGen`](https://www.nextgen.com) | 19/01/2023 | NextGen Healthcare provides customized solutions to fit the exact needs of ambulatory practices. Our solutions empower patients to take control of their health and enable clinicians to be more productive and engaged. |
+| [`Fresh Del Monte`](https://freshdelmonte.com/) | 19/01/2023 | Fresh Del Monte Produce Incorporated is one of the world’s leading vertically integrated producers, distributors, and marketers of fresh and fresh-cut fruits and vegetables. Their products include prepared fruit and vegetables, juices, beverages, snacks, and desserts, and are sold in more than 90 countries around the world. |
+| [`Pharmacare`](http://www.pharmacareservices.com/) | 19/01/2023 | At Pharmacare Services, we focus on solving problems, rather than working around them. Our core values of team-based leadership, solid relationships, and deep commitment to quality and service are why hospitals rely on PharmaCare Services. Our goal is to take your pharmacy beyond functional and work towards a well-managed and well-staffed |
 | [`Fu Yu Corporation`](https://fuyucorp.com) | 13/01/2023 | Fu Yu Corporation Limited (“Fu Yu”) provides vertically-integrated services for the manufacture of precision plastic components and the fabrication of precision moulds and dies.  ​  Since its inception in 1978, Fu Yu has grown to become one of the largest manufacturers of high precision plastic parts and moulds in Asia. Today, the Group has established a strong presence in the region with manufacturing facilities located in Singapore, Malaysia and China.  ​  Leveraging on over 40 years of operating history, Fu Yu has built a broad and diversified customer base of blue chip companies in the printing and imaging, networking and communications, consumer, medical, automotive and power tool sectors. |
 | [`Air Comm Corporation`](https://aircommcorp.com) | 13/01/2023 | Air Comm Corporation (ACC) was founded in 1987 to meet the needs of helicopter operators seeking solutions to problems commonly found in factory-installed environmental control systems. Today, ACC is the industry leader in the development and manufacture of state-of-the-art bleed air heaters and vapor-cycle air conditioners for turbine helicopters.      ACC products and technical support set the industry standard; leading edge design, operating efficiency and factory service optimize environmental control and minimize maintenance expense.     Proven performance worldwide     Comprehensive, user-friendly installation guides     ACC installation technicians available for training & support worldwide |
 | [`Liebra Permana`](https://www.liebrapermana.com) | 11/01/2023 | Liebra Permana PT was founded in 1999. The company's line of business includes the manufacturing of womens and childrens underwear. |
@@ -292,4 +295,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Wednesday 18/01/2023 23.18 (UTC)_
+Last update : _Thursday 19/01/2023 02.51 (UTC)_
