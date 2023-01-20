@@ -15,9 +15,11 @@ def main():
                     try:
                         title = div.find("font", {"size":4}).text.strip()
                         for description in div.find_all("font", {"size":2, "color":"#5B61F6"}):
+                            if description.b.text.strip().startswith("http"):
+                                website = description.get_text()
                             if not description.b.text.strip().startswith("http"):
                                 desc = description.get_text()
-                                appender(title, 'vicesociety', desc)
+                                appender(title, 'vicesociety', desc,website)
                     except:
                         pass
                 file.close()
