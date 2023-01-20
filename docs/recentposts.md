@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](profiles.md?id=alphv) |
 | 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-24 | [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-23 | [`Myofficeplace Inc.`](https://google.com/search?q=Myofficeplace+Inc.) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-23 | [`SEMITEC Corporation`](https://google.com/search?q=SEMITEC+Corporation) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Friday 20/01/2023 13.40 (UTC)_
+Last update : _Friday 20/01/2023 15.32 (UTC)_
