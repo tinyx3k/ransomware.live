@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-20 | [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | [daixin](profiles.md?id=daixin) |
 | 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2022-12-25 | [`Atlatec SA de CV`](https://google.com/search?q=Atlatec+SA+de+CV) | [royal](profiles.md?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-24 | [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-23 | [`Myofficeplace Inc.`](https://google.com/search?q=Myofficeplace+Inc.) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Friday 20/01/2023 15.32 (UTC)_
+Last update : _Friday 20/01/2023 17.36 (UTC)_

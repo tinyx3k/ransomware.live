@@ -9,14 +9,15 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 10/11/2022 22:30 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` | ❌ | 
-| Data Leak | 🟢 | 20/01/2023 14:37 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
+| Data Leak | 🟢 | 20/01/2023 16:46 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 6 posts found
+> 7 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | 20/01/2023 |  |
 | [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | 24/11/2022 |   |
 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | 19/11/2022 |   |
 | [`OakBend Medical (USA)`](https://google.com/search?q=OakBend+Medical+%28USA%29) | 13/09/2022 |   |
@@ -27,4 +28,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 20/01/2023 15.32 (UTC)_
+Last update : _Friday 20/01/2023 17.36 (UTC)_

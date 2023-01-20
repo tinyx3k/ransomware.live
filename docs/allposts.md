@@ -1,6 +1,6 @@
 
 
-_All `4933` posts_
+_All `4934` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4933` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-20 | [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | [daixin](profiles.md?id=daixin) |
 | 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](profiles.md?id=alphv) |
@@ -4943,4 +4944,4 @@ _All `4933` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 20/01/2023 15.32 (UTC)_
+Last update : _Friday 20/01/2023 17.36 (UTC)_
