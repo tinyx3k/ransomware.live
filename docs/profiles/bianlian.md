@@ -20,7 +20,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🔴 | 21/01/2023 06:34 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 21/01/2023 12:47 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,10 +28,13 @@ _Parser : `Available`_
 
 ### Posts
 
-> 92 posts found
+> 95 posts found
 
 | post | date | Description
 |---|---|---|
+| [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | 21/01/2023 | HRL Technology Group is a leading analytical laboratory, specialist engineering and innovation services company. |
+| [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | 21/01/2023 | Manufacturer of fire protection products |
+| [`A`](https://google.com/search?q=A) | 21/01/2023 | jewelry store |
 | [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | 29/12/2022 | St. Rose Hospital is an hospital located in Hayward, California. It is a designated cardiac arrest receiving center in the Alameda County emergency medical services system, and provides basic emergency medical services. |
 | [`MITCON Consultancy & Engineering Services`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services) | 29/12/2022 | Established in 1982 in Pune, Mitcon is a renowned Indian Technical Consulting Organization (TCO) offering One Stop Solution for all your technical, marketing & financial business requirements. |
 | [`*********** E*****`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+E%2A%2A%2A%2A%2A) | 29/12/2022 | Company that operates in the Oil & Energy industry. |
@@ -128,4 +131,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 21/01/2023 11.23 (UTC)_
+Last update : _Saturday 21/01/2023 13.35 (UTC)_
