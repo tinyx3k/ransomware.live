@@ -32,4 +32,4 @@ _`marketplace - not a ransomware group`_
  --- 
 
 
-Last update : _Saturday 21/01/2023 02.42 (UTC)_
+Last update : _Saturday 21/01/2023 03.39 (UTC)_
