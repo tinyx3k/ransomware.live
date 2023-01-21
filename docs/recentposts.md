@@ -206,4 +206,4 @@
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2022-12-24 | [`aristopharma.com`](https://google.com/search?q=aristopharma.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 20/01/2023 23.19 (UTC)_
+Last update : _Saturday 21/01/2023 02.42 (UTC)_
