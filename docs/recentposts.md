@@ -206,4 +206,4 @@
 | 2022-12-25 | [`Atlatec SA de CV`](https://google.com/search?q=Atlatec+SA+de+CV) | [royal](profiles.md?id=royal) |
 | 2022-12-24 | [`Republic of Vanuatu`](https://google.com/search?q=Republic+of+Vanuatu) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Saturday 21/01/2023 03.39 (UTC)_
+Last update : _Saturday 21/01/2023 05.32 (UTC)_
