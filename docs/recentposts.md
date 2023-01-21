@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-21 | [`Pillar Resource Services`](https://google.com/search?q=Pillar+Resource+Services) | [royal](profiles.md?id=royal) |
 | 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -204,6 +205,5 @@
 | 2022-12-26 | [`Zeus Scientific Inc`](https://google.com/search?q=Zeus+Scientific+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Hughes Systems Industrial`](https://google.com/search?q=Hughes+Systems+Industrial) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`DLS Motors`](https://google.com/search?q=DLS+Motors) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Cosmopoint College`](https://google.com/search?q=Cosmopoint+College) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Saturday 21/01/2023 19.25 (UTC)_
+Last update : _Saturday 21/01/2023 21.49 (UTC)_
