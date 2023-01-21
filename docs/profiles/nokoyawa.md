@@ -12,7 +12,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | NOKOYAWA Leaks | 🔴 | 11/07/2022 22:26 | `http://lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion` | ❌ | 
-| NOKOYAWA Leaks | 🟢 | 21/01/2023 05:12 | `http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion` | <a href="https://www.ransomware.live/screenshots/6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd-onion.png" target=_blank>📸</a> | 
+| NOKOYAWA Leaks | 🟢 | 21/01/2023 07:03 | `http://6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion` | <a href="https://www.ransomware.live/screenshots/6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -29,4 +29,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 21/01/2023 05.32 (UTC)_
+Last update : _Saturday 21/01/2023 07.20 (UTC)_
