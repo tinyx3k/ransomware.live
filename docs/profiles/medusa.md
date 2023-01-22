@@ -10,7 +10,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| 502 Bad Gateway | 🔴 | 22/01/2023 19:03 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| 502 Bad Gateway | 🟢 | 22/01/2023 22:58 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -43,4 +43,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 22/01/2023 21.20 (UTC)_
+Last update : _Sunday 22/01/2023 23.15 (UTC)_
