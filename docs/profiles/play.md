@@ -14,8 +14,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 23/01/2023 19:03 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 23/01/2023 19:03 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 23/01/2023 21:05 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🔴 | 23/01/2023 19:03 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 48 posts found
+> 49 posts found
 
 | post | date | Description
 |---|---|---|
+| [`A?????L S?????????? ????`](https://google.com/search?q=A%3F%3F%3F%3F%3FL+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F) | 23/01/2023 |  |
 | [`A?????? S?????????? ????`](https://google.com/search?q=A%3F%3F%3F%3F%3F%3F+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F) | 23/01/2023 | Austria |
 | [`Arnold Clark`](https://google.com/search?q=Arnold+Clark) | 16/01/2023 |  |
 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | 15/01/2023 |  |
@@ -79,4 +80,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 23/01/2023 20.59 (UTC)_
+Last update : _Monday 23/01/2023 21.27 (UTC)_
