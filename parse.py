@@ -130,6 +130,13 @@ def appender(post_title, group_name, description="", website=""):
     if len(post_title) == 0:
         errlog('post_title is empty')
         return
+    # Check exclusion 
+    with open('exceptions.txt', 'r') as f:
+    # Read the contents of the file
+        exceptions = f.read()
+        if post_title in exceptions:
+            # errlog('(!) '+ post_title + ' is in exceptions')
+            return
     # limit length of post_title to 90 chars
     if len(post_title) > 90:
         post_title = post_title[:90]

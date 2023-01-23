@@ -13,8 +13,7 @@ def main():
                 divs_name=soup.find_all('td',{"valign":"top"})
                 for div in divs_name:
                     try:
-                        titles = div.find("font", {"size":4}).text.strip().string.split("&")
-                        title = title[0]
+                        title = div.find("font", {"size":4}).text.strip() 
                         for description in div.find_all("font", {"size":2, "color":"#5B61F6"}):
                             if description.b.text.strip().startswith("http"):
                                 website = description.get_text()
