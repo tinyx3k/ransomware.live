@@ -1,6 +1,6 @@
 
 
-_All `4943` posts_
+_All `4944` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,7 +10,8 @@ _All `4943` posts_
 
 | Date | Title | Group |
 |---|---|---|
-| 2023-01-23 | [`CloudCall &emoney Home Loans`](https://google.com/search?q=CloudCall+%26emoney+Home+Loans) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-23 | [`CloudCall`](https://google.com/search?q=CloudCall) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-23 | [`emoney Home Loans`](https://google.com/search?q=emoney+Home+Loans) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-22 | [`ibb-business-team.de`](https://google.com/search?q=ibb-business-team.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-22 | [`miguelmechanical.com`](https://google.com/search?q=miguelmechanical.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4953,4 +4954,4 @@ _All `4943` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 23/01/2023 11.30 (UTC)_
+Last update : _Monday 23/01/2023 12.35 (UTC)_
