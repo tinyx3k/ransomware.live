@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-23 | [`CloudCall &emoney Home Loans`](https://google.com/search?q=CloudCall+%26emoney+Home+Loans) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-22 | [`ibb-business-team.de`](https://google.com/search?q=ibb-business-team.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-22 | [`miguelmechanical.com`](https://google.com/search?q=miguelmechanical.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-26 | [`Northwest University`](https://google.com/search?q=Northwest+University) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Emtec Inc`](https://google.com/search?q=Emtec+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`American International Industry`](https://google.com/search?q=American+International+Industry) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Zeus Scientific Inc`](https://google.com/search?q=Zeus+Scientific+Inc) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Monday 23/01/2023 09.23 (UTC)_
+Last update : _Monday 23/01/2023 11.30 (UTC)_

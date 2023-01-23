@@ -7,4 +7,4 @@
 |---|---|
 | ![](graphs/grouppie202301.png) | | 
 
-Last update : _Sunday 22/01/2023 07.28 (UTC)_
+Last update : _Monday 23/01/2023 11.30 (UTC)_
