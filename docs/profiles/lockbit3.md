@@ -8,25 +8,25 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 24/01/2023 10:46 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:47 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🔴 | 24/01/2023 08:49 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:50 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:50 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:47 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:48 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:49 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:49 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:50 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | 🟢 | 24/01/2023 10:51 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:52 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:52 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:53 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 24/01/2023 10:53 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:54 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:54 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:55 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:55 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:56 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:56 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:57 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:57 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 24/01/2023 10:58 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:51 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:52 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:53 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 24/01/2023 13:53 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:54 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:54 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:55 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:56 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:56 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:57 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:57 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:58 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 24/01/2023 13:58 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -34,10 +34,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 421 posts found
+> 422 posts found
 
 | post | date | Description
 |---|---|---|
+| [`elsan.care`](https://google.com/search?q=elsan.care) | 24/01/2023 | stolen: 821 GB.data: marketing, finance, information of all departments of one of the company's clinics, numbers, personal data of employees, contracts, reports, internal and external contracts with policyholders, subsidiaries, etc.Elsan is a m... |
 | [`ibb-business-team.de`](https://google.com/search?q=ibb-business-team.de) | 22/01/2023 | Financing offers in Berlin for start-ups, SMEs and real estateIBB Business Team GmbH is a 100% subsidiary of the IBB Group.On behalf of the State of Berlin and the Investment Bank of Berlin (IBB), it implements various grants for start-ups, SME... |
 | [`miguelmechanical.com`](https://google.com/search?q=miguelmechanical.com) | 22/01/2023 | Miguel Mechanical Services Limited (MMSL) has been in existence as a service provider in the Oil and Gas Industry since 1988. With over 25 years experience as an Organization, we staff well trained, experienced and certified personnel in their relati... |
 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | 21/01/2023 | Hi to all!Let us introduce another IT company that provide super-secure payroll services in Asia ;) Headquartered in Singapore.Payroll2U has such clients as AirAsia, Klook, Smith & Nephiew, Santen, Zimmer, etc.We have downloaded most impo...  |
@@ -463,4 +464,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 24/01/2023 12.33 (UTC)_
+Last update : _Tuesday 24/01/2023 14.04 (UTC)_
