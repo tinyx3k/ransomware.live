@@ -16,7 +16,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🟢 | 24/01/2023 21:12 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 24/01/2023 23:13 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://nbzzb6sa6xuura2z.onion` | ❌ | 
 
 
@@ -63,4 +63,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 24/01/2023 21.18 (UTC)_
+Last update : _Tuesday 24/01/2023 23.21 (UTC)_
