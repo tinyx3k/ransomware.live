@@ -11,7 +11,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🔴 | 25/01/2023 14:57 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 25/01/2023 22:59 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -19,10 +19,11 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 ### Posts
 
-> 15 posts found
+> 16 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Navnit Group`](https://google.com/search?q=Navnit+Group) | 25/01/2023 |  |
 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | 25/01/2023 | DATA PART 1: https://anonfiles.com/******/bomcalcado2_zip PASSWORD: Q|&(A&\?Le($PxD=c,_cj*hLl@+|!,K#  |
 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | 25/01/2023 | DATA: https://anonfiles.com/******/fifood_zipPASSWORD: !BJYY-U_;pvuz.dlzbd~*>W;YX;x$?fM  |
 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | 18/01/2023 | https://www.zoominfo.com/c/alhambra--eidos/345908828?__cf_chl_tk=RpuNsHtJ3U8_aY_cJ.nM3xGgTjQUbdlu39sPdA54pLg-1674049852-0-gaNycGzNC-U Leaked data: https://anonfiles.com/******/Alhambra_rar Password: *&YG)*7vc08V()*&YguygoiugO  |
@@ -42,4 +43,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Wednesday 25/01/2023 21.20 (UTC)_
+Last update : _Wednesday 25/01/2023 23.18 (UTC)_
