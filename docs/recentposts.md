@@ -206,4 +206,4 @@
 | 2022-12-26 | [`Truckslogic`](https://google.com/search?q=Truckslogic) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`TeladanPrima Argo Group`](https://google.com/search?q=TeladanPrima+Argo+Group) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Wednesday 25/01/2023 15.15 (UTC)_
+Last update : _Wednesday 25/01/2023 17.28 (UTC)_

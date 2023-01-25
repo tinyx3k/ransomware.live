@@ -18,8 +18,8 @@ _``_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Hive | 🟢 | 25/01/2023 14:40 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
-| Hive | 🟢 | 25/01/2023 14:41 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
+| Hive | 🔴 | 25/01/2023 14:40 | `http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion` | <a href="https://www.ransomware.live/screenshots/hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd-onion.png" target=_blank>📸</a> | 
+| Hive | 🔴 | 25/01/2023 14:41 | `http://hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion` | <a href="https://www.ransomware.live/screenshots/hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 25/01/2023 13:03 | `http://hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion` | <a href="https://www.ransomware.live/screenshots/hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad-onion.png" target=_blank>📸</a> | 
 
 
@@ -243,4 +243,4 @@ _``_
  --- 
 
 
-Last update : _Wednesday 25/01/2023 15.15 (UTC)_
+Last update : _Wednesday 25/01/2023 17.28 (UTC)_
