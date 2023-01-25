@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-25 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | [mallox](profiles.md?id=mallox) |
 | 2023-01-25 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-01-24 | [`xlntinc.com`](https://google.com/search?q=xlntinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-24 | [`elsan.care`](https://google.com/search?q=elsan.care) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-26 | [`Truckslogic`](https://google.com/search?q=Truckslogic) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`TeladanPrima Argo Group`](https://google.com/search?q=TeladanPrima+Argo+Group) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Sunland Asphalt And Construction`](https://google.com/search?q=Sunland+Asphalt+And+Construction) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Stratford University`](https://google.com/search?q=Stratford+University) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Wednesday 25/01/2023 03.38 (UTC)_
+Last update : _Wednesday 25/01/2023 05.23 (UTC)_
