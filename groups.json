@@ -202,9 +202,9 @@
                 "title": " ",
                 "version": 3,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/12",
-                "available": false,
-                "updated": "2023-01-25 10:29:49.825997",
-                "lastscrape": "2023-01-25 10:29:49.825983",
+                "available": true,
+                "updated": "2023-01-25 18:57:55.786043",
+                "lastscrape": "2023-01-25 18:57:55.785733",
                 "enabled": true,
                 "delay": 60
             },
@@ -223,9 +223,9 @@
                 "title": " ",
                 "version": 3,
                 "slug": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/search",
-                "available": false,
-                "updated": "2023-01-07 20:58:40.937907",
-                "lastscrape": "2023-01-07 20:58:40.937873",
+                "available": true,
+                "updated": "2023-01-25 18:58:50.227765",
+                "lastscrape": "2023-01-25 18:58:50.227018",
                 "enabled": false
             }
         ],

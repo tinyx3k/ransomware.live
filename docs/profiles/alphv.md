@@ -20,9 +20,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 25/01/2023 10:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 25/01/2023 18:57 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
-|   | 🔴 | 07/01/2023 20:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 258 posts found
+> 259 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Copper Mountain`](https://cumtn.com) | 25/01/2023 | Copper Mountain Mining Corporation is a TSX/ASX listed copper producer, developer and explorer. Copper Mountain’s flagship asset is the 75% owned Copper Mountain mine located in southern British Columbia near the town of Princeton. The Copper Mountain mine currently produces approximately 100 million pounds of copper equivalent per year with a planned expansion to increase production to approximately 140 million pounds of copper equivalent per year.  Copper Mountain trades on the Toronto Stock Exchange under the symbol “CMMC” and Australian Stock Exchange under the symbol “C6C” |
 | [`IFPA`](https://www.ifpa.edu.br) | 23/01/2023 | The Federal Institute of Pará (IFPA) is a public educational institution, with 18 campuses, which offers technical, graduation and post-graduation courses. |
 | [`NextGen`](https://www.nextgen.com) | 19/01/2023 | NextGen Healthcare provides customized solutions to fit the exact needs of ambulatory practices. Our solutions empower patients to take control of their health and enable clinicians to be more productive and engaged. |
 | [`Fresh Del Monte`](https://freshdelmonte.com/) | 19/01/2023 | Fresh Del Monte Produce Incorporated is one of the world’s leading vertically integrated producers, distributors, and marketers of fresh and fresh-cut fruits and vegetables. Their products include prepared fruit and vegetables, juices, beverages, snacks, and desserts, and are sold in more than 90 countries around the world. |
@@ -296,4 +297,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Wednesday 25/01/2023 17.28 (UTC)_
+Last update : _Wednesday 25/01/2023 19.05 (UTC)_
