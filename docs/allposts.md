@@ -1,6 +1,6 @@
 
 
-_All `4950` posts_
+_All `4951` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4950` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-25 | [`merlinpcbgroup.com`](https://google.com/search?q=merlinpcbgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-25 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | [mallox](profiles.md?id=mallox) |
 | 2023-01-25 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-01-24 | [`xlntinc.com`](https://google.com/search?q=xlntinc.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4960,4 +4961,4 @@ _All `4950` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 25/01/2023 11.20 (UTC)_
+Last update : _Wednesday 25/01/2023 13.50 (UTC)_
