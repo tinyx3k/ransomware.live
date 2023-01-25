@@ -11,7 +11,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 24/01/2023 23:00 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 25/01/2023 02:21 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -19,10 +19,11 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 ### Posts
 
-> 13 posts found
+> 14 posts found
 
 | post | date | Description
 |---|---|---|
+| [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | 25/01/2023 | DATA: https://anonfiles.com/******/fifood_zipPASSWORD: !BJYY-U_;pvuz.dlzbd~*>W;YX;x$?fM  |
 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | 18/01/2023 | https://www.zoominfo.com/c/alhambra--eidos/345908828?__cf_chl_tk=RpuNsHtJ3U8_aY_cJ.nM3xGgTjQUbdlu39sPdA54pLg-1674049852-0-gaNycGzNC-U Leaked data: https://anonfiles.com/******/Alhambra_rar Password: *&YG)*7vc08V()*&YguygoiugO  |
 | [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | 16/01/2023 |  |
 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | 15/01/2023 | Data will be published in 24 hours Stay tuned  |
@@ -40,4 +41,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Tuesday 24/01/2023 23.21 (UTC)_
+Last update : _Wednesday 25/01/2023 02.40 (UTC)_
