@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🔴 | 26/01/2023 07:12 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 26/01/2023 11:09 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 26/01/2023 14:06 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 26/01/2023 14:07 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,12 @@ _Parser : `Available`_
 
 ### Posts
 
-> 123 posts found
+> 125 posts found
 
 | post | date | Description
 |---|---|---|
+| [`IOC`](http://www.ioccompany.com) | 26/01/2023 | IOC Company, LLC is a full service heavy civil contractor. Our primary market is the highway and road industryFounded in 2005, IOC Company, L.L.C. is a heavy civil contractor with a history of top performance in various markets. We are best known for transportation infrastructure projects. We have built our reputation on our core values: integrity, honesty, and dedication to providing superior quality to our clients. IOC Company, L.L.C. has successfully completed projects ranging from small site developments to multimillion dollar road infrastructure projects. IOC Company, L.L.C. develops and perfects each project's individual critical path in order to carefully manage every aspect of the project and avoid potential conflicts. Using the latest technology in the industry has led IOC Company, L.L.C. to produce high quality projects in an efficient manner. IOC Company, L.L.C. also produces sand, gravel, flex base (caliche) and other construction materials. |
+| [`ServiceMaster`](https://www.servicemasterclr.com) | 26/01/2023 | ServiceMaster is a national company that has been a leader in the cleaning industry for more than 50 years. The local franchise in Minneapolis were founded in 1993 by people in the community who wanted to provide the best possible cleaning services to their neighbors. Since then, ServiceMaster of Minneapolis has grown to employee more than 70 people, and has encouraged a culture where your satisfaction comes first.The excellent service we are committed to providing has helped us continue to be leaders in the field of cleaning and disaster restoration for residential and commercial properties.When we come into your home or business, you can rest assured your possessions will be treated with the best care and the cleaning your property receives will be of the highest quality. We can help you get the job done – no matter how big or small, we do it all! |
 | [`Pillar Resource Services`](https://www.pillar.ca) | 21/01/2023 | Pillar FabricatorsFabrication Facility, Module Yard & Field Service Center4155-84th AvenueEdmonton, Alberta, Canada T6B 2Z3Phone: 780-440-2212Fax:   780-440-2262Shipping/Receiving Fax: 780-440-0749OrderDesk@pillar.caOther Inquiries: info@pillar.ca |
 | [`Cadmet`](https://cadmet.com/) | 21/01/2023 | At Cadmet, when we look at our customers, we don’t see job titles. We see the people behind the titles. Our business is built on human connections and strong relationships. Building them. Growing them. Sustaining them. Never taking a single relationship for granted. Ever.We are pleased to say that our approach to business – and people – has paid off. 2017 marked our 30th Anniversary as one of the first Sony Medical Dealers in the nation. Today we are one of Sony Medical’s largest nationwide dealers, with a reputation for excellent service and fair prices. And we enjoy great recognition in the medical community through our decade-long participation at regional and national trade shows that support the following industry groups:AORN – Association of periOperative Registered NursesASCA – Ambulatory Surgery Center AssociationSGNA – Society of Gastroenterology Nurses and AssociatesBiomedical Engineering Societies |
 | [`K Azarosian Costello`](https://www.kazcolaw.com) | 18/01/2023 | At KAZAROSIAN COSTELLO,we combine experience, knowledge and a record of success that is hard to find in other firms. In addition to our vast legal experience, the attorneys in our firm are committed to leadership at state and county bar associations. Boasting current and past presidents of bar associations including the Massachusetts Bar Association, Massachusetts Academy of Trial Attorneys, the Essex County Bar Association, and the Haverhill Bar Association, the firm has developed strong relationships in the legal community with both bench and bar.Licensed to practice in Massachusetts, New Hampshire, Maine, and California, our team provides the skilled, individualized representation our clients deserve. |
@@ -148,4 +150,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 26/01/2023 11.17 (UTC)_
+Last update : _Thursday 26/01/2023 14.22 (UTC)_
