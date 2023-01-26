@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-26 | [`ADMIRAL Sportwetten`](https://google.com/search?q=ADMIRAL+Sportwetten) | [play](profiles.md?id=play) |
 | 2023-01-25 | [`Navnit Group`](https://google.com/search?q=Navnit+Group) | [mallox](profiles.md?id=mallox) |
 | 2023-01-25 | [`Copper Mountain`](https://google.com/search?q=Copper+Mountain) | [alphv](profiles.md?id=alphv) |
 | 2023-01-25 | [`merlinpcbgroup.com`](https://google.com/search?q=merlinpcbgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-26 | [`Mount Vernon Mills`](https://google.com/search?q=Mount+Vernon+Mills) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Khoemacau Copper Mining`](https://google.com/search?q=Khoemacau+Copper+Mining) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`The Brigantine`](https://google.com/search?q=The+Brigantine) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`SCAD EDU`](https://google.com/search?q=SCAD+EDU) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Wednesday 25/01/2023 23.18 (UTC)_
+Last update : _Thursday 26/01/2023 02.35 (UTC)_
