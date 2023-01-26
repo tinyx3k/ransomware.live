@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 26/01/2023 06:33 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 26/01/2023 10:30 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 261 posts found
+> 262 posts found
 
 | post | date | Description
 |---|---|---|
+| [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://www.solargroup.com) | 26/01/2023 | UPDATE !!! This company did not get in touch at the specified time. In 24 hours the bidding for the sale of all company data will open. Anyone interested in buying can write in TOX: 24B03A9DA9DA26336AF573D1DA2D67782C40975A64EFE2E118FE6209049E0F6E655980C89EAB57B  Who is Solar Industries India  Solar Industries India Limited is an explosives manufacturing company. The Company manufactures, supplies and exports industrial explosives and initiating systems.  Headquarters: Solar House 14 Kachimet Amravati Rd, Nagpur, Maharashtra, 440023, India  Phone Number +91 7126634555  Revenue: $504.6M  1,891 Employees   Stock Symbol: 532725  Linkedin: http://www.linkedin.com/company/symtech-solar-group  Facebook: http://www.facebook.com/solargroupnz  Twitter: http://www.twitter.com/mssl_solarWho is Solar Industries India  Solar Industries India Limited is an explosives manufacturing company. The Company manufactures, supplies and exports industrial explosives and initiating systems.  Headquarters: Solar House 14 Kachimet Amravati Rd, Nagpur, Maharashtra, 440023, India  Phone Number +91 7126634555  Revenue: $504.6M  1,891 Employees   Stock Symbol: 532725  Linkedin: http://www.linkedin.com/company/symtech-solar-group  Facebook: http://www.facebook.com/solargroupnz  Twitter: http://www.twitter.com/mssl_solar |
 | [`Somacis`](https://www.somacis.com/) | 26/01/2023 | Somacis was founded in 1972. This company manufactures circuit boards and other electronics as well as technology solutions |
 | [`Crescent Crown Distributing`](https://www.crescentcrown.com/) | 26/01/2023 | Crescent Crown sells and delivers more than 30 million cases annually throughout its distribution territories in Arizona and Louisiana. Crescent Crown Distributing is one of the largest distributors in the United States. |
 | [`Copper Mountain`](https://cumtn.com) | 25/01/2023 | Copper Mountain Mining Corporation is a TSX/ASX listed copper producer, developer and explorer. Copper Mountain’s flagship asset is the 75% owned Copper Mountain mine located in southern British Columbia near the town of Princeton. The Copper Mountain mine currently produces approximately 100 million pounds of copper equivalent per year with a planned expansion to increase production to approximately 140 million pounds of copper equivalent per year.  Copper Mountain trades on the Toronto Stock Exchange under the symbol “CMMC” and Australian Stock Exchange under the symbol “C6C” |
@@ -299,4 +300,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Thursday 26/01/2023 09.17 (UTC)_
+Last update : _Thursday 26/01/2023 11.17 (UTC)_

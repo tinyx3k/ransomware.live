@@ -21,7 +21,7 @@ _`captcha prevents indexing`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | DDOS Protection | 🔴 | 26/01/2023 06:34 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
-| AvosLocker | 🔴 | 26/01/2023 04:34 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
+| AvosLocker | 🟢 | 26/01/2023 10:31 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -99,4 +99,4 @@ _`captcha prevents indexing`_
  --- 
 
 
-Last update : _Thursday 26/01/2023 09.17 (UTC)_
+Last update : _Thursday 26/01/2023 11.17 (UTC)_
