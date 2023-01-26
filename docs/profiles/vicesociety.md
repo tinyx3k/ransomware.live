@@ -19,11 +19,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🔴 | 26/01/2023 19:23 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 26/01/2023 23:13 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 26/01/2023 21:29 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🔴 | 26/01/2023 17:21 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 26/01/2023 21:30 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 26/01/2023 23:14 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 26/01/2023 23:15 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 26/01/2023 23:17 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -31,10 +31,11 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 160 posts found
+> 161 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Bristol Community College`](http://www.bristolcc.edu/) | 26/01/2023 | Bristol Community College is a comprehensive, public community college offering more than 130 career and transfer programs of study that lead to an associate degree in science, arts, applied sciences, and certificates of accomplishment or achievement.  |
 | [`CloudCall`](http://www.cloudcall.com.au/) | 23/01/2023 | CloudCall aims to become the leading global provider of cloud solutions for small to medium businesses by simplifying their work life, taking care of their IT environment, and allowing them to focus on their core businesses. |
 | [`emoney Home Loans`](http://www.emoneyhomeloans.com.au/) | 23/01/2023 | With over 25 years of expertise, we're the home for all borrowers. At emoney Home Loans, we know that no ones situation is the same and that when it comes to home loans, there's no one size fits all approach. |
 | [`Monmouth College`](https://www.monmouthcollege.edu/) | 20/01/2023 | Monmouth College is a private Presbyterian liberal arts college in Monmouth, Illinois. Monmouth enrolls approximately 900 students from 21 countries who choose courses from 40 major programs, 43 minors, and 17 pre-professional programs in a core curriculum. |
@@ -199,4 +200,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Thursday 26/01/2023 21.33 (UTC)_
+Last update : _Thursday 26/01/2023 23.21 (UTC)_
