@@ -1,6 +1,6 @@
 
 
-_All `4960` posts_
+_All `4961` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4960` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-26 | [`Travis County Sheriffs Officers Association`](https://google.com/search?q=Travis+County+Sheriffs+Officers+Association) | [royal](profiles.md?id=royal) |
 | 2023-01-26 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://google.com/search?q=CHARLES+P+VONDERHAAR+CPA+WAS+HACKED.+MORE+TNAH+50GB+SENSETIVE+DATA+LEAKED.CHARLES+P+VONDER) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`IOC`](https://google.com/search?q=IOC) | [royal](profiles.md?id=royal) |
 | 2023-01-26 | [`ServiceMaster`](https://google.com/search?q=ServiceMaster) | [royal](profiles.md?id=royal) |
@@ -4970,4 +4971,4 @@ _All `4960` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 26/01/2023 15.12 (UTC)_
+Last update : _Thursday 26/01/2023 17.25 (UTC)_
