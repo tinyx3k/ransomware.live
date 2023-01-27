@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 27/01/2023 18:31 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 27/01/2023 22:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 263 posts found
+> 264 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Ultrabulk`](https://ultrabulk.com) | 27/01/2023 | The Ultranav General Business Principles are the commitment that the company has undertaken with its stakeholders about how to conduct its business at all times, based on its values and corporate culture.  All Ultranav stakeholders, be they employees, customers, suppliers, the community or the competition, are invited to raise their doubts and/or make whistleblowing reports on the activities undertaken by our organisation.  All information reported will be treated in a confidential manner. The Ultranav Ethical Committee will critically evaluate all incoming reports and address issues according to our principles. |
 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://www.cpvcpa.com) | 26/01/2023 | Who is Charles P Vonderhaar Cpa  Headquarters 10001 Alliance Rd Ste 2, Cincinnati, Ohio, 45242, United States Phone Number (513) 563-0598 Fax: (513) 563-1605 Email: chuck@cpvcpa.com |
 | [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://www.solargroup.com) | 26/01/2023 | UPDATE !!! This company did not get in touch at the specified time. In 24 hours the bidding for the sale of all company data will open. Anyone interested in buying can write in TOX: 24B03A9DA9DA26336AF573D1DA2D67782C40975A64EFE2E118FE6209049E0F6E655980C89EAB57B  Who is Solar Industries India  Solar Industries India Limited is an explosives manufacturing company. The Company manufactures, supplies and exports industrial explosives and initiating systems.  Headquarters: Solar House 14 Kachimet Amravati Rd, Nagpur, Maharashtra, 440023, India  Phone Number +91 7126634555  Revenue: $504.6M  1,891 Employees   Stock Symbol: 532725  Linkedin: http://www.linkedin.com/company/symtech-solar-group  Facebook: http://www.facebook.com/solargroupnz  Twitter: http://www.twitter.com/mssl_solarWho is Solar Industries India  Solar Industries India Limited is an explosives manufacturing company. The Company manufactures, supplies and exports industrial explosives and initiating systems.  Headquarters: Solar House 14 Kachimet Amravati Rd, Nagpur, Maharashtra, 440023, India  Phone Number +91 7126634555  Revenue: $504.6M  1,891 Employees   Stock Symbol: 532725  Linkedin: http://www.linkedin.com/company/symtech-solar-group  Facebook: http://www.facebook.com/solargroupnz  Twitter: http://www.twitter.com/mssl_solar |
 | [`Somacis`](https://www.somacis.com/) | 26/01/2023 | Somacis was founded in 1972. This company manufactures circuit boards and other electronics as well as technology solutions |
@@ -301,4 +302,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Friday 27/01/2023 21.16 (UTC)_
+Last update : _Friday 27/01/2023 23.21 (UTC)_
