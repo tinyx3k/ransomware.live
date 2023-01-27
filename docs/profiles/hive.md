@@ -6,7 +6,7 @@
 
 _Parser : `Available`_
 
-_``_
+_`US announces it seized Hive ransomware gang’s leak sites and decryption keys`_
 
 ### External analysis
 - https://inf.news/en/tech/c28d9382ab78a5ac3d8fc802f3f0f1e0.html
@@ -243,4 +243,4 @@ _``_
  --- 
 
 
-Last update : _Friday 27/01/2023 09.21 (UTC)_
+Last update : _Friday 27/01/2023 13.38 (UTC)_
