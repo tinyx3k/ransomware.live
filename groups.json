@@ -1470,10 +1470,10 @@
                 "title": "This domain has been seized",
                 "version": 3,
                 "slug": "http://hiveleakdbtnp76ulyhi52eag6c6tyc3xw7ez7iqy6wc34gd2nekazyd.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2023-01-27 04:45:15.412468",
                 "lastscrape": "2023-01-27 04:45:15.412455",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "hivecust6vhekztbqgdnkks64ucehqacge3dij3gyrrpdp57zoq3ooqd.onion",
@@ -1483,7 +1483,7 @@
                 "available": true,
                 "updated": "2023-01-27 06:47:23.067192",
                 "lastscrape": "2023-01-27 06:47:23.067180",
-                "enabled": true
+                "enabled": false
             },
             {
                 "fqdn": "hiveapi4nyabjdfz2hxdsr7otrcv6zq6m4rk5i2w7j64lrtny4b7vjad.onion",
@@ -1493,7 +1493,7 @@
                 "available": true,
                 "updated": "2023-01-27 06:47:49.450432",
                 "lastscrape": "2023-01-27 06:47:49.450419",
-                "enabled": true
+                "enabled": false
             }
         ],
         "profile": [
