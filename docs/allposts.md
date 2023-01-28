@@ -1,6 +1,6 @@
 
 
-_All `4966` posts_
+_All `4967` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4966` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-27 | [`Helicar`](https://google.com/search?q=Helicar) | [play](profiles.md?id=play) |
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`Bristol Community College`](https://google.com/search?q=Bristol+Community+College) | [vicesociety](profiles.md?id=vicesociety) |
@@ -4976,4 +4977,4 @@ _All `4966` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 27/01/2023 23.21 (UTC)_
+Last update : _Saturday 28/01/2023 02.51 (UTC)_
