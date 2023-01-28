@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-27 | [`Helicar`](https://google.com/search?q=Helicar) | [play](profiles.md?id=play) |
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2022-12-26 | [`Public Employees Credit Union`](https://google.com/search?q=Public+Employees+Credit+Union) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`TPI Corporation`](https://google.com/search?q=TPI+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`CHRISTUS Health`](https://google.com/search?q=CHRISTUS+Health) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`BLUME GLOBAL INC`](https://google.com/search?q=BLUME+GLOBAL+INC) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Saturday 28/01/2023 02.51 (UTC)_
+Last update : _Saturday 28/01/2023 05.25 (UTC)_
