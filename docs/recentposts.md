@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](profiles.md?id=alphv) |
 | 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](profiles.md?id=vicesociety) |
@@ -203,7 +205,5 @@
 | 2022-12-26 | [`CMHA National`](https://google.com/search?q=CMHA+National) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Chimbusco`](https://google.com/search?q=Chimbusco) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`LPA Design`](https://google.com/search?q=LPA+Design) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Public Employees Credit Union`](https://google.com/search?q=Public+Employees+Credit+Union) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`TPI Corporation`](https://google.com/search?q=TPI+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Saturday 28/01/2023 19.19 (UTC)_
+Last update : _Saturday 28/01/2023 21.29 (UTC)_
