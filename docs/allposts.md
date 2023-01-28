@@ -1,6 +1,6 @@
 
 
-_All `4968` posts_
+_All `4969` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `4968` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](profiles.md?id=alphv) |
 | 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-27 | [`Helicar`](https://google.com/search?q=Helicar) | [play](profiles.md?id=play) |
@@ -4978,4 +4979,4 @@ _All `4968` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 28/01/2023 15.14 (UTC)_
+Last update : _Saturday 28/01/2023 17.28 (UTC)_
