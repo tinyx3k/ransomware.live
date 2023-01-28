@@ -9,7 +9,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Qilin | 🟢 | 28/01/2023 17:11 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
+| Qilin | 🟢 | 28/01/2023 19:06 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
 | Qilin blog | 🔴 | 25/01/2023 19:21 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
 
@@ -37,4 +37,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 28/01/2023 17.28 (UTC)_
+Last update : _Saturday 28/01/2023 19.19 (UTC)_
