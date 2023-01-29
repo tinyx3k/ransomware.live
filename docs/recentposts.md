@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2022-12-26 | [`Yildiz Entegre USA`](https://google.com/search?q=Yildiz+Entegre+USA) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`CMHA National`](https://google.com/search?q=CMHA+National) | [avoslocker](profiles.md?id=avoslocker) |
 | 2022-12-26 | [`Chimbusco`](https://google.com/search?q=Chimbusco) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`LPA Design`](https://google.com/search?q=LPA+Design) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Sunday 29/01/2023 11.17 (UTC)_
+Last update : _Sunday 29/01/2023 13.42 (UTC)_
