@@ -1,6 +1,6 @@
 
 
-_All `4988` posts_
+_All `4990` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `4988` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-30 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-30 | [`municipality of Torre del Greco`](https://google.com/search?q=municipality+of+Torre+del+Greco) | [royal](profiles.md?id=royal) |
 | 2023-01-30 | [`Scheppersinstituut Wetteren`](https://google.com/search?q=Scheppersinstituut+Wetteren) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
@@ -4998,4 +5000,4 @@ _All `4988` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 30/01/2023 21.21 (UTC)_
+Last update : _Monday 30/01/2023 23.25 (UTC)_

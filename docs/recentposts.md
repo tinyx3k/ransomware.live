@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-30 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-30 | [`municipality of Torre del Greco`](https://google.com/search?q=municipality+of+Torre+del+Greco) | [royal](profiles.md?id=royal) |
 | 2023-01-30 | [`Scheppersinstituut Wetteren`](https://google.com/search?q=Scheppersinstituut+Wetteren) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2022-12-28 | [`www.buildersmutual.com`](https://google.com/search?q=www.buildersmutual.com) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`INTRADO`](https://google.com/search?q=INTRADO) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Inforlandia`](https://google.com/search?q=Inforlandia) | [royal](profiles.md?id=royal) |
-| 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
-| 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
 
-Last update : _Monday 30/01/2023 21.21 (UTC)_
+Last update : _Monday 30/01/2023 23.25 (UTC)_
