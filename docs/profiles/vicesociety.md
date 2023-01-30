@@ -19,11 +19,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 30/01/2023 15:07 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 30/01/2023 17:21 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 30/01/2023 15:08 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 30/01/2023 15:09 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 30/01/2023 15:10 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 30/01/2023 17:22 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 30/01/2023 17:22 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 30/01/2023 17:23 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -31,10 +31,11 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 164 posts found
+> 165 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Scheppersinstituut Wetteren`](http://www.scheppers-wetteren.be/) | 30/01/2023 | Scheppersinstituut Wetteren is a company that operates in the Education industry. The Scheppers Institute is one of the 6 schools for Secondary Education of the Friars of Scheppers in Flanders. |
 | [`NPTC Group of Colleges`](http://www.nptcgroup.ac.uk/) | 29/01/2023 | NPTC Group of Colleges, formerly Neath Port Talbot College and Coleg Powys, is one of the largest Further Education providers in Wales covering 30 per cent of the countryâ€™s landmass. |
 | [`Seguros Equinoccial`](http://www.segurosequinoccial.com/) | 28/01/2023 | Seguros Equinoccial was born in 1973 and since then it has been a leading company in the Ecuadorian market, always seeking to provide an excellent service to its clients and the most complete insurance solutions for individuals and companies. |
 | [`EGR`](http://www.egr.at/) | 28/01/2023 | We have specialized in the sale of telecommunications and mobile communications products for over 25 years. Through cooperation with our renowned sales partners Magenta and Drei, we have advanced to become the most successful sales company in this sector in Austria. |
@@ -203,4 +204,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Monday 30/01/2023 15.13 (UTC)_
+Last update : _Monday 30/01/2023 17.31 (UTC)_
