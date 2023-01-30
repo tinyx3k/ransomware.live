@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`juvaskin.com`](https://google.com/search?q=juvaskin.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](profiles.md?id=cuba) |
-| 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Monday 30/01/2023 05.36 (UTC)_
+Last update : _Monday 30/01/2023 07.38 (UTC)_
