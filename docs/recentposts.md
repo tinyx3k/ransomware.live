@@ -5,6 +5,19 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`juvaskin.com`](https://google.com/search?q=juvaskin.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`kvie.org`](https://google.com/search?q=kvie.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`cplindustries.co.uk`](https://google.com/search?q=cplindustries.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`bulldoggroupinc.com`](https://google.com/search?q=bulldoggroupinc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`airalbania.com.al`](https://google.com/search?q=airalbania.com.al) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`cm-vimioso.pt`](https://google.com/search?q=cm-vimioso.pt) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`fritsche.eu.com`](https://google.com/search?q=fritsche.eu.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`luacesasesores.es`](https://google.com/search?q=luacesasesores.es) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`perenitysoftware.com`](https://google.com/search?q=perenitysoftware.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
@@ -192,18 +205,5 @@
 | 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | [cuba](profiles.md?id=cuba) |
 | 2022-12-27 | [`Empresas Públicas de Medellín`](https://google.com/search?q=Empresas+P%C3%BAblicas+de+Medell%C3%ADn) | [alphv](profiles.md?id=alphv) |
-| 2022-12-27 | [`FARMS.COM`](https://google.com/search?q=FARMS.COM) | [alphv](profiles.md?id=alphv) |
-| 2022-12-27 | [`CR&R`](https://google.com/search?q=CR%26R) | [alphv](profiles.md?id=alphv) |
-| 2022-12-27 | [`Meyer & Meyer Holding SE & Co. KG`](https://google.com/search?q=Meyer+%26+Meyer+Holding+SE+%26+Co.+KG) | [alphv](profiles.md?id=alphv) |
-| 2022-12-27 | [`SSI Schäfer Shop`](https://google.com/search?q=SSI+Sch%C3%A4fer+Shop) | [alphv](profiles.md?id=alphv) |
-| 2022-12-27 | [`FURETANK,SIRIUS SHIPPING,VAS,DONSONET`](https://google.com/search?q=FURETANK%2CSIRIUS+SHIPPING%2CVAS%2CDONSONET) | [play](profiles.md?id=play) |
-| 2022-12-27 | [`Robinson Pharma`](https://google.com/search?q=Robinson+Pharma) | [royal](profiles.md?id=royal) |
-| 2022-12-27 | [`Fantasy Springs Resort Casino`](https://google.com/search?q=Fantasy+Springs+Resort+Casino) | [royal](profiles.md?id=royal) |
-| 2022-12-26 | [`LW Group`](https://google.com/search?q=LW+Group) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Keyano College`](https://google.com/search?q=Keyano+College) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`McKenzie Health System`](https://google.com/search?q=McKenzie+Health+System) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Avamere Family of Companies`](https://google.com/search?q=Avamere+Family+of+Companies) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`Yildiz Entegre USA`](https://google.com/search?q=Yildiz+Entegre+USA) | [avoslocker](profiles.md?id=avoslocker) |
-| 2022-12-26 | [`CMHA National`](https://google.com/search?q=CMHA+National) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Monday 30/01/2023 03.37 (UTC)_
+Last update : _Monday 30/01/2023 05.36 (UTC)_

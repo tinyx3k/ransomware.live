@@ -1,6 +1,6 @@
 
 
-_All `4973` posts_
+_All `4986` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,19 @@ _All `4973` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`juvaskin.com`](https://google.com/search?q=juvaskin.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`kvie.org`](https://google.com/search?q=kvie.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`cplindustries.co.uk`](https://google.com/search?q=cplindustries.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`bulldoggroupinc.com`](https://google.com/search?q=bulldoggroupinc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`airalbania.com.al`](https://google.com/search?q=airalbania.com.al) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`thermal.com`](https://google.com/search?q=thermal.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`cm-vimioso.pt`](https://google.com/search?q=cm-vimioso.pt) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`fritsche.eu.com`](https://google.com/search?q=fritsche.eu.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`luacesasesores.es`](https://google.com/search?q=luacesasesores.es) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-30 | [`perenitysoftware.com`](https://google.com/search?q=perenitysoftware.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
@@ -4983,4 +4996,4 @@ _All `4973` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 30/01/2023 03.37 (UTC)_
+Last update : _Monday 30/01/2023 05.36 (UTC)_
