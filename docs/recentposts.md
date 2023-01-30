@@ -206,4 +206,4 @@
 | 2022-12-27 | [`HELMA Eigenheimbau AG`](https://google.com/search?q=HELMA+Eigenheimbau+AG) | [royal](profiles.md?id=royal) |
 | 2022-12-27 | [`Grupo Ibiapina Ltda`](https://google.com/search?q=Grupo+Ibiapina+Ltda) | [royal](profiles.md?id=royal) |
 
-Last update : _Monday 30/01/2023 19.27 (UTC)_
+Last update : _Monday 30/01/2023 21.21 (UTC)_
