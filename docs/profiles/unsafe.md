@@ -9,7 +9,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Home - UnSafeBlog | 🟢 | 30/01/2023 23:13 | `http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion` | <a href="https://www.ransomware.live/screenshots/unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd-onion.png" target=_blank>📸</a> | 
+| Home - UnSafeBlog | 🟢 | 31/01/2023 02:45 | `http://unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion` | <a href="https://www.ransomware.live/screenshots/unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -29,4 +29,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 30/01/2023 23.25 (UTC)_
+Last update : _Tuesday 31/01/2023 03.11 (UTC)_
