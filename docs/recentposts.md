@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-01-31 | [`TechInsights`](https://google.com/search?q=TechInsights) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-31 | [`Societa Italiana Brevetti SpA`](https://google.com/search?q=Societa+Italiana+Brevetti+SpA) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-31 | [`2cara.fr`](https://google.com/search?q=2cara.fr) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-31 | [`tcels.or.th`](https://google.com/search?q=tcels.or.th) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-31 | [`parkavedoors.com`](https://google.com/search?q=parkavedoors.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2022-12-28 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | [snatch](profiles.md?id=snatch) |
 | 2022-12-28 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | [snatch](profiles.md?id=snatch) |
 | 2022-12-28 | [`Square Yards`](https://google.com/search?q=Square+Yards) | [snatch](profiles.md?id=snatch) |
-| 2022-12-28 | [`TCL Chinese Theatres`](https://google.com/search?q=TCL+Chinese+Theatres) | [snatch](profiles.md?id=snatch) |
-| 2022-12-28 | [`Trubee, Collins & Co`](https://google.com/search?q=Trubee%2C+Collins+%26+Co) | [snatch](profiles.md?id=snatch) |
 
-Last update : _Tuesday 31/01/2023 15.16 (UTC)_
+Last update : _Tuesday 31/01/2023 17.32 (UTC)_

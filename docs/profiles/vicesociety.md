@@ -19,11 +19,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 31/01/2023 15:08 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 31/01/2023 17:22 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
 | Vice Society - Official Site | 🔴 | 31/01/2023 13:41 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 31/01/2023 15:09 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 31/01/2023 15:10 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 31/01/2023 17:23 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 31/01/2023 17:24 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -31,10 +31,12 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 166 posts found
+> 168 posts found
 
 | post | date | Description
 |---|---|---|
+| [`TechInsights`](http://www.semiconductor.com/) | 31/01/2023 | For over 30 years we have existed to support a fair marketplace where semiconductor and electronics intellectual property can be innovated and monetized. |
+| [`Societa Italiana Brevetti SpA`](http://www.sib.it/) | 31/01/2023 | We are a leading firm in intellectual property consultancy , specialized in the protection and defense of patents, trademarks, models, designs and copyrights, among the very first in terms of appreciation at an international level. |
 | [`Okanagan College`](http://www.okanagan.bc.ca/) | 30/01/2023 | Established in 1963, Okanagan College has since grown to be the largest college in British Columbia outside the Lower Mainland and Victoria with over 8,500 full-time students on four regional campuses and is the second-largest trade school in British Columbia. Approximately 1,000 international students from over 40 countries currently study at Okanagan College. |
 | [`Scheppersinstituut Wetteren`](http://www.scheppers-wetteren.be/) | 30/01/2023 | Scheppersinstituut Wetteren is a company that operates in the Education industry. The Scheppers Institute is one of the 6 schools for Secondary Education of the Friars of Scheppers in Flanders. |
 | [`NPTC Group of Colleges`](http://www.nptcgroup.ac.uk/) | 29/01/2023 | NPTC Group of Colleges, formerly Neath Port Talbot College and Coleg Powys, is one of the largest Further Education providers in Wales covering 30 per cent of the countryâ€™s landmass. |
@@ -205,4 +207,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Tuesday 31/01/2023 15.16 (UTC)_
+Last update : _Tuesday 31/01/2023 17.32 (UTC)_
