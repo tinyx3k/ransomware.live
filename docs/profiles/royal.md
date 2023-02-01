@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 01/02/2023 05:05 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🔴 | 01/02/2023 02:49 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 01/02/2023 07:13 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 01/02/2023 07:13 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 127 posts found
+> 128 posts found
 
 | post | date | Description
 |---|---|---|
+| [`TK Elevator`](https://www.tkelevator.com) | 01/02/2023 | We are moved by what moves people. By what moves the world. In ever-growing cities. We provide better access. And new ways to travel longer distances. With clear solutions for increasingly complex infrastructures. We define service by always putting our knowledge to our customers’ advantage. We are always dedicated to doing better. Day by day. This is who we are. This is TK Elevator.Engineering that keeps the world moving. |
 | [`municipality of Torre del Greco`](http://comune.torredelgreco.na.it) | 30/01/2023 | Torre del Greco (Italian pronunciation: Neapolitan: Torre d' 'o Grieco; "Greek man's Tower") is a comune in the Metropolitan City of Naples in Italy, with a population of c. 85,000 as of 2016. The locals are sometimes called Corallini because of the once plentiful coral in the nearby sea, and because the city has been a major producer of coral jewellery and cameo brooches since the seventeenth century. |
 | [`Travis County Sheriffs Officers Association`](https://www.traviscountytx.gov) | 26/01/2023 | Travis County Sheriff's Officers Association is a company that operates in the Government industry. |
 | [`IOC`](http://www.ioccompany.com) | 26/01/2023 | IOC Company, LLC is a full service heavy civil contractor. Our primary market is the highway and road industryFounded in 2005, IOC Company, L.L.C. is a heavy civil contractor with a history of top performance in various markets. We are best known for transportation infrastructure projects. We have built our reputation on our core values: integrity, honesty, and dedication to providing superior quality to our clients. IOC Company, L.L.C. has successfully completed projects ranging from small site developments to multimillion dollar road infrastructure projects. IOC Company, L.L.C. develops and perfects each project's individual critical path in order to carefully manage every aspect of the project and avoid potential conflicts. Using the latest technology in the industry has led IOC Company, L.L.C. to produce high quality projects in an efficient manner. IOC Company, L.L.C. also produces sand, gravel, flex base (caliche) and other construction materials. |
@@ -152,4 +153,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 01/02/2023 05.16 (UTC)_
+Last update : _Wednesday 01/02/2023 07.30 (UTC)_

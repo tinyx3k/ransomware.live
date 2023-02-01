@@ -1,6 +1,6 @@
 
 
-_All `4996` posts_
+_All `4998` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `4996` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-02-01 | [`TK Elevator`](https://google.com/search?q=TK+Elevator) | [royal](profiles.md?id=royal) |
 | 2023-01-31 | [`TechInsights`](https://google.com/search?q=TechInsights) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-31 | [`Societa Italiana Brevetti SpA`](https://google.com/search?q=Societa+Italiana+Brevetti+SpA) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-31 | [`2cara.fr`](https://google.com/search?q=2cara.fr) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5006,4 +5008,4 @@ _All `4996` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 01/02/2023 05.16 (UTC)_
+Last update : _Wednesday 01/02/2023 07.30 (UTC)_

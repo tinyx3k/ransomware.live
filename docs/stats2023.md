@@ -7,4 +7,10 @@
 |---|---|
 | ![](graphs/grouppie202301.png) | | 
 
-Last update : _Tuesday 31/01/2023 17.32 (UTC)_
+## February
+
+| ![](graphs/postsbyday202302.png) | ![](graphs/postsbygroup202302.png) |
+|---|---|
+| ![](graphs/grouppie202302.png) | | 
+
+Last update : _Wednesday 01/02/2023 07.30 (UTC)_
