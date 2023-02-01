@@ -206,4 +206,4 @@
 | 2022-12-28 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://google.com/search?q=ELOTECH+-+HACKED+AND+MORE+THEN+100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
 | 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Wednesday 01/02/2023 21.20 (UTC)_
+Last update : _Wednesday 01/02/2023 23.21 (UTC)_
