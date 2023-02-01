@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-01 | [`N** ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-02-01 | [`TK Elevator`](https://google.com/search?q=TK+Elevator) | [royal](profiles.md?id=royal) |
 | 2023-01-31 | [`TechInsights`](https://google.com/search?q=TechInsights) | [vicesociety](profiles.md?id=vicesociety) |
@@ -204,6 +205,5 @@
 | 2022-12-28 | [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-12-28 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://google.com/search?q=ELOTECH+-+HACKED+AND+MORE+THEN+100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
 | 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](profiles.md?id=alphv) |
-| 2022-12-28 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | [snatch](profiles.md?id=snatch) |
 
-Last update : _Wednesday 01/02/2023 17.34 (UTC)_
+Last update : _Wednesday 01/02/2023 19.22 (UTC)_
