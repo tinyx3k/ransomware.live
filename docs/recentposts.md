@@ -5,6 +5,15 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`avantetextil.com.mx`](https://google.com/search?q=avantetextil.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`byte.gr`](https://google.com/search?q=byte.gr) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`biosonicsinc.com`](https://google.com/search?q=biosonicsinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`MESSER CUTTING SYSTEMS`](https://google.com/search?q=MESSER+CUTTING+SYSTEMS) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](profiles.md?id=alphv) |
 | 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -196,14 +205,5 @@
 | 2022-12-31 | [`e-driver.hsc.gov.ua`](https://google.com/search?q=e-driver.hsc.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hive](profiles.md?id=hive) |
-| 2022-12-30 | [`AONTTAGL`](https://google.com/search?q=AONTTAGL) | [royal](profiles.md?id=royal) |
-| 2022-12-30 | [`presco.com`](https://google.com/search?q=presco.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-30 | [`Camst Group`](https://google.com/search?q=Camst+Group) | [hive](profiles.md?id=hive) |
-| 2022-12-30 | [`Iowa Public Television`](https://google.com/search?q=Iowa+Public+Television) | [royal](profiles.md?id=royal) |
-| 2022-12-30 | [`Waterloo Wellington Flight Centre`](https://google.com/search?q=Waterloo+Wellington+Flight+Centre) | [royal](profiles.md?id=royal) |
-| 2022-12-29 | [`CPTM`](https://google.com/search?q=CPTM) | [blackbyte](profiles.md?id=blackbyte) |
-| 2022-12-29 | [`St. Rose Hospital`](https://google.com/search?q=St.+Rose+Hospital) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-29 | [`MITCON Consultancy & Engineering Services`](https://google.com/search?q=MITCON+Consultancy+%26+Engineering+Services) | [bianlian](profiles.md?id=bianlian) |
-| 2022-12-29 | [`*********** E*****`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+E%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Thursday 02/02/2023 21.16 (UTC)_
+Last update : _Thursday 02/02/2023 23.37 (UTC)_

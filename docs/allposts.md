@@ -1,6 +1,6 @@
 
 
-_All `5005` posts_
+_All `5014` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,15 @@ _All `5005` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`avantetextil.com.mx`](https://google.com/search?q=avantetextil.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`byte.gr`](https://google.com/search?q=byte.gr) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-02 | [`biosonicsinc.com`](https://google.com/search?q=biosonicsinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`MESSER CUTTING SYSTEMS`](https://google.com/search?q=MESSER+CUTTING+SYSTEMS) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](profiles.md?id=alphv) |
 | 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5015,4 +5024,4 @@ _All `5005` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 02/02/2023 21.16 (UTC)_
+Last update : _Thursday 02/02/2023 23.37 (UTC)_
