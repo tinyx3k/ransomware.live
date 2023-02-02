@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-02 | [`pharmagestao.com.br`](https://google.com/search?q=pharmagestao.com.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-01 | [`N** ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-02-01 | [`TK Elevator`](https://google.com/search?q=TK+Elevator) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2022-12-28 | [`Emoney`](https://google.com/search?q=Emoney) | [royal](profiles.md?id=royal) |
 | 2022-12-28 | [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2022-12-28 | [`ELOTECH - HACKED AND MORE THEN 100 GB DATA LEAKED!`](https://google.com/search?q=ELOTECH+-+HACKED+AND+MORE+THEN+100+GB+DATA+LEAKED%21) | [alphv](profiles.md?id=alphv) |
-| 2022-12-28 | [`JAKKS Pacific, Inc.`](https://google.com/search?q=JAKKS+Pacific%2C+Inc.) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Wednesday 01/02/2023 23.21 (UTC)_
+Last update : _Thursday 02/02/2023 02.55 (UTC)_
