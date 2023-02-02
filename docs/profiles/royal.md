@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 02/02/2023 05:09 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 02/02/2023 05:09 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 02/02/2023 07:11 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 02/02/2023 07:12 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 128 posts found
+> 129 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Casa Ley`](https://www.casaley.com.mx/) | 02/02/2023 | Casa Ley is a grocery store. It provides food and general merchandise. It was founded in 1954 and is headquartered in Culiacán, Mexico.Headquarters: Carretera Internacional Y Km1434 Col. Infonavlt Humaya, Culiacan, Sinaloa, 80020, MexicoPhone Number: +52 6677591000 |
 | [`TK Elevator`](https://www.tkelevator.com) | 01/02/2023 | We are moved by what moves people. By what moves the world. In ever-growing cities. We provide better access. And new ways to travel longer distances. With clear solutions for increasingly complex infrastructures. We define service by always putting our knowledge to our customers’ advantage. We are always dedicated to doing better. Day by day. This is who we are. This is TK Elevator.Engineering that keeps the world moving. |
 | [`municipality of Torre del Greco`](http://comune.torredelgreco.na.it) | 30/01/2023 | Torre del Greco (Italian pronunciation: Neapolitan: Torre d' 'o Grieco; "Greek man's Tower") is a comune in the Metropolitan City of Naples in Italy, with a population of c. 85,000 as of 2016. The locals are sometimes called Corallini because of the once plentiful coral in the nearby sea, and because the city has been a major producer of coral jewellery and cameo brooches since the seventeenth century. |
 | [`Travis County Sheriffs Officers Association`](https://www.traviscountytx.gov) | 26/01/2023 | Travis County Sheriff's Officers Association is a company that operates in the Government industry. |
@@ -153,4 +154,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 02/02/2023 05.21 (UTC)_
+Last update : _Thursday 02/02/2023 07.25 (UTC)_

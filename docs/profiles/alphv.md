@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 01/02/2023 22:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 02/02/2023 06:32 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 266 posts found
+> 267 posts found
 
 | post | date | Description
 |---|---|---|
+| [`SOTO Consulting Engineers`](https://soto.com.au/) | 02/02/2023 | ALL DATA AVAILABLE FOR DOWNLOADING!!! |
 | [`Portnoff Law Associates`](https://portnoffonline.com/) | 28/01/2023 | Portnoff Law Associates, Ltd. was established in Paoli, Pennsylvania in 1989 by the father – daughter team of Alan Portnoff and Michelle Portnoff. Since 1997, our practice has been limited to the collection of delinquent real estate taxes and municipal utility fees for Pennsylvania municipal governments, including municipalities, school districts and authorities.  Portnoff Law Associates strives to increase each municipal client’s revenue through the enhanced collection of delinquent real estate tax and utility fee accounts, while providing payment flexibility and excellent customer service to its residents.  Currently, we collect delinquent accounts for more than 200 municipal clients in 25 Pennsylvania counties. |
 | [`Westmont Hospitality Group`](https://www.whg.com/) | 28/01/2023 | Westmont Hospitality Group was founded in 1975. This company provides aspects of hotel management, and other facility services. |
 | [`Ultrabulk`](https://ultrabulk.com) | 27/01/2023 | The Ultranav General Business Principles are the commitment that the company has undertaken with its stakeholders about how to conduct its business at all times, based on its values and corporate culture.  All Ultranav stakeholders, be they employees, customers, suppliers, the community or the competition, are invited to raise their doubts and/or make whistleblowing reports on the activities undertaken by our organisation.  All information reported will be treated in a confidential manner. The Ultranav Ethical Committee will critically evaluate all incoming reports and address issues according to our principles. |
@@ -304,4 +305,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Thursday 02/02/2023 05.21 (UTC)_
+Last update : _Thursday 02/02/2023 07.25 (UTC)_
