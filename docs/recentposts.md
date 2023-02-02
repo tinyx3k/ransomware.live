@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`Casa Ley`](https://google.com/search?q=Casa+Ley) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`SOTO Consulting Engineers`](https://google.com/search?q=SOTO+Consulting+Engineers) | [alphv](profiles.md?id=alphv) |
 | 2023-02-02 | [`pharmagestao.com.br`](https://google.com/search?q=pharmagestao.com.br) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-29 | [`*********** E*****`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+E%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2022-12-29 | [`portodelisboa.pt`](https://google.com/search?q=portodelisboa.pt) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-28 | [`SUMITOMO BAKELITE USA`](https://google.com/search?q=SUMITOMO+BAKELITE+USA) | [alphv](profiles.md?id=alphv) |
-| 2022-12-28 | [`Emoney`](https://google.com/search?q=Emoney) | [royal](profiles.md?id=royal) |
 
-Last update : _Thursday 02/02/2023 07.25 (UTC)_
+Last update : _Thursday 02/02/2023 09.39 (UTC)_
