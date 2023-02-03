@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-03 | [`scandia.ro`](https://google.com/search?q=scandia.ro) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-03 | [`bethrivkah.edu`](https://google.com/search?q=bethrivkah.edu) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-03 | [`sakrgroup.net`](https://google.com/search?q=sakrgroup.net) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-03 | [`crystalcreamery.com`](https://google.com/search?q=crystalcreamery.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-03 | [`tonoli.com`](https://google.com/search?q=tonoli.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-03 | [`guardiananalytics.com`](https://google.com/search?q=guardiananalytics.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -199,11 +205,5 @@
 | 2022-12-31 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`motorsich.com`](https://google.com/search?q=motorsich.com) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`mtsbu.ua`](https://google.com/search?q=mtsbu.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`health.mia`](https://google.com/search?q=health.mia) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`minregion.gov.ua`](https://google.com/search?q=minregion.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`wanted.mvs.gov.ua`](https://google.com/search?q=wanted.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`e-driver.hsc.gov.ua`](https://google.com/search?q=e-driver.hsc.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hive](profiles.md?id=hive) |
 
-Last update : _Friday 03/02/2023 02.51 (UTC)_
+Last update : _Friday 03/02/2023 04.09 (UTC)_
