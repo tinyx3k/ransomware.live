@@ -206,4 +206,4 @@
 | 2022-12-31 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Friday 03/02/2023 15.28 (UTC)_
+Last update : _Friday 03/02/2023 17.27 (UTC)_

@@ -18,7 +18,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🕓 There have been `26` posts within the `month of february`
 
-📅 There have been `905` posts within the `last 90 days`
+📅 There have been `903` posts within the `last 90 days`
 
 🏚 There have been `190` posts since the `1st January 2023`
 
@@ -34,5 +34,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Friday 03/02/2023 15.28 (UTC)_
+Last update : _Friday 03/02/2023 17.27 (UTC)_
 
