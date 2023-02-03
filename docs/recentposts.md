@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`jjdentistry.com`](https://google.com/search?q=jjdentistry.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`scandia.ro`](https://google.com/search?q=scandia.ro) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`bethrivkah.edu`](https://google.com/search?q=bethrivkah.edu) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-31 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`kyivcity.com`](https://google.com/search?q=kyivcity.com) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`motorsich.com`](https://google.com/search?q=motorsich.com) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Friday 03/02/2023 13.49 (UTC)_
+Last update : _Friday 03/02/2023 15.28 (UTC)_
