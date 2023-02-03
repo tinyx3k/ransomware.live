@@ -206,4 +206,4 @@
 | 2022-12-31 | [`diia.gov.ua`](https://google.com/search?q=diia.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`Centro Médico Virgen De La Caridad`](https://google.com/search?q=Centro+M%C3%A9dico+Virgen+De+La+Caridad) | [hive](profiles.md?id=hive) |
 
-Last update : _Thursday 02/02/2023 23.37 (UTC)_
+Last update : _Friday 03/02/2023 02.51 (UTC)_
