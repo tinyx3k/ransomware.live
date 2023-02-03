@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | [play](profiles.md?id=play) |
 | 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`jjdentistry.com`](https://google.com/search?q=jjdentistry.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-31 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`gkh.in.ua`](https://google.com/search?q=gkh.in.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`bdr.mvs.gov.ua`](https://google.com/search?q=bdr.mvs.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Friday 03/02/2023 19.22 (UTC)_
+Last update : _Friday 03/02/2023 21.42 (UTC)_
