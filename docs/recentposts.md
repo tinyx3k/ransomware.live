@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](profiles.md?id=alphv) |
 | 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Saturday 04/02/2023 21.13 (UTC)_
+Last update : _Saturday 04/02/2023 23.16 (UTC)_
