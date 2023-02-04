@@ -206,4 +206,4 @@
 | 2022-12-31 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`kmu.gov.ua`](https://google.com/search?q=kmu.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Saturday 04/02/2023 02.39 (UTC)_
+Last update : _Saturday 04/02/2023 03.31 (UTC)_
