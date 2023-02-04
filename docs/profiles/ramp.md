@@ -18,7 +18,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` | ❌ | 
-| Log in - RAMP | 🔴 | 03/02/2023 20:28 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
+| Log in - RAMP | 🟢 | 04/02/2023 01:51 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` | ❌ | 
 
 ### Posts
@@ -29,4 +29,4 @@ _`Forum`_
  --- 
 
 
-Last update : _Friday 03/02/2023 23.34 (UTC)_
+Last update : _Saturday 04/02/2023 02.39 (UTC)_
