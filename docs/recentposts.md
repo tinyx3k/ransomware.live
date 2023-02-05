@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](profiles.md?id=alphv) |
 | 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2023-01-01 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`QUT`](https://google.com/search?q=QUT) | [royal](profiles.md?id=royal) |
-| 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 05/02/2023 13.37 (UTC)_
+Last update : _Sunday 05/02/2023 15.36 (UTC)_
