@@ -206,4 +206,4 @@
 | 2022-12-31 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 | 2022-12-31 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Sunday 05/02/2023 02.48 (UTC)_
+Last update : _Sunday 05/02/2023 03.51 (UTC)_
