@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 05/02/2023 06:31 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 05/02/2023 10:28 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 269 posts found
+> 270 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Finaport`](https://www.finaport.com) | 05/02/2023 | Finaport is an independent and regulated Swiss Wealth Management Firm with offices in Switzerland, Singapore and Liechtenstein. Finaport companies are licenced to render investment services to clients in many other countries including most EU/EEA countries, the U.S. and Canada. We offer wealth management, investment advice and investment banking services such as IPO advice and direct investment as well as carefully selected, first class investment products.  FINAPORT is a founding member of the exclusive Alliance of Swiss Wealth Managers, where more than 1000 employees manage over 100 billion USD of client’s assets.  Our clients are wealthy individuals and their families from around the world.  FINAPORT offers access to outstanding investment solutions and products that are tailored to the specific needs of our customers.  We offer wealth management, investment advice and investment banking services such as IPO advice and direct investment as well as somecarefully selected, first class investment products. |
 | [`Five Guys Enterprises, LLC`](https://fiveguys.com) | 04/02/2023 | Five Guys Enterprises, LLC is a food-chain |
 | [`McEwan Fraser Legal`](https://www.mcewanfraserlegal.co.uk/) | 02/02/2023 | McEwan Fraser Legal is an award-winning Solicitors and Estate Agents. We have properties for sale all over Scotland including Edinburgh and Glasgow. We specialise in the sale of both residential and commercial properties. With a proven track record, we strive to provide the best service an Estate Agents can offer; our Property Matching database benefits both sellers and buyers as it matches buyers to their ideal property. |
 | [`SOTO Consulting Engineers`](https://soto.com.au/) | 02/02/2023 | ALL DATA AVAILABLE FOR DOWNLOADING!!! |
@@ -307,4 +308,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Sunday 05/02/2023 09.24 (UTC)_
+Last update : _Sunday 05/02/2023 11.33 (UTC)_

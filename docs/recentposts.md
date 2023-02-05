@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](profiles.md?id=alphv) |
 | 2023-02-04 | [`Five Guys Enterprises, LLC`](https://google.com/search?q=Five+Guys+Enterprises%2C+LLC) | [alphv](profiles.md?id=alphv) |
 | 2023-02-04 | [`nexuspoint.com`](https://google.com/search?q=nexuspoint.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`virtuosgames.com`](https://google.com/search?q=virtuosgames.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`QUT`](https://google.com/search?q=QUT) | [royal](profiles.md?id=royal) |
 | 2022-12-31 | [`hacla.org`](https://google.com/search?q=hacla.org) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-31 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
-| 2022-12-31 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | [freecivilian](profiles.md?id=freecivilian) |
 
-Last update : _Sunday 05/02/2023 09.24 (UTC)_
+Last update : _Sunday 05/02/2023 11.33 (UTC)_
