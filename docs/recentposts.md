@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](profiles.md?id=alphv) |
 | 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-05 | [`Finaport`](https://google.com/search?q=Finaport) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2023-01-01 | [`CDER`](https://google.com/search?q=CDER) | [play](profiles.md?id=play) |
 | 2023-01-01 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-31 | [`QUT`](https://google.com/search?q=QUT) | [royal](profiles.md?id=royal) |
 
-Last update : _Monday 06/02/2023 07.25 (UTC)_
+Last update : _Monday 06/02/2023 09.29 (UTC)_
