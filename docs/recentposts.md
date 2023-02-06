@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-06 | [`INNOVATION COLLABORATION SYNERGY`](https://google.com/search?q=INNOVATION+COLLABORATION+SYNERGY) | [royal](profiles.md?id=royal) |
+| 2023-02-06 | [`hkri.com`](https://google.com/search?q=hkri.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`medellin.gov.co`](https://google.com/search?q=medellin.gov.co) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`jams.edu.jo`](https://google.com/search?q=jams.edu.jo) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`nicklaus.com`](https://google.com/search?q=nicklaus.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`prlabs.com`](https://google.com/search?q=prlabs.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -202,8 +205,5 @@
 | 2023-01-04 | [`CAPMC`](https://google.com/search?q=CAPMC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-03 | [`Tarntank Ship Management`](https://google.com/search?q=Tarntank+Ship+Management) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`Aeronautics company Canada - UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+-+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | [everest](profiles.md?id=everest) |
-| 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](profiles.md?id=play) |
-| 2023-01-03 | [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | [play](profiles.md?id=play) |
-| 2023-01-03 | [`Furetank`](https://google.com/search?q=Furetank) | [play](profiles.md?id=play) |
 
-Last update : _Monday 06/02/2023 14.16 (UTC)_
+Last update : _Monday 06/02/2023 15.34 (UTC)_

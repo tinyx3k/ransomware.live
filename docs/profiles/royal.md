@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 06/02/2023 13:36 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🔴 | 06/02/2023 11:13 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🔴 | 06/02/2023 13:36 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 06/02/2023 15:06 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 130 posts found
+> 131 posts found
 
 | post | date | Description
 |---|---|---|
+| [`INNOVATION COLLABORATION SYNERGY`](https://www.ics-nett.com/) | 06/02/2023 | ICS Nett delivers innovative solutions to critical challenges facing the nation and the world. As a premier provider of integrated services and solutions for the U. S. Government, it supports the Department of Defense, Cyber & Intelligence community.Pass archive: UwxKnTbZ5LsrPSxqSPKNsTjVKWWU9jRzgTS |
 | [`MESSER CUTTING SYSTEMS`](https://us.messer-cutting.com/) | 02/02/2023 | Messer Cutting Systems is a global supplier of cutting solutions for the metal-working industry. We have stolen from their network 600 GB in total, including:1) personal data, HR, Finance, Projects etc.;2) Mailboxes - 37 GBMary Svitak - AccountingDebbie Richter - Accounting Manager / ControllerLinda Sierszynski - HR ManagerJulie Wolf - AccountingMark Ringgenberg - Director Global Product PortfolioBeth Rouse - Accounting;3) SQL Databases - 10 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: gEs1S!g#hH
  |
 | [`Casa Ley`](https://www.casaley.com.mx/) | 02/02/2023 | Casa Ley is a grocery store. It provides food and general merchandise. It was founded in 1954 and is headquartered in Culiacán, Mexico.Headquarters: Carretera Internacional Y Km1434 Col. Infonavlt Humaya, Culiacan, Sinaloa, 80020, MexicoPhone Number: +52 6677591000 |
@@ -156,4 +157,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 06/02/2023 14.16 (UTC)_
+Last update : _Monday 06/02/2023 15.34 (UTC)_
