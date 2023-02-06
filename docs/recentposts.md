@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-06 | [`jams.edu.jo`](https://google.com/search?q=jams.edu.jo) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`nicklaus.com`](https://google.com/search?q=nicklaus.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`prlabs.com`](https://google.com/search?q=prlabs.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`wcinet.com`](https://google.com/search?q=wcinet.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`crispinvalve.com`](https://google.com/search?q=crispinvalve.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`etbrick.com`](https://google.com/search?q=etbrick.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](profiles.md?id=alphv) |
 | 2023-02-05 | [`qsi-q3.de`](https://google.com/search?q=qsi-q3.de) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-05 | [`bplawyers.co.id`](https://google.com/search?q=bplawyers.co.id) | [lockbit3](profiles.md?id=lockbit3) |
@@ -199,11 +205,5 @@
 | 2023-01-03 | [`Sirius Shipping`](https://google.com/search?q=Sirius+Shipping) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`SUNY Polytechnic Institute`](https://google.com/search?q=SUNY+Polytechnic+Institute) | [play](profiles.md?id=play) |
 | 2023-01-03 | [`Furetank`](https://google.com/search?q=Furetank) | [play](profiles.md?id=play) |
-| 2023-01-02 | [`Stratacache`](https://google.com/search?q=Stratacache) | [play](profiles.md?id=play) |
-| 2023-01-02 | [`Dental One`](https://google.com/search?q=Dental+One) | [alphv](profiles.md?id=alphv) |
-| 2023-01-02 | [`S???`](https://google.com/search?q=S%3F%3F%3F) | [play](profiles.md?id=play) |
-| 2023-01-01 | [`CDER`](https://google.com/search?q=CDER) | [play](profiles.md?id=play) |
-| 2023-01-01 | [`eds-automotive.de`](https://google.com/search?q=eds-automotive.de) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-12-31 | [`sickkids.ca`](https://google.com/search?q=sickkids.ca) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 06/02/2023 11.24 (UTC)_
+Last update : _Monday 06/02/2023 14.16 (UTC)_
