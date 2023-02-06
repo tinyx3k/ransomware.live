@@ -1,6 +1,6 @@
 
 
-_All `5040` posts_
+_All `5046` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,12 @@ _All `5040` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-06 | [`AmerisourceBergen/Censora - MWI Animal Health`](https://google.com/search?q=AmerisourceBergen%2FCensora+-+MWI+Animal+Health) | [lorenz](profiles.md?id=lorenz) |
+| 2023-02-06 | [`teleapps.com`](https://google.com/search?q=teleapps.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-06 | [`Woodmeister Master Builders, Inc.`](https://google.com/search?q=Woodmeister+Master+Builders%2C+Inc.) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-06 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-06 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-06 | [`A*********`](https://google.com/search?q=A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-06 | [`INNOVATION COLLABORATION SYNERGY`](https://google.com/search?q=INNOVATION+COLLABORATION+SYNERGY) | [royal](profiles.md?id=royal) |
 | 2023-02-06 | [`hkri.com`](https://google.com/search?q=hkri.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`medellin.gov.co`](https://google.com/search?q=medellin.gov.co) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5050,4 +5056,4 @@ _All `5040` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 06/02/2023 15.34 (UTC)_
+Last update : _Monday 06/02/2023 17.42 (UTC)_
