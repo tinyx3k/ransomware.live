@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-07 | [`cantinatollo.it`](https://google.com/search?q=cantinatollo.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-07 | [`The DGCX`](https://google.com/search?q=The+DGCX) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-07 | [`royalmailgroup.com`](https://google.com/search?q=royalmailgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`L?? C??e`](https://google.com/search?q=L%3F%3F+C%3F%3Fe) | [play](profiles.md?id=play) |
@@ -204,6 +205,5 @@
 | 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-06 | [`LetMeRepair`](https://google.com/search?q=LetMeRepair) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Tuesday 07/02/2023 13.05 (UTC)_
+Last update : _Tuesday 07/02/2023 13.49 (UTC)_
