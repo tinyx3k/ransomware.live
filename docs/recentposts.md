@@ -206,4 +206,4 @@
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Tuesday 07/02/2023 17.31 (UTC)_
+Last update : _Tuesday 07/02/2023 19.28 (UTC)_
