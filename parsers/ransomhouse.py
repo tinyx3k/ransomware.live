@@ -3,6 +3,7 @@ import re
 from bs4 import BeautifulSoup
 from sharedutils import errlog
 from parse import appender
+import json
 
 def main():
     for filename in os.listdir('source'):

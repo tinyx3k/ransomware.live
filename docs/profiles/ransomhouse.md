@@ -21,10 +21,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 22 posts found
+> 23 posts found
 
 | post | date | Description
 |---|---|---|
+| [`The DGCX`](https://www.dgcx.ae/) | 07/02/2023 | Dubai has historically been an international hub for the physical trade of not only gold, but also many other commodities and so the establishment of the Dubai Gold & Commodities Exchange (DGCX) was the next logical step for the region and the local economy. DGCX commenced trading in November 2005 as the regions first commodity derivatives exchange and has become today, the leading derivatives exchange in the Middle East |
 | [`Holovis`](https://www.holovis.com/) | 14/01/2023 | Holovis design and install world-class experiential solutions for global themed entertainment, visitor attractions and enterprise clients. |
 | [`Trans Maldivian Airways`](https://www.transmaldivian.com/) | 13/01/2023 | Trans Maldivian Airways is your getaway to the stunning Maldives. With the world’s largest seaplane fleet, Trans Maldivian Airways takes you from Velana International Airport in Malé to your island holiday destination. Life is about the journey, and this will likely be the most scenic one in your life. Trans Maldivian Airways currently offers transfer services to more than 80 Maldives resorts, flying over 1,000,000 passengers per year to their holiday hideaways. |
 | [`IMI Hydronic Engineering`](https://www.imi-hydronic.com/) | 12/01/2023 | IMI plc is a global engineering group that focuses on precision fluid engineering. IMI plc incorporates three divisions, each working to make its vision come to life – IMI Hydronic, Norgren and IMI Critical. |
@@ -51,4 +52,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 07/02/2023 11.29 (UTC)_
+Last update : _Tuesday 07/02/2023 13.05 (UTC)_
