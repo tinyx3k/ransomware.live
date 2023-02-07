@@ -206,4 +206,4 @@
 | 2023-01-06 | [`LetMeRepair`](https://google.com/search?q=LetMeRepair) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`Consulate Health Care`](https://google.com/search?q=Consulate+Health+Care) | [hive](profiles.md?id=hive) |
 
-Last update : _Tuesday 07/02/2023 07.27 (UTC)_
+Last update : _Tuesday 07/02/2023 09.03 (UTC)_

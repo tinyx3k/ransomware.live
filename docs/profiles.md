@@ -36,32 +36,6 @@
 
  --- 
 
-## **ramp**
-
-
-_`Forum`_
-
-### External analysis
-- https://ke-la.com/new-russian-speaking-forum-a-new-place-for-raas/
-
-- https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/
-
-- https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash
-
-### URLs
-| Title | Available | Last visit | fqdn | Screenshot 
-|---|---|---|---|---|
-| none | 🔴 | 01/05/2021 00:00 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` | ❌ | 
-| Log in - RAMP | 🔴 | 07/02/2023 01:54 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
-| none | 🔴 | 01/05/2021 00:00 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` | ❌ | 
-
-### Posts
-
-> no post found
-
-
- --- 
-
 ## **aGl0bGVyCg**
 
 
@@ -5741,6 +5715,22 @@ _`not a ransomware group`_
 
  --- 
 
+## **nevada**
+
+
+### URLs
+| Title | Available | Last visit | fqdn | Screenshot 
+|---|---|---|---|---|
+| none | 🔴 | 01/05/2021 00:00 | `http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion` | ❌ | 
+| none | 🔴 | 01/05/2021 00:00 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
+
+### Posts
+
+> no post found
+
+
+ --- 
+
 ## **nightsky**
 
 > 
@@ -6763,6 +6753,32 @@ _`shut down & offering a decryptor`_
 |---|---|---|
 | [`FNBNWFL Data leaked`](https://google.com/search?q=FNBNWFL+Data+leaked) | 30/12/2021 |   |
 | [`Decrypt`](https://google.com/search?q=Decrypt) | 09/09/2021 |   |
+
+ --- 
+
+## **ramp**
+
+
+_`Forum`_
+
+### External analysis
+- https://ke-la.com/new-russian-speaking-forum-a-new-place-for-raas/
+
+- https://www.toolbox.com/tech/security/news/russian-darknet-forum-ramp-reemerges-with-chinese-speaking-hackers-at-the-wheel/
+
+- https://www.linkedin.com/pulse/am-i-new-admin-cybercrime-forum-ramp-ayesha-prakash
+
+### URLs
+| Title | Available | Last visit | fqdn | Screenshot 
+|---|---|---|---|---|
+| none | 🔴 | 01/05/2021 00:00 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` | ❌ | 
+| Log in - RAMP | 🔴 | 07/02/2023 01:54 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
+| none | 🔴 | 01/05/2021 00:00 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` | ❌ | 
+
+### Posts
+
+> no post found
+
 
  --- 
 
@@ -8088,4 +8104,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 07/02/2023 07.27 (UTC)_
+Last update : _Tuesday 07/02/2023 09.03 (UTC)_
