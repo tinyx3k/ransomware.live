@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-07 | [`Penn Power Group`](https://google.com/search?q=Penn+Power+Group) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-02-07 | [`cantinatollo.it`](https://google.com/search?q=cantinatollo.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-07 | [`The DGCX`](https://google.com/search?q=The+DGCX) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-07 | [`royalmailgroup.com`](https://google.com/search?q=royalmailgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-06 | [`LEK / HABO`](https://google.com/search?q=LEK+%2F+HABO) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-06 | [`Sub-drill Supply`](https://google.com/search?q=Sub-drill+Supply) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Tuesday 07/02/2023 21.21 (UTC)_
+Last update : _Tuesday 07/02/2023 23.19 (UTC)_

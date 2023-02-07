@@ -27,7 +27,7 @@ _Parser : `Available`_
 | BlackByte BLOG | 🔴 | 28/03/2022 11:17 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 24/04/2022 20:21 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 12/07/2022 20:09 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` | ❌ | 
-| BB Auction | 🔴 | 07/02/2023 18:39 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+| BB Auction | 🟢 | 07/02/2023 22:33 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -35,10 +35,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 96 posts found
+> 97 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Penn Power Group`](https://pennpowergroup.com/) | 07/02/2023 | Our ServicesLeveraging our OEM expertise and 50+ years of experience, we provide comprehensive fleet services at our 13 service centers and 100 mobile vehicles that come to you.  From traditional shop services and maintenance management to mobile fleet services and emergency roadside assistance, we handle it all. |
 | [`ARC`](https://www.e-arc.com/) | 16/01/2023 | ARC is committed to delighting its customers with document imaging and graphic production services that help visual communication professionals do what they do best.We provide world-class service to more than 90,000 customers, including some of the biggest brands in the world. Our people work side-by-side with professionals from the most renowned companies in Hollywood, prestigious and demanding retail outlets, as well as facility managers of some of the biggest school districts in the country who use visual communication to educate their students and staff on health and safety in public areas.No matter where you look, you’ll find us striving for excellence in design and construction, education, healthcare, marketing, manufacturing, technology, sports, and hospitality. |
 | [`K2 Sports`](https://k2sports.com/) | 14/01/2023 | About K2 Sports: Our mission is to create the most innovative tools for our consumers to provide the best experiences, push the sports, and strengthen the culture. K2 was born in 1962 as America’s ski company on Vashon Island in Washington State’s Puget Sound. Renamed in 2003 as K2 Sports and now based in Seattle, the company today is an international portfolio of world-renowned brands recognized as leaders in the innovation, marketing, and quality of our products and services. Driven by a passion for our sports and enthusiasts, we make alpine skis, snowboards, snowshoes, in-line skates, and Nordic ski equipment, apparel, and accessories. |
 | [`Ellison Technologies`](https://www.ellisontechnologies.com/) | 05/01/2023 | Ellison Technologies is a provider of advanced machining solutions to North American metal-cutting manufacturers and their global affiliates.As a family of companies we are committed to the survival and growth of the American manufacturing industry.  Independent offices provide us a local market focus and the flexibility to advocate the needs of each of our valued customers.Our priority is to introduce technologies that strengthen our customers’ ability to compete in the markets they serve.  Whether the solution involves a stand alone machine, multi-process equipment, or an integrated manufacturing system with robotic automation, our goal remains the same; to optimize throughput and quality at the lowest per-part manufacturing cost. |
@@ -139,4 +140,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 07/02/2023 21.21 (UTC)_
+Last update : _Tuesday 07/02/2023 23.19 (UTC)_
