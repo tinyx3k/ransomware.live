@@ -206,4 +206,4 @@
 | 2023-01-06 | [`LEK / HABO`](https://google.com/search?q=LEK+%2F+HABO) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 
-Last update : _Wednesday 08/02/2023 11.28 (UTC)_
+Last update : _Wednesday 08/02/2023 13.40 (UTC)_
