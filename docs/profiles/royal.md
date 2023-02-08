@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 08/02/2023 17:19 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🔴 | 08/02/2023 15:06 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 08/02/2023 19:14 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 08/02/2023 19:14 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,12 @@ _Parser : `Available`_
 
 ### Posts
 
-> 131 posts found
+> 132 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Trendsetter Engineering`](http://www.trendsetterengineering.com) | 08/02/2023 | Trendsetter is a premier provider of specialized subsea solutions for oil and gas companies across the globe. We have stolen from their network 1TB in total, including: 1) personal data, HR, Finance, Projects etc.;2) CEO's and Top Management Mailboxes - 340 GB3) SQL Databases - 150 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: Aknn234)@$9skod_09@#$FS@2D
+ |
 | [`INNOVATION COLLABORATION SYNERGY`](https://www.ics-nett.com/) | 06/02/2023 | ICS Nett delivers innovative solutions to critical challenges facing the nation and the world. As a premier provider of integrated services and solutions for the U. S. Government, it supports the Department of Defense, Cyber & Intelligence community.Pass archive: UwxKnTbZ5LsrPSxqSPKNsTjVKWWU9jRzgTS |
 | [`MESSER CUTTING SYSTEMS`](https://us.messer-cutting.com/) | 02/02/2023 | Messer Cutting Systems is a global supplier of cutting solutions for the metal-working industry. We have stolen from their network 600 GB in total, including:1) personal data, HR, Finance, Projects etc.;2) Mailboxes - 37 GBMary Svitak - AccountingDebbie Richter - Accounting Manager / ControllerLinda Sierszynski - HR ManagerJulie Wolf - AccountingMark Ringgenberg - Director Global Product PortfolioBeth Rouse - Accounting;3) SQL Databases - 10 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: gEs1S!g#hH
  |
@@ -157,4 +159,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 08/02/2023 17.32 (UTC)_
+Last update : _Wednesday 08/02/2023 19.26 (UTC)_

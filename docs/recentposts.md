@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-08 | [`Trendsetter Engineering`](https://google.com/search?q=Trendsetter+Engineering) | [royal](profiles.md?id=royal) |
 | 2023-02-08 | [`transports-feuillet.fr`](https://google.com/search?q=transports-feuillet.fr) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-07 | [`Penn Power Group`](https://google.com/search?q=Penn+Power+Group) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-02-07 | [`cantinatollo.it`](https://google.com/search?q=cantinatollo.it) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-06 | [`Bay Area Rapid Transit`](https://google.com/search?q=Bay+Area+Rapid+Transit) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`City Lit`](https://google.com/search?q=City+Lit) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-06 | [`LEK / HABO`](https://google.com/search?q=LEK+%2F+HABO) | [royal](profiles.md?id=royal) |
-| 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 
-Last update : _Wednesday 08/02/2023 17.32 (UTC)_
+Last update : _Wednesday 08/02/2023 19.26 (UTC)_
