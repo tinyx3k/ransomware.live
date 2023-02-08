@@ -206,4 +206,4 @@
 | 2023-01-06 | [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | [royal](profiles.md?id=royal) |
 | 2023-01-06 | [`PROQUINAL Spradling Group`](https://google.com/search?q=PROQUINAL+Spradling+Group) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Wednesday 08/02/2023 05.28 (UTC)_
+Last update : _Wednesday 08/02/2023 07.16 (UTC)_
