@@ -14,8 +14,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 08/02/2023 21:03 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 08/02/2023 21:04 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 08/02/2023 22:59 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 08/02/2023 22:59 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,12 @@ _Parser : `Available`_
 
 ### Posts
 
-> 53 posts found
+> 55 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Cave Beblenheim`](https://google.com/search?q=Cave+Beblenheim) | 08/02/2023 |  |
+| [`ACS`](https://google.com/search?q=ACS) | 08/02/2023 |  |
 | [`L?? C??e`](https://google.com/search?q=L%3F%3F+C%3F%3Fe) | 06/02/2023 |  |
 | [`?C?`](https://google.com/search?q=%3FC%3F) | 06/02/2023 |  |
 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | 03/02/2023 |  |
@@ -84,4 +86,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 08/02/2023 21.26 (UTC)_
+Last update : _Wednesday 08/02/2023 23.23 (UTC)_
