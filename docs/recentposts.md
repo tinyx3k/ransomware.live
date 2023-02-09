@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-09 | [`Mount Saint Mary College`](https://google.com/search?q=Mount+Saint+Mary+College) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-02-09 | [`A10`](https://google.com/search?q=A10) | [play](profiles.md?id=play) |
 | 2023-02-08 | [`Cave Beblenheim`](https://google.com/search?q=Cave+Beblenheim) | [play](profiles.md?id=play) |
 | 2023-02-08 | [`ACS`](https://google.com/search?q=ACS) | [play](profiles.md?id=play) |
 | 2023-02-08 | [`Menken Orlando`](https://google.com/search?q=Menken+Orlando) | [alphv](profiles.md?id=alphv) |
@@ -203,7 +205,5 @@
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-07 | [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-07 | [`Buffco Production, Inc.`](https://google.com/search?q=Buffco+Production%2C+Inc.) | [alphv](profiles.md?id=alphv) |
-| 2023-01-07 | [`Grupo Estrategas EMM`](https://google.com/search?q=Grupo+Estrategas+EMM) | [alphv](profiles.md?id=alphv) |
-| 2023-01-07 | [`Pendulum Associates public website of data leak`](https://google.com/search?q=Pendulum+Associates+public+website+of+data+leak) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Wednesday 08/02/2023 23.23 (UTC)_
+Last update : _Thursday 09/02/2023 02.49 (UTC)_
