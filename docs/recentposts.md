@@ -206,4 +206,4 @@
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 09/02/2023 13.45 (UTC)_
+Last update : _Thursday 09/02/2023 15.20 (UTC)_
