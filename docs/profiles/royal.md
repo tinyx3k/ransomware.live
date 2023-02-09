@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🔴 | 09/02/2023 03:37 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 09/02/2023 05:12 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 09/02/2023 07:15 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 09/02/2023 07:16 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -159,4 +159,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 09/02/2023 05.34 (UTC)_
+Last update : _Thursday 09/02/2023 07.28 (UTC)_
