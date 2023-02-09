@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-09 | [`arcessex.org`](https://google.com/search?q=arcessex.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-09 | [`phihong.com.tw`](https://google.com/search?q=phihong.com.tw) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-09 | [`Mount Saint Mary College`](https://google.com/search?q=Mount+Saint+Mary+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-02-09 | [`A10`](https://google.com/search?q=A10) | [play](profiles.md?id=play) |
@@ -204,6 +205,5 @@
 | 2023-01-07 | [`Duty Free Philippines`](https://google.com/search?q=Duty+Free+Philippines) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`Swift Academies`](https://google.com/search?q=Swift+Academies) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-07 | [`100x100banco.com`](https://google.com/search?q=100x100banco.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-07 | [`juarez.gob.mx`](https://google.com/search?q=juarez.gob.mx) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 09/02/2023 09.25 (UTC)_
+Last update : _Thursday 09/02/2023 11.53 (UTC)_
