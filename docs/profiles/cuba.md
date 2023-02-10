@@ -16,7 +16,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://cuba4mp6ximo2zlo.onion` | ❌ | 
-| Cuba | 🔴 | 09/02/2023 22:37 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| Cuba | 🟢 | 10/02/2023 03:09 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -125,4 +125,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/02/2023 02.51 (UTC)_
+Last update : _Friday 10/02/2023 03.51 (UTC)_
