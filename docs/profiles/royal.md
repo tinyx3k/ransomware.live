@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 10/02/2023 11:11 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 10/02/2023 11:12 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 10/02/2023 13:29 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 10/02/2023 13:29 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 132 posts found
+> 133 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Tucson Unified School District`](http://www.tusd1.org) | 10/02/2023 | Education · Arizona, United States · 6,208 EmployeesFounded in 1867, the Tucson Unified School District is headquartered in Tucson, Arizona. |
 | [`Trendsetter Engineering`](http://www.trendsetterengineering.com) | 08/02/2023 | Trendsetter is a premier provider of specialized subsea solutions for oil and gas companies across the globe. We have stolen from their network 1TB in total, including: 1) personal data, HR, Finance, Projects etc.;2) CEO's and Top Management Mailboxes - 340 GB3) SQL Databases - 150 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: Aknn234)@$9skod_09@#$FS@2D
  |
 | [`INNOVATION COLLABORATION SYNERGY`](https://www.ics-nett.com/) | 06/02/2023 | ICS Nett delivers innovative solutions to critical challenges facing the nation and the world. As a premier provider of integrated services and solutions for the U. S. Government, it supports the Department of Defense, Cyber & Intelligence community.Pass archive: UwxKnTbZ5LsrPSxqSPKNsTjVKWWU9jRzgTS |
@@ -159,4 +160,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/02/2023 11.23 (UTC)_
+Last update : _Friday 10/02/2023 13.40 (UTC)_
