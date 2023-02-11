@@ -1,14 +1,7 @@
 # suncrypt : Crypto wallet(s)
 
-
-
 | address | blockchain | Balance |
+| bc1qpmknwh4pgvkyqq840fhx7fw36nrzu8gskx369v | bitcoin | $ 229544 |
 
-| bc1qpmknwh4pgvkyqq840fhx7fw36nrzu8gskx369v | bitcoin | $ 229544 | 
-
-
-
-Last update : _Saturday 11/02/2023 18.23 (UTC)_ 
-
-
+Last update : _Saturday 11/02/2023 18.36 (UTC)_
 

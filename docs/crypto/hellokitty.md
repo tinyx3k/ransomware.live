@@ -1,14 +1,7 @@
 # hellokitty : Crypto wallet(s)
 
-
-
 | address | blockchain | Balance |
+| bc1ql5f3m75qx3ueu2pz5eeveyqsw6pdjs3ufk8r20 | bitcoin | $ 1072689 |
 
-| bc1ql5f3m75qx3ueu2pz5eeveyqsw6pdjs3ufk8r20 | bitcoin | $ 1072689 | 
-
-
-
-Last update : _Saturday 11/02/2023 18.23 (UTC)_ 
-
-
+Last update : _Saturday 11/02/2023 18.36 (UTC)_
 
