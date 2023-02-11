@@ -9,8 +9,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Qilin | 🟢 | 11/02/2023 09:06 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
-| Qilin blog | 🟢 | 11/02/2023 09:06 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
+| Qilin | 🔴 | 11/02/2023 09:06 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
+| Qilin blog | 🟢 | 11/02/2023 10:59 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -37,4 +37,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 09.24 (UTC)_
+Last update : _Saturday 11/02/2023 11.18 (UTC)_
