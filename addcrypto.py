@@ -32,6 +32,7 @@ for group in groups:
     writeline(cryptofile,'# ' + group["name"] + ' : Crypto wallet(s)')
     writeline(cryptofile,'')
     writeline(cryptofile,'| address | blockchain | Balance |')
+    writeline(cryptofile, '|---|---|---|')
     # Sort the result list by family
     result["result"].sort(key=lambda x: x.get("family", ""))
 

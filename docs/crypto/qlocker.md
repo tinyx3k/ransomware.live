@@ -1,6 +1,7 @@
 # qlocker : Crypto wallet(s)
 
 | address | blockchain | Balance |
+|---|---|---|
 | 3KmK5z4CAvn3aL4Q8F2gWbhuPRy9ZmEurN | bitcoin | $ 26961 |
 | 3PDfzkTnD1E7gB7peZ2prRyDxjQ1BhqcV1 | bitcoin | $ 18044 |
 | 3LLzycFNFh7mDsqRhfknfGBa6TKq6HcfwS | bitcoin | $ 22483 |
@@ -24,5 +25,5 @@
 | 3NtgDQCu7xck4UEpyTf8HNSSvrMCnKZRjt | bitcoin | $ 21144 |
 | 3DhE1iZ5Ui6HALVKuuYXW52ArZPVJjUgJA | bitcoin | $ 16835 |
 
-Last update : _Saturday 11/02/2023 18.36 (UTC)_
+Last update : _Saturday 11/02/2023 18.40 (UTC)_
 

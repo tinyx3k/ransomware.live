@@ -1,6 +1,7 @@
 # karakurt : Crypto wallet(s)
 
 | address | blockchain | Balance |
+|---|---|---|
 | bc1qenjstexazw07gugftfz76gh9r4zkhhvc9eeh47 | bitcoin | $ 199421 |
 | bc1q8ff3lrudpdkuvm3ehq6e27nczm393q9f4ydlgt | bitcoin | $ 147060 |
 | bc1qw77uss7stz7y7kkzz7qz9gt7xk7tfet8k30xax | bitcoin | $ 443989 |
@@ -21,5 +22,5 @@
 | bc1qj7aksdmgrnvf4hwjcm5336wg8pcmpegvhzfmhw | bitcoin | $ 137199 |
 | bc1qq9ryhutrprmehapvksmefcr97z2sk3kdycpqtr | bitcoin | $ 82653 |
 
-Last update : _Saturday 11/02/2023 18.36 (UTC)_
+Last update : _Saturday 11/02/2023 18.40 (UTC)_
 
