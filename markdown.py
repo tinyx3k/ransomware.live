@@ -392,7 +392,7 @@ def profilepage():
             ### Crypto 
             writeline(profilepage, '')
             writeline(profilepage, '### Crypto wallets')
-            writeline(profilepage, '* 💰 [Crypto wallet(s) available](#/crypto/'+group['name']+')')
+            writeline(profilepage, '* 💰 [Crypto wallet(s) available](/#/crypto/'+group['name']+')')
             writeline(profilepage, '')
         ### POSTS 
         writeline(profilepage, '')
@@ -586,7 +586,7 @@ def profile():
             ### Crypto 
             writeline(profilepage, '')
             writeline(profilepage, '### Crypto wallets')
-            writeline(profilepage, '* 💰 [Crypto wallet(s) available](#/crypto/'+group['name']+')')
+            writeline(profilepage, '* 💰 [Crypto wallet(s) available](/#/crypto/'+group['name']+')')
             writeline(profilepage, '')
         ### POSTS 
         writeline(profilepage, '')
