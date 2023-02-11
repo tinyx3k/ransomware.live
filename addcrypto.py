@@ -41,7 +41,7 @@ for group in groups:
         cryptofile='docs/crypto/'+ group["name"] +'.md'
         with open(cryptofile, 'w', encoding='utf-8') as f:
             f.close()
-        writefile(cryptofile,'# ' + group["name"] + '\n')
+        writefile(cryptofile,'# ' + group["name"] + ' : Crypto wallet(s)\n')
         writefile(cryptofile,'\n')
         writefile(cryptofile,'| address | blockchain | Balance |\n')
         writefile(cryptofile,lines)

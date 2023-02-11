@@ -1,4 +1,4 @@
-# revil
+# revil : Crypto wallet(s)
 
 | address | blockchain | Balance |
 | 3BeQ9H5tByJK9CeeZftDsBFhgt1i5Q7AQK | bitcoin | $ 3006 | 
@@ -9,5 +9,5 @@
 | 3HTHHMm2YwNdwEDkGc6dRyxxKvByymeVqV | bitcoin | $ 286355 | 
 | 3E9F7gE3upQ8rgsPjwiKH7ugfdneypPjqj | bitcoin | $ 0 | 
 
-Last update : _Saturday 11/02/2023 17.52 (UTC)_ 
+Last update : _Saturday 11/02/2023 18.13 (UTC)_ 
 

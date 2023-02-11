@@ -1,4 +1,4 @@
-# netwalker
+# netwalker : Crypto wallet(s)
 
 | address | blockchain | Balance |
 | 17TMc2UkVRSga2yYvuxSD9Q1XyB2EPRjTF | bitcoin | $ 9196 | 
@@ -68,5 +68,5 @@
 | bc1q8r398v5v4aw0a6cah3ddd8nngq2nfqr40xpg3q | bitcoin | $ 567683 | 
 | bc1qzf593zdg0fw7kmxrp4vgmx96zhsdee5khrftcj | bitcoin | $ 169 | 
 
-Last update : _Saturday 11/02/2023 17.52 (UTC)_ 
+Last update : _Saturday 11/02/2023 18.13 (UTC)_ 
 

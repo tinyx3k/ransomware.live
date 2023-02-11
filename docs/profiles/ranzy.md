@@ -25,7 +25,7 @@ _Parser : `Not available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/ranzy/ranzy.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 <a href="/crypto/ranzy.md" target=_blank>Crypto wallet(s) available</a>
+* 💰 [Crypto wallet(s) available](crypto/ranzy)
 
 
 ### Posts
@@ -36,4 +36,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.06 (UTC)_
+Last update : _Saturday 11/02/2023 18.14 (UTC)_

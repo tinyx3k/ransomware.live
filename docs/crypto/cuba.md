@@ -1,4 +1,4 @@
-# cuba
+# cuba : Crypto wallet(s)
 
 | address | blockchain | Balance |
 | bc1qhtwfcysclc7pck2y3vmjtpzkaezhcm6perc99x | bitcoin | $ 13353784 | 
@@ -20,5 +20,5 @@
 | bc1qs3lv77udkap2enxv928x59yuact5df4t95rsqr | bitcoin | $ 228405 | 
 | bc1q6rsj3cn37dngypu5kad9gdw5ykhctpwhjvun3z | bitcoin | $ 9977496 | 
 
-Last update : _Saturday 11/02/2023 17.52 (UTC)_ 
+Last update : _Saturday 11/02/2023 18.13 (UTC)_ 
 

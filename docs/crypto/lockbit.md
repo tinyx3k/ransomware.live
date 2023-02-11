@@ -1,4 +1,4 @@
-# lockbit
+# lockbit : Crypto wallet(s)
 
 | address | blockchain | Balance |
 | 1KsiEH5ZrfS3XhLVUU758rMKnP65kz2GYz | bitcoin | $ 60110 | 
@@ -6,5 +6,5 @@
 | bc1qwx9y37xd8sznjj0yw85q9fd9qfyaur9xasc2h4 | bitcoin | $ 16417 | 
 | bc1qr4mhf2zqtgd45x9clfmuekf42z4eglh4aydlnk | bitcoin | $ 19513 | 
 
-Last update : _Saturday 11/02/2023 17.52 (UTC)_ 
+Last update : _Saturday 11/02/2023 18.13 (UTC)_ 
 
