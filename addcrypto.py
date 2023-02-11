@@ -34,20 +34,20 @@ for group in groups:
         # print(family)
         if family == group["name"]:
             write = True
-            lines += "| " + address_info['address'] + " | " + address_info['blockchain'] + " | $ " + str(round(float(address_info['balanceUSD']))) + " | \n"
+            lines += "| " + address_info['address'] + " | " + address_info['blockchain'] + " | $ " + str(round(float(address_info['balanceUSD']))) + " | \n\n"
 
     if write == True:
         stdlog(group["name"] + ' : found crypto address')
         cryptofile='docs/crypto/'+ group["name"] +'.md'
         with open(cryptofile, 'w', encoding='utf-8') as f:
             f.close()
-        writefile(cryptofile,'# ' + group["name"] + ' : Crypto wallet(s)\n')
-        writefile(cryptofile,'\n')
-        writefile(cryptofile,'| address | blockchain | Balance |\n')
+        writefile(cryptofile,'# ' + group["name"] + ' : Crypto wallet(s)\n\n')
+        writefile(cryptofile,'\n\n')
+        writefile(cryptofile,'| address | blockchain | Balance |\n\n')
         writefile(cryptofile,lines)
-        writefile(cryptofile, '\n')
-        writefile(cryptofile, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_ \n')
-        writefile(cryptofile, '\n')
+        writefile(cryptofile, '\n\n')
+        writefile(cryptofile, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_ \n\n')
+        writefile(cryptofile, '\n\n')
     else:
         stdlog(group["name"] + ' : no crypto address found')
         
