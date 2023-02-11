@@ -23,7 +23,7 @@ _Parser : `Available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/ragnarlocker/!_^_README_NOTES_RAGNAR_^_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/ragnarlocker/ragnarlocker1.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/ragnarlocker)
+* 💰 [Crypto wallet(s) available](/#/crypto/ragnarlocker.md)
 
 
 ### Posts
@@ -129,4 +129,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.46 (UTC)_
+Last update : _Saturday 11/02/2023 18.54 (UTC)_

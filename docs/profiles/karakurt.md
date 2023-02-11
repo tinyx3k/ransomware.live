@@ -20,7 +20,7 @@ _Parser : `Available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/karakurt/!_karakurt_READ_ME_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/karakurt/alert!.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/karakurt)
+* 💰 [Crypto wallet(s) available](/#/crypto/karakurt.md)
 
 
 ### Posts
@@ -77,4 +77,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.46 (UTC)_
+Last update : _Saturday 11/02/2023 18.54 (UTC)_

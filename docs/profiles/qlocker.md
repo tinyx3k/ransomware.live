@@ -24,7 +24,7 @@ _`login page, no posts`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/!!!READ_ME.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/qlocker)
+* 💰 [Crypto wallet(s) available](/#/crypto/qlocker.md)
 
 
 ### Posts
@@ -35,4 +35,4 @@ _`login page, no posts`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.46 (UTC)_
+Last update : _Saturday 11/02/2023 18.54 (UTC)_
