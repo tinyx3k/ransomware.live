@@ -43,7 +43,7 @@ jobs:
       - name: Update Ransomware Notes
         run: |
           cd docs/ransomware_notes; git pull; cd ../..
-       - name: Update crypto wallet 
+      - name: Update crypto wallet 
         run: |
           python3 addcrypto.py
       - name: Generate markdown & graphs for docsify
