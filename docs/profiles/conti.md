@@ -24,6 +24,10 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/conti/conti1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/conti/conti2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/conti/conti3.txt" target=_blank>#3</a>  <a href="/ransomware_notes/conti/conti4.txt" target=_blank>#4</a> 
 
+### Crypto wallets
+* 💰 <a href="/crypto/conti.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > 333 posts found
@@ -367,4 +371,4 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_

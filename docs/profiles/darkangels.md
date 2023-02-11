@@ -16,6 +16,10 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/darkangels/darkangels.txt" target=_blank>#1</a> 
 
+### Crypto wallets
+* 💰 <a href="/crypto/darkangels.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > no post found
@@ -24,4 +28,4 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_

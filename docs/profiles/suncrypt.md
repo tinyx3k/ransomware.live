@@ -23,6 +23,10 @@ _Parser : `Available`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/suncrypt/suncrypt.html" target=_blank>#1</a> 
 
+### Crypto wallets
+* 💰 <a href="/crypto/suncrypt.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > 30 posts found
@@ -63,4 +67,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_

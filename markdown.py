@@ -388,7 +388,7 @@ def profilepage():
             writeline(profilepage, '')
             writeline(profilepage, '### Ransom note')
             writeline(profilepage,'* 📝 Ransom notes : ' + ransom_notes)
-        if os.path.exists('docs/cryto/'+group['name']+'.md'):
+        if os.path.exists('docs/crypto/'+group['name']+'.md'):
             ### Crypto 
             writeline(profilepage, '')
             writeline(profilepage, '### Crypto wallets')
@@ -582,7 +582,7 @@ def profile():
             writeline(profilepage, '')
             writeline(profilepage, '### Ransom note')
             writeline(profilepage,'* 📝 Ransom notes : ' + ransom_notes)
-        if os.path.exists('docs/cryto/'+group['name']+'.md'):
+        if os.path.exists('docs/crypto/'+group['name']+'.md'):
             ### Crypto 
             writeline(profilepage, '')
             writeline(profilepage, '### Crypto wallets')

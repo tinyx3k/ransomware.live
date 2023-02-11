@@ -16,6 +16,10 @@ _`no longer in operation - rebrand`_
 |---|---|---|---|---|
 | end of game | 🔴 | 18/08/2021 00:02 | `http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion` | ❌ | 
 
+### Crypto wallets
+* 💰 <a href="/crypto/synack.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > no post found
@@ -24,4 +28,4 @@ _`no longer in operation - rebrand`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_

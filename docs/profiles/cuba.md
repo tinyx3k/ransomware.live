@@ -22,6 +22,10 @@ _Parser : `Available`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/cuba/cuba.txt" target=_blank>#1</a> 
 
+### Crypto wallets
+* 💰 <a href="/crypto/cuba.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > 93 posts found
@@ -125,4 +129,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_

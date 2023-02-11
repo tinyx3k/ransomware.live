@@ -27,6 +27,10 @@ _`captcha prevents indexing`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/avoslocker/avoslocker.txt" target=_blank>#1</a> 
 
+### Crypto wallets
+* 💰 <a href="/crypto/avoslocker.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > 71 posts found
@@ -108,4 +112,4 @@ _`captcha prevents indexing`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_

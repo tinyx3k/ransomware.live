@@ -22,6 +22,10 @@ _Parser : `Not available`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/netwalker/netwalker.txt" target=_blank>#1</a> 
 
+### Crypto wallets
+* 💰 <a href="/crypto/netwalker.md" target=_blank>Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > no post found
@@ -30,4 +34,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.01 (UTC)_
+Last update : _Saturday 11/02/2023 18.06 (UTC)_
