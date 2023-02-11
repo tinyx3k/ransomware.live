@@ -7,5 +7,5 @@
 | bc1qwx9y37xd8sznjj0yw85q9fd9qfyaur9xasc2h4 | bitcoin | $ 16417 |
 | bc1qr4mhf2zqtgd45x9clfmuekf42z4eglh4aydlnk | bitcoin | $ 19513 |
 
-Last update : _Saturday 11/02/2023 19.27 (UTC)_
+Last update : _Saturday 11/02/2023 21.20 (UTC)_
 
