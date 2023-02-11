@@ -388,6 +388,12 @@ def profilepage():
             writeline(profilepage, '')
             writeline(profilepage, '### Ransom note')
             writeline(profilepage,'* 📝 Ransom notes : ' + ransom_notes)
+        if os.path.exists('docs/cryto/'+group['name']+'.md'):
+            ### Crypto 
+            writeline(profilepage, '')
+            writeline(profilepage, '### Crypto wallets')
+            writeline(profilepage, '* 💰 <a href="/crypto/'+group['name']+'.md" target=_blank>Crypto wallet(s) available</a>')
+            writeline(profilepage, '')
         ### POSTS 
         writeline(profilepage, '')
         writeline(profilepage, '### Posts')
@@ -576,6 +582,12 @@ def profile():
             writeline(profilepage, '')
             writeline(profilepage, '### Ransom note')
             writeline(profilepage,'* 📝 Ransom notes : ' + ransom_notes)
+        if os.path.exists('docs/cryto/'+group['name']+'.md'):
+            ### Crypto 
+            writeline(profilepage, '')
+            writeline(profilepage, '### Crypto wallets')
+            writeline(profilepage, '* 💰 <a href="/crypto/'+group['name']+'.md" target=_blank>Crypto wallet(s) available</a>')
+            writeline(profilepage, '')
         ### POSTS 
         writeline(profilepage, '')
         writeline(profilepage, '### Posts')
