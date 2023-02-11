@@ -23,7 +23,7 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/blackmatter/blackmatter.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/blackmatter.md)
+* 💰 <a href="/#/crypto/blackmatter.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -67,4 +67,4 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_

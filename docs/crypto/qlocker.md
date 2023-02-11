@@ -25,5 +25,5 @@
 | 3NtgDQCu7xck4UEpyTf8HNSSvrMCnKZRjt | bitcoin | $ 21144 |
 | 3DhE1iZ5Ui6HALVKuuYXW52ArZPVJjUgJA | bitcoin | $ 16835 |
 
-Last update : _Saturday 11/02/2023 18.40 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_
 

@@ -23,7 +23,7 @@ _Parser : `Not available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/darkside/darkside.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/darkside.md)
+* 💰 <a href="/#/crypto/darkside.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -34,4 +34,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_

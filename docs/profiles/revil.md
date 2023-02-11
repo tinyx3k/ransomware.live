@@ -25,7 +25,7 @@ _Parser : `Available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/revil/revil1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/revil/revil2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/revil/revil3.txt" target=_blank>#3</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/revil.md)
+* 💰 <a href="/#/crypto/revil.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -79,4 +79,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_

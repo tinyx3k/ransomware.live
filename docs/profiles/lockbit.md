@@ -16,7 +16,7 @@ _Parser : `Not available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/lockbit/lockbit2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/lockbit/lockbit3.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/lockbit.md)
+* 💰 <a href="/#/crypto/lockbit.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -27,4 +27,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_

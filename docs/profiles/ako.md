@@ -19,7 +19,7 @@ _Parser : `Not available`_
 | none | 🔴 | 01/05/2021 00:00 | `http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/ako.md)
+* 💰 <a href="/#/crypto/ako.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -30,4 +30,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_

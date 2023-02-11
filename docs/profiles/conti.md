@@ -17,7 +17,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | CONTI.News | 🔴 | 22/06/2022 06:25 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` | ❌ | 
-| 403 Forbidden | 🟢 | 11/02/2023 12:50 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| 403 Forbidden | 🟢 | 11/02/2023 18:40 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
 | Error Response Page | 🔴 | 23/11/2022 12:36 | `http://continews.bz` | ❌ | 
 
 
@@ -25,7 +25,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/conti/conti1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/conti/conti2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/conti/conti3.txt" target=_blank>#3</a>  <a href="/ransomware_notes/conti/conti4.txt" target=_blank>#4</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/conti.md)
+* 💰 <a href="/#/crypto/conti.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -371,4 +371,4 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_

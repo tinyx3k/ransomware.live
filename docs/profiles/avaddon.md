@@ -21,7 +21,7 @@ _Parser : `Available`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/avaddon/avaddon.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](/#/crypto/avaddon.md)
+* 💰 <a href="/#/crypto/avaddon.md">Crypto wallet(s) available</a>
 
 
 ### Posts
@@ -176,4 +176,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 19.06 (UTC)_
+Last update : _Saturday 11/02/2023 19.27 (UTC)_
