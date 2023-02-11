@@ -29,10 +29,19 @@ _`captcha prevents indexing`_
 
 ### Posts
 
-> 62 posts found
+> 71 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Cambian Group`](https://google.com/search?q=Cambian+Group) | 11/02/2023 | Includes data from Care Tech Holdings PLC (parent holding company, caretech-uk.com) & ByTheBridge.co.uk & Cambian Group. A billion dollar mega-corporation and British orphans, what could go wrong? |
+| [`Memtech Acoustical`](https://google.com/search?q=Memtech+Acoustical) | 11/02/2023 | Memtech Acoustical is your 'one-stop' source for acoustic services, noise control and acoustic material installation. There is no need to coordinate consultants, order materials and arrange for installation. Memtech does it all. Memtech Acoustical Industrial, Commercial, and Acoustic Noise Control Solutions |
+| [`Global Mining Products`](https://google.com/search?q=Global+Mining+Products) | 11/02/2023 | Global Mining's Product Catalog is available for download. MINExpo 2012 Please Visit Global Mining Products Inc at MINExpo 2012 Booth No. 9144 Service and Repair Facilities 3 Location To Serve You Better Global Mining - USA Ph: 775-778-3410 Fax: 775-778-3418 Global Mining - Canada Ph: 604-538-0058 Fax: 604-541-2850 PT GloMinPro Indonesia |
+| [`Buckeye Packaging`](https://google.com/search?q=Buckeye+Packaging) | 11/02/2023 | Buckeye Packaging offers high-quality custom packaging solutions in a variety of substrates, delivered with outstanding customer service and terrible network security. 50 GB customer data will be released |
+| [`Wesco Turf`](https://google.com/search?q=Wesco+Turf) | 11/02/2023 | Finance, HR, Corporate files present in data leak          We are an exclusive provider for Toro, Club Car, Bernhard, Salsco, Harper, Ventrac, and MCI-Flowtronex and Watertronics Pump Stations in Florida and Southern Georgia. Since 1987 Wesco Turf has been the golf, grounds, and irrigation market leader. We are a worldwide provider of the highest quality used golf course equipment. Wesco has been honored multiple times as Toro’s North American Distributor of Excellence. |
+| [`CannonDesign`](https://google.com/search?q=CannonDesign) | 11/02/2023 | Employees: 1,100 | Revenue: $279.8M | Site: www.cannondesign.com     Exfiltrated: 5.7 TB     Wasting our time will result in your data being leaked. Over 5 TB corporate and client files will be released          CEO:           "Entity": "US",           "SSN - US": "367725265",           "Last Name": "Lukanic",           "First Name": "Bradley",           "Nickname": "Brad",           "Street Address": "6619 Braeburn Pkwy",           "City": "Bethesda",           "State/Prov": "MD",           "Zip Code": "20817",           "Birth Date": "02/15/1971",          CFO:           "Entity": "US",           "SSN - US": "078564382",           "Last Name": "Carlino",           "First Name": "David",           "Nickname": "Dave",           "Street Address": "5411 Via Del Sole",           "City": "Williamsville",           "State/Prov": "NY",           "Zip Code": "14221",           "Birth Date": "07/29/1961",          VP:           "Entity": "US",           "SSN - US": "121683252",           "Last Name": "Schopp",           "First Name": "Carolyn",           "Nickname": "Carolyn",           "Street Address": "3621 W River Road",           "City": "Grand Island",           "State/Prov": "NY",           "Zip Code": "14072",           "Birth Date": "10/09/1975", |
+| [`Schandy`](https://google.com/search?q=Schandy) | 11/02/2023 | We have more than 100GB Data(Employers Data,CVs,Passports,HR,Confidential files...) |
+| [`Ultralife Corporation`](https://google.com/search?q=Ultralife+Corporation) | 11/02/2023 | Publicly traded stock as ULBI. Client information, design, manufacture, financial, accounting, HR and more.     Address: 2000 Technology Pkwy, Newark, NY 14513, United States     Phone: +1 315 332 7100 |
+| [`Hamilton Parker`](https://google.com/search?q=Hamilton+Parker) | 11/02/2023 | 1865 LEONARD AVENUE     COLUMBUS, OH 43219     614-358-7800 |
 | [`Corporate Interiors Inc`](https://google.com/search?q=Corporate+Interiors+Inc) | 07/01/2023 | Corporate Interiors - Steelcase office furniture - Delaware and Philadelphia Contact Us 1-800-690-9101 |
 | [`LW Group`](https://google.com/search?q=LW+Group) | 26/12/2022 | LW Group now represents eight (8) luxury automobile brands operating at nine (9) locations within the Boston, MA and New Hampshire markets. |
 | [`Keyano College`](https://google.com/search?q=Keyano+College) | 26/12/2022 | Founded in 1965 and based in Fort McMurray, Canada, Keyano College is a community college meeting both the training and skills acquisition needs of industry.          Headquarters:     8115 Franklin Ave, Fort McMurray, Alberta, T9H 2H7, Canada          Phone Number:     (780) 791-4800 |
@@ -99,4 +108,4 @@ _`captcha prevents indexing`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 13.31 (UTC)_
+Last update : _Saturday 11/02/2023 15.56 (UTC)_

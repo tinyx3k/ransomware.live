@@ -1,6 +1,6 @@
 
 
-_All `5066` posts_
+_All `5075` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,15 @@ _All `5066` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-11 | [`Cambian Group`](https://google.com/search?q=Cambian+Group) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Memtech Acoustical`](https://google.com/search?q=Memtech+Acoustical) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Global Mining Products`](https://google.com/search?q=Global+Mining+Products) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Buckeye Packaging`](https://google.com/search?q=Buckeye+Packaging) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Wesco Turf`](https://google.com/search?q=Wesco+Turf) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`CannonDesign`](https://google.com/search?q=CannonDesign) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Schandy`](https://google.com/search?q=Schandy) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Ultralife Corporation`](https://google.com/search?q=Ultralife+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Hamilton Parker`](https://google.com/search?q=Hamilton+Parker) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-10 | [`Tucson Unified School District`](https://google.com/search?q=Tucson+Unified+School+District) | [royal](profiles.md?id=royal) |
 | 2023-02-09 | [`Jeffries Morris`](https://google.com/search?q=Jeffries+Morris) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-09 | [`M???????? S??`](https://google.com/search?q=M%3F%3F%3F%3F%3F%3F%3F%3F+S%3F%3F) | [play](profiles.md?id=play) |
@@ -5076,4 +5085,4 @@ _All `5066` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 11/02/2023 13.31 (UTC)_
+Last update : _Saturday 11/02/2023 15.56 (UTC)_

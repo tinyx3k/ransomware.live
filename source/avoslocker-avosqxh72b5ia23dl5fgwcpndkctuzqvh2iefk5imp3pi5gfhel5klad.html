@@ -1,561 +1,161 @@
-<!DOCTYPE html><html lang="en"><head> 
-<title>DDOS Protection</title> 
-<meta charset="UTF-8"> 
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-<link id="favicon" rel="shortcut icon" href="data:image/x-icon;base64,AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAEAAMMOAADDDgAAAAEAAAABAACRQEkAkEFKAJFBSgCURE0AlURNAJZGTgCXRk8Am0pSAJpMVQCaTVYAmU9YAJxUXACfWWEAqVVdAKlWXgCqVl4Aq1dfAKJfZwCsV2AArFhgAK1eZQCxXmUAp2duAKlpcgCqa3QArnN5ALJgZwCxZGsAtmRrALVnbgCzaG8AtWxzALVudQCxdXsAsHZ+ALZxeACzeH8Aund9AL15gAC0nG0AubZ5ALvNWwCs8mIAt4KJALyKkQC8i5AAvo+UAL+RlwDEho4AyY6TAMCSmADBk5gAwpWbAMOWnADEmJ4AypCVANOHigDWio0A2I2PANmNkADbkJIA25GTANyRkwDamJoAxpuhAMacogDInaIAyJ6jAM2boADJoacAyaKmAM+hpQDPpKgAzqqvANKjqADUp6wA0qquAN+ipADSsLQA07K2ANOztwDVt7oA1ra6ANa4uwDXub0A4qytAODKzQDhy84A4s3PAOnBwgDrwsMA4s3QAOPP0QDn09UA6NHTAOjX2QDx5OUA8OXmAPDl5wDx5+gA8+foAPLu5wDz6eoA8+vsAPfr6wD07e4A9u3uAPbu7gD09+QA8/PpAPTw6QD19OsA8v3mAPX45gDz/egA9/HyAPjx8gD58/QA+vb2APr29wD69/gA+/j4APv5+QD8+fkA/Pn6AP37+wD9/PwA/vz8AP79/QD//v4A////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgoJ+M1SCa15YZ4BFQYKCgoKCglcZSCYUCRYuGF+CgoKCgoKCTA8TDgQCAEmCgoKCgnlGLSMTEw4EAgIRK0B4goJ9W1IeExMOBAICC05WfYKCfFFCGxMTDgQCAgo0T3qCgnxTQxsTEw4EAgIKNVB7goKAY10fEBINAwECDFxigIKCdzIhHRwcGgcFBggXLHaCgoF2ak06OzgVDxAlZnaBgoKCgoJaPT45GhMTSoKCgoKCgoKCaD88ORoQIGCCgoKCgoKCZEQ3WVUxRyQvYYKCgoKCdTBLdIJ/fYJpNiJzgoKCgm8obYKCgoKCgmUnboKCgoJyKnCCgoKCgoJsKXGCggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="> 
-</head><body><style>
-html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
-strong{font-weight:bold}
-body{line-height:1}ol,ul{list-style:none}
-blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
-table{border-collapse:collapse;border-spacing:0}*:focus{outline:0}input,select,textarea{border:0;box-shadow:0}
-html{height:100%}body{height:100%;line-height:1;background:#1A1E23;
-font-family:roboto, helvetica, sans-serif, arial, verdana, tahoma;font-size:16px;color:#fff}
-.container {width:100%;margin:0 auto;min-height:100%;position:relative;max-height:100vh;overflow:hidden; }
-.container>.inner{position:absolute;top:50%;left:0;right:0;margin:0 auto;text-align:center;-webkit-transform:translateY(-50%);-moz-transform:translateY(-50%); transform:translateY(-50%);}
-.container>.inner>.logo{display:inline-block;vertical-align:middle;text-decoration:none;margin-bottom:10px}
-.container>.inner>.logo>.square{display:inline-block;vertical-align:middle;width:40px;height:40px;background-color:#9b59b6;background-size:24px 24px;background-position:center center;background-repeat:no-repeat;margin-right:10px}
-.container>.inner>.logo>.text{display:inline-block;vertical-align:middle;font-size:30px;color:#fff;font-weight:700}.container>.inner>.date{display:block;text-align:center;font-size:42px}
-.container>.inner>.date>.day{color:#9b59b6;font-weight:bold}.signed{display:block;width:400px;height:150px;margin-top:20px;margin:20px auto 0 auto;}
-.signed>textarea {margin:0 auto;width:400px;height:150px;min-width:400px;max-width:400px;display:block;padding:15px;background:#fff;border:1px solid #9b59b6;min-height:150px;max-height:150px;}p{margin:0 auto 20px auto;max-width:300px;}form.ddos_form .captcha-input{margin:0 auto 20px auto;display: block;width:300px;font-size:0;}form.ddos_form .captcha-input input{display:inline-block;vertical-align:top;height:50px;width:calc(100% - 150px);outline:0;border:none;font-size:16px;color:#000;padding:0 15px;line-height:50px;}form.ddos_form .captcha-input img{display:inline-block;vertical-align:top;}form.ddos_form button{border-radius:3px;display:block;width:300px;margin:0 auto;background:#9b59b6;cursor:pointer;color:#fff;font-size:16px;text-transform:uppercase;text-align:center;height:40px;line-height:40px;outline:0;border:none;}
-
-.captchav2 {text-align: center;width: 100%;}
-
-.captchav2 > .imgWrap {
-   display: inline-block;
-   text-align: center;
-   vertical-align: middle;
-   width: 195px;
-   height: 195px;
-   z-index: 4;
-   background-size: cover;
-   background-position: center center;
-   transition: transform .5s ease;
-   }
-
-.captchav2 > .inputWrap {text-align: center; display:inline-block;vertical-align: middle;width: 184px;height: 184px;position: relative;margin-left: 0px; transition: transform .5s ease; }
-.captchav2 > .inputWrap > div {position: absolute;width: 60px;height: 60px;cursor: pointer;border-radius: 100%;border: 2px solid #fff;}
-
-
-.expire {
-    display: inline-block;
-    vertical-align: top;
-    width: 100px;
-    height: 50px;
-    position: relative;
-    background: #888;
-    animation: timer-warning 1s 1;
-    animation-fill-mode: forwards;
-    animation-delay: 50s;
-    margin-bottom: 6px;
-    border-radius: 3px;
-}
-
-.expire>.timer {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100px;
-    overflow: hidden;
-}
-
-.expire>.timer>.time-part-wrapper {
-    display: inline-block;
-    vertical-align: top;
-    height: 50px;
-    line-height: 50px;
-    color: #fff;
-}
-
-.expire>.timer>.time-part-wrapper:first-child:after {
-    content: ':';
-    display: inline-block;
-    vertical-align: top;
-    width: 15px;
-    height: 50px;
-    line-height: 50px;
-    text-align: center;
-    font-size: 22px;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part {
-    display: inline-block;
-    vertical-align: top;
-    width: 15px;
-    position: relative;
-    animation: timer-expire;
-    animation-fill-mode: forwards;
-    animation-delay: 60s;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part>.digit-wrapper {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 15px;
-    text-align: center;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part>.digit-wrapper>.digit {
-    display: block;
-    width: 100%;
-    text-align: center;
-    height: 50px;
-    line-height: 50px;
-    font-size: 22px;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part.seconds.tens>.digit-wrapper {
-    top: -50px;
-    animation: timer-seconds-tens 50s 1;
-    animation-fill-mode: forwards;
-    animation-delay: 1s;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part.seconds.ones>.digit-wrapper {
-    animation: timer-seconds-ones 10s 6;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part.hundredths.tens>.digit-wrapper {
-    animation: timer-seconds-ones 1s 60;
-}
-
-.expire>.timer>.time-part-wrapper>.time-part.hundredths.ones>.digit-wrapper {
-    animation: timer-seconds-ones 500ms 120;
-}
-
-@-webkit-keyframes timer-seconds-tens {
-    0% {
-        top: -50px;
-    }
-
-    19% {
-        top: -50px;
-    }
-
-    20% {
-        top: -100px;
-    }
-
-    39% {
-        top: -100px;
-    }
-
-    40% {
-        top: -150px;
-    }
-
-    59% {
-        top: -150px;
-    }
-
-    60% {
-        top: -200px;
-    }
-
-    79% {
-        top: -200px;
-    }
-
-    80% {
-        top: -250px;
-    }
-
-    99% {
-        top: -250px;
-    }
-
-    100% {
-        top: -300px;
-    }
-}
-
-@-webkit-keyframes timer-seconds-ones {
-    0% {
-        top: 0;
-    }
-
-    9% {
-        top: 0;
-    }
-
-    10% {
-        top: -50px;
-    }
-
-    19% {
-        top: -50px;
-    }
-
-    20% {
-        top: -100px;
-    }
-
-    29% {
-        top: -100px;
-    }
-
-    30% {
-        top: -150px;
-    }
-
-    39% {
-        top: -150px;
-    }
-
-    40% {
-        top: -200px;
-    }
-
-    49% {
-        top: -200px;
-    }
-
-    50% {
-        top: -250px;
-    }
-
-    59% {
-        top: -250px;
-    }
-
-    60% {
-        top: -300px;
-    }
-
-    69% {
-        top: -300px;
-    }
-
-    70% {
-        top: -350px;
-    }
-
-    79% {
-        top: -350px;
-    }
-
-    80% {
-        top: -400px;
-    }
-
-    89% {
-        top: -400px;
-    }
-
-    90% {
-        top: -450px;
-    }
-
-    99% {
-        top: -450px;
-    }
-
-    100% {
-        top: -500px;
-    }
-}
-
-@-webkit-keyframes timer-warning {
-    from {
-        background: #1A1E23;
-    }
-
-    to {
-        background: #E7943C;
-    }
-}
-
-@-webkit-keyframes timer-expire {
-    from {
-        color: #000;
-    }
-
-    to {
-        color: #e7643c;
-    }
-}
-
-@-webkit-keyframes button-expired {
-    from {
-        visibility: hidden;
-    }
-
-    to {
-        visibility: visible;
-    }
-}
-
-@-webkit-keyframes button-before {
-    from {
-        visibility: visible;
-    }
-
-    to {
-        visibility: hidden;
-    }
-}
-
-select {
-font-size: 18px;
-border: 1px solid #ccc;
-padding: 0 10px;
-height: 30px;
-line-height: 40px;
-color: #ffffe9;
-background: #1a1e23;
-}
-
-.center {
-text-align: center;
-}
-
-form.ddos_form button.before {
-    animation: button-before;
-    animation-fill-mode: forwards;
-    animation-delay: 60s;
-}
-
-form.ddos_form button.expired {
-    visibility: hidden;
-    background: #E74C3C;
-    animation: button-expired;
-    animation-fill-mode: forwards;
-    animation-delay: 60s;
-    margin-top: -40px;
-}
-
-</style> 
-<div class="container"> 
-<div class="inner"> 
-<div class="logo"> 
-<div class="square" style="background-image:url(data:image/png;base64,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)"></div> 
-<div class="text">AvosLocker</div> 
-</div>
-<p>Prove that you are human. Select the time shown on the clock image.</p>
-<form class="ddos_form" method="post"> 
-<div class="captchav2" style="margin-bottom:15px;"> 
-<div class="imgWrap" style="border:2px solid #fff; max-width: 100%; border-radius: 50%; background-image:url(data:image/png;base64,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);"></div>
-</div>
-<div style="margin-bottom: 15px;">
-<select class="center" name="cap" required="">
-<option value="00">00</option>
-
-<option value="01">01</option>
-
-<option value="02">02</option>
-
-<option value="03">03</option>
-
-<option value="04">04</option>
-
-<option value="05">05</option>
-
-<option value="06">06</option>
-
-<option value="07">07</option>
-
-<option value="08">08</option>
-
-<option value="09">09</option>
-
-<option value="10">10</option>
-
-<option value="11">11</option>
-
-</select> : 
-<select name="cap" required="">
-<option value="00">00</option>
-
-<option value="01">01</option>
-
-<option value="02">02</option>
-
-<option value="03">03</option>
-
-<option value="04">04</option>
-
-<option value="05">05</option>
-
-<option value="06">06</option>
-
-<option value="07">07</option>
-
-<option value="08">08</option>
-
-<option value="09">09</option>
-
-<option value="10">10</option>
-
-<option value="11">11</option>
-
-<option value="12">12</option>
-
-<option value="13">13</option>
-
-<option value="14">14</option>
-
-<option value="15">15</option>
-
-<option value="16">16</option>
-
-<option value="17">17</option>
-
-<option value="18">18</option>
-
-<option value="19">19</option>
-
-<option value="20">20</option>
-
-<option value="21">21</option>
-
-<option value="22">22</option>
-
-<option value="23">23</option>
-
-<option value="24">24</option>
-
-<option value="25">25</option>
-
-<option value="26">26</option>
-
-<option value="27">27</option>
-
-<option value="28">28</option>
-
-<option value="29">29</option>
-
-<option value="30">30</option>
-
-<option value="31">31</option>
-
-<option value="32">32</option>
-
-<option value="33">33</option>
-
-<option value="34">34</option>
-
-<option value="35">35</option>
-
-<option value="36">36</option>
-
-<option value="37">37</option>
-
-<option value="38">38</option>
-
-<option value="39">39</option>
-
-<option value="40">40</option>
-
-<option value="41">41</option>
-
-<option value="42">42</option>
-
-<option value="43">43</option>
-
-<option value="44">44</option>
-
-<option value="45">45</option>
-
-<option value="46">46</option>
-
-<option value="47">47</option>
-
-<option value="48">48</option>
-
-<option value="49">49</option>
-
-<option value="50">50</option>
-
-<option value="51">51</option>
-
-<option value="52">52</option>
-
-<option value="53">53</option>
-
-<option value="54">54</option>
-
-<option value="55">55</option>
-
-<option value="56">56</option>
-
-<option value="57">57</option>
-
-<option value="58">58</option>
-
-<option value="59">59</option>
-
-</select>
-</div>
-<div class="expire"> 
-	<div class="timer"> 
-		<div class="time-part-wrapper"> 
-			<div class="time-part seconds tens"> 
-				<div class="digit-wrapper"> 
-					<span class="digit">0</span> 
-					<span class="digit">5</span> 
-					<span class="digit">4</span> 
-					<span class="digit">3</span> 
-					<span class="digit">2</span> 
-					<span class="digit">1</span> 
-					<span class="digit">0</span> 
-				</div> 
-			</div> 
-			<div class="time-part seconds ones"> 
-				<div class="digit-wrapper"> 
-					<span class="digit">0</span> 
-					<span class="digit">9</span> 
-					<span class="digit">8</span> 
-					<span class="digit">7</span> 
-					<span class="digit">6</span> 
-					<span class="digit">5</span> 
-					<span class="digit">4</span> 
-					<span class="digit">3</span> 
-					<span class="digit">2</span> 
-					<span class="digit">1</span> 
-					<span class="digit">0</span> 
-				</div> 
-			</div> 
-		</div> 
-		<div class="time-part-wrapper"> 
-			<div class="time-part hundredths tens"> 
-				<div class="digit-wrapper"> 
-					<span class="digit">0</span> 
-					<span class="digit">9</span> 
-					<span class="digit">8</span> 
-					<span class="digit">7</span> 
-					<span class="digit">6</span> 
-					<span class="digit">5</span> 
-					<span class="digit">4</span> 
-					<span class="digit">3</span> 
-					<span class="digit">2</span> 
-					<span class="digit">1</span> 
-					<span class="digit">0</span> 
-				</div> 
-			</div> 
-			<div class="time-part hundredths ones"> 
-				<div class="digit-wrapper"> 
-					<span class="digit">0</span> 
-					<span class="digit">9</span> 
-					<span class="digit">8</span> 
-					<span class="digit">7</span> 
-					<span class="digit">6</span> 
-					<span class="digit">5</span> 
-					<span class="digit">4</span> 
-					<span class="digit">3</span> 
-					<span class="digit">2</span> 
-					<span class="digit">1</span> 
-					<span class="digit">0</span> 
-				</div> 
-			</div> 
-		</div> 
-	</div> 
-</div>
-<button class="before" type="submit">Verify</button> 
-<button class="expired" type="submit"> Refresh (expired)</button> 
-</form> 
-</div> 
-</div> 
- 
-
-</body></html>
+<!DOCTYPE html><html><head><title>AvosLocker Press Releases</title><meta charset="utf-8"><link rel="stylesheet" href="/css/bootstrap.css"><link rel="stylesheet" href="/css/site.css"></head><body><div class="navbar navbar-expand-md navbar-dark"><div class="collapse navbar-collapse order-0 w-100 order-md-0"><div class="navbar-nav mr-auto"><div class="li nav-item"><a class="nav-link" href="/partnership">Partnership Program</a></div></div></div><div class="mx-auto order-1"><a class="navbar-brand mx-auto" href="/"><img src="/favicon.png" style="margin-bottom:5px;margin-right:5px;height:30px"><strong>AvosLocker</strong></a></div><div class="collapse navbar-collapse order-2 w-100 order-md-2"><div class="navbar-nav ml-auto"><div class="li nav-item"><a class="nav-link" href="/contact">Contact Us</a></div></div></div></div><div class="container-fluid mt-3 main"><console class="log" posts></console><div class="alert" style="background-color:#333"><img class="infocircle" src="/svgs/solid/info-circle.svg">All data is FOR SALE. Contact us with your offers. We only sell data to third parties if the owner of said data refuses to pay.</div><div class="row"><div class="col-md-4"><div class="card"><div class="card-header"><div class="row"><div class="icon"><img src="/svgs/solid/exclamation-triangle.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Hamilton Parker">Hamilton Parker</h5><a class="btn btn-inline domain" href="https://www.hamiltonparker.com">www.hamiltonparker.com</a><br><span style="font-weight: bold;font-size: 80%;color: #f71b3a;">Leaks in <span class="countdown" date="2023-02-13T00:00:00.000Z"></span></span></div></div></div><div class="card-body"><div class="card-desc">1865 LEONARD AVENUE
+    COLUMBUS, OH 43219
+    614-358-7800</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Hamilton-Parker-t71ni11ifu8" style="margin-right:5px">View</a><a class="btn btn-primary btn-inline" href="mailto:avos@onionmail.org?subject=Offer%20for%20Hamilton%20Parker">Buy</a></div><span>Notified 2/6/2023</span></div></div></div><div class="col-md-4"><div class="card"><div class="card-header"><div class="row"><div class="icon"><img src="/svgs/solid/exclamation-triangle.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Ultralife Corporation">Ultralife Corporation</h5><a class="btn btn-inline domain" href="https://ultralifecorporation.com">ultralifecorporation.com</a><br><span style="font-weight: bold;font-size: 80%;color: #f71b3a;">Leaks in <span class="countdown" date="2023-02-14T00:00:00.000Z"></span></span></div></div></div><div class="card-body"><div class="card-desc">Publicly traded stock as ULBI. Client information, design, manufacture, financial, accounting, HR and more.
+    Address: 2000 Technology Pkwy, Newark, NY 14513, United States
+    Phone: +1 315 332 7100</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Ultralife-Corporation-ec4k4u00llg" style="margin-right:5px">View</a><a class="btn btn-primary btn-inline" href="mailto:avos@onionmail.org?subject=Offer%20for%20Ultralife%20Corporation">Buy</a></div><span>Notified 2/6/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Schandy">Schandy</h5><a class="btn btn-inline domain" href="https://schandy.com.uy">schandy.com.uy</a></div></div></div><div class="card-body"><div class="card-desc">We have more than 100GB Data(Employers Data,CVs,Passports,HR,Confidential files...)</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Schandy-9okld3318p8" style="margin-right:5px">View</a></div><span>Leaked 2/5/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="CannonDesign">CannonDesign</h5><a class="btn btn-inline domain" href="https://cannondesign.com">cannondesign.com</a></div></div></div><div class="card-body"><div class="card-desc">Employees: 1,100 | Revenue: $279.8M | Site: www.cannondesign.com
+    Exfiltrated: 5.7 TB
+    Wasting our time will result in your data being leaked. Over 5 TB corporate and client files will be released
+    
+    CEO:
+          &quot;Entity&quot;: &quot;US&quot;,
+          &quot;SSN - US&quot;: &quot;367725265&quot;,
+          &quot;Last Name&quot;: &quot;Lukanic&quot;,
+          &quot;First Name&quot;: &quot;Bradley&quot;,
+          &quot;Nickname&quot;: &quot;Brad&quot;,
+          &quot;Street Address&quot;: &quot;6619 Braeburn Pkwy&quot;,
+          &quot;City&quot;: &quot;Bethesda&quot;,
+          &quot;State/Prov&quot;: &quot;MD&quot;,
+          &quot;Zip Code&quot;: &quot;20817&quot;,
+          &quot;Birth Date&quot;: &quot;02/15/1971&quot;,
+    
+    CFO:
+          &quot;Entity&quot;: &quot;US&quot;,
+          &quot;SSN - US&quot;: &quot;078564382&quot;,
+          &quot;Last Name&quot;: &quot;Carlino&quot;,
+          &quot;First Name&quot;: &quot;David&quot;,
+          &quot;Nickname&quot;: &quot;Dave&quot;,
+          &quot;Street Address&quot;: &quot;5411 Via Del Sole&quot;,
+          &quot;City&quot;: &quot;Williamsville&quot;,
+          &quot;State/Prov&quot;: &quot;NY&quot;,
+          &quot;Zip Code&quot;: &quot;14221&quot;,
+          &quot;Birth Date&quot;: &quot;07/29/1961&quot;,
+    
+    VP:
+          &quot;Entity&quot;: &quot;US&quot;,
+          &quot;SSN - US&quot;: &quot;121683252&quot;,
+          &quot;Last Name&quot;: &quot;Schopp&quot;,
+          &quot;First Name&quot;: &quot;Carolyn&quot;,
+          &quot;Nickname&quot;: &quot;Carolyn&quot;,
+          &quot;Street Address&quot;: &quot;3621 W River Road&quot;,
+          &quot;City&quot;: &quot;Grand Island&quot;,
+          &quot;State/Prov&quot;: &quot;NY&quot;,
+          &quot;Zip Code&quot;: &quot;14072&quot;,
+          &quot;Birth Date&quot;: &quot;10/09/1975&quot;,</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/CannonDesign-f7spki21ncg" style="margin-right:5px">View</a></div><span>Leaked 2/2/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Wesco Turf">Wesco Turf</h5><a class="btn btn-inline domain" href="https://www.wescoturf.com">www.wescoturf.com</a></div></div></div><div class="card-body"><div class="card-desc">Finance, HR, Corporate files present in data leak
+    
+    We are an exclusive provider for Toro, Club Car, Bernhard, Salsco, Harper, Ventrac, and MCI-Flowtronex and Watertronics Pump Stations in Florida and Southern Georgia. Since 1987 Wesco Turf has been the golf, grounds, and irrigation market leader. We are a worldwide provider of the highest quality used golf course equipment. Wesco has been honored multiple times as Toro’s North American Distributor of Excellence.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Wesco-Turf-05sbm3gegao" style="margin-right:5px">View</a></div><span>Leaked 1/25/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Buckeye Packaging">Buckeye Packaging</h5><a class="btn btn-inline domain" href="https://buckeyepackaging.com">buckeyepackaging.com</a></div></div></div><div class="card-body"><div class="card-desc">Buckeye Packaging offers high-quality custom packaging solutions in a variety of substrates, delivered with outstanding customer service and terrible network security. 50 GB customer data will be released</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Buckeye-Packaging-8a3p0vrufio" style="margin-right:5px">View</a></div><span>Leaked 1/18/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Global Mining Products">Global Mining Products</h5><a class="btn btn-inline domain" href="https://globalminingproducts.net">globalminingproducts.net</a></div></div></div><div class="card-body"><div class="card-desc">Global Mining's Product Catalog is available for download. MINExpo 2012 Please Visit Global Mining Products Inc at MINExpo 2012 Booth No. 9144 Service and Repair Facilities 3 Location To Serve You Better Global Mining - USA Ph: 775-778-3410 Fax: 775-778-3418 Global Mining - Canada Ph: 604-538-0058 Fax: 604-541-2850 PT GloMinPro Indonesia</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Global-Mining-Products-vvrvmis08ho" style="margin-right:5px">View</a></div><span>Leaked 1/18/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Memtech Acoustical">Memtech Acoustical</h5><a class="btn btn-inline domain" href="https://memtechacoustical.com">memtechacoustical.com</a></div></div></div><div class="card-body"><div class="card-desc">Memtech Acoustical is your 'one-stop' source for acoustic services, noise control and acoustic material installation. There is no need to coordinate consultants, order materials and arrange for installation. Memtech does it all. Memtech Acoustical Industrial, Commercial, and Acoustic Noise Control Solutions </div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Memtech-Acoustical-4t49fcae4bo" style="margin-right:5px">View</a></div><span>Leaked 1/15/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Cambian Group">Cambian Group</h5><a class="btn btn-inline domain" href="https://cambiangroup.com">cambiangroup.com</a></div></div></div><div class="card-body"><div class="card-desc">Includes data from Care Tech Holdings PLC (parent holding company, caretech-uk.com) &amp; ByTheBridge.co.uk &amp; Cambian Group. A billion dollar mega-corporation and British orphans, what could go wrong?</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Cambian-Group-59tbt6s4ijo" style="margin-right:5px">View</a></div><span>Leaked 1/9/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Corporate Interiors Inc">Corporate Interiors Inc</h5><a class="btn btn-inline domain" href="https://www.corporate-interiors.com">www.corporate-interiors.com</a></div></div></div><div class="card-body"><div class="card-desc">Corporate Interiors - Steelcase office furniture - Delaware and Philadelphia Contact Us 1-800-690-9101</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Corporate-Interiors-Inc-nnqmai2uebg" style="margin-right:5px">View</a></div><span>Leaked 1/4/2023</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="ALVAC SA">ALVAC SA</h5><a class="btn btn-inline domain" href="https://alvac.es">alvac.es</a></div></div></div><div class="card-body"><div class="card-desc">Website - https://alvac.es
+    Company name: ALVAC S.A.
+    Companies System Administrator trying to hide the cyberattack on the ALVAC S.A. servers. Vídeos confidenciales https://vimeo.com/752214614
+    AvosLocker team is ready to leak more files on the blog, publish video-files and attack networks again. We should agree with you to decrypt your networks and remove all ALVAC S.A. exfiltrated files from AvosLocker team servers.
+    https://twitter.com/PedroFe12181764/status/1575117531957846017
+    https://twitter.com/search?q=%40alvac&amp;src=typed_query&amp;f=live</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/ALVAC-SA-gslpq49ton8" style="margin-right:5px">View</a></div><span>Leaked 10/1/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Cosmopoint College">Cosmopoint College</h5><a class="btn btn-inline domain" href="https://cosmopointcollege.edu">cosmopointcollege.edu</a></div></div></div><div class="card-body"><div class="card-desc">We downloaded about 80 gigabytes of internal school documents, including teacher and student contact information, student loan contracts, internal school financial documents, etc
+     </div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Cosmopoint-College-gnjd8r3tcg8" style="margin-right:5px">View</a></div><span>Leaked 9/28/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="DLS Motors">DLS Motors</h5><a class="btn btn-inline domain" href="https://dlsmotors.com.py">dlsmotors.com.py</a></div></div></div><div class="card-body"><div class="card-desc">We downloaded 50GB of internal files from DLS Motors. -- Just 83 years ago, the company Sobera S.A. entered the Paraguayan market, bringing new business opportunities, new projects, new sources of employment and contributing to the sustained economic growth of our country.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/DLS-Motors-ha9lclh3kvo" style="margin-right:5px">View</a></div><span>Leaked 9/28/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Hughes Systems Industrial">Hughes Systems Industrial</h5><a class="btn btn-inline domain" href="https://hsitx.com">hsitx.com</a></div></div></div><div class="card-body"><div class="card-desc">All company projects includes drawings, contracts, and all details
+    employees social security number 401K plans
+    company financial data includes bank accounts information, and taxation reports
+     and more </div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Hughes-Systems-Industrial-ur51afagtag" style="margin-right:5px">View</a></div><span>Leaked 9/23/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Zeus Scientific Inc">Zeus Scientific Inc</h5><a class="btn btn-inline domain" href="https://zeusscientific.com">zeusscientific.com</a></div></div></div><div class="card-body"><div class="card-desc">https://www.zeusscientific.com/about Zeus Scientific, Inc. manufactures clinical diagnostic solutions. The Company offers flexible solutions for autoimmune and infectious disease testing. AvosLocker team publishes the first part of exfiltrated files from Zeus Scientific Servers, NDA contracts etc</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Zeus-Scientific-Inc-nf33nc8u3cg" style="margin-right:5px">View</a></div><span>Leaked 9/19/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="American International Industry">American International Industry</h5><a class="btn btn-inline domain" href="https://aiibeauty.com">aiibeauty.com</a></div></div></div><div class="card-body"><div class="card-desc">The leading manufacturer and distributor of innovative, quality beauty and skin care products for men and women. With 45 years of industry experience.The leading manufacturer and distributor of innovative, quality beauty and skin care products for men and women. With 45 years of industry experience.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/American-International-Industry-5a66qm2dto8" style="margin-right:5px">View</a></div><span>Leaked 9/15/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Emtec Inc">Emtec Inc</h5><a class="btn btn-inline domain" href="https://www.emtecinc.com">www.emtecinc.com</a></div></div></div><div class="card-body"><div class="card-desc">Global IT company with terrible IT security. How can Emtec secure clients when they don't secure their own network?
+    
+    MISRA SUNIL SSN:050-66-2655 Email:Sunil.Misra@emtecinc.com
+    JOHNSON	RICK SSN:252-33-1704 Email:Rick.Johnson@emtecinc.com
+    DESAI DINESH SSN:516-74-2061 Email:Dinesh.Desai@emtecinc.com
+    CHANDLER GREGORY SSN:220-02-8854 Email:Gregory.Chandler@emtecinc.com
+    BALLINGER VICKI SSN:208-46-9296 Email:Vicki.Ballinger@emtecinc.com</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Emtec-Inc-qg1ln91gsd" style="margin-right:5px">View</a></div><span>Leaked 9/14/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Northwest University">Northwest University</h5><a class="btn btn-inline domain" href="https://northwestu.edu">northwestu.edu</a></div></div></div><div class="card-body"><div class="card-desc">Confidential, taxation, and financial data</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Northwest-University-sa87fkfo47o" style="margin-right:5px">View</a></div><span>Leaked 9/14/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Paul Smiths College">Paul Smiths College</h5><a class="btn btn-inline domain" href="https://paulsmiths.edu">paulsmiths.edu</a></div></div></div><div class="card-body"><div class="card-desc">At Paul Smith's College, it's about the experience. We are the only four-year institution offering broad-based higher education in the Adirondacks. Our programs...</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Paul-Smiths-College-52uljqvtg5o" style="margin-right:5px">View</a></div><span>Leaked 9/11/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Our Lady of Lake University">Our Lady of Lake University</h5><a class="btn btn-inline domain" href="https://ollusa.edu">ollusa.edu</a></div></div></div><div class="card-body"><div class="card-desc">Our Lady of the Lake University, founded in 1895 by the Congregation of Divine Providence, is a coeducational institution.
+    - DB
+    - Health
+    - Finance
+    - Admissions
+    - IT
+    - HR
+    And many of more...</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Our-Lady-of-Lake-University-u05o3e4fd68" style="margin-right:5px">View</a></div><span>Leaked 9/11/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Xybion">Xybion</h5><a class="btn btn-inline domain" href="https://xybion.com">xybion.com</a></div></div></div><div class="card-body"><div class="card-desc">Xybion's Emidence TM platform satisfies our current and evolving future needs with the unique adoption technique of &quot;Your Process - Your Way&quot;, Joseph F. Molloy Vice President, Workforce Safety. We wanted to go paperless without impacting our existing business processes. It was a smooth transition for our users thanks to Labwise XD.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Xybion-14ih0ubds1o" style="margin-right:5px">View</a></div><span>Leaked 9/8/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Stratford University">Stratford University</h5><a class="btn btn-inline domain" href="https://stratford.edu">stratford.edu</a></div></div></div><div class="card-body"><div class="card-desc">samples of:
+    
+    Confidential agreements 
+    Military personnel (white house service members) related files
+    taxation data</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Stratford-University-084edb3mh8o" style="margin-right:5px">View</a></div><span>Leaked 9/7/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Sunland Asphalt And Construction">Sunland Asphalt And Construction</h5><a class="btn btn-inline domain" href="https://sunlandasphalt.com">sunlandasphalt.com</a></div></div></div><div class="card-body"><div class="card-desc">Human Resources, Projects, Documents, and more. If Sunland Asphalt refuses to pay the ransom, every data will be published to the public.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Sunland-Asphalt-And-Construction-3hs8rb56fd" style="margin-right:5px">View</a></div><span>Leaked 9/6/2022</span></div></div></div><div class="col-md-4"><div class="card"><div class="card-header"><div class="row"><div class="icon"><img src="/svgs/solid/exclamation-triangle.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="TeladanPrima Argo Group">TeladanPrima Argo Group</h5><a class="btn btn-inline domain" href="https://teladanprima.com">teladanprima.com</a></div></div></div><div class="card-body"><div class="card-desc">750GB+ of stolen data include contracts, confidential , intellectual property data, and more</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/TeladanPrima-Argo-Group-9s35bi364t" style="margin-right:5px">View</a><a class="btn btn-primary btn-inline" href="mailto:avos@onionmail.org?subject=Offer%20for%20TeladanPrima%20Argo%20Group">Buy</a></div><span>Notified 9/5/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Truckslogic">Truckslogic</h5><a class="btn btn-inline domain" href="https://truckslogic.com">truckslogic.com</a></div></div></div><div class="card-body"><div class="card-desc">Documents include Legal, Financials, passports, licenses
+    
+    Truckslogic Optimiza la logística de tu empresa. Queremos hacer tu vida y la de tu empresa más fácil, ofrecemos un servicio personalizado, flexible y con la experiencia de más de 15 años en el mercado.
+    
+    Colombia
+    Carrera 12A #78-35, Piso 2, Bogotá.
+    
+    República Dominicana
+    Calle Euclides Morillo 58, Diamond Mall - Local 81. Santo Domingo
+    
+    Guatemala
+    Calzada Roosevelt 51-25, Ciudad de Guatemala. CP: 01057
+    
+    Panamá
+    International Business Park Edificio 3825. local 107, planta baja Panamá Pacífico</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Truckslogic-ob25nek7fdo" style="margin-right:5px">View</a></div><span>Leaked 9/3/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="SCAD EDU">SCAD EDU</h5><a class="btn btn-inline domain" href="https://scad.edu">scad.edu</a></div></div></div><div class="card-body"><div class="card-desc">1 database, filelist, all email/phone leaked in sample! Everything leak in 2 week
+    Savannah College of Art and Design (SCAD) is a private nonprofit art school with locations in Savannah, Georgia; Atlanta, Georgia; and Lacoste, France.
+    
+    Founded in 1978 to provide degrees in programs not yet offered in the southeast of the United States, the university now operates two locations in Georgia, a degree-granting online education program, and a study abroad location in Lacoste, France. The university enrolls more than 14,000 students from across the United States and around the world with international students comprising up to 17 percent of the student population.[3] SCAD is accredited by the Southern Association of Colleges and Schools Commission on Colleges and other professional accrediting bodies. </div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/SCAD-EDU-qbvjqf3t7a8" style="margin-right:5px">View</a></div><span>Leaked 9/3/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="The Brigantine">The Brigantine</h5><a class="btn btn-inline domain" href="https://brigantine.com">brigantine.com</a></div></div></div><div class="card-body"><div class="card-desc">The Brigantine Restaurants are a San Diego favorite for fresh seafood, steaks and chops, friendly and knowledgeable services, and inviting facilities.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/The-Brigantine-6i9it1oeg" style="margin-right:5px">View</a></div><span>Leaked 8/29/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Khoemacau Copper Mining">Khoemacau Copper Mining</h5><a class="btn btn-inline domain" href="https://khoemacau.com">khoemacau.com</a></div></div></div><div class="card-body"><div class="card-desc">ALL Active Directory domain hashes leaked!!! Format:
+    kcm.local\tshiamo.molefe:::13506d75610047a00e0b7692e81f70b2:::
+    kcm.local\mpho.losike:::923a3103e0e13ab8014c9a8354c6337f:::
+    kcm.local\roy.basson:::27f0e2227d44e6b2ac122c25350efd4c:::
+    kcm.local\marius.ungerer:::ba1a5281df2eba76948e8c68aaa9211c:::
+    kcm.local\helga.hugo:::c67c2209034b9537cc07083d842e9f65:::
+    kcm.local\FortiEMS-svc:::975020171cada4be8e8fb655fcf49e4f:::
+    kcm.local\tobokani.mosetlha:::0f9437d2c04e53cf4930a1b7cd50659a:::
+    kcm.local\nikiwe.mahlasela:::83bcee313b6b3bb5d5cd1434128c92e6:::
+    kcm.local\mooketsi.rantape:::e9923a513a6ee1fb4e08251da13993b2:::
+    kcm.local\kuairani.hengari:::3ff04097c34204839ec416b3c1399b8b:::
+    
+    The Khoemacau copper project is an underground mine being developed by American private equity firm Cupric Canyon Capital's subsidiary Khoemacau Copper Mining in Botswana. Khoemacau Copper signed a $565m project funding package deal with Cupric Canyon Capital for the development of the high-grade Khoemacau copper project in February 2019.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Khoemacau-Copper-Mining-o0djl12gm1o" style="margin-right:5px">View</a></div><span>Leaked 8/27/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Mount Vernon Mills">Mount Vernon Mills</h5><a class="btn btn-inline domain" href="https://mvmills.com">mvmills.com</a></div></div></div><div class="card-body"><div class="card-desc">stablished in 1947 and headquartered in Mauldin, South Carolina, Mount Vernon Mills is a textiles manufacturer, producing chemicals, textiles, and...</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Mount-Vernon-Mills-1rk15eg0doo" style="margin-right:5px">View</a></div><span>Leaked 8/26/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Los Alamos Nature Center">Los Alamos Nature Center</h5><a class="btn btn-inline domain" href="https://laschools.net">laschools.net</a></div></div></div><div class="card-body"><div class="card-desc">As a financial cooperative, Los Alamos Schools Credit Union provides financial products and services to members featuring more attractive rates and...
+    All data will be leaked in the next post update.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Los-Alamos-Nature-Center-shbglpn9rn8" style="margin-right:5px">View</a></div><span>Leaked 8/24/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="WBSCHOOLS">WBSCHOOLS</h5><a class="btn btn-inline domain" href="https://wbschools.com">wbschools.com</a></div></div></div><div class="card-body"><div class="card-desc">Employee info leak</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/WBSCHOOLS-sujd9dm7e1g" style="margin-right:5px">View</a></div><span>Leaked 8/22/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Casa International">Casa International</h5><a class="btn btn-inline domain" href="https://casashops.com">casashops.com</a></div></div></div><div class="card-body"><div class="card-desc">European furniture retailer operating in multiple countries</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Casa-International-tij4i4e0f9g" style="margin-right:5px">View</a></div><span>Leaked 8/22/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Garnica Plywood">Garnica Plywood</h5><a class="btn btn-inline domain" href="https://garnica.one">garnica.one</a></div></div></div><div class="card-body"><div class="card-desc">WILL LEAK ALL DATA SEPTEMBER 1, SAMPLE INCLUDE CONTACT
+    At Garnica, we offer a wide range of plantation species; we boast different kinds of wood for construction, mobility, furniture, DIY projects and much more. Discover them here. Architecture and materials 21-07-2022 How is plywood manufactured step by step Our commitment to excellence in the plywood production process is reflected in each step.
+    </div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Garnica-Plywood-74didf2aub8" style="margin-right:5px">View</a></div><span>Leaked 8/22/2022</span></div></div></div><div class="col-md-4"><div class="card"><div class="card-header"><div class="row"><div class="icon"><img src="/svgs/solid/exclamation-triangle.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Transform Data Into Insight">Transform Data Into Insight</h5><a class="btn btn-inline domain" href="https://rhinoit.co.uk">rhinoit.co.uk</a></div></div></div><div class="card-body"><div class="card-desc">More Than 50GB Important DATA Stolen Will be Publish</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Transform-Data-Into-Insight-v0deurhk688" style="margin-right:5px">View</a><a class="btn btn-primary btn-inline" href="mailto:avos@onionmail.org?subject=Offer%20for%20Transform%20Data%20Into%20Insight">Buy</a></div><span>Notified 7/24/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Montmorency College">Montmorency College</h5><a class="btn btn-inline domain" href="https://cmontmorency.qc.ca">cmontmorency.qc.ca</a></div></div></div><div class="card-body"><div class="card-desc">Cyberattack at Collège Montmorency: ~8TB personal data has been compromised by AVOSLOCKER.
+    Board of Directors should contact with us immediately to avoid the full leak on our blog.
+    News and facts about Cyberattack:
+    https://www.lapresse.ca/actualites/education/2022-05-21/cyberattaque-au-college-montmorency/la-direction-evoque-un-possible-vol-de-donnees-personnelles.php
+    https://thecanadian.news/cyberattack-at-college-montmorency-personal-data-has-been-compromised/
+    https://www.academica.ca/top-ten/cyberattacks-strike-coll%C3%A8ge-montmorency-us-institution
+    https://oicanadian.com/college-montmorency-victim-of-an-alleged-cyberattack/
+    https://www.spamchronicles.com/college-montmorency-victim-of-a-cyber-attack/
+    https://actualnewsmagazine.com/english/cyberattack-at-montmorency-college-the-management-evokes-a-possible-theft-of-personal-data/</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Montmorency-College-3k0938s2s6o" style="margin-right:5px">View</a></div><span>Leaked 7/15/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Bechstein">Bechstein</h5><a class="btn btn-inline domain" href="https://bechstein.com">bechstein.com</a></div></div></div><div class="card-body"><div class="card-desc">Top quality since 1853: the C. Bechstein name is synonymous with exquisite grand and upright pianos made in Germany.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Bechstein-eq1ii0p27r" style="margin-right:5px">View</a></div><span>Leaked 6/17/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="CR2">CR2</h5><a class="btn btn-inline domain" href="https://cr2.com">cr2.com</a></div></div></div><div class="card-body"><div class="card-desc">CR2 is an Irish-owned banking software company which provides mobile, internet and ATM financial service technology to more than 100 retail banks across Africa, the Middle East and Asia. Headquartered in Dublin, Ireland, the company has offices in Dubai, London, Cairo, Amman, Bengaluru, Lagos, Johannesburg, Singapore and Perth. Its customers include ANZ, Barclays, Standard Chartered, Botswana Savings Bank, Jordanian Bank al Etihad,pan-African bank Orabank, and Nigeria’s Access Bank plc and Diamond Bank. 
+    
+    500 GB+ Data includes:
+    - Sources to all products ever developed including BankWorld, BankWorld POS &amp; ATM.
+    - Financials
+    - HR documents
+    - Accounting files
+    - Sensitive information on more than 100 banks worldwide
+    
+    Sample includes the compressed 500 MB large file list and a couple random files for proof, shareholders e-mail list, all active directory users with their names, titles, phone numbers, and e-mails. (28.8 MB compressed)</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/CR2-htihiqr3qgg" style="margin-right:5px">View</a></div><span>Leaked 6/17/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Livingston">Livingston</h5><a class="btn btn-inline domain" href="https://livingston.com">livingston.com</a></div></div></div><div class="card-body"><div class="card-desc">Livingston is a quality source for rental of all Test Equipment and Equipment Management Services with local offices in all major countries.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Livingston-gh2q17icv48" style="margin-right:5px">View</a></div><span>Leaked 6/8/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="CPA Mutual Insurance Company">CPA Mutual Insurance Company</h5><a class="btn btn-inline domain" href="https://www.cpamutual.com">www.cpamutual.com</a></div></div></div><div class="card-body"><div class="card-desc">Cyber Insurance policy leaked in sample. 
+    
+    At CPA Mutual, our mission is to provide a quality and lasting solution to the professional liability needs of accountants. We bring added value to our member firms by continually striving to exceed their expectations and helping them manage and prevent risks.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/CPA-Mutual-Insurance-Company-n6t4hk1thn8" style="margin-right:5px">View</a></div><span>Leaked 5/31/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="BLUME GLOBAL INC">BLUME GLOBAL INC</h5><a class="btn btn-inline domain" href="https://blumeglobal.com">blumeglobal.com</a></div></div></div><div class="card-body"><div class="card-desc">BLUME GLOBAL INC
+    BLUME GLOBAL INDIA PRIVATE LTD
+    BLUME GLOBAL HONG KONG LIMITED
+    Data Stolen: Proprietary &amp; Confidential, Strictly Confidential NDA agreemtents signed by DocuSign with: J.P. Morgan Securities LLC, Mitsui &amp; Co (mitsui.com) Signatory Mariko Tsuchida(Deputy General Manager), Yara International ASA Signatory Loredana Nistor(IT Sourcing Manager), Dell Inc. Signatory Lisa Woo(Legal Counsel, Legal Strategy and Operations), Hewlett Packard Enterprise Company Signatory Kim Masone(VP Global Logistics Operations), Desarrollo Logístico, S.A., FAIRMOUNT PARTNERS, CITIGROUP GLOBAL MARKETS INC. Signatory Eric Burns(Managing Director), MARLIN MANAGEMENT COMPANY LLC Signatory Ryan Laurin(Managing Director), GI PARTNERS ACQUISITIONS LLC, LiveSource Inc., Röhlig blue-net GmbH, REZ1 Cisco NDA etc + email-bases, private conversations .msg, financial statement etc. We uploaded small size of Stolen data in Blumeglobal_Part1.zip archive.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/BLUME-GLOBAL-INC-qnsfe3crq3g" style="margin-right:5px">View</a></div><span>Leaked 5/18/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="CHRISTUS Health">CHRISTUS Health</h5><a class="btn btn-inline domain" href="https://christushealth.org">christushealth.org</a></div></div></div><div class="card-body"><div class="card-desc">Founded in 1999, CHRISTUS Health an international Catholic, faith-based, not-for-profit health system, is headquartered in the Dallas area.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/CHRISTUS-Health-4uv4nrtb59o" style="margin-right:5px">View</a></div><span>Leaked 5/11/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="TPI Corporation">TPI Corporation</h5><a class="btn btn-inline domain" href="https://tpicorp.com">tpicorp.com</a></div></div></div><div class="card-body"><div class="card-desc">Data Stolen: ~1TB of confidential data were NDA-agreemtents, email-bases, private conversations .msg, financial statements, IRS, confidential business information, engineering projects, legal statements, accounting statements etc. We uploaded small size of Stolen data in TPI-Part1.zip archive for public review:
+    2022-03-31 TPI Financial STMTS.pdf
+    2021-08-30 IRS CP216F Notice.pdf
+    2021-03-31 Mutual NDA - Hearn TPIFostoria Corporation v1.0 (Executed).pdf
+    2021-03-31 Headliner NVH Project.msg
+    2020-07-10 Mission National Ins. Co, 2020 Distribution.pdf
+    2020-03-16 Oliver's of Oregon Bankruptcy.pdf
+    2019-02-22 ProcessHeat - Project Thermo Countersigned CA - TPI.pdf
+    2019-02-15 TPICorpFostoriaProcessEquipment&amp;CustomPaperTubesouthwest-Mutual Non-disclosure Agreement.msg
+    2013-04-15 Federal Mogul Mutual Confidentiality Agreement.pdf
+    2012-12-21 Emitted Energy Corp Mutual Non-Disclosure Agreement.pdf
+    Peter Wang Contact Info.pdf</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/TPI-Corporation-ei4usl1689g" style="margin-right:5px">View</a></div><span>Leaked 4/30/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Public Employees Credit Union">Public Employees Credit Union</h5><a class="btn btn-inline domain" href="https://www.pecutx.org">www.pecutx.org</a></div></div></div><div class="card-body"><div class="card-desc">We have confidential files belonging to all 29000 members including Name, Address, SSN, Telephone, Email, Credit Cards, Loan Applications, IRS Documents. Include small sample.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Public-Employees-Credit-Union-hc86qnpn5e" style="margin-right:5px">View</a></div><span>Leaked 4/27/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="LPA Design">LPA Design</h5><a class="btn btn-inline domain" href="https://lpadesign.com">lpadesign.com</a></div></div></div><div class="card-body"><div class="card-desc">LPA Design is an electronics R&amp;D consulting company with engineering expertise in printed circuit board design, RF communications and antenna optimization, and remote sensors. LPA Desing developed the PocketWizard™ line of photography products. </div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/LPA-Design-qnsnq4a8i7g" style="margin-right:5px">View</a></div><span>Leaked 4/22/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Chimbusco">Chimbusco</h5><a class="btn btn-inline domain" href="https://chimbusco.com.sg">chimbusco.com.sg</a></div></div></div><div class="card-body"><div class="card-desc">Established in 1972, CHIMBUSCO has since reformed with two major shareholders namely, PetroChina and COSCO Group engaging in marine fuel supply of bunker oil, marine lubricants and fresh water as well as trading, blending, transportation and storage of oil products. CHIMBUSCO operates over 50 major ports and 30 branch offices in China, with an operational fleet of over 100 barges.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Chimbusco-tblv6fsolko" style="margin-right:5px">View</a></div><span>Leaked 4/18/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="CMHA National">CMHA National</h5><a class="btn btn-inline domain" href="https://cmha.ca">cmha.ca</a></div></div></div><div class="card-body"><div class="card-desc">The Canadian Mental Health Association provides mental health services and support. The Association offers advocacy, education, research, and services to person...</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/CMHA-National-9msd3s7d238" style="margin-right:5px">View</a></div><span>Leaked 4/16/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Yildiz Entegre USA">Yildiz Entegre USA</h5><a class="btn btn-inline domain" href="https://yildizentegre.com">yildizentegre.com</a></div></div></div><div class="card-body"><div class="card-desc">https://www.zoominfo.com/c/yldz-entegre/355492210
+    https://www.dnb.com/business-directory/company-profiles.yildizlar_yatirim_holding_anonim_sirketi.5db0188dbc06caa3c959161dce6ad867.html
+    NEWS about ~$200,000,000 investments by Company: Yıldızlar Yatırım Holding. Source: https://www.enkocaeli.com/haber/9845649/yildizlar-yatirim-holdinge-saldiri-iddiasi
+    We should provide Bank Investigations and refer to The Central Bank of the Republic of Turkey, Federal Reserve etc
+    List of Holding's affiliated group companies:
+    1- İstanbul Gübre Sanayi Anonim Şirketi
+    2- Yıldız Entegre Ağaç San ve Tic AŞ,
+    3- İGSAŞ Tarımsal Ürünler AŞ,
+    4- İGSAŞ Sigorta ve Aracılık Hizmetleri AŞ,
+    5- Yıldız Demir Çelik Sanayi AŞ,
+    6- YLDZ Laboratuvar Hiz Tic AŞ,
+    7- Yıldızlar Deniz İşletmeciliği AŞ,
+    8- YYH Yıldız Enerji Tedarik ve Toptan Satış AŞ,
+    9- Yıldız Entegre USA INC.,
+    10- Yıldız Entegre Romania SA,
+    11- Yıldız Chem SRL,
+    12- Yıldız Logistica SRL,
+    13- Yıldız Entegre Russia OOO,
+    14- Yıldız Entegre Adriya DOO
+    This leak contains most of Strictly_Confidential files with file extensions: .doc / .xls / .xlsx / .pdf / .msg / etc</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Yildiz-Entegre-USA-fbj5t7pieoo" style="margin-right:5px">View</a></div><span>Leaked 4/15/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Avamere Family of Companies">Avamere Family of Companies</h5><a class="btn btn-inline domain" href="https://avamere.com">avamere.com</a></div></div></div><div class="card-body"><div class="card-desc">Founded in 1995 and headquartered in Wilsonville, Oregon, Avamere Family of Companies is a group of healthcare organizations and systems.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Avamere-Family-of-Companies-9b11n85vls8" style="margin-right:5px">View</a></div><span>Leaked 4/6/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="McKenzie Health System">McKenzie Health System</h5><a class="btn btn-inline domain" href="https://mckenziehealth.org">mckenziehealth.org</a></div></div></div><div class="card-body"><div class="card-desc">McKenzie Health System (MHS) is a not-for-profit medical and surgical hospital in Sandusky, Mich., with nine clinics in the surrounding region.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/McKenzie-Health-System-g7g14ub1rf8" style="margin-right:5px">View</a></div><span>Leaked 4/6/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="Keyano College">Keyano College</h5><a class="btn btn-inline domain" href="https://keyano.ca">keyano.ca</a></div></div></div><div class="card-body"><div class="card-desc">Founded in 1965 and based in Fort McMurray, Canada, Keyano College is a community college meeting both the training and skills acquisition needs of industry.
+    
+    Headquarters:
+    8115 Franklin Ave, Fort McMurray, Alberta, T9H 2H7, Canada
+    
+    Phone Number:
+    (780) 791-4800</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/Keyano-College-hkvv5m7a25" style="margin-right:5px">View</a></div><span>Leaked 4/5/2022</span></div></div></div><div class="col-md-4"><div class="card leak"><div class="card-header"><div class="row"><div class="icon leak"><img src="/svgs/solid/check-square.svg"></div><div style="width: calc(100% - 80px); margin-left: auto; height: 100px;"><h5 class="card-brand" title="LW Group">LW Group</h5><a class="btn btn-inline domain" href="https://lyonwaugh.com">lyonwaugh.com</a></div></div></div><div class="card-body"><div class="card-desc">LW Group now represents eight (8) luxury automobile brands operating at nine (9) locations within the Boston, MA and New Hampshire markets.</div></div><div class="card-footer"><div class="buttons"><a class="btn btn-primary btn-inline" href="/post/LW-Group-305a4hppl9g" style="margin-right:5px">View</a></div><span>Leaked 4/4/2022</span></div></div></div></div><script src="/ticker.js"></script><!--include includes/pagination--></div></body></html>
