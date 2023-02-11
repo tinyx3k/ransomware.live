@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-11 | [`B&G Foods (CA, US)`](https://google.com/search?q=B%26G+Foods+%28CA%2C+US%29) | [daixin](profiles.md?id=daixin) |
 | 2023-02-11 | [`Advance2000`](https://google.com/search?q=Advance2000) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-11 | [`ANXA`](https://google.com/search?q=ANXA) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-11 | [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | [bianlian](profiles.md?id=bianlian) |
@@ -204,6 +205,5 @@
 | 2023-01-11 | [`A????? ????k`](https://google.com/search?q=A%3F%3F%3F%3F%3F+%3F%3F%3F%3Fk) | [play](profiles.md?id=play) |
 | 2023-01-11 | [`Liebra Permana`](https://google.com/search?q=Liebra+Permana) | [alphv](profiles.md?id=alphv) |
 | 2023-01-11 | [`TIME TECHNOPLAST LIMITED`](https://google.com/search?q=TIME+TECHNOPLAST+LIMITED) | [alphv](profiles.md?id=alphv) |
-| 2023-01-11 | [`circlevillecourt.com`](https://google.com/search?q=circlevillecourt.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 11/02/2023 21.20 (UTC)_
+Last update : _Saturday 11/02/2023 23.18 (UTC)_
