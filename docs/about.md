@@ -34,6 +34,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Add Pushover notification 
 * Add a [RSS Feed](https://www.ransomware.live/rss.xml)
 * Add a field `delay` in seconds for every Group locations before scraping (not mandatory)
+* Add crypto wallet from [ransomwhe.re/](https://ransomwhe.re/)
 * And much more minor modifications
 
 

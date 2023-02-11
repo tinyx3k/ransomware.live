@@ -1,6 +1,6 @@
 
 
-_All `5075` posts_
+_All `5079` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,10 @@ _All `5075` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-11 | [`Advance2000`](https://google.com/search?q=Advance2000) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-11 | [`ANXA`](https://google.com/search?q=ANXA) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-11 | [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-11 | [`HAK Grazbachgasse`](https://google.com/search?q=HAK+Grazbachgasse) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-11 | [`Cambian Group`](https://google.com/search?q=Cambian+Group) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Memtech Acoustical`](https://google.com/search?q=Memtech+Acoustical) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Global Mining Products`](https://google.com/search?q=Global+Mining+Products) | [avoslocker](profiles.md?id=avoslocker) |
@@ -5085,4 +5089,4 @@ _All `5075` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 11/02/2023 18.14 (UTC)_
+Last update : _Saturday 11/02/2023 18.23 (UTC)_

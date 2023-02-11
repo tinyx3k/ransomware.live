@@ -20,7 +20,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 11/02/2023 12:46 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 11/02/2023 18:16 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,10 +28,14 @@ _Parser : `Available`_
 
 ### Posts
 
-> 102 posts found
+> 106 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Advance2000`](https://google.com/search?q=Advance2000) | 11/02/2023 | Full-service managed IT service provider specializing in Private Cloud Computing. |
+| [`ANXA`](https://google.com/search?q=ANXA) | 11/02/2023 | The company provides wellness solutions for the 21st century and creates innovative well-being products that are also efficient and effective solutions. |
+| [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | 11/02/2023 | Thompson Safety is a company that operates in the Information Technology and Services industry. The company is headquartered in Houston, Texas. |
+| [`HAK Grazbachgasse`](https://google.com/search?q=HAK+Grazbachgasse) | 11/02/2023 | The commercial academy (HAK) is a higher vocational school with a business focus. The education lasts 5 years and ends with the maturity and diploma examination, which also replaces the entrepreneurial examination. |
 | [`Woodmeister Master Builders, Inc.`](https://google.com/search?q=Woodmeister+Master+Builders%2C+Inc.) | 06/02/2023 | Woodmeister provides residential construction, custom cabinetry and interiors, lifestyle management, green building, and design. |
 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | 06/02/2023 | Reproductive Medicine Specialists offers IVF fertility treatment, egg donation, IUI & ICSI for male and female infertility. |
 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | 06/02/2023 | The company provides wellness solutions for the 21st century and creates innovative well-being products that are also efficient and effective solutions. |
@@ -138,4 +142,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.14 (UTC)_
+Last update : _Saturday 11/02/2023 18.23 (UTC)_

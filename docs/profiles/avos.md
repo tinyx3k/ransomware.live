@@ -11,7 +11,7 @@ _Parser : `Not available`_
 | none | 🔴 | 01/05/2021 00:00 | `http://avos2fuj6olp6x36.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/avos)
+* 💰 [Crypto wallet(s) available](#/crypto/avos)
 
 
 ### Posts
@@ -22,4 +22,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.14 (UTC)_
+Last update : _Saturday 11/02/2023 18.23 (UTC)_

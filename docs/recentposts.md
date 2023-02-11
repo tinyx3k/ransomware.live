@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-11 | [`Advance2000`](https://google.com/search?q=Advance2000) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-11 | [`ANXA`](https://google.com/search?q=ANXA) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-11 | [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-11 | [`HAK Grazbachgasse`](https://google.com/search?q=HAK+Grazbachgasse) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-11 | [`Cambian Group`](https://google.com/search?q=Cambian+Group) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Memtech Acoustical`](https://google.com/search?q=Memtech+Acoustical) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Global Mining Products`](https://google.com/search?q=Global+Mining+Products) | [avoslocker](profiles.md?id=avoslocker) |
@@ -201,9 +205,5 @@
 | 2023-01-11 | [`Liebra Permana`](https://google.com/search?q=Liebra+Permana) | [alphv](profiles.md?id=alphv) |
 | 2023-01-11 | [`TIME TECHNOPLAST LIMITED`](https://google.com/search?q=TIME+TECHNOPLAST+LIMITED) | [alphv](profiles.md?id=alphv) |
 | 2023-01-11 | [`circlevillecourt.com`](https://google.com/search?q=circlevillecourt.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-11 | [`ADIVA CO. LTD`](https://google.com/search?q=ADIVA+CO.+LTD) | [mallox](profiles.md?id=mallox) |
-| 2023-01-10 | [`datair.com`](https://google.com/search?q=datair.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-10 | [`Chestertons Inc.`](https://google.com/search?q=Chestertons+Inc.) | [lorenz](profiles.md?id=lorenz) |
-| 2023-01-10 | [`Fire Rescue Victoria`](https://google.com/search?q=Fire+Rescue+Victoria) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Saturday 11/02/2023 18.14 (UTC)_
+Last update : _Saturday 11/02/2023 18.23 (UTC)_

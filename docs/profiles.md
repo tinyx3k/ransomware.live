@@ -105,7 +105,7 @@ _`closed forum, access sold from https://sellix.io/atwforums`_
 | none | 🔴 | 01/05/2021 00:00 | `http://kwvhrdibgmmpkhkidrby4mccwqpds5za6uo2thcw5gz75qncv7rbhyad.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/ako)
+* 💰 [Crypto wallet(s) available](#/crypto/ako)
 
 
 ### Posts
@@ -521,7 +521,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 * 📝 Ransom notes :  <a href="/ransomware_notes/avaddon/avaddon.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/avaddon)
+* 💰 [Crypto wallet(s) available](#/crypto/avaddon)
 
 
 ### Posts
@@ -684,7 +684,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 | none | 🔴 | 01/05/2021 00:00 | `http://avos2fuj6olp6x36.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/avos)
+* 💰 [Crypto wallet(s) available](#/crypto/avos)
 
 
 ### Posts
@@ -720,7 +720,7 @@ _`captcha prevents indexing`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/avoslocker/avoslocker.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/avoslocker)
+* 💰 [Crypto wallet(s) available](#/crypto/avoslocker)
 
 
 ### Posts
@@ -885,7 +885,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 11/02/2023 12:46 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 11/02/2023 18:16 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -893,10 +893,14 @@ _`captcha prevents indexing`_
 
 ### Posts
 
-> 102 posts found
+> 106 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Advance2000`](https://google.com/search?q=Advance2000) | 11/02/2023 | Full-service managed IT service provider specializing in Private Cloud Computing. |
+| [`ANXA`](https://google.com/search?q=ANXA) | 11/02/2023 | The company provides wellness solutions for the 21st century and creates innovative well-being products that are also efficient and effective solutions. |
+| [`Thompson Safety`](https://google.com/search?q=Thompson+Safety) | 11/02/2023 | Thompson Safety is a company that operates in the Information Technology and Services industry. The company is headquartered in Houston, Texas. |
+| [`HAK Grazbachgasse`](https://google.com/search?q=HAK+Grazbachgasse) | 11/02/2023 | The commercial academy (HAK) is a higher vocational school with a business focus. The education lasts 5 years and ends with the maturity and diploma examination, which also replaces the entrepreneurial examination. |
 | [`Woodmeister Master Builders, Inc.`](https://google.com/search?q=Woodmeister+Master+Builders%2C+Inc.) | 06/02/2023 | Woodmeister provides residential construction, custom cabinetry and interiors, lifestyle management, green building, and design. |
 | [`*r***** ********** ******** ***********`](https://google.com/search?q=%2Ar%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | 06/02/2023 | Reproductive Medicine Specialists offers IVF fertility treatment, egg donation, IUI & ICSI for male and female infertility. |
 | [`A***`](https://google.com/search?q=A%2A%2A%2A) | 06/02/2023 | The company provides wellness solutions for the 21st century and creates innovative well-being products that are also efficient and effective solutions. |
@@ -1340,7 +1344,7 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/blackmatter/blackmatter.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/blackmatter)
+* 💰 [Crypto wallet(s) available](#/crypto/blackmatter)
 
 
 ### Posts
@@ -1699,7 +1703,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/conti/conti1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/conti/conti2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/conti/conti3.txt" target=_blank>#3</a>  <a href="/ransomware_notes/conti/conti4.txt" target=_blank>#4</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/conti)
+* 💰 [Crypto wallet(s) available](#/crypto/conti)
 
 
 ### Posts
@@ -2129,7 +2133,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/cuba/cuba.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/cuba)
+* 💰 [Crypto wallet(s) available](#/crypto/cuba)
 
 
 ### Posts
@@ -2294,7 +2298,7 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/darkangels/darkangels.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/darkangels)
+* 💰 [Crypto wallet(s) available](#/crypto/darkangels)
 
 
 ### Posts
@@ -2386,7 +2390,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/darkside/darkside.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/darkside)
+* 💰 [Crypto wallet(s) available](#/crypto/darkside)
 
 
 ### Posts
@@ -2893,7 +2897,7 @@ _`aka fivehands`_
 | News | 🔴 | 02/10/2021 15:17 | `http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/hellokitty)
+* 💰 [Crypto wallet(s) available](#/crypto/hellokitty)
 
 
 ### Posts
@@ -3224,7 +3228,7 @@ _`aka hotarus corp`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/karakurt/!_karakurt_READ_ME_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/karakurt/alert!.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/karakurt)
+* 💰 [Crypto wallet(s) available](#/crypto/karakurt)
 
 
 ### Posts
@@ -3443,7 +3447,7 @@ _`not a ransomware group`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/lockbit/lockbit2.txt" target=_blank>#1</a>  <a href="/ransomware_notes/lockbit/lockbit3.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/lockbit)
+* 💰 [Crypto wallet(s) available](#/crypto/lockbit)
 
 
 ### Posts
@@ -5774,7 +5778,7 @@ _`not a ransomware group`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/netwalker/netwalker.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/netwalker)
+* 💰 [Crypto wallet(s) available](#/crypto/netwalker)
 
 
 ### Posts
@@ -6579,7 +6583,7 @@ _`login page, no posts`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/qlocker/!!!READ_ME.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/qlocker)
+* 💰 [Crypto wallet(s) available](#/crypto/qlocker)
 
 
 ### Posts
@@ -6696,7 +6700,7 @@ _`login page, no posts`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/ragnarlocker/!_^_README_NOTES_RAGNAR_^_!.txt" target=_blank>#1</a>  <a href="/ransomware_notes/ragnarlocker/ragnarlocker1.txt" target=_blank>#2</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/ragnarlocker)
+* 💰 [Crypto wallet(s) available](#/crypto/ragnarlocker)
 
 
 ### Posts
@@ -7043,7 +7047,7 @@ _`Forum`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/ranzy/ranzy.txt" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/ranzy)
+* 💰 [Crypto wallet(s) available](#/crypto/ranzy)
 
 
 ### Posts
@@ -7107,7 +7111,7 @@ _`Forum`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/revil/revil1.txt" target=_blank>#1</a>  <a href="/ransomware_notes/revil/revil2.txt" target=_blank>#2</a>  <a href="/ransomware_notes/revil/revil3.txt" target=_blank>#3</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/revil)
+* 💰 [Crypto wallet(s) available](#/crypto/revil)
 
 
 ### Posts
@@ -7742,7 +7746,7 @@ _`Forum`_
 * 📝 Ransom notes :  <a href="/ransomware_notes/suncrypt/suncrypt.html" target=_blank>#1</a> 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/suncrypt)
+* 💰 [Crypto wallet(s) available](#/crypto/suncrypt)
 
 
 ### Posts
@@ -7799,7 +7803,7 @@ _`no longer in operation - rebrand`_
 | end of game | 🔴 | 18/08/2021 00:02 | `http://xqkz2rmrqkeqf6sjbrb47jfwnqxcd4o2zvaxxzrpbh2piknms37rw2ad.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/synack)
+* 💰 [Crypto wallet(s) available](#/crypto/synack)
 
 
 ### Posts
@@ -8207,4 +8211,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.14 (UTC)_
+Last update : _Saturday 11/02/2023 18.23 (UTC)_

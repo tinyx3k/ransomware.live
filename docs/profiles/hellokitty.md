@@ -23,7 +23,7 @@ _`aka fivehands`_
 | News | 🔴 | 02/10/2021 15:17 | `http://3r6n77mpe737w4sbxxxrpc5phbluv6xhtdl5ujpnlvmck5tc7blq2rqd.onion` | ❌ | 
 
 ### Crypto wallets
-* 💰 [Crypto wallet(s) available](crypto/hellokitty)
+* 💰 [Crypto wallet(s) available](#/crypto/hellokitty)
 
 
 ### Posts
@@ -34,4 +34,4 @@ _`aka fivehands`_
  --- 
 
 
-Last update : _Saturday 11/02/2023 18.14 (UTC)_
+Last update : _Saturday 11/02/2023 18.23 (UTC)_
