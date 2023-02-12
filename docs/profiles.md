@@ -134,7 +134,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 12/02/2023 12:46 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 12/02/2023 17:15 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -144,10 +144,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 274 posts found
+> 275 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Cork Institute of Technology & Munster Technological University`](https://www.mtu.ie/) | 12/02/2023 | Selective data from Cork Institute of Technology & Munster Technological University includes but not limited to :  1)PII Data 2)Confidential Data 3)Financial Data 4)Students personal & medical data (scholarship details) 5)Staff data 6)Students notes & assessments  And more... |
 | [`Menken Orlando`](https://www.menkenorlando.nl/) | 08/02/2023 | Menken Orlando is an internationally-operating, family-run company with a long tradition. We develop and supply innovative food concepts for retail and food service clients throughout Europe. These concepts can be supplied as a private label or as part of a Menken Orlando’s brand. |
 | [`JReynolds`](https://jreynolds.com) | 08/02/2023 | J Reynolds & Co., Inc. headquarters is located in Saginaw, Texas. In its early years, the company provided high quality roofing services to local commercial properties. With experience and company growth, J Reynolds & Co., Inc., now specializes in commercial roofing and waterproofing—on a national level. We can provide high quality installations, repairs, and inspections on any building throughout the United States. At J Reynolds & Co., Inc., we offer these traditional commercial roofing solutions. But, we also offer sustainable solutions including solar panels and green roofs. We have installed green roofs in cities across the United States and can help you in the process of transitioning to a green roof.  With more than 100 years of combined experience, our staff is prepared for any climate, any repair, and any project you may have. Excellence is our standard—we finish our projects in a timely manner, remain within budget, and are committed to safety.  Having worked in this industry for many years, J Reynolds & Co., Inc., understands the need for advances in technology. Building envelope practices, materials, and applications have transformed over the last several decades. We pride ourselves on our continual training to provide you with the latest innovations in the roofing and waterproofing industry. |
 | [`Kerber, Eck & Braeckel LLP`](https://kebcpa.com/) | 08/02/2023 | Our team is your resource for questions big and small. Whether the solution comes from your local office or KEB’s regional network of accountants, consultants, and advisors, we’re here to help. It’s not just about your industry, your net worth, or the specific problem you’ve asked us to solve. It’s about seeing the big picture of who you are, how you work, and what you hope to achieve. In the age of email and automation, we’re doubling down on our people-first approach to serving clients. That begins with a team that’s not afraid to step out from behind the desk, pick up the phone, and talk to clients. |
@@ -8234,4 +8235,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 12/02/2023 17.10 (UTC)_
+Last update : _Sunday 12/02/2023 17.29 (UTC)_

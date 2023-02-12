@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-12 | [`Cork Institute of Technology & Munster Technological University`](https://google.com/search?q=Cork+Institute+of+Technology+%26+Munster+Technological+University) | [alphv](profiles.md?id=alphv) |
 | 2023-02-12 | [`mrkpc.com`](https://google.com/search?q=mrkpc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`covermeinsurance.com`](https://google.com/search?q=covermeinsurance.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -204,6 +205,5 @@
 | 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`muellergartenbau.ch`](https://google.com/search?q=muellergartenbau.ch) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-12 | [`lidestrifoodanddrink.com`](https://google.com/search?q=lidestrifoodanddrink.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 12/02/2023 17.10 (UTC)_
+Last update : _Sunday 12/02/2023 17.29 (UTC)_

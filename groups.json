@@ -155,12 +155,12 @@
         "locations": [
             {
                 "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
-                "title": " ",
+                "title": null,
                 "version": 3,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/12",
                 "available": true,
-                "updated": "2023-02-12 12:46:32.334521",
-                "lastscrape": "2023-02-12 12:46:32.334506",
+                "updated": "2023-02-12 17:15:03.223201",
+                "lastscrape": "2023-02-12 17:15:03.223149",
                 "enabled": true,
                 "delay": 60
             },
