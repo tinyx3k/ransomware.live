@@ -452,6 +452,16 @@
                 "updated": "2023-02-12 08:36:05.681699",
                 "lastscrape": "2023-02-12 08:36:05.681599",
                 "enabled": true
+            },
+            {
+                "fqdn": "bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion",
+                "title": "Chat Black Basta",
+                "version": 3,
+                "slug": "https://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion/",
+                "available": true,
+                "updated": "2023-02-12 08:36:05.681699",
+                "lastscrape": "2023-02-12 08:36:05.681599",
+                "enabled": true
             }
         ],
         "profile": [],
