@@ -21,5 +21,5 @@
 | bc1qs3lv77udkap2enxv928x59yuact5df4t95rsqr | bitcoin | $ 228405 |
 | bc1q6rsj3cn37dngypu5kad9gdw5ykhctpwhjvun3z | bitcoin | $ 9977496 |
 
-Last update : _Sunday 12/02/2023 13.41 (UTC)_
+Last update : _Sunday 12/02/2023 17.34 (UTC)_
 

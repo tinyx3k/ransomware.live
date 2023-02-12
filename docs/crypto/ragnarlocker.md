@@ -7,5 +7,5 @@
 | 1CG8RAqNaJCrmEdVLK7mm2mTuuK28dkzCU | bitcoin | $ 1481197 |
 | 19kcqKevFZhiX7NFLa5wAw4JBjWLcpwp3e | bitcoin | $ 3980534 |
 
-Last update : _Sunday 12/02/2023 13.41 (UTC)_
+Last update : _Sunday 12/02/2023 17.34 (UTC)_
 
