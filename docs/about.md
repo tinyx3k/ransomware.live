@@ -85,6 +85,8 @@ Ransomwatch.live is also reliant on third-party contributions. Please open a pul
 
 ## 🤩 Credits
 
-- [Josh Highet](https://github.com/joshhighet) for the original [ransomwatch](https://github.com/joshhighet/ransomwatch) project.
+- [Josh Highet](https://github.com/joshhighet) for the original [ransomwatch](https://github.com/joshhighet/ransomwatch) project. 
 - [Ransomlook](https://github.com/RansomLook/Ransomlook) for ideas of new features included in [Ransomware.live](https://www.ransomware.live).
+- [ransomwhe.re/](https://ransomwhe.re/) for the crypto wallet information 
+- [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes) for the ransomware notes 
 
