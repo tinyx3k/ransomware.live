@@ -19,7 +19,7 @@ def main():
                     title = html.unescape(entry['title'])
                     website = str(entry['url'])
                     description = html.unescape((re.sub(r'<[^>]*>', '',entry['text'])))
-                    appender(title, 'royal', description,website)
+                    appender(title, 'royal', description.replace('\n',''),website)
                 file.close()
         except:
             errlog('royal: ' + 'parsing fail')
