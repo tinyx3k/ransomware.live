@@ -55,7 +55,7 @@ Check [here](howitworks.md) for more details.
 
 Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon blog : [julien.io](https://julien.io/ransomware-live/). 
 
-## ToDo 
+## 🛠️ ToDo 
 
 | type | group |  task | progress | 
 |--|--|--|--| 
