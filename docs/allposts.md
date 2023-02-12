@@ -1,6 +1,6 @@
 
 
-_All `5082` posts_
+_All `5083` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5082` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-12 | [`maysecc.com`](https://google.com/search?q=maysecc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`Aviacode (GeBBS)`](https://google.com/search?q=Aviacode+%28GeBBS%29) | [0mega](profiles.md?id=0mega) |
 | 2023-02-11 | [`B&G Foods (CA, US)`](https://google.com/search?q=B%26G+Foods+%28CA%2C+US%29) | [daixin](profiles.md?id=daixin) |
@@ -5092,4 +5093,4 @@ _All `5082` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 12/02/2023 11.06 (UTC)_
+Last update : _Sunday 12/02/2023 13.02 (UTC)_

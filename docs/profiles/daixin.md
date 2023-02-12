@@ -17,7 +17,7 @@ _Parser : `Available`_
 
 | post | date | Description
 |---|---|---|
-| [`B&G Foods (CA, US)`](https://google.com/search?q=B%26G+Foods+%28CA%2C+US%29) | 11/02/2023 | B&G Foods, Inc. manufactures, sells, and distributes a portfolio of shelf-stable and frozen foods, and household products in the United States, Canada, and Puerto Rico. |
+| [`B&G Foods (CA, US)`](https://bgfoods.com/) | 11/02/2023 | B&G Foods, Inc. manufactures, sells, and distributes a portfolio of shelf-stable and frozen foods, and household products in the United States, Canada, and Puerto Rico. |
 | [`Guardian Analytics (US)`](https://guardiananalytics.com) | 20/01/2023 | Guardian Analytics is now a part of NICE Actimize, a business of NICE (Nasdaq:NICE). Consistently ranked as number one in the space, NICE Actimize is the largest and broadest provider of financial crime, risk and compliance solutions for regional and global financial institutions, as well as government regulators. With Guardian Analytics, financial institutions build trust, increase competitiveness, improve their customer experience, and scale operations. |
 | [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | 24/11/2022 | PT Astra Daihatsu Motor is an automobile manufacturing company based in Jakarta, Indonesia. It is a joint venture company between Daihatsu, Astra International and Toyota Tsusho. It is the largest car manufacturer in Indonesia by production output and installed capacity, and has been second best-selling car brand behind |
 | [`AirAsia Group (MY, ID, TH)`](https://google.com/search?q=AirAsia+Group+%28MY%2C+ID%2C+TH%29) | 19/11/2022 | AirAsia is a Malaysian multinational low-cost airline headquartered near Kuala Lumpur, Malaysia. It is the largest airline in Malaysia by fleet size and destinations. AirAsia operates scheduled domestic and international flights to more than 165 destinations. |
@@ -29,4 +29,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 12/02/2023 11.06 (UTC)_
+Last update : _Sunday 12/02/2023 13.02 (UTC)_
