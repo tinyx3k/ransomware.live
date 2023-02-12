@@ -2,7 +2,7 @@
 
 | address | blockchain | Balance |
 |---|---|---|
-| 15n6gV8QUBsy2yh7wqLppWG4Fw4gsUTNAj | bitcoin | $ 491052 |
+| [15n6gV8QUBsy2yh7wqLppWG4Fw4gsUTNAj](https://www.blockchain.com/explorer/addresses/btc/15n6gV8QUBsy2yh7wqLppWG4Fw4gsUTNAj) | bitcoin | $ 491052 |
 
-Last update : _Sunday 12/02/2023 17.34 (UTC)_
+Last update : _Sunday 12/02/2023 18.54 (UTC)_
 

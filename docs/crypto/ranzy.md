@@ -2,7 +2,7 @@
 
 | address | blockchain | Balance |
 |---|---|---|
-| 17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU | bitcoin | $ 9731 |
+| [17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU](https://www.blockchain.com/explorer/addresses/btc/17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU) | bitcoin | $ 9731 |
 
-Last update : _Sunday 12/02/2023 17.34 (UTC)_
+Last update : _Sunday 12/02/2023 18.54 (UTC)_
 

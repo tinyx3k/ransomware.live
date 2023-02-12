@@ -42,7 +42,10 @@ for group in groups:
         # print(family)
         if family == group["name"]:
             keep = True 
-            writeline(cryptofile, '| ' + address_info['address'] + ' | ' + address_info['blockchain'] + ' | $ ' + str(round(float(address_info['balanceUSD']))) + ' |')
+            url = address_info['address']
+            if address_info['blockchain'] == "bitcoin":
+                url='[' + address_info['address'] + '](https://www.blockchain.com/explorer/addresses/btc/' + address_info['address'] + ')'
+            writeline(cryptofile, '| ' + url + ' | ' + address_info['blockchain'] + ' | $ ' + str(round(float(address_info['balanceUSD']))) + ' |')
     writeline(cryptofile, '')
     writeline(cryptofile, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
     writeline(cryptofile, '')

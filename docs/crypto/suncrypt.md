@@ -2,7 +2,7 @@
 
 | address | blockchain | Balance |
 |---|---|---|
-| bc1qpmknwh4pgvkyqq840fhx7fw36nrzu8gskx369v | bitcoin | $ 229544 |
+| [bc1qpmknwh4pgvkyqq840fhx7fw36nrzu8gskx369v](https://www.blockchain.com/explorer/addresses/btc/bc1qpmknwh4pgvkyqq840fhx7fw36nrzu8gskx369v) | bitcoin | $ 229544 |
 
-Last update : _Sunday 12/02/2023 17.34 (UTC)_
+Last update : _Sunday 12/02/2023 18.54 (UTC)_
 
