@@ -57,6 +57,8 @@ Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon 
 
 ## 🛠️ ToDo 
 
+
+
 | type | group |  task | progress | 
 |--|--|--|--| 
 | ~~parser~~ | ~~daixin~~ | ~~parse website~~ | ~~100%~~ |  
