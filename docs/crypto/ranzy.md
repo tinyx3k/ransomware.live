@@ -4,5 +4,5 @@
 |---|---|---|
 | 17PPcJsY6aSmmjFnshiBEEp6kgct8G7wuU | bitcoin | $ 9731 |
 
-Last update : _Sunday 12/02/2023 07.23 (UTC)_
+Last update : _Sunday 12/02/2023 09.31 (UTC)_
 
