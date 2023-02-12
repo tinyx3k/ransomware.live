@@ -113,6 +113,14 @@ Iterate files within the `source/` directory and contribute findings to `posts.j
 pyhton3 ransomwatch.py parse
 ```
 
+## Get crypto wallets
+
+Parse the [ransomwhe.re](https://ransomwhe.re) API to get crypto wallet for Ransomware gang
+
+```shell
+pyhton3 addcrypto.py 
+```
+
 ## Generating page
 
 ```shell
