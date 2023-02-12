@@ -2314,6 +2314,21 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 
  --- 
 
+## **darkbit**
+
+
+### URLs
+| Title | Available | Last visit | fqdn | Screenshot 
+|---|---|---|---|---|
+| none | 🔴 | 01/05/2021 00:00 | `http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion` | ❌ | 
+
+### Posts
+
+> no post found
+
+
+ --- 
+
 ## **darkleakmarket**
 
 
@@ -4509,25 +4524,25 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 12/02/2023 13:03 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 12/02/2023 13:03 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 12/02/2023 13:04 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🔴 | 12/02/2023 08:50 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 12/02/2023 13:05 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:27 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:28 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:29 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:29 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:30 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | 🟢 | 12/02/2023 13:06 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 12/02/2023 13:06 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 12/02/2023 13:07 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:32 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:33 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | 🔴 | 12/02/2023 11:52 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🔴 | 12/02/2023 11:53 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:08 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:09 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:10 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:10 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:11 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:12 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:12 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:13 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 12/02/2023 13:14 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 12/02/2023 16:34 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:34 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:35 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:35 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:36 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:36 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:37 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:37 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:38 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 12/02/2023 16:39 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -4535,10 +4550,12 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ### Posts
 
-> 484 posts found
+> 486 posts found
 
 | post | date | Description
 |---|---|---|
+| [`mrkpc.com`](https://google.com/search?q=mrkpc.com) | 12/02/2023 | Mullin, P.C. is a Dallas-based full-service commercial law firm representing clients in Texas, the U.S., and internationally. Our firm brings together an exceptionally talented group of attorneys with focused experience and knowledge in franchising,... |
+| [`covermeinsurance.com`](https://google.com/search?q=covermeinsurance.com) | 12/02/2023 | Michael J Poller founded Cover Me Insurance Agency in 1999 and primarily operates in the commercial auto Insurance industry within the Insurance Agents, Brokers and Service sector. Michael has over 45 year experience in the commercial insurance indus... |
 | [`maysecc.com`](https://google.com/search?q=maysecc.com) | 12/02/2023 | Mayse Construction is a Construction company located in 8011 Hixson Pike, Hixson, Tennessee, United States. Since 1985 the company has been providing Sewer Line Construction. |
 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | 12/02/2023 | Interpaving Limited is a privately held company formed in 1972. The company's head office is located in Sudbury, Ontario, with a regional office in Timmins, Ontario. The company specializes in site servicing, paving, concrete sidewalk and curbs, exca... |
 | [`arcessex.org`](https://google.com/search?q=arcessex.org) | 09/02/2023 | The service provider of choice for individuals with IDD, their families and community, we welcome the opportunity to show you that when it comes to your provider you should expect more. Everyone deserves the best, and we deliver on that expectation e... |
@@ -5802,8 +5819,8 @@ _`not a ransomware group`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 01/05/2021 00:00 | `http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion` | ❌ | 
-| NEVADA | 🟢 | 12/02/2023 13:19 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
+| Error | 🟢 | 12/02/2023 16:12 | `http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion` | ❌ | 
+| NEVADA | 🟢 | 12/02/2023 16:13 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -7253,11 +7270,9 @@ _`Forum`_
 | post | date | Description
 |---|---|---|
 | [`Tucson Unified School District`](http://www.tusd1.org) | 10/02/2023 | Education · Arizona, United States · 6,208 EmployeesFounded in 1867, the Tucson Unified School District is headquartered in Tucson, Arizona. |
-| [`Trendsetter Engineering`](http://www.trendsetterengineering.com) | 08/02/2023 | Trendsetter is a premier provider of specialized subsea solutions for oil and gas companies across the globe. We have stolen from their network 1TB in total, including: 1) personal data, HR, Finance, Projects etc.;2) CEO's and Top Management Mailboxes - 340 GB3) SQL Databases - 150 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: Aknn234)@$9skod_09@#$FS@2D
- |
+| [`Trendsetter Engineering`](http://www.trendsetterengineering.com) | 08/02/2023 | Trendsetter is a premier provider of specialized subsea solutions for oil and gas companies across the globe. We have stolen from their network 1TB in total, including: 1) personal data, HR, Finance, Projects etc.;2) CEO's and Top Management Mailboxes - 340 GB3) SQL Databases - 150 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: Aknn234)@$9skod_09@#$FS@2D |
 | [`INNOVATION COLLABORATION SYNERGY`](https://www.ics-nett.com/) | 06/02/2023 | ICS Nett delivers innovative solutions to critical challenges facing the nation and the world. As a premier provider of integrated services and solutions for the U. S. Government, it supports the Department of Defense, Cyber & Intelligence community.Pass archive: UwxKnTbZ5LsrPSxqSPKNsTjVKWWU9jRzgTS |
-| [`MESSER CUTTING SYSTEMS`](https://us.messer-cutting.com/) | 02/02/2023 | Messer Cutting Systems is a global supplier of cutting solutions for the metal-working industry. We have stolen from their network 600 GB in total, including:1) personal data, HR, Finance, Projects etc.;2) Mailboxes - 37 GBMary Svitak - AccountingDebbie Richter - Accounting Manager / ControllerLinda Sierszynski - HR ManagerJulie Wolf - AccountingMark Ringgenberg - Director Global Product PortfolioBeth Rouse - Accounting;3) SQL Databases - 10 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: gEs1S!g#hH
- |
+| [`MESSER CUTTING SYSTEMS`](https://us.messer-cutting.com/) | 02/02/2023 | Messer Cutting Systems is a global supplier of cutting solutions for the metal-working industry. We have stolen from their network 600 GB in total, including:1) personal data, HR, Finance, Projects etc.;2) Mailboxes - 37 GBMary Svitak - AccountingDebbie Richter - Accounting Manager / ControllerLinda Sierszynski - HR ManagerJulie Wolf - AccountingMark Ringgenberg - Director Global Product PortfolioBeth Rouse - Accounting;3) SQL Databases - 10 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: gEs1S!g#hH |
 | [`Casa Ley`](https://www.casaley.com.mx/) | 02/02/2023 | Casa Ley is a grocery store. It provides food and general merchandise. It was founded in 1954 and is headquartered in Culiacán, Mexico.Headquarters: Carretera Internacional Y Km1434 Col. Infonavlt Humaya, Culiacan, Sinaloa, 80020, MexicoPhone Number: +52 6677591000 |
 | [`TK Elevator`](https://www.tkelevator.com) | 01/02/2023 | We are moved by what moves people. By what moves the world. In ever-growing cities. We provide better access. And new ways to travel longer distances. With clear solutions for increasingly complex infrastructures. We define service by always putting our knowledge to our customers’ advantage. We are always dedicated to doing better. Day by day. This is who we are. This is TK Elevator.Engineering that keeps the world moving. |
 | [`municipality of Torre del Greco`](http://comune.torredelgreco.na.it) | 30/01/2023 | Torre del Greco (Italian pronunciation: Neapolitan: Torre d' 'o Grieco; "Greek man's Tower") is a comune in the Metropolitan City of Naples in Italy, with a population of c. 85,000 as of 2016. The locals are sometimes called Corallini because of the once plentiful coral in the nearby sea, and because the city has been a major producer of coral jewellery and cameo brooches since the seventeenth century. |
@@ -8219,4 +8234,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 12/02/2023 13.41 (UTC)_
+Last update : _Sunday 12/02/2023 17.10 (UTC)_
