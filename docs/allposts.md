@@ -1,6 +1,6 @@
 
 
-_All `5091` posts_
+_All `5096` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,11 @@ _All `5091` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`wilsonart.co.th`](https://google.com/search?q=wilsonart.co.th) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`ppinvestors.com`](https://google.com/search?q=ppinvestors.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`mhstech.com`](https://google.com/search?q=mhstech.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](profiles.md?id=vendetta) |
 | 2023-02-12 | [`Inland Group`](https://google.com/search?q=Inland+Group) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-02-12 | [`Cork Institute of Technology & Munster Technological University`](https://google.com/search?q=Cork+Institute+of+Technology+%26+Munster+Technological+University) | [alphv](profiles.md?id=alphv) |
@@ -5101,4 +5106,4 @@ _All `5091` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 12/02/2023 21.28 (UTC)_
+Last update : _Sunday 12/02/2023 23.17 (UTC)_

@@ -5,6 +5,11 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`wilsonart.co.th`](https://google.com/search?q=wilsonart.co.th) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`ppinvestors.com`](https://google.com/search?q=ppinvestors.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-12 | [`mhstech.com`](https://google.com/search?q=mhstech.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](profiles.md?id=vendetta) |
 | 2023-02-12 | [`Inland Group`](https://google.com/search?q=Inland+Group) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-02-12 | [`Cork Institute of Technology & Munster Technological University`](https://google.com/search?q=Cork+Institute+of+Technology+%26+Munster+Technological+University) | [alphv](profiles.md?id=alphv) |
@@ -200,10 +205,5 @@
 | 2023-01-13 | [`Fu Yu Corporation`](https://google.com/search?q=Fu+Yu+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-01-13 | [`Air Comm Corporation`](https://google.com/search?q=Air+Comm+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-01-13 | [`Trans Maldivian Airways`](https://google.com/search?q=Trans+Maldivian+Airways) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2023-01-12 | [`Chinery and Douglas`](https://google.com/search?q=Chinery+and+Douglas) | [royal](profiles.md?id=royal) |
-| 2023-01-12 | [`T A Supply`](https://google.com/search?q=T+A+Supply) | [royal](profiles.md?id=royal) |
-| 2023-01-12 | [`Ruhrpumpen`](https://google.com/search?q=Ruhrpumpen) | [royal](profiles.md?id=royal) |
-| 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 12/02/2023 21.28 (UTC)_
+Last update : _Sunday 12/02/2023 23.17 (UTC)_

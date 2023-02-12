@@ -3,7 +3,7 @@
 ## **vendetta**
 
 
-_Parser : `Not available`_
+_Parser : `Available`_
 
 _`V is Vendetta a new blog from Cuba Ransomware`_
 
@@ -23,4 +23,4 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
  --- 
 
 
-Last update : _Sunday 12/02/2023 21.28 (UTC)_
+Last update : _Sunday 12/02/2023 23.17 (UTC)_
