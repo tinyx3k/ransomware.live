@@ -40,9 +40,6 @@ jobs:
           PUSH_USER: ${{ secrets.PUSH_USER }}
         run: |
           python3 ransomwatch.py parse
-      - name: Update Ransomware Notes
-        run: |
-          cd docs/ransomware_notes; git pull; cd ../..
       - name: Update crypto wallet 
         run: |
           python3 addcrypto.py
