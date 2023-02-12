@@ -35,7 +35,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Add Pushover notification 
 * Add a [RSS Feed](https://www.ransomware.live/rss.xml)
 * Add a field `delay` in seconds for every Group locations before scraping (not mandatory)
-* Add crypto wallet from [ransomwhe.re/](https://ransomwhe.re/)
+* Add crypto wallet from [ransomwhe.re](https://ransomwhe.re/)
 * And much more minor modifications
 
 
@@ -89,6 +89,6 @@ Ransomwatch.live is also reliant on third-party contributions. Please open a pul
 
 - [Josh Highet](https://github.com/joshhighet) for the original [ransomwatch](https://github.com/joshhighet/ransomwatch) project. 
 - [Ransomlook](https://github.com/RansomLook/Ransomlook) for ideas of new features included in [Ransomware.live](https://www.ransomware.live).
-- [ransomwhe.re/](https://ransomwhe.re/) for the crypto wallet information 
+- [ransomwhe.re](https://ransomwhe.re/) for the crypto wallet information 
 - [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes) for the ransomware notes 
 

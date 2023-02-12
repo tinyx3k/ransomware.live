@@ -3965,7 +3965,7 @@
     {
         "name": "vendetta",
         "captcha": false,
-        "parser": false,
+        "parser": true,
         "javascript_render": false,
         "meta": "V is Vendetta a new blog from Cuba Ransomware",
         "description": null,
