@@ -2322,7 +2322,7 @@ _`accessing over HTTP returns open dir 29/5/22, 89.38.225.166`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Error | 🟢 | 12/02/2023 18:42 | `http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion` | ❌ | 
+| Error | 🟢 | 12/02/2023 18:42 | `http://iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion` | <a href="https://www.ransomware.live/screenshots/iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -7882,6 +7882,26 @@ _`nodes or hosts with no current attribution or identification`_
 
  --- 
 
+## **vendetta**
+
+
+_`V is Vendetta a new blog from Cuba Ransomware`_
+
+### URLs
+| Title | Available | Last visit | fqdn | Screenshot 
+|---|---|---|---|---|
+| Vendetta | 🟢 | 12/02/2023 20:53 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+
+### Posts
+
+> 1 post found
+
+| post | date | Description
+|---|---|---|
+| [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | 12/02/2023 | Nos originesCréée en 1946, l'entreprise a durant les trois premières décennies, développé sa notoriété dans le secteur de la coopération agricole sur le plan... |
+
+ --- 
+
 ## **vfokx**
 
 
@@ -8236,4 +8256,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 12/02/2023 19.28 (UTC)_
+Last update : _Sunday 12/02/2023 21.28 (UTC)_

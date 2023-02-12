@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-12 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | [vendetta](profiles.md?id=vendetta) |
 | 2023-02-12 | [`Inland Group`](https://google.com/search?q=Inland+Group) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-02-12 | [`Cork Institute of Technology & Munster Technological University`](https://google.com/search?q=Cork+Institute+of+Technology+%26+Munster+Technological+University) | [alphv](profiles.md?id=alphv) |
 | 2023-02-12 | [`mrkpc.com`](https://google.com/search?q=mrkpc.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-12 | [`Ruhrpumpen`](https://google.com/search?q=Ruhrpumpen) | [royal](profiles.md?id=royal) |
 | 2023-01-12 | [`nuxe.com`](https://google.com/search?q=nuxe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-12 | [`russellfinex.com`](https://google.com/search?q=russellfinex.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-12 | [`lloyddowson.co.uk`](https://google.com/search?q=lloyddowson.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 12/02/2023 19.28 (UTC)_
+Last update : _Sunday 12/02/2023 21.28 (UTC)_
