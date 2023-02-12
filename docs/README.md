@@ -9,7 +9,7 @@ _`Ransomware.live` is collecting, indexing, and centralizing ransomware informat
 
 ### Some figures 
 
-🔎 Currently tracking `134` groups across `247` relays & mirrors - _`64` currently online_ 🟢
+🔎 Currently tracking `134` groups across `248` relays & mirrors - _`65` currently online_ 🟢
 
 Check recent ransomware posts [`here`](recentposts.md)
 
@@ -22,7 +22,7 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🏚 There have been `250` posts since the `1st January 2023`
 
-📸 There are `119` ransomware group host screenshots
+📸 There are `120` ransomware group host screenshots
 
 📝 There are `118` ransomware notes
 
@@ -34,5 +34,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Sunday 12/02/2023 09.31 (UTC)_
+Last update : _Sunday 12/02/2023 11.06 (UTC)_
 

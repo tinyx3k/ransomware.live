@@ -25,7 +25,8 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
         "website": ""
       },
   ```  
-* take a screenshot of ransomware gang websites when a new leak entry is detected 
+* Rewrite parsers using [beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) 
+* Take a screenshot of ransomware gang websites when a new leak entry is detected 
 * Add night/day theme ☀️/🌙
 * Add ransom notes when available for each ransomware gang in the [profiles](profiles.md) page
 * Add description of ransomware gang in the [profiles](profiles.md) page
@@ -53,6 +54,12 @@ Check [here](howitworks.md) for more details.
 ## 🤖 Fonctionnement (French only 🇫🇷)
 
 Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon blog : [julien.io](https://julien.io/ransomware-live/). 
+
+## ToDo 
+
+| type | group |  task | progress | 
+|--|--|--|--| 
+| parser | daixin | parse website | 0% |  
 
 ## 👨🏼‍💼 About me 
 

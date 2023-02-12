@@ -17087,12 +17087,14 @@
     {
         "post_title": "Trib Total Media (USA)",
         "group_name": "daixin",
-        "discovered": "2022-08-03 03:26:52.956198"
+        "discovered": "2022-08-03 03:26:52.956198",
+        "description": "Trib Total Media delivers news, information and advertising to portions of Allegheny, Westmoreland, Armstrong and Butler counties in Southwestern Pennsylvania."
     },
     {
         "post_title": "Fitzgibbon Hospital (USA)",
         "group_name": "daixin",
-        "discovered": "2022-08-03 03:26:55.376462"
+        "discovered": "2022-08-03 03:26:55.376462",
+        "description": "Fitzgibbon Hospital is a leader in central Missouri in providing quality, compassionate care and personal attention to patients."
     },
     {
         "post_title": "AIIM",
@@ -17292,7 +17294,8 @@
     {
         "post_title": "ISTA International GmbH",
         "group_name": "daixin",
-        "discovered": "2022-08-09 10:44:27.550608"
+        "discovered": "2022-08-09 10:44:27.550608",
+        "description": "ista International GmbH provides submetering and billing of water and energy consumption. The Company offers heat allocation, water, and communication meters, installation systems, and smoke detectors. ista International caters their services to property managers, homeowners, and energy utilities worldwide. (over 6,000 ista employees in 22 countries.)"
     },
     {
         "post_title": "valverdehotel.com",
@@ -18249,7 +18252,8 @@
     {
         "post_title": "OakBend Medical (USA)",
         "group_name": "daixin",
-        "discovered": "2022-09-13 01:04:54.204845"
+        "discovered": "2022-09-13 01:04:54.204845",
+        "description": "OakBend Medical is passionately focused on patient-centered medicine.OakBend Medical Center:  450 Physicians on staff; 1,200 + Employees; 274 Beds ;50+ Locations; 8,500 Annual inpatients; 100,000 Annual outpatients; 40,000 Annual Emergency Room visits"
     },
     {
         "post_title": "bakkerheftrucks.local",
@@ -21172,7 +21176,8 @@
     {
         "post_title": "AirAsia Group (MY, ID, TH)",
         "group_name": "daixin",
-        "discovered": "2022-11-19 23:37:24.417523"
+        "discovered": "2022-11-19 23:37:24.417523",
+        "description": "AirAsia is a Malaysian multinational low-cost airline headquartered near Kuala Lumpur, Malaysia. It is the largest airline in Malaysia by fleet size and destinations. AirAsia operates scheduled domestic and international flights to more than 165 destinations."
     },
     {
         "post_title": "https://mcandrewslaw.com/",
@@ -21334,7 +21339,8 @@
     {
         "post_title": "Astra Daihatsu Motor (ID)",
         "group_name": "daixin",
-        "discovered": "2022-11-24 02:12:34.937211"
+        "discovered": "2022-11-24 02:12:34.937211",
+        "description": "PT Astra Daihatsu Motor is an automobile manufacturing company based in Jakarta, Indonesia. It is a joint venture company between Daihatsu, Astra International and Toyota Tsusho. It is the largest car manufacturer in Indonesia by production output and installed capacity, and has been second best-selling car brand behind"
     },
     {
         "post_title": "Pmc-group",
@@ -26523,8 +26529,8 @@
         "post_title": "B&G Foods (CA, US)",
         "group_name": "daixin",
         "discovered": "2023-02-11 23:14:04.757940",
-        "description": "",
-        "website": ""
+        "description": "B&G Foods, Inc. manufactures, sells, and distributes a portfolio of shelf-stable and frozen foods, and household products in the United States, Canada, and Puerto Rico.",
+        "website": "https://bgfoods.com/"
     },
     {
         "post_title": "Aviacode (GeBBS)",
