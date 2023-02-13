@@ -8,14 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 13/02/2023 17:11 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | ❌ | 
+| Medusa Blog | 🟢 | 13/02/2023 19:09 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | ❌ | 
 
 ### Posts
 
-> 12 posts found
+> 13 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | 13/02/2023 | Eureka Casinos was founded by the Lee family in Las Vegas, NV. It operates a wide-ranging number of businesses, including Eureka Casino Resort in Mesquite, NV. The Lee Family sold it to the employees in 2015 making it Nevada's first 100% employee owned casino |
 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | 11/02/2023 | Tonga Communications Corporation is a government-owned telecommunications provider offering mobile, fixed line, and internet services. It is based in Nuku'alofa. Tonga Communications Corporation Is Tonga's NO.1 cellular, fixedline & internet provider. |
 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | 09/02/2023 | Diethelm Keller Aviation Pte Ltd (DKA), a global leader in galley inserts for the airline industry, is a wholly owned subsidiary of Diethelm Keller Brands Ltd. We are headquartered in Singapore. |
 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | 03/02/2023 | Elektro Richter is a company that operates in the Electrical/Electronic Manufacturing industry. It employs 21-50 people and has $5M-$10M of revenue. The company is headquartered in Hildburghausen, Thuringia, Germany |
@@ -32,4 +33,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 13/02/2023 17.46 (UTC)_
+Last update : _Monday 13/02/2023 19.31 (UTC)_
