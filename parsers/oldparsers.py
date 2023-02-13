@@ -719,5 +719,5 @@ def main():
     sparta()    
     qilin()    
     shaoleaks()    
-    medusa()    
+    #medusa()    
     dataleak()    

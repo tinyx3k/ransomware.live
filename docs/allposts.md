@@ -1,6 +1,6 @@
 
 
-_All `5106` posts_
+_All `5116` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,16 @@ _All `5106` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Elim Clinic`](https://google.com/search?q=Elim+Clinic) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`EnCom`](https://google.com/search?q=EnCom) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5116,4 +5126,4 @@ _All `5106` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 13/02/2023 13.54 (UTC)_
+Last update : _Monday 13/02/2023 15.07 (UTC)_

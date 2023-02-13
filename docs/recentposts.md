@@ -5,6 +5,16 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Elim Clinic`](https://google.com/search?q=Elim+Clinic) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`EnCom`](https://google.com/search?q=EnCom) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
@@ -195,15 +205,5 @@
 | 2023-01-16 | [`Westsächsische Hochschule Zwickau`](https://google.com/search?q=Wests%C3%A4chsische+Hochschule+Zwickau) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-16 | [`melody.com.tr`](https://google.com/search?q=melody.com.tr) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-16 | [`atcuae.ae`](https://google.com/search?q=atcuae.ae) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-16 | [`politriz.ind.br`](https://google.com/search?q=politriz.ind.br) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-16 | [`Yayla Enerji Uretim Turizm ve Insaat Ticaret`](https://google.com/search?q=Yayla+Enerji+Uretim+Turizm+ve+Insaat+Ticaret) | [mallox](profiles.md?id=mallox) |
-| 2023-01-16 | [`ak.com.sa`](https://google.com/search?q=ak.com.sa) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-16 | [`fulfilmentmatters.co.uk`](https://google.com/search?q=fulfilmentmatters.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-16 | [`Arnold Clark`](https://google.com/search?q=Arnold+Clark) | [play](profiles.md?id=play) |
-| 2023-01-15 | [`DAYTON PROGRESS`](https://google.com/search?q=DAYTON+PROGRESS) | [play](profiles.md?id=play) |
-| 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](profiles.md?id=mallox) |
-| 2023-01-14 | [`matrixschools.edu.my`](https://google.com/search?q=matrixschools.edu.my) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-14 | [`TIMco`](https://google.com/search?q=TIMco) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Monday 13/02/2023 13.54 (UTC)_
+Last update : _Monday 13/02/2023 15.07 (UTC)_
