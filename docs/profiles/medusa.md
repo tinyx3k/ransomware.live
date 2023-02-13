@@ -10,7 +10,11 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🟢 | 13/02/2023 07:05 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| Ransomware blog – We will not give ourselves a nam | 🔴 | 13/02/2023 07:05 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/medusa/HOW_TO_RECOVER_DATA.html" target=_blank>#1</a> 
 
 ### Posts
 
@@ -43,4 +47,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 13/02/2023 07.38 (UTC)_
+Last update : _Monday 13/02/2023 09.50 (UTC)_
