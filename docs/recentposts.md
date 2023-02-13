@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-12 | [`wilsonart.co.th`](https://google.com/search?q=wilsonart.co.th) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-13 | [`Fu Yu Corporation`](https://google.com/search?q=Fu+Yu+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-01-13 | [`Air Comm Corporation`](https://google.com/search?q=Air+Comm+Corporation) | [alphv](profiles.md?id=alphv) |
-| 2023-01-13 | [`Trans Maldivian Airways`](https://google.com/search?q=Trans+Maldivian+Airways) | [ransomhouse](profiles.md?id=ransomhouse) |
 
-Last update : _Monday 13/02/2023 05.29 (UTC)_
+Last update : _Monday 13/02/2023 07.38 (UTC)_
