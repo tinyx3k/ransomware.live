@@ -1,6 +1,6 @@
 
 
-_All `5099` posts_
+_All `5103` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,10 @@ _All `5099` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`hidalgocounty.us`](https://google.com/search?q=hidalgocounty.us) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`chempartner.com`](https://google.com/search?q=chempartner.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5109,4 +5113,4 @@ _All `5099` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 13/02/2023 09.50 (UTC)_
+Last update : _Monday 13/02/2023 11.32 (UTC)_

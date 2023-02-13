@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`hidalgocounty.us`](https://google.com/search?q=hidalgocounty.us) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`chempartner.com`](https://google.com/search?q=chempartner.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](profiles.md?id=lockbit3) |
@@ -201,9 +205,5 @@
 | 2023-01-14 | [`Holovis`](https://google.com/search?q=Holovis) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-14 | [`Hills Salvage and Recycling`](https://google.com/search?q=Hills+Salvage+and+Recycling) | [royal](profiles.md?id=royal) |
-| 2023-01-14 | [`Samuels and Son Seafood`](https://google.com/search?q=Samuels+and+Son+Seafood) | [royal](profiles.md?id=royal) |
-| 2023-01-14 | [`K2 Sports`](https://google.com/search?q=K2+Sports) | [blackbyte](profiles.md?id=blackbyte) |
-| 2023-01-13 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | [clop](profiles.md?id=clop) |
-| 2023-01-13 | [`fujikura-electronics.co.th`](https://google.com/search?q=fujikura-electronics.co.th) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 13/02/2023 09.50 (UTC)_
+Last update : _Monday 13/02/2023 11.32 (UTC)_
