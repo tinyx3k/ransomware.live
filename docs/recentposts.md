@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
 | 2023-02-13 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`Integerity Tax`](https://google.com/search?q=Integerity+Tax) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`Grace Church International`](https://google.com/search?q=Grace+Church+International) | [medusa](profiles.md?id=medusa) |
@@ -204,6 +205,5 @@
 | 2023-01-16 | [`R C Stevens Construction`](https://google.com/search?q=R+C+Stevens+Construction) | [hive](profiles.md?id=hive) |
 | 2023-01-16 | [`ARC`](https://google.com/search?q=ARC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
-| 2023-01-16 | [`Westsächsische Hochschule Zwickau`](https://google.com/search?q=Wests%C3%A4chsische+Hochschule+Zwickau) | [royal](profiles.md?id=royal) |
 
-Last update : _Monday 13/02/2023 15.12 (UTC)_
+Last update : _Monday 13/02/2023 15.18 (UTC)_
