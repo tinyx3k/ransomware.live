@@ -6,18 +6,6 @@
 | Date | Title | Group |
 |---|---|---|
 | 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
-| 2023-02-13 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Integerity Tax`](https://google.com/search?q=Integerity+Tax) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Grace Church International`](https://google.com/search?q=Grace+Church+International) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Elim Clinic`](https://google.com/search?q=Elim+Clinic) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`EnCom`](https://google.com/search?q=EnCom) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](profiles.md?id=medusa) |
-| 2023-02-13 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
@@ -58,9 +46,11 @@
 | 2023-02-11 | [`Schandy`](https://google.com/search?q=Schandy) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Ultralife Corporation`](https://google.com/search?q=Ultralife+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Hamilton Parker`](https://google.com/search?q=Hamilton+Parker) | [avoslocker](profiles.md?id=avoslocker) |
+| 2023-02-11 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | [medusa](profiles.md?id=medusa) |
 | 2023-02-10 | [`Tucson Unified School District`](https://google.com/search?q=Tucson+Unified+School+District) | [royal](profiles.md?id=royal) |
 | 2023-02-09 | [`Jeffries Morris`](https://google.com/search?q=Jeffries+Morris) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-09 | [`M???????? S??`](https://google.com/search?q=M%3F%3F%3F%3F%3F%3F%3F%3F+S%3F%3F) | [play](profiles.md?id=play) |
+| 2023-02-09 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](profiles.md?id=medusa) |
 | 2023-02-09 | [`arcessex.org`](https://google.com/search?q=arcessex.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-09 | [`phihong.com.tw`](https://google.com/search?q=phihong.com.tw) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-09 | [`Mount Saint Mary College`](https://google.com/search?q=Mount+Saint+Mary+College) | [vicesociety](profiles.md?id=vicesociety) |
@@ -103,6 +93,10 @@
 | 2023-02-03 | [`urmgroup.com.au`](https://google.com/search?q=urmgroup.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`Point Dedicated Services`](https://google.com/search?q=Point+Dedicated+Services) | [play](profiles.md?id=play) |
 | 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-03 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | [medusa](profiles.md?id=medusa) |
+| 2023-02-03 | [`Elim Clinic`](https://google.com/search?q=Elim+Clinic) | [medusa](profiles.md?id=medusa) |
+| 2023-02-03 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
+| 2023-02-03 | [`EnCom`](https://google.com/search?q=EnCom) | [medusa](profiles.md?id=medusa) |
 | 2023-02-03 | [`jjdentistry.com`](https://google.com/search?q=jjdentistry.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`scandia.ro`](https://google.com/search?q=scandia.ro) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`bethrivkah.edu`](https://google.com/search?q=bethrivkah.edu) | [lockbit3](profiles.md?id=lockbit3) |
@@ -121,6 +115,7 @@
 | 2023-02-02 | [`biosonicsinc.com`](https://google.com/search?q=biosonicsinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`MESSER CUTTING SYSTEMS`](https://google.com/search?q=MESSER+CUTTING+SYSTEMS) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`McEwan Fraser Legal`](https://google.com/search?q=McEwan+Fraser+Legal) | [alphv](profiles.md?id=alphv) |
+| 2023-02-02 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
 | 2023-02-02 | [`iongroup.com`](https://google.com/search?q=iongroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`Casa Ley`](https://google.com/search?q=Casa+Ley) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`SOTO Consulting Engineers`](https://google.com/search?q=SOTO+Consulting+Engineers) | [alphv](profiles.md?id=alphv) |
@@ -137,6 +132,7 @@
 | 2023-01-30 | [`Okanagan College`](https://google.com/search?q=Okanagan+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-30 | [`municipality of Torre del Greco`](https://google.com/search?q=municipality+of+Torre+del+Greco) | [royal](profiles.md?id=royal) |
 | 2023-01-30 | [`Scheppersinstituut Wetteren`](https://google.com/search?q=Scheppersinstituut+Wetteren) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-01-30 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
 | 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
@@ -173,6 +169,7 @@
 | 2023-01-26 | [`ADMIRAL Sportwetten`](https://google.com/search?q=ADMIRAL+Sportwetten) | [play](profiles.md?id=play) |
 | 2023-01-25 | [`Navnit Group`](https://google.com/search?q=Navnit+Group) | [mallox](profiles.md?id=mallox) |
 | 2023-01-25 | [`Copper Mountain`](https://google.com/search?q=Copper+Mountain) | [alphv](profiles.md?id=alphv) |
+| 2023-01-25 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
 | 2023-01-25 | [`merlinpcbgroup.com`](https://google.com/search?q=merlinpcbgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-25 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | [mallox](profiles.md?id=mallox) |
 | 2023-01-25 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | [mallox](profiles.md?id=mallox) |
@@ -192,6 +189,7 @@
 | 2023-01-21 | [`Cadmet`](https://google.com/search?q=Cadmet) | [royal](profiles.md?id=royal) |
 | 2023-01-20 | [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | [daixin](profiles.md?id=daixin) |
 | 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-01-20 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](profiles.md?id=alphv) |
 | 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](profiles.md?id=alphv) |
@@ -205,5 +203,7 @@
 | 2023-01-16 | [`R C Stevens Construction`](https://google.com/search?q=R+C+Stevens+Construction) | [hive](profiles.md?id=hive) |
 | 2023-01-16 | [`ARC`](https://google.com/search?q=ARC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
+| 2023-01-16 | [`Westsächsische Hochschule Zwickau`](https://google.com/search?q=Wests%C3%A4chsische+Hochschule+Zwickau) | [royal](profiles.md?id=royal) |
+| 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Monday 13/02/2023 15.18 (UTC)_
+Last update : _Monday 13/02/2023 16.36 (UTC)_
