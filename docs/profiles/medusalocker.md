@@ -10,7 +10,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🟢 | 13/02/2023 14:57 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| Ransomware blog – We will not give ourselves a nam | 🟢 | 13/02/2023 17:12 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -22,10 +22,31 @@ _Parser : `Available`_
 
 ### Posts
 
-> no post found
+> 19 posts found
 
+| post | date | Description
+|---|---|---|
+| [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | 15/11/2022 |   |
+| [`emscrm`](https://google.com/search?q=emscrm) | 15/11/2022 |   |
+| [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | 15/11/2022 |   |
+| [`AURIS KONINKLIJKE AURIS GROEP`](https://google.com/search?q=AURIS+KONINKLIJKE+AURIS+GROEP) | 15/11/2022 |   |
+| [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | 15/11/2022 |   |
+| [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | 15/11/2022 |   |
+| [`exheat.com`](https://google.com/search?q=exheat.com) | 15/11/2022 |   |
+| [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | 15/11/2022 |   |
+| [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | 15/11/2022 |   |
+| [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | 15/11/2022 |   |
+| [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | 15/11/2022 |   |
+| [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | 15/11/2022 |   |
+| [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | 15/11/2022 |   |
+| [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | 15/11/2022 |   |
+| [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | 15/11/2022 |   |
+| [`lawtrade company`](https://google.com/search?q=lawtrade+company) | 15/11/2022 |   |
+| [`Autosoft company`](https://google.com/search?q=Autosoft+company) | 15/11/2022 |   |
+| [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | 15/11/2022 |   |
+| [`Dyatech company`](https://google.com/search?q=Dyatech+company) | 15/11/2022 |   |
 
  --- 
 
 
-Last update : _Monday 13/02/2023 16.36 (UTC)_
+Last update : _Monday 13/02/2023 17.46 (UTC)_

@@ -1,6 +1,6 @@
 
 
-_All `5119` posts_
+_All `5120` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5119` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
 | 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -924,27 +925,27 @@ _All `5119` posts_
 | 2022-11-15 | [`itis-technology.com`](https://google.com/search?q=itis-technology.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-11-15 | [`gulfcoastwindows.com`](https://google.com/search?q=gulfcoastwindows.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2022-11-15 | [`amend.com.br`](https://google.com/search?q=amend.com.br) | [lockbit3](profiles.md?id=lockbit3) |
-| 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`AURIS KONINKLIJKE AURIS GROEP`](https://google.com/search?q=AURIS+KONINKLIJKE+AURIS+GROEP) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`exheat.com`](https://google.com/search?q=exheat.com) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`Salmon Software`](https://google.com/search?q=Salmon+Software) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`archimages inc`](https://google.com/search?q=archimages+inc) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusa](profiles.md?id=medusa) |
-| 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusa](profiles.md?id=medusa) |
+| 2022-11-15 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`emscrm`](https://google.com/search?q=emscrm) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`AURIS KONINKLIJKE AURIS GROEP`](https://google.com/search?q=AURIS+KONINKLIJKE+AURIS+GROEP) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`fidelityunited.ae`](https://google.com/search?q=fidelityunited.ae) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`goldcreekfoods`](https://google.com/search?q=goldcreekfoods) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`exheat.com`](https://google.com/search?q=exheat.com) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`Salmon Software`](https://google.com/search?q=Salmon+Software) | [memedusalockerdusa](profiles.md?id=memedusalockerdusa) |
+| 2022-11-15 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`archimages inc`](https://google.com/search?q=archimages+inc) | [v](profiles.md?id=v) |
+| 2022-11-15 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`LEGAZPIBANK`](https://google.com/search?q=LEGAZPIBANK) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`MCCLEAN16  company`](https://google.com/search?q=MCCLEAN16++company) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`lawtrade company`](https://google.com/search?q=lawtrade+company) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`Autosoft company`](https://google.com/search?q=Autosoft+company) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`BIOPLAN`](https://google.com/search?q=BIOPLAN) | [medusalocker](profiles.md?id=medusalocker) |
+| 2022-11-15 | [`Dyatech company`](https://google.com/search?q=Dyatech+company) | [medusalocker](profiles.md?id=medusalocker) |
 | 2022-11-15 | [`LCMH`](https://google.com/search?q=LCMH) | [hive](profiles.md?id=hive) |
 | 2022-11-15 | [`https://www.keenanins.com`](https://google.com/search?q=https%3A%2F%2Fwww.keenanins.com) | [royal](profiles.md?id=royal) |
 | 2022-11-14 | [`scottindustrialsystems.com`](https://google.com/search?q=scottindustrialsystems.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5129,4 +5130,4 @@ _All `5119` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 13/02/2023 16.36 (UTC)_
+Last update : _Monday 13/02/2023 17.46 (UTC)_
