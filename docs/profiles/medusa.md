@@ -13,11 +13,13 @@ _Parser : `Not available`_
 
 ### Posts
 
-> 31 posts found
+> 33 posts found
 
 | post | date | Description
 |---|---|---|
 | [`Aglobis`](https://google.com/search?q=Aglobis) | 13/02/2023 | Resistance shall not prevent us from fulfilling below mission: We connect industries for their sustainable operation and growth! Above services to be provided on a long term basis, i.e. indefinitely which is represented by the similar symbol in our logo Aglobis |
+| [`Integerity Tax`](https://google.com/search?q=Integerity+Tax) | 13/02/2023 | Small business accounting, tax preparation, bookkeeping, payroll, individual taxes |
+| [`Grace Church International`](https://google.com/search?q=Grace+Church+International) | 13/02/2023 | We Believe the Bible is God's supreme authority of the church and that prayer builds a relationship with God. We believe that faith empowers one to believe the impossible. That family is the foundation of the church and each person has a uniquely designed purpose |
 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | 13/02/2023 | Founded in December 2012 and based in Derby, United Kingdom, EightPixelsSquare comprises of an elite team of 45 veteran game developers. Over 30 million players worldwide enjoy EightPixelsSquare's catalogue of games across iOS and Android platforms |
 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | 13/02/2023 | Headquartered in the city of Dakar, Senegal, the story of Bank of Africa Group began in Mali in 1982, with the first Bank of Africa, which was created with almost no external help. Since 2010, the Bank of Africa Group has been majority-owned by BMCE Bank. |
 | [`European Window`](https://google.com/search?q=European+Window) | 13/02/2023 | European Window Company is an Australian leader in the design and installation of high efficiency thermal break windows, doors and sliding systems. |
@@ -52,4 +54,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 13/02/2023 15.07 (UTC)_
+Last update : _Monday 13/02/2023 15.12 (UTC)_

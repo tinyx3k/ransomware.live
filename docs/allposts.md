@@ -1,6 +1,6 @@
 
 
-_All `5116` posts_
+_All `5118` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -11,6 +11,8 @@ _All `5116` posts_
 | Date | Title | Group |
 |---|---|---|
 | 2023-02-13 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Integerity Tax`](https://google.com/search?q=Integerity+Tax) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Grace Church International`](https://google.com/search?q=Grace+Church+International) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
@@ -5126,4 +5128,4 @@ _All `5116` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 13/02/2023 15.07 (UTC)_
+Last update : _Monday 13/02/2023 15.12 (UTC)_

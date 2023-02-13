@@ -16,6 +16,10 @@ _Parser : `Available`_
 ### Ransom note
 * 📝 Ransom notes :  <a href="/ransomware_notes/medusalocker/HOW_TO_RECOVER_DATA.html" target=_blank>#1</a> 
 
+### Crypto wallets
+* 💰 <a href="/#/crypto/medusalocker.md">Crypto wallet(s) available</a>
+
+
 ### Posts
 
 > no post found
@@ -24,4 +28,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 13/02/2023 15.07 (UTC)_
+Last update : _Monday 13/02/2023 15.12 (UTC)_

@@ -6,6 +6,8 @@
 | Date | Title | Group |
 |---|---|---|
 | 2023-02-13 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Integerity Tax`](https://google.com/search?q=Integerity+Tax) | [medusa](profiles.md?id=medusa) |
+| 2023-02-13 | [`Grace Church International`](https://google.com/search?q=Grace+Church+International) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`Bank of Africa`](https://google.com/search?q=Bank+of+Africa) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`European Window`](https://google.com/search?q=European+Window) | [medusa](profiles.md?id=medusa) |
@@ -203,7 +205,5 @@
 | 2023-01-16 | [`ARC`](https://google.com/search?q=ARC) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
 | 2023-01-16 | [`Westsächsische Hochschule Zwickau`](https://google.com/search?q=Wests%C3%A4chsische+Hochschule+Zwickau) | [royal](profiles.md?id=royal) |
-| 2023-01-16 | [`University of Duisburg-Essen`](https://google.com/search?q=University+of+Duisburg-Essen) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-16 | [`melody.com.tr`](https://google.com/search?q=melody.com.tr) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 13/02/2023 15.07 (UTC)_
+Last update : _Monday 13/02/2023 15.12 (UTC)_
