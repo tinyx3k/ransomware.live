@@ -16,7 +16,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Lorenz | 🟢 | 13/02/2023 10:58 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
+| Lorenz | 🟢 | 13/02/2023 13:16 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -91,4 +91,4 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
  --- 
 
 
-Last update : _Monday 13/02/2023 11.32 (UTC)_
+Last update : _Monday 13/02/2023 13.54 (UTC)_

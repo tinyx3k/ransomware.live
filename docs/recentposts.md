@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`hidalgocounty.us`](https://google.com/search?q=hidalgocounty.us) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -202,8 +205,5 @@
 | 2023-01-15 | [`El Seif Development`](https://google.com/search?q=El+Seif+Development) | [mallox](profiles.md?id=mallox) |
 | 2023-01-14 | [`matrixschools.edu.my`](https://google.com/search?q=matrixschools.edu.my) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-14 | [`TIMco`](https://google.com/search?q=TIMco) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-14 | [`Holovis`](https://google.com/search?q=Holovis) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2023-01-14 | [`Central Texas College`](https://google.com/search?q=Central+Texas+College) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-14 | [`Hills Salvage and Recycling`](https://google.com/search?q=Hills+Salvage+and+Recycling) | [royal](profiles.md?id=royal) |
 
-Last update : _Monday 13/02/2023 11.32 (UTC)_
+Last update : _Monday 13/02/2023 13.54 (UTC)_
