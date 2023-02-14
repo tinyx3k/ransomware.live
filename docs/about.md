@@ -15,14 +15,15 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 ## 🤖  How it works
 
 `ransomware.live` is orginally based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet). It has been modified by [me](about.md?id=%f0%9f%91%a8%f0%9f%8f%bc%f0%9f%92%bc-about-me) : 
-* new parsers fully in `python` to include victims description and website when available, that's include a new scheme for posts : 
+* new parsers fully in `python` to include **victims description**, **website** and **published date** when available, that's include a new scheme for posts : 
   ```json
       {
         "post_title": "",
         "group_name": "",
         "discovered": "",
         "description": "",
-        "website": ""
+        "website": "",
+        "published": ""
       },
   ```  
 * Rewrite parsers using [beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) 
@@ -61,7 +62,9 @@ Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon 
 
 | type | group |  task | progress | 
 |--|--|--|--| 
-| ~~parser~~ | ~~daixin~~ | ~~parse website~~ | ~~100%~~ |  
+| ~~Parser~~ | ~~Daixin~~ | ~~parse website~~ | ~~100%~~ | 
+| Parser | all | Add published date when available in all parsers | 2% | 
+| Markdown | Victims | Show published date instead of parsing date | 0 % | 
 
 ## 👨🏼‍💼 About me 
 
@@ -91,4 +94,5 @@ Ransomwatch.live is also reliant on third-party contributions. Please open a pul
 - [Ransomlook](https://github.com/RansomLook/Ransomlook) for ideas of new features included in [Ransomware.live](https://www.ransomware.live).
 - [ransomwhe.re](https://ransomwhe.re/) for the crypto wallet information 
 - [Zscaler ThreatLabz](https://github.com/threatlabz/ransomware_notes) for the ransomware notes 
+- [Valéry Rieß-Marchive](https://twitter.com/ValeryMarchive) for the idea💡 to included published date when available 
 

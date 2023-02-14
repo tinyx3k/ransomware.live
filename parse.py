@@ -29,7 +29,7 @@ else:
     fancygrep = 'grep -oP'
 
 
-def posttemplate(victim, group_name, timestamp,description,website):
+def posttemplate(victim, group_name, timestamp,description,website,published):
     '''
     assuming we have a new post - form the template we will use for the new entry in posts.json
     '''
@@ -38,7 +38,8 @@ def posttemplate(victim, group_name, timestamp,description,website):
         'group_name': group_name,
         'discovered': timestamp,
         'description': description,
-        'website': website
+        'website': website,
+        'published' : published
     }
     dbglog(schema)
     return schema
@@ -123,7 +124,7 @@ def gettitlefromURL(website_url):
         description = ""
     return description
 
-def appender(post_title, group_name, description="", website=""):
+def appender(post_title, group_name, description="", website="", published=""):
     '''
     append a new post to posts.json
     '''
@@ -145,7 +146,7 @@ def appender(post_title, group_name, description="", website=""):
         posts = openjson('posts.json')
         if description == "_URL_":
             description = gettitlefromURL(post_title)
-        newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website)
+        newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website,published)
         stdlog('adding new post - ' + 'group:' + group_name + ' title:' + post_title)
         posts.append(newpost)
         with open('posts.json', 'w', encoding='utf-8') as outfile:
