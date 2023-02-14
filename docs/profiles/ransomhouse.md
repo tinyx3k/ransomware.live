@@ -12,7 +12,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🔴 | 13/02/2023 21:10 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 14/02/2023 02:53 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
@@ -21,10 +21,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 24 posts found
+> 25 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Hospital Service SpA`](https://www.hshospitalservice.com/) | 14/02/2023 | HS was founded in 1980 with the objective to promote and distribute throughout Italy new methods of minimally invasive interventional diagnostic technologies, introducing on the National market a new generation of echo-guided biopsy products. |
 | [`Jeffries Morris`](https://www.thejeffriescompanies.com/jeffries-morris) | 09/02/2023 | Jeffries Morris, Inc. provides acquisition, advisory and asset management services for real estate companies with investments in Metropolitan New York. |
 | [`The DGCX`](https://www.dgcx.ae/) | 07/02/2023 | Dubai has historically been an international hub for the physical trade of not only gold, but also many other commodities and so the establishment of the Dubai Gold & Commodities Exchange (DGCX) was the next logical step for the region and the local economy. DGCX commenced trading in November 2005 as the regions first commodity derivatives exchange and has become today, the leading derivatives exchange in the Middle East |
 | [`Holovis`](https://www.holovis.com/) | 14/01/2023 | Holovis design and install world-class experiential solutions for global themed entertainment, visitor attractions and enterprise clients. |
@@ -53,4 +54,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 13/02/2023 23.23 (UTC)_
+Last update : _Tuesday 14/02/2023 03.11 (UTC)_

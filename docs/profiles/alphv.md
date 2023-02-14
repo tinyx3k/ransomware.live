@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 13/02/2023 20:30 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 14/02/2023 01:59 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,12 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 275 posts found
+> 277 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Vitas`](https://vitas.ps/) | 14/02/2023 | Established in 1995, which is considered as one of the most important specialized programs of the Global Communities Foundation (formerly CHF International for Lending and Financial Services) |
+| [`Banco Sol`](https://www.bancosol.ao) | 14/02/2023 | Banco Sol is a private Angolan bank founded 17 years ago. Headquartered in Luanda, Angola's capital, it's recognised as one of Africa's most successful financial institutions with 940,000 clients on its books and a staff of 1,642. With 180 branches throughout the country. |
 | [`Cork Institute of Technology & Munster Technological University`](https://www.mtu.ie/) | 12/02/2023 | Selective data from Cork Institute of Technology & Munster Technological University includes but not limited to :  1)PII Data 2)Confidential Data 3)Financial Data 4)Students personal & medical data (scholarship details) 5)Staff data 6)Students notes & assessments  And more... |
 | [`Menken Orlando`](https://www.menkenorlando.nl/) | 08/02/2023 | Menken Orlando is an internationally-operating, family-run company with a long tradition. We develop and supply innovative food concepts for retail and food service clients throughout Europe. These concepts can be supplied as a private label or as part of a Menken Orlando’s brand. |
 | [`JReynolds`](https://jreynolds.com) | 08/02/2023 | J Reynolds & Co., Inc. headquarters is located in Saginaw, Texas. In its early years, the company provided high quality roofing services to local commercial properties. With experience and company growth, J Reynolds & Co., Inc., now specializes in commercial roofing and waterproofing—on a national level. We can provide high quality installations, repairs, and inspections on any building throughout the United States. At J Reynolds & Co., Inc., we offer these traditional commercial roofing solutions. But, we also offer sustainable solutions including solar panels and green roofs. We have installed green roofs in cities across the United States and can help you in the process of transitioning to a green roof.  With more than 100 years of combined experience, our staff is prepared for any climate, any repair, and any project you may have. Excellence is our standard—we finish our projects in a timely manner, remain within budget, and are committed to safety.  Having worked in this industry for many years, J Reynolds & Co., Inc., understands the need for advances in technology. Building envelope practices, materials, and applications have transformed over the last several decades. We pride ourselves on our continual training to provide you with the latest innovations in the roofing and waterproofing industry. |
@@ -313,4 +315,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Monday 13/02/2023 23.23 (UTC)_
+Last update : _Tuesday 14/02/2023 03.11 (UTC)_

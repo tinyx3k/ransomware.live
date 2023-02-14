@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-14 | [`Hospital Service SpA`](https://google.com/search?q=Hospital+Service+SpA) | [ransomhouse](profiles.md?id=ransomhouse) |
+| 2023-02-14 | [`Vitas`](https://google.com/search?q=Vitas) | [alphv](profiles.md?id=alphv) |
+| 2023-02-14 | [`Banco Sol`](https://google.com/search?q=Banco+Sol) | [alphv](profiles.md?id=alphv) |
 | 2023-02-13 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](profiles.md?id=medusa) |
 | 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |
@@ -202,8 +205,5 @@
 | 2023-01-18 | [`K Azarosian Costello`](https://google.com/search?q=K+Azarosian+Costello) | [royal](profiles.md?id=royal) |
 | 2023-01-17 | [`Livingston`](https://google.com/search?q=Livingston) | [royal](profiles.md?id=royal) |
 | 2023-01-17 | [`carinya`](https://google.com/search?q=carinya) | [royal](profiles.md?id=royal) |
-| 2023-01-16 | [`R C Stevens Construction`](https://google.com/search?q=R+C+Stevens+Construction) | [hive](profiles.md?id=hive) |
-| 2023-01-16 | [`ARC`](https://google.com/search?q=ARC) | [blackbyte](profiles.md?id=blackbyte) |
-| 2023-01-16 | [`Autodelta`](https://google.com/search?q=Autodelta) | [royal](profiles.md?id=royal) |
 
-Last update : _Monday 13/02/2023 23.23 (UTC)_
+Last update : _Tuesday 14/02/2023 03.11 (UTC)_
