@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 14/02/2023 17:23 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 14/02/2023 17:23 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 14/02/2023 19:22 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 14/02/2023 19:23 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,12 @@ _Parser : `Available`_
 
 ### Posts
 
-> 134 posts found
+> 136 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Alexandercity`](http://www.alexandercityal.gov) | 14/02/2023 | Your travel and local community guide to Alex City, Alabama. Explore the Alexander City AL directory for hotels, restaurants, shopping, real estate, churches, government, schools, attractions and recreation.City department data.Data of contractors and subcontractors |
+| [`Delallo`](https://www.delallo.com) | 14/02/2023 | Founded in 1950, Delallo is a Company that offers Italian food products such as pasta and grains, sauces, tomatoes, olives, oils, vinegar, cured meats, and pickled vegetables.Headquarters: 1 Delallo Way, Mount Pleasant, Pennsylvania, 15666, United States |
 | [`Reventics`](http://www.reventics.com) | 13/02/2023 |  |
 | [`Tucson Unified School District`](http://www.tusd1.org) | 10/02/2023 | Education · Arizona, United States · 6,208 EmployeesFounded in 1867, the Tucson Unified School District is headquartered in Tucson, Arizona. |
 | [`Trendsetter Engineering`](http://www.trendsetterengineering.com) | 08/02/2023 | Trendsetter is a premier provider of specialized subsea solutions for oil and gas companies across the globe. We have stolen from their network 1TB in total, including: 1) personal data, HR, Finance, Projects etc.;2) CEO's and Top Management Mailboxes - 340 GB3) SQL Databases - 150 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: Aknn234)@$9skod_09@#$FS@2D |
@@ -159,4 +161,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 14/02/2023 17.33 (UTC)_
+Last update : _Tuesday 14/02/2023 19.33 (UTC)_

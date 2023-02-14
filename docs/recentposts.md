@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-14 | [`Alexandercity`](https://google.com/search?q=Alexandercity) | [royal](profiles.md?id=royal) |
+| 2023-02-14 | [`Delallo`](https://google.com/search?q=Delallo) | [royal](profiles.md?id=royal) |
 | 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](profiles.md?id=alphv) |
 | 2023-01-19 | [`Pharmacare`](https://google.com/search?q=Pharmacare) | [alphv](profiles.md?id=alphv) |
 | 2023-01-18 | [`tvk.nl`](https://google.com/search?q=tvk.nl) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-18 | [`duomed.com`](https://google.com/search?q=duomed.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](profiles.md?id=mallox) |
 
-Last update : _Tuesday 14/02/2023 17.33 (UTC)_
+Last update : _Tuesday 14/02/2023 19.33 (UTC)_
