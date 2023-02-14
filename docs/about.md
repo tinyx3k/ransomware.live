@@ -62,7 +62,7 @@ Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon 
 | type | group |  task | progress | 
 |--|--|--|--| 
 | ~~Parser~~ | ~~Daixin~~ | ~~parse website~~ | ~~100%~~ | 
-| Parser | all | Add published date when available in all parsers | 4% | 
+| Parser | all | Add published date when available in all parsers | 6% | 
 | Markdown | Victims | Show published date instead of parsing date | 0 % | 
 
 ## 👨🏼‍💼 About me 

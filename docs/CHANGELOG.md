@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### 2023-02-14 💘 
 
 * Add published date for [Medusa](profiles/medusa.md) group in json file 
+* Add published date for [Royal](profiles/royal.md) group in json file 
 * Add published date for [Alphv/Blackcat](profiles/alphv.md) group in json file 
   
 ### 2023-02-12 ⚙️
