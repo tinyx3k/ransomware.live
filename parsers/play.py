@@ -13,7 +13,9 @@ def main():
                 divs_name=soup.find_all('th', {"class": "News"})
                 for div in divs_name:
                     title = div.next_element.strip()
-                    appender(title, 'play')
+                    description = div.find('i', {'class': 'location'}).next_sibling.strip()
+                    website = div.find('i', {'class': 'link'}).next_sibling.strip()
+                    appender(title, 'play', description, website)
                 file.close()
         except:
             errlog('play: ' + 'parsing fail')
