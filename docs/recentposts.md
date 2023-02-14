@@ -206,4 +206,4 @@
 | 2023-01-18 | [`duomed.com`](https://google.com/search?q=duomed.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](profiles.md?id=mallox) |
 
-Last update : _Tuesday 14/02/2023 13.54 (UTC)_
+Last update : _Tuesday 14/02/2023 15.25 (UTC)_
