@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 from sharedutils import stdlog, errlog
 import parse
+import datetime
 
 def main():
     for filename in os.listdir('source'):
@@ -17,6 +18,10 @@ def main():
                         data = json.loads(jsonpart[0])
                         for entry in data['items']:
                             title = entry['title'].strip()
+                            published = entry['createdDt']
+                            timestamp = int(published) / 1000
+                            dt_object = datetime.datetime.fromtimestamp(timestamp)
+                            published = dt_object.strftime("%Y-%m-%d %H:%M:%S.%f")   
                             description =''
                             website =''
                             if 'publication' in entry and entry['publication'] is not None:
@@ -24,7 +29,7 @@ def main():
                                 description = entry['publication']['description'].strip()
                                 # description = entry['publication']['description'].strip()
                                 website = entry['publication']['url'].strip()
-                            parse.appender(title, 'alphv',description.replace('\n',' '),website)
+                            parse.appender(title, 'alphv',description.replace('\n',' '),website,published)
                 else: 
                     stdlog('alphv : Parse ' +  'html file')
                     divs_name=soup.find_all('div', {'class': 'post-body'})
