@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`Hospital Service SpA`](https://google.com/search?q=Hospital+Service+SpA) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-14 | [`Vitas`](https://google.com/search?q=Vitas) | [alphv](profiles.md?id=alphv) |
 | 2023-02-14 | [`Banco Sol`](https://google.com/search?q=Banco+Sol) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2023-01-18 | [`Alhambra-Eidos`](https://google.com/search?q=Alhambra-Eidos) | [mallox](profiles.md?id=mallox) |
 | 2023-01-18 | [`K Azarosian Costello`](https://google.com/search?q=K+Azarosian+Costello) | [royal](profiles.md?id=royal) |
 | 2023-01-17 | [`Livingston`](https://google.com/search?q=Livingston) | [royal](profiles.md?id=royal) |
-| 2023-01-17 | [`carinya`](https://google.com/search?q=carinya) | [royal](profiles.md?id=royal) |
 
-Last update : _Tuesday 14/02/2023 07.25 (UTC)_
+Last update : _Tuesday 14/02/2023 09.32 (UTC)_
