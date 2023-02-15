@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-15 | [`montibello.com`](https://google.com/search?q=montibello.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-15 | [`nationallocums.co.uk`](https://google.com/search?q=nationallocums.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) |
 | 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](profiles.md?id=play) |
@@ -202,8 +205,5 @@
 | 2023-01-21 | [`A`](https://google.com/search?q=A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-21 | [`Cadmet`](https://google.com/search?q=Cadmet) | [royal](profiles.md?id=royal) |
 | 2023-01-20 | [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | [daixin](profiles.md?id=daixin) |
-| 2023-01-20 | [`flatironssolutions.com`](https://google.com/search?q=flatironssolutions.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-20 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
-| 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Wednesday 15/02/2023 09.28 (UTC)_
+Last update : _Wednesday 15/02/2023 11.40 (UTC)_
