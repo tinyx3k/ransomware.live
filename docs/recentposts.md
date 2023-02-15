@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`montibello.com`](https://google.com/search?q=montibello.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`nationallocums.co.uk`](https://google.com/search?q=nationallocums.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-21 | [`A`](https://google.com/search?q=A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-01-21 | [`Cadmet`](https://google.com/search?q=Cadmet) | [royal](profiles.md?id=royal) |
-| 2023-01-20 | [`Guardian Analytics (US)`](https://google.com/search?q=Guardian+Analytics+%28US%29) | [daixin](profiles.md?id=daixin) |
 
-Last update : _Wednesday 15/02/2023 11.40 (UTC)_
+Last update : _Wednesday 15/02/2023 14.00 (UTC)_
