@@ -8,14 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🔴 | 15/02/2023 17:09 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+| Medusa Blog | 🟢 | 15/02/2023 21:03 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 14 posts found
+> 15 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Foamtec International`](https://google.com/search?q=Foamtec+International) | 15/02/2023 | The best of East and West - that is the strength of Foamtec International. Combining Western cutting edge technology with Eastern traditions of dedicated customer service, Foamex Asia was established in 1997 as a joint venture between Foamex International Inc. |
 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | 15/02/2023 | PetroChina Indonesia is a company that operates in the Oil & Energy industry. It employs 251-500 people and has $25M-$50M of revenue. The company is headquartered in Jakarta, Jakarta, Indonesia |
 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | 13/02/2023 | Eureka Casinos was founded by the Lee family in Las Vegas, NV. It operates a wide-ranging number of businesses, including Eureka Casino Resort in Mesquite, NV. The Lee Family sold it to the employees in 2015 making it Nevada's first 100% employee owned casino |
 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | 11/02/2023 | Tonga Communications Corporation is a government-owned telecommunications provider offering mobile, fixed line, and internet services. It is based in Nuku'alofa. Tonga Communications Corporation Is Tonga's NO.1 cellular, fixedline & internet provider. |
@@ -34,4 +35,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Wednesday 15/02/2023 19.29 (UTC)_
+Last update : _Wednesday 15/02/2023 21.24 (UTC)_

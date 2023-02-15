@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-15 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-21 | [`Pillar Resource Services`](https://google.com/search?q=Pillar+Resource+Services) | [royal](profiles.md?id=royal) |
 | 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-01-21 | [`A`](https://google.com/search?q=A) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Wednesday 15/02/2023 19.29 (UTC)_
+Last update : _Wednesday 15/02/2023 21.24 (UTC)_
