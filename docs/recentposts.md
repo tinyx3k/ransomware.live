@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-15 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-15 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2023-01-22 | [`miguelmechanical.com`](https://google.com/search?q=miguelmechanical.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-21 | [`Pillar Resource Services`](https://google.com/search?q=Pillar+Resource+Services) | [royal](profiles.md?id=royal) |
-| 2023-01-21 | [`HRL Technology Group`](https://google.com/search?q=HRL+Technology+Group) | [bianlian](profiles.md?id=bianlian) |
-| 2023-01-21 | [`N****`](https://google.com/search?q=N%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 
-Last update : _Wednesday 15/02/2023 21.24 (UTC)_
+Last update : _Wednesday 15/02/2023 23.40 (UTC)_
