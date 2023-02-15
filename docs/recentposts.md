@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](profiles.md?id=play) |
 | 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](profiles.md?id=play) |
 | 2023-02-14 | [`Alexandercity`](https://google.com/search?q=Alexandercity) | [royal](profiles.md?id=royal) |
@@ -204,6 +205,5 @@
 | 2023-01-20 | [`Aglobis`](https://google.com/search?q=Aglobis) | [medusa](profiles.md?id=medusa) |
 | 2023-01-20 | [`Monmouth College`](https://google.com/search?q=Monmouth+College) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-19 | [`NextGen`](https://google.com/search?q=NextGen) | [alphv](profiles.md?id=alphv) |
-| 2023-01-19 | [`Fresh Del Monte`](https://google.com/search?q=Fresh+Del+Monte) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Tuesday 14/02/2023 23.22 (UTC)_
+Last update : _Wednesday 15/02/2023 03.07 (UTC)_
