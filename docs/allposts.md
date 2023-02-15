@@ -1,6 +1,6 @@
 
 
-_All `5132` posts_
+_All `5133` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5132` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) |
 | 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](profiles.md?id=play) |
 | 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](profiles.md?id=play) |
@@ -5142,4 +5143,4 @@ _All `5132` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 15/02/2023 03.07 (UTC)_
+Last update : _Wednesday 15/02/2023 05.28 (UTC)_

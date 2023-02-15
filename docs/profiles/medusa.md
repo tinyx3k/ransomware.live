@@ -8,14 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 15/02/2023 02:29 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+| Medusa Blog | 🟢 | 15/02/2023 05:05 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 13 posts found
+> 14 posts found
 
 | post | date | Description
 |---|---|---|
+| [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | 15/02/2023 | PetroChina Indonesia is a company that operates in the Oil & Energy industry. It employs 251-500 people and has $25M-$50M of revenue. The company is headquartered in Jakarta, Jakarta, Indonesia |
 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | 13/02/2023 | Eureka Casinos was founded by the Lee family in Las Vegas, NV. It operates a wide-ranging number of businesses, including Eureka Casino Resort in Mesquite, NV. The Lee Family sold it to the employees in 2015 making it Nevada's first 100% employee owned casino |
 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | 11/02/2023 | Tonga Communications Corporation is a government-owned telecommunications provider offering mobile, fixed line, and internet services. It is based in Nuku'alofa. Tonga Communications Corporation Is Tonga's NO.1 cellular, fixedline & internet provider. |
 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | 09/02/2023 | Diethelm Keller Aviation Pte Ltd (DKA), a global leader in galley inserts for the airline industry, is a wholly owned subsidiary of Diethelm Keller Brands Ltd. We are headquartered in Singapore. |
@@ -33,4 +34,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Wednesday 15/02/2023 03.07 (UTC)_
+Last update : _Wednesday 15/02/2023 05.28 (UTC)_
