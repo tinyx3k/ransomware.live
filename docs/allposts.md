@@ -1,6 +1,6 @@
 
 
-_All `5146` posts_
+_All `5149` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `5146` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-16 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-16 | [`ziapueblo.org`](https://google.com/search?q=ziapueblo.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-16 | [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`Evans Consoles`](https://google.com/search?q=Evans+Consoles) | [royal](profiles.md?id=royal) |
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
@@ -5156,4 +5159,4 @@ _All `5146` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Thursday 16/02/2023 21.50 (UTC)_

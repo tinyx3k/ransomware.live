@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-16 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-16 | [`ziapueblo.org`](https://google.com/search?q=ziapueblo.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-16 | [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`Evans Consoles`](https://google.com/search?q=Evans+Consoles) | [royal](profiles.md?id=royal) |
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
@@ -202,8 +205,5 @@
 | 2023-01-25 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-01-24 | [`xlntinc.com`](https://google.com/search?q=xlntinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-24 | [`elsan.care`](https://google.com/search?q=elsan.care) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-23 | [`IFPA`](https://google.com/search?q=IFPA) | [alphv](profiles.md?id=alphv) |
-| 2023-01-23 | [`A?????L S?????????? ????`](https://google.com/search?q=A%3F%3F%3F%3F%3FL+S%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F+%3F%3F%3F%3F) | [play](profiles.md?id=play) |
-| 2023-01-23 | [`CloudCall`](https://google.com/search?q=CloudCall) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Thursday 16/02/2023 19.22 (UTC)_
+Last update : _Thursday 16/02/2023 21.50 (UTC)_
