@@ -1,6 +1,6 @@
 
 
-_All `5141` posts_
+_All `5144` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `5141` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
+| 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](profiles.md?id=mallox) |
+| 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](profiles.md?id=mallox) |
 | 2023-02-15 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
@@ -5151,4 +5154,4 @@ _All `5141` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 15/02/2023 23.40 (UTC)_
+Last update : _Thursday 16/02/2023 02.54 (UTC)_

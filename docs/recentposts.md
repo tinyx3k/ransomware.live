@@ -5,6 +5,9 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-16 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | [mallox](profiles.md?id=mallox) |
+| 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](profiles.md?id=mallox) |
+| 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](profiles.md?id=mallox) |
 | 2023-02-15 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
@@ -202,8 +205,5 @@
 | 2023-01-23 | [`CloudCall`](https://google.com/search?q=CloudCall) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-23 | [`emoney Home Loans`](https://google.com/search?q=emoney+Home+Loans) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-22 | [`ibb-business-team.de`](https://google.com/search?q=ibb-business-team.de) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-22 | [`miguelmechanical.com`](https://google.com/search?q=miguelmechanical.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-21 | [`payroll2u.com`](https://google.com/search?q=payroll2u.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-21 | [`Pillar Resource Services`](https://google.com/search?q=Pillar+Resource+Services) | [royal](profiles.md?id=royal) |
 
-Last update : _Wednesday 15/02/2023 23.40 (UTC)_
+Last update : _Thursday 16/02/2023 02.54 (UTC)_

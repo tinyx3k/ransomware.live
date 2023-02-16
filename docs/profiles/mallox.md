@@ -11,7 +11,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 15/02/2023 23:00 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🟢 | 16/02/2023 02:29 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -19,10 +19,13 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 
 ### Posts
 
-> 16 posts found
+> 19 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | 16/02/2023 | Company Introduction : Mecaro Co., Ltd is No1 Best Semicon parts company authorized in parts area by producing optimal semiconductor part of equipments through ceaseless technology development and research for about 15 years.  ​MORE INFO: https://www.wsj.com/market-data/quotes/KR/241770/financials  LEAKED DATA: https://anonfiles.com/******/PLM_zip                    PASSWORD FOR ARCHIVE: kPl%l!ttuJ8;1Dxali3u1TzO%gk=7tJh  |
+| [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | 16/02/2023 | Hydrofit FZE an ISO 9001, ISO 14001 & 45001 company, pioneering in the field of Fluid Power Transmissions, Mechanical Power Transmissions, Automatic Greasing / Lubrication systems and Oil Recirculation systems  MORE INFO: https://www.zoominfo.com/c/hydrofit-alliance-ltd/346285910?__cf_chl_tk=5mBW2PYNvvqwAbHrTvIe_QmsK7qT8ybeY2RH3Kvmf8w-1676508140-0-gaNycGzND7s  LEAKED DATA: https://anonfiles.com/******/  |
+| [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | 16/02/2023 | DATA: https://anonfiles.com/******/GALLIER_zipPASSWORD: ?ie(yD@83,%0HR^t6_#S|VW*L6^cA-B\  |
 | [`Navnit Group`](https://google.com/search?q=Navnit+Group) | 25/01/2023 |  |
 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | 25/01/2023 | DATA PART 1: https://anonfiles.com/******/bomcalcado2_zip PASSWORD: Q|&(A&\?Le($PxD=c,_cj*hLl@+|!,K#  |
 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | 25/01/2023 | DATA: https://anonfiles.com/******/fifood_zipPASSWORD: !BJYY-U_;pvuz.dlzbd~*>W;YX;x$?fM  |
@@ -43,4 +46,4 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
  --- 
 
 
-Last update : _Wednesday 15/02/2023 23.40 (UTC)_
+Last update : _Thursday 16/02/2023 02.54 (UTC)_
