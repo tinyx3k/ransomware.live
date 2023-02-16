@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-16 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`vitrox.com`](https://google.com/search?q=vitrox.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`ziapueblo.org`](https://google.com/search?q=ziapueblo.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`royallepage.ca`](https://google.com/search?q=royallepage.ca) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-25 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | [mallox](profiles.md?id=mallox) |
 | 2023-01-25 | [`First International Food co Ltd`](https://google.com/search?q=First+International+Food+co+Ltd) | [mallox](profiles.md?id=mallox) |
 | 2023-01-24 | [`xlntinc.com`](https://google.com/search?q=xlntinc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-24 | [`elsan.care`](https://google.com/search?q=elsan.care) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 16/02/2023 21.50 (UTC)_
+Last update : _Thursday 16/02/2023 23.37 (UTC)_
