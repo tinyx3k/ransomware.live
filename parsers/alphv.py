@@ -7,7 +7,7 @@ import datetime
 
 def main():
     for filename in os.listdir('source'):
-        #try:
+        try:
            if filename.startswith('alphv-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
@@ -42,6 +42,6 @@ def main():
                         description = div.find('div', {'class': 'post-description'}).text.strip()
                         parse.appender(title, 'alphv',description.replace('\n',' '))
                 file.close()
-        #except:
-        #    errlog('alphv: ' + 'parsing fail')
-        #    pass
+        except:
+            errlog('alphv: ' + 'parsing fail')
+            pass
