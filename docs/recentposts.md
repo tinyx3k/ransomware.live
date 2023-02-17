@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-17 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-17 | [`cordfinancial.com`](https://google.com/search?q=cordfinancial.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-17 | [`fikes.com`](https://google.com/search?q=fikes.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-17 | [`NESG`](https://google.com/search?q=NESG) | [bianlian](profiles.md?id=bianlian) |
@@ -204,6 +205,5 @@
 | 2023-01-26 | [`********* ******** ***** ***`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-26 | [`*******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-26 | [`Travis County Sheriffs Officers Association`](https://google.com/search?q=Travis+County+Sheriffs+Officers+Association) | [royal](profiles.md?id=royal) |
-| 2023-01-26 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://google.com/search?q=CHARLES+P+VONDERHAAR+CPA+WAS+HACKED.+MORE+TNAH+50GB+SENSETIVE+DATA+LEAKED.CHARLES+P+VONDER) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Friday 17/02/2023 15.41 (UTC)_
+Last update : _Friday 17/02/2023 17.48 (UTC)_
