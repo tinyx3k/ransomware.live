@@ -19,4 +19,4 @@ def main():
                 file.close()
         except:
             errlog('play: ' + 'parsing fail')
-            pass
+            pass    
