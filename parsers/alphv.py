@@ -1,21 +1,24 @@
 import os
 from bs4 import BeautifulSoup
-import json
+import json,re
 from sharedutils import stdlog, errlog
 import parse
 import datetime
 
 def main():
     for filename in os.listdir('source'):
-        try:
+        #try:
            if filename.startswith('alphv-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
                 soup=BeautifulSoup(file,'html.parser')
                 if 'alphvmmm' in filename:
                         stdlog('alphv : Parse ' +  'json file')
-                        jsonpart= soup.pre.contents
-                        data = json.loads(jsonpart[0])
+                        html_doc='source/'+filename
+                        file=open(html_doc, 'r')
+                        htmlfile = file.read()
+                        jsonfile = re.sub(r'<[^>]+>', '', htmlfile)
+                        data = json.loads(jsonfile)
                         for entry in data['items']:
                             title = entry['title'].strip()
                             published = entry['createdDt']
@@ -29,7 +32,8 @@ def main():
                                 description = entry['publication']['description'].strip()
                                 # description = entry['publication']['description'].strip()
                                 website = entry['publication']['url'].strip()
-                            parse.appender(title, 'alphv',description.replace('\n',' '),website,published)
+                            parse.appender(title, 'alphv', description, website, published)
+                        file.close()
                 else: 
                     stdlog('alphv : Parse ' +  'html file')
                     divs_name=soup.find_all('div', {'class': 'post-body'})
@@ -38,6 +42,6 @@ def main():
                         description = div.find('div', {'class': 'post-description'}).text.strip()
                         parse.appender(title, 'alphv',description.replace('\n',' '))
                 file.close()
-        except:
-            errlog('alphv: ' + 'parsing fail')
-            pass
+        #except:
+        #    errlog('alphv: ' + 'parsing fail')
+        #    pass

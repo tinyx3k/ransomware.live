@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-17 | [`newbridge.org`](https://google.com/search?q=newbridge.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-17 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
+| 2023-02-17 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
+| 2023-02-17 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |
+| 2023-02-17 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](profiles.md?id=alphv) |
+| 2023-02-17 | [`Wawasee Community School Corporation`](https://google.com/search?q=Wawasee+Community+School+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-02-17 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
 | 2023-02-17 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -199,11 +205,5 @@
 | 2023-01-26 | [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://google.com/search?q=SOLAR+INDUSTRIES+INDIA+WAS+HACKED.+MORE+THAN+2TB+SECRET+MILITARY+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`Somacis`](https://google.com/search?q=Somacis) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`Crescent Crown Distributing`](https://google.com/search?q=Crescent+Crown+Distributing) | [alphv](profiles.md?id=alphv) |
-| 2023-01-26 | [`ADMIRAL Sportwetten`](https://google.com/search?q=ADMIRAL+Sportwetten) | [play](profiles.md?id=play) |
-| 2023-01-25 | [`Navnit Group`](https://google.com/search?q=Navnit+Group) | [mallox](profiles.md?id=mallox) |
-| 2023-01-25 | [`Copper Mountain`](https://google.com/search?q=Copper+Mountain) | [alphv](profiles.md?id=alphv) |
-| 2023-01-25 | [`EightPixelsSquare`](https://google.com/search?q=EightPixelsSquare) | [medusa](profiles.md?id=medusa) |
-| 2023-01-25 | [`merlinpcbgroup.com`](https://google.com/search?q=merlinpcbgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-25 | [`BOMCALCADO`](https://google.com/search?q=BOMCALCADO) | [mallox](profiles.md?id=mallox) |
 
-Last update : _Friday 17/02/2023 07.24 (UTC)_
+Last update : _Friday 17/02/2023 11.24 (UTC)_

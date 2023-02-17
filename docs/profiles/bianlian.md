@@ -20,7 +20,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 17/02/2023 06:35 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🔴 | 17/02/2023 06:35 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -145,4 +145,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 17/02/2023 07.24 (UTC)_
+Last update : _Friday 17/02/2023 11.24 (UTC)_
