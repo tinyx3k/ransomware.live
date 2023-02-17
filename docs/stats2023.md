@@ -13,4 +13,4 @@
 |---|---|
 | ![](graphs/grouppie202302.png) | | 
 
-Last update : _Wednesday 15/02/2023 14.00 (UTC)_
+Last update : _Friday 17/02/2023 07.24 (UTC)_
