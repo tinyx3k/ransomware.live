@@ -5,6 +5,11 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-17 | [`cordfinancial.com`](https://google.com/search?q=cordfinancial.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-17 | [`fikes.com`](https://google.com/search?q=fikes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-17 | [`NESG`](https://google.com/search?q=NESG) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-17 | [`Fibertec`](https://google.com/search?q=Fibertec) | [bianlian](profiles.md?id=bianlian) |
+| 2023-02-17 | [`Suburban Laboratories`](https://google.com/search?q=Suburban+Laboratories) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-17 | [`newbridge.org`](https://google.com/search?q=newbridge.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-17 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-02-17 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
@@ -200,10 +205,5 @@
 | 2023-01-26 | [`*******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-01-26 | [`Travis County Sheriffs Officers Association`](https://google.com/search?q=Travis+County+Sheriffs+Officers+Association) | [royal](profiles.md?id=royal) |
 | 2023-01-26 | [`CHARLES P VONDERHAAR CPA WAS HACKED. MORE TNAH 50GB SENSETIVE DATA LEAKED.CHARLES P VONDER`](https://google.com/search?q=CHARLES+P+VONDERHAAR+CPA+WAS+HACKED.+MORE+TNAH+50GB+SENSETIVE+DATA+LEAKED.CHARLES+P+VONDER) | [alphv](profiles.md?id=alphv) |
-| 2023-01-26 | [`IOC`](https://google.com/search?q=IOC) | [royal](profiles.md?id=royal) |
-| 2023-01-26 | [`ServiceMaster`](https://google.com/search?q=ServiceMaster) | [royal](profiles.md?id=royal) |
-| 2023-01-26 | [`SOLAR INDUSTRIES INDIA WAS HACKED. MORE THAN 2TB SECRET MILITARY DATA LEAKED`](https://google.com/search?q=SOLAR+INDUSTRIES+INDIA+WAS+HACKED.+MORE+THAN+2TB+SECRET+MILITARY+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
-| 2023-01-26 | [`Somacis`](https://google.com/search?q=Somacis) | [alphv](profiles.md?id=alphv) |
-| 2023-01-26 | [`Crescent Crown Distributing`](https://google.com/search?q=Crescent+Crown+Distributing) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Friday 17/02/2023 11.24 (UTC)_
+Last update : _Friday 17/02/2023 15.41 (UTC)_
