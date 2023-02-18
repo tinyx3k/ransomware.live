@@ -5,6 +5,12 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -199,11 +205,5 @@
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-28 | [`Portnoff Law Associates`](https://google.com/search?q=Portnoff+Law+Associates) | [alphv](profiles.md?id=alphv) |
-| 2023-01-28 | [`Westmont Hospitality Group`](https://google.com/search?q=Westmont+Hospitality+Group) | [alphv](profiles.md?id=alphv) |
-| 2023-01-28 | [`EGR`](https://google.com/search?q=EGR) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-27 | [`Helicar`](https://google.com/search?q=Helicar) | [play](profiles.md?id=play) |
-| 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](profiles.md?id=alphv) |
-| 2023-01-26 | [`Bristol Community College`](https://google.com/search?q=Bristol+Community+College) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Saturday 18/02/2023 09.28 (UTC)_
+Last update : _Saturday 18/02/2023 11.37 (UTC)_
