@@ -206,4 +206,4 @@
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 18/02/2023 13.44 (UTC)_
+Last update : _Saturday 18/02/2023 15.20 (UTC)_
