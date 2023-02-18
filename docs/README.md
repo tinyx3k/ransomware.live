@@ -1,4 +1,4 @@
-_february 17th, 2023_
+_february 18th, 2023_
 
 ---
 
@@ -16,11 +16,11 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 ⏰ There have been `15` posts within the `last 24 hours`
 
-🕓 There have been `163` posts within the `month of february`
+🕓 There have been `165` posts within the `month of february`
 
 📅 There have been `939` posts within the `last 90 days`
 
-🏚 There have been `332` posts since the `1st January 2023`
+🏚 There have been `334` posts since the `1st January 2023`
 
 📸 There are `122` ransomware group host screenshots
 
@@ -28,11 +28,11 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🚀 There have been `3086` posts `last year`
 
-🐣 There have been `5164` posts `since the dawn of ransomware.live`
+🐣 There have been `5166` posts `since the dawn of ransomware.live`
 
 ⚙️ There are `77` custom parsers indexing posts
 
 
 
-Last update : _Friday 17/02/2023 23.20 (UTC)_
+Last update : _Saturday 18/02/2023 03.00 (UTC)_
 
