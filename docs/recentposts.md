@@ -206,4 +206,4 @@
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 18/02/2023 19.28 (UTC)_
+Last update : _Saturday 18/02/2023 21.24 (UTC)_
