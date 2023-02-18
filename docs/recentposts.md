@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-28 | [`Seguros Equinoccial`](https://google.com/search?q=Seguros+Equinoccial) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-28 | [`ylresin.com`](https://google.com/search?q=ylresin.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Saturday 18/02/2023 15.20 (UTC)_
+Last update : _Saturday 18/02/2023 17.33 (UTC)_
