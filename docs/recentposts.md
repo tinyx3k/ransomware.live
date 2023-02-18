@@ -206,4 +206,4 @@
 | 2023-01-27 | [`Ultrabulk`](https://google.com/search?q=Ultrabulk) | [alphv](profiles.md?id=alphv) |
 | 2023-01-26 | [`Bristol Community College`](https://google.com/search?q=Bristol+Community+College) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Saturday 18/02/2023 07.19 (UTC)_
+Last update : _Saturday 18/02/2023 09.28 (UTC)_
