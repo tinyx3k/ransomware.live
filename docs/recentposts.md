@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-19 | [`BakerMechanicalInc.com`](https://google.com/search?q=BakerMechanicalInc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`SINGLESOURCE`](https://google.com/search?q=SINGLESOURCE) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
@@ -204,6 +205,5 @@
 | 2023-01-30 | [`luacesasesores.es`](https://google.com/search?q=luacesasesores.es) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`perenitysoftware.com`](https://google.com/search?q=perenitysoftware.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-29 | [`NPTC Group of Colleges`](https://google.com/search?q=NPTC+Group+of+Colleges) | [vicesociety](profiles.md?id=vicesociety) |
-| 2023-01-29 | [`azliver.com`](https://google.com/search?q=azliver.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Sunday 19/02/2023 13.35 (UTC)_
+Last update : _Sunday 19/02/2023 15.29 (UTC)_
