@@ -1,6 +1,6 @@
 
 
-_All `5183` posts_
+_All `5185` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5183` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-20 | [`DALLAS SCHOOL DISTRICT`](https://google.com/search?q=DALLAS+SCHOOL+DISTRICT) | [royal](profiles.md?id=royal) |
+| 2023-02-20 | [`Ancora - Sistemas de Fixacao`](https://google.com/search?q=Ancora+-+Sistemas+de+Fixacao) | [royal](profiles.md?id=royal) |
 | 2023-02-20 | [`carlocksystems.com`](https://google.com/search?q=carlocksystems.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-19 | [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | [medusa](profiles.md?id=medusa) |
 | 2023-02-19 | [`jetboxcargo.com`](https://google.com/search?q=jetboxcargo.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5193,4 +5195,4 @@ _All `5183` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 20/02/2023 11.26 (UTC)_
+Last update : _Monday 20/02/2023 13.39 (UTC)_

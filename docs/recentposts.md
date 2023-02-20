@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-20 | [`DALLAS SCHOOL DISTRICT`](https://google.com/search?q=DALLAS+SCHOOL+DISTRICT) | [royal](profiles.md?id=royal) |
+| 2023-02-20 | [`Ancora - Sistemas de Fixacao`](https://google.com/search?q=Ancora+-+Sistemas+de+Fixacao) | [royal](profiles.md?id=royal) |
 | 2023-02-20 | [`carlocksystems.com`](https://google.com/search?q=carlocksystems.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-19 | [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | [medusa](profiles.md?id=medusa) |
 | 2023-02-19 | [`jetboxcargo.com`](https://google.com/search?q=jetboxcargo.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -203,7 +205,5 @@
 | 2023-01-30 | [`juvaskin.com`](https://google.com/search?q=juvaskin.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`kvie.org`](https://google.com/search?q=kvie.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`cplindustries.co.uk`](https://google.com/search?q=cplindustries.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`bulldoggroupinc.com`](https://google.com/search?q=bulldoggroupinc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-01-30 | [`airalbania.com.al`](https://google.com/search?q=airalbania.com.al) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 20/02/2023 11.26 (UTC)_
+Last update : _Monday 20/02/2023 13.39 (UTC)_
