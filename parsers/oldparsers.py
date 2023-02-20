@@ -668,9 +668,9 @@ def dataleak():
 
 def main():
     synack()
-    everest()
+    everest()  # A faire 
     suncrypt()    
-    lorenz()    
+    lorenz()    # A faire 
     lockbit2()    
     arvinclub()    
     avaddon()    
@@ -717,7 +717,7 @@ def main():
     icefire()    
     donutleaks()    
     sparta()    
-    qilin()    
+ #   qilin()    
     shaoleaks()    
     #medusa()    
     dataleak()    
