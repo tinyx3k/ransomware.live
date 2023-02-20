@@ -22,7 +22,7 @@ _Parser : `Available`_
 
 | post | date | Description
 |---|---|---|
-| [`https://https://gigatron.rs/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fgigatron.rs%2F) | 20/02/2023 |  |
+| [`GIGATRON.RS`](https://gigatron.rs/) | 20/02/2023 | Gigatron downloaded data overview:  From 172.31.244.50: DB backups of shops: G1-G69, G88, G89  From 172.31.248.10: DB backups: CTRetail_backup CTRetailWSRepl_backup GigatronWMS_Sync_backup From 192.168.2.144: employee disability             ... |
 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | 21/11/2022 |   |
 | [`https://robertbernard.com`](https://google.com/search?q=https%3A%2F%2Frobertbernard.com) | 21/11/2022 |   |
 | [`https://contempocard.com`](https://google.com/search?q=https%3A%2F%2Fcontempocard.com) | 21/11/2022 |   |
@@ -38,4 +38,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 20/02/2023 19.21 (UTC)_
+Last update : _Monday 20/02/2023 21.19 (UTC)_

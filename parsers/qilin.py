@@ -10,12 +10,12 @@ def main():
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
                 soup=BeautifulSoup(file,'html.parser')
-                divs_name=soup.find_all('div', {"class": "listview"})
+                divs_name=soup.find_all('div', {"class": "col-lg-8"})
                 for div in divs_name:
                     title = div.find('a',{"class": "item_box-title mb-2 mt-1"}).text.strip()
-                    description = div.find('div',{"class": "item_box-text"}).text.strip()
+                    description = div.find('div',{"class": "item_box_text"}).text.strip()
                     website = div.find('a',{"class": "item_box-info__link"}).text.strip()
-                    appender(title, 'qilin', description, website)
+                    appender(title, 'qilin', description.replace('\n',' '), website)
                 file.close()
         except:
             errlog('qilin: ' + 'parsing fail')

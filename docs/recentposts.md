@@ -7,7 +7,7 @@
 |---|---|---|
 | 2023-02-20 | [`Hopsteiner`](https://google.com/search?q=Hopsteiner) | [lorenz](profiles.md?id=lorenz) |
 | 2023-02-20 | [`UNIS`](https://google.com/search?q=UNIS) | [royal](profiles.md?id=royal) |
-| 2023-02-20 | [`https://https://gigatron.rs/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fgigatron.rs%2F) | [qilin](profiles.md?id=qilin) |
+| 2023-02-20 | [`GIGATRON.RS`](https://google.com/search?q=GIGATRON.RS) | [qilin](profiles.md?id=qilin) |
 | 2023-02-20 | [`DALLAS SCHOOL DISTRICT`](https://google.com/search?q=DALLAS+SCHOOL+DISTRICT) | [royal](profiles.md?id=royal) |
 | 2023-02-20 | [`Ancora - Sistemas de Fixacao`](https://google.com/search?q=Ancora+-+Sistemas+de+Fixacao) | [royal](profiles.md?id=royal) |
 | 2023-02-20 | [`carlocksystems.com`](https://google.com/search?q=carlocksystems.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -206,4 +206,4 @@
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`itsservicios.com.mx`](https://google.com/search?q=itsservicios.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 20/02/2023 19.21 (UTC)_
+Last update : _Monday 20/02/2023 21.19 (UTC)_
