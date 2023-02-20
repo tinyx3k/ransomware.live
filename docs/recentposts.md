@@ -206,4 +206,4 @@
 | 2023-01-30 | [`airalbania.com.al`](https://google.com/search?q=airalbania.com.al) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`dsavocats.com`](https://google.com/search?q=dsavocats.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 20/02/2023 03.48 (UTC)_
+Last update : _Monday 20/02/2023 05.20 (UTC)_
