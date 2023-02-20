@@ -206,4 +206,4 @@
 | 2023-01-30 | [`bulldoggroupinc.com`](https://google.com/search?q=bulldoggroupinc.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`airalbania.com.al`](https://google.com/search?q=airalbania.com.al) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Monday 20/02/2023 09.34 (UTC)_
+Last update : _Monday 20/02/2023 11.26 (UTC)_
