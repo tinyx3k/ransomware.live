@@ -206,4 +206,4 @@
 | 2023-01-30 | [`fujikura.co.jp`](https://google.com/search?q=fujikura.co.jp) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-01-30 | [`wealthwise.com.au`](https://google.com/search?q=wealthwise.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Tuesday 21/02/2023 03.50 (UTC)_
+Last update : _Tuesday 21/02/2023 05.17 (UTC)_
