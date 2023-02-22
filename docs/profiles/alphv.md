@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 22/02/2023 08:34 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 22/02/2023 10:32 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,31 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 283 posts found
+> 289 posts found
 
 | post | date | Description
 |---|---|---|
+| [`La Filipina`](https://www.lafilgroup.com/) | 22/02/2023 | La Filipina Group of Companies (the "Company") is committed to ensure that its business is conducted, in all respects and all the times, according to rigorous ethical, professional and legal standards, which prevail from time to time, in the industrial sectors. |
+| [`Markas`](https://www.markas.com/) | 22/02/2023 | Sice 1985, Markas has been synonymous with high quality, innovative facility services. The founder, Mario Kasslatter, has successfully established a wide range of services in order to provide each customer with a tailor-made facility servicesn. |
+| [`Summit Brands`](https://summitbrands.com/) | 22/02/2023 | Summit Brands is a family-owned business started in 1958 and offers highly effective, sustainable, and innovative household cleaning products |
+| [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://www.futurebuildings.com) | 22/02/2023 | Who is Future Buildings
+
+Future Buildings is a family owned and operated company that takes pride in providing customers with steel buildings
+
+Home Improvement &amp; Hardware Retail · Canada · 132 Employees 
+
+Headquarters: 1405 Denison St, Markham, Ontario, L3R 5V2, Canada
+Phone Number: (800) 668-5111
+Revenue: $27.2M
+Linkedin: http://www.linkedin.com/company/future-buildings
+Facebook: http://www.facebook.com/futuresteelbuildings
+Twitter: http://www.twitter.com/futuresteel |
+| [`City of Lakewood`](https://cityoflakewood.us/) | 22/02/2023 | Lakewood is a city in Pierce County, Washington, United States. The population was 63,612 at the 2020 census. |
+| [`EncinoEnergy`](https://www.encinoenergy.com/) | 22/02/2023 | Encino Energy is one of the largest private natural gas and oil producers in the U.S. and a top 25 North American natural gas producer. While headquartered in Houston, our operations in the prolific Northern Utica Shale make us the largest oil producer in Ohio and the second-largest natural gas producer in the state.
+
+But beyond our day-to-day operations, we are a company dedicated to our values of results, transparency, innovation, ownership, and sustainability. These foundational values guide our employees and make us who we are. Encino Energy’s proven management team is deeply committed to our people, and we are fully invested in the communities we call home.
+
+Encino Energy is committed to doing the right things for the right reasons while never losing sight of safety and sustainability. We focus on the long-term, which means sustainable, safe, and environmentally conscious operations, and carefully managed risks. |
 | [`SINGLESOURCE`](https://singlesource.com) | 18/02/2023 | Single Source is a custom foodservice distribution company providing exceptional logistics management services to our customers, nationwide thru our network of ten distribution centers. |
 | [`Leal Group`](https://www.lealgroup.mu/) | 17/02/2023 | The Leal Group is a diverse group of companies contributing to the economic development of Mauritius.During the last nine decades, the Leal Group has expanded into a wide range of industries including medical, consumer goods, automotive, information technology, engineering and tourism. The Leal Group is headquartered in Moka, Mauritius. |
 | [`AMADA WELD TECH`](https://amadaweldtech.com/) | 17/02/2023 | Based in Southern California, AMADA WELD TECH Inc. is a leading manufacturer of equipment and systems for resistance welding, laser welding, laser marking, laser cutting, laser micromachining, and hot bar bonding. Visit our Virtual Showroom!The company provides products to a wide range of markets, including the medical device, battery, electric vehicle and solar industries, as well as the global electronics, automotive and general industrial markets. |
@@ -321,4 +342,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Wednesday 22/02/2023 09.25 (UTC)_
+Last update : _Wednesday 22/02/2023 11.23 (UTC)_
