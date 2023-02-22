@@ -16,7 +16,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🟢 | 22/02/2023 17:12 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
+| ransomexx2 | 🟢 | 22/02/2023 19:14 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -24,10 +24,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 41 posts found
+> 42 posts found
 
 | post | date | Description
 |---|---|---|
+| [`BULOG`](https://google.com/search?q=BULOG) | 22/02/2023 |  |
 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 |   |
 | [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | 19/10/2022 |   |
 | [`Consorci Sanitari Integral & Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26+Geseme) | 11/10/2022 |   |
@@ -73,4 +74,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 22/02/2023 17.23 (UTC)_
+Last update : _Wednesday 22/02/2023 19.26 (UTC)_
