@@ -5,6 +5,8 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-22 | [`La Filipina`](https://google.com/search?q=La+Filipina) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Markas`](https://google.com/search?q=Markas) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](profiles.md?id=alphv) |
@@ -203,7 +205,5 @@
 | 2023-02-02 | [`Casa Ley`](https://google.com/search?q=Casa+Ley) | [royal](profiles.md?id=royal) |
 | 2023-02-02 | [`SOTO Consulting Engineers`](https://google.com/search?q=SOTO+Consulting+Engineers) | [alphv](profiles.md?id=alphv) |
 | 2023-02-02 | [`pharmagestao.com.br`](https://google.com/search?q=pharmagestao.com.br) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-01 | [`N** ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
-| 2023-02-01 | [`Guildford County School`](https://google.com/search?q=Guildford+County+School) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Wednesday 22/02/2023 11.23 (UTC)_
+Last update : _Wednesday 22/02/2023 13.52 (UTC)_
