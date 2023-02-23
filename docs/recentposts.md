@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-23 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | [mallox](profiles.md?id=mallox) |
 | 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-23 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |
 | 2023-02-23 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |
@@ -204,6 +205,5 @@
 | 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Thursday 23/02/2023 05.34 (UTC)_
+Last update : _Thursday 23/02/2023 07.26 (UTC)_
