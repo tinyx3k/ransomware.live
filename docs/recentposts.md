@@ -5,6 +5,10 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](profiles.md?id=ransomhouse) |
+| 2023-02-23 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |
+| 2023-02-23 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |
+| 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Stone and Electrical Contractors`](https://google.com/search?q=Stone+and+Electrical+Contractors) | [royal](profiles.md?id=royal) |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-02-22 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | [medusa](profiles.md?id=medusa) |
@@ -201,9 +205,5 @@
 | 2023-02-02 | [`kostika.co.il`](https://google.com/search?q=kostika.co.il) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`transportsn.com`](https://google.com/search?q=transportsn.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`nlsmichigan.org`](https://google.com/search?q=nlsmichigan.org) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`plasmasurgical.com`](https://google.com/search?q=plasmasurgical.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`avantetextil.com.mx`](https://google.com/search?q=avantetextil.com.mx) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`byte.gr`](https://google.com/search?q=byte.gr) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-02 | [`seelllc.com`](https://google.com/search?q=seelllc.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 22/02/2023 23.20 (UTC)_
+Last update : _Thursday 23/02/2023 02.47 (UTC)_
