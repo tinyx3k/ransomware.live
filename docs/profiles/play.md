@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | PLAY NEWS | 🔴 | 23/02/2023 23:06 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 24/02/2023 02:31 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 24/02/2023 03:31 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -91,4 +91,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 24/02/2023 02.50 (UTC)_
+Last update : _Friday 24/02/2023 03.47 (UTC)_
