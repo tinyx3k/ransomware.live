@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 23/02/2023 22:30 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 24/02/2023 01:55 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,18 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 292 posts found
+> 294 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Glovers Solicitors LLP`](https://www.glovers.co.uk) | 24/02/2023 | Glovers was founded as Glover &amp; Co in Mayfair in 1932 by Sir Gerald Glover, a prominent and respected Central London property developer and solicitor.
+
+We have since grown to become a modern and highly regarded, property-focused legal practice and are now based in Covent Garden.
+
+Glovers is recognised by clients and independent legal directories as a genuinely partner-led law firm, with in- depth strengths in its chosen practice areas.
+
+Our clients value not only our legal expertise, but also our dedicated work ethic and the commercial approach that we bring to negotiations and problem solving. We are, as a result, retained by a wide range of businesses – from well known restaurant and retail brands and major construction companies to specialist banks and lending institutions. |
+| [`The Keen Group`](https://www.thekeengroup.co.uk/) | 24/02/2023 | A little about us - The Keen Group provides a professional, licensed, hassle-free minicab &amp; courier service across south London |
 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://www.prestigeusa.net) | 23/02/2023 | Who is Prestige Maintenance USA
 
 Prestige Maintenance USA, established in 1976 and headquartered in Plano, Texas, provides janitorial
@@ -378,4 +386,4 @@ Encino Energy is committed to doing the right things for the right reasons while
  --- 
 
 
-Last update : _Thursday 23/02/2023 23.25 (UTC)_
+Last update : _Friday 24/02/2023 02.50 (UTC)_
