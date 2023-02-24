@@ -206,4 +206,4 @@
 | 2023-02-03 | [`guardiananalytics.com`](https://google.com/search?q=guardiananalytics.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-02 | [`fabricatedpipe.com`](https://google.com/search?q=fabricatedpipe.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Friday 24/02/2023 05.20 (UTC)_
+Last update : _Friday 24/02/2023 07.26 (UTC)_
