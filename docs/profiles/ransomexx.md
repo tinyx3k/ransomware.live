@@ -16,7 +16,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🟢 | 26/02/2023 11:07 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
+| ransomexx2 | 🟢 | 26/02/2023 15:06 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,15 +28,15 @@ _Parser : `Available`_
 
 | post | date | Description
 |---|---|---|
-| [`BULOG`](https://google.com/search?q=BULOG) | 22/02/2023 |  |
-| [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 |   |
-| [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | 19/10/2022 |   |
-| [`Consorci Sanitari Integral & Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26+Geseme) | 11/10/2022 |   |
-| [`Ferrari`](https://google.com/search?q=Ferrari) | 02/10/2022 |   |
-| [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | 01/10/2022 |   |
-| [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | 03/09/2022 |   |
-| [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | 24/08/2022 |   |
-| [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | 23/08/2022 |   |
+| [`BULOG`](https://google.com/search?q=BULOG) | 22/02/2023 | BULOG adalah perusahaan umum milik negara yang bergerak di bidang logistik pangan. |
+| [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 | REC Silicon is a global leader in silane-based, high-purity silicon materials. |
+| [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | 19/10/2022 | A Unimed é a maior realidade cooperativista na área da saúde em todo o mundo e também a maior rede de assistência médica do Brasil, presente em 83% do território nacional. O Sistema nasceu com a fundação da Unimed Santos (SP) pelo Dr. Edmundo Castilho, em 1967, e hoje é composto por 368 cooperativas médicas, que prestam assistência para mais de 19 milhões de clientes e 73 mil empresas em todo País. Clientes Unimed contam com mais de 110 mil médicos, 3.244 hospitais credenciados, além de pronto-atendimentos, laboratórios, ambulâncias e hospitais próprios e credenciados para garantir qualidade na assistência médica, hospitalar e de diagnóstico complementar oferecidos. |
+| [`Consorci Sanitari Integral & Geseme`](https://google.com/search?q=Consorci+Sanitari+Integral+%26+Geseme) | 11/10/2022 | El Consorci Sanitari Integral (CSI) és un ens públic de serveis sanitaris i socials que neix l'any 2000 assumint els antics hospitals de la Creu Roja en la província de Barcelona. Actualment, el CSI està participat pel Servei Català de la Salut, l'Institut Català de la Salut, l'Ajuntament de l'Hospitalet de Llobregat, l'Ajuntament de Sant Joan Despí, el Consell Comarcal del Baix Llobregat i la Creu Roja. En 2016 en fou nomenat director general Carles Constante i Beitia. |
+| [`Ferrari`](https://google.com/search?q=Ferrari) | 02/10/2022 | Some internal documents, datasheets, repair manuals, etc. |
+| [`Bombardier Recreational Products (BRP) - SOURCE CODES`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+SOURCE+CODES) | 01/10/2022 | Here are some codes from BRP's repos. atgk.brp.ApprenticeShopAPI, atgk.brp.ApprenticeShopMobileAppBackend, atgk.brp.Tools.RemoteConnectionManager, BRP - Usine 9 - Tracking, BRP-PP-ALM, EPC, RIM, SAP-BenchStatusMobileApp. |
+| [`Fundo Nacional de Desenvolvimento da Educação`](https://google.com/search?q=Fundo+Nacional+de+Desenvolvimento+da+Educa%C3%A7%C3%A3o) | 03/09/2022 | The National Fund for Educational Development (FNDE) is a federal agency under the Ministry of Education, responsible for implementing programs nationwide, including the National School Nutrition Program – PNAE, which serves 47 million students throughout the country, offering adequate and safe food in schools. Since its establishment, the FNDE has undergone several changes, which became more intense when the Brazilian government laid the groundwork for the formation of a substantive conception of education that pervades all levels of education and procedures. Thus, the agency was strengthened, especially with regard to the ongoing management of activities, projects and educational programs as a strategy to support the promotion of educational quality. Nowadays, besides the National School Nutrition Program - PNAE, the FNDE is responsible for implementing the Programs of School Transportation, National Textbook, School Direct Money, Brazil Literate, Pro-Youth, Joint Action Plan, Pro-Child, Decentralization and the Open University Credits. |
+| [`Bombardier Recreational Products (BRP) - BONUS CONTENT (!!!)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29+-+BONUS+CONTENT+%28%21%21%21%29) | 24/08/2022 | In addition to previous leak: employees credentials, if you need netflix, battle.net, paypal or pornhub account feel free to use it; employees personal photos/videos; confidential BRP documents from several employees desktops/laptops. Why it's posted separately? They forces us to increase damage of the attack due to their negotiations team. |
+| [`Bombardier Recreational Products (BRP)`](https://google.com/search?q=Bombardier+Recreational+Products+%28BRP%29) | 23/08/2022 | BRP Inc. is the holding company for Bombardier Recreational Products Inc., operating as BRP, a Canadian manufacturer of snowmobiles, all-terrain vehicles, side by sides, motorcycles, and personal watercraft. It was founded in 2003, when the Recreational Products Division of Bombardier Inc. was spun-off and sold to a group of investors consisting of Bain Capital, the Bombardier-Beaudoin family and the Caisse de dépôt et placement du Québec. Bombardier Inc., was founded in 1942 as L'Auto-Neige Bombardier Limitée (Bombardier Snowmobile Limited) by Joseph-Armand Bombardier at Valcourt in the Eastern Townships, Quebec. As of October 6, 2009, BRP had about 5,500 employees; its revenues in 2007 were above US$2.5 billion. BRP has manufacturing facilities in five countries: Canada, the United States (Wisconsin, Illinois, North Carolina, Arkansas, Michigan and Minnesota), Mexico, Finland, and Austria. The company's products are sold in more than 100 countries, some of which have their own direct-sales network. BRP's products include the Ski-Doo and Lynx snowmobiles, Can-Am ATVs and Can-Am motorcycles, Sea-Doo personal watercraft, and Rotax engines. The Ski-Doo was ranked 17th place on CBC Television's The Greatest Canadian Invention in 2007. Confidential agreements, NDA's, personal data, passports, etc. |
 | [`Sonae`](https://google.com/search?q=Sonae) | 05/04/2022 |   |
 | [`Stago`](https://google.com/search?q=Stago) | 29/03/2022 |   |
 | [`Scottish Association for Mental Health`](https://google.com/search?q=Scottish+Association+for+Mental+Health) | 20/03/2022 |   |
@@ -74,4 +74,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 26/02/2023 13.45 (UTC)_
+Last update : _Sunday 26/02/2023 15.17 (UTC)_
