@@ -158,9 +158,9 @@
                 "title": " ",
                 "version": 3,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/12",
-                "available": false,
-                "updated": "2023-02-26 08:32:09.597181",
-                "lastscrape": "2023-02-26 08:32:09.597166",
+                "available": true,
+                "updated": "2023-02-26 13:29:12.320485",
+                "lastscrape": "2023-02-26 13:29:12.320374",
                 "enabled": true,
                 "delay": 60
             },
@@ -179,9 +179,9 @@
                 "title": " ",
                 "version": 3,
                 "slug": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/search",
-                "available": false,
-                "updated": "2023-01-25 18:58:50.227765",
-                "lastscrape": "2023-01-25 18:58:50.227018",
+                "available": true,
+                "updated": "2023-02-26 13:29:57.618256",
+                "lastscrape": "2023-02-26 13:29:57.618234",
                 "enabled": false
             }
         ],

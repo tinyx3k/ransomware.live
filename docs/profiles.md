@@ -134,9 +134,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 26/02/2023 08:32 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 26/02/2023 13:29 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
-|   | 🔴 | 25/01/2023 18:58 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 26/02/2023 13:29 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -144,30 +144,22 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 294 posts found
+> 296 posts found
 
 | post | date | Description
 |---|---|---|
-| [`Glovers Solicitors LLP`](https://www.glovers.co.uk) | 24/02/2023 | Glovers was founded as Glover &amp; Co in Mayfair in 1932 by Sir Gerald Glover, a prominent and respected Central London property developer and solicitor.
+| [`thinkwelty.com`](https://thinkwelty.com/) | 26/02/2023 | We are Welty Building Company and we Build to Last. Headquartered in Akron, Ohio and working nationally, Welty has been serving the construction needs of clients throughout Ohio for over 75 years.
+At Welty we bring an emotional intelligence to our work that is unlike anything else in the construction industry. Our approach is founded on a willingness to defy doing things the way they have always been done in favor of doing what is the smartest, most efficient, most sustainable and ultimately the most beneficial for our customer and the community they serve.
+We call it “Thinking Welty” and it means we are never afraid to do what is right. |
+| [`Smarter Capital`](http://smartercapital.net) | 24/02/2023 | Smarter Capital is keen to spawn the next generation of technology companies and innovators. Smarter Capital collaborates with executives, mentors, other financial investors and industry particpants to create significant value. |
+| [`The Keen Group`](https://www.thekeengroup.co.uk/) | 23/02/2023 | A little about us - The Keen Group provides a professional, licensed, hassle-free minicab &amp; courier service across south London |
+| [`Glovers Solicitors LLP`](https://www.glovers.co.uk) | 23/02/2023 | Glovers was founded as Glover &amp; Co in Mayfair in 1932 by Sir Gerald Glover, a prominent and respected Central London property developer and solicitor.
 
 We have since grown to become a modern and highly regarded, property-focused legal practice and are now based in Covent Garden.
 
 Glovers is recognised by clients and independent legal directories as a genuinely partner-led law firm, with in- depth strengths in its chosen practice areas.
 
 Our clients value not only our legal expertise, but also our dedicated work ethic and the commercial approach that we bring to negotiations and problem solving. We are, as a result, retained by a wide range of businesses – from well known restaurant and retail brands and major construction companies to specialist banks and lending institutions. |
-| [`The Keen Group`](https://www.thekeengroup.co.uk/) | 24/02/2023 | A little about us - The Keen Group provides a professional, licensed, hassle-free minicab &amp; courier service across south London |
-| [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://www.prestigeusa.net) | 23/02/2023 | Who is Prestige Maintenance USA
-
-Prestige Maintenance USA, established in 1976 and headquartered in Plano, Texas, provides janitorial
-services that offer contract and project cleaning, general maintenance, window washing, carpet care, sanitation, and recycling services
-
-Headquarters: 1808 10th St Ste 300, Plano, Texas, 75074, United States
-Phone Number: (972) 578-9801
-Revenue: $472.4M
-Linkedin: http://www.linkedin.com/company/prestige-maintenance-usa
-Facebook: http://www.facebook.com/pmusa76
-Twitter: http://www.twitter.com/prestige_m_usa |
-| [`Kendall Hunt Publishing`](https://kendallhunt.com) | 23/02/2023 | Founded in 1944, Kendall Hunt Publishing is a publisher of hands-on, inquiry-based science, mathematics, and gifted curricula for grades PreK-12. Their research and standards-based programs are available in both print and digital components that encompass students |
 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://edeeste.com.do) | 23/02/2023 | Overview:
 Edeeste is an electricity distribution company. It offers commercial, industrial and business development, installment agreement, power change, circuit and supply status, concurrence consultation, net measurement program, and other services.
 ---
@@ -192,10 +184,25 @@ Av. San Vicente de Paúl 321
 Revenue:
 $633.6M
 --------- |
-| [`La Filipina`](https://www.lafilgroup.com/) | 22/02/2023 | La Filipina Group of Companies (the "Company") is committed to ensure that its business is conducted, in all respects and all the times, according to rigorous ethical, professional and legal standards, which prevail from time to time, in the industrial sectors. |
-| [`Markas`](https://www.markas.com/) | 22/02/2023 | Sice 1985, Markas has been synonymous with high quality, innovative facility services. The founder, Mario Kasslatter, has successfully established a wide range of services in order to provide each customer with a tailor-made facility servicesn. |
-| [`Summit Brands`](https://summitbrands.com/) | 22/02/2023 | Summit Brands is a family-owned business started in 1958 and offers highly effective, sustainable, and innovative household cleaning products |
-| [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://www.futurebuildings.com) | 22/02/2023 | Who is Future Buildings
+| [`Kendall Hunt Publishing`](https://kendallhunt.com) | 22/02/2023 | Founded in 1944, Kendall Hunt Publishing is a publisher of hands-on, inquiry-based science, mathematics, and gifted curricula for grades PreK-12. Their research and standards-based programs are available in both print and digital components that encompass students |
+| [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://www.prestigeusa.net) | 22/02/2023 | Who is Prestige Maintenance USA
+
+Prestige Maintenance USA, established in 1976 and headquartered in Plano, Texas, provides janitorial
+services that offer contract and project cleaning, general maintenance, window washing, carpet care, sanitation, and recycling services
+
+Headquarters: 1808 10th St Ste 300, Plano, Texas, 75074, United States
+Phone Number: (972) 578-9801
+Revenue: $472.4M
+Linkedin: http://www.linkedin.com/company/prestige-maintenance-usa
+Facebook: http://www.facebook.com/pmusa76
+Twitter: http://www.twitter.com/prestige_m_usa |
+| [`EncinoEnergy`](https://www.encinoenergy.com/) | 22/02/2023 | Encino Energy is one of the largest private natural gas and oil producers in the U.S. and a top 25 North American natural gas producer. While headquartered in Houston, our operations in the prolific Northern Utica Shale make us the largest oil producer in Ohio and the second-largest natural gas producer in the state.
+
+But beyond our day-to-day operations, we are a company dedicated to our values of results, transparency, innovation, ownership, and sustainability. These foundational values guide our employees and make us who we are. Encino Energy’s proven management team is deeply committed to our people, and we are fully invested in the communities we call home.
+
+Encino Energy is committed to doing the right things for the right reasons while never losing sight of safety and sustainability. We focus on the long-term, which means sustainable, safe, and environmentally conscious operations, and carefully managed risks. |
+| [`City of Lakewood`](https://cityoflakewood.us/) | 22/02/2023 | Lakewood is a city in Pierce County, Washington, United States. The population was 63,612 at the 2020 census. |
+| [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://www.futurebuildings.com) | 21/02/2023 | Who is Future Buildings
 
 Future Buildings is a family owned and operated company that takes pride in providing customers with steel buildings
 
@@ -207,18 +214,15 @@ Revenue: $27.2M
 Linkedin: http://www.linkedin.com/company/future-buildings
 Facebook: http://www.facebook.com/futuresteelbuildings
 Twitter: http://www.twitter.com/futuresteel |
-| [`City of Lakewood`](https://cityoflakewood.us/) | 22/02/2023 | Lakewood is a city in Pierce County, Washington, United States. The population was 63,612 at the 2020 census. |
-| [`EncinoEnergy`](https://www.encinoenergy.com/) | 22/02/2023 | Encino Energy is one of the largest private natural gas and oil producers in the U.S. and a top 25 North American natural gas producer. While headquartered in Houston, our operations in the prolific Northern Utica Shale make us the largest oil producer in Ohio and the second-largest natural gas producer in the state.
-
-But beyond our day-to-day operations, we are a company dedicated to our values of results, transparency, innovation, ownership, and sustainability. These foundational values guide our employees and make us who we are. Encino Energy’s proven management team is deeply committed to our people, and we are fully invested in the communities we call home.
-
-Encino Energy is committed to doing the right things for the right reasons while never losing sight of safety and sustainability. We focus on the long-term, which means sustainable, safe, and environmentally conscious operations, and carefully managed risks. |
-| [`SINGLESOURCE`](https://singlesource.com) | 18/02/2023 | Single Source is a custom foodservice distribution company providing exceptional logistics management services to our customers, nationwide thru our network of ten distribution centers. |
-| [`Leal Group`](https://www.lealgroup.mu/) | 17/02/2023 | The Leal Group is a diverse group of companies contributing to the economic development of Mauritius.During the last nine decades, the Leal Group has expanded into a wide range of industries including medical, consumer goods, automotive, information technology, engineering and tourism. The Leal Group is headquartered in Moka, Mauritius. |
-| [`AMADA WELD TECH`](https://amadaweldtech.com/) | 17/02/2023 | Based in Southern California, AMADA WELD TECH Inc. is a leading manufacturer of equipment and systems for resistance welding, laser welding, laser marking, laser cutting, laser micromachining, and hot bar bonding. Visit our Virtual Showroom!The company provides products to a wide range of markets, including the medical device, battery, electric vehicle and solar industries, as well as the global electronics, automotive and general industrial markets. |
-| [`Hengmei Optoelectronics Co.,Ltd.`](https://www.cnhmo.cn/) | 17/02/2023 | Hengmei Optoelectronics Co., Ltd. was established in May 2014, located in Kunshan Development Zone, Jiangsu Province, with a registered capital of 3.25278 billion yuan. At present, four production bases in Kunshan, Fuzhou, Hefei and Danyang have been established and planned, and the total annual production capacity of polarizers is planned to be 220 million square meters. It will become the world's leading polarizer manufacturer and provide high-quality panel factories in many countries and regions around the world. , Stable polarizer supply. Among them, Hengmei Kunshan factory has a total of two polarizer production lines. Line 1 has a width of 1.5M. It was officially mass-produced in January 2017, with a monthly production capacity of 1.8 million square meters. Line 2 has a width of 2.5M and began mass production in September 2019. , with a monthly production capacity of 3.2 million square meters. The two lines have achieved an annual production capacity of 60 million square meters. Hengmei Fuzhou factory has newly added two 2.6M ultra-wide polarizer production lines. It is planned to start mass production in Q4 of 2022. After full production, the two lines will have an annual production capacity of 90 million square meters. |
-| [`Cansew`](https://cansew.com) | 17/02/2023 | Cansew has been part of the fabric of life since 1924. When it comes time to place your orders, you will find that our more than 80 years of experience and our position as a leading supplier of threads and trim to the needletrade industry will serve your needs exce |
-| [`Wawasee Community School Corporation`](https://www.wawasee.k12.in.us) | 17/02/2023 | The Wawasee Community School Corporation works to create an academic, social, and physical environment that facilitates growth in each student. They are headquartered in Syracuse, Indiana |
+| [`Summit Brands`](https://summitbrands.com/) | 21/02/2023 | Summit Brands is a family-owned business started in 1958 and offers highly effective, sustainable, and innovative household cleaning products |
+| [`Markas`](https://www.markas.com/) | 21/02/2023 | Sice 1985, Markas has been synonymous with high quality, innovative facility services. The founder, Mario Kasslatter, has successfully established a wide range of services in order to provide each customer with a tailor-made facility servicesn. |
+| [`La Filipina`](https://www.lafilgroup.com/) | 21/02/2023 | La Filipina Group of Companies (the "Company") is committed to ensure that its business is conducted, in all respects and all the times, according to rigorous ethical, professional and legal standards, which prevail from time to time, in the industrial sectors. |
+| [`SINGLESOURCE`](https://singlesource.com) | 17/02/2023 | Single Source is a custom foodservice distribution company providing exceptional logistics management services to our customers, nationwide thru our network of ten distribution centers. |
+| [`Wawasee Community School Corporation`](https://www.wawasee.k12.in.us) | 16/02/2023 | The Wawasee Community School Corporation works to create an academic, social, and physical environment that facilitates growth in each student. They are headquartered in Syracuse, Indiana |
+| [`Cansew`](https://cansew.com) | 16/02/2023 | Cansew has been part of the fabric of life since 1924. When it comes time to place your orders, you will find that our more than 80 years of experience and our position as a leading supplier of threads and trim to the needletrade industry will serve your needs exce |
+| [`Hengmei Optoelectronics Co.,Ltd.`](https://www.cnhmo.cn/) | 15/02/2023 | Hengmei Optoelectronics Co., Ltd. was established in May 2014, located in Kunshan Development Zone, Jiangsu Province, with a registered capital of 3.25278 billion yuan. At present, four production bases in Kunshan, Fuzhou, Hefei and Danyang have been established and planned, and the total annual production capacity of polarizers is planned to be 220 million square meters. It will become the world's leading polarizer manufacturer and provide high-quality panel factories in many countries and regions around the world. , Stable polarizer supply. Among them, Hengmei Kunshan factory has a total of two polarizer production lines. Line 1 has a width of 1.5M. It was officially mass-produced in January 2017, with a monthly production capacity of 1.8 million square meters. Line 2 has a width of 2.5M and began mass production in September 2019. , with a monthly production capacity of 3.2 million square meters. The two lines have achieved an annual production capacity of 60 million square meters. Hengmei Fuzhou factory has newly added two 2.6M ultra-wide polarizer production lines. It is planned to start mass production in Q4 of 2022. After full production, the two lines will have an annual production capacity of 90 million square meters. |
+| [`AMADA WELD TECH`](https://amadaweldtech.com/) | 15/02/2023 | Based in Southern California, AMADA WELD TECH Inc. is a leading manufacturer of equipment and systems for resistance welding, laser welding, laser marking, laser cutting, laser micromachining, and hot bar bonding. Visit our Virtual Showroom!The company provides products to a wide range of markets, including the medical device, battery, electric vehicle and solar industries, as well as the global electronics, automotive and general industrial markets. |
+| [`Leal Group`](https://www.lealgroup.mu/) | 14/02/2023 | The Leal Group is a diverse group of companies contributing to the economic development of Mauritius.During the last nine decades, the Leal Group has expanded into a wide range of industries including medical, consumer goods, automotive, information technology, engineering and tourism. The Leal Group is headquartered in Moka, Mauritius. |
 | [`Vitas`](https://vitas.ps/) | 14/02/2023 | Established in 1995, which is considered as one of the most important specialized programs of the Global Communities Foundation (formerly CHF International for Lending and Financial Services) |
 | [`Banco Sol`](https://www.bancosol.ao) | 14/02/2023 | Banco Sol is a private Angolan bank founded 17 years ago. Headquartered in Luanda, Angola's capital, it's recognised as one of Africa's most successful financial institutions with 940,000 clients on its books and a staff of 1,642. With 180 branches throughout the country. |
 | [`Cork Institute of Technology & Munster Technological University`](https://www.mtu.ie/) | 12/02/2023 | Selective data from Cork Institute of Technology & Munster Technological University includes but not limited to :  1)PII Data 2)Confidential Data 3)Financial Data 4)Students personal & medical data (scholarship details) 5)Staff data 6)Students notes & assessments  And more... |
@@ -5625,13 +5629,13 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description
 |---|---|---|
-| [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | 22/02/2023 | RAYAB Consulting Engineers Company was founded in 1984. Taking advantage of hundreds of experienced experts’ cooperation , know – how and scientific experiences, the company has studied , designed and supervised, water and water transmission infrastructural projects, consulting and studying services for potable, agricultural and industrial water consumption, urban and industrial water distribution and wastewater collecting and disposal networks, water and wastewater treatment plants, environmental and health services and water resources conservation as large and small projects throughout Iran In addition to offices in Tehran, it has offices in Isfahan , Ghazvin, Takestan, Gorgan, Karaj, Ghom, Kashan, Delijan, Malayer , Ilaam , Ahwaz, Dezful, Babolsar, Bojnourd, Mashhad, Esfarayen, Kashmar, Birjand, Bandarabbas, Sirjan and Sare – Pole – Zahab |
 | [`Moose, Martin, Haynes & Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26+Lundy) | 22/02/2023 | For years, Moose, Martin, Haynes & Lundy, P.A. has been providing quality, personalized financial guidance to local individuals and businesses. Our expertise ranges from basic tax management and accounting services to more in-depth services such as audits, financia |
+| [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | 22/02/2023 | RAYAB Consulting Engineers Company was founded in 1984. Taking advantage of hundreds of experienced experts’ cooperation , know – how and scientific experiences, the company has studied , designed and supervised, water and water transmission infrastructural projects, consulting and studying services for potable, agricultural and industrial water consumption, urban and industrial water distribution and wastewater collecting and disposal networks, water and wastewater treatment plants, environmental and health services and water resources conservation as large and small projects throughout Iran In addition to offices in Tehran, it has offices in Isfahan , Ghazvin, Takestan, Gorgan, Karaj, Ghom, Kashan, Delijan, Malayer , Ilaam , Ahwaz, Dezful, Babolsar, Bojnourd, Mashhad, Esfarayen, Kashmar, Birjand, Bandarabbas, Sirjan and Sare – Pole – Zahab |
 | [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | 19/02/2023 | New York,  374 Employees. 
 
 The International Center of Photography is the world's leading institution dedicated to photography and visual culture. Cornell Capa founded ICP in 1974 to champion "concerned photography"-socially and politically minded images that can educate and change the world |
 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | 17/02/2023 | Automotive Parts · North Carolina, United States AP® Emissions Technologies is one of the leading manufacturers and suppliers of automotive, light truck, and heavy-duty exhaust and emissions products under the AP®, DuraFit®, Eastern Catalytic®, CATCO ®, ANSA®, Cherry Bomb®, DieselTech™, DuraFit™, Maremont®, XLERA and much more. |
-| [`Foamtec International`](https://google.com/search?q=Foamtec+International) | 15/02/2023 | The best of East and West - that is the strength of Foamtec International. Combining Western cutting edge technology with Eastern traditions of dedicated customer service, Foamex Asia was established in 1997 as a joint venture between Foamex International Inc. |
+| [`Foamtec International`](https://google.com/search?q=Foamtec+International) | 16/02/2023 | The best of East and West - that is the strength of Foamtec International. Combining Western cutting edge technology with Eastern traditions of dedicated customer service, Foamex Asia was established in 1997 as a joint venture between Foamex International Inc. |
 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | 15/02/2023 | PetroChina Indonesia is a company that operates in the Oil & Energy industry. It employs 251-500 people and has $25M-$50M of revenue. The company is headquartered in Jakarta, Jakarta, Indonesia |
 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | 13/02/2023 | Eureka Casinos was founded by the Lee family in Las Vegas, NV. It operates a wide-ranging number of businesses, including Eureka Casino Resort in Mesquite, NV. The Lee Family sold it to the employees in 2015 making it Nevada's first 100% employee owned casino |
 | [`Tonga Communications`](https://google.com/search?q=Tonga+Communications) | 11/02/2023 | Tonga Communications Corporation is a government-owned telecommunications provider offering mobile, fixed line, and internet services. It is based in Nuku'alofa. Tonga Communications Corporation Is Tonga's NO.1 cellular, fixedline & internet provider. |
@@ -7482,13 +7486,13 @@ _`Forum`_
 |---|---|---|
 | [`Schwartz Hautmont Port Shop`](https://www.shcm.es) | 24/02/2023 | Schwartz Hautmont is a private Spanish corporation established in 1963 in Tarragona, South of Barcelona, Spain. The company is in the steel construction business, offering a wide range of products and related services |
 | [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |
-| [`UNIS`](https://www.unisco.com) | 20/02/2023 | Founded in 1989, Unis LLC has grown into a majority, nationally recognized Third-Party Logistics Provider (3PL). From humble beginnings with just a few trucks operating in Southern California, Unis has expanded into all major US markets, impacting the successful flow of commerce with superior technology, smarter supply chains, and faster execution.We credit our growth to an agile, customer-driven mindset, and strategic investments in technologies that give our clients the visibility and operational insights they require in today’s dynamic supply chain environment |
-| [`DALLAS SCHOOL DISTRICT`](http://www.dallas.k12.or.us) | 20/02/2023 | Dallas School District is centered on students, powered by collaboration, built on equity and driven by excellence.Headquarters: 111 SW Ash St, Dallas, Oregon, 97338, United StatesPhone: (503) 623-5594 |
 | [`Ancora - Sistemas de Fixacao`](https://www.ancora.com.br) | 20/02/2023 |  |
+| [`DALLAS SCHOOL DISTRICT`](http://www.dallas.k12.or.us) | 20/02/2023 | Dallas School District is centered on students, powered by collaboration, built on equity and driven by excellence.Headquarters: 111 SW Ash St, Dallas, Oregon, 97338, United StatesPhone: (503) 623-5594 |
+| [`UNIS`](https://www.unisco.com) | 20/02/2023 | Founded in 1989, Unis LLC has grown into a majority, nationally recognized Third-Party Logistics Provider (3PL). From humble beginnings with just a few trucks operating in Southern California, Unis has expanded into all major US markets, impacting the successful flow of commerce with superior technology, smarter supply chains, and faster execution.We credit our growth to an agile, customer-driven mindset, and strategic investments in technologies that give our clients the visibility and operational insights they require in today’s dynamic supply chain environment |
 | [`Evans Consoles`](http://www.evansonline.com) | 16/02/2023 | For over four decades, Evans has been the global leader in providing innovative solutions for mission-critical operations. We serve a diverse client base, including public safety, aviation, process control, utilities, and technology, as well as numerous government agencies. With the industry’s largest portfolio of projects worldwide, serving 15 industries, it’s our proven methodology, strict quality standards, and experience that make the difference for our customers. Looking for current openings? Jump on over to our careers page.Our executive team is the most experienced in the industry and provides the thought leadership that positions Evans as the Global Leader in mission-critical operations, console design and manufacturing. |
-| [`Alexandercity`](http://www.alexandercityal.gov) | 14/02/2023 | Your travel and local community guide to Alex City, Alabama. Explore the Alexander City AL directory for hotels, restaurants, shopping, real estate, churches, government, schools, attractions and recreation.City department data.Data of contractors and subcontractors |
 | [`Delallo`](https://www.delallo.com) | 14/02/2023 | Founded in 1950, Delallo is a Company that offers Italian food products such as pasta and grains, sauces, tomatoes, olives, oils, vinegar, cured meats, and pickled vegetables.Headquarters: 1 Delallo Way, Mount Pleasant, Pennsylvania, 15666, United States |
 | [`Reventics`](http://www.reventics.com) | 13/02/2023 |  |
+| [`Alexandercity`](http://www.alexandercityal.gov) | 12/02/2023 | Your travel and local community guide to Alex City, Alabama. Explore the Alexander City AL directory for hotels, restaurants, shopping, real estate, churches, government, schools, attractions and recreation.City department data.Data of contractors and subcontractors |
 | [`Tucson Unified School District`](http://www.tusd1.org) | 10/02/2023 | Education · Arizona, United States · 6,208 EmployeesFounded in 1867, the Tucson Unified School District is headquartered in Tucson, Arizona. |
 | [`Trendsetter Engineering`](http://www.trendsetterengineering.com) | 08/02/2023 | Trendsetter is a premier provider of specialized subsea solutions for oil and gas companies across the globe. We have stolen from their network 1TB in total, including: 1) personal data, HR, Finance, Projects etc.;2) CEO's and Top Management Mailboxes - 340 GB3) SQL Databases - 150 GBEmployee/client/dealers DB (Name, address, phone number, mail address etc.)Feel free to check!Archive password: Aknn234)@$9skod_09@#$FS@2D |
 | [`INNOVATION COLLABORATION SYNERGY`](https://www.ics-nett.com/) | 06/02/2023 | ICS Nett delivers innovative solutions to critical challenges facing the nation and the world. As a premier provider of integrated services and solutions for the U. S. Government, it supports the Department of Defense, Cyber & Intelligence community.Pass archive: UwxKnTbZ5LsrPSxqSPKNsTjVKWWU9jRzgTS |
@@ -8475,4 +8479,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 26/02/2023 13.25 (UTC)_
+Last update : _Sunday 26/02/2023 13.45 (UTC)_

@@ -231,7 +231,7 @@ def recentposts(top):
     stdlog('finding recent posts')
     posts = openjson('posts.json')
     # sort the posts by timestamp - descending
-    sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+    sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
     # create a list of the last X posts
     recentposts = []
     for post in sorted_posts:
@@ -258,7 +258,7 @@ def recentpage():
     writeline(recentpage, '|---|---|---|')
     for post in recentposts(fetching_count):
         # show friendly date for discovered
-        date = post['discovered'].split(' ')[0]
+        date = post['published'].split(' ')[0]
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
@@ -294,7 +294,7 @@ def allposts():
     sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
     for post in sorted_posts:
     # show friendly date for discovered
-        date = post['discovered'].split(' ')[0]
+        date = post['published'].split(' ')[0]
         # replace markdown tampering characters
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
@@ -404,7 +404,7 @@ def profilepage():
             writeline(profilepage, '| post | date | Description')
             writeline(profilepage, '|---|---|---|')
             posts = openjson('posts.json')
-            sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+            sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
             for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
@@ -426,7 +426,7 @@ def profilepage():
                     except: 
                         urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
-                    date = post['discovered'].split(' ')[0]
+                    date = post['published'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
                     line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
@@ -598,7 +598,7 @@ def profile():
             writeline(profilepage, '| post | date | Description')
             writeline(profilepage, '|---|---|---|')
             posts = openjson('posts.json')
-            sorted_posts = sorted(posts, key=lambda x: x['discovered'], reverse=True)
+            sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
             for post in sorted_posts:
                 if post['group_name'] == group['name']:
                     try:
@@ -620,7 +620,7 @@ def profile():
                     except: 
                         urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
-                    date = post['discovered'].split(' ')[0]
+                    date = post['published'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
                     line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'

@@ -60,7 +60,7 @@ def plot_posts_by_group_past_7_days():
     '''
     posts = openjson('posts.json') 
     seven_days_ago = datetime.datetime.now() - datetime.timedelta(days=7)
-    posts = [post for post in posts if post['discovered'] >= seven_days_ago.strftime('%Y-%m-%d')]
+    posts = [post for post in posts if post['published'] >= seven_days_ago.strftime('%Y-%m-%d')]
     group_counts = gcount(posts)
     group_counts = sorted(group_counts.items(), key=lambda x: x[1], reverse=True)
     group_counts = [x for x in group_counts if x[0] != 'clop']

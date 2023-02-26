@@ -1,6 +1,6 @@
 
 
-_All `5226` posts_
+_All `5228` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5226` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-24 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](profiles.md?id=alphv) |
+| 2023-02-26 | [`thinkwelty.com`](https://google.com/search?q=thinkwelty.com) | [alphv](profiles.md?id=alphv) |
 | 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -17,12 +19,12 @@ _All `5226` posts_
 | 2023-02-24 | [`InPro electric`](https://google.com/search?q=InPro+electric) | [play](profiles.md?id=play) |
 | 2023-02-24 | [`Schwartz Hautmont Port Shop`](https://google.com/search?q=Schwartz+Hautmont+Port+Shop) | [royal](profiles.md?id=royal) |
 | 2023-02-24 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-24 | [`Glovers Solicitors LLP`](https://google.com/search?q=Glovers+Solicitors+LLP) | [alphv](profiles.md?id=alphv) |
-| 2023-02-24 | [`The Keen Group`](https://google.com/search?q=The+Keen+Group) | [alphv](profiles.md?id=alphv) |
+| 2023-02-23 | [`Glovers Solicitors LLP`](https://google.com/search?q=Glovers+Solicitors+LLP) | [alphv](profiles.md?id=alphv) |
+| 2023-02-23 | [`The Keen Group`](https://google.com/search?q=The+Keen+Group) | [alphv](profiles.md?id=alphv) |
 | 2023-02-23 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | [mallox](profiles.md?id=mallox) |
 | 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2023-02-23 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |
-| 2023-02-23 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |
+| 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |
 | 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`Stone and Electrical Contractors`](https://google.com/search?q=Stone+and+Electrical+Contractors) | [royal](profiles.md?id=royal) |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |
@@ -34,10 +36,10 @@ _All `5226` posts_
 | 2023-02-22 | [`siqueiracastro.com.br`](https://google.com/search?q=siqueiracastro.com.br) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-22 | [`La Filipina`](https://google.com/search?q=La+Filipina) | [alphv](profiles.md?id=alphv) |
-| 2023-02-22 | [`Markas`](https://google.com/search?q=Markas) | [alphv](profiles.md?id=alphv) |
-| 2023-02-22 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](profiles.md?id=alphv) |
-| 2023-02-22 | [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://google.com/search?q=FUTURE+BUILDINGS+WAS+HACKED.+MORE+THAN+150GB+SENSETIVE+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
+| 2023-02-21 | [`La Filipina`](https://google.com/search?q=La+Filipina) | [alphv](profiles.md?id=alphv) |
+| 2023-02-21 | [`Markas`](https://google.com/search?q=Markas) | [alphv](profiles.md?id=alphv) |
+| 2023-02-21 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](profiles.md?id=alphv) |
+| 2023-02-21 | [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://google.com/search?q=FUTURE+BUILDINGS+WAS+HACKED.+MORE+THAN+150GB+SENSETIVE+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`City of Lakewood`](https://google.com/search?q=City+of+Lakewood) | [alphv](profiles.md?id=alphv) |
 | 2023-02-22 | [`EncinoEnergy`](https://google.com/search?q=EncinoEnergy) | [alphv](profiles.md?id=alphv) |
 | 2023-02-21 | [`kboattorneys.com`](https://google.com/search?q=kboattorneys.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -61,7 +63,7 @@ _All `5226` posts_
 | 2023-02-19 | [`elliotthomes.com`](https://google.com/search?q=elliotthomes.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-19 | [`anthonymartin.be`](https://google.com/search?q=anthonymartin.be) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-19 | [`BakerMechanicalInc.com`](https://google.com/search?q=BakerMechanicalInc.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-18 | [`SINGLESOURCE`](https://google.com/search?q=SINGLESOURCE) | [alphv](profiles.md?id=alphv) |
+| 2023-02-17 | [`SINGLESOURCE`](https://google.com/search?q=SINGLESOURCE) | [alphv](profiles.md?id=alphv) |
 | 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |
@@ -79,11 +81,11 @@ _All `5226` posts_
 | 2023-02-17 | [`Fibertec`](https://google.com/search?q=Fibertec) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-17 | [`Suburban Laboratories`](https://google.com/search?q=Suburban+Laboratories) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-17 | [`newbridge.org`](https://google.com/search?q=newbridge.org) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-17 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
-| 2023-02-17 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
-| 2023-02-17 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |
-| 2023-02-17 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](profiles.md?id=alphv) |
-| 2023-02-17 | [`Wawasee Community School Corporation`](https://google.com/search?q=Wawasee+Community+School+Corporation) | [alphv](profiles.md?id=alphv) |
+| 2023-02-14 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |
+| 2023-02-15 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |
+| 2023-02-15 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |
+| 2023-02-16 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](profiles.md?id=alphv) |
+| 2023-02-16 | [`Wawasee Community School Corporation`](https://google.com/search?q=Wawasee+Community+School+Corporation) | [alphv](profiles.md?id=alphv) |
 | 2023-02-17 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) |
 | 2023-02-17 | [`vissan.com.vn`](https://google.com/search?q=vissan.com.vn) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-16 | [`myerspower.com`](https://google.com/search?q=myerspower.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -97,7 +99,7 @@ _All `5226` posts_
 | 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](profiles.md?id=mallox) |
 | 2023-02-15 | [`blackandwhitecabs.com.au`](https://google.com/search?q=blackandwhitecabs.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`trudi.it`](https://google.com/search?q=trudi.it) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-15 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
+| 2023-02-16 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) |
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -107,7 +109,7 @@ _All `5226` posts_
 | 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](profiles.md?id=play) |
 | 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](profiles.md?id=play) |
-| 2023-02-14 | [`Alexandercity`](https://google.com/search?q=Alexandercity) | [royal](profiles.md?id=royal) |
+| 2023-02-12 | [`Alexandercity`](https://google.com/search?q=Alexandercity) | [royal](profiles.md?id=royal) |
 | 2023-02-14 | [`Delallo`](https://google.com/search?q=Delallo) | [royal](profiles.md?id=royal) |
 | 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5236,4 +5238,4 @@ _All `5226` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 26/02/2023 13.25 (UTC)_
+Last update : _Sunday 26/02/2023 13.45 (UTC)_
