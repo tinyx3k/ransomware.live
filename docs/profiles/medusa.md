@@ -10,6 +10,7 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 26/02/2023 10:58 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 19 posts found
@@ -41,4 +42,4 @@ The International Center of Photography is the world's leading institution dedic
  --- 
 
 
-Last update : _Sunday 26/02/2023 11.17 (UTC)_
+Last update : _Sunday 26/02/2023 13.25 (UTC)_

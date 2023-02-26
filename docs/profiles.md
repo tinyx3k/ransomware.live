@@ -960,7 +960,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 26/02/2023 10:32 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 26/02/2023 13:23 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -968,10 +968,13 @@ _`captcha prevents indexing`_
 
 ### Posts
 
-> 112 posts found
+> 115 posts found
 
 | post | date | Description
 |---|---|---|
+| [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | 26/02/2023 | G&G Electronics is the store of home appliances and has a great selection of premium brands such as Sony, Bose, Panasonic, Denon, Marantz, Monster, GoPro, Sonos, EcoXGear and more. |
+| [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | 26/02/2023 | A firm serving San Antonio, TX in Insurance Defense, Workers Compensation Defense and Civil Trial Practice cases. |
+| [`D***`](https://google.com/search?q=D%2A%2A%2A) | 26/02/2023 | Company that developing a wide range of sophisticated accounting software and electronic commerce applications. |
 | [`NESG`](https://google.com/search?q=NESG) | 17/02/2023 | Group of Osteopathic Physicians who provide surgical health care at its highest level of expertise. |
 | [`Fibertec`](https://google.com/search?q=Fibertec) | 17/02/2023 | Fibertec Environmental Services is a full-service environmental analytical laboratory, specializing in subsurface investigations, industrial hygiene, and natural gas analysis. |
 | [`Suburban Laboratories`](https://google.com/search?q=Suburban+Laboratories) | 17/02/2023 | Suburban Laboratories was founded in 1936. The original lab was located in Cicero, Illinois where it remained for over 30 years. In 1970 the lab was purchased by three professional engineers; Dr. Fred Gurnham, Robert Konvalinka and Earl Rosenberg. |
@@ -5615,6 +5618,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 26/02/2023 10:58 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 19 posts found
@@ -8471,4 +8475,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 26/02/2023 11.17 (UTC)_
+Last update : _Sunday 26/02/2023 13.25 (UTC)_
