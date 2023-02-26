@@ -8,7 +8,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 26/02/2023 02:32 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+| Medusa Blog | 🟢 | 26/02/2023 03:39 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -41,4 +41,4 @@ The International Center of Photography is the world's leading institution dedic
  --- 
 
 
-Last update : _Sunday 26/02/2023 02.53 (UTC)_
+Last update : _Sunday 26/02/2023 04.01 (UTC)_

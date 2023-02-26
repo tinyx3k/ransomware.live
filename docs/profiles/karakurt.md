@@ -11,8 +11,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Chat | 🔴 | 25/02/2023 22:45 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
-| Magazine | 🟢 | 26/02/2023 02:18 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
+| Chat | 🟢 | 26/02/2023 03:23 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
+| Magazine | 🟢 | 26/02/2023 03:24 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
 
@@ -77,4 +77,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 26/02/2023 02.53 (UTC)_
+Last update : _Sunday 26/02/2023 04.01 (UTC)_
