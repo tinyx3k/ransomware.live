@@ -1549,6 +1549,17 @@
                 "updated": "2022-08-24 13:04:21.218136",
                 "lastscrape": "2022-08-24 13:04:21.218125",
                 "enabled": false
+            },
+            {
+                "fqdn": "7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion",
+                "title": null,
+                "version": 3,
+                "slug": "http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion/board/victim_list/",
+                "available": false,
+                "delay": null,
+                "updated": null,
+                "lastscrape": "2021-05-01 00:00:00.000000",
+                "enabled": true
             }
         ],
         "profile": []

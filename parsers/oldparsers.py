@@ -682,7 +682,7 @@ def main():
     nefilim()    
     mountlocker()    
     babuk()    
-    ransomexx()    
+    #ransomexx()    
     pay2key()    
     azroteam()    
     lockdata()    
