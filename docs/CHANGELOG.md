@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+### 2023-02-26 
+
+* Use published date instead of discovered date when possible 
+* Add a new parser for [RansomExx](profiles/ransomexx.md) group 
+* Add a new url for [IceFire](profiles/icefire.md) group
+
 ### 2023-02-14 💘 
 
 * Add published date for [Medusa](profiles/medusa.md) group in json file 
