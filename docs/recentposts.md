@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -204,6 +205,5 @@
 | 2023-02-03 | [`redfordpd.com`](https://google.com/search?q=redfordpd.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-03 | [`Elektro Richter`](https://google.com/search?q=Elektro+Richter) | [medusa](profiles.md?id=medusa) |
 | 2023-02-03 | [`Elim Clinic`](https://google.com/search?q=Elim+Clinic) | [medusa](profiles.md?id=medusa) |
-| 2023-02-03 | [`PFA Systems`](https://google.com/search?q=PFA+Systems) | [medusa](profiles.md?id=medusa) |
 
-Last update : _Monday 27/02/2023 07.16 (UTC)_
+Last update : _Monday 27/02/2023 09.13 (UTC)_
