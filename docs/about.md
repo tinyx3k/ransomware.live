@@ -69,7 +69,7 @@ Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon 
 
 I'm **Julien Mousqueton**
 
-- I'm **CTO** in Cyber Security 🛡 @ [Computacenter](https://www.computacenter.com) 🇫🇷
+- I'm **CTO** in Cyber Security 🛡 
 - I'm a **lecturer** 🎓 in Cyber Security @ [Ecole 2600](https://www.ecole2600.com) 🏴‍☠️
 - I'm a **blogger** ✍🏻 at [julien.io](https://julien.io) in french 🇫🇷 
 
