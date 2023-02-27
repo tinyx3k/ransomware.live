@@ -206,4 +206,4 @@
 | 2023-02-06 | [`etbrick.com`](https://google.com/search?q=etbrick.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`El-Mohandes`](https://google.com/search?q=El-Mohandes) | [alphv](profiles.md?id=alphv) |
 
-Last update : _Monday 27/02/2023 21.09 (UTC)_
+Last update : _Monday 27/02/2023 23.34 (UTC)_

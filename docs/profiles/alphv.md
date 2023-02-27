@@ -34,9 +34,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| [`thinkwelty.com`](https://thinkwelty.com/) | 26/02/2023 | We are Welty Building Company and we Build to Last. Headquartered in Akron, Ohio and working nationally, Welty has been serving the construction needs of clients throughout Ohio for over 75 years.
-At Welty we bring an emotional intelligence to our work that is unlike anything else in the construction industry. Our approach is founded on a willingness to defy doing things the way they have always been done in favor of doing what is the smartest, most efficient, most sustainable and ultimately the most beneficial for our customer and the community they serve.
-We call it “Thinking Welty” and it means we are never afraid to do what is right. |
+| [`thinkwelty.com`](https://thinkwelty.com/) | 26/02/2023 | We are Welty Building Company and we Build to Last. Headquartered in Akron, Ohio and working nationally, Welty has been serving the construction needs of clients throughout Ohio for over 75 years.At Welty we bring an emotional intelligence to our work that is unlike anything else in the construction industry. Our approach is founded on a willingness to defy doing things the way they have always been done in favor of doing what is the smartest, most efficient, most sustainable and ultimately the most beneficial for our customer and the community they serve. We call it “Thinking Welty” and it means we are never afraid to do what is right. |
 | [`Smarter Capital`](http://smartercapital.net) | 24/02/2023 | Smarter Capital is keen to spawn the next generation of technology companies and innovators. Smarter Capital collaborates with executives, mentors, other financial investors and industry particpants to create significant value. |
 | [`The Keen Group`](https://www.thekeengroup.co.uk/) | 23/02/2023 | A little about us - The Keen Group provides a professional, licensed, hassle-free minicab &amp; courier service across south London |
 | [`Glovers Solicitors LLP`](https://www.glovers.co.uk) | 23/02/2023 | Glovers was founded as Glover &amp; Co in Mayfair in 1932 by Sir Gerald Glover, a prominent and respected Central London property developer and solicitor.
@@ -82,15 +80,9 @@ Revenue: $472.4M
 Linkedin: http://www.linkedin.com/company/prestige-maintenance-usa
 Facebook: http://www.facebook.com/pmusa76
 Twitter: http://www.twitter.com/prestige_m_usa |
-| [`EncinoEnergy`](https://www.encinoenergy.com/) | 22/02/2023 | Encino Energy is one of the largest private natural gas and oil producers in the U.S. and a top 25 North American natural gas producer. While headquartered in Houston, our operations in the prolific Northern Utica Shale make us the largest oil producer in Ohio and the second-largest natural gas producer in the state.
-
-But beyond our day-to-day operations, we are a company dedicated to our values of results, transparency, innovation, ownership, and sustainability. These foundational values guide our employees and make us who we are. Encino Energy’s proven management team is deeply committed to our people, and we are fully invested in the communities we call home.
-
-Encino Energy is committed to doing the right things for the right reasons while never losing sight of safety and sustainability. We focus on the long-term, which means sustainable, safe, and environmentally conscious operations, and carefully managed risks. |
+| [`EncinoEnergy`](https://www.encinoenergy.com/) | 22/02/2023 | Encino Energy is one of the largest private natural gas and oil producers in the U.S. and a top 25 North American natural gas producer. While headquartered in Houston, our operations in the prolific Northern Utica Shale make us the largest oil producer in Ohio and the second-largest natural gas producer in the state.But beyond our day-to-day operations, we are a company dedicated to our values of results, transparency, innovation, ownership, and sustainability. These foundational values guide our employees and make us who we are. Encino Energy’s proven management team is deeply committed to our people, and we are fully invested in the communities we call home.Encino Energy is committed to doing the right things for the right reasons while never losing sight of safety and sustainability. We focus on the long-term, which means sustainable, safe, and environmentally conscious operations, and carefully managed risks. |
 | [`City of Lakewood`](https://cityoflakewood.us/) | 22/02/2023 | Lakewood is a city in Pierce County, Washington, United States. The population was 63,612 at the 2020 census. |
-| [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://www.futurebuildings.com) | 21/02/2023 | Who is Future Buildings
-
-Future Buildings is a family owned and operated company that takes pride in providing customers with steel buildings
+| [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://www.futurebuildings.com) | 21/02/2023 | Who is Future Buildings Future Buildings is a family owned and operated company that takes pride in providing customers with steel buildings
 
 Home Improvement &amp; Hardware Retail · Canada · 132 Employees 
 
@@ -390,4 +382,4 @@ Twitter: http://www.twitter.com/futuresteel |
  --- 
 
 
-Last update : _Monday 27/02/2023 21.09 (UTC)_
+Last update : _Monday 27/02/2023 23.34 (UTC)_

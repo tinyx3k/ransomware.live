@@ -10,6 +10,7 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 27/02/2023 20:52 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 19 posts found
@@ -18,9 +19,7 @@ _Parser : `Not available`_
 |---|---|---|
 | [`Moose, Martin, Haynes & Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26+Lundy) | 22/02/2023 | For years, Moose, Martin, Haynes & Lundy, P.A. has been providing quality, personalized financial guidance to local individuals and businesses. Our expertise ranges from basic tax management and accounting services to more in-depth services such as audits, financia |
 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | 22/02/2023 | RAYAB Consulting Engineers Company was founded in 1984. Taking advantage of hundreds of experienced experts’ cooperation , know – how and scientific experiences, the company has studied , designed and supervised, water and water transmission infrastructural projects, consulting and studying services for potable, agricultural and industrial water consumption, urban and industrial water distribution and wastewater collecting and disposal networks, water and wastewater treatment plants, environmental and health services and water resources conservation as large and small projects throughout Iran In addition to offices in Tehran, it has offices in Isfahan , Ghazvin, Takestan, Gorgan, Karaj, Ghom, Kashan, Delijan, Malayer , Ilaam , Ahwaz, Dezful, Babolsar, Bojnourd, Mashhad, Esfarayen, Kashmar, Birjand, Bandarabbas, Sirjan and Sare – Pole – Zahab |
-| [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | 19/02/2023 | New York,  374 Employees. 
-
-The International Center of Photography is the world's leading institution dedicated to photography and visual culture. Cornell Capa founded ICP in 1974 to champion "concerned photography"-socially and politically minded images that can educate and change the world |
+| [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | 19/02/2023 | New York,  374 Employees. The International Center of Photography is the world's leading institution dedicated to photography and visual culture. Cornell Capa founded ICP in 1974 to champion "concerned photography"-socially and politically minded images that can educate and change the world |
 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | 17/02/2023 | Automotive Parts · North Carolina, United States AP® Emissions Technologies is one of the leading manufacturers and suppliers of automotive, light truck, and heavy-duty exhaust and emissions products under the AP®, DuraFit®, Eastern Catalytic®, CATCO ®, ANSA®, Cherry Bomb®, DieselTech™, DuraFit™, Maremont®, XLERA and much more. |
 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | 16/02/2023 | The best of East and West - that is the strength of Foamtec International. Combining Western cutting edge technology with Eastern traditions of dedicated customer service, Foamex Asia was established in 1997 as a joint venture between Foamex International Inc. |
 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | 15/02/2023 | PetroChina Indonesia is a company that operates in the Oil & Energy industry. It employs 251-500 people and has $25M-$50M of revenue. The company is headquartered in Jakarta, Jakarta, Indonesia |
@@ -41,4 +40,4 @@ The International Center of Photography is the world's leading institution dedic
  --- 
 
 
-Last update : _Monday 27/02/2023 21.09 (UTC)_
+Last update : _Monday 27/02/2023 23.34 (UTC)_
