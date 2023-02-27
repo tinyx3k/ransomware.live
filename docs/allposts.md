@@ -1,6 +1,6 @@
 
 
-_All `5229` posts_
+_All `5236` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,13 @@ _All `5229` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](profiles.md?id=vendetta) |
+| 2023-02-27 | [`moci.gov.kw`](https://google.com/search?q=moci.gov.kw) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`bocca-sacs.com`](https://google.com/search?q=bocca-sacs.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`wcso.us`](https://google.com/search?q=wcso.us) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-24 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](profiles.md?id=alphv) |
 | 2023-02-26 | [`thinkwelty.com`](https://google.com/search?q=thinkwelty.com) | [alphv](profiles.md?id=alphv) |
@@ -5239,4 +5246,4 @@ _All `5229` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 27/02/2023 09.13 (UTC)_
+Last update : _Monday 27/02/2023 11.36 (UTC)_
