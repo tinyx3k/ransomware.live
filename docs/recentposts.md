@@ -5,11 +5,13 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-02-28 | [`lsa-international.com`](https://google.com/search?q=lsa-international.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`ilfsindia.com`](https://google.com/search?q=ilfsindia.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](profiles.md?id=snatch) |
 | 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](profiles.md?id=snatch) |
 | 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-27 | [`Coole Bevis Solicitors`](https://google.com/search?q=Coole+Bevis+Solicitors) | [alphv](profiles.md?id=alphv) |
 | 2023-02-27 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | [vendetta](profiles.md?id=vendetta) |
 | 2023-02-27 | [`moci.gov.kw`](https://google.com/search?q=moci.gov.kw) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`wsisd.com`](https://google.com/search?q=wsisd.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -18,6 +20,7 @@
 | 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-26 | [`INDIKA ENERGY GLOBAL`](https://google.com/search?q=INDIKA+ENERGY+GLOBAL) | [alphv](profiles.md?id=alphv) |
 | 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
@@ -202,8 +205,5 @@
 | 2023-02-06 | [`jams.edu.jo`](https://google.com/search?q=jams.edu.jo) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`nicklaus.com`](https://google.com/search?q=nicklaus.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-06 | [`prlabs.com`](https://google.com/search?q=prlabs.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`wcinet.com`](https://google.com/search?q=wcinet.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`crispinvalve.com`](https://google.com/search?q=crispinvalve.com) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-06 | [`etbrick.com`](https://google.com/search?q=etbrick.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Tuesday 28/02/2023 07.13 (UTC)_
+Last update : _Tuesday 28/02/2023 09.12 (UTC)_
