@@ -5,12 +5,15 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-01 | [`Vesuvius`](https://google.com/search?q=Vesuvius) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-03-01 | [`tjel.net`](https://google.com/search?q=tjel.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-01 | [`egas.no`](https://google.com/search?q=egas.no) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-01 | [`Kenya Airports Authority`](https://google.com/search?q=Kenya+Airports+Authority) | [medusa](profiles.md?id=medusa) |
 | 2023-03-01 | [`hico-ics.com`](https://google.com/search?q=hico-ics.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-01 | [`laxmi.com`](https://google.com/search?q=laxmi.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`hafele.com`](https://google.com/search?q=hafele.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`indigo.ca`](https://google.com/search?q=indigo.ca) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-02-28 | [`Kimko Realty`](https://google.com/search?q=Kimko+Realty) | [alphv](profiles.md?id=alphv) |
 | 2023-02-28 | [`globalcommunities.org`](https://google.com/search?q=globalcommunities.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`cobcreditunion.com`](https://google.com/search?q=cobcreditunion.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-28 | [`wmich.edu`](https://google.com/search?q=wmich.edu) | [lockbit3](profiles.md?id=lockbit3) |
@@ -202,8 +205,5 @@
 | 2023-02-08 | [`Trendsetter Engineering`](https://google.com/search?q=Trendsetter+Engineering) | [royal](profiles.md?id=royal) |
 | 2023-02-08 | [`transports-feuillet.fr`](https://google.com/search?q=transports-feuillet.fr) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-07 | [`Penn Power Group`](https://google.com/search?q=Penn+Power+Group) | [blackbyte](profiles.md?id=blackbyte) |
-| 2023-02-07 | [`cantinatollo.it`](https://google.com/search?q=cantinatollo.it) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-07 | [`The DGCX`](https://google.com/search?q=The+DGCX) | [ransomhouse](profiles.md?id=ransomhouse) |
-| 2023-02-07 | [`royalmailgroup.com`](https://google.com/search?q=royalmailgroup.com) | [lockbit3](profiles.md?id=lockbit3) |
 
-Last update : _Wednesday 01/03/2023 09.14 (UTC)_
+Last update : _Wednesday 01/03/2023 11.17 (UTC)_
