@@ -144,10 +144,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 299 posts found
+> 300 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Traffic Ticket Office`](https://www.trafficticketoffice.com/) | 01/03/2023 | Since 1993, the Traffic Ticket Office, has successfully been serving clients in Miami and South Florida with their civil and criminal traffic violations. Hundreds of thousands of cases have been handled by our experienced and reputable attorneys. We are able to offer our clients the benefits of saving time and money, preserving their driving rights and preventing the accumulation of points on their records. Most often, we have managed to do this without requiring a personal court appearance by the client. |
 | [`Kimko Realty`](https://kimcorealty.com) | 28/02/2023 | Kimco Realty® (NYSE:KIM) is a real estate investment trust (REIT) headquartered in Jericho, N.Y. that is North America’s largest publicly traded owner and operator of open-air, grocery-anchored shopping centers, and a growing portfolio of mixed-use assets. The company’s portfolio is primarily concentrated in the first-ring suburbs of the top major metropolitan markets, including those in high-barrier-to-entry coastal markets and rapidly expanding Sun Belt cities, with a tenant mix focused on essential, necessity-based goods and services that drive multiple shopping trips per week. |
 | [`Coole Bevis Solicitors`](https://coolebevislaw.com/) | 27/02/2023 | At Coole Bevis LLP Solicitors, we understand that life is a journey, with many twists and turns along the way. Our team of specialist solicitors, legal executives, consultants and support staff are right there with you, helping you to navigate the good and bad times. There’s a reason we’re the law firm of choice in Sussex and beyond. |
 | [`INDIKA ENERGY GLOBAL`](https://www.indikaenergy.co.id) | 26/02/2023 | Over 15 Indonesian companies were hacked. |
@@ -5595,6 +5596,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 01/03/2023 10:57 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 20 posts found
@@ -8454,4 +8456,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 01/03/2023 11.17 (UTC)_
+Last update : _Wednesday 01/03/2023 13.21 (UTC)_
