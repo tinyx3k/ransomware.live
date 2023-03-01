@@ -45,7 +45,7 @@
 | [clop](profiles.md?id=clop) |  | 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |  | 
 | [clop](profiles.md?id=clop) | HOME - CL0P^_- LEAKS | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 | [conti](profiles.md?id=conti) | CONTI.News | 🔴 | 2022-06-22 | continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion |  | 
-| [conti](profiles.md?id=conti) |  | 🟢 |  | continews.click | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| [conti](profiles.md?id=conti) | continews.click | 🟢 |  | continews.click | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
 | [conti](profiles.md?id=conti) | Error Response Page | 🔴 | 2022-11-23 | continews.bz |  | 
 | [cooming](profiles.md?id=cooming) | CoomingProject announcement | 🔴 | 2022-02-04 | z6mikrtphid5fmn52nbcbg25tj57sowlm3oc25g563yvsfmygkcxqbyd.onion |  | 
 | [cooming](profiles.md?id=cooming) |  | 🔴 | 2021-05-01 | teo7aj5mfgzxyeme.onion |  | 
@@ -89,7 +89,7 @@
 | [hotarus](profiles.md?id=hotarus) | Hotarus Corp | 🔴 | 2021-10-22 | r6d636w47ncnaukrpvlhmtdbvbeltc6enfcuuow3jclpmyga7cz374qd.onion |  | 
 | [icefire](profiles.md?id=icefire) | Leakage List | 🔴 | 2022-08-24 | kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion |  | 
 | [icefire](profiles.md?id=icefire) | Leakage List | 🟢 |  | 7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion | <a href="https://www.ransomware.live/screenshots/7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd-onion.png" target=_blank>📸</a> | 
-| [karakurt](profiles.md?id=karakurt) | Chat | 🔴 | 2023-03-01 | omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
+| [karakurt](profiles.md?id=karakurt) | Chat | 🟢 |  | omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
 | [karakurt](profiles.md?id=karakurt) | Magazine | 🟢 |  | 3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | [karakurt](profiles.md?id=karakurt) |  | 🔴 | 2021-05-01 | karaleaks.com |  | 
 | [karma](profiles.md?id=karma) | Karma Leaks | 🔴 | 2021-11-05 | 3nvzqyo6l4wkrzumzu5aod7zbosq4ipgf7ifgj3hsvbcr5vcasordvqd.onion |  | 
@@ -169,7 +169,7 @@
 | [monti](profiles.md?id=monti) | 404 Not Found | 🔴 | 2022-10-10 | 4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion |  | 
 | [monti](profiles.md?id=monti) | MONTI - Leaks site | 🟢 |  | mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
 | [mosesstaff](profiles.md?id=mosesstaff) |  | 🔴 | 2021-05-01 | mosesstaffm7hptp.onion |  | 
-| [mosesstaff](profiles.md?id=mosesstaff) | Activities – Moses Staff | 🔴 | 2023-03-01 | moses-staff.se | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
+| [mosesstaff](profiles.md?id=mosesstaff) | Activities – Moses Staff | 🟢 |  | moses-staff.se | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
 | [mount-locker](profiles.md?id=mount-locker) |  | 🔴 | 2021-05-01 | mountnewsokhwilx.onion |  | 
 | [mydecryptor](profiles.md?id=mydecryptor) |  | 🔴 | 2021-05-01 | 5s4ixqul2enwxrqv.onion |  | 
 | [n3tworm](profiles.md?id=n3tworm) |  | 🔴 | 2021-05-01 | n3twormruynhn3oetmxvasum2miix2jgg56xskdoyihra4wthvlgyeyd.onion |  | 
@@ -177,7 +177,7 @@
 | [nemty](profiles.md?id=nemty) |  | 🔴 | 2021-05-01 | zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion |  | 
 | [netwalker](profiles.md?id=netwalker) |  | 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |  | 
 | [nevada](profiles.md?id=nevada) | Error | 🔴 | 2023-02-12 | nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion |  | 
-| [nevada](profiles.md?id=nevada) | NEVADA | 🔴 | 2023-03-01 | nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
+| [nevada](profiles.md?id=nevada) | NEVADA | 🟢 |  | nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
 | [nightsky](profiles.md?id=nightsky) | Night Sky | 🔴 | 2022-01-25 | gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |  | 
 | [nokoyawa](profiles.md?id=nokoyawa) | NOKOYAWA Leaks | 🔴 | 2022-07-11 | lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion |  | 
 | [nokoyawa](profiles.md?id=nokoyawa) | NOKOYAWA Leaks | 🔴 | 2023-01-25 | 6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion | <a href="https://www.ransomware.live/screenshots/6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd-onion.png" target=_blank>📸</a> | 
@@ -187,8 +187,8 @@
 | [pandora](profiles.md?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |  | 
 | [pay2key](profiles.md?id=pay2key) | Pay2Key Leak Directory! | 🔴 | 2022-03-15 | pay2key2zkg7arp3kv3cuugdaqwuesifnbofun4j6yjdw5ry7zw2asid.onion |  | 
 | [payloadbin](profiles.md?id=payloadbin) | Payload.bin | 🔴 | 2022-08-28 | vbmisqjshn4yblehk2vbnil53tlqklxsdaztgphcilto3vdj4geao5qd.onion |  | 
-| [play](profiles.md?id=play) | PLAY NEWS | 🟢 |  | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| [play](profiles.md?id=play) | PLAY NEWS | 🔴 | 2023-03-01 | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| [play](profiles.md?id=play) | PLAY NEWS | 🔴 | 2023-03-01 | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| [play](profiles.md?id=play) | PLAY NEWS | 🟢 |  | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 | [projectrelic](profiles.md?id=projectrelic) | Project Relic. Dumps, leaks, news, announcements | 🟢 |  | relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
 | [prolock](profiles.md?id=prolock) |  | 🔴 | 2021-05-01 | msaoyrayohnp32tcgwcanhjouetb5k54aekgnwg7dcvtgtecpumrxpqd.onion |  | 
 | [prometheus](profiles.md?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |  | 
@@ -206,7 +206,7 @@
 | [ramp](profiles.md?id=ramp) |  | 🔴 | 2021-05-01 | wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion |  | 
 | [ramp](profiles.md?id=ramp) | Log in - RAMP | 🟢 |  | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
 | [ramp](profiles.md?id=ramp) |  | 🔴 | 2021-05-01 | ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion |  | 
-| [ranion](profiles.md?id=ranion) |  | 🟢 |  | ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
+| [ranion](profiles.md?id=ranion) |  | 🔴 | 2023-03-01 | ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
 | [ransomcartel](profiles.md?id=ransomcartel) | Ransomware - Control Panel | 🔴 | 2022-03-03 | u67aylig7i6l657wxmp274eoilaowhp3boljowa6bli63rxyzfzsbtyd.onion |  | 
 | [ransomcartel](profiles.md?id=ransomcartel) |  | 🔴 | 2021-05-01 | cartelirsn5l54ehcbalyyqtfb3j7be2rpvf6ujayaf5qqmg3vlwiayd.onion |  | 
 | [ransomcartel](profiles.md?id=ransomcartel) | Ransom Cartel | 🔴 | 2023-01-19 | cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id.onion | <a href="https://www.ransomware.live/screenshots/cartelraqonekult2cxbzzz2ukiff7v6cav3w373uuhenybgqulxm5id-onion.png" target=_blank>📸</a> | 
@@ -241,7 +241,7 @@
 | [unknown](profiles.md?id=unknown) |  | 🔴 | 2021-05-01 | tdoe2fiiamwkiadhx2a4dfq56ztlqhzl2vckgwmjtoanfaya4kqvvvyd.onion |  | 
 | [unknown](profiles.md?id=unknown) |  | 🔴 | 2021-05-01 | darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion |  | 
 | [unsafe](profiles.md?id=unsafe) | Home - UnSafeBlog | 🟢 |  | unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion | <a href="https://www.ransomware.live/screenshots/unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd-onion.png" target=_blank>📸</a> | 
-| [vendetta](profiles.md?id=vendetta) | Vendetta | 🟢 |  | test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| [vendetta](profiles.md?id=vendetta) | Vendetta | 🔴 | 2023-03-01 | test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 | [vfokx](profiles.md?id=vfokx) |  | 🔴 | 2021-05-01 | vfokxcdzjbpehgit223vzdzwte47l3zcqtafj34qrr26htjo4uf3obid.onion |  | 
 | [vfokx](profiles.md?id=vfokx) |  | 🔴 | 2021-05-01 | 746pbrxl7acvrlhzshosye3b3udk4plurpxt2pp27pojfhkkaooqiiqd.onion |  | 
 | [vicesociety](profiles.md?id=vicesociety) |  | 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |  | 
@@ -276,7 +276,7 @@
 | [bluesky](profiles.md?id=bluesky) | BlueSky DECRYPTOR | ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
 | [chilelocker](profiles.md?id=chilelocker) | Login | z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
 | [clop](profiles.md?id=clop) | HOME - CL0P^_- LEAKS | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
-| [conti](profiles.md?id=conti) |  | continews.click | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| [conti](profiles.md?id=conti) | continews.click | continews.click | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
 | [cuba](profiles.md?id=cuba) | Cuba | cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 | [daixin](profiles.md?id=daixin) | Data Leak | 7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
 | [darkleakmarket](profiles.md?id=darkleakmarket) | Dark Leak Market | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion | <a href="https://www.ransomware.live/screenshots/darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid-onion.png" target=_blank>📸</a> | 
@@ -284,6 +284,7 @@
 | [dread](profiles.md?id=dread) | Dread Network Status | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion | <a href="https://www.ransomware.live/screenshots/dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad-onion.png" target=_blank>📸</a> | 
 | [everest](profiles.md?id=everest) | Everest Ransomware Group | ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
 | [icefire](profiles.md?id=icefire) | Leakage List | 7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion | <a href="https://www.ransomware.live/screenshots/7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd-onion.png" target=_blank>📸</a> | 
+| [karakurt](profiles.md?id=karakurt) | Chat | omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
 | [karakurt](profiles.md?id=karakurt) | Magazine | 3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | [kelvinsecurity](profiles.md?id=kelvinsecurity) | Error | kelvinsecteamcyber.wixsite.com | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
 | [lockbit3](profiles.md?id=lockbit3) | LockBit BLOG | lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
@@ -310,13 +311,14 @@
 | [medusa](profiles.md?id=medusa) | Medusa Blog | medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 | [medusalocker](profiles.md?id=medusalocker) | Ransomware blog – We will not give ourselves a nam | z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 | [monti](profiles.md?id=monti) | MONTI - Leaks site | mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
-| [play](profiles.md?id=play) | PLAY NEWS | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| [mosesstaff](profiles.md?id=mosesstaff) | Activities – Moses Staff | moses-staff.se | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
+| [nevada](profiles.md?id=nevada) | NEVADA | nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
+| [play](profiles.md?id=play) | PLAY NEWS | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 | [projectrelic](profiles.md?id=projectrelic) | Project Relic. Dumps, leaks, news, announcements | relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
 | [qilin](profiles.md?id=qilin) | Qilin blog | kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 | [quantum](profiles.md?id=quantum) | Quantum Blog | quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
 | [ragnarlocker](profiles.md?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
 | [ramp](profiles.md?id=ramp) | Log in - RAMP | rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
-| [ranion](profiles.md?id=ranion) |  | ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
 | [ransomexx](profiles.md?id=ransomexx) | ransomexx2 | rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 | [ransomhouse](profiles.md?id=ransomhouse) |  | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | [robinhood](profiles.md?id=robinhood) | Today on Tumblr | robinhoodleaks.tumblr.com | <a href="https://www.ransomware.live/screenshots/robinhoodleaks-tumblr-com.png" target=_blank>📸</a> | 
@@ -326,7 +328,6 @@
 | [snatch](profiles.md?id=snatch) | News | hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
 | [suncrypt](profiles.md?id=suncrypt) | News | x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
 | [unsafe](profiles.md?id=unsafe) | Home - UnSafeBlog | unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion | <a href="https://www.ransomware.live/screenshots/unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd-onion.png" target=_blank>📸</a> | 
-| [vendetta](profiles.md?id=vendetta) | Vendetta | test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 | [vicesociety](profiles.md?id=vicesociety) | Vice Society - Official Site | vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | [vicesociety](profiles.md?id=vicesociety) | Vice Society - Official Site | wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
 | [vicesociety](profiles.md?id=vicesociety) | Vice Society - Official Site | ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
