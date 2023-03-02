@@ -16,7 +16,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🟢 | 02/03/2023 07:14 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
+| ransomexx2 | 🟢 | 02/03/2023 09:09 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -24,10 +24,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 42 posts found
+> 43 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | 02/03/2023 | Lo Studio BETTUZZI & PARTNERS - Dottori Commercialisti è stato fondato dal dott. Alvaro Bettuzzi, nell'anno 2005, dopo aver maturato significative esperienze nello svolgimento della professione di dottore commercialista. Oltre al contributo del fondatore, lo Studio si avvale della collaborazione di altri dottori commercialisti, di esperti professionisti in altre discipline, di docenti universitari e di specialisti in varie aree della consulenza, soprattutto in materia legale e fiscale, in ambito sia nazionale che internazionale. |
 | [`BULOG`](https://google.com/search?q=BULOG) | 22/02/2023 | BULOG adalah perusahaan umum milik negara yang bergerak di bidang logistik pangan. |
 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 | REC Silicon is a global leader in silane-based, high-purity silicon materials. |
 | [`Unimed Belem`](https://google.com/search?q=Unimed+Belem) | 19/10/2022 | A Unimed é a maior realidade cooperativista na área da saúde em todo o mundo e também a maior rede de assistência médica do Brasil, presente em 83% do território nacional. O Sistema nasceu com a fundação da Unimed Santos (SP) pelo Dr. Edmundo Castilho, em 1967, e hoje é composto por 368 cooperativas médicas, que prestam assistência para mais de 19 milhões de clientes e 73 mil empresas em todo País. Clientes Unimed contam com mais de 110 mil médicos, 3.244 hospitais credenciados, além de pronto-atendimentos, laboratórios, ambulâncias e hospitais próprios e credenciados para garantir qualidade na assistência médica, hospitalar e de diagnóstico complementar oferecidos. |
@@ -74,4 +75,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 02/03/2023 07.39 (UTC)_
+Last update : _Thursday 02/03/2023 09.21 (UTC)_
