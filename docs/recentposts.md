@@ -5,6 +5,7 @@
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](profiles.md?id=play) |
 | 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) |
 | 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) |
@@ -204,6 +205,5 @@
 | 2023-02-09 | [`Diethelm Keller Aviation Pte Ltd `](https://google.com/search?q=Diethelm+Keller+Aviation+Pte+Ltd+) | [medusa](profiles.md?id=medusa) |
 | 2023-02-09 | [`arcessex.org`](https://google.com/search?q=arcessex.org) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-02-09 | [`phihong.com.tw`](https://google.com/search?q=phihong.com.tw) | [lockbit3](profiles.md?id=lockbit3) |
-| 2023-02-09 | [`Mount Saint Mary College`](https://google.com/search?q=Mount+Saint+Mary+College) | [vicesociety](profiles.md?id=vicesociety) |
 
-Last update : _Thursday 02/03/2023 23.20 (UTC)_
+Last update : _Friday 03/03/2023 04.27 (UTC)_
