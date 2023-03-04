@@ -14,6 +14,10 @@
 | 2023-03-03 | [`M**** M************`](https://google.com/search?q=M%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-03-03 | [`Parques Reunidos`](https://google.com/search?q=Parques+Reunidos) | [bianlian](profiles.md?id=bianlian) |
 | 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](profiles.md?id=play) |
+| 2023-03-02 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) |
+| 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) |
+| 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |
+| 2023-03-02 | [`SkyFiber Networks`](https://google.com/search?q=SkyFiber+Networks) | [alphv](profiles.md?id=alphv) |
 | 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) |
 | 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) |
@@ -201,9 +205,5 @@
 | 2023-02-11 | [`Memtech Acoustical`](https://google.com/search?q=Memtech+Acoustical) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Global Mining Products`](https://google.com/search?q=Global+Mining+Products) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Buckeye Packaging`](https://google.com/search?q=Buckeye+Packaging) | [avoslocker](profiles.md?id=avoslocker) |
-| 2023-02-11 | [`Wesco Turf`](https://google.com/search?q=Wesco+Turf) | [avoslocker](profiles.md?id=avoslocker) |
-| 2023-02-11 | [`CannonDesign`](https://google.com/search?q=CannonDesign) | [avoslocker](profiles.md?id=avoslocker) |
-| 2023-02-11 | [`Schandy`](https://google.com/search?q=Schandy) | [avoslocker](profiles.md?id=avoslocker) |
-| 2023-02-11 | [`Ultralife Corporation`](https://google.com/search?q=Ultralife+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Saturday 04/03/2023 09.23 (UTC)_
+Last update : _Saturday 04/03/2023 11.24 (UTC)_
