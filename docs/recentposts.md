@@ -206,4 +206,4 @@
 | 2023-02-11 | [`Schandy`](https://google.com/search?q=Schandy) | [avoslocker](profiles.md?id=avoslocker) |
 | 2023-02-11 | [`Ultralife Corporation`](https://google.com/search?q=Ultralife+Corporation) | [avoslocker](profiles.md?id=avoslocker) |
 
-Last update : _Saturday 04/03/2023 07.20 (UTC)_
+Last update : _Saturday 04/03/2023 09.23 (UTC)_
