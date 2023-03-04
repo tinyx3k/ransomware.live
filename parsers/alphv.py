@@ -32,7 +32,7 @@ def main():
                                 description = entry['publication']['description'].strip()
                                 # description = entry['publication']['description'].strip()
                                 website = entry['publication']['url'].strip()
-                            parse.appender(title, 'alphv', description, website, published)
+                            parse.appender(title, 'alphv', description.replace('\n',' '), website, published)
                         file.close()
                 else: 
                     stdlog('alphv : Parse ' +  'html file')
