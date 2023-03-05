@@ -675,7 +675,7 @@ def main():
     arvinclub()    
     avaddon()    
     xinglocker()    
-    ragnarlocker()      
+    # ragnarlocker()      
     revil()
     conti()    
     pysa()    
