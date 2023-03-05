@@ -254,8 +254,8 @@ def recentpage():
     writeline(recentpage,'')
     writeline(recentpage, '**📰 200 last posts**')
     writeline(recentpage, '')
-    writeline(recentpage, '| Date | Title | Group |')
-    writeline(recentpage, '|---|---|---|')
+    writeline(recentpage, '| Date | Title | Group | 📸 |')
+    writeline(recentpage, '|---|---|---|---|')
     for post in recentposts(fetching_count):
         # show friendly date for discovered
         date = post['published'].split(' ')[0]
@@ -264,7 +264,19 @@ def recentpage():
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
         grouplink = '[' + group + '](profiles.md?id=' + group + ')'
-        line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
+        if post['post_url'] == '': 
+            # screenpost='❌'
+            screenpost=' '
+        else: 
+            # Create an MD5 hash object
+            hash_object = hashlib.md5()
+            # Update the hash object with the string
+            hash_object.update(post['post_url'].encode('utf-8'))
+            # Get the hexadecimal representation of the hash
+            hex_digest = hash_object.hexdigest()
+            if os.path.exists('docs/screenshots/posts/'+hex_digest+'.png'):
+                screenpost='<a href="https://www.ransomware.live/screenshots/posts/' + hex_digest + '.png" target=_blank>📸</a>'
+        line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' | ' + screenpost + ' |'
         writeline(recentpage, line)
     writeline(recentpage, '')
     writeline(recentpage, 'Last update : _'+ NowTime.strftime('%A %d/%m/%Y %H.%M') + ' (UTC)_')
