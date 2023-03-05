@@ -31,7 +31,7 @@ def main():
                     url = parts[1].replace('.html','')
                     link = 'http://' + url + '.onion/' + link 
                     description = div.find('div', {'class': 'a-b-text'}).text.strip()
-                    appender(title, 'snatch2', description,"",published,link.replace('\'',''))
+                    appender(title, 'snatch', description,"",published,link.replace('\'',''))
                 file.close()
         except:
             errlog('snatch: ' + 'parsing fail')
