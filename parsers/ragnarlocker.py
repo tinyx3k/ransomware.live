@@ -36,7 +36,7 @@ def main():
                     url = parts[1].replace('.html','')
                     link = 'http://' + url + '.onion/?' + element['link']
                     published = datetime.datetime.fromtimestamp(int(element['timestamp'])).strftime('%Y-%m-%d %H:%M:%S.%f')
-                    appender(title, 'ragnarlocker2',"", "", published,link)
+                    appender(title, 'ragnarlocker',"", "", published,link)
                 file.close()
         except:
             errlog('ragnarlocker: ' + 'parsing fail')
