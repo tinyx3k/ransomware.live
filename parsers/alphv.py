@@ -1,3 +1,12 @@
+"""
++------------------------------+------------------+----------+
+| Description | Published Date | Victim's Website | Post URL |
++------------------------------+------------------+----------+
+|      X      |        X       |          X       |     X    |
++------------------------------+------------------+----------+
+Rappel : def appender(post_title, group_name, description="", website="", published="", post_url=""):
+"""
+
 import os
 from bs4 import BeautifulSoup
 import json,re
@@ -21,6 +30,9 @@ def main():
                         data = json.loads(jsonfile)
                         for entry in data['items']:
                             title = entry['title'].strip()
+                            parts = filename.split('-')
+                            url = parts[1].replace('.html','')
+                            post_url = 'http://' + url + '.onion/' +  entry['id'].strip() 
                             published = entry['createdDt']
                             timestamp = int(published) / 1000
                             dt_object = datetime.datetime.fromtimestamp(timestamp)
@@ -32,7 +44,7 @@ def main():
                                 description = entry['publication']['description'].strip()
                                 # description = entry['publication']['description'].strip()
                                 website = entry['publication']['url'].strip()
-                            parse.appender(title, 'alphv', description.replace('\n',' '), website, published)
+                            parse.appender(title, 'alphv', description.replace('\n',' '), website, published,post_url)
                         file.close()
                 else: 
                     stdlog('alphv : Parse ' +  'html file')
