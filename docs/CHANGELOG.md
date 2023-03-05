@@ -8,6 +8,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### 2023-03-05
 
 * Add screenshot of [Bianlian](profiles/bianlian.md) blog posts
+* Add screenshot of [Mallox](profiles/mallox.md) blog posts
+* Add screenshot of [ViceSociety](profiles/vicesociety.md) blog posts
   
 ### 2023-02-26 
 

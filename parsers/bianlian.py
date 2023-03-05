@@ -1,3 +1,12 @@
+
+"""
++------------------------------+------------------+----------+
+| Description | Published Date | Victim's Website | Post URL |
++------------------------------+------------------+----------+
+|      X      |                |                  |     X    |
++------------------------------+------------------+----------+
+"""
+
 import os
 from bs4 import BeautifulSoup
 from sharedutils import errlog
@@ -19,7 +28,7 @@ def main():
                     parts = filename.split('-')
                     url = parts[1].replace('.html','')
                     description = div.div.text.strip()
-                    appender(title, 'bianlian2', description,"","",'http://' + url + '.onion' + post)
+                    appender(title, 'bianlian', description,"","",'http://' + url + '.onion' + post)
                 file.close()
         except:
             errlog("Failed during : " + filename)

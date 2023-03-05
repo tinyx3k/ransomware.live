@@ -49,10 +49,8 @@ def screenshot(webpage,fqdn,delay=15000,output=None):
     stdlog('webshot: {}'.format(webpage))
     if output is not None:
         name = 'docs/screenshots/posts/' + output + '.png'
-        stdlog('md5 :' + output)
     else: 
         name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
-    stdlog("filename : " + name)
     try:
         with sync_playwright() as play:
                 try:
