@@ -8,6 +8,8 @@ with open('posts.json', 'r') as f:
 for item in data:
     if not item.get('published'):
         item['published'] = item.get('discovered', '')
+    if not item.get('post_url'):
+        item['post_url'] = ''
 
 # Enregistrer les modifications dans le fichier JSON
 with open('posts.json', 'w') as f:

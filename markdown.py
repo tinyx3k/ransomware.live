@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-import os
+import os, hashlib
 import re
 import time
 import urllib.parse
@@ -401,7 +401,7 @@ def profilepage():
         writeline(profilepage, '> ' + grouppostcount(group['name']))
         writeline(profilepage, '')
         if grouppostavailable(group['name']):
-            writeline(profilepage, '| post | date | Description')
+            writeline(profilepage, '| post | date | Description | Screenshot | ')
             writeline(profilepage, '|---|---|---|')
             posts = openjson('posts.json')
             sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
@@ -429,7 +429,19 @@ def profilepage():
                     date = post['published'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
-                    line = '| ' + postURL + ' | ' + date + ' | ' + description + ' |'
+                    if post['post_url'] == '': 
+                        # screenpost='❌'
+                        screenpost=' '
+                    else: 
+                        # Create an MD5 hash object
+                        hash_object = hashlib.md5()
+                        # Update the hash object with the string
+                        hash_object.update(post['post_url'].encode('utf-8'))
+                        # Get the hexadecimal representation of the hash
+                        hex_digest = hash_object.hexdigest()
+                        if os.path.exists('docs/screenshots/posts/'+hex_digest+'.png'):
+                            screenpost='<a href="https://www.ransomware.live/screenshots/posts/' + hex_digest + '.png" target=_blank>📸</a>'
+                    line = '| ' + postURL + ' | ' + date + ' | ' + description + ' | ' + screenpost + ' |'
                     writeline(profilepage, line)
         writeline(profilepage, '')
         #writeline(profilepage, '')
