@@ -1,3 +1,11 @@
+"""
++------------------------------+------------------+----------+
+| Description | Published Date | Victim's Website | Post URL |
++------------------------------+------------------+----------+
+|      X      |        X       |          X       |          |
++------------------------------+------------------+----------+
+Rappel : def appender(post_title, group_name, description="", website="", published="", post_url=""):
+"""
 import os
 from bs4 import BeautifulSoup
 import json
