@@ -30,7 +30,7 @@
 | 2023-03-02 | [`SkyFiber Networks`](https://google.com/search?q=SkyFiber+Networks) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) | <a href="https://www.ransomware.live/screenshots/posts/1c0cb8624685acdbee6d3b8a03404682.png" target=_blank>👀</a> |
 | 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) |   |
+| 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) | <a href="https://www.ransomware.live/screenshots/posts/f392fbce80940a2127bf2ff2b863ade1.png" target=_blank>👀</a> |
 | 2023-03-02 | [`O???a??`](https://google.com/search?q=O%3F%3F%3Fa%3F%3F) | [play](profiles.md?id=play) |   |
 | 2023-03-02 | [`FIMM`](https://google.com/search?q=FIMM) | [royal](profiles.md?id=royal) |   |
 | 2023-03-01 | [`Audio Video`](https://google.com/search?q=Audio+Video) | [ransomhouse](profiles.md?id=ransomhouse) |   |
@@ -56,8 +56,8 @@
 | 2023-02-28 | [`princepalace.co.th`](https://google.com/search?q=princepalace.co.th) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-28 | [`lsa-international.com`](https://google.com/search?q=lsa-international.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-28 | [`ilfsindia.com`](https://google.com/search?q=ilfsindia.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](profiles.md?id=snatch) |   |
-| 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](profiles.md?id=snatch) |   |
+| 2023-02-27 | [`Ingenico`](https://google.com/search?q=Ingenico) | [snatch](profiles.md?id=snatch) | <a href="https://www.ransomware.live/screenshots/posts/4aa2e774f4a803537127749637b0aed0.png" target=_blank>👀</a> |
+| 2023-02-27 | [`MSX International`](https://google.com/search?q=MSX+International) | [snatch](profiles.md?id=snatch) | <a href="https://www.ransomware.live/screenshots/posts/487c05943470d58c8302434dce9a5a98.png" target=_blank>👀</a> |
 | 2023-02-27 | [`rosenbauer.com`](https://google.com/search?q=rosenbauer.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`hyosung.jp`](https://google.com/search?q=hyosung.jp) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`Coole Bevis Solicitors`](https://google.com/search?q=Coole+Bevis+Solicitors) | [alphv](profiles.md?id=alphv) |   |
@@ -206,4 +206,4 @@
 | 2023-02-12 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-12 | [`Aviacode (GeBBS)`](https://google.com/search?q=Aviacode+%28GeBBS%29) | [0mega](profiles.md?id=0mega) |   |
 
-Last update : _Sunday 05/03/2023 19.17 (UTC)_
+Last update : _Sunday 05/03/2023 19.40 (UTC)_

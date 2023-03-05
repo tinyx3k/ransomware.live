@@ -7738,19 +7738,19 @@ _`Forum`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | 02/03/2023 | The Metropolitan Opera is a vibrant home for the most creative and talented singers, conductors, composers, musicians, stage directors, designers, visual artists, choreographers, and dancers from around the world. |   |
-| [`Ingenico`](https://google.com/search?q=Ingenico) | 27/02/2023 | We help you navigate a new world of commerce, in which verticalisation, expanded services, and digital players are transforming the payments landscape. We are the trusted partner of financial institutions, retail chains and small merchants alike, supplying them with simple and reliable payments solutions. |   |
-| [`MSX International`](https://google.com/search?q=MSX+International) | 27/02/2023 | For more than 25 years, we’ve been a dedicated partner to leading automotive brands around the world. We support them in transforming their businesses and in managing their operations across the areas of Customer Experience, Repair Optimization, Learning and Insights. |   |
-| [`Physician Partners of America`](https://google.com/search?q=Physician+Partners+of+America) | 12/01/2023 | Founded in 2013 by a physician-turned-entrepreneur, Physician Partners of America aims to offer patients a safe, seamless healthcare experience and doctors who can totally focus on patients. Physician Partners of America offers pain management, orthopedics, minimally invasive laser spine surgery, mental health counseling. We are |   |
+| [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | 02/03/2023 | The Metropolitan Opera is a vibrant home for the most creative and talented singers, conductors, composers, musicians, stage directors, designers, visual artists, choreographers, and dancers from around the world. | <a href="https://www.ransomware.live/screenshots/posts/f392fbce80940a2127bf2ff2b863ade1.png" target=_blank>📸</a> |
+| [`Ingenico`](https://google.com/search?q=Ingenico) | 27/02/2023 | We help you navigate a new world of commerce, in which verticalisation, expanded services, and digital players are transforming the payments landscape. We are the trusted partner of financial institutions, retail chains and small merchants alike, supplying them with simple and reliable payments solutions. | <a href="https://www.ransomware.live/screenshots/posts/4aa2e774f4a803537127749637b0aed0.png" target=_blank>📸</a> |
+| [`MSX International`](https://google.com/search?q=MSX+International) | 27/02/2023 | For more than 25 years, we’ve been a dedicated partner to leading automotive brands around the world. We support them in transforming their businesses and in managing their operations across the areas of Customer Experience, Repair Optimization, Learning and Insights. | <a href="https://www.ransomware.live/screenshots/posts/487c05943470d58c8302434dce9a5a98.png" target=_blank>📸</a> |
+| [`Physician Partners of America`](https://google.com/search?q=Physician+Partners+of+America) | 12/01/2023 | Founded in 2013 by a physician-turned-entrepreneur, Physician Partners of America aims to offer patients a safe, seamless healthcare experience and doctors who can totally focus on patients. Physician Partners of America offers pain management, orthopedics, minimally invasive laser spine surgery, mental health counseling. We are | <a href="https://www.ransomware.live/screenshots/posts/27face176c675ed0e24e87a257acbeb9.png" target=_blank>📸</a> |
 | [`Centro Turistico Giovanile`](https://google.com/search?q=Centro+Turistico+Giovanile) | 28/12/2022 | Il CTG è un' associazione nazionale senza scopo di lucro che promuove e realizza un progetto educativo e di formazione integrale della persona, attraverso momenti di crescita, di impegno e di aggregazione sociale, ispirandosi alla concezione cristiana dell'uomo e della vita, nel servizio alle persone |   |
 | [`ET GLOBAL`](https://google.com/search?q=ET+GLOBAL) | 28/12/2022 | We showcase your brands worldwide – with precision and great attention to detail. Therefore, you will find us in major cities around the world. |   |
 | [`Square Yards`](https://google.com/search?q=Square+Yards) | 28/12/2022 | Square Yards is India’s largest integrated platform for Real Estate & Mortgages and one of the fastest growing Proptech platform in UAE, Rest of Middle East, Australia & Canada. Square Yards platform offers an integrated consumer experience & covers the full real-estate journey from search |   |
 | [`TCL Chinese Theatres`](https://google.com/search?q=TCL+Chinese+Theatres) | 28/12/2022 | The TCL Chinese Theatre is the most iconic movie palace in the world. With over 50 events a year, including movie premieres, imprint ceremonies, and film festivals, the theatre continues to make Hollywood history every day. |   |
 | [`Trubee, Collins & Co`](https://google.com/search?q=Trubee%2C+Collins+%26+Co) | 28/12/2022 | Trubee, Collins & Co., Inc. is one of the oldest, independently-owned Financial Services in Western New York. Established in 1940, Trubee, Collins & Co., Inc. has earned the respect of our clients by demonstrating competence, integrity and a solid long term investment philosophy. The company |   |
 | [`Einatec`](https://google.com/search?q=Einatec) | 28/12/2022 | Nuestros equipos han desarrollado desde aplicaciones multiplataforma hasta grandes infraestructuras IT. Y nuestras mentes creativas se encargan del branding, diseño y el marketing de nuestros clientes. |   |
-| [`STGi`](https://google.com/search?q=STGi) | 28/11/2022 |   |   |
-| [`McGRATH`](https://google.com/search?q=McGRATH) | 20/11/2022 |   |   |
-| [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | 20/11/2022 |   |   |
+| [`STGi`](https://google.com/search?q=STGi) | 28/11/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/eef65b649c4a3eef0861c1e40a270936.png" target=_blank>📸</a> |
+| [`McGRATH`](https://google.com/search?q=McGRATH) | 20/11/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/2fab45ffaf724606010af89f267cc3b0.png" target=_blank>📸</a> |
+| [`SAIPRESS`](https://google.com/search?q=SAIPRESS) | 20/11/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/664f7e11fe407ba9f7437fe8288de7fe.png" target=_blank>📸</a> |
 | [`YASH Technologies`](https://google.com/search?q=YASH+Technologies) | 13/11/2022 |   |   |
 | [`Saurer`](https://google.com/search?q=Saurer) | 13/11/2022 |   |   |
 | [`Grandview, MO`](https://google.com/search?q=Grandview%2C+MO) | 01/11/2022 |   |   |
@@ -7786,7 +7786,7 @@ _`Forum`_
 | [`TUI UK`](https://google.com/search?q=TUI+UK) | 26/12/2021 |   |   |
 | [`LAVA`](https://google.com/search?q=LAVA) | 26/12/2021 |   |   |
 | [`Leuze`](https://google.com/search?q=Leuze) | 21/12/2021 |   |   |
-| [`InTown Suites`](https://google.com/search?q=InTown+Suites) | 21/12/2021 |   |   |
+| [`InTown Suites`](https://google.com/search?q=InTown+Suites) | 21/12/2021 |   | <a href="https://www.ransomware.live/screenshots/posts/ce8f132158cb49088849b742b6636a46.png" target=_blank>📸</a> |
 | [`leuzeusa.com`](https://google.com/search?q=leuzeusa.com) | 21/12/2021 |   |   |
 | [`Skyxe Saskatoon Airport`](https://google.com/search?q=Skyxe+Saskatoon+Airport) | 20/12/2021 |   |   |
 | [`The ExecuSearch Group`](https://google.com/search?q=The+Execu%7CSearch+Group) | 14/12/2021 |   |   |
@@ -8513,4 +8513,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 05/03/2023 19.17 (UTC)_
+Last update : _Sunday 05/03/2023 19.40 (UTC)_
