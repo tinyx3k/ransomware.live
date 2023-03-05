@@ -20,7 +20,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🔴 | 04/03/2023 18:33 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 05/03/2023 06:34 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,10 +28,17 @@ _Parser : `Available`_
 
 ### Posts
 
-> 120 posts found
+> 127 posts found
 
 | post | date | Description
 |---|---|---|
+| [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | 05/03/2023 | Indonesian company that operates in agricultural industry. |
+| [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | 05/03/2023 | A manufacturer of wheels and rims from Canada. |
+| [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | 05/03/2023 | European real estate company. |
+| [`A***** ********* **********`](https://google.com/search?q=A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | 05/03/2023 | Furniture company located in USA. |
+| [`S***** ***********`](https://google.com/search?q=S%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | 05/03/2023 | Dental clinic located in USA. |
+| [`S*********** **********`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | 05/03/2023 | USA educational organization. |
+| [`T******** ***** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | 05/03/2023 | USA educational organization. |
 | [`ACCSC`](https://google.com/search?q=ACCSC) | 03/03/2023 | Accrediting Commission Of Career Schools Colleges. ACCSC’s scope of recognition with the U.S. Department of Education includes the accreditation of postsecondary, non-degree-granting institutions and degree-granting institutions that are predominantly organized to educate students for occupational, trade and technical careers. |
 | [`Zerbe Retirement Community`](https://google.com/search?q=Zerbe+Retirement+Community) | 03/03/2023 | Zerbe Retirement Community is part of the Hospitals & Physicians Clinics industry. |
 | [`PLP Architecture`](https://google.com/search?q=PLP+Architecture) | 03/03/2023 | PLP Architecture is part of the Architecture, Engineering & Design industry. |
@@ -156,4 +163,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 05/03/2023 05.24 (UTC)_
+Last update : _Sunday 05/03/2023 07.19 (UTC)_
