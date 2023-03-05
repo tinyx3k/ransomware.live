@@ -402,7 +402,7 @@ def profilepage():
         writeline(profilepage, '')
         if grouppostavailable(group['name']):
             writeline(profilepage, '| post | date | Description | Screenshot | ')
-            writeline(profilepage, '|---|---|---|')
+            writeline(profilepage, '|---|---|---|---|')
             posts = openjson('posts.json')
             sorted_posts = sorted(posts, key=lambda x: x['published'], reverse=True)
             for post in sorted_posts:

@@ -13,7 +13,7 @@
 > 4 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Aviacode (GeBBS)`](https://google.com/search?q=Aviacode+%28GeBBS%29) | 12/02/2023 | Medical coding, outsourced coding, auditing & consulting |   |
 | [`Aviacode`](https://google.com/search?q=Aviacode) | 09/01/2023 | Medical coding, outsourced coding, auditing & consulting |   |
 | [`Nextlabs`](https://google.com/search?q=Nextlabs) | 15/09/2022 | Business services, security software & IT services, risk management software  |   |
@@ -147,7 +147,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 > 304 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`blackswanhealth`](https://www.blackswanhealth.com.au) | 02/03/2023 | Announcement Data Leakage of company www.blackswanhealth.com.au |   |
 | [`Welty Building Company`](https://thinkwelty.com/about/) | 02/03/2023 | 1.5TB including full clients info, confidential building drawings, engineering information "Build to Last" now public. |   |
 | [`CMMG Inc`](https://cmmg.com/) | 02/03/2023 | MMG ® was established in 2002, when John, Jeff, Gretchen, and Stephanie Overstreet made the decision to create a quality AR rifle that can be afforded by everyone. Since that time, things have continued to get better and better. Although the nature of our business continues to evolve, one thing does not—our commitment to meet each and every morning to pray for God’s wisdom in managing the enormous responsibility that comes with this business. By His grace, we have grown every year! CMMG is constantly looking for new ways to improve our products, processes and company at large. Both our customer service and product lineup continue to be second to none, and all of our rifles and firearms parts are made in the United States from the best materials available. CMMG guarantees its products against defects in material or workmanship for the life of the product. CMMG Inc. will repair, replace or substitute any product(s) if a defect in material or workmanship is found. |   |
@@ -475,7 +475,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 > 20 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Al Bijjar`](https://google.com/search?q=Al+Bijjar) | 21/04/2022 |   |   |
 | [`AM International`](https://google.com/search?q=AM+International) | 20/04/2022 |   |   |
 | [`stormous`](https://google.com/search?q=stormous) | 20/03/2022 |   |   |
@@ -525,7 +525,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 > 4 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Tegravendas`](https://google.com/search?q=Tegravendas) | 21/12/2021 |   |   |
 | [`Eisai Co., Ltd.`](https://google.com/search?q=Eisai+Co.%2C+Ltd.) | 21/12/2021 |   |   |
 | [`LIGHT CONVERSION`](https://google.com/search?q=LIGHT+CONVERSION) | 21/12/2021 |   |   |
@@ -560,7 +560,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 > 142 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`EFCO forms`](https://google.com/search?q=EFCO+forms) | 09/09/2021 |   |   |
 | [`Sky Leasing, LLC`](https://google.com/search?q=Sky+Leasing%2C+LLC) | 09/09/2021 |   |   |
 | [`Golden Aluminum`](https://google.com/search?q=Golden+Aluminum) | 09/09/2021 |   |   |
@@ -759,7 +759,7 @@ _`captcha prevents indexing`_
 > 71 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Cambian Group`](https://google.com/search?q=Cambian+Group) | 11/02/2023 | Includes data from Care Tech Holdings PLC (parent holding company, caretech-uk.com) & ByTheBridge.co.uk & Cambian Group. A billion dollar mega-corporation and British orphans, what could go wrong? |   |
 | [`Memtech Acoustical`](https://google.com/search?q=Memtech+Acoustical) | 11/02/2023 | Memtech Acoustical is your 'one-stop' source for acoustic services, noise control and acoustic material installation. There is no need to coordinate consultants, order materials and arrange for installation. Memtech does it all. Memtech Acoustical Industrial, Commercial, and Acoustic Noise Control Solutions |   |
 | [`Global Mining Products`](https://google.com/search?q=Global+Mining+Products) | 11/02/2023 | Global Mining's Product Catalog is available for download. MINExpo 2012 Please Visit Global Mining Products Inc at MINExpo 2012 Booth No. 9144 Service and Repair Facilities 3 Location To Serve You Better Global Mining - USA Ph: 775-778-3410 Fax: 775-778-3418 Global Mining - Canada Ph: 604-538-0058 Fax: 604-541-2850 PT GloMinPro Indonesia |   |
@@ -870,7 +870,7 @@ _`captcha prevents indexing`_
 > 6 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`The Babuk team shares the position stated by the most famous hacktivist group.`](https://google.com/search?q=The+Babuk+team+shares+the+position+stated+by+the+most+famous+hacktivist+group.) | 09/09/2021 |   |   |
 | [`4murs.com`](https://google.com/search?q=4murs.com) | 09/09/2021 |   |   |
 | [`Arabian Computer Supplies co.`](https://google.com/search?q=Arabian+Computer+Supplies+co.) | 09/09/2021 |   |   |
@@ -927,7 +927,7 @@ _`captcha prevents indexing`_
 > 127 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | 05/03/2023 | Indonesian company that operates in agricultural industry. | <a href="https://www.ransomware.live/screenshots/posts/e44ddae1a931de697a5bea26d4185d33.png" target=_blank>📸</a> |
 | [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | 05/03/2023 | A manufacturer of wheels and rims from Canada. | <a href="https://www.ransomware.live/screenshots/posts/de17ba428f78ef5ed16efd6e3f06ce93.png" target=_blank>📸</a> |
 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | 05/03/2023 | European real estate company. | <a href="https://www.ransomware.live/screenshots/posts/31a172fd25ba9fbff16723fa8cc343c4.png" target=_blank>📸</a> |
@@ -1078,7 +1078,7 @@ _`captcha prevents indexing`_
 > 157 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Jeppesen`](https://google.com/search?q=Jeppesen) | 19/12/2022 | Jeppesen and aviation have evolved together more than 80 years.Aviation might not evolve as dramatically now as it did in 1934, but aviation technology continues to evolve at a breakneck pace. The map is never really drawn; instead, we’re always in the process of drawing it, with each iteration sharper in focus and more insightful. Our solutions are the result of truly understanding aviation and aviators. We don’t react to needs. We meet them proactively by partnering with you and leveraging our strong relationships with other leading aviation organizations.SITE: www.jeppesen.com |   |
 | [`The Exchange Bank`](https://google.com/search?q=The+Exchange+Bank) | 19/12/2022 | The Exchange BankExchange Bank is a community bank offering personal and business banking services including mortgages, home loans and lines of credit and SBA loans.The Skiatook Bank, established in 1905, was the first bank in Skiatook. Later in 1905, the First Bank of Skiatook (actually the second) was established.In 1907, the Oklahoma Banking Company of Skiatook was founded, the second competitor of the Skiatook Bank.In 1911, the Skiatook Bank was adopted by the Federal Reserve Board and was renamed the First National Bank of Skiatook.In 1913 the Oklahoma Banking Company was also adopted by the Federal Reserve Board and was renamed the Oklahoma National Bank of SkiatookIn 1920 C.H. Cleveland, President of the First National Bank of Skiatook sold his stock in the bank to Ed Shackelford from Webbers Falls, OK.In 1929, The First National Bank of Skiatook and the Oklahoma National Bank of Skiatook merged and became the Oklahoma First National Bank of Skiatook.In 1930, the Oklahoma First National Bank of Skiatook was renamed The Exchange Bank.In 1952, The Exchange Bank’s new million-dollar building was opened at 220 S. Broadway.In 1972 a new building was built at the present location of 300 West Rogers Blvd on main Street.SITE: https://www.exb-ok.com |   |
 | [`Sterling`](https://google.com/search?q=Sterling) | 19/12/2022 | Sterling helps create people-first cultures built on a foundation of trust and safety.We understand that every employee and new hire contributes to the unique culture of your organization. That’s why our global background checks and identity services are differentiated by unrivaled client service and deep market expertise to help you make confident hiring decisions that strengthen your organization and culture.We believe that every hire is important, and we are committed to helping our clients hire with confidence, speed, and trust.SITE: https://www.sterlingcheck.com |   |
@@ -1275,7 +1275,7 @@ _`captcha prevents indexing`_
 > 98 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Inland Group`](https://inlandgroup.aero/) | 12/02/2023 | The Inland Group of Companies is a multi-national collective of premier aviation services providers. Each company is highly specialized in their field of expertise with proven track records of providing safe, efficient, and cost-effective aviation services.Integrated Deicing Services (IDS)Aircraft Deicing and Anti-icing Services.Inland Technologies International/Canada (Inland)Aviation Environmental Services.Quantem Aviation Services (QAS)Ground Handling and Terminal Services. |   |
 | [`Penn Power Group`](https://pennpowergroup.com/) | 07/02/2023 | Our ServicesLeveraging our OEM expertise and 50+ years of experience, we provide comprehensive fleet services at our 13 service centers and 100 mobile vehicles that come to you.  From traditional shop services and maintenance management to mobile fleet services and emergency roadside assistance, we handle it all. |   |
 | [`ARC`](https://www.e-arc.com/) | 16/01/2023 | ARC is committed to delighting its customers with document imaging and graphic production services that help visual communication professionals do what they do best.We provide world-class service to more than 90,000 customers, including some of the biggest brands in the world. Our people work side-by-side with professionals from the most renowned companies in Hollywood, prestigious and demanding retail outlets, as well as facility managers of some of the biggest school districts in the country who use visual communication to educate their students and staff on health and safety in public areas.No matter where you look, you’ll find us striving for excellence in design and construction, education, healthcare, marketing, manufacturing, technology, sports, and hospitality. |   |
@@ -1406,7 +1406,7 @@ _`support host supp24maprinktc7uizgfyqhisx7lkszb6ogh6lwdzpac23w3mh4tvyd.onion`_
 > 31 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`National Beverage`](https://google.com/search?q=National+Beverage) | 04/11/2021 |   |   |
 | [`Keycentrix`](https://google.com/search?q=Keycentrix) | 04/11/2021 |   |   |
 | [`Jobbers Meat Packing Co., Inc.`](https://google.com/search?q=Jobbers+Meat+Packing+Co.%2C+Inc.) | 04/11/2021 |   |   |
@@ -1459,7 +1459,7 @@ _`previous clearnet domain blackshadow.cc`_
 > 3 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Shirbit Insurance Company`](https://google.com/search?q=Shirbit+Insurance+Company) | 18/12/2021 |   |   |
 | [`K.L.S Capital`](https://google.com/search?q=K.L.S+Capital) | 18/12/2021 |   |   |
 | [`CyberServe Company`](https://google.com/search?q=CyberServe+Company) | 18/12/2021 |   |   |
@@ -1479,7 +1479,7 @@ _`previous clearnet domain blackshadow.cc`_
 > 4 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`ticketclub-it`](https://google.com/search?q=ticketclub-it) | 30/12/2021 |   |   |
 | [`bankjatim-co-id`](https://google.com/search?q=bankjatim-co-id) | 30/12/2021 |   |   |
 | [`salesplaypos-com`](https://google.com/search?q=salesplaypos-com) | 30/12/2021 |   |   |
@@ -1521,7 +1521,7 @@ _`claim to donate 80% of earnings to charity`_
 > 3 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Marshall Investigative Group Part 1/3 1000 Client`](https://google.com/search?q=Marshall+Investigative+Group+Part+1%2F3+1000+Client) | 06/12/2021 |   |   |
 | [`Ward Arcuri Foley & Dwyer  Law Firm`](https://google.com/search?q=Ward+Arcuri+Foley+%26+Dwyer+%7C+Law+Firm) | 04/10/2021 |   |   |
 | [`Charles Crown Financial Ltd`](https://google.com/search?q=Charles+Crown+Financial+Ltd) | 04/10/2021 |   |   |
@@ -1542,7 +1542,7 @@ _`claim to donate 80% of earnings to charity`_
 > 15 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`DYNAM JAPAN HOLDINGS CO., LTD`](https://google.com/search?q=DYNAM+JAPAN+HOLDINGS+CO.%2C+LTD) | 14/09/2022 |   |   |
 | [`An Japan Game Halls Operator`](https://google.com/search?q=An+Japan+Game+Halls+Operator) | 01/09/2022 |   |   |
 | [`An British Financial Company -Public`](https://google.com/search?q=An+British+Financial+Company+-Public) | 18/08/2022 |   |   |
@@ -1604,7 +1604,7 @@ _`claim to donate 80% of earnings to charity`_
 > 126 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |   |
 | [`CGMLLC.NET`](https://www.CGMLLC.NET) | 05/01/2023 | CGM, LLC |   |
 | [`UNISALLE.EDU.CO`](https://www.lasalle.edu.co/) | 04/01/2023 | Universidad de La Salle |   |
@@ -1765,7 +1765,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 > 333 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Alliance Steel`](https://google.com/search?q=Alliance+Steel) | 07/06/2022 |   |   |
 | [`LCRD`](https://google.com/search?q=LCRD) | 25/05/2022 |   |   |
 | [`The Contact Company`](https://google.com/search?q=The+Contact+Company) | 25/05/2022 |   |   |
@@ -2151,7 +2151,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 > 11 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`iima.ac.in`](https://google.com/search?q=iima.ac.in) | 18/12/2021 |   |   |
 | [`hislopcollege.ac.in`](https://google.com/search?q=hislopcollege.ac.in) | 18/12/2021 |   |   |
 | [`oppodigital.in`](https://google.com/search?q=oppodigital.in) | 18/12/2021 |   |   |
@@ -2195,7 +2195,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 > 93 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`pu.edu.lb`](https://google.com/search?q=pu.edu.lb) | 27/12/2022 | Phoenicia University (PU) is a non-profit, private, and nonsectarian officially licensed institution of higher education. The University comprises six colleges: Architecture and Design, Arts and Sciences, Business, Engineering, Law... |   |
 | [`Sae-a`](https://google.com/search?q=Sae-a) | 20/12/2022 | From yarn-production through its fabric mills that draw on in new innovation and technology, to retail operations in Korea, SAE-A has become one of the few apparel manufacturers capable of achieving complete vertical-integration of... |   |
 | [`2networkit`](https://google.com/search?q=2networkit) | 12/12/2022 |   |   |
@@ -2326,7 +2326,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 > 8 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`B&G Foods (CA, US)`](https://bgfoods.com/) | 11/02/2023 | B&G Foods, Inc. manufactures, sells, and distributes a portfolio of shelf-stable and frozen foods, and household products in the United States, Canada, and Puerto Rico. |   |
 | [`Guardian Analytics (US)`](https://guardiananalytics.com) | 20/01/2023 | Guardian Analytics is now a part of NICE Actimize, a business of NICE (Nasdaq:NICE). Consistently ranked as number one in the space, NICE Actimize is the largest and broadest provider of financial crime, risk and compliance solutions for regional and global financial institutions, as well as government regulators. With Guardian Analytics, financial institutions build trust, increase competitiveness, improve their customer experience, and scale operations. |   |
 | [`Astra Daihatsu Motor (ID)`](https://google.com/search?q=Astra+Daihatsu+Motor+%28ID%29) | 24/11/2022 | PT Astra Daihatsu Motor is an automobile manufacturing company based in Jakarta, Indonesia. It is a joint venture company between Daihatsu, Astra International and Toyota Tsusho. It is the largest car manufacturer in Indonesia by production output and installed capacity, and has been second best-selling car brand behind |   |
@@ -2400,7 +2400,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 > 39 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Huge iCloud Nudes Leak`](https://google.com/search?q=Huge+iCloud+Nudes+Leak) | 25/05/2022 |   |   |
 | [`Xplay Data Leak`](https://google.com/search?q=Xplay+Data+Leak) | 18/05/2022 |   |   |
 | [`DDC Data Leak`](https://google.com/search?q=DDC+Data+Leak) | 21/04/2022 |   |   |
@@ -2491,7 +2491,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 > 6 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`nissin.com.br Disclose the compressed package password`](https://google.com/search?q=nissin.com.br+Disclose+the+compressed+package+password) | 02/12/2022 |   |   |
 | [`rkw-group.com Disclose the compressed package password`](https://google.com/search?q=rkw-group.com+Disclose+the+compressed+package+password) | 02/12/2022 |   |   |
 | [`ni*usa.com`](https://google.com/search?q=ni%2Ausa.com) | 02/12/2022 |   |   |
@@ -2536,7 +2536,7 @@ _`marketplace - not a ransomware group, reputation questionable`_
 > 8 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Health Care Solutions Group`](https://google.com/search?q=Health+Care+Solutions+Group) | 01/10/2022 |   |   |
 | [`Evo exhibits`](https://google.com/search?q=Evo+exhibits) | 28/09/2022 |   |   |
 | [`Monarchnc`](https://google.com/search?q=Monarchnc) | 01/09/2022 |   |   |
@@ -2665,7 +2665,7 @@ _`captcha prevents indexing`_
 > 113 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Aeronautics company Canada  UTC Aerospace Systems, Bombardier, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%7C+UTC+Aerospace+Systems%2C+Bombardier%2C+NASA+partners) | 03/01/2023 |  |   |
 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace, NASA partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace%2C+NASA+partners) | 23/11/2022 |   |   |
 | [`Aeronautics company Canada / UTC Aerospace Systems, Bombardier aerospace partners`](https://google.com/search?q=Aeronautics+company+Canada+%2F+UTC+Aerospace+Systems%2C+Bombardier+aerospace+partners) | 21/11/2022 |   |   |
@@ -2813,7 +2813,7 @@ _`captcha prevents indexing`_
 > 14 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`mfa.gov.ua`](https://google.com/search?q=mfa.gov.ua) | 31/12/2022 |  |   |
 | [`minagro.gov.ua`](https://google.com/search?q=minagro.gov.ua) | 31/12/2022 |  |   |
 | [`mon.gov.ua`](https://google.com/search?q=mon.gov.ua) | 31/12/2022 |  |   |
@@ -2892,7 +2892,7 @@ _`captcha prevents indexing`_
 > 13 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Я не пью виски но с ним бы выпил`](https://google.com/search?q=%D0%AF+%D0%BD%D0%B5+%D0%BF%D1%8C%D1%8E+%D0%B2%D0%B8%D1%81%D0%BA%D0%B8+%D0%BD%D0%BE+%D1%81+%D0%BD%D0%B8%D0%BC+%D0%B1%D1%8B+%D0%B2%D1%8B%D0%BF%D0%B8%D0%BB) | 30/10/2021 |   |   |
 | [`episcopalretirement.com  Возможна утечка`](https://google.com/search?q=episcopalretirement.com++%D0%92%D0%BE%D0%B7%D0%BC%D0%BE%D0%B6%D0%BD%D0%B0+%D1%83%D1%82%D0%B5%D1%87%D0%BA%D0%B0) | 23/10/2021 |   |   |
 | [`Про русских в США`](https://google.com/search?q=%D0%9F%D1%80%D0%BE+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D1%85+%D0%B2+%D0%A1%D0%A8%D0%90) | 23/10/2021 |   |   |
@@ -3010,7 +3010,7 @@ _`US announces it seized Hive ransomware gang’s leak sites and decryption keys
 > 207 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`R C Stevens Construction`](https://rcstevens.com/ ) | 16/01/2023 | As commercial construction specialists in Orlando, we provide new construction and renovation services with an emphasis on design/build. R. C. Stevens is qualified to design and construct any type of commercial construction project in Orlando. We offer all of the necessary resources to meet each client’s specific project needs&nbsp;for design and construction services related to manufacturing/industrial,&nbsp;commercial,&nbsp;healthcare,&nbsp;financial,&nbsp;religious, and&nbsp;renovations.  At. R. C. Stevens, the spirit of innovation can be found in each and every Orlando commercial construction project we do.  Every team member at R.C. Stevens strives daily to uphold the founding principles of quality and integrity as having long been a company tradition since 1926. |   |
 | [`G.W. Becker`](https://gwbcrane.com) | 11/01/2023 | ***** DATA IS COMING SOON ****  G.W. Becker, Inc. is a full service, single source, provider of choice for quality overhead crane products and solutions. Family owned since 1980, we have grown from a local overhead crane parts supplier to a recognized industry leader offering a full spectrum of overhead crane related products and services throughout North America.  Proud to be an Executive Member of the Crane Manufacturer’s Association of America, we design and manufacture custom overhead cranes, hoists and components to CMAA Specifications (Class “A” through “F”) or AIST Technical Report #6. We utilize our knowledgeable in-house team of mechanical, structural and electrical engineers to offer application assistance, custom design engineering and manufacturing of overhead crane products with our customers’ needs first and foremost.  Empowered with highly trained and qualified technicians, G.W. Becker, Inc. provides self-performing installations, inspections and field service repairs for all makes and models of overhead cranes; providing compliance with local regulations and ensuring a safe and productive material handling operation.  Staying true to our mission and values, we strive to understand our customers’ needs and deliver specialized expertise and long-term planning solutions for the unique challenges of purchasing and maintaining overhead crane and hoist equipment.  |   |
 | [`Consulate Health Care`](https://consulatehc.com/) | 06/01/2023 | Consulate Health Care is a leading provider of senior healthcare services, specializing in post-acute care. We offer services ranging from comprehensive short-term rehabilitation and transitional care to Alzheimer’s and dementia care. Consulate Health Care began as a small provider in Cheswick, PA with a strong focus on patient needs. We haven’t waivered from that focus, which has strengthened our family and allows us to sustain jobs in many communities, create rigorous systems of care and deploy technology that makes it easier to understand patient needs. Even as we’ve grown to provide services across 5 states, it’s the little things we do while fulfilling our mission statement of "Providing Service with Our Hearts and Hands" that really makes the difference. From visiting with our patients while they eat, to pulling up the sheets to just the right height, our employees care for patients like family, not because it’s their job, but because it’s their calling.   |   |
@@ -3270,7 +3270,7 @@ _`aka hotarus corp`_
 > 11 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`*.algotrader.com`](https://google.com/search?q=%2A.algotrader.com) | 20/08/2022 |   |   |
 | [`*.bestservers.pro`](https://google.com/search?q=%2A.bestservers.pro) | 20/08/2022 |   |   |
 | [`*.iperactive.com.ar`](https://google.com/search?q=%2A.iperactive.com.ar) | 20/08/2022 |   |   |
@@ -3311,7 +3311,7 @@ _`aka hotarus corp`_
 > 44 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`River City Science Academy`](https://google.com/search?q=River+City+Science+Academy) | 09/01/2023 | River City Science Academy (RCSA) is a tuition-free, public charter school located in Duval County in Jacksonville, Florida. RCSA was founded in 2007 and currently serves grades K – 12 through 4 different locations. RCSA offers an emphasis on STEM education. In this release we will show you 63 GB of RCSA's data which include financials, executive and accounting information as well as a great amount of personal student and employee data. |   |
 | [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | 21/12/2022 | Centrisys is a USA manufacturer of decanter centrifuges for sludge dewatering and thickening. Since 1987 Centrisys has been a leader in decanter centrifuge service and repair for all brands of centrifuges on the market today. CNP - Technology Water and Biosolids, a subsidiary of Centrifuge-Systems, LLC, designs and supplies innovative nutrient recovery and energy optimization systems for wastewater treatment. In this release we can offer you 403 GB of their corporate data. |   |
 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |   |
@@ -3387,7 +3387,7 @@ _`aka hotarus corp`_
 > 7 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Our first post`](https://google.com/search?q=Our+first+post) | 04/10/2021 |   |   |
 | [`Saurer. Part 1.`](https://google.com/search?q=Saurer.+Part+1.) | 04/10/2021 |   |   |
 | [`Align Technology. Part 1.`](https://google.com/search?q=Align+Technology.+Part+1.) | 04/10/2021 |   |   |
@@ -3416,7 +3416,7 @@ _`not a ransomware group`_
 > 26 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`TRANSCONTRACT`](https://google.com/search?q=TRANSCONTRACT) | 24/05/2022 |   |   |
 | [`Mansfield Energy`](https://google.com/search?q=Mansfield+Energy) | 24/05/2022 |   |   |
 | [`Channel Navigator business intelligence IT`](https://google.com/search?q=Channel+Navigator+business+intelligence+IT) | 13/05/2022 |   |   |
@@ -3461,7 +3461,7 @@ _`not a ransomware group`_
 > 20 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`19 You Must Never Forget LeakTheAnalyst`](https://google.com/search?q=19+You+Must+Never+Forget+LeakTheAnalyst) | 29/03/2022 |   |   |
 | [`18 Build your own drone`](https://google.com/search?q=18+Build+your+own+drone) | 29/03/2022 |   |   |
 | [`17 "Shoulders! How shocking!" Queen`](https://google.com/search?q=17+%22Shoulders%21+How+shocking%21%22+Queen) | 01/01/2022 |   |   |
@@ -3562,7 +3562,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 > 1006 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`datalit.it`](https://google.com/search?q=datalit.it) | 28/06/2022 |   |   |
 | [`oak-brook.org`](https://google.com/search?q=oak-brook.org) | 26/06/2022 |   |   |
 | [`ecos-office.com`](https://google.com/search?q=ecos-office.com) | 21/06/2022 |   |   |
@@ -4607,7 +4607,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 > 578 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | 02/03/2023 |  |   |
 | [`tjel.net`](https://google.com/search?q=tjel.net) | 01/03/2023 | AboutUs: Thai Jurong Engineering Limited (TJEL) was incorporated in December 1988. The company's core business is to provide engineering and construction services in the power generation sector. It also undertakes plant erection for industrial plant... |   |
 | [`egas.no`](https://google.com/search?q=egas.no) | 01/03/2023 |  |   |
@@ -5249,7 +5249,7 @@ _`marketplace - not a ransomware group`_
 > 5 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`[USA] OrthoCare, 700 Lake Ave, Ste 6, Manchester, New Hampshire, 03103`](https://google.com/search?q=%5BUSA%5D+OrthoCare%2C+700+Lake+Ave%2C+Ste+6%2C+Manchester%2C+New+Hampshire%2C+03103) | 09/09/2021 |   |   |
 | [`[Saudi Arabia] Al Wefag Trading & Manufacturing`](https://google.com/search?q=%5BSaudi+Arabia%5D+Al+Wefag+Trading+%26+Manufacturing) | 09/09/2021 |   |   |
 | [`[CZ]  GORDIC spol. s r.o.`](https://google.com/search?q=%5BCZ%5D++GORDIC+spol.+s+r.o.) | 09/09/2021 |   |   |
@@ -5300,7 +5300,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 > 60 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Hopsteiner`](https://google.com/search?q=Hopsteiner) | 20/02/2023 |  |   |
 | [`AmerisourceBergen/Censora - MWI Animal Health`](https://google.com/search?q=AmerisourceBergen%2FCensora+-+MWI+Animal+Health) | 06/02/2023 |  |   |
 | [`Chestertons Inc.`](https://google.com/search?q=Chestertons+Inc.) | 10/01/2023 |  |   |
@@ -5388,7 +5388,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 > 63 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`GLEN DIMPLEX GROUP UNITS WERE HACKED (DEFOND, DEFONDTECH AND OTHER). MORE THAN 1TB DATA WA`](https://google.com/search?q=GLEN+DIMPLEX+GROUP+UNITS+WERE+HACKED+%28DEFOND%2C+DEFONDTECH+AND+OTHER%29.+MORE+THAN+1TB+DATA+WA) | 27/11/2022 |   |   |
 | [`UNITEDAUTO.MX HAVE BEEN HACKED DUE TO MULTIPLE NETWORK VULNERABILITIES. MORE THAN 2TB OF P`](https://google.com/search?q=UNITEDAUTO.MX+HAVE+BEEN+HACKED+DUE+TO+MULTIPLE+NETWORK+VULNERABILITIES.+MORE+THAN+2TB+OF+P) | 19/11/2022 |   |   |
 | [`THEW ASSOCIATES HACKED. MORE THEN 50 GB SENSETIVE DATA LEAKED.`](https://google.com/search?q=THEW+ASSOCIATES+HACKED.+MORE+THEN+50+GB+SENSETIVE+DATA+LEAKED.) | 14/11/2022 |   |   |
@@ -5475,7 +5475,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 > 21 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | 04/03/2023 | Two leading manufacturers of heat treatment furnaces Unitherm Engineers Limited (India) and Aichelin Holding GmbH (Austria) formed a new 50:50 Joint Venture Company (JVC) in India in 2010. The newly incorporated JVC Aichelin Unitherm Heat Treatment Systems India Private Limited is headquartered in Talegaon, Pune (Maharashtra).Whatever part you play in the field of industrial heat treatment, AICHELIN UNITHERM has a solution for you. As diverse as the product portfolio may be, certain things apply to every solution: reliability and economic efficiency. AICHELIN UNITHERM in joint venture with AICHELIN Group offers extensive experience and skill guaranteeing the security of a stable and strong group, as your partners and service providers.Industrial heat treatment of metallic parts and components is our skill and passion. AICHELIN UNITHERM is the leading manufacturer of Industrial Heat Treatment Plants technology and services in India.   DATA: https://anonfiles.com/******/AICHELIN_UNITHERM_rar PASSWORD:  n246nm245&TC675tcd^R  |   |
 | [`"FICCI"`](https://google.com/search?q=%22FICCI%22) | 23/02/2023 | Established in 1927, FICCI is the largest and oldest apex business organisation in India. Its history is closely interwoven with India's struggle for independence, its industrialization, and its emergence as one of the most rapidly growing global economies.A non-government, not-for-profit organisation, FICCI is the voice of India's business and industry. From influencing policy to encouraging debate, engaging with policy makers and civil society, FICCI articulates the views and concerns of industry. It serves its members from the Indian private and public corporate sectors and multinational companies, drawing its strength from diverse regional chambers of commerce and industry across states, reaching out to over 2,50,000 companies.FICCI provides a platform for networking and consensus building within and across sectors and is the first port of call for Indian industry, policy makers and the international business community.  FILES: https://anonfiles.com/******/FICCI_rar PASSWORD: BUHgv97yt9f7fcv7c-p8  |   |
 | [`Mecaro Co., Ltd`](https://google.com/search?q=Mecaro+Co.%2C+Ltd) | 16/02/2023 | Company Introduction : Mecaro Co., Ltd is No1 Best Semicon parts company authorized in parts area by producing optimal semiconductor part of equipments through ceaseless technology development and research for about 15 years.  ​MORE INFO: https://www.wsj.com/market-data/quotes/KR/241770/financials  LEAKED DATA: https://anonfiles.com/******/PLM_zip                    PASSWORD FOR ARCHIVE: kPl%l!ttuJ8;1Dxali3u1TzO%gk=7tJh  |   |
@@ -5527,7 +5527,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > 32 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Vehicle Service Group (VSG)`](https://google.com/search?q=Vehicle+Service+Group+%28VSG%29) | 14/02/2022 |   |   |
 | [`Millensys`](https://google.com/search?q=Millensys) | 07/12/2021 |   |   |
 | [`GigaTribe`](https://google.com/search?q=GigaTribe) | 07/12/2021 |   |   |
@@ -5620,7 +5620,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > 20 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Kenya Airports Authority`](https://google.com/search?q=Kenya+Airports+Authority) | 01/03/2023 | Kenya Airports Authority (KAA) is the owner and operator of nine civilian airports and airstrips in Kenya. Kenya Airports Authority was established by an act of Parliament in 1992, by the ruling Kenya African National Union government. The KAA Act, Cap 395, provides for the powers and functions of the Authority. Its head office is on the property of Jomo Kenyatta International Airport in Embakasi, Nairobi. |   |
 | [`Moose, Martin, Haynes & Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26+Lundy) | 22/02/2023 | For years, Moose, Martin, Haynes & Lundy, P.A. has been providing quality, personalized financial guidance to local individuals and businesses. Our expertise ranges from basic tax management and accounting services to more in-depth services such as audits, financia |   |
 | [`RAYAB Consulting Engineers`](https://google.com/search?q=RAYAB+Consulting+Engineers) | 22/02/2023 | RAYAB Consulting Engineers Company was founded in 1984. Taking advantage of hundreds of experienced experts’ cooperation , know – how and scientific experiences, the company has studied , designed and supervised, water and water transmission infrastructural projects, consulting and studying services for potable, agricultural and industrial water consumption, urban and industrial water distribution and wastewater collecting and disposal networks, water and wastewater treatment plants, environmental and health services and water resources conservation as large and small projects throughout Iran In addition to offices in Tehran, it has offices in Isfahan , Ghazvin, Takestan, Gorgan, Karaj, Ghom, Kashan, Delijan, Malayer , Ilaam , Ahwaz, Dezful, Babolsar, Bojnourd, Mashhad, Esfarayen, Kashmar, Birjand, Bandarabbas, Sirjan and Sare – Pole – Zahab |   |
@@ -5667,7 +5667,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > 19 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`DGLEGAL`](https://google.com/search?q=DGLEGAL) | 15/11/2022 |   |   |
 | [`emscrm`](https://google.com/search?q=emscrm) | 15/11/2022 |   |   |
 | [`MIDAS Company`](https://google.com/search?q=MIDAS+Company) | 15/11/2022 |   |   |
@@ -5704,7 +5704,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > 44 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Basra Multipurposr Terminal`](https://google.com/search?q=Basra+Multipurposr+Terminal) | 14/04/2022 |   |   |
 | [`SUPREME SERVICES`](https://google.com/search?q=SUPREME+SERVICES) | 07/04/2022 |   |   |
 | [`Jiangsu Kaili Carpet Co., Ltd.`](https://google.com/search?q=Jiangsu+Kaili+Carpet+Co.%2C+Ltd.) | 07/04/2022 |   |   |
@@ -5766,7 +5766,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > 13 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`willsent`](https://google.com/search?q=willsent) | 05/05/2022 |   |   |
 | [`welplaat`](https://google.com/search?q=welplaat) | 05/05/2022 |   |   |
 | [`toshfarms`](https://google.com/search?q=toshfarms) | 05/05/2022 |   |   |
@@ -5800,7 +5800,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 > 2 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Every one of you been a good customer this year`](https://google.com/search?q=Every+one+of+you+been+a+good+customer+this+year) | 22/12/2022 |  |   |
 | [`test`](https://google.com/search?q=test) | 07/12/2022 |   |   |
 
@@ -5834,7 +5834,7 @@ _`not a ransomware group`_
 > 16 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Electron Csillag`](https://google.com/search?q=Electron+Csillag) | 18/12/2021 |   |   |
 | [`Meshulam`](https://google.com/search?q=Meshulam) | 18/12/2021 |   |   |
 | [`DOSIK Technology`](https://google.com/search?q=DOSIK+Technology) | 18/12/2021 |   |   |
@@ -5933,7 +5933,7 @@ _`not a ransomware group`_
 > 10 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Atlanta Allergy & Asthma. Part 1.`](https://google.com/search?q=Atlanta+Allergy+%26+Asthma.+Part+1.) | 09/09/2021 |   |   |
 | [`Grimmway Farms. Part 1.`](https://google.com/search?q=Grimmway+Farms.+Part+1.) | 09/09/2021 |   |   |
 | [`Elliott Group / Cascade Engineering / Unitex Textile Rental Services. Teaser.`](https://google.com/search?q=Elliott+Group+%2F+Cascade+Engineering+%2F+Unitex+Textile+Rental+Services.+Teaser.) | 09/09/2021 |   |   |
@@ -6048,7 +6048,7 @@ _`not a ransomware group`_
 > 2 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`AKIJ GROUP`](https://google.com/search?q=AKIJ+GROUP) | 04/01/2022 |   |   |
 | [`æ±äº¬ã³ã³ãã¥ã¼ã¿ãµã¼ãã¹`](https://google.com/search?q=%C3%A6%C2%9D%C2%B1%C3%A4%C2%BA%C2%AC%C3%A3%C2%82%C2%B3%C3%A3%C2%83%C2%B3%C3%A3%C2%83%C2%94%C3%A3%C2%83%C2%A5%C3%A3%C2%83%C2%BC%C3%A3%C2%82%C2%BF%C3%A3%C2%82%C2%B5%C3%A3%C2%83%C2%BC%C3%A3%C2%83%C2%93%C3%A3%C2%82%C2%B9) | 04/01/2022 |   |   |
 
@@ -6075,7 +6075,7 @@ _`not a ransomware group`_
 > 1 post found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Nexon Asia Pacific`](https://google.com/search?q=Nexon+Asia+Pacific) | 09/12/2022 | Nexon is headquartered in Sydney, New South Wales. Nexon Asia Pacific is an end-to-end managed IT provider with services ranging from cloud, secure networks, unified communications, managed security, business solutions and digital workspace solutions.Download data: https://mega.nz/folder/****** |   |
 
  --- 
@@ -6118,7 +6118,7 @@ _`aka vsop`_
 > 28 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`www.artisticstairs.com`](https://google.com/search?q=www.artisticstairs.com) | 21/11/2022 |   |   |
 | [`www.wayan.com.mx`](https://google.com/search?q=www.wayan.com.mx) | 21/11/2022 |   |   |
 | [`www.candcfarmsupply.com`](https://google.com/search?q=www.candcfarmsupply.com) | 21/11/2022 |   |   |
@@ -6168,7 +6168,7 @@ _`aka vsop`_
 > 5 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Hearst`](https://google.com/search?q=Hearst) | 30/03/2022 |   |   |
 | [`United Cumberland`](https://google.com/search?q=United+Cumberland) | 30/03/2022 |   |   |
 | [`Jaffe Raitt Heuer & Weiss, P.C.`](https://google.com/search?q=Jaffe+Raitt+Heuer+%26+Weiss%2C+P.C.) | 17/03/2022 |   |   |
@@ -6200,7 +6200,7 @@ _`aka vsop`_
 > 6 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`MT-LAW [Markman&Tomashin Law Firm]`](https://google.com/search?q=MT-LAW+%5BMarkman%26Tomashin+Law+Firm%5D) | 09/09/2021 |   |   |
 | [`INTER - InterElectric`](https://google.com/search?q=INTER+-+InterElectric) | 09/09/2021 |   |   |
 | [`InfiApps - Joyvoo`](https://google.com/search?q=InfiApps+-+Joyvoo) | 09/09/2021 |   |   |
@@ -6227,7 +6227,7 @@ _`aka vsop`_
 > 29 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`aquila.ch`](https://google.com/search?q=aquila.ch) | 06/01/2022 |   |   |
 | [`www.paw.eu`](https://google.com/search?q=www.paw.eu) | 01/01/2022 |   |   |
 | [`Serenity Homes SWFL`](https://google.com/search?q=Serenity+Homes+SWFL) | 01/01/2022 |   |   |
@@ -6284,7 +6284,7 @@ _`aka vsop`_
 > 63 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Oakland`](https://www.oaklandca.gov) | 03/03/2023 | United States |   |
 | [`O???a??`](https://www.o???a????.???) | 02/03/2023 | USA |   |
 | [`InPro electric`](https://www.inpro-electric.de) | 24/02/2023 | Germany |   |
@@ -6364,7 +6364,7 @@ _`aka vsop`_
 > 5 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Doctors Center Hospital`](https://google.com/search?q=Doctors+Center+Hospital) | 18/12/2022 | Doctors' Center Hospital is among the leaders in the hospital network of Puerto Rico. |   |
 | [`Willis Klein`](https://google.com/search?q=Willis+Klein) | 11/11/2022 | Founded in 1960, Willis Klein has multiple divisions providing decorative plumbing, door hardware, custom bathroom cabinets and furniture, commercial hardware. |   |
 | [`BroadMed Holding`](https://google.com/search?q=BroadMed+Holding) | 11/11/2022 | BroadMed Holding (BMH) is a company that specializes in healthcare related businesses. The range of experience stretches to supply the medical field with a wide |   |
@@ -6446,7 +6446,7 @@ _`aka pwndlocker`_
 > 308 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Î¤ÎÎ§ÎÎÎÎÎÎÎÎ Î ÎÎÎÎ ÎÎ£Î¤ÎÎÎÎ ÎÎ¥Î Î¡ÎÎ¥`](https://google.com/search?q=%C3%8E%C2%A4%C3%8E%C2%95%C3%8E%C2%A7%C3%8E%C2%9D%C3%8E%C2%9F%C3%8E%C2%9B%C3%8E%C2%9F%C3%8E%C2%93%C3%8E%C2%99%C3%8E%C2%9A%C3%8E%C2%9F+%C3%8E%C2%A0%C3%8E%C2%91%C3%8E%C2%9D%C3%8E%C2%95%C3%8E%C2%A0%C3%8E%C2%99%C3%8E%C2%A3%C3%8E%C2%A4%C3%8E%C2%97%C3%8E%C2%9C%C3%8E%C2%99%C3%8E%C2%9F+%C3%8E%C2%9A%C3%8E%C2%A5%C3%8E%C2%A0%C3%8E%C2%A1%C3%8E%C2%9F%C3%8E%C2%A5) | 20/09/2022 |   |   |
 | [`CHR Solutions`](https://google.com/search?q=CHR+Solutions) | 06/12/2021 |   |   |
 | [`The Skinners Kent Academy`](https://google.com/search?q=The+Skinners+Kent+Academy) | 08/11/2021 |   |   |
@@ -6777,7 +6777,7 @@ _`aka pwndlocker`_
 > 13 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Attent Zorg en Behandeling`](https://www.attentzorgenbehandeling.nl/) | 01/03/2023 | Dear friends decided to deceive us and their customers, saying that everything works fine for them and there were no serious leaks in the network. https://www.attentzorgenbehandeling.nl/nieuws/update-ongeautoriseerde-toegang-it-systemen  W            ... |   |
 | [`GIGATRON.RS`](https://gigatron.rs/) | 20/02/2023 | Gigatron downloaded data overview:  From 172.31.244.50: DB backups of shops: G1-G69, G88, G89  From 172.31.248.10: DB backups: CTRetail_backup CTRetailWSRepl_backup GigatronWMS_Sync_backup From 192.168.2.144: employee disability             ... |   |
 | [`https://dialog.com.au`](https://google.com/search?q=https%3A%2F%2Fdialog.com.au) | 21/11/2022 |   |   |
@@ -6840,7 +6840,7 @@ _`login page, no posts`_
 > 68 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`ChemiFlex`](https://google.com/search?q=ChemiFlex) | 09/12/2022 |   |   |
 | [`Radical Sportscars`](https://google.com/search?q=Radical+Sportscars) | 09/12/2022 |   |   |
 | [`Orotex`](https://google.com/search?q=Orotex) | 09/12/2022 |   |   |
@@ -6941,7 +6941,7 @@ _`login page, no posts`_
 > 96 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | 03/03/2023 |  |   |
 | [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | 03/03/2023 |  |   |
 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | 22/02/2023 |  |   |
@@ -7071,7 +7071,7 @@ _`shut down & offering a decryptor`_
 > 2 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`FNBNWFL Data leaked`](https://google.com/search?q=FNBNWFL+Data+leaked) | 30/12/2021 |   |   |
 | [`Decrypt`](https://google.com/search?q=Decrypt) | 09/09/2021 |   |   |
 
@@ -7165,7 +7165,7 @@ _`Forum`_
 > 43 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | 02/03/2023 | Lo Studio BETTUZZI & PARTNERS - Dottori Commercialisti è stato fondato dal dott. Alvaro Bettuzzi, nell'anno 2005, dopo aver maturato significative esperienze nello svolgimento della professione di dottore commercialista. Oltre al contributo del fondatore, lo Studio si avvale della collaborazione di altri dottori commercialisti, di esperti professionisti in altre discipline, di docenti universitari e di specialisti in varie aree della consulenza, soprattutto in materia legale e fiscale, in ambito sia nazionale che internazionale. |   |
 | [`BULOG`](https://google.com/search?q=BULOG) | 22/02/2023 | BULOG adalah perusahaan umum milik negara yang bergerak di bidang logistik pangan. |   |
 | [`REC Silicon`](https://google.com/search?q=REC+Silicon) | 11/12/2022 | REC Silicon is a global leader in silane-based, high-purity silicon materials. |   |
@@ -7234,7 +7234,7 @@ _`Forum`_
 > 29 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Audio Video`](https://www.audiovideocorp.com/) | 01/03/2023 | Established in 1946 by WWII Veteran Milton A. Klarsfeld, Audio-Video Corporation was initially named The Albany Television Headquarters and was located on Hudson Avenue in Albany, NY. In 1954 the company changed its name to Audio-Video Corporation to better identify with current technology and services. Audio-Video Corporation headquarters is located in Albany, NY with a full service branch office in Syracuse, NY. Additionally, there are three satellite offices spread across NY and New England. Locations include Syracuse NY, Rochester NY, and Burlington VT. |   |
 | [`E&S Heating & Ventilation Ltd`](https:/www.esgroup.co.uk) | 01/03/2023 | E&S Heating & Ventilation Ltd has been at the forefront of ductwork manufacturing technology and investment since 1972. We offer all forms of ductwork manufacture, galvanised, Flameshield fire rated and stainless steel, associated equipment selection along with procurement, installation, insulation, testing and commissioning for air handling systems. |   |
 | [`AESCULAPIUS Farmaceutici`](https://www.aesculapius.it/) | 23/02/2023 | The Research and Development Division is the heart of the company, which invests significant resources in innovation to develop new pharmaceutical products and new formulations with high technological content. |   |
@@ -7321,7 +7321,7 @@ _`Forum`_
 > 6 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`www.bbadmin.com`](https://google.com/search?q=www.bbadmin.com) | 22/09/2022 |   |   |
 | [`groupg4.com`](https://google.com/search?q=groupg4.com) | 13/09/2022 |   |   |
 | [`coarc.org`](https://google.com/search?q=coarc.org) | 28/07/2022 |   |   |
@@ -7362,7 +7362,7 @@ _`Forum`_
 > 41 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`kusd.edu`](https://google.com/search?q=kusd.edu) | 28/11/2022 |   |   |
 | [`Sunknowledge Services Inc`](https://google.com/search?q=Sunknowledge+Services+Inc) | 28/11/2022 |   |   |
 | [`medibank.com.au`](https://google.com/search?q=medibank.com.au) | 07/11/2022 |   |   |
@@ -7428,7 +7428,7 @@ _`Forum`_
 > 1 post found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Besson Seguros`](https://google.com/search?q=Besson+Seguros) | 06/12/2021 |   |   |
 
  --- 
@@ -7455,7 +7455,7 @@ _`Forum`_
 > 9 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Abdi ibrahim`](https://google.com/search?q=Abdi+ibrahim) | 08/01/2022 |   |   |
 | [`Evalueserve`](https://google.com/search?q=Evalueserve) | 28/12/2021 |   |   |
 | [`DENSO`](https://google.com/search?q=DENSO) | 28/12/2021 |   |   |
@@ -7486,7 +7486,7 @@ _`Forum`_
 > 143 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`FIMM`](http://FIMM.FR) | 02/03/2023 | Industry: Chemicals and allied products, nec |   |
 | [`Schwartz Hautmont Port Shop`](https://www.shcm.es) | 24/02/2023 | Schwartz Hautmont is a private Spanish corporation established in 1963 in Tarragona, South of Barcelona, Spain. The company is in the steel construction business, offering a wide range of products and related services |   |
 | [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |   |
@@ -7665,7 +7665,7 @@ _`Forum`_
 > 17 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`aria-label=Google>`](https://google.com/search?q=aria-label%3DGoogle%3E) | 28/02/2022 |   |   |
 | [`JALEEL TRADERS LLC`](https://google.com/search?q=JALEEL+TRADERS+LLC) | 15/01/2022 |   |   |
 | [`ASL Napoli 3 Sud Network Seized`](https://google.com/search?q=ASL+Napoli+3+Sud+Network+Seized) | 14/01/2022 |   |   |
@@ -7699,7 +7699,7 @@ _`Forum`_
 > 4 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Welcome to new customers!`](https://google.com/search?q=Welcome+to+new+customers%21) | 01/11/2022 |   |   |
 | [`Some of our customers was not payed to us for data decryption. So we publish some of his d`](https://google.com/search?q=Some+of+our+customers+was+not+payed+to+us+for+data+decryption.+So+we+publish+some+of+his+d) | 01/11/2022 |   |   |
 | [`Update for boxerproperty`](https://google.com/search?q=Update+for+boxerproperty) | 01/11/2022 |   |   |
@@ -7735,7 +7735,7 @@ _`Forum`_
 > 70 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | 02/03/2023 | The Metropolitan Opera is a vibrant home for the most creative and talented singers, conductors, composers, musicians, stage directors, designers, visual artists, choreographers, and dancers from around the world. |   |
 | [`Ingenico`](https://google.com/search?q=Ingenico) | 27/02/2023 | We help you navigate a new world of commerce, in which verticalisation, expanded services, and digital players are transforming the payments landscape. We are the trusted partner of financial institutions, retail chains and small merchants alike, supplying them with simple and reliable payments solutions. |   |
 | [`MSX International`](https://google.com/search?q=MSX+International) | 27/02/2023 | For more than 25 years, we’ve been a dedicated partner to leading automotive brands around the world. We support them in transforming their businesses and in managing their operations across the areas of Customer Experience, Repair Optimization, Learning and Insights. |   |
@@ -7841,7 +7841,7 @@ _`Forum`_
 > 16 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`GRUPO COPISA`](https://google.com/search?q=GRUPO+COPISA) | 22/09/2022 |   |   |
 | [`MR. WONDERFUL`](https://google.com/search?q=MR.+WONDERFUL) | 14/09/2022 |   |   |
 | [`AUTO88`](https://google.com/search?q=AUTO88) | 14/09/2022 |   |   |
@@ -7874,7 +7874,7 @@ _`Forum`_
 > 35 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`North Island`](https://google.com/search?q=North+Island) | 19/10/2021 |   |   |
 | [`All County Surveying Inc`](https://google.com/search?q=All+County+Surveying+Inc) | 19/10/2021 |   |   |
 | [`Page Automation`](https://google.com/search?q=Page+Automation) | 19/10/2021 |   |   |
@@ -7929,7 +7929,7 @@ _`Forum`_
 > 18 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`ioi`](https://google.com/search?q=ioi) | 09/05/2022 |   |   |
 | [`Danaher`](https://google.com/search?q=Danaher) | 25/04/2022 |   |   |
 | [`Mattele`](https://google.com/search?q=Mattele) | 25/04/2022 |   |   |
@@ -8008,7 +8008,7 @@ _`Forum`_
 > 30 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`SOCOTEC`](https://google.com/search?q=SOCOTEC) | 18/06/2022 |   |   |
 | [`Northeastern Technical College`](https://google.com/search?q=Northeastern+Technical+College) | 04/06/2022 |   |   |
 | [`Co-opbank Pertama`](https://google.com/search?q=Co-opbank+Pertama) | 24/04/2022 |   |   |
@@ -8121,7 +8121,7 @@ _`nodes or hosts with no current attribution or identification`_
 > 8 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`G.R. Sponaugle`](https://grsponaugle.com) | 21/12/2022 |  country: US - revenue: 22.00M |   |
 | [`Horwitz Horwitz & Associates`](https://www.horwitzlaw.com) | 21/12/2022 |  country: US - revenue: 8.00M |   |
 | [`Wings Etc`](https://wingsetc.com) | 21/12/2022 |  country: US - revenue: 145.00M |   |
@@ -8148,7 +8148,7 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
 > 3 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Chowtaifook`](https://google.com/search?q=Chowtaifook) | 27/02/2023 | Chow Tai Fook “Lodestar” CollectionCelebrate a Lustrous Love Story2023-01-26This Valentine's Day, let the “Lodestar” Collection shine upon your journey to everlasting love, commemorated by the traceable T... |   |
 | [`Highwealth`](https://google.com/search?q=Highwealth) | 21/02/2023 | In the best location, build the best house, the best homeMore than 30 years ago, we started our business in Kaohsiung. After laying the foundation, we developed all the way north and expanded to Tainan, Taichung, Hsinchu, Taipei, New... |   |
 | [`albouyassociesconsult`](https://google.com/search?q=albouyassociesconsult) | 12/02/2023 | Nos originesCréée en 1946, l'entreprise a durant les trois premières décennies, développé sa notoriété dans le secteur de la coopération agricole sur le plan... |   |
@@ -8203,7 +8203,7 @@ _`ecdmr42axxx.onion - fileserver`_
 > 172 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`HUNOSA`](http://www.hunosa.es/) | 03/03/2023 | We are a business group that transforms, like energy. After decades as a benchmark in a strategic sector such as coal, we have become a company focused on energy, energy services and the environment. |   |
 | [`Vesuvius`](http://www.vesuvius.com/) | 01/03/2023 | Vesuvius provides engineering services and solutions principally to steel and foundry industries worldwide. With 17 research centres across the globe and an annual investment of 33.2 million in research and development, Vesuvius continues to lead innovation in our industry. |   |
 | [`Mount Saint Mary College`](http://www.msmc.edu/) | 09/02/2023 | Mount Saint Mary College is a private Catholic college in Newburgh, New York. It was founded in 1959 by the Dominican Sisters. The campus overlooks the Hudson River, halfway between New York City and Albany. More than 2,700 men and women are enrolled in over 50 undergraduate programs and three graduate degree programs. |   |
@@ -8414,7 +8414,7 @@ _`xing use a custom mountlocker exe`_
 > 21 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Wayne Automatic Fire Sprinklers, Inc.`](https://google.com/search?q=Wayne+Automatic+Fire+Sprinklers%2C+Inc.) | 26/10/2021 |   |   |
 | [`Tilia GmbH. TILIA GROUP`](https://google.com/search?q=Tilia+GmbH.+TILIA+GROUP) | 08/10/2021 |   |   |
 | [`J.Irwin Company`](https://google.com/search?q=J.Irwin+Company) | 17/08/2021 |   |   |
@@ -8478,7 +8478,7 @@ _`aka fonix`_
 > 6 posts found
 
 | post | date | Description | Screenshot | 
-|---|---|---|
+|---|---|---|---|
 | [`Hot news straight from Cisco`](https://google.com/search?q=Hot+news+straight+from+Cisco) | 10/08/2022 |   |   |
 | [`Shorr.com leakage`](https://google.com/search?q=Shorr.com+leakage) | 02/07/2022 |   |   |
 | [`Greetings to havi.com and tmsw.com`](https://google.com/search?q=Greetings+to+havi.com+and+tmsw.com) | 02/07/2022 |   |   |
@@ -8511,4 +8511,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 05/03/2023 13.41 (UTC)_
+Last update : _Sunday 05/03/2023 13.48 (UTC)_
