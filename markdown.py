@@ -275,7 +275,7 @@ def recentpage():
             # Get the hexadecimal representation of the hash
             hex_digest = hash_object.hexdigest()
             if os.path.exists('docs/screenshots/posts/'+hex_digest+'.png'):
-                screenpost='<a href="https://www.ransomware.live/screenshots/posts/' + hex_digest + '.png" target=_blank>📸</a>'
+                screenpost='<a href="https://www.ransomware.live/screenshots/posts/' + hex_digest + '.png" target=_blank>👀</a>'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' | ' + screenpost + ' |'
         writeline(recentpage, line)
     writeline(recentpage, '')
