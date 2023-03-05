@@ -15,7 +15,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 ## 🤖  How it works
 
 `ransomware.live` is orginally based on [ransomwatch](https://github.com/joshhighet/ransomwatch) developped by [Joshhighet](https://github.com/joshhighet). It has been modified by [me](about.md?id=%f0%9f%91%a8%f0%9f%8f%bc%f0%9f%92%bc-about-me) : 
-* new parsers fully in `python` to include **victims description**, **website** and **published date** when available, that's include a new scheme for posts : 
+* new parsers fully in `python` to include **victims description**, **website**, **published date** and **post url** when available, that's include a new scheme for posts : 
   ```json
       {
         "post_title": "",
@@ -23,7 +23,8 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
         "discovered": "",
         "description": "",
         "website": "",
-        "published": ""
+        "published": "",
+        "post_url" : ""
       },
   ```  
 * Rewrite parsers using [beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) 
@@ -37,6 +38,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 * Add a [RSS Feed](https://www.ransomware.live/rss.xml)
 * Add a field `delay` in seconds for every Group locations before scraping (not mandatory)
 * Add crypto wallet from [ransomwhe.re](https://ransomwhe.re/)
+* Add screenshot of the ransomware gang blog post (md5 format based on url)
 * And much more minor modifications
 
 
@@ -46,7 +48,7 @@ whilst sanitisation efforts have been taken, by viewing or accessing ransomwatch
 
 * Scrape ransomware gang websites `python3 ransomwatch.py scrape`
 * Parse the scraped websites `python3 ransomwatch.py parse`
-  during this stage `ransomware.live`takes a screenshot of ransomware gang websites which has a new entry and also generate **.json** and **.cvs** files with all the ransomware gangs leaks
+  during this stage `ransomware.live`takes a screenshot of ransomware gang websites which has a new entry and also generate **.json** and **.cvs** files with all the ransomware gangs leaks. Also take a screenshot of the blog post when available.  
 * Generate the website pages in markdown `python3 ransomwatch.py markdown` 
 * Publish the website with [docsify](https://docsify.js.org/) on Github Pages 
 
@@ -63,6 +65,7 @@ Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon 
 |--|--|--|--| 
 | ~~Parser~~ | ~~Daixin~~ | ~~parse website~~ | ~~100%~~ | 
 | Parser | all | Add published date when available in all parsers | 6% | 
+| Parser | all | Add blog post url when available in all parsers | 3% | 
 | Markdown | Victims | Show published date instead of parsing date | 0 % | 
 
 ## 👨🏼‍💼 About me 
