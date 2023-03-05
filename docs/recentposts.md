@@ -28,7 +28,7 @@
 | 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-02 | [`SkyFiber Networks`](https://google.com/search?q=SkyFiber+Networks) | [alphv](profiles.md?id=alphv) |   |
-| 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) |   |
+| 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) | <a href="https://www.ransomware.live/screenshots/posts/1c0cb8624685acdbee6d3b8a03404682.png" target=_blank>👀</a> |
 | 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) |   |
 | 2023-03-02 | [`O???a??`](https://google.com/search?q=O%3F%3F%3Fa%3F%3F) | [play](profiles.md?id=play) |   |
@@ -86,7 +86,7 @@
 | 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](profiles.md?id=ransomexx) |   |
+| 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](profiles.md?id=ransomexx) | <a href="https://www.ransomware.live/screenshots/posts/e11e992d015dc7cd5971d3794d142b39.png" target=_blank>👀</a> |
 | 2023-02-22 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | [ragnarlocker](profiles.md?id=ragnarlocker) | <a href="https://www.ransomware.live/screenshots/posts/5b22ca1ee5b32e4d497bbed86115504f.png" target=_blank>👀</a> |
 | 2023-02-22 | [`PRESTIGE MAINTENANCE USA WAS HACKED`](https://google.com/search?q=PRESTIGE+MAINTENANCE+USA+WAS+HACKED) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-22 | [`Moose, Martin, Haynes & Lundy`](https://google.com/search?q=Moose%2C+Martin%2C+Haynes+%26+Lundy) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/a2de892a4ef98802341db25af5dbc617.png" target=_blank>👀</a> |
@@ -206,4 +206,4 @@
 | 2023-02-12 | [`interpaving.com`](https://google.com/search?q=interpaving.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-12 | [`Aviacode (GeBBS)`](https://google.com/search?q=Aviacode+%28GeBBS%29) | [0mega](profiles.md?id=0mega) |   |
 
-Last update : _Sunday 05/03/2023 18.22 (UTC)_
+Last update : _Sunday 05/03/2023 19.17 (UTC)_
