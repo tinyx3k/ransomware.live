@@ -6944,16 +6944,16 @@ _`login page, no posts`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | 03/03/2023 |  |   |
+| [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | 03/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d08e572f64851a91e904d4fcd6a19ab0.png" target=_blank>📸</a> |
 | [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | 03/03/2023 |  |   |
-| [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | 22/02/2023 |  |   |
-| [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | 28/12/2022 | AOAL - Azienda Ospedaliera di Alessandria |   |
-| [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | 20/12/2022 |  |   |
-| [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | 20/12/2022 |  |   |
-| [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | 13/12/2022 |   |   |
-| [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | 25/11/2022 |   |   |
-| [`Leak Announcement - IT company ITonCLOUD`](https://google.com/search?q=Leak+Announcement+-+IT+company+ITonCLOUD) | 22/11/2022 |   |   |
-| [`Belgium company Zwijndrecht - Leaked`](https://google.com/search?q=Belgium+company+Zwijndrecht+-+Leaked) | 16/11/2022 |   |   |
+| [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | 22/02/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/5b22ca1ee5b32e4d497bbed86115504f.png" target=_blank>📸</a> |
+| [`Hundred thousands of personal data, leak preview`](https://google.com/search?q=Hundred+thousands+of+personal+data%2C+leak+preview) | 28/12/2022 | AOAL - Azienda Ospedaliera di Alessandria | <a href="https://www.ransomware.live/screenshots/posts/098637fc8c5ea9b4141fe4dfe1ee6df2.png" target=_blank>📸</a> |
+| [`Wrapex Industrial - Leaked`](https://google.com/search?q=Wrapex+Industrial+-+Leaked) | 20/12/2022 |  | <a href="https://www.ransomware.live/screenshots/posts/c82f148efbe82b81856682c2889a3d62.png" target=_blank>📸</a> |
+| [`Serena Hotels - Leaked`](https://google.com/search?q=Serena+Hotels+-+Leaked) | 20/12/2022 |  | <a href="https://www.ransomware.live/screenshots/posts/e09cfee3413fa7c9f7f300b604980339.png" target=_blank>📸</a> |
+| [`ITONCLOUD - LEAKED`](https://google.com/search?q=ITONCLOUD+-+LEAKED) | 13/12/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/2b1d1ca0069817856b648f86d8609e33.png" target=_blank>📸</a> |
+| [`Essent company - Leaked`](https://google.com/search?q=Essent+company+-+Leaked) | 25/11/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/b758faa63e5095204c36ebbb05f7dda4.png" target=_blank>📸</a> |
+| [`Leak Announcement - IT company ITonCLOUD`](https://google.com/search?q=Leak+Announcement+-+IT+company+ITonCLOUD) | 22/11/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/0ac0ea0d2cb25a683da5e07aa1bcc5f5.png" target=_blank>📸</a> |
+| [`Belgium company Zwijndrecht - Leaked`](https://google.com/search?q=Belgium+company+Zwijndrecht+-+Leaked) | 16/11/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/238c9c43531c1a50753c3ae22ed6a196.png" target=_blank>📸</a> |
 | [`DURAVIT A.G. - Announcement before publishing data`](https://google.com/search?q=DURAVIT+A.G.+-+Announcement+before+publishing+data) | 27/10/2022 |   |   |
 | [`Dollmar SpA - Leaked`](https://google.com/search?q=Dollmar+SpA+-+Leaked) | 19/10/2022 |   |   |
 | [`DIPF-INTERN - Leaked`](https://google.com/search?q=DIPF-INTERN+-+Leaked) | 18/10/2022 |   |   |
@@ -7038,7 +7038,7 @@ _`login page, no posts`_
 | [`Leaks from company EDP Group`](https://google.com/search?q=Leaks+from+company+EDP+Group) | 19/06/2020 |   |   |
 | [`Leaks from company Omniga GmbH & Co.`](https://google.com/search?q=Leaks+from+company+Omniga+GmbH+%26+Co.) | 19/06/2020 |   |   |
 | [`Leakage from company Catania, Mahon & Rider, PLLC`](https://google.com/search?q=Leakage+from+company+Catania%2C+Mahon+%26+Rider%2C+PLLC) | 11/06/2020 |   |   |
-| [`Brunner Announce – Hello World !`](https://google.com/search?q=Brunner+Announce+%E2%80%93+Hello+World+%21) | 11/06/2020 |   |   |
+| [`Brunner Announce – Hello World !`](https://google.com/search?q=Brunner+Announce+%E2%80%93+Hello+World+%21) | 11/06/2020 |   | <a href="https://www.ransomware.live/screenshots/posts/bf25e464b1c5579070e2e43fff1d5220.png" target=_blank>📸</a> |
 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | 10/06/2020 |   |   |
 
  --- 
@@ -8513,4 +8513,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 05/03/2023 16.14 (UTC)_
+Last update : _Sunday 05/03/2023 17.00 (UTC)_
