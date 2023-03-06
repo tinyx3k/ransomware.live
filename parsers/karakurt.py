@@ -5,7 +5,7 @@ from parse import appender
 
 def main():
     for filename in os.listdir('source'):
-        #try:
+        try:
             if filename.startswith('karakurt-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
@@ -29,6 +29,6 @@ def main():
                     #    errlog('karakurt: ' + 'parsing fail')
                     appender(title, 'karakurt', description.replace('\nexpand',''))
                 file.close()
-        #except:
-        #    errlog('karakurt: ' + 'parsing fail')
-        #    pass 
+        except:
+            errlog('karakurt: ' + 'parsing fail')
+            pass 
