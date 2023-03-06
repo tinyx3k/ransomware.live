@@ -438,6 +438,10 @@ def profilepage():
                         urlencodedtitle = urllib.parse.quote_plus(post['post_title'])
                         postURL = '[`' + post['post_title'].replace('|', '') + '`](https://google.com/search?q=' + urlencodedtitle  + ')'
                     date = post['published'].split(' ')[0]
+                    try:
+                        datetime.datetime.strptime(date, '%Y-%m-%d')
+                    except ValueError:
+                        date = post['discovered'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
                     # screenpost='❌'
