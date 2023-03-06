@@ -206,4 +206,4 @@
 | 2023-02-12 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-02-12 | [`maysecc.com`](https://google.com/search?q=maysecc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Monday 06/03/2023 03.48 (UTC)_
+Last update : _Monday 06/03/2023 05.28 (UTC)_
