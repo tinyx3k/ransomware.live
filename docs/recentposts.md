@@ -6,8 +6,9 @@
 | Date | Title | Group | 📸 |
 |---|---|---|---|
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/31438348122a5242249fb0daa59ab162.png" target=_blank>👀</a> |
-| 2023-03-06 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-06 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a2da86be3f71c7ac936936c63a545fe2.png" target=_blank>👀</a> |
 | 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](profiles.md?id=medusa) |   |
+| 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/635c9024813aba55baec33760fab5009.png" target=_blank>👀</a> |
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/5f588c7396b465c024e53e4b9ed1914f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/4544609620491f6a3513a9e12189df6f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/fbfa2ed7c67dfa22bc23c68faf0e1fff.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-02-12 | [`Cork Institute of Technology & Munster Technological University`](https://google.com/search?q=Cork+Institute+of+Technology+%26+Munster+Technological+University) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-12 | [`mrkpc.com`](https://google.com/search?q=mrkpc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-12 | [`covermeinsurance.com`](https://google.com/search?q=covermeinsurance.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-12 | [`I*****`](https://google.com/search?q=I%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |   |
 
-Last update : _Monday 06/03/2023 11.59 (UTC)_
+Last update : _Monday 06/03/2023 13.33 (UTC)_
