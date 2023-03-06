@@ -5,6 +5,6 @@
 - [🏴‍☠️ Group profiles](profiles.md)
 - [📊 Stats & graphs](stats.md)
 - [🔓 Decryption Tools](decryption.md)
-- [ℹ️ About](about.md)
+- [💁🏻‍♂️ About](about.md)
 - [⚠️ Disclaimer](disclaimer.md)
 
