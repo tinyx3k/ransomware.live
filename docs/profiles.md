@@ -5619,6 +5619,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 06/03/2023 14:53 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 21 posts found
@@ -7492,9 +7493,9 @@ _`Forum`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`PROTEKTOR`](https://www.protektor.co.uk) | 06/03/2023 | The Protektor brand of profiles for plaster, render and drywall has been established for over 100 years. The first to introduce the manufacture of plaster bead and drywall steel profiles for partitions and ceiling constructions in Europe we have continued to develop and innovation solutions to meet the needs of system partners and the construction industry alike. |   |
-| [`Wilhelm`](https://www.e-wilhelm-gmbh.de) | 06/03/2023 | Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland |   |
-| [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. |   |
+| [`PROTEKTOR`](https://www.protektor.co.uk) | 06/03/2023 | The Protektor brand of profiles for plaster, render and drywall has been established for over 100 years. The first to introduce the manufacture of plaster bead and drywall steel profiles for partitions and ceiling constructions in Europe we have continued to develop and innovation solutions to meet the needs of system partners and the construction industry alike. | <a href="https://www.ransomware.live/screenshots/posts/3095ba2dd71e4f4d651d1529dd8fac3c.png" target=_blank>📸</a> |
+| [`Wilhelm`](https://www.e-wilhelm-gmbh.de) | 06/03/2023 | Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland | <a href="https://www.ransomware.live/screenshots/posts/c2023a17f430c3f54da8fce113776683.png" target=_blank>📸</a> |
+| [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. | <a href="https://www.ransomware.live/screenshots/posts/8421a9d554fdb7e2059c16ae927c9bd9.png" target=_blank>📸</a> |
 | [`FIMM`](http://FIMM.FR) | 02/03/2023 | Industry: Chemicals and allied products, nec |   |
 | [`Schwartz Hautmont Port Shop`](https://www.shcm.es) | 24/02/2023 | Schwartz Hautmont is a private Spanish corporation established in 1963 in Tarragona, South of Barcelona, Spain. The company is in the steel construction business, offering a wide range of products and related services |   |
 | [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |   |
@@ -8521,4 +8522,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 06/03/2023 15.16 (UTC)_
+Last update : _Monday 06/03/2023 17.01 (UTC)_

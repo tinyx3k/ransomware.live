@@ -10,6 +10,7 @@ _Parser : `Not available`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 06/03/2023 14:53 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 21 posts found
@@ -41,4 +42,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 06/03/2023 15.16 (UTC)_
+Last update : _Monday 06/03/2023 17.01 (UTC)_
