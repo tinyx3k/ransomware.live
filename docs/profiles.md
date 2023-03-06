@@ -5617,6 +5617,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 06/03/2023 05:06 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 20 posts found
@@ -6960,7 +6961,7 @@ _`login page, no posts`_
 | [`Fashion company ZIGI NY - Leaked`](https://google.com/search?q=Fashion+company+ZIGI+NY+-+Leaked) | 13/10/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/7db686d8265aaffec8b45a3b5c2427b1.png" target=_blank>📸</a> |
 | [`DMCI Holding Leaked`](https://google.com/search?q=DMCI+Holding+Leaked) | 10/10/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/1255e8bdc36e382f3deb9f73dcb25e9b.png" target=_blank>📸</a> |
 | [`TANG CAPITAL LEAKED`](https://google.com/search?q=TANG+CAPITAL+LEAKED) | 10/10/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/86c00715093e1b6877f7487492c779c4.png" target=_blank>📸</a> |
-| [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | 05/10/2022 |   | <a href="https://www.ransomware.live/screenshots/posts/86c00715093e1b6877f7487492c779c4.png" target=_blank>📸</a> |
+| [`Avalon luxury transport company - Leaked`](https://google.com/search?q=Avalon+luxury+transport+company+-+Leaked) | 05/10/2022 |   |   |
 | [`AudioQuest Data Leaked`](https://google.com/search?q=AudioQuest+Data+Leaked) | 03/10/2022 |   |   |
 | [`Malayan Flour Mills Bhd. Data Leak`](https://google.com/search?q=Malayan+Flour+Mills+Bhd.+Data+Leak) | 03/10/2022 |   |   |
 | [`Who is the real Bad Guys here? Or what recovery experts prefer to keep silent.`](https://google.com/search?q=Who+is+the+real+Bad+Guys+here%3F%C2%A0Or+what+recovery+experts+prefer+to+keep+silent.) | 19/09/2022 |   |   |
@@ -8514,4 +8515,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 06/03/2023 05.28 (UTC)_
+Last update : _Monday 06/03/2023 07.18 (UTC)_
