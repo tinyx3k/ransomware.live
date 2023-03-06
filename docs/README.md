@@ -18,11 +18,11 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 🕓 There have been `48` posts within the `month of march`
 
-📅 There have been `930` posts within the `last 90 days`
+📅 There have been `928` posts within the `last 90 days`
 
 🏚 There have been `470` posts since the `1st January 2023`
 
-📸 There are `125` ransomware group host screenshots
+📸 There are `124` ransomware group host screenshots
 
 📝 There are `121` ransomware notes
 
@@ -34,5 +34,5 @@ Check recent ransomware posts [`here`](recentposts.md)
 
 
 
-Last update : _Monday 06/03/2023 17.01 (UTC)_
+Last update : _Monday 06/03/2023 17.26 (UTC)_
 
