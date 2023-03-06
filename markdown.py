@@ -264,10 +264,9 @@ def recentpage():
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
         grouplink = '[' + group + '](profiles.md?id=' + group + ')'
-        if post['post_url'] == '': 
-            # screenpost='❌'
-            screenpost=' '
-        else: 
+        # screenpost='❌'
+        screenpost=' '
+        if post['post_url'] is not None: 
             # Create an MD5 hash object
             hash_object = hashlib.md5()
             # Update the hash object with the string
@@ -441,10 +440,9 @@ def profilepage():
                     date = post['published'].split(' ')[0]
                     date = date.split('-')
                     date = date[2] + '/' + date[1] + '/' + date[0]
-                    if post['post_url'] == '': 
-                        # screenpost='❌'
-                        screenpost=' '
-                    else: 
+                    # screenpost='❌'
+                    screenpost=' '
+                    if post['post_url'] is not None: 
                         # Create an MD5 hash object
                         hash_object = hashlib.md5()
                         # Update the hash object with the string
