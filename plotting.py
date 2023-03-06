@@ -308,7 +308,7 @@ def trend_posts_per_day_month(year,month=0):
     # remove '2021-09-09' - generic date of import along w/ anything before 2021-08
     if month == 0:
         date_debut=str(year)+'01-01' 
-        dete_fin=str(year)+'12-31'
+        date_fin=str(year)+'12-31'
     elif month < 10:
         date_debut=str(year)+'-0'+str(month)+'-01' 
         date_fin=str(year)+'-0'+str(month)+'-'+str(last_day_of_month(month,year))
