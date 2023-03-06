@@ -148,6 +148,9 @@ def appender(post_title, group_name, description="", website="", published="", p
         posts = openjson('posts.json')
         if description == "_URL_":
             description = gettitlefromURL(post_title)
+            if not post_title.lower.startswith("www"):
+                website =  "www." + post_title
+            website = "https://" + website
         if published == "":
             published = str(datetime.today())
         newpost = posttemplate(post_title, group_name, str(datetime.today()),description,website,published,post_url)
