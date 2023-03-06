@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/5f588c7396b465c024e53e4b9ed1914f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/4544609620491f6a3513a9e12189df6f.png" target=_blank>👀</a> |
-| 2023-03-05 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) |   |
+| 2023-03-05 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/fbfa2ed7c67dfa22bc23c68faf0e1fff.png" target=_blank>👀</a> |
 | 2023-03-05 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/e44ddae1a931de697a5bea26d4185d33.png" target=_blank>👀</a> |
 | 2023-03-05 | [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/de17ba428f78ef5ed16efd6e3f06ce93.png" target=_blank>👀</a> |
 | 2023-03-05 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/31a172fd25ba9fbff16723fa8cc343c4.png" target=_blank>👀</a> |
@@ -15,7 +15,7 @@
 | 2023-03-05 | [`S***** ***********`](https://google.com/search?q=S%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/fe2b492ea8408d8a20664e80822a99e6.png" target=_blank>👀</a> |
 | 2023-03-05 | [`S*********** **********`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/460495b96bde58f2caa0f17dd37c1b47.png" target=_blank>👀</a> |
 | 2023-03-05 | [`T******** ***** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/9b3d19a76d16291338cb8faf1aefc150.png" target=_blank>👀</a> |
-| 2023-03-05 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) |   |
+| 2023-03-05 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/aaf731b9c9020094ba76ca8b30cf461a.png" target=_blank>👀</a> |
 | 2023-03-04 | [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | [mallox](profiles.md?id=mallox) |   |
 | 2023-03-03 | [`HUNOSA`](https://google.com/search?q=HUNOSA) | [vicesociety](profiles.md?id=vicesociety) |   |
 | 2023-03-03 | [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | [ragnarlocker](profiles.md?id=ragnarlocker) | <a href="https://www.ransomware.live/screenshots/posts/d08e572f64851a91e904d4fcd6a19ab0.png" target=_blank>👀</a> |
@@ -26,8 +26,8 @@
 | 2023-03-03 | [`M**** M************`](https://google.com/search?q=M%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-03-03 | [`Parques Reunidos`](https://google.com/search?q=Parques+Reunidos) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](profiles.md?id=play) |   |
-| 2023-03-02 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) |   |
-| 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) |   |
+| 2023-03-02 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/f475fe59164e56852753fe19a798a3f8.png" target=_blank>👀</a> |
+| 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
 | 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-02 | [`SkyFiber Networks`](https://google.com/search?q=SkyFiber+Networks) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) | <a href="https://www.ransomware.live/screenshots/posts/1c0cb8624685acdbee6d3b8a03404682.png" target=_blank>👀</a> |
@@ -206,4 +206,4 @@
 | 2023-02-12 | [`Danielski Farms Inc.`](https://google.com/search?q=Danielski+Farms+Inc.) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-02-12 | [`maysecc.com`](https://google.com/search?q=maysecc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Monday 06/03/2023 07.18 (UTC)_
+Last update : _Monday 06/03/2023 08.00 (UTC)_
