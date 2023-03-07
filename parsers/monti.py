@@ -1,5 +1,14 @@
 
-import os
+"""
++------------------------------+------------------+----------+
+| Description | Published Date | Victim's Website | Post URL |
++------------------------------+------------------+----------+
+|      X      |        X       |                  |          |
++------------------------------+------------------+----------+
+Rappel : def appender(post_title, group_name, description="", website="", published="", post_url=""):
+"""
+
+import os,datetime
 from bs4 import BeautifulSoup
 from sharedutils import errlog
 from parse import appender 
@@ -15,7 +24,10 @@ def main():
                 for div in divs_name:
                     title = div.find('h5').text.strip()
                     description =  div.find('p').text.strip()
-                    appender(title, 'monti', description)
+                    published = div.find('div', {'class': 'col-auto published'}).text.strip()
+                    date_obj =  datetime.datetime.strptime(published, '%Y-%m-%d %H:%M:%S')
+                    published = date_obj.strftime("%Y-%m-%d %H:%M:%S.%f")
+                    appender(title, 'monti', description,"",published )
         except:
             errlog('monti: ' + 'parsing fail')
             pass 
