@@ -1,6 +1,6 @@
 
 
-_All `5304` posts_
+_All `5306` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5304` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) |
+| 2023-03-06 | [`Law Foundation of Silicon Valley`](https://google.com/search?q=Law+Foundation+of+Silicon+Valley) | [alphv](profiles.md?id=alphv) |
 | 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |
 | 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) |
@@ -5314,4 +5316,4 @@ _All `5304` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 07/03/2023 23.39 (UTC)_
+Last update : _Wednesday 08/03/2023 00.20 (UTC)_

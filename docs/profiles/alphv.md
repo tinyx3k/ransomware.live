@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 07/03/2023 16:37 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 07/03/2023 23:41 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 04/03/2023 21:44 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 306 posts found
+> 307 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Law Foundation of Silicon Valley`](https://lawfoundation.org) | 06/03/2023 | The Law Foundation of Silicon Valley uses innovative legal advocacy as a tool for social change. We work tirelessly to ensure that every person in our thriving region is granted the same rights and legal access. Every day, our attorneys, social workers and advocates craft inventive solutions to the life-changing legal issues facing low-income people in Silicon Valley.  Our mission is to advance the rights of under-represented individuals and families in our diverse community through legal services, strategic advocacy, and educational outreach. |
 | [`Los Altos Foods`](https://losaltosfoods.com) | 05/03/2023 | We have downloaded 1TB of your data, including full dump of customers attached below. If you will keep silence we will publish whole data pack. |
 | [`Lehigh Valley Health Network`](https://www.lvhn.org) | 05/03/2023 | Founded in 1899, Lehigh Valley Health Network is a healthcare network based in Allentown, Pennsylvania. The healthcare network serves Pennsylvania and its flagship hospital is Lehigh Valley Hospital. |
 | [`blackswanhealth`](https://www.blackswanhealth.com.au) | 02/03/2023 | Announcement Data Leakage of company www.blackswanhealth.com.au |
@@ -344,4 +345,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Tuesday 07/03/2023 23.39 (UTC)_
+Last update : _Wednesday 08/03/2023 00.20 (UTC)_
