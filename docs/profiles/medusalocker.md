@@ -10,7 +10,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🟢 | 07/03/2023 07:05 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| Ransomware blog – We will not give ourselves a nam | 🟢 | 07/03/2023 09:06 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -22,7 +22,7 @@ _Parser : `Available`_
 
 ### Posts
 
-> 19 posts found
+> 20 posts found
 
 | post | date | Description
 |---|---|---|
@@ -36,6 +36,7 @@ _Parser : `Available`_
 | [`hwrpc.com`](https://google.com/search?q=hwrpc.com) | 15/11/2022 |   |
 | [`tristatefabricators_inc`](https://google.com/search?q=tristatefabricators_inc) | 15/11/2022 |   |
 | [`atlantisholidays`](https://google.com/search?q=atlantisholidays) | 15/11/2022 |   |
+| [`archimages inc`](https://google.com/search?q=archimages+inc) | 15/11/2022 |   |
 | [`ALTlTUDE AEROSPACE INC`](https://google.com/search?q=ALTlTUDE+AEROSPACE+INC) | 15/11/2022 |   |
 | [`Fonderia Boccacci`](https://google.com/search?q=Fonderia+Boccacci) | 15/11/2022 |   |
 | [`Zelena Laguna Hotel`](https://google.com/search?q=Zelena+Laguna+Hotel) | 15/11/2022 |   |
@@ -49,4 +50,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 07/03/2023 07.26 (UTC)_
+Last update : _Tuesday 07/03/2023 09.29 (UTC)_
