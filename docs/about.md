@@ -66,7 +66,8 @@ Retrouver les explications quant au fonctionnement de `ransomware.live` sur mon 
 | ~~Parser~~ | ~~Daixin~~ | ~~parse website~~ | ~~100%~~ | 
 | Parser | all | Add published date when available in all parsers | 6% | 
 | Parser | all | Add blog post url when available in all parsers | 3% | 
-| Markdown | Victims | Show published date instead of parsing date | 0 % | 
+| ~~Markdown~~ | ~~Victims~~ | ~~Show published date instead of parsing date~~ | ~~100 %~~ |
+| Scrapper | Blackbast | Solve 403 error while scrapping the website (work with Tor Browser) | 0% |  
 
 ## 👨🏼‍💼 About me 
 
