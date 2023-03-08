@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 08/03/2023 17:10 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 08/03/2023 17:11 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 08/03/2023 19:06 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 08/03/2023 19:06 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,13 +17,14 @@ _Parser : `Available`_
 
 ### Posts
 
-> 146 posts found
+> 147 posts found
 
 | post | date | Description
 |---|---|---|
 | [`PROTEKTOR`](https://www.protektor.co.uk) | 06/03/2023 | The Protektor brand of profiles for plaster, render and drywall has been established for over 100 years. The first to introduce the manufacture of plaster bead and drywall steel profiles for partitions and ceiling constructions in Europe we have continued to develop and innovation solutions to meet the needs of system partners and the construction industry alike. |
 | [`Wilhelm`](https://www.e-wilhelm-gmbh.de) | 06/03/2023 | Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland |
 | [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. |
+| [`The WorkPlace`](http://www.workplace.org) | 04/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983. Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people for careers while strengthening the workforce for employers.We do this chiefly by administering workforce development funds and coordinating providers of job training and education programs. But our role is actually much larger. We believe in the power of ideas to affect great change – so we act as convener, catalyst, collaborator and advocate for workforce development throughout the region, state and nation. |
 | [`FIMM`](http://FIMM.FR) | 02/03/2023 | Industry: Chemicals and allied products, nec |
 | [`Schwartz Hautmont Port Shop`](https://www.shcm.es) | 24/02/2023 | Schwartz Hautmont is a private Spanish corporation established in 1963 in Tarragona, South of Barcelona, Spain. The company is in the steel construction business, offering a wide range of products and related services |
 | [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |
@@ -171,4 +172,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 08/03/2023 17.19 (UTC)_
+Last update : _Wednesday 08/03/2023 19.15 (UTC)_
