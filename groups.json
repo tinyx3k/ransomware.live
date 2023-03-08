@@ -431,14 +431,14 @@
         "captcha": false,
         "parser": true,
         "javascript_render": true,
-        "meta": null,
+        "meta": "Solve a scrapping issue on 2023-03-08",
         "locations": [
             {
                 "fqdn": "stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion",
                 "title": "Black Basta Blog",
                 "version": 3,
                 "slug": "https://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion/",
-                "available": false,
+                "available": true,
                 "updated": "2022-12-18 22:23:44.117391",
                 "lastscrape": "2022-12-18 22:23:44.117377",
                 "enabled": true
@@ -449,8 +449,8 @@
                 "version": 3,
                 "slug": "https://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion/",
                 "available": true,
-                "updated": "2023-03-08 04:36:05.558874",
-                "lastscrape": "2023-03-08 04:36:05.558861",
+                "updated": "2023-03-08 07:21:19.593104",
+                "lastscrape": "2023-03-08 07:21:19.593071",
                 "enabled": true
             },
             {
@@ -459,8 +459,8 @@
                 "version": 3,
                 "slug": "https://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion/",
                 "available": true,
-                "updated": "2023-03-08 04:36:35.854459",
-                "lastscrape": "2023-03-08 04:36:35.854446",
+                "updated": "2023-03-08 07:21:49.263722",
+                "lastscrape": "2023-03-08 07:21:49.263697",
                 "enabled": true
             }
         ],

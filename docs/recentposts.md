@@ -5,6 +5,37 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`LLF Lawyers`](https://google.com/search?q=LLF+Lawyers) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Altro`](https://google.com/search?q=Altro) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Mortons Media Group Ltd`](https://google.com/search?q=Mortons+Media+Group+Ltd) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`ARRI`](https://google.com/search?q=ARRI) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`SMLAW`](https://google.com/search?q=SMLAW) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`UPONOR`](https://google.com/search?q=UPONOR) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`CEC ELECTRICAL`](https://google.com/search?q=CEC+ELECTRICAL) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`WOODHAVEN`](https://google.com/search?q=WOODHAVEN) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Ennis, Inc.`](https://google.com/search?q=Ennis%2C+Inc.) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Sound Publishing`](https://google.com/search?q=Sound+Publishing) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Potandon Foundation`](https://google.com/search?q=Potandon+Foundation) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Sandals Resorts International`](https://google.com/search?q=Sandals+Resorts+International) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Michael & Son`](https://google.com/search?q=Michael+%26+Son) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`ATCDT`](https://google.com/search?q=ATCDT) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`PFC Brakes`](https://google.com/search?q=PFC+Brakes) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Bayou Title`](https://google.com/search?q=Bayou+Title) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Echelon Fitness`](https://google.com/search?q=Echelon+Fitness) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`The Norfolk Capital Group`](https://google.com/search?q=The+Norfolk+Capital+Group) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Mettis Aerospace`](https://google.com/search?q=Mettis+Aerospace) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Newly Weds Foods`](https://google.com/search?q=Newly+Weds+Foods) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`NOVATI`](https://google.com/search?q=NOVATI) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`clair`](https://google.com/search?q=clair) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Macomb Group`](https://google.com/search?q=Macomb+Group) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`KWS`](https://google.com/search?q=KWS) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`XLTRAILERS`](https://google.com/search?q=XLTRAILERS) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`MAKLERSOFTWARE`](https://google.com/search?q=MAKLERSOFTWARE) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`fflawoffice`](https://google.com/search?q=fflawoffice) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`KWS_2`](https://google.com/search?q=KWS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/8e3b80149721495151b984a81b3f9c7a.png" target=_blank>👀</a> |
@@ -174,36 +205,5 @@
 | 2023-02-15 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/94410cc620d9b5593131604c7f632542.png" target=_blank>👀</a> |
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-15 | [`vipar.com`](https://google.com/search?q=vipar.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-15 | [`richardsind.com`](https://google.com/search?q=richardsind.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-15 | [`montibello.com`](https://google.com/search?q=montibello.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-15 | [`nationallocums.co.uk`](https://google.com/search?q=nationallocums.co.uk) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-15 | [`AMADA WELD TECH`](https://google.com/search?q=AMADA+WELD+TECH) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-15 | [`gruppobeltrame.com`](https://google.com/search?q=gruppobeltrame.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-14 | [`Microgame SpA`](https://google.com/search?q=Microgame+SpA) | [play](profiles.md?id=play) |   |
-| 2023-02-14 | [`Energie Pool Schweiz`](https://google.com/search?q=Energie+Pool+Schweiz) | [play](profiles.md?id=play) |   |
-| 2023-02-14 | [`Leal Group`](https://google.com/search?q=Leal+Group) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-14 | [`cefcostores.com`](https://google.com/search?q=cefcostores.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-14 | [`albanesi.com.ar`](https://google.com/search?q=albanesi.com.ar) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-14 | [`srf.com`](https://google.com/search?q=srf.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-14 | [`Hospital Service SpA`](https://google.com/search?q=Hospital+Service+SpA) | [ransomhouse](profiles.md?id=ransomhouse) |   |
-| 2023-02-14 | [`Vitas`](https://google.com/search?q=Vitas) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-14 | [`Banco Sol`](https://google.com/search?q=Banco+Sol) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-14 | [`Delallo`](https://google.com/search?q=Delallo) | [royal](profiles.md?id=royal) |   |
-| 2023-02-13 | [`Eureka Casino Resort`](https://google.com/search?q=Eureka+Casino+Resort) | [medusa](profiles.md?id=medusa) |   |
-| 2023-02-13 | [`cassaragionieri.it`](https://google.com/search?q=cassaragionieri.it) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`Reventics`](https://google.com/search?q=Reventics) | [royal](profiles.md?id=royal) |   |
-| 2023-02-13 | [`dana-group.com`](https://google.com/search?q=dana-group.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`mangalagroup.com`](https://google.com/search?q=mangalagroup.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`nonson.com.vn`](https://google.com/search?q=nonson.com.vn) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`vanderkaay.com`](https://google.com/search?q=vanderkaay.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`hidalgocounty.us`](https://google.com/search?q=hidalgocounty.us) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`tucsoneyecare.com`](https://google.com/search?q=tucsoneyecare.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`chempartner.com`](https://google.com/search?q=chempartner.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`mdstrucking.com`](https://google.com/search?q=mdstrucking.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`laganscg.com`](https://google.com/search?q=laganscg.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-13 | [`greekpeak.net`](https://google.com/search?q=greekpeak.net) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-12 | [`lhermite-agri.com`](https://google.com/search?q=lhermite-agri.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-12 | [`olsenlawgroup.com`](https://google.com/search?q=olsenlawgroup.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Wednesday 08/03/2023 05.11 (UTC)_
+Last update : _Wednesday 08/03/2023 07.50 (UTC)_

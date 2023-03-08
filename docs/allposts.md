@@ -1,6 +1,6 @@
 
 
-_All `5307` posts_
+_All `5338` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,37 @@ _All `5307` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`LLF Lawyers`](https://google.com/search?q=LLF+Lawyers) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Altro`](https://google.com/search?q=Altro) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Mortons Media Group Ltd`](https://google.com/search?q=Mortons+Media+Group+Ltd) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`ARRI`](https://google.com/search?q=ARRI) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`SMLAW`](https://google.com/search?q=SMLAW) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`UPONOR`](https://google.com/search?q=UPONOR) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`CEC ELECTRICAL`](https://google.com/search?q=CEC+ELECTRICAL) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`WOODHAVEN`](https://google.com/search?q=WOODHAVEN) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Ennis, Inc.`](https://google.com/search?q=Ennis%2C+Inc.) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Sound Publishing`](https://google.com/search?q=Sound+Publishing) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Potandon Foundation`](https://google.com/search?q=Potandon+Foundation) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Sandals Resorts International`](https://google.com/search?q=Sandals+Resorts+International) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Michael & Son`](https://google.com/search?q=Michael+%26+Son) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`ATCDT`](https://google.com/search?q=ATCDT) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`PFC Brakes`](https://google.com/search?q=PFC+Brakes) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Bayou Title`](https://google.com/search?q=Bayou+Title) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Echelon Fitness`](https://google.com/search?q=Echelon+Fitness) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`The Norfolk Capital Group`](https://google.com/search?q=The+Norfolk+Capital+Group) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Mettis Aerospace`](https://google.com/search?q=Mettis+Aerospace) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Newly Weds Foods`](https://google.com/search?q=Newly+Weds+Foods) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`NOVATI`](https://google.com/search?q=NOVATI) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`clair`](https://google.com/search?q=clair) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Macomb Group`](https://google.com/search?q=Macomb+Group) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`KWS`](https://google.com/search?q=KWS) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`XLTRAILERS`](https://google.com/search?q=XLTRAILERS) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`MAKLERSOFTWARE`](https://google.com/search?q=MAKLERSOFTWARE) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`fflawoffice`](https://google.com/search?q=fflawoffice) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`KWS_2`](https://google.com/search?q=KWS_2) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) |
 | 2023-03-06 | [`Law Foundation of Silicon Valley`](https://google.com/search?q=Law+Foundation+of+Silicon+Valley) | [alphv](profiles.md?id=alphv) |
@@ -5317,4 +5348,4 @@ _All `5307` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Wednesday 08/03/2023 05.11 (UTC)_
+Last update : _Wednesday 08/03/2023 07.50 (UTC)_
