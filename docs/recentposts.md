@@ -60,7 +60,7 @@
 | 2023-03-05 | [`T******** ***** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/9b3d19a76d16291338cb8faf1aefc150.png" target=_blank>👀</a> |
 | 2023-03-05 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/aaf731b9c9020094ba76ca8b30cf461a.png" target=_blank>👀</a> |
 | 2023-03-04 | [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | [mallox](profiles.md?id=mallox) |   |
-| 2023-03-04 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/ae76339e63e4d753a8f0f603e9ee3d11.png" target=_blank>👀</a> |
+| 2023-03-04 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [royal](profiles.md?id=royal) |   |
 | 2023-03-03 | [`HUNOSA`](https://google.com/search?q=HUNOSA) | [vicesociety](profiles.md?id=vicesociety) |   |
 | 2023-03-03 | [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | [ragnarlocker](profiles.md?id=ragnarlocker) | <a href="https://www.ransomware.live/screenshots/posts/d08e572f64851a91e904d4fcd6a19ab0.png" target=_blank>👀</a> |
 | 2023-03-03 | [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | [ragnarlocker](profiles.md?id=ragnarlocker) |   |
@@ -206,4 +206,4 @@
 | 2023-02-15 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/94410cc620d9b5593131604c7f632542.png" target=_blank>👀</a> |
 
-Last update : _Wednesday 08/03/2023 19.15 (UTC)_
+Last update : _Wednesday 08/03/2023 21.08 (UTC)_
