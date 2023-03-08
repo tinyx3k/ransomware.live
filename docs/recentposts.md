@@ -206,4 +206,4 @@
 | 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/94410cc620d9b5593131604c7f632542.png" target=_blank>👀</a> |
 | 2023-02-15 | [`semsinc.net`](https://google.com/search?q=semsinc.net) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Wednesday 08/03/2023 15.14 (UTC)_
+Last update : _Wednesday 08/03/2023 17.19 (UTC)_
