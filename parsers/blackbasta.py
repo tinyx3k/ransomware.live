@@ -1,4 +1,12 @@
 
+"""
++------------------------------+------------------+----------+
+| Description | Published Date | Victim's Website | Post URL |
++------------------------------+------------------+----------+
+|      X      |                | include in desc  |     x    |
++------------------------------+------------------+----------+
+Rappel : def appender(post_title, group_name, description="", website="", published="", post_url=""):
+"""
 import os
 from bs4 import BeautifulSoup
 from sharedutils import stdlog, errlog
@@ -14,12 +22,14 @@ def main():
                 soup=BeautifulSoup(file,'html.parser')
                 divs_name=soup.find_all('div', {"class": "card"})
                 for div in divs_name:
-                    title = div.find('a', {"class": "blog_name_link"}).text.strip()
+                    title = div.find('a', {"class": "blog_name_link"})
+                    post = title.get('href')
+                    title = title.text.strip()
                     descs = div.find_all('p')
                     description = ''
                     for desc in descs:
                         description += desc.text.strip()
-                    appender(title, 'blackbasta', description.replace('\n','').replace('ADDRESS',' Address '))
+                    appender(title, 'blackbasta', description.replace('\n','').replace('ADDRESS',' Address '),"","",post)
                 file.close()
         except:
             errlog('blackbasta: ' + 'parsing fail')
