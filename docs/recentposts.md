@@ -206,4 +206,4 @@
 | 2023-02-15 | [`Hengmei Optoelectronics Co.,Ltd.`](https://google.com/search?q=Hengmei+Optoelectronics+Co.%2CLtd.) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-15 | [`PetroChina Indonesia`](https://google.com/search?q=PetroChina+Indonesia) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/94410cc620d9b5593131604c7f632542.png" target=_blank>👀</a> |
 
-Last update : _Wednesday 08/03/2023 23.08 (UTC)_
+Last update : _Thursday 09/03/2023 02.41 (UTC)_
