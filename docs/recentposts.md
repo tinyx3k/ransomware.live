@@ -9,7 +9,7 @@
 | 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-09 | [`Thomaston Mills`](https://google.com/search?q=Thomaston+Mills) | [royal](profiles.md?id=royal) |   |
 | 2023-03-09 | [`Brauerei Schimpf`](https://google.com/search?q=Brauerei+Schimpf) | [royal](profiles.md?id=royal) |   |
-| 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/15593ab9b38cd544c15961ab1b83d494.png" target=_blank>👀</a> |
+| 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) |   |
 | 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`LLF Lawyers`](https://google.com/search?q=LLF+Lawyers) | [blackbasta](profiles.md?id=blackbasta) |   |
@@ -206,4 +206,4 @@
 | 2023-02-16 | [`Hydrofit Alliance Ltd`](https://google.com/search?q=Hydrofit+Alliance+Ltd) | [mallox](profiles.md?id=mallox) |   |
 | 2023-02-16 | [`Gallier Orléans`](https://google.com/search?q=Gallier+Orl%C3%A9ans) | [mallox](profiles.md?id=mallox) |   |
 
-Last update : _Thursday 09/03/2023 19.13 (UTC)_
+Last update : _Thursday 09/03/2023 21.09 (UTC)_
