@@ -206,4 +206,4 @@
 | 2023-02-16 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/7148f6f922d4b65ba1745692711a6f81.png" target=_blank>👀</a> |
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Friday 10/03/2023 03.47 (UTC)_
+Last update : _Friday 10/03/2023 05.11 (UTC)_
