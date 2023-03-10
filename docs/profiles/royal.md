@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 10/03/2023 09:03 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 10/03/2023 09:03 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 10/03/2023 11:02 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 10/03/2023 11:03 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,7 +17,7 @@ _Parser : `Available`_
 
 ### Posts
 
-> 158 posts found
+> 160 posts found
 
 | post | date | Description
 |---|---|---|
@@ -26,6 +26,8 @@ _Parser : `Available`_
 | [`Hard Manufacturing`](https://www.hardmfg.com) | 10/03/2023 | HARD Manufacturing, headquartered in Buffalo, NY, designs, manufactures and sells the broadest range of pediatric beds and cribs for hospitals, other healthcare facilities, home care and day care use. |
 | [`Jackson Dean Construction`](https://www.jacksondean.com) | 10/03/2023 | Jackson Dean Construction offers a challenging and rewarding work experience to college students and graduates in order to build a foundation for your future career path in construction management.  |
 | [`Gottschol Alcuilux`](https://www.alcuilux.lu) | 10/03/2023 | Gottschol Alcuilux mit den Unternehmensbereichen Desox-Aluminium, Feinblechbearbeitung und Zerspanungstechnik ist ihr Partner für Aluminium zur Stahldesoxidation, Lamellen für die Reifenindustrie und andere Feinblechprodukte sowie alle Arten spanender Metallbearbei |
+| [`KMVP`](https://kmwp.de) | 10/03/2023 |  |
+| [`Highway Equipment`](https://www.highway-equipment.com) | 10/03/2023 | Highway Equipment is a rental and leasing company of construction equipment and related parts. The company was founded in 1933 and is headquartered in Pennsylvania. |
 | [`Thomaston Mills`](https://thomastonmills.com) | 09/03/2023 | Thomaston Mills was founded in 1899 by R.E. Hightower and is the oldest domestic sheet mill in the USA. We were owned by the Hightower family until 2001, and have been owned by the Zaslow family since that time. Combined the two families have over 200 years of textile experience. Thomaston Mills continues to operate as a family business that puts the customer first.We currently specialize in manufacturing and distribution of the highest quality bed and bath linens to the hospitality, healthcare and institutional markets. We finish millions of yards of fabric each year at our bleachery in Easley, South Carolina and cut and sew this fabric in our 250,000 square foot manufacturing and warehousing facility located in Thomaston, GA. |
 | [`Brauerei Schimpf`](http://www.brauerei-schimpf.de) | 09/03/2023 | Headquarters: 1 Hauptstraße, Neustetten, Baden-Wuerttemberg, 72149, GermanyPhone Number: +49 747298940 |
 | [`Wellington Power Corporation`](https://www.wellingtonpower.com) | 09/03/2023 | At Wellington Power, success is based upon diversified excellence in electrical construction, automated metering infrastructure, telecommunications, and general construction services for utility, industrial, and public sector clients. The company has been developed to handle projects ranging from simple service calls to multimillion dollar installations. |
@@ -183,4 +185,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 09.20 (UTC)_
+Last update : _Friday 10/03/2023 11.15 (UTC)_
