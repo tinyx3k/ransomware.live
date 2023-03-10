@@ -69,7 +69,7 @@
 | 2023-03-06 | [`PROTEKTOR`](https://google.com/search?q=PROTEKTOR) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/3095ba2dd71e4f4d651d1529dd8fac3c.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/c2023a17f430c3f54da8fce113776683.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/8421a9d554fdb7e2059c16ae927c9bd9.png" target=_blank>👀</a> |
-| 2023-03-06 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) |   |
+| 2023-03-06 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/4143a283dc0a755185fb9f92bf1b0c83.png" target=_blank>👀</a> |
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/5f588c7396b465c024e53e4b9ed1914f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/4544609620491f6a3513a9e12189df6f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/fbfa2ed7c67dfa22bc23c68faf0e1fff.png" target=_blank>👀</a> |
@@ -101,7 +101,7 @@
 | 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) | <a href="https://www.ransomware.live/screenshots/posts/f392fbce80940a2127bf2ff2b863ade1.png" target=_blank>👀</a> |
 | 2023-03-02 | [`O???a??`](https://google.com/search?q=O%3F%3F%3Fa%3F%3F) | [play](profiles.md?id=play) |   |
 | 2023-03-02 | [`FIMM`](https://google.com/search?q=FIMM) | [royal](profiles.md?id=royal) |   |
-| 2023-03-02 | [`Ferretería EPA`](https://google.com/search?q=Ferreter%C3%ADa+EPA) | [royal](profiles.md?id=royal) |   |
+| 2023-03-02 | [`Ferretería EPA`](https://google.com/search?q=Ferreter%C3%ADa+EPA) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/c277e863baada0f1a1fba792e08f8a4b.png" target=_blank>👀</a> |
 | 2023-03-01 | [`Audio Video`](https://google.com/search?q=Audio+Video) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-01 | [`E&S Heating & Ventilation Ltd`](https://google.com/search?q=E%26S+Heating+%26+Ventilation+Ltd) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-01 | [`Attent Zorg en Behandeling`](https://google.com/search?q=Attent+Zorg+en+Behandeling) | [qilin](profiles.md?id=qilin) |   |
@@ -206,4 +206,4 @@
 | 2023-02-17 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-17 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/12c3f172f17cddc01f7b3913e73721a2.png" target=_blank>👀</a> |
 
-Last update : _Friday 10/03/2023 11.15 (UTC)_
+Last update : _Friday 10/03/2023 14.01 (UTC)_

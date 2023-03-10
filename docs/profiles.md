@@ -5664,6 +5664,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 10/03/2023 10:55 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 24 posts found
@@ -7555,10 +7556,10 @@ _`Forum`_
 | [`PROTEKTOR`](https://www.protektor.co.uk) | 06/03/2023 | The Protektor brand of profiles for plaster, render and drywall has been established for over 100 years. The first to introduce the manufacture of plaster bead and drywall steel profiles for partitions and ceiling constructions in Europe we have continued to develop and innovation solutions to meet the needs of system partners and the construction industry alike. | <a href="https://www.ransomware.live/screenshots/posts/3095ba2dd71e4f4d651d1529dd8fac3c.png" target=_blank>📸</a> |
 | [`Wilhelm`](https://www.e-wilhelm-gmbh.de) | 06/03/2023 | Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland | <a href="https://www.ransomware.live/screenshots/posts/c2023a17f430c3f54da8fce113776683.png" target=_blank>📸</a> |
 | [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. | <a href="https://www.ransomware.live/screenshots/posts/8421a9d554fdb7e2059c16ae927c9bd9.png" target=_blank>📸</a> |
-| [`Richard Sanders`](https://www.richardsanders.co.uk) | 06/03/2023 | Headquarters: Brunel Close, Northampton, Northamptonshire, NN16 9HU, United KingdomPhone: +44 1536512221 |   |
+| [`Richard Sanders`](https://www.richardsanders.co.uk) | 06/03/2023 | Headquarters: Brunel Close, Northampton, Northamptonshire, NN16 9HU, United KingdomPhone: +44 1536512221 | <a href="https://www.ransomware.live/screenshots/posts/4143a283dc0a755185fb9f92bf1b0c83.png" target=_blank>📸</a> |
 | [`The WorkPlace`](http://www.workplace.org) | 04/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983. Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people for careers while strengthening the workforce for employers.We do this chiefly by administering workforce development funds and coordinating providers of job training and education programs. But our role is actually much larger. We believe in the power of ideas to affect great change – so we act as convener, catalyst, collaborator and advocate for workforce development throughout the region, state and nation. | <a href="https://www.ransomware.live/screenshots/posts/ae76339e63e4d753a8f0f603e9ee3d11.png" target=_blank>📸</a> |
 | [`FIMM`](http://FIMM.FR) | 02/03/2023 | Industry: Chemicals and allied products, nec |   |
-| [`Ferretería EPA`](https://www.epaenlinea.com) | 02/03/2023 | Ferretería EPA is a company that operates in the Environmental Services industry. It employs 2,001-5,000 people and has $500M-$1B of revenue. The company is headquartered in Valencia, Carabobo, Venezuela.﻿ |   |
+| [`Ferretería EPA`](https://www.epaenlinea.com) | 02/03/2023 | Ferretería EPA is a company that operates in the Environmental Services industry. It employs 2,001-5,000 people and has $500M-$1B of revenue. The company is headquartered in Valencia, Carabobo, Venezuela.﻿ | <a href="https://www.ransomware.live/screenshots/posts/c277e863baada0f1a1fba792e08f8a4b.png" target=_blank>📸</a> |
 | [`Schwartz Hautmont Port Shop`](https://www.shcm.es) | 24/02/2023 | Schwartz Hautmont is a private Spanish corporation established in 1963 in Tarragona, South of Barcelona, Spain. The company is in the steel construction business, offering a wide range of products and related services |   |
 | [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |   |
 | [`Ancora - Sistemas de Fixacao`](https://www.ancora.com.br) | 20/02/2023 |  |   |
@@ -8585,4 +8586,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 10/03/2023 11.15 (UTC)_
+Last update : _Friday 10/03/2023 14.01 (UTC)_
