@@ -199,8 +199,9 @@ def appender(post_title, group_name, description="", website="", published="", p
             hash_object = hashlib.md5()
             hash_object.update(post_url.encode('utf-8'))
             hex_digest = hash_object.hexdigest()
+            stdlog(' --> ' + hex_digest)
             screenshot(post_url,None,15000,hex_digest)
-        ### Screenshot 
+        ### Screenshot git 
         groups = openjson('groups.json')
         for group in groups:
             if group["name"] == group_name:

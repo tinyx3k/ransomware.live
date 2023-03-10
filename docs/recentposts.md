@@ -5,27 +5,36 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-10 | [`micos.com`](https://google.com/search?q=micos.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`techhard.ae`](https://google.com/search?q=techhard.ae) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`southamericantours.com`](https://google.com/search?q=southamericantours.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`heidelbergbread.com`](https://google.com/search?q=heidelbergbread.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`schauenburg.com`](https://google.com/search?q=schauenburg.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-10 | [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-10 | [`AXISBANK.COM`](https://google.com/search?q=AXISBANK.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-10 | [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-10 | [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-10 | [`Little Mountain Residential Care and Housing Society`](https://google.com/search?q=Little+Mountain+Residential+Care+and+Housing+Society) | [royal](profiles.md?id=royal) |   |
-| 2023-03-10 | [`Materialogic`](https://google.com/search?q=Materialogic) | [royal](profiles.md?id=royal) |   |
-| 2023-03-10 | [`Hard Manufacturing`](https://google.com/search?q=Hard+Manufacturing) | [royal](profiles.md?id=royal) |   |
-| 2023-03-10 | [`Jackson Dean Construction`](https://google.com/search?q=Jackson+Dean+Construction) | [royal](profiles.md?id=royal) |   |
-| 2023-03-10 | [`Gottschol Alcuilux`](https://google.com/search?q=Gottschol+Alcuilux) | [royal](profiles.md?id=royal) |   |
+| 2023-03-10 | [`Little Mountain Residential Care and Housing Society`](https://google.com/search?q=Little+Mountain+Residential+Care+and+Housing+Society) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/30f8cc8a03429c76d6e702cb6bb0e9aa.png" target=_blank>👀</a> |
+| 2023-03-10 | [`Materialogic`](https://google.com/search?q=Materialogic) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/c70b3234552fb7e77cc08992a46eb1fe.png" target=_blank>👀</a> |
+| 2023-03-10 | [`Hard Manufacturing`](https://google.com/search?q=Hard+Manufacturing) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/b61be44ce67d15a282067ef0cfc959f6.png" target=_blank>👀</a> |
+| 2023-03-10 | [`Jackson Dean Construction`](https://google.com/search?q=Jackson+Dean+Construction) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/5478c6038ac5684d6be7632952d06439.png" target=_blank>👀</a> |
+| 2023-03-10 | [`Gottschol Alcuilux`](https://google.com/search?q=Gottschol+Alcuilux) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/aa761efd72c456ffc945c7ff871971a1.png" target=_blank>👀</a> |
 | 2023-03-10 | [`KMVP`](https://google.com/search?q=KMVP) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/abaf7ca18f45ffcbdc929f4275298ba5.png" target=_blank>👀</a> |
 | 2023-03-10 | [`Highway Equipment`](https://google.com/search?q=Highway+Equipment) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/bd1762bf793213330dba2d46c3b69ddf.png" target=_blank>👀</a> |
 | 2023-03-09 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |   |
-| 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |   |
+| 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/2fe04af0fd8f3dd3eebceec613d6affc.png" target=_blank>👀</a> |
+| 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/96ab1943443193b0b03feb9763a14364.png" target=_blank>👀</a> |
 | 2023-03-09 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-09 | [`Thomaston Mills`](https://google.com/search?q=Thomaston+Mills) | [royal](profiles.md?id=royal) |   |
 | 2023-03-09 | [`Brauerei Schimpf`](https://google.com/search?q=Brauerei+Schimpf) | [royal](profiles.md?id=royal) |   |
-| 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) |   |
+| 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/15593ab9b38cd544c15961ab1b83d494.png" target=_blank>👀</a> |
 | 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`LLF Lawyers`](https://google.com/search?q=LLF+Lawyers) | [blackbasta](profiles.md?id=blackbasta) |   |
@@ -196,14 +205,5 @@
 | 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`diavaz.com`](https://google.com/search?q=diavaz.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`aguasdoporto.pt`](https://google.com/search?q=aguasdoporto.pt) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`inowai.com`](https://google.com/search?q=inowai.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`piercetransit.org`](https://google.com/search?q=piercetransit.org) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`hotdesk.me`](https://google.com/search?q=hotdesk.me) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`innophaseinc.com`](https://google.com/search?q=innophaseinc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-17 | [`SINGLESOURCE`](https://google.com/search?q=SINGLESOURCE) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-17 | [`alliedtools.com`](https://google.com/search?q=alliedtools.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-17 | [`AP Emissions Technologies`](https://google.com/search?q=AP+Emissions+Technologies) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/12c3f172f17cddc01f7b3913e73721a2.png" target=_blank>👀</a> |
 
-Last update : _Friday 10/03/2023 14.01 (UTC)_
+Last update : _Friday 10/03/2023 19.17 (UTC)_
