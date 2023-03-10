@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-09 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |   |
@@ -204,6 +205,5 @@
 | 2023-02-16 | [`Wawasee Community School Corporation`](https://google.com/search?q=Wawasee+Community+School+Corporation) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-16 | [`Cansew`](https://google.com/search?q=Cansew) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-16 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/7148f6f922d4b65ba1745692711a6f81.png" target=_blank>👀</a> |
-| 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Friday 10/03/2023 05.11 (UTC)_
+Last update : _Friday 10/03/2023 07.21 (UTC)_
