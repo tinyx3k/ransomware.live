@@ -6,8 +6,8 @@
 | Date | Title | Group | 📸 |
 |---|---|---|---|
 | 2023-03-09 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/2fe04af0fd8f3dd3eebceec613d6affc.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/96ab1943443193b0b03feb9763a14364.png" target=_blank>👀</a> |
+| 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |   |
+| 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-09 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-09 | [`Thomaston Mills`](https://google.com/search?q=Thomaston+Mills) | [royal](profiles.md?id=royal) |   |
@@ -206,4 +206,4 @@
 | 2023-02-16 | [`Foamtec International`](https://google.com/search?q=Foamtec+International) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/7148f6f922d4b65ba1745692711a6f81.png" target=_blank>👀</a> |
 | 2023-02-16 | [`coreautomation.com`](https://google.com/search?q=coreautomation.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Thursday 09/03/2023 23.24 (UTC)_
+Last update : _Friday 10/03/2023 02.43 (UTC)_
