@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 10/03/2023 07:04 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 10/03/2023 07:04 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 10/03/2023 09:03 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 10/03/2023 09:03 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,18 +17,25 @@ _Parser : `Available`_
 
 ### Posts
 
-> 151 posts found
+> 158 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Little Mountain Residential Care and Housing Society`](https://www.littlemountaincare.org) | 10/03/2023 | Little Mountain Residential Care and Housing Society (the Society) is a non-profit society created in July 1983. The Society operates 3 sites. Adanac Park Lodge (APL) and Little Mountain Place (LMP) are residential care homes for adults requiring 24-hour. |
+| [`Materialogic`](https://www.materialogic.com) | 10/03/2023 | Materialogic offers services in eCommerce fulfillment, marketing logistics, warehousing and distribution, technology, and client and support services. |
+| [`Hard Manufacturing`](https://www.hardmfg.com) | 10/03/2023 | HARD Manufacturing, headquartered in Buffalo, NY, designs, manufactures and sells the broadest range of pediatric beds and cribs for hospitals, other healthcare facilities, home care and day care use. |
+| [`Jackson Dean Construction`](https://www.jacksondean.com) | 10/03/2023 | Jackson Dean Construction offers a challenging and rewarding work experience to college students and graduates in order to build a foundation for your future career path in construction management.  |
+| [`Gottschol Alcuilux`](https://www.alcuilux.lu) | 10/03/2023 | Gottschol Alcuilux mit den Unternehmensbereichen Desox-Aluminium, Feinblechbearbeitung und Zerspanungstechnik ist ihr Partner für Aluminium zur Stahldesoxidation, Lamellen für die Reifenindustrie und andere Feinblechprodukte sowie alle Arten spanender Metallbearbei |
 | [`Thomaston Mills`](https://thomastonmills.com) | 09/03/2023 | Thomaston Mills was founded in 1899 by R.E. Hightower and is the oldest domestic sheet mill in the USA. We were owned by the Hightower family until 2001, and have been owned by the Zaslow family since that time. Combined the two families have over 200 years of textile experience. Thomaston Mills continues to operate as a family business that puts the customer first.We currently specialize in manufacturing and distribution of the highest quality bed and bath linens to the hospitality, healthcare and institutional markets. We finish millions of yards of fabric each year at our bleachery in Easley, South Carolina and cut and sew this fabric in our 250,000 square foot manufacturing and warehousing facility located in Thomaston, GA. |
 | [`Brauerei Schimpf`](http://www.brauerei-schimpf.de) | 09/03/2023 | Headquarters: 1 Hauptstraße, Neustetten, Baden-Wuerttemberg, 72149, GermanyPhone Number: +49 747298940 |
 | [`Wellington Power Corporation`](https://www.wellingtonpower.com) | 09/03/2023 | At Wellington Power, success is based upon diversified excellence in electrical construction, automated metering infrastructure, telecommunications, and general construction services for utility, industrial, and public sector clients. The company has been developed to handle projects ranging from simple service calls to multimillion dollar installations. |
 | [`PROTEKTOR`](https://www.protektor.co.uk) | 06/03/2023 | The Protektor brand of profiles for plaster, render and drywall has been established for over 100 years. The first to introduce the manufacture of plaster bead and drywall steel profiles for partitions and ceiling constructions in Europe we have continued to develop and innovation solutions to meet the needs of system partners and the construction industry alike. |
 | [`Wilhelm`](https://www.e-wilhelm-gmbh.de) | 06/03/2023 | Egmont Wilhelm GmbHWilly-Messerschmitt-Straße 1473457 EssingenDeutschland |
 | [`Krinos Foods`](https://www.krinos.com) | 06/03/2023 | Krinos Foods LLC is one of the largest importers and manufacturers of specialty foods in North America. Krinos imports over 3,000 frozen, refrigerated and dry food products from over 25 countries. These products include cheeses, olives, olive oils, pasta and etc. |
+| [`Richard Sanders`](https://www.richardsanders.co.uk) | 06/03/2023 | Headquarters: Brunel Close, Northampton, Northamptonshire, NN16 9HU, United KingdomPhone: +44 1536512221 |
 | [`The WorkPlace`](http://www.workplace.org) | 04/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983. Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people for careers while strengthening the workforce for employers.We do this chiefly by administering workforce development funds and coordinating providers of job training and education programs. But our role is actually much larger. We believe in the power of ideas to affect great change – so we act as convener, catalyst, collaborator and advocate for workforce development throughout the region, state and nation. |
 | [`FIMM`](http://FIMM.FR) | 02/03/2023 | Industry: Chemicals and allied products, nec |
+| [`Ferretería EPA`](https://www.epaenlinea.com) | 02/03/2023 | Ferretería EPA is a company that operates in the Environmental Services industry. It employs 2,001-5,000 people and has $500M-$1B of revenue. The company is headquartered in Valencia, Carabobo, Venezuela.﻿ |
 | [`Schwartz Hautmont Port Shop`](https://www.shcm.es) | 24/02/2023 | Schwartz Hautmont is a private Spanish corporation established in 1963 in Tarragona, South of Barcelona, Spain. The company is in the steel construction business, offering a wide range of products and related services |
 | [`Stone and Electrical Contractors`](https://stoneandsons.com) | 22/02/2023 | Stone & Sons Electrical Contractors, Inc offers a wide range of electrical services in the Transportation, Industrial and Municipal Markets including new construction, custom designs/installations, repairs, maintenance and systems upgrades.﻿First established in 1994, our business now has more than 85 field employees as well as a large support staff. Our support staff includes a team of project managers, estimators, and electrical engineers. Together, our team offers our clients over 160 years of combined experience. |
 | [`Ancora - Sistemas de Fixacao`](https://www.ancora.com.br) | 20/02/2023 |  |
@@ -176,4 +183,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 10/03/2023 07.21 (UTC)_
+Last update : _Friday 10/03/2023 09.20 (UTC)_

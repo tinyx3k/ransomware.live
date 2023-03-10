@@ -1,6 +1,6 @@
 
 
-_All `5349` posts_
+_All `5356` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,13 @@ _All `5349` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-02 | [`Ferretería EPA`](https://google.com/search?q=Ferreter%C3%ADa+EPA) | [royal](profiles.md?id=royal) |
+| 2023-03-06 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Gottschol Alcuilux`](https://google.com/search?q=Gottschol+Alcuilux) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Jackson Dean Construction`](https://google.com/search?q=Jackson+Dean+Construction) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Hard Manufacturing`](https://google.com/search?q=Hard+Manufacturing) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Materialogic`](https://google.com/search?q=Materialogic) | [royal](profiles.md?id=royal) |
+| 2023-03-10 | [`Little Mountain Residential Care and Housing Society`](https://google.com/search?q=Little+Mountain+Residential+Care+and+Housing+Society) | [royal](profiles.md?id=royal) |
 | 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) |
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) |
@@ -5359,4 +5366,4 @@ _All `5349` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 10/03/2023 07.21 (UTC)_
+Last update : _Friday 10/03/2023 09.20 (UTC)_
