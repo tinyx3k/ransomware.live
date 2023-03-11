@@ -1,6 +1,6 @@
 
 
-_All `5402` posts_
+_All `5403` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5402` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-11 | [`onyx-pharma.dz`](https://google.com/search?q=onyx-pharma.dz) | [darkpower](profiles.md?id=darkpower) |
 | 2023-03-11 | [`imtenan.com`](https://google.com/search?q=imtenan.com) | [darkpower](profiles.md?id=darkpower) |
 | 2023-03-11 | [`agados.cz`](https://google.com/search?q=agados.cz) | [darkpower](profiles.md?id=darkpower) |
@@ -5412,4 +5413,4 @@ _All `5402` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Saturday 11/03/2023 19.14 (UTC)_
+Last update : _Saturday 11/03/2023 21.12 (UTC)_
