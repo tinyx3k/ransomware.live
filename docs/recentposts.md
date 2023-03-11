@@ -5,6 +5,36 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-11 | [`onyx-pharma.dz`](https://google.com/search?q=onyx-pharma.dz) | [darkpower](profiles.md?id=darkpower) |   |
+| 2023-03-11 | [`imtenan.com`](https://google.com/search?q=imtenan.com) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/e11416500cb377d9caabd69102033b28.png" target=_blank>👀</a> |
+| 2023-03-11 | [`agados.cz`](https://google.com/search?q=agados.cz) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/b26f997279b4943e7f59f0d8009b00f3.png" target=_blank>👀</a> |
+| 2023-03-11 | [`evant.com.tr`](https://google.com/search?q=evant.com.tr) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/94efa11f576fffbff587ecd3b301582d.png" target=_blank>👀</a> |
+| 2023-03-11 | [`arineta.com`](https://google.com/search?q=arineta.com) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/22fd258468adf97a8bd1e01a6b241e3f.png" target=_blank>👀</a> |
+| 2023-03-11 | [`rcc.gob.pe`](https://google.com/search?q=rcc.gob.pe) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/ed848abc4e7da65554fc5b616a1e0efb.png" target=_blank>👀</a> |
+| 2023-03-11 | [`goliplik.com.tr`](https://google.com/search?q=goliplik.com.tr) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/bacc85349dab310e202da2fb28eb5758.png" target=_blank>👀</a> |
+| 2023-03-11 | [`mdclone.com`](https://google.com/search?q=mdclone.com) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/0417244943393cb568ca9d17939dd3cb.png" target=_blank>👀</a> |
+| 2023-03-11 | [`betastree.fr`](https://google.com/search?q=betastree.fr) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/d13fd10c0958f7e4020ba69ec1bf4b91.png" target=_blank>👀</a> |
+| 2023-03-11 | [`northgatesd.net`](https://google.com/search?q=northgatesd.net) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/35c2372350953b1925b6898054d707de.png" target=_blank>👀</a> |
+| 2023-03-11 | [`Berkeley County Schools`](https://google.com/search?q=Berkeley+County+Schools) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/a3de3015ba22ed0eb7ad718bfe16ea6d.png" target=_blank>👀</a> |
+| 2023-03-11 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](profiles.md?id=play) |   |
+| 2023-03-11 | [`Leemock`](https://google.com/search?q=Leemock) | [play](profiles.md?id=play) |   |
+| 2023-03-11 | [`The M. K. Morse`](https://google.com/search?q=The+M.+K.+Morse) | [play](profiles.md?id=play) |   |
+| 2023-03-11 | [`Secure Wrap`](https://google.com/search?q=Secure+Wrap) | [play](profiles.md?id=play) |   |
+| 2023-03-11 | [`Russell Finex`](https://google.com/search?q=Russell+Finex) | [play](profiles.md?id=play) |   |
+| 2023-03-11 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`bonta-viva.it`](https://google.com/search?q=bonta-viva.it) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`wyckoffcomfort.com`](https://google.com/search?q=wyckoffcomfort.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`lubrimetal.com`](https://google.com/search?q=lubrimetal.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`meinet.com`](https://google.com/search?q=meinet.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`brandywine-homes.com`](https://google.com/search?q=brandywine-homes.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`cqservice.sk`](https://google.com/search?q=cqservice.sk) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`inphenix.com`](https://google.com/search?q=inphenix.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`omegaservicos.com.br`](https://google.com/search?q=omegaservicos.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`cktc.edu`](https://google.com/search?q=cktc.edu) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-11 | [`favoritefoods.com`](https://google.com/search?q=favoritefoods.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-10 | [`eprinsa.es`](https://google.com/search?q=eprinsa.es) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`micos.com`](https://google.com/search?q=micos.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`techhard.ae`](https://google.com/search?q=techhard.ae) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -175,35 +205,5 @@
 | 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-22 | [`EncinoEnergy`](https://google.com/search?q=EncinoEnergy) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-22 | [`City of Lakewood`](https://google.com/search?q=City+of+Lakewood) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-22 | [`Stone and Electrical Contractors`](https://google.com/search?q=Stone+and+Electrical+Contractors) | [royal](profiles.md?id=royal) |   |
-| 2023-02-21 | [`kboattorneys.com`](https://google.com/search?q=kboattorneys.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-21 | [`beacontech.net`](https://google.com/search?q=beacontech.net) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-21 | [`vuu.edu`](https://google.com/search?q=vuu.edu) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-21 | [`treves-group.com`](https://google.com/search?q=treves-group.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-21 | [`lyonhealy.com`](https://google.com/search?q=lyonhealy.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-21 | [`lasegunda.com.ar`](https://google.com/search?q=lasegunda.com.ar) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-21 | [`FUTURE BUILDINGS WAS HACKED. MORE THAN 150GB SENSETIVE DATA LEAKED`](https://google.com/search?q=FUTURE+BUILDINGS+WAS+HACKED.+MORE+THAN+150GB+SENSETIVE+DATA+LEAKED) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-21 | [`Summit Brands`](https://google.com/search?q=Summit+Brands) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-21 | [`Markas`](https://google.com/search?q=Markas) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-21 | [`La Filipina`](https://google.com/search?q=La+Filipina) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-21 | [`Highwealth`](https://google.com/search?q=Highwealth) | [vendetta](profiles.md?id=vendetta) |   |
-| 2023-02-21 | [`I???o e???t???`](https://google.com/search?q=I%3F%3F%3Fo+e%3F%3F%3Ft%3F%3F%3F) | [play](profiles.md?id=play) |   |
-| 2023-02-20 | [`Hopsteiner`](https://google.com/search?q=Hopsteiner) | [lorenz](profiles.md?id=lorenz) |   |
-| 2023-02-20 | [`GIGATRON.RS`](https://google.com/search?q=GIGATRON.RS) | [qilin](profiles.md?id=qilin) |   |
-| 2023-02-20 | [`carlocksystems.com`](https://google.com/search?q=carlocksystems.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-20 | [`Ancora - Sistemas de Fixacao`](https://google.com/search?q=Ancora+-+Sistemas+de+Fixacao) | [royal](profiles.md?id=royal) |   |
-| 2023-02-20 | [`DALLAS SCHOOL DISTRICT`](https://google.com/search?q=DALLAS+SCHOOL+DISTRICT) | [royal](profiles.md?id=royal) |   |
-| 2023-02-20 | [`UNIS`](https://google.com/search?q=UNIS) | [royal](profiles.md?id=royal) |   |
-| 2023-02-19 | [`jetboxcargo.com`](https://google.com/search?q=jetboxcargo.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-19 | [`servicesfinanciersjdf.com`](https://google.com/search?q=servicesfinanciersjdf.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-19 | [`laremo.de`](https://google.com/search?q=laremo.de) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-19 | [`elliotthomes.com`](https://google.com/search?q=elliotthomes.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-19 | [`anthonymartin.be`](https://google.com/search?q=anthonymartin.be) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-19 | [`BakerMechanicalInc.com`](https://google.com/search?q=BakerMechanicalInc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-19 | [`International Center of Photography`](https://google.com/search?q=International+Center+of+Photography) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/f512b39d062cf34b797fae6100f8ceb8.png" target=_blank>👀</a> |
-| 2023-02-18 | [`championfp.com`](https://google.com/search?q=championfp.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`sandycove.org`](https://google.com/search?q=sandycove.org) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`primorossi.com.br`](https://google.com/search?q=primorossi.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-18 | [`isosteo.fr`](https://google.com/search?q=isosteo.fr) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Friday 10/03/2023 19.17 (UTC)_
+Last update : _Saturday 11/03/2023 14.05 (UTC)_

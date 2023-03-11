@@ -1,6 +1,6 @@
 
 
-_All `5372` posts_
+_All `5402` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,36 @@ _All `5372` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-11 | [`onyx-pharma.dz`](https://google.com/search?q=onyx-pharma.dz) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`imtenan.com`](https://google.com/search?q=imtenan.com) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`agados.cz`](https://google.com/search?q=agados.cz) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`evant.com.tr`](https://google.com/search?q=evant.com.tr) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`arineta.com`](https://google.com/search?q=arineta.com) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`rcc.gob.pe`](https://google.com/search?q=rcc.gob.pe) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`goliplik.com.tr`](https://google.com/search?q=goliplik.com.tr) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`mdclone.com`](https://google.com/search?q=mdclone.com) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`betastree.fr`](https://google.com/search?q=betastree.fr) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`northgatesd.net`](https://google.com/search?q=northgatesd.net) | [darkpower](profiles.md?id=darkpower) |
+| 2023-03-11 | [`Berkeley County Schools`](https://google.com/search?q=Berkeley+County+Schools) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-03-11 | [`Real Pro`](https://google.com/search?q=Real+Pro) | [play](profiles.md?id=play) |
+| 2023-03-11 | [`Leemock`](https://google.com/search?q=Leemock) | [play](profiles.md?id=play) |
+| 2023-03-11 | [`The M. K. Morse`](https://google.com/search?q=The+M.+K.+Morse) | [play](profiles.md?id=play) |
+| 2023-03-11 | [`Secure Wrap`](https://google.com/search?q=Secure+Wrap) | [play](profiles.md?id=play) |
+| 2023-03-11 | [`Russell Finex`](https://google.com/search?q=Russell+Finex) | [play](profiles.md?id=play) |
+| 2023-03-10 | [`eprinsa.es`](https://google.com/search?q=eprinsa.es) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`favoritefoods.com`](https://google.com/search?q=favoritefoods.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`cktc.edu`](https://google.com/search?q=cktc.edu) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`omegaservicos.com.br`](https://google.com/search?q=omegaservicos.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`inphenix.com`](https://google.com/search?q=inphenix.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`cqservice.sk`](https://google.com/search?q=cqservice.sk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`brandywine-homes.com`](https://google.com/search?q=brandywine-homes.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`meinet.com`](https://google.com/search?q=meinet.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`lubrimetal.com`](https://google.com/search?q=lubrimetal.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`wyckoffcomfort.com`](https://google.com/search?q=wyckoffcomfort.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`bonta-viva.it`](https://google.com/search?q=bonta-viva.it) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-11 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5382,4 +5412,4 @@ _All `5372` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 10/03/2023 19.17 (UTC)_
+Last update : _Saturday 11/03/2023 14.05 (UTC)_
