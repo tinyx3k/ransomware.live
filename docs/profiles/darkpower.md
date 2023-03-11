@@ -3,7 +3,7 @@
 ## **darkpower**
 
 
-_Parser : `Not available`_
+_Parser : `Available`_
 
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
@@ -30,4 +30,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 11/03/2023 14.05 (UTC)_
+Last update : _Saturday 11/03/2023 15.08 (UTC)_
