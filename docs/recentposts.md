@@ -13,6 +13,8 @@
 | 2023-03-13 | [`plasticproductsco.com`](https://google.com/search?q=plasticproductsco.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-13 | [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/1409223d20b07bbc92fcb73aa0eecbc7.png" target=_blank>👀</a> |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/0ec975e98308a41d599e2fc8e7227373.png" target=_blank>👀</a> |
+| 2023-03-11 | [`Mason Manufacturing`](https://google.com/search?q=Mason+Manufacturing) | [bianlian](profiles.md?id=bianlian) |   |
+| 2023-03-11 | [`Data Pro Accounting Software, Inc`](https://google.com/search?q=Data+Pro+Accounting+Software%2C+Inc) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-03-11 | [`onyx-pharma.dz`](https://google.com/search?q=onyx-pharma.dz) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/cdf1ff489bfe367b1778e88c095a5b3a.png" target=_blank>👀</a> |
 | 2023-03-11 | [`imtenan.com`](https://google.com/search?q=imtenan.com) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/e11416500cb377d9caabd69102033b28.png" target=_blank>👀</a> |
 | 2023-03-11 | [`agados.cz`](https://google.com/search?q=agados.cz) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/b26f997279b4943e7f59f0d8009b00f3.png" target=_blank>👀</a> |
@@ -203,7 +205,5 @@
 | 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-22 | [`BULOG`](https://google.com/search?q=BULOG) | [ransomexx](profiles.md?id=ransomexx) | <a href="https://www.ransomware.live/screenshots/posts/e11e992d015dc7cd5971d3794d142b39.png" target=_blank>👀</a> |
-| 2023-02-22 | [`AASP claim there was no data leakage!`](https://google.com/search?q=AASP+claim+there+was+no+data+leakage%21) | [ragnarlocker](profiles.md?id=ragnarlocker) | <a href="https://www.ransomware.live/screenshots/posts/5b22ca1ee5b32e4d497bbed86115504f.png" target=_blank>👀</a> |
 
-Last update : _Monday 13/03/2023 23.14 (UTC)_
+Last update : _Monday 13/03/2023 23.25 (UTC)_

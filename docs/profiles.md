@@ -919,7 +919,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 13/03/2023 20:30 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 13/03/2023 23:21 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -927,11 +927,13 @@ _`captcha prevents indexing`_
 
 ### Posts
 
-> 128 posts found
+> 130 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
 | [`S********* *****`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | 13/03/2023 | European organization that delivers financial consulting services. | <a href="https://www.ransomware.live/screenshots/posts/ccf05f2ddb187ee35cb9732e672e85a2.png" target=_blank>📸</a> |
+| [`Mason Manufacturing`](https://google.com/search?q=Mason+Manufacturing) | 11/03/2023 |  |   |
+| [`Data Pro Accounting Software, Inc`](https://google.com/search?q=Data+Pro+Accounting+Software%2C+Inc) | 11/03/2023 |  |   |
 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | 05/03/2023 | Indonesian company that operates in agricultural industry. | <a href="https://www.ransomware.live/screenshots/posts/e44ddae1a931de697a5bea26d4185d33.png" target=_blank>📸</a> |
 | [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | 05/03/2023 | A manufacturer of wheels and rims from Canada. | <a href="https://www.ransomware.live/screenshots/posts/de17ba428f78ef5ed16efd6e3f06ce93.png" target=_blank>📸</a> |
 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | 05/03/2023 | European real estate company. | <a href="https://www.ransomware.live/screenshots/posts/31a172fd25ba9fbff16723fa8cc343c4.png" target=_blank>📸</a> |
@@ -4669,7 +4671,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | LockBit LOGIN | 🟢 | 13/03/2023 23:13 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
 | LockBit LOGIN | 🟢 | 13/03/2023 23:14 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
 | LockBit LOGIN | 🟢 | 13/03/2023 20:54 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:55 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 13/03/2023 23:15 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -8651,4 +8653,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 13/03/2023 23.14 (UTC)_
+Last update : _Monday 13/03/2023 23.25 (UTC)_
