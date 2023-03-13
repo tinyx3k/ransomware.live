@@ -172,6 +172,11 @@ do
             fi
         else
             echo "${host}"
+            curl -s \
+  --form-string "token=${PUSH_API}" \
+  --form-string "user=${PUSH_USER}" \
+  --form-string "message=A New Group has been discovered ${host}" \
+  https://api.pushover.net/1/messages.json
         fi
     fi
 done <<< "${hosts}"

@@ -40,6 +40,8 @@ jobs:
           PUSH_USER: ${{ secrets.PUSH_USER }}
         run: |
           python3 ransomwatch.py parse
+        run: |
+           ./assets/sources.zsh
       - name: Update crypto wallet 
         run: |
           python3 addcrypto.py
