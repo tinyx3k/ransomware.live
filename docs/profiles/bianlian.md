@@ -20,7 +20,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🔴 | 13/03/2023 08:34 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 13/03/2023 18:33 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -28,10 +28,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 127 posts found
+> 128 posts found
 
 | post | date | Description
 |---|---|---|
+| [`S********* *****`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | 13/03/2023 | European organization that delivers financial consulting services. |
 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | 05/03/2023 | Indonesian company that operates in agricultural industry. |
 | [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | 05/03/2023 | A manufacturer of wheels and rims from Canada. |
 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | 05/03/2023 | European real estate company. |
@@ -163,4 +164,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 13/03/2023 17.17 (UTC)_
+Last update : _Monday 13/03/2023 19.25 (UTC)_
