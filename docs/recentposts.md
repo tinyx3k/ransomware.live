@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-13 | [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/1409223d20b07bbc92fcb73aa0eecbc7.png" target=_blank>👀</a> |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-11 | [`onyx-pharma.dz`](https://google.com/search?q=onyx-pharma.dz) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/cdf1ff489bfe367b1778e88c095a5b3a.png" target=_blank>👀</a> |
 | 2023-03-11 | [`imtenan.com`](https://google.com/search?q=imtenan.com) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/e11416500cb377d9caabd69102033b28.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-02-22 | [`siqueiracastro.com.br`](https://google.com/search?q=siqueiracastro.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-22 | [`skylinetrisource.com`](https://google.com/search?q=skylinetrisource.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-22 | [`fosterfarms.com`](https://google.com/search?q=fosterfarms.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-22 | [`EncinoEnergy`](https://google.com/search?q=EncinoEnergy) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Monday 13/03/2023 03.31 (UTC)_
+Last update : _Monday 13/03/2023 05.17 (UTC)_
