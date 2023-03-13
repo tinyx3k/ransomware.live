@@ -4651,23 +4651,23 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 13/03/2023 20:45 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:46 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:46 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:47 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:47 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:48 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:49 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:49 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 13/03/2023 20:50 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:03 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:04 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:04 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:05 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:05 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:06 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:06 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:07 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 13/03/2023 23:07 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
 | LockBit BLOG | 🟢 | 13/03/2023 20:50 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:51 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:51 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:52 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:52 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 13/03/2023 23:09 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 13/03/2023 23:09 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 13/03/2023 23:10 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 13/03/2023 23:12 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
 | LockBit LOGIN | 🟢 | 13/03/2023 20:53 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:53 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 13/03/2023 20:54 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 13/03/2023 23:13 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 13/03/2023 23:14 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
 | LockBit LOGIN | 🟢 | 13/03/2023 20:54 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
 | LockBit LOGIN | 🟢 | 13/03/2023 20:55 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
@@ -4677,11 +4677,12 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 ### Posts
 
-> 607 posts found
+> 608 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`maximumind.com`](https://google.com/search?q=maximumind.com) | 13/03/2023 | I would say we were lucky if SPACE-X contractors were more talkative.But I think this material will find its buyer as soon as possible.Elon Musk we will help you sell your drawings to other manufacturers - build the ship faster and fly away.... |   |
+| [`sabena-engineering.com`](https://google.com/search?q=sabena-engineering.com) | 13/03/2023 | Sabena Engineering is your reference for Maintenance, Repair, Overhaul & Upgrades. We support airlines and air forces around the globe. With our experienced engineers, technicians and mechanics, your fleet is in safe hands. We will attach proofs of... | <a href="https://www.ransomware.live/screenshots/posts/985a7b1861e0aaac2f4f37846dbd5ca8.png" target=_blank>📸</a> |
+| [`maximumind.com`](https://google.com/search?q=maximumind.com) | 13/03/2023 | I would say we were lucky if SPACE-X contractors were more talkative.But I think this material will find its buyer as soon as possible.Elon Musk we will help you sell your drawings to other manufacturers - build the ship faster and fly away.... | <a href="https://www.ransomware.live/screenshots/posts/64eb8022570cabfa506a1566fd71d343.png" target=_blank>📸</a> |
 | [`plasticproductsco.com`](https://google.com/search?q=plasticproductsco.com) | 13/03/2023 | Founded in 1962, Plastic Products is a company that specializes in providing plastic, metal, and ceramic injection molding services. |   |
 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | 11/03/2023 | Founded in 1963, Schrader Camargo is an engineering, procurement, and construction company. Other services Schrader Camargo offers include civil works, electromechanical assemblies, and operation and maintenance in the hydrocarbons |   |
 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | 11/03/2023 | Hospital e Maternidade Vidas is a company that operates in the Hospital & Health Care industry. |   |
@@ -4709,7 +4710,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | 10/03/2023 | Sagardoy Abogados is one of the leading law firms in Spain specialised in employment law, employee benefits, pensions and social security. Since its foundation in 1980, Sagardoy Abogados has been continuously engaged in legal practice, offering our c... |   |
 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | 09/03/2023 | The hotel software hotline is the award-winning hotel program for small and large hotels, with individual extensions and TSE certification.Data related hotline software and hotels they cooperate. |   |
 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | 09/03/2023 | Audio-Technica was founded in Japan on 17th April 1962 by Hideo Matsushita. After operating from a small flat above a ramen shop in Shinjuku, Audio-Technica opened a larger headquarters in Machida, Tokyo, where the company still operates today. |   |
-| [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | 06/03/2023 | Hendrick's customer service, engineering capabilities and manufacturing expertise are second to none. Our commitment to lean manufacturing methods is a testament to our dedication to providing our customers the best product. With 145+ years of manufa... |   |
+| [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | 06/03/2023 | Hendrick's customer service, engineering capabilities and manufacturing expertise are second to none. Our commitment to lean manufacturing methods is a testament to our dedication to providing our customers the best product. With 145+ years of manufa... | <a href="https://www.ransomware.live/screenshots/posts/1b4313e9ef6eed7ba664bab63a4a9e8b.png" target=_blank>📸</a> |
 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | 02/03/2023 |  |   |
 | [`tjel.net`](https://google.com/search?q=tjel.net) | 01/03/2023 | AboutUs: Thai Jurong Engineering Limited (TJEL) was incorporated in December 1988. The company's core business is to provide engineering and construction services in the power generation sector. It also undertakes plant erection for industrial plant... |   |
 | [`egas.no`](https://google.com/search?q=egas.no) | 01/03/2023 |  |   |
@@ -6396,12 +6397,12 @@ _`aka vsop`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Royal Dirkzwager`](https://www.dirkzwager.com) | 13/03/2023 | Netherlands |   |
+| [`Royal Dirkzwager`](https://www.dirkzwager.com) | 13/03/2023 | Netherlands | <a href="https://www.ransomware.live/screenshots/posts/852c908f9b8557bd67b2042268c7ab30.png" target=_blank>📸</a> |
 | [`Real Pro`](https://www.realpro.com) | 11/03/2023 | United States |   |
-| [`Leemock`](https://www.leemock.com) | 11/03/2023 | United States |   |
-| [`The M. K. Morse`](https://www.mkmorse.com) | 11/03/2023 | United States |   |
-| [`Secure Wrap`](https://www.securewrap.com) | 11/03/2023 | United States |   |
-| [`Russell Finex`](https://www.russellfinex.com) | 11/03/2023 | United Kingdom |   |
+| [`Leemock`](https://www.leemock.com) | 11/03/2023 | United States | <a href="https://www.ransomware.live/screenshots/posts/e2b7c0d521a9817de9b1c0bb4ec34a1e.png" target=_blank>📸</a> |
+| [`The M. K. Morse`](https://www.mkmorse.com) | 11/03/2023 | United States | <a href="https://www.ransomware.live/screenshots/posts/c9a37bde0375d116bd4637fad081ca56.png" target=_blank>📸</a> |
+| [`Secure Wrap`](https://www.securewrap.com) | 11/03/2023 | United States | <a href="https://www.ransomware.live/screenshots/posts/b148dc217df5737ee02dc8bd4ab993a7.png" target=_blank>📸</a> |
+| [`Russell Finex`](https://www.russellfinex.com) | 11/03/2023 | United Kingdom | <a href="https://www.ransomware.live/screenshots/posts/285ee92aef310831a869b29063d731ba.png" target=_blank>📸</a> |
 | [`Oakland`](https://www.oaklandca.gov) | 03/03/2023 | United States |   |
 | [`O???a??`](https://www.o???a????.???) | 02/03/2023 | USA |   |
 | [`InPro electric`](https://www.inpro-electric.de) | 24/02/2023 | Germany |   |
@@ -7353,7 +7354,7 @@ _`Forum`_
 | post | date | Description | Screenshot | 
 |---|---|---|---|
 | [`St. Kitts & Nevis`](https://www.gov.kn) | 13/03/2023 | Saint Kitts and Nevis, officially Federation of Saint Kitts and Nevis, also called Saint Christopher and Nevis, state composed of two islands of the Lesser Antilles in the eastern Caribbean Sea. Their combined area is 104 square miles (269 square km). The capital is Basseterre on the island of Saint Kitts. | <a href="https://www.ransomware.live/screenshots/posts/4182e045edbfd6042fdad1f09eebf387.png" target=_blank>📸</a> |
-| [`Delaware Life Insurance Company`](https://www.delawarelife.com/) | 11/03/2023 | Founded in 2013, Delaware Life Insurance Company is a subsidiary of Group 1001 Insurance Holdings,LLC (Group 1001) a dynamic network of businesses making insurance more useful, logical, and accessible for everyone. As of June 30, 2022, the company had assets of $41.8 billion and liabilities of $39.7 billion (does not include Delaware Life Insurance Company of New York) with more than 320,000  active annuity and life insurance policies. |   |
+| [`Delaware Life Insurance Company`](https://www.delawarelife.com/) | 11/03/2023 | Founded in 2013, Delaware Life Insurance Company is a subsidiary of Group 1001 Insurance Holdings,LLC (Group 1001) a dynamic network of businesses making insurance more useful, logical, and accessible for everyone. As of June 30, 2022, the company had assets of $41.8 billion and liabilities of $39.7 billion (does not include Delaware Life Insurance Company of New York) with more than 320,000  active annuity and life insurance policies. | <a href="https://www.ransomware.live/screenshots/posts/0ec975e98308a41d599e2fc8e7227373.png" target=_blank>📸</a> |
 | [`Audio Video`](https://www.audiovideocorp.com/) | 01/03/2023 | Established in 1946 by WWII Veteran Milton A. Klarsfeld, Audio-Video Corporation was initially named The Albany Television Headquarters and was located on Hudson Avenue in Albany, NY. In 1954 the company changed its name to Audio-Video Corporation to better identify with current technology and services. Audio-Video Corporation headquarters is located in Albany, NY with a full service branch office in Syracuse, NY. Additionally, there are three satellite offices spread across NY and New England. Locations include Syracuse NY, Rochester NY, and Burlington VT. |   |
 | [`E&S Heating & Ventilation Ltd`](https:/www.esgroup.co.uk) | 01/03/2023 | E&S Heating & Ventilation Ltd has been at the forefront of ductwork manufacturing technology and investment since 1972. We offer all forms of ductwork manufacture, galvanised, Flameshield fire rated and stainless steel, associated equipment selection along with procurement, installation, insulation, testing and commissioning for air handling systems. |   |
 | [`AESCULAPIUS Farmaceutici`](https://www.aesculapius.it/) | 23/02/2023 | The Research and Development Division is the heart of the company, which invests significant resources in innovation to develop new pharmaceutical products and new formulations with high technological content. |   |
@@ -8650,4 +8651,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Monday 13/03/2023 22.58 (UTC)_
+Last update : _Monday 13/03/2023 23.14 (UTC)_

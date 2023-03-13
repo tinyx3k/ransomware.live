@@ -27,7 +27,7 @@ def main():
                     link = element['id']
                     parts = filename.split('-')
                     url = parts[1].replace('.html','')
-                    post_url = 'http://' + url + '.onion/detail?id=' + link
+                    post_url = 'http://' + url + '.onion/r/' + link
                     website = element['url']
                     description = re.sub(r'<[^>]*>', '',element['info'])
                     # stdlog(title)
