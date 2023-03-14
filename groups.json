@@ -155,12 +155,12 @@
         "locations": [
             {
                 "fqdn": "alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion",
-                "title": " ",
+                "title": null,
                 "version": 3,
                 "slug": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion/api/blog/all/0/12",
-                "available": false,
-                "updated": "2023-03-14 01:39:01.503945",
-                "lastscrape": "2023-03-14 01:39:01.503933",
+                "available": true,
+                "updated": "2023-03-14 06:16:25.865602",
+                "lastscrape": "2023-03-14 06:16:25.865563",
                 "enabled": true,
                 "delay": 60
             },
@@ -179,9 +179,9 @@
                 "title": " ",
                 "version": 3,
                 "slug": "http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion/search",
-                "available": false,
-                "updated": "2023-03-04 21:44:08.139415",
-                "lastscrape": "2023-03-04 21:44:08.139365",
+                "available": true,
+                "updated": "2023-03-14 06:16:58.801378",
+                "lastscrape": "2023-03-14 06:16:58.801352",
                 "enabled": false
             }
         ],

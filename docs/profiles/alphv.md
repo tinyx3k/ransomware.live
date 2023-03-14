@@ -20,9 +20,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 14/03/2023 01:39 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 14/03/2023 06:16 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
-|   | 🔴 | 04/03/2023 21:44 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 14/03/2023 06:16 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -30,10 +30,15 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 307 posts found
+> 312 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Ring: Security Systems`](https://ring.com) | 13/03/2023 | Ring: Security Systems, Cameras, Alarms, and Smart Home Automation | Ring New Battery Doorbell Plus Get the low down on down low. See it all-from people to packages in Head-to-Toe HD+ Video with Battery Doorbell Plus. Pre-Order New Video Doorbells See who's there from anywhere. |
+| [`Guardian Capital`](https://guardian-capital.com/) | 10/03/2023 | Guardian Capital is a privately held real estate development firm. For more than five decades, we have designed and developed residential communities with expansive amenities that provide residents with an exceptional lifestyle experience. We create tastefully curated residential communities with a focus on institutionally-sized, ground-up multifamily development projects in underserved markets.   1,800 UNITS OWNED AND OPERATED 500,000 SQ FT OF RETAIL Property UNDER MANAGMENT 2,500 RESIDENTIAL UNITS IN DEVELOPMENT 40,000 TOTAL HOMES BUILT SINCE INCEPTION 50 PROJECTS ACROSS 8 STATES |
+| [`Lehigh Valley Health Network 2`](https://www.lvhn.org) | 10/03/2023 | Lehigh Valley Health Network is a healthcare network based in the Allentown, Pennsylvania in the Lehigh Valley region of eastern Pennsylvania. The healthcare network serves eastern and northeastern Pennsylvania. Its flagship hospital is Lehigh Valley Hospital-Cedar Crest, located on Cedar Crest Boulevard in Allentown |
+| [`Optieng`](https://www.optieng.com/) | 09/03/2023 | Optieng provides both solutions and equipment that can respond to this need. We design and develop Mechanical Treatment Units. We supply and install complete sorting lines or specific equipment such as crushers, screens, waste separator, digesters, presses. |
+| [`Dancenter`](https://www.dancenter.co.uk) | 09/03/2023 | DanCenter A/S is one of the largest intermediaries of holiday homes in the Danish market. |
 | [`Law Foundation of Silicon Valley`](https://lawfoundation.org) | 06/03/2023 | The Law Foundation of Silicon Valley uses innovative legal advocacy as a tool for social change. We work tirelessly to ensure that every person in our thriving region is granted the same rights and legal access. Every day, our attorneys, social workers and advocates craft inventive solutions to the life-changing legal issues facing low-income people in Silicon Valley.  Our mission is to advance the rights of under-represented individuals and families in our diverse community through legal services, strategic advocacy, and educational outreach. |
 | [`Los Altos Foods`](https://losaltosfoods.com) | 05/03/2023 | We have downloaded 1TB of your data, including full dump of customers attached below. If you will keep silence we will publish whole data pack. |
 | [`Lehigh Valley Health Network`](https://www.lvhn.org) | 05/03/2023 | Founded in 1899, Lehigh Valley Health Network is a healthcare network based in Allentown, Pennsylvania. The healthcare network serves Pennsylvania and its flagship hospital is Lehigh Valley Hospital. |
@@ -345,4 +350,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Tuesday 14/03/2023 03.23 (UTC)_
+Last update : _Tuesday 14/03/2023 06.27 (UTC)_

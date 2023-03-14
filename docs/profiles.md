@@ -134,9 +134,9 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🔴 | 14/03/2023 01:39 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 14/03/2023 06:16 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
-|   | 🔴 | 04/03/2023 21:44 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 14/03/2023 06:16 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -144,10 +144,15 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 307 posts found
+> 312 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`Ring: Security Systems`](https://ring.com) | 13/03/2023 | Ring: Security Systems, Cameras, Alarms, and Smart Home Automation | Ring New Battery Doorbell Plus Get the low down on down low. See it all-from people to packages in Head-to-Toe HD+ Video with Battery Doorbell Plus. Pre-Order New Video Doorbells See who's there from anywhere. | <a href="https://www.ransomware.live/screenshots/posts/486dc3a5740015c9e1c57fd089ed41eb.png" target=_blank>📸</a> |
+| [`Guardian Capital`](https://guardian-capital.com/) | 10/03/2023 | Guardian Capital is a privately held real estate development firm. For more than five decades, we have designed and developed residential communities with expansive amenities that provide residents with an exceptional lifestyle experience. We create tastefully curated residential communities with a focus on institutionally-sized, ground-up multifamily development projects in underserved markets.   1,800 UNITS OWNED AND OPERATED 500,000 SQ FT OF RETAIL Property UNDER MANAGMENT 2,500 RESIDENTIAL UNITS IN DEVELOPMENT 40,000 TOTAL HOMES BUILT SINCE INCEPTION 50 PROJECTS ACROSS 8 STATES | <a href="https://www.ransomware.live/screenshots/posts/b05d3aa73ce2bbbb5539ebe5f3f1ed2a.png" target=_blank>📸</a> |
+| [`Lehigh Valley Health Network 2`](https://www.lvhn.org) | 10/03/2023 | Lehigh Valley Health Network is a healthcare network based in the Allentown, Pennsylvania in the Lehigh Valley region of eastern Pennsylvania. The healthcare network serves eastern and northeastern Pennsylvania. Its flagship hospital is Lehigh Valley Hospital-Cedar Crest, located on Cedar Crest Boulevard in Allentown | <a href="https://www.ransomware.live/screenshots/posts/a9ac0a2c61f1fbddf52f44562ddcc5af.png" target=_blank>📸</a> |
+| [`Optieng`](https://www.optieng.com/) | 09/03/2023 | Optieng provides both solutions and equipment that can respond to this need. We design and develop Mechanical Treatment Units. We supply and install complete sorting lines or specific equipment such as crushers, screens, waste separator, digesters, presses. |   |
+| [`Dancenter`](https://www.dancenter.co.uk) | 09/03/2023 | DanCenter A/S is one of the largest intermediaries of holiday homes in the Danish market. |   |
 | [`Law Foundation of Silicon Valley`](https://lawfoundation.org) | 06/03/2023 | The Law Foundation of Silicon Valley uses innovative legal advocacy as a tool for social change. We work tirelessly to ensure that every person in our thriving region is granted the same rights and legal access. Every day, our attorneys, social workers and advocates craft inventive solutions to the life-changing legal issues facing low-income people in Silicon Valley.  Our mission is to advance the rights of under-represented individuals and families in our diverse community through legal services, strategic advocacy, and educational outreach. | <a href="https://www.ransomware.live/screenshots/posts/5e950fc8865837d3c43e4c48eeeaa921.png" target=_blank>📸</a> |
 | [`Los Altos Foods`](https://losaltosfoods.com) | 05/03/2023 | We have downloaded 1TB of your data, including full dump of customers attached below. If you will keep silence we will publish whole data pack. | <a href="https://www.ransomware.live/screenshots/posts/fbfa2ed7c67dfa22bc23c68faf0e1fff.png" target=_blank>📸</a> |
 | [`Lehigh Valley Health Network`](https://www.lvhn.org) | 05/03/2023 | Founded in 1899, Lehigh Valley Health Network is a healthcare network based in Allentown, Pennsylvania. The healthcare network serves Pennsylvania and its flagship hospital is Lehigh Valley Hospital. | <a href="https://www.ransomware.live/screenshots/posts/aaf731b9c9020094ba76ca8b30cf461a.png" target=_blank>📸</a> |
@@ -4712,7 +4717,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | 10/03/2023 | Sagardoy Abogados is one of the leading law firms in Spain specialised in employment law, employee benefits, pensions and social security. Since its foundation in 1980, Sagardoy Abogados has been continuously engaged in legal practice, offering our c... |   |
 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | 09/03/2023 | The hotel software hotline is the award-winning hotel program for small and large hotels, with individual extensions and TSE certification.Data related hotline software and hotels they cooperate. |   |
 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | 09/03/2023 | Audio-Technica was founded in Japan on 17th April 1962 by Hideo Matsushita. After operating from a small flat above a ramen shop in Shinjuku, Audio-Technica opened a larger headquarters in Machida, Tokyo, where the company still operates today. |   |
-| [`workplace.org`](https://google.com/search?q=workplace.org) | 07/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983.  Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people f... |   |
+| [`workplace.org`](https://google.com/search?q=workplace.org) | 07/03/2023 | The WorkPlace was originally incorporated as the Private Industry Council of Southern Connecticut on August 11, 1983.  Today, we conduct comprehensive planning, and coordinate regional and state-wide workforce development programs to prepare people f... | <a href="https://www.ransomware.live/screenshots/posts/b124395bcdc420c389307bb1063c9d23.png" target=_blank>📸</a> |
 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | 06/03/2023 | Hendrick's customer service, engineering capabilities and manufacturing expertise are second to none. Our commitment to lean manufacturing methods is a testament to our dedication to providing our customers the best product. With 145+ years of manufa... | <a href="https://www.ransomware.live/screenshots/posts/1b4313e9ef6eed7ba664bab63a4a9e8b.png" target=_blank>📸</a> |
 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | 02/03/2023 |  |   |
 | [`tjel.net`](https://google.com/search?q=tjel.net) | 01/03/2023 | AboutUs: Thai Jurong Engineering Limited (TJEL) was incorporated in December 1988. The company's core business is to provide engineering and construction services in the power generation sector. It also undertakes plant erection for industrial plant... |   |
@@ -5721,6 +5726,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 14/03/2023 03:05 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+
 
 ### Posts
 
@@ -8653,4 +8659,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Tuesday 14/03/2023 03.23 (UTC)_
+Last update : _Tuesday 14/03/2023 06.27 (UTC)_
