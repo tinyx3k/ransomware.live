@@ -34,7 +34,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description
 |---|---|---|
-| [`Ring: Security Systems`](https://ring.com) | 13/03/2023 | Ring: Security Systems, Cameras, Alarms, and Smart Home Automation | Ring New Battery Doorbell Plus Get the low down on down low. See it all-from people to packages in Head-to-Toe HD+ Video with Battery Doorbell Plus. Pre-Order New Video Doorbells See who's there from anywhere. |
+| [`Ring: Security Systems`](https://ring.com) | 13/03/2023 | Ring: Security Systems, Cameras, Alarms, and Smart Home Automation  Ring New Battery Doorbell Plus Get the low down on down low. See it all-from people to packages in Head-to-Toe HD+ Video with Battery Doorbell Plus. Pre-Order New Video Doorbells See who's there from anywhere. |
 | [`Guardian Capital`](https://guardian-capital.com/) | 10/03/2023 | Guardian Capital is a privately held real estate development firm. For more than five decades, we have designed and developed residential communities with expansive amenities that provide residents with an exceptional lifestyle experience. We create tastefully curated residential communities with a focus on institutionally-sized, ground-up multifamily development projects in underserved markets.   1,800 UNITS OWNED AND OPERATED 500,000 SQ FT OF RETAIL Property UNDER MANAGMENT 2,500 RESIDENTIAL UNITS IN DEVELOPMENT 40,000 TOTAL HOMES BUILT SINCE INCEPTION 50 PROJECTS ACROSS 8 STATES |
 | [`Lehigh Valley Health Network 2`](https://www.lvhn.org) | 10/03/2023 | Lehigh Valley Health Network is a healthcare network based in the Allentown, Pennsylvania in the Lehigh Valley region of eastern Pennsylvania. The healthcare network serves eastern and northeastern Pennsylvania. Its flagship hospital is Lehigh Valley Hospital-Cedar Crest, located on Cedar Crest Boulevard in Allentown |
 | [`Optieng`](https://www.optieng.com/) | 09/03/2023 | Optieng provides both solutions and equipment that can respond to this need. We design and develop Mechanical Treatment Units. We supply and install complete sorting lines or specific equipment such as crushers, screens, waste separator, digesters, presses. |
@@ -350,4 +350,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Tuesday 14/03/2023 06.27 (UTC)_
+Last update : _Tuesday 14/03/2023 06.37 (UTC)_
