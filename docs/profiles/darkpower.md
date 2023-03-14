@@ -8,7 +8,7 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|  Dark Power Ransomware | 🟢 | 14/03/2023 08:45 | `http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion` | <a href="https://www.ransomware.live/screenshots/powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd-onion.png" target=_blank>📸</a> | 
+|  Dark Power Ransomware | 🟢 | 14/03/2023 10:45 | `http://powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion` | <a href="https://www.ransomware.live/screenshots/powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -30,4 +30,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 14/03/2023 09.17 (UTC)_
+Last update : _Tuesday 14/03/2023 11.16 (UTC)_
