@@ -8,15 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 14/03/2023 03:05 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
-
+| Medusa Blog | 🟢 | 14/03/2023 06:56 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 25 posts found
+> 26 posts found
 
 | post | date | Description
 |---|---|---|
+| [`LLPGroup`](https://google.com/search?q=LLPGroup) | 14/03/2023 | LLP Group is an international software services group founded in 1992 in the Czech Republic with offices in Western, Central and Eastern Europe, North America and Latin America, providing software consulting services, software development, ERP implementation and business process consulting. The company has 30 years of experience in consulting, developing and implementing systems in more than 70 countries around the world. |
 | [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | 13/03/2023 | Bishop Luffa School, named after a former Bishop of Chichester, Ralph de Luffa, is a co-educational Church of England secondary school located in Chichester, West Sussex, England. On December 1, 2013, the school successfully received the status of an academy. At the moment, 1517 students aged 11 to 18 are studying. |
 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | 09/03/2023 | National Business Furniture (NBF), founded in 1975, is an office furniture manufacturer headquartered in Milwaukee, Wisconsin. The company has additional offices in New York, Chicago, Los Angeles, Atlanta, Dallas, Phoenix and Seattle. In 2006, NBF was acquired by TAKKT AG, a leading direct marketing specialist for B2B business equipment in Europe and North America. |
 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | 09/03/2023 | Garbarino, headquartered in Argentina, founded in 1951, is a retail company offering a wide range of products, including technology, appliances, furniture, sportswear, tools. Garbarino offers the most prestigious brands with over 5000 items. |
@@ -46,4 +46,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Tuesday 14/03/2023 06.37 (UTC)_
+Last update : _Tuesday 14/03/2023 07.12 (UTC)_

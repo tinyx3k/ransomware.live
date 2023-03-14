@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-14 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/38e326c16080c5cfbba5a2813c73dab2.png" target=_blank>👀</a> |
 | 2023-03-13 | [`St. Kitts & Nevis`](https://google.com/search?q=St.+Kitts+%26+Nevis) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/4182e045edbfd6042fdad1f09eebf387.png" target=_blank>👀</a> |
 | 2023-03-13 | [`Ring: Security Systems`](https://google.com/search?q=Ring%3A+Security+Systems) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/486dc3a5740015c9e1c57fd089ed41eb.png" target=_blank>👀</a> |
 | 2023-03-13 | [`sabena-engineering.com`](https://google.com/search?q=sabena-engineering.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/985a7b1861e0aaac2f4f37846dbd5ca8.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-02-24 | [`delawarelife.com`](https://google.com/search?q=delawarelife.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-24 | [`Smarter Capital`](https://google.com/search?q=Smarter+Capital) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-24 | [`Schwartz Hautmont Port Shop`](https://google.com/search?q=Schwartz+Hautmont+Port+Shop) | [royal](profiles.md?id=royal) |   |
-| 2023-02-23 | [`The Keen Group`](https://google.com/search?q=The+Keen+Group) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Tuesday 14/03/2023 06.37 (UTC)_
+Last update : _Tuesday 14/03/2023 07.12 (UTC)_
