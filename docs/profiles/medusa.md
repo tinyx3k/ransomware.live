@@ -8,8 +8,7 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 13/03/2023 20:57 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
-
+| Medusa Blog | 🟢 | 14/03/2023 02:02 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -46,4 +45,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Monday 13/03/2023 23.25 (UTC)_
+Last update : _Tuesday 14/03/2023 02.28 (UTC)_

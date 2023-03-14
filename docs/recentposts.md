@@ -108,6 +108,7 @@
 | 2023-03-08 | [`KWS_2`](https://google.com/search?q=KWS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-07 | [`workplace.org`](https://google.com/search?q=workplace.org) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/8e3b80149721495151b984a81b3f9c7a.png" target=_blank>👀</a> |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-06 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/1b4313e9ef6eed7ba664bab63a4a9e8b.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-02-23 | [`AESCULAPIUS Farmaceutici`](https://google.com/search?q=AESCULAPIUS+Farmaceutici) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-02-23 | [`Empresa Distribuidora de Electricidad del Este, Revenue $633.6M`](https://google.com/search?q=Empresa+Distribuidora+de+Electricidad+del+Este%2C+Revenue+%24633.6M) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-22 | [`Bond It`](https://google.com/search?q=Bond+It) | [ransomhouse](profiles.md?id=ransomhouse) |   |
-| 2023-02-22 | [`Kendall Hunt Publishing`](https://google.com/search?q=Kendall+Hunt+Publishing) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Monday 13/03/2023 23.25 (UTC)_
+Last update : _Tuesday 14/03/2023 02.28 (UTC)_
