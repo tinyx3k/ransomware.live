@@ -16,7 +16,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Lorenz | 🟢 | 14/03/2023 06:55 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
+| Lorenz | 🟢 | 14/03/2023 08:58 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -24,10 +24,12 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 
 ### Posts
 
-> 60 posts found
+> 62 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Manning Building Supplies`](https://google.com/search?q=Manning+Building+Supplies) | 14/03/2023 |  |
+| [`Tarolli`](https://google.com/search?q=Tarolli) | 14/03/2023 |  |
 | [`Hopsteiner`](https://google.com/search?q=Hopsteiner) | 20/02/2023 |  |
 | [`AmerisourceBergen/Censora - MWI Animal Health`](https://google.com/search?q=AmerisourceBergen%2FCensora+-+MWI+Animal+Health) | 06/02/2023 |  |
 | [`Chestertons Inc.`](https://google.com/search?q=Chestertons+Inc.) | 10/01/2023 |  |
@@ -92,4 +94,4 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
  --- 
 
 
-Last update : _Tuesday 14/03/2023 07.12 (UTC)_
+Last update : _Tuesday 14/03/2023 09.17 (UTC)_
