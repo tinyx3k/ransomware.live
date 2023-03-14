@@ -12,7 +12,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| 502 Bad Gateway | 🟢 | 14/03/2023 19:09 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 14/03/2023 21:08 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
@@ -21,10 +21,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 31 posts found
+> 32 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Faraday Technology`](https://www.faraday-tech.com/) | 14/03/2023 | Faraday Technology Corporation is a leading fabless ASIC design and silicon IP (intellectual property) provider established in 1993 as the first Asian ASIC vendor. Headquartered in Hsinchu Science Park, Taiwan, Faraday has services and technical support offices around the world, including in US, Japan, China, India and Vietnam to provide customers real-time support. Faraday is listed on the Taiwan Stock Exchange (TWSE) under ticker number 3035. |
 | [`St. Kitts & Nevis`](https://www.gov.kn) | 13/03/2023 | Saint Kitts and Nevis, officially Federation of Saint Kitts and Nevis, also called Saint Christopher and Nevis, state composed of two islands of the Lesser Antilles in the eastern Caribbean Sea. Their combined area is 104 square miles (269 square km). The capital is Basseterre on the island of Saint Kitts. |
 | [`Delaware Life Insurance Company`](https://www.delawarelife.com/) | 11/03/2023 | Founded in 2013, Delaware Life Insurance Company is a subsidiary of Group 1001 Insurance Holdings,LLC (Group 1001) a dynamic network of businesses making insurance more useful, logical, and accessible for everyone. As of June 30, 2022, the company had assets of $41.8 billion and liabilities of $39.7 billion (does not include Delaware Life Insurance Company of New York) with more than 320,000  active annuity and life insurance policies. |
 | [`Audio Video`](https://www.audiovideocorp.com/) | 01/03/2023 | Established in 1946 by WWII Veteran Milton A. Klarsfeld, Audio-Video Corporation was initially named The Albany Television Headquarters and was located on Hudson Avenue in Albany, NY. In 1954 the company changed its name to Audio-Video Corporation to better identify with current technology and services. Audio-Video Corporation headquarters is located in Albany, NY with a full service branch office in Syracuse, NY. Additionally, there are three satellite offices spread across NY and New England. Locations include Syracuse NY, Rochester NY, and Burlington VT. |
@@ -60,4 +61,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 14/03/2023 19.18 (UTC)_
+Last update : _Tuesday 14/03/2023 21.20 (UTC)_

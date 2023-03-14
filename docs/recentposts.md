@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/1fb144bc2fa3867723b3c840a0f04af5.png" target=_blank>👀</a> |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-14 | [`RUBRIK.COM`](https://google.com/search?q=RUBRIK.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-14 | [`ONEX.COM`](https://google.com/search?q=ONEX.COM) | [clop](profiles.md?id=clop) |   |
@@ -204,6 +205,5 @@
 | 2023-02-26 | [`INDIKA ENERGY GLOBAL`](https://google.com/search?q=INDIKA+ENERGY+GLOBAL) | [alphv](profiles.md?id=alphv) |   |
 | 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-02-26 | [`A**** ********* ********* & *****`](https://google.com/search?q=A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%26+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |   |
-| 2023-02-26 | [`D***`](https://google.com/search?q=D%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |   |
 
-Last update : _Tuesday 14/03/2023 19.18 (UTC)_
+Last update : _Tuesday 14/03/2023 21.20 (UTC)_
