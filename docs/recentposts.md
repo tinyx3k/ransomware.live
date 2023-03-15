@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |   |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
-| 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/0318edcb11debb5173409dcea563d087.png" target=_blank>👀</a> |
+| 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) |   |
 | 2023-03-14 | [`essendant.com`](https://google.com/search?q=essendant.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -206,4 +206,4 @@
 | 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Wednesday 15/03/2023 19.17 (UTC)_
+Last update : _Wednesday 15/03/2023 21.07 (UTC)_
