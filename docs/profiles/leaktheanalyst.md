@@ -42,4 +42,4 @@ _`not a ransomware group`_
  --- 
 
 
-Last update : _Wednesday 15/03/2023 07.18 (UTC)_
+Last update : _Wednesday 15/03/2023 09.28 (UTC)_
