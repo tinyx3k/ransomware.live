@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
 | 2023-03-14 | [`essendant.com`](https://google.com/search?q=essendant.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -204,6 +205,5 @@
 | 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`cotteeparker.com.au`](https://google.com/search?q=cotteeparker.com.au) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-26 | [`INDIKA ENERGY GLOBAL`](https://google.com/search?q=INDIKA+ENERGY+GLOBAL) | [alphv](profiles.md?id=alphv) |   |
-| 2023-02-26 | [`G&G Electronics`](https://google.com/search?q=G%26G+Electronics) | [bianlian](profiles.md?id=bianlian) |   |
 
-Last update : _Tuesday 14/03/2023 23.17 (UTC)_
+Last update : _Wednesday 15/03/2023 02.29 (UTC)_
