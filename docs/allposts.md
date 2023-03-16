@@ -1,6 +1,6 @@
 
 
-_All `5432` posts_
+_All `5467` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,41 @@ _All `5432` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-17 | [`Ecolog International`](https://google.com/search?q=Ecolog+International) | [vicesociety](profiles.md?id=vicesociety) |
+| 2023-03-16 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | [medusa](profiles.md?id=medusa) |
+| 2023-03-16 | [`regaltax.us`](https://google.com/search?q=regaltax.us) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`waldogeneral.com`](https://google.com/search?q=waldogeneral.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`mandirisekuritas.co.id`](https://google.com/search?q=mandirisekuritas.co.id) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`meatel.com`](https://google.com/search?q=meatel.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`buehnen.de`](https://google.com/search?q=buehnen.de) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-16 | [`JAYMART.CO.TH`](https://google.com/search?q=JAYMART.CO.TH) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`SERVICESTREAM.COM.AU`](https://google.com/search?q=SERVICESTREAM.COM.AU) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`WORLDMARKET.COM`](https://google.com/search?q=WORLDMARKET.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`WILDFIRE-DEFENSE.COM`](https://google.com/search?q=WILDFIRE-DEFENSE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`SWEEPINGCORP.COM`](https://google.com/search?q=SWEEPINGCORP.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`TUEBORA.COM`](https://google.com/search?q=TUEBORA.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`RATELINX.COM`](https://google.com/search?q=RATELINX.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`FERGUSON.COM`](https://google.com/search?q=FERGUSON.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`ACENURSING.ORG`](https://google.com/search?q=ACENURSING.ORG) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`WELLBE.COM`](https://google.com/search?q=WELLBE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`HELLOBRIGHTLINE.COM`](https://google.com/search?q=HELLOBRIGHTLINE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`HITACHIENERGY.COM`](https://google.com/search?q=HITACHIENERGY.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`SAE.ORG`](https://google.com/search?q=SAE.ORG) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`AVIDXCHANGE.COM`](https://google.com/search?q=AVIDXCHANGE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`GALDERMA.COM`](https://google.com/search?q=GALDERMA.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`NEWEUROPEANOFFSHORE.COM`](https://google.com/search?q=NEWEUROPEANOFFSHORE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`MEDEXHCO.COM`](https://google.com/search?q=MEDEXHCO.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`INVESTQUEBEC.COM`](https://google.com/search?q=INVESTQUEBEC.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`RIOTINTO.COM`](https://google.com/search?q=RIOTINTO.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`ITXCOMPANIES.COM`](https://google.com/search?q=ITXCOMPANIES.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`HOMEWOODHEALTH.COM`](https://google.com/search?q=HOMEWOODHEALTH.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`GUINNESSPARTNERSHIP.COM`](https://google.com/search?q=GUINNESSPARTNERSHIP.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`ALLIEDBENEFIT.COM`](https://google.com/search?q=ALLIEDBENEFIT.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`USWELLNESS.COM`](https://google.com/search?q=USWELLNESS.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`ARCHIVE3`](https://google.com/search?q=ARCHIVE3) | [clop](profiles.md?id=clop) |
+| 2023-03-16 | [`******* A********* *********** *******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |
@@ -5442,4 +5477,4 @@ _All `5432` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 16/03/2023 08.38 (UTC)_
+Last update : _Friday 17/03/2023 00.06 (UTC)_

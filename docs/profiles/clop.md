@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 16/03/2023 06:39 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 16/03/2023 23:42 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,35 @@ _Parser : `Available`_
 
 ### Posts
 
-> 135 posts found
+> 160 posts found
 
 | post | date | Description
 |---|---|---|
+| [`JAYMART.CO.TH`](https://www.JAYMART.CO.TH) | 16/03/2023 |  |
+| [`SERVICESTREAM.COM.AU`](https://www.SERVICESTREAM.COM.AU) | 16/03/2023 |  |
+| [`WORLDMARKET.COM`](https://www.WORLDMARKET.COM) | 16/03/2023 |  |
+| [`WILDFIRE-DEFENSE.COM`](https://www.WILDFIRE-DEFENSE.COM) | 16/03/2023 |  |
+| [`SWEEPINGCORP.COM`](https://www.SWEEPINGCORP.COM) | 16/03/2023 |  |
+| [`TUEBORA.COM`](https://www.TUEBORA.COM) | 16/03/2023 |  |
+| [`RATELINX.COM`](https://www.RATELINX.COM) | 16/03/2023 |  |
+| [`FERGUSON.COM`](https://www.FERGUSON.COM) | 16/03/2023 |  |
+| [`ACENURSING.ORG`](https://www.ACENURSING.ORG) | 16/03/2023 |  |
+| [`WELLBE.COM`](https://www.WELLBE.COM) | 16/03/2023 |  |
+| [`HELLOBRIGHTLINE.COM`](https://www.HELLOBRIGHTLINE.COM) | 16/03/2023 |  |
+| [`HITACHIENERGY.COM`](https://www.HITACHIENERGY.COM) | 16/03/2023 |  |
+| [`SAE.ORG`](https://www.SAE.ORG) | 16/03/2023 |  |
+| [`AVIDXCHANGE.COM`](https://www.AVIDXCHANGE.COM) | 16/03/2023 |  |
+| [`GALDERMA.COM`](https://www.GALDERMA.COM) | 16/03/2023 |  |
+| [`NEWEUROPEANOFFSHORE.COM`](https://www.NEWEUROPEANOFFSHORE.COM) | 16/03/2023 |  |
+| [`MEDEXHCO.COM`](https://www.MEDEXHCO.COM) | 16/03/2023 |  |
+| [`INVESTQUEBEC.COM`](https://www.INVESTQUEBEC.COM) | 16/03/2023 |  |
+| [`RIOTINTO.COM`](https://www.RIOTINTO.COM) | 16/03/2023 |  |
+| [`ITXCOMPANIES.COM`](https://www.ITXCOMPANIES.COM) | 16/03/2023 |  |
+| [`HOMEWOODHEALTH.COM`](https://www.HOMEWOODHEALTH.COM) | 16/03/2023 |  |
+| [`GUINNESSPARTNERSHIP.COM`](https://www.GUINNESSPARTNERSHIP.COM) | 16/03/2023 |  |
+| [`ALLIEDBENEFIT.COM`](https://www.ALLIEDBENEFIT.COM) | 16/03/2023 |  |
+| [`USWELLNESS.COM`](https://www.USWELLNESS.COM) | 16/03/2023 |  |
+| [`ARCHIVE3`](https://www.ARCHIVE3) | 16/03/2023 |  |
 | [`RUBRIK.COM`](https://www.RUBRIK.COM) | 14/03/2023 |  |
 | [`ONEX.COM`](https://www.ONEX.COM) | 14/03/2023 |  |
 | [`PEOPLECORPORATION.COM`](https://www.PEOPLECORPORATION.COM) | 10/03/2023 |  |
@@ -166,4 +191,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/03/2023 08.38 (UTC)_
+Last update : _Friday 17/03/2023 00.06 (UTC)_

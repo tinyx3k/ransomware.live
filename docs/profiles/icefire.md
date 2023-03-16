@@ -11,6 +11,10 @@ _Parser : `Available`_
 | Leakage List | 🔴 | 24/08/2022 13:04 | `http://kf6x3mjeqljqxjznaw65jixin7dpcunfxbbakwuitizytcpzn4iy5bad.onion` | ❌ | 
 | Leakage List | 🔴 | 13/03/2023 04:44 | `http://7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd.onion` | <a href="https://www.ransomware.live/screenshots/7kstc545azxeahkduxmefgwqkrrhq3mzohkzqvrv7aekob7z3iwkqvyd-onion.png" target=_blank>📸</a> | 
 
+
+### Ransom note
+* 📝 Ransom notes :  <a href="/ransomware_notes/icefire/iFire-readme.txt" target=_blank>#1</a> 
+
 ### Posts
 
 > 11 posts found
@@ -32,4 +36,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 16/03/2023 08.38 (UTC)_
+Last update : _Friday 17/03/2023 00.06 (UTC)_
