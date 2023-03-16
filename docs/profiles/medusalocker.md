@@ -10,7 +10,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🟢 | 15/03/2023 22:52 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| Ransomware blog – We will not give ourselves a nam | 🟢 | 16/03/2023 02:14 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -50,4 +50,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 15/03/2023 23.09 (UTC)_
+Last update : _Thursday 16/03/2023 02.32 (UTC)_

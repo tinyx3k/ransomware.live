@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |   |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
 | 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) |   |
@@ -204,6 +205,5 @@
 | 2023-02-27 | [`bocca-sacs.com`](https://google.com/search?q=bocca-sacs.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`wcso.us`](https://google.com/search?q=wcso.us) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-02-27 | [`carveraero.com`](https://google.com/search?q=carveraero.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Wednesday 15/03/2023 23.09 (UTC)_
+Last update : _Thursday 16/03/2023 02.32 (UTC)_

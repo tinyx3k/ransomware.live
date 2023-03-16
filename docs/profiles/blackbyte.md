@@ -27,7 +27,7 @@ _Parser : `Available`_
 | BlackByte BLOG | 🔴 | 28/03/2022 11:17 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 24/04/2022 20:21 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 12/07/2022 20:09 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` | ❌ | 
-| BB Auction | 🟢 | 15/03/2023 22:32 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+| BB Auction | 🟢 | 16/03/2023 01:55 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -35,10 +35,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 100 posts found
+> 101 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Etex Communications`](https://www.etex.net/) | 16/03/2023 | The Company’s rich heritage and continued desire to bring the very best communications services and technology to subscribers is evidenced by the evolutions of the network from open wire strung along fence posts and outhouses to the digital fiber optic network in place today.Etex Telephone Cooperative boasts a service territory of 710 square miles of rural East Texas. Customers within this service area are given the opportunity to purchase local, long distance, digital TV and internet (dial-up and DSL) services at rates comparable to those found in urban areas around the state. Deployment of fiber in the loop further enhances our ability to offer other broadband services. |
 | [`Falcon Holdings`](https://www.falconholdings.com/) | 09/03/2023 | Falcon created the management company of professionals to provide operational expertise and administrative services to a wide range of companies. It serves clients with a level of commitment that is first class in the industry. Implementation of many programs in the company are designed to promote a diverse work force and helping employees excel. Khan is a true example of someone who has taken advantage of the opportunities available and created value to the clients, employees and investors. |
 | [`Wagner CAT`](https://wagnerequipment.com/) | 08/03/2023 | Since 1976, Wagner has been selling and renting quality Cat machines used in heavy construction, building construction, mining, waste handling, paving, municipal and governmental applications, forestry and more. |
 | [`Inland Group`](https://inlandgroup.aero/) | 12/02/2023 | The Inland Group of Companies is a multi-national collective of premier aviation services providers. Each company is highly specialized in their field of expertise with proven track records of providing safe, efficient, and cost-effective aviation services.Integrated Deicing Services (IDS)Aircraft Deicing and Anti-icing Services.Inland Technologies International/Canada (Inland)Aviation Environmental Services.Quantem Aviation Services (QAS)Ground Handling and Terminal Services. |
@@ -143,4 +144,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 15/03/2023 23.09 (UTC)_
+Last update : _Thursday 16/03/2023 02.32 (UTC)_
