@@ -1,3 +1,12 @@
+"""
++------------------------------+------------------+----------+
+| Description | Published Date | Victim's Website | Post URL |
++------------------------------+------------------+----------+
+|              |               |        X         |    X     |
++------------------------------+------------------+----------+
+Rappel : def appender(post_title, group_name, description="", website="", published="", post_url=""):
+"""
+
 import os
 from bs4 import BeautifulSoup
 from parse import appender
@@ -14,4 +23,5 @@ def main():
                 for item in div.contents :
                     if item in blacklist:
                         continue
-                    appender(item, 'clop','_URL_')
+                    post_url= "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/" + str.lower(item.replace(".","-"))
+                    appender(item, 'clop','_URL_','','',post_url)
