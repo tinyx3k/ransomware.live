@@ -8,15 +8,15 @@
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |   |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
-| 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) |   |
+| 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/0318edcb11debb5173409dcea563d087.png" target=_blank>👀</a> |
 | 2023-03-14 | [`essendant.com`](https://google.com/search?q=essendant.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) |   |
+| 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/1fb144bc2fa3867723b3c840a0f04af5.png" target=_blank>👀</a> |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-14 | [`RUBRIK.COM`](https://google.com/search?q=RUBRIK.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-14 | [`ONEX.COM`](https://google.com/search?q=ONEX.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-14 | [`Manning Building Supplies`](https://google.com/search?q=Manning+Building+Supplies) | [lorenz](profiles.md?id=lorenz) |   |
 | 2023-03-14 | [`Tarolli`](https://google.com/search?q=Tarolli) | [lorenz](profiles.md?id=lorenz) |   |
-| 2023-03-14 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | [medusa](profiles.md?id=medusa) |   |
+| 2023-03-14 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/38e326c16080c5cfbba5a2813c73dab2.png" target=_blank>👀</a> |
 | 2023-03-13 | [`St. Kitts & Nevis`](https://google.com/search?q=St.+Kitts+%26+Nevis) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/4182e045edbfd6042fdad1f09eebf387.png" target=_blank>👀</a> |
 | 2023-03-13 | [`Ring: Security Systems`](https://google.com/search?q=Ring%3A+Security+Systems) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/486dc3a5740015c9e1c57fd089ed41eb.png" target=_blank>👀</a> |
 | 2023-03-13 | [`sabena-engineering.com`](https://google.com/search?q=sabena-engineering.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/985a7b1861e0aaac2f4f37846dbd5ca8.png" target=_blank>👀</a> |
@@ -206,4 +206,4 @@
 | 2023-02-27 | [`wcso.us`](https://google.com/search?q=wcso.us) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-02-27 | [`pcproductsinter.com`](https://google.com/search?q=pcproductsinter.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Thursday 16/03/2023 07.23 (UTC)_
+Last update : _Thursday 16/03/2023 08.38 (UTC)_
