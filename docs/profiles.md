@@ -1089,10 +1089,16 @@ _`Solve a scrapping issue on 2023-03-08`_
 
 ### Posts
 
-> 188 posts found
+> 194 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`VORNADO`](https://google.com/search?q=VORNADO) | 17/03/2023 | was founded on the premise that comfort should be constant, bucking the trends of oscillation and utilitarian design. That still holds true today with a broad range of products that enhance efficiency and keep everyone comfortable all year long. Vornado maintains its worldwide reputation for forward-thinking products and above-and-beyond customer service from its headquarters in Andover, Kansas.SITE: https://www.vornado.com Address 415 E 13th St, AndoverKansas, 67002United States | <a href="https://www.ransomware.live/screenshots/posts/9705867d1cca218e8ea7ded3d294036c.png" target=_blank>📸</a> |
+| [`MARSHALLAMPS`](https://google.com/search?q=MARSHALLAMPS) | 17/03/2023 | Marshall has been celebrated by some of the world’s greatest bands and musicians including: Jimi Hendrix, Eric Clapton, Slash, Oasis, Muse, Gorillaz and Bring Me The Horizon. We can be seen on tour with artists like Justin Timberlake, Kendrick Lamar and Lana Del Rey. However, none of this would be possible without founder and revolutionary, Jim Marshall OBE and his son Terry.Jim was born in London on 29 July 1923 and as a child he suffered with tubercular bones which meant that he spent much of his early years hospitalised to the age of 13. At his father’s suggestion he took up tap dancing to strengthen the bones in his legs and he soon discovered that he had a flair for music. Subsequently Jim took up the drums and by the late 1930’s he was playing semi-professionally, before going on to teach.After over 20 years gigging on the road on 7 July 1960, Jim opened a family run music store with his wife Violet and son Terry called ‘Jim Marshall and Son’, at 76 Uxbridge Road, Hanwell, London. Today you will find a plaque on the pavement outside to celebrate our humble beginnings.The store sold a variety of musical instruments and attracted many young emerging talents, such as Pete Townshend, Ritchie Blackmore, John Entwistle and Big Jim Sullivan, who were friends of Terry and knew the music store through Jim’s drum students, such as Keith Moon.SITE: https://marshall.com Address Denbigh Rd, Milton KeynesMilton Keynes, MK1 1DQUnited Kingdom |   |
+| [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | 17/03/2023 | Norman S. Wright Climatec has rapidly grown in recent years to become one of the of premier suppliers of HVAC products and services in the Southern California market. The company’s roots began in 1996 as Airelink Products focusing mainly on air distribution products. Norman S. Wright Mechanical partnered up with Airelink to form Norman S. Wright Airelink and in the process expanded the breath of product lines with a focus on engineering and applied equipment. In 2012 the company evolved to Norman S. Wright of Southern California and continued to increase its engineering and market presence while experiencing rapid growth. With the merging with Climatec Equipment in 2014, Norman S. Wright Climatec was formed, establishing uniform coverage across all of Southern California with one of the most comprehensive offerings of HVAC products in the market.SITE: https://www.nswcla.com Address 3325 East La Palma AvenueAnaheim, CaliforniaUnited States |   |
+| [`ACEA Energia`](https://google.com/search?q=ACEA+Energia) | 17/03/2023 | ACEA EnergiaWe are working to improve residents’ daily lives by offering top quality, essential services - water, energy, lighting and waste treatment. Our aim is to constantly enhance quality, via an efficient management of our infrastructures and major investments in technological innovation. We are the number one Italian operator in the sector of integrated water services. We produce and distribute electricity and illuminate the Capital’s roads and monuments. We are in the sector of the electricity production. We are one of the leading Italian operators in the sale of electricity and gas.Our plants, located across Italy, play a major role in our business. These widely differing technological and complex facilities comprise waste-to-energy, photovoltaic, hydroelectric and thermoelectric power plants. We value our people and support their growth. We communicate to our people the Group’s principles and values and each day are committed to enhancing their sense of belonging, encouraging and supporting their training and professional growth in a fully inclusive environment.SITE: www.acea.it Address *2 Piazzale Ostiense, **Rome, 00154, Italy *Tel: +39 657991 |   |
+| [`Rudman Winchell`](https://google.com/search?q=Rudman+Winchell) | 17/03/2023 | Rudman Winchell has the resources, personnel, and legal expertise to settle your case effectively and affordably. Our 30 plus attorneys specialize in over 40 areas of law which means that there is always a legal expert available to answer your questions, saving you time and money.*Our firm is composed of attorneys that are among the most respected in the state. Newer associates are mentored daily by a team of skilled and experienced partners. Together our attorneys expertly practice in a wide variety of law giving you the confidence that we can counsel you on the complicated or the straightforward. Rudman Winchell has the specialization your matter deserves.SITE: www.rudmanwinchell.com Address 84 Harlow St Ste 4, BangorMaine, 04401, United StatesTel: (207) 947-4501 |   |
+| [`Kittle’s`](https://google.com/search?q=Kittle%E2%80%99s) | 17/03/2023 | Kittle’s offers the most and newest styles, for every budget, providing more furniture choices for your Living Room, Bedroom, Dining Room and Home Office, plus the largest selection of Mattresses from all the major brands. Over 70% of the items we sell are made or assembled here in the USA, some right here in Indiana. So whether you want something as-shown from our enormous inventory, or custom design your own creation and have exactly what you want in about 30 days, Kittle’s gives you the best value and the most personal service before, during and after the sale.More than just another furniture store - our commitment to quality and service is unmatched. Kittle’s has been recognized as a Top Workplace, awarded National Furniture Retailer of the year by Furniture Today Magazine, and consistently rated above 4-Stars! You can buy online here, but we recommend seeing furniture and especially trying out a mattress before you buy- so you’re always welcome to come browse in our showrooms - and we hope to see you soon!SITE: kittles.com Address 8600 Allisonville RdIndianapolis, IN 46250Unite State |   |
 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | 08/03/2023 | Aurubis – Metals for progressWith our metals, we create the foundation for technologies of the future. Being smart and connected doesn’t work without metals. Whether renewable energies, electric vehicles, digitalization, or urbanization, the demand for metals will continue to rise. For more than 150 years, Aurubis has produced copper and other metals that are crucial for modernization and for the ongoing development of our lives over the next decades. As a result, the company considers itself a real multimetal provider.SITE: https://aurubis.com Address Aurubis AG, Germany |   |
 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | 08/03/2023 | Headquarters: 1624 Intermodal Pkwy, Haslet, Texas, 76052, United StatesPhone Number: (817) 491-4788Website: www.motivatingraphics.comRevenue: $14 MillionSince 1976, Motivating Graphics has been comprised of the most accomplished professionals in the print and packaging industry. Our focus on manufacturing premium packaging products coupled with the most technologically advanced equipment, positions MG as a world leader in the packaging industry.In an effort to best accommodate the industry trends, Motivating Graphics has created a true “One-Stop-Shop” solution with an extensive list of capabilities including: design, prototyping, transit testing, manufacturing, repair/ refurbishment and kitting and fulfillment of premium products and packaging. |   |
 | [`LLF Lawyers`](https://google.com/search?q=LLF+Lawyers) | 08/03/2023 | LLF Lawyers is a full service Peterborough law firm located in Peterborough with offices now in Bobcaygeon.  With 18 lawyers, supported by a team of skilled support staff, LLF Lawyers offers clients extensive experience in a diverse range of practice areas.Whether our clients are individuals or businesses, our goal is the same: to partner with them to provide personalized service, creative legal thinking, and cost effective solutions. It is the dedication and pride in client service that enables our firm to form solid and lasting relationships as trusted advisors.We are active in our community, participating in service and charitable organizations while remaining informed and knowledgeable on local issues, to bring a sensitive approach to the specific needs of our clients.SITE: www.llf.ca Address 332 Aylmer St NPeterborough, OntarioK9H 3V6, Canada(705) 742-1674 |   |
@@ -7657,7 +7663,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Royal | 🟢 | 17/03/2023 00:06 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 16/03/2023 07:12 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/03/2023 00:07 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -7839,7 +7845,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🟢 | 16/03/2023 07:12 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | <a href="https://www.ransomware.live/screenshots/t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/03/2023 00:07 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | <a href="https://www.ransomware.live/screenshots/t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -7923,7 +7929,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🟢 | 16/03/2023 07:13 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 17/03/2023 00:08 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
 | Access Denied | 🔴 | 29/01/2023 17:17 | `http://snatch.press` | <a href="https://www.ransomware.live/screenshots/snatch-press.png" target=_blank>📸</a> | 
 
 
@@ -8192,7 +8198,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🔴 | 16/03/2023 05:06 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 17/03/2023 00:08 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://nbzzb6sa6xuura2z.onion` | ❌ | 
 
 
@@ -8276,7 +8282,7 @@ _`no longer in operation - rebrand`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Sign up | 🟢 | 16/03/2023 07:15 | `http://3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad.onion` | <a href="https://www.ransomware.live/screenshots/3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad-onion.png" target=_blank>📸</a> | 
+| Sign up | 🟢 | 17/03/2023 00:08 | `http://3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad.onion` | <a href="https://www.ransomware.live/screenshots/3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -8341,7 +8347,7 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Vendetta | 🟢 | 16/03/2023 07:15 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| Vendetta | 🟢 | 17/03/2023 00:09 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -8388,11 +8394,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 16/03/2023 07:16 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 00:10 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 16/03/2023 07:17 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 16/03/2023 07:18 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 16/03/2023 07:20 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 00:10 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 00:11 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 00:12 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -8589,7 +8595,7 @@ _`ecdmr42axxx.onion - fileserver`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BITCARDS - Prepaid cards | 🟢 | 16/03/2023 05:10 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` | <a href="https://www.ransomware.live/screenshots/nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid-onion.png" target=_blank>📸</a> | 
+| BITCARDS - Prepaid cards | 🟢 | 17/03/2023 00:12 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` | <a href="https://www.ransomware.live/screenshots/nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -8715,4 +8721,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 17/03/2023 00.06 (UTC)_
+Last update : _Friday 17/03/2023 00.20 (UTC)_

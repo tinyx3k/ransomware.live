@@ -5,6 +5,12 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-17 | [`VORNADO`](https://google.com/search?q=VORNADO) | [blackbasta](profiles.md?id=blackbasta) | <a href="https://www.ransomware.live/screenshots/posts/9705867d1cca218e8ea7ded3d294036c.png" target=_blank>👀</a> |
+| 2023-03-17 | [`MARSHALLAMPS`](https://google.com/search?q=MARSHALLAMPS) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-17 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-17 | [`ACEA Energia`](https://google.com/search?q=ACEA+Energia) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-17 | [`Rudman Winchell`](https://google.com/search?q=Rudman+Winchell) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-17 | [`Kittle’s`](https://google.com/search?q=Kittle%E2%80%99s) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Ecolog International`](https://google.com/search?q=Ecolog+International) | [vicesociety](profiles.md?id=vicesociety) |   |
 | 2023-03-16 | [`JAYMART.CO.TH`](https://google.com/search?q=JAYMART.CO.TH) | [clop](profiles.md?id=clop) |   |
 | 2023-03-16 | [`SERVICESTREAM.COM.AU`](https://google.com/search?q=SERVICESTREAM.COM.AU) | [clop](profiles.md?id=clop) |   |
@@ -199,11 +205,5 @@
 | 2023-03-02 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/f475fe59164e56852753fe19a798a3f8.png" target=_blank>👀</a> |
 | 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
 | 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
-| 2023-03-02 | [`SkyFiber Networks`](https://google.com/search?q=SkyFiber+Networks) | [alphv](profiles.md?id=alphv) |   |
-| 2023-03-02 | [`Bettuzzi And Partners`](https://google.com/search?q=Bettuzzi+And+Partners) | [ransomexx](profiles.md?id=ransomexx) | <a href="https://www.ransomware.live/screenshots/posts/1c0cb8624685acdbee6d3b8a03404682.png" target=_blank>👀</a> |
-| 2023-03-02 | [`ascentengrs.com`](https://google.com/search?q=ascentengrs.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-02 | [`The Metropolitan Opera`](https://google.com/search?q=The+Metropolitan+Opera) | [snatch](profiles.md?id=snatch) | <a href="https://www.ransomware.live/screenshots/posts/f392fbce80940a2127bf2ff2b863ade1.png" target=_blank>👀</a> |
-| 2023-03-02 | [`O???a??`](https://google.com/search?q=O%3F%3F%3Fa%3F%3F) | [play](profiles.md?id=play) |   |
-| 2023-03-02 | [`FIMM`](https://google.com/search?q=FIMM) | [royal](profiles.md?id=royal) |   |
 
-Last update : _Friday 17/03/2023 00.06 (UTC)_
+Last update : _Friday 17/03/2023 00.20 (UTC)_
