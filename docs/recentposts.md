@@ -5,7 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
-| 2023-03-17 | [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/e54d47a2b0e86f1c2780e0b0d402de04.png" target=_blank>👀</a> |
+| 2023-03-17 | [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | [clop](profiles.md?id=clop) |   |
 | 2023-03-17 | [`VORNADO`](https://google.com/search?q=VORNADO) | [blackbasta](profiles.md?id=blackbasta) | <a href="https://www.ransomware.live/screenshots/posts/9705867d1cca218e8ea7ded3d294036c.png" target=_blank>👀</a> |
 | 2023-03-17 | [`MARSHALLAMPS`](https://google.com/search?q=MARSHALLAMPS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](profiles.md?id=blackbasta) |   |
@@ -206,4 +206,4 @@
 | 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
 | 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Friday 17/03/2023 02.29 (UTC)_
+Last update : _Friday 17/03/2023 03.26 (UTC)_
