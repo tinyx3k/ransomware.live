@@ -1,6 +1,6 @@
 
 
-_All `5475` posts_
+_All `5476` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5475` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-17 | [`DGM Industrie`](https://google.com/search?q=DGM+Industrie) | [royal](profiles.md?id=royal) |
 | 2023-03-17 | [`AAA Energy Service`](https://google.com/search?q=AAA+Energy+Service) | [royal](profiles.md?id=royal) |
 | 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-16 | [`perfectplacement.co.uk`](https://google.com/search?q=perfectplacement.co.uk) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5485,4 +5486,4 @@ _All `5475` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 17/03/2023 13.39 (UTC)_
+Last update : _Friday 17/03/2023 15.06 (UTC)_
