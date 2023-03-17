@@ -5,9 +5,16 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`TaxAssist Accountants`](https://google.com/search?q=TaxAssist+Accountants) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`draftPros`](https://google.com/search?q=draftPros) | [play](profiles.md?id=play) |   |
 | 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-17 | [`AAA Energy Service`](https://google.com/search?q=AAA+Energy+Service) | [royal](profiles.md?id=royal) |   |
-| 2023-03-17 | [`DGM Industrie`](https://google.com/search?q=DGM+Industrie) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/483d22c0300914c300ac57f9337cd051.png" target=_blank>👀</a> |
+| 2023-03-17 | [`DGM Industrie`](https://google.com/search?q=DGM+Industrie) | [royal](profiles.md?id=royal) |   |
 | 2023-03-17 | [`VORNADO`](https://google.com/search?q=VORNADO) | [blackbasta](profiles.md?id=blackbasta) | <a href="https://www.ransomware.live/screenshots/posts/9705867d1cca218e8ea7ded3d294036c.png" target=_blank>👀</a> |
 | 2023-03-17 | [`MARSHALLAMPS`](https://google.com/search?q=MARSHALLAMPS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](profiles.md?id=blackbasta) |   |
@@ -198,12 +205,5 @@
 | 2023-03-04 | [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | [mallox](profiles.md?id=mallox) |   |
 | 2023-03-04 | [`The WorkPlace`](https://google.com/search?q=The+WorkPlace) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/ae76339e63e4d753a8f0f603e9ee3d11.png" target=_blank>👀</a> |
 | 2023-03-03 | [`HUNOSA`](https://google.com/search?q=HUNOSA) | [vicesociety](profiles.md?id=vicesociety) |   |
-| 2023-03-03 | [`New Leak in lawyers company AASP.`](https://google.com/search?q=New+Leak+in+lawyers+company+AASP.) | [ragnarlocker](profiles.md?id=ragnarlocker) | <a href="https://www.ransomware.live/screenshots/posts/d08e572f64851a91e904d4fcd6a19ab0.png" target=_blank>👀</a> |
-| 2023-03-03 | [`New Leak in lawyers company.`](https://google.com/search?q=New+Leak+in+lawyers+company.) | [ragnarlocker](profiles.md?id=ragnarlocker) |   |
-| 2023-03-03 | [`ACCSC`](https://google.com/search?q=ACCSC) | [bianlian](profiles.md?id=bianlian) |   |
-| 2023-03-03 | [`Zerbe Retirement Community`](https://google.com/search?q=Zerbe+Retirement+Community) | [bianlian](profiles.md?id=bianlian) |   |
-| 2023-03-03 | [`PLP Architecture`](https://google.com/search?q=PLP+Architecture) | [bianlian](profiles.md?id=bianlian) |   |
-| 2023-03-03 | [`M**** M************`](https://google.com/search?q=M%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |   |
-| 2023-03-03 | [`Parques Reunidos`](https://google.com/search?q=Parques+Reunidos) | [bianlian](profiles.md?id=bianlian) |   |
 
-Last update : _Friday 17/03/2023 15.06 (UTC)_
+Last update : _Friday 17/03/2023 17.32 (UTC)_
