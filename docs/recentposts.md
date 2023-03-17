@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-17 | [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/e54d47a2b0e86f1c2780e0b0d402de04.png" target=_blank>👀</a> |
 | 2023-03-17 | [`VORNADO`](https://google.com/search?q=VORNADO) | [blackbasta](profiles.md?id=blackbasta) | <a href="https://www.ransomware.live/screenshots/posts/9705867d1cca218e8ea7ded3d294036c.png" target=_blank>👀</a> |
 | 2023-03-17 | [`MARSHALLAMPS`](https://google.com/search?q=MARSHALLAMPS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](profiles.md?id=blackbasta) |   |
@@ -12,31 +13,30 @@
 | 2023-03-17 | [`Rudman Winchell`](https://google.com/search?q=Rudman+Winchell) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Kittle’s`](https://google.com/search?q=Kittle%E2%80%99s) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Ecolog International`](https://google.com/search?q=Ecolog+International) | [vicesociety](profiles.md?id=vicesociety) |   |
-| 2023-03-16 | [`JAYMART.CO.TH`](https://google.com/search?q=JAYMART.CO.TH) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`SERVICESTREAM.COM.AU`](https://google.com/search?q=SERVICESTREAM.COM.AU) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`WORLDMARKET.COM`](https://google.com/search?q=WORLDMARKET.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`WILDFIRE-DEFENSE.COM`](https://google.com/search?q=WILDFIRE-DEFENSE.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`SWEEPINGCORP.COM`](https://google.com/search?q=SWEEPINGCORP.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`TUEBORA.COM`](https://google.com/search?q=TUEBORA.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`RATELINX.COM`](https://google.com/search?q=RATELINX.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`FERGUSON.COM`](https://google.com/search?q=FERGUSON.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`ACENURSING.ORG`](https://google.com/search?q=ACENURSING.ORG) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`WELLBE.COM`](https://google.com/search?q=WELLBE.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`HELLOBRIGHTLINE.COM`](https://google.com/search?q=HELLOBRIGHTLINE.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`HITACHIENERGY.COM`](https://google.com/search?q=HITACHIENERGY.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`SAE.ORG`](https://google.com/search?q=SAE.ORG) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`AVIDXCHANGE.COM`](https://google.com/search?q=AVIDXCHANGE.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`GALDERMA.COM`](https://google.com/search?q=GALDERMA.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`NEWEUROPEANOFFSHORE.COM`](https://google.com/search?q=NEWEUROPEANOFFSHORE.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`MEDEXHCO.COM`](https://google.com/search?q=MEDEXHCO.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`INVESTQUEBEC.COM`](https://google.com/search?q=INVESTQUEBEC.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`RIOTINTO.COM`](https://google.com/search?q=RIOTINTO.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`ITXCOMPANIES.COM`](https://google.com/search?q=ITXCOMPANIES.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`HOMEWOODHEALTH.COM`](https://google.com/search?q=HOMEWOODHEALTH.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`GUINNESSPARTNERSHIP.COM`](https://google.com/search?q=GUINNESSPARTNERSHIP.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`ALLIEDBENEFIT.COM`](https://google.com/search?q=ALLIEDBENEFIT.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`USWELLNESS.COM`](https://google.com/search?q=USWELLNESS.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-16 | [`ARCHIVE3`](https://google.com/search?q=ARCHIVE3) | [clop](profiles.md?id=clop) |   |
+| 2023-03-16 | [`JAYMART.CO.TH`](https://google.com/search?q=JAYMART.CO.TH) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/fb22d1ea1746de1a42d7518bd2d5784f.png" target=_blank>👀</a> |
+| 2023-03-16 | [`SERVICESTREAM.COM.AU`](https://google.com/search?q=SERVICESTREAM.COM.AU) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2e574b8398ca839fe96d3fb88f54752b.png" target=_blank>👀</a> |
+| 2023-03-16 | [`WORLDMARKET.COM`](https://google.com/search?q=WORLDMARKET.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/c1f63809ed460c3b7e3cc9e171b63bb2.png" target=_blank>👀</a> |
+| 2023-03-16 | [`WILDFIRE-DEFENSE.COM`](https://google.com/search?q=WILDFIRE-DEFENSE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/6b4f90a1dd22beb1cdf56605be245bee.png" target=_blank>👀</a> |
+| 2023-03-16 | [`SWEEPINGCORP.COM`](https://google.com/search?q=SWEEPINGCORP.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/29d36f1bf067a56add5152f8046f208a.png" target=_blank>👀</a> |
+| 2023-03-16 | [`TUEBORA.COM`](https://google.com/search?q=TUEBORA.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/4b3a2e66cf39913276b9e5793f9aa28c.png" target=_blank>👀</a> |
+| 2023-03-16 | [`RATELINX.COM`](https://google.com/search?q=RATELINX.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/1ef5e1f733f42f18ade449e86eadad01.png" target=_blank>👀</a> |
+| 2023-03-16 | [`FERGUSON.COM`](https://google.com/search?q=FERGUSON.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/bf348d16795d22bd0ce66ed8da466a1b.png" target=_blank>👀</a> |
+| 2023-03-16 | [`ACENURSING.ORG`](https://google.com/search?q=ACENURSING.ORG) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/be82638312d01ecfe9f0d7fe9f4ab558.png" target=_blank>👀</a> |
+| 2023-03-16 | [`WELLBE.COM`](https://google.com/search?q=WELLBE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/1ef1ae3102ea72762b1fd41c6600eadc.png" target=_blank>👀</a> |
+| 2023-03-16 | [`HELLOBRIGHTLINE.COM`](https://google.com/search?q=HELLOBRIGHTLINE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/4ea583088568830f091172caae5b03de.png" target=_blank>👀</a> |
+| 2023-03-16 | [`HITACHIENERGY.COM`](https://google.com/search?q=HITACHIENERGY.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/46e0c4712b55473fd8f8a1176334519a.png" target=_blank>👀</a> |
+| 2023-03-16 | [`SAE.ORG`](https://google.com/search?q=SAE.ORG) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/f3ef8f023262f2db7c0dede8bbaed5d0.png" target=_blank>👀</a> |
+| 2023-03-16 | [`AVIDXCHANGE.COM`](https://google.com/search?q=AVIDXCHANGE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/c5594bc30a424ce01d318d2980775195.png" target=_blank>👀</a> |
+| 2023-03-16 | [`GALDERMA.COM`](https://google.com/search?q=GALDERMA.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/91a3ff4809580a77e745993a150e8942.png" target=_blank>👀</a> |
+| 2023-03-16 | [`NEWEUROPEANOFFSHORE.COM`](https://google.com/search?q=NEWEUROPEANOFFSHORE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/6d06e0bc7b873a7a39bf68c3b4699199.png" target=_blank>👀</a> |
+| 2023-03-16 | [`MEDEXHCO.COM`](https://google.com/search?q=MEDEXHCO.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/b488496c9af6aa7969d49da0d46e91d4.png" target=_blank>👀</a> |
+| 2023-03-16 | [`INVESTQUEBEC.COM`](https://google.com/search?q=INVESTQUEBEC.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/fb0c6d65c8c1fc88ea88e0ef63cd7b58.png" target=_blank>👀</a> |
+| 2023-03-16 | [`RIOTINTO.COM`](https://google.com/search?q=RIOTINTO.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/fae3150d2da4381abca09fdaaa7693cd.png" target=_blank>👀</a> |
+| 2023-03-16 | [`ITXCOMPANIES.COM`](https://google.com/search?q=ITXCOMPANIES.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2e83bf16b39bfc4b084071a3c319148f.png" target=_blank>👀</a> |
+| 2023-03-16 | [`HOMEWOODHEALTH.COM`](https://google.com/search?q=HOMEWOODHEALTH.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/8938fa8c9ea27ab5154d1888b4403c84.png" target=_blank>👀</a> |
+| 2023-03-16 | [`GUINNESSPARTNERSHIP.COM`](https://google.com/search?q=GUINNESSPARTNERSHIP.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/17b68154bc29b4c559cc1cd278dde88d.png" target=_blank>👀</a> |
+| 2023-03-16 | [`ALLIEDBENEFIT.COM`](https://google.com/search?q=ALLIEDBENEFIT.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/3212abcefc079069a94025e19d1f09f5.png" target=_blank>👀</a> |
+| 2023-03-16 | [`USWELLNESS.COM`](https://google.com/search?q=USWELLNESS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2bd3bfb24323276c550d7c981e54a138.png" target=_blank>👀</a> |
 | 2023-03-16 | [`******* A********* *********** *******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/c874c714ba5d982887ece234a4b10947.png" target=_blank>👀</a> |
 | 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -54,7 +54,7 @@
 | 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/1fb144bc2fa3867723b3c840a0f04af5.png" target=_blank>👀</a> |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-14 | [`RUBRIK.COM`](https://google.com/search?q=RUBRIK.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/8dffda73b4d801d5db01a02e0f12b173.png" target=_blank>👀</a> |
-| 2023-03-14 | [`ONEX.COM`](https://google.com/search?q=ONEX.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-14 | [`ONEX.COM`](https://google.com/search?q=ONEX.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/5753ff097c9a5dd2321e7bd6f013fa01.png" target=_blank>👀</a> |
 | 2023-03-14 | [`Manning Building Supplies`](https://google.com/search?q=Manning+Building+Supplies) | [lorenz](profiles.md?id=lorenz) |   |
 | 2023-03-14 | [`Tarolli`](https://google.com/search?q=Tarolli) | [lorenz](profiles.md?id=lorenz) |   |
 | 2023-03-14 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/38e326c16080c5cfbba5a2813c73dab2.png" target=_blank>👀</a> |
@@ -111,10 +111,10 @@
 | 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-10 | [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-10 | [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2010b7dff415b877c5e892bb74512174.png" target=_blank>👀</a> |
 | 2023-03-10 | [`AXISBANK.COM`](https://google.com/search?q=AXISBANK.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-10 | [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-10 | [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-10 | [`HOUSELOAN.COM`](https://google.com/search?q=HOUSELOAN.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2c4181efe58438d17adc0b3497e330a2.png" target=_blank>👀</a> |
+| 2023-03-10 | [`ALIVIAHEALTH.COM`](https://google.com/search?q=ALIVIAHEALTH.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/c112ce4c443b7cd4f5f2224cf28f6250.png" target=_blank>👀</a> |
 | 2023-03-10 | [`sagardoy.com`](https://google.com/search?q=sagardoy.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`Lehigh Valley Health Network 2`](https://google.com/search?q=Lehigh+Valley+Health+Network+2) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/a9ac0a2c61f1fbddf52f44562ddcc5af.png" target=_blank>👀</a> |
 | 2023-03-10 | [`Little Mountain Residential Care and Housing Society`](https://google.com/search?q=Little+Mountain+Residential+Care+and+Housing+Society) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/30f8cc8a03429c76d6e702cb6bb0e9aa.png" target=_blank>👀</a> |
@@ -166,7 +166,7 @@
 | 2023-03-08 | [`fflawoffice`](https://google.com/search?q=fflawoffice) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`KWS_2`](https://google.com/search?q=KWS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |   |
-| 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/0c4ff939afe42353d440717eab258fca.png" target=_blank>👀</a> |
 | 2023-03-07 | [`workplace.org`](https://google.com/search?q=workplace.org) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/b124395bcdc420c389307bb1063c9d23.png" target=_blank>👀</a> |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/8e3b80149721495151b984a81b3f9c7a.png" target=_blank>👀</a> |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |   |
@@ -206,4 +206,4 @@
 | 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
 | 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Friday 17/03/2023 00.20 (UTC)_
+Last update : _Friday 17/03/2023 02.29 (UTC)_

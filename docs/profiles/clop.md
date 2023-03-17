@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 16/03/2023 23:42 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 17/03/2023 01:56 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 160 posts found
+> 159 posts found
 
 | post | date | Description
 |---|---|---|
+| [`ARCHIVE2`](https://www.ARCHIVE2) | 17/03/2023 |  |
 | [`JAYMART.CO.TH`](https://www.JAYMART.CO.TH) | 16/03/2023 |  |
 | [`SERVICESTREAM.COM.AU`](https://www.SERVICESTREAM.COM.AU) | 16/03/2023 |  |
 | [`WORLDMARKET.COM`](https://www.WORLDMARKET.COM) | 16/03/2023 |  |
@@ -51,7 +52,6 @@ _Parser : `Available`_
 | [`GUINNESSPARTNERSHIP.COM`](https://www.GUINNESSPARTNERSHIP.COM) | 16/03/2023 |  |
 | [`ALLIEDBENEFIT.COM`](https://www.ALLIEDBENEFIT.COM) | 16/03/2023 |  |
 | [`USWELLNESS.COM`](https://www.USWELLNESS.COM) | 16/03/2023 |  |
-| [`ARCHIVE3`](https://www.ARCHIVE3) | 16/03/2023 |  |
 | [`RUBRIK.COM`](https://www.RUBRIK.COM) | 14/03/2023 |  |
 | [`ONEX.COM`](https://www.ONEX.COM) | 14/03/2023 |  |
 | [`PEOPLECORPORATION.COM`](https://www.PEOPLECORPORATION.COM) | 10/03/2023 |  |
@@ -131,7 +131,6 @@ _Parser : `Available`_
 | [`VALLEYTRUCKANDTRACTOR.COM`](https://google.com/search?q=VALLEYTRUCKANDTRACTOR.COM) | 22/12/2022 | Agriculture & Turf Equipment & Services - Papé Machinery |
 | [`KSSARCHITECTS.COM`](https://google.com/search?q=KSSARCHITECTS.COM) | 22/12/2022 | KSS Architects |
 | [`NFT.CO.UK`](https://google.com/search?q=NFT.CO.UK) | 22/12/2022 |  |
-| [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | 22/12/2022 |  |
 | [`UTILITYTRAILER.COM`](https://google.com/search?q=UTILITYTRAILER.COM) | 22/12/2022 | 403 Forbidden |
 | [`AUROBINDO.COM`](https://google.com/search?q=AUROBINDO.COM) | 22/12/2022 | Pharmaceutical Manufacturing and Exports, Research and Development in Pharma – Aurobindo Pharma |
 | [`FOODLAND.COM`](https://google.com/search?q=FOODLAND.COM) | 22/12/2022 | Foodland Homepage - Foodland |
@@ -191,4 +190,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 17/03/2023 00.20 (UTC)_
+Last update : _Friday 17/03/2023 02.29 (UTC)_

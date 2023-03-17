@@ -5,8 +5,8 @@
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| 0mega - Blog | 🟢 | 16/03/2023 23:33 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
-| 0mega - Blog | 🟢 | 16/03/2023 23:34 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
+| 0mega - Blog | 🟢 | 17/03/2023 01:46 | `http://omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd.onion` | <a href="https://www.ransomware.live/screenshots/omegalock5zxwbhswbisc42o2q2i54vdulyvtqqbudqousisjgc7j7yd-onion.png" target=_blank>📸</a> | 
+| 0mega - Blog | 🟢 | 17/03/2023 01:47 | `http://0mega.cc` | <a href="https://www.ransomware.live/screenshots/0mega-cc.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -27,8 +27,8 @@
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Database Error | 🟢 | 16/03/2023 23:34 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | <a href="https://www.ransomware.live/screenshots/abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd-onion.png" target=_blank>📸</a> | 
-| تبر ابراهیم – Abraham's Ax | 🟢 | 16/03/2023 23:35 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
+| Database Error | 🟢 | 17/03/2023 01:47 | `http://abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd.onion` | <a href="https://www.ransomware.live/screenshots/abrahamm32umasogaqojib3ey2w2nwoafffrguq43tsyke4s3fz3w4yd-onion.png" target=_blank>📸</a> | 
+| تبر ابراهیم – Abraham's Ax | 🟢 | 17/03/2023 01:48 | `http://abrahams-ax.se` | <a href="https://www.ransomware.live/screenshots/abrahams-ax-se.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -134,7 +134,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 16/03/2023 23:36 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+|   | 🟢 | 17/03/2023 01:49 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 14/03/2023 06:16 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -751,8 +751,8 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| DDOS Protection | 🔴 | 16/03/2023 01:50 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
-| AvosLocker | 🟢 | 16/03/2023 23:36 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
+| DDOS Protection | 🟢 | 17/03/2023 01:49 | `http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion` | <a href="https://www.ransomware.live/screenshots/avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad-onion.png" target=_blank>📸</a> | 
+| AvosLocker | 🔴 | 16/03/2023 23:36 | `http://avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad.onion` | <a href="https://www.ransomware.live/screenshots/avosjon4pfh3y7ew3jdwz6ofw7lljcxlbk7hcxxmnxlh5kvf2akcqjad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -871,7 +871,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Babuk - Leaks site | 🟢 | 16/03/2023 23:37 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
+| Babuk - Leaks site | 🟢 | 17/03/2023 01:50 | `http://nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid.onion` | <a href="https://www.ransomware.live/screenshots/nq4zyac4ukl4tykmidbzgdlvaboqeqsemkp4t35bzvjeve6zm2lqcjid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -924,7 +924,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BianLian - Home | 🟢 | 16/03/2023 23:37 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
+| BianLian - Home | 🟢 | 17/03/2023 01:51 | `http://bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad.onion` | <a href="https://www.ransomware.live/screenshots/bianlianlbc5an4kgnay3opdemgcryg2kpfcbgczopmm3dnbz3uaunad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1079,9 +1079,9 @@ _`Solve a scrapping issue on 2023-03-08`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| 403 Forbidden | 🟢 | 16/03/2023 23:38 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | 🟢 | 16/03/2023 23:38 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | 🟢 | 16/03/2023 23:38 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
+| 403 Forbidden | 🟢 | 17/03/2023 01:51 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
+| Chat Black Basta | 🟢 | 17/03/2023 01:51 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
+| Chat Black Basta | 🟢 | 17/03/2023 01:52 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
 
 
 ### Ransom note
@@ -1315,7 +1315,7 @@ _`Solve a scrapping issue on 2023-03-08`_
 | BlackByte BLOG | 🔴 | 28/03/2022 11:17 | `http://dlyo7r3n4qy5fzv4645nddjwarj7wjdd6wzckomcyc7akskkxp4glcad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 24/04/2022 20:21 | `http://fl3xpz5bmgzxy4fmebhgsbycgnz24uosp3u4g33oiln627qq3gyw37ad.onion` | ❌ | 
 | BlackByte BLOG | 🔴 | 12/07/2022 20:09 | `http://ce6roic2ykdjunyzazsxmjpz5wsar4pflpoqzntyww5c2eskcp7dq4yd.onion` | ❌ | 
-| BB Auction | 🟢 | 16/03/2023 23:41 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
+| BB Auction | 🟢 | 17/03/2023 01:54 | `http://jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad.onion` | <a href="https://www.ransomware.live/screenshots/jbeg2dct2zhku6c2vwnpxtm2psnjo2xnqvvpoiiwr5hxnc6wrp3uhnad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1547,7 +1547,7 @@ _`previous clearnet domain blackshadow.cc`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BlueSky DECRYPTOR | 🟢 | 16/03/2023 23:41 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
+| BlueSky DECRYPTOR | 🔴 | 16/03/2023 23:41 | `http://ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion` | <a href="https://www.ransomware.live/screenshots/ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1621,7 +1621,7 @@ _`claim to donate 80% of earnings to charity`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Login | 🟢 | 16/03/2023 23:42 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
+| Login | 🟢 | 17/03/2023 01:55 | `http://z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion` | <a href="https://www.ransomware.live/screenshots/z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1647,7 +1647,7 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 16/03/2023 23:42 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 17/03/2023 01:56 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1655,73 +1655,73 @@ _`claim to donate 80% of earnings to charity`_
 
 ### Posts
 
-> 160 posts found
+> 159 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`JAYMART.CO.TH`](https://www.JAYMART.CO.TH) | 16/03/2023 |  |   |
-| [`SERVICESTREAM.COM.AU`](https://www.SERVICESTREAM.COM.AU) | 16/03/2023 |  |   |
-| [`WORLDMARKET.COM`](https://www.WORLDMARKET.COM) | 16/03/2023 |  |   |
-| [`WILDFIRE-DEFENSE.COM`](https://www.WILDFIRE-DEFENSE.COM) | 16/03/2023 |  |   |
-| [`SWEEPINGCORP.COM`](https://www.SWEEPINGCORP.COM) | 16/03/2023 |  |   |
-| [`TUEBORA.COM`](https://www.TUEBORA.COM) | 16/03/2023 |  |   |
-| [`RATELINX.COM`](https://www.RATELINX.COM) | 16/03/2023 |  |   |
-| [`FERGUSON.COM`](https://www.FERGUSON.COM) | 16/03/2023 |  |   |
-| [`ACENURSING.ORG`](https://www.ACENURSING.ORG) | 16/03/2023 |  |   |
-| [`WELLBE.COM`](https://www.WELLBE.COM) | 16/03/2023 |  |   |
-| [`HELLOBRIGHTLINE.COM`](https://www.HELLOBRIGHTLINE.COM) | 16/03/2023 |  |   |
-| [`HITACHIENERGY.COM`](https://www.HITACHIENERGY.COM) | 16/03/2023 |  |   |
-| [`SAE.ORG`](https://www.SAE.ORG) | 16/03/2023 |  |   |
-| [`AVIDXCHANGE.COM`](https://www.AVIDXCHANGE.COM) | 16/03/2023 |  |   |
-| [`GALDERMA.COM`](https://www.GALDERMA.COM) | 16/03/2023 |  |   |
-| [`NEWEUROPEANOFFSHORE.COM`](https://www.NEWEUROPEANOFFSHORE.COM) | 16/03/2023 |  |   |
-| [`MEDEXHCO.COM`](https://www.MEDEXHCO.COM) | 16/03/2023 |  |   |
-| [`INVESTQUEBEC.COM`](https://www.INVESTQUEBEC.COM) | 16/03/2023 |  |   |
-| [`RIOTINTO.COM`](https://www.RIOTINTO.COM) | 16/03/2023 |  |   |
-| [`ITXCOMPANIES.COM`](https://www.ITXCOMPANIES.COM) | 16/03/2023 |  |   |
-| [`HOMEWOODHEALTH.COM`](https://www.HOMEWOODHEALTH.COM) | 16/03/2023 |  |   |
-| [`GUINNESSPARTNERSHIP.COM`](https://www.GUINNESSPARTNERSHIP.COM) | 16/03/2023 |  |   |
-| [`ALLIEDBENEFIT.COM`](https://www.ALLIEDBENEFIT.COM) | 16/03/2023 |  |   |
-| [`USWELLNESS.COM`](https://www.USWELLNESS.COM) | 16/03/2023 |  |   |
-| [`ARCHIVE3`](https://www.ARCHIVE3) | 16/03/2023 |  |   |
+| [`ARCHIVE2`](https://www.ARCHIVE2) | 17/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/e54d47a2b0e86f1c2780e0b0d402de04.png" target=_blank>📸</a> |
+| [`JAYMART.CO.TH`](https://www.JAYMART.CO.TH) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/fb22d1ea1746de1a42d7518bd2d5784f.png" target=_blank>📸</a> |
+| [`SERVICESTREAM.COM.AU`](https://www.SERVICESTREAM.COM.AU) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2e574b8398ca839fe96d3fb88f54752b.png" target=_blank>📸</a> |
+| [`WORLDMARKET.COM`](https://www.WORLDMARKET.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c1f63809ed460c3b7e3cc9e171b63bb2.png" target=_blank>📸</a> |
+| [`WILDFIRE-DEFENSE.COM`](https://www.WILDFIRE-DEFENSE.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/6b4f90a1dd22beb1cdf56605be245bee.png" target=_blank>📸</a> |
+| [`SWEEPINGCORP.COM`](https://www.SWEEPINGCORP.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/29d36f1bf067a56add5152f8046f208a.png" target=_blank>📸</a> |
+| [`TUEBORA.COM`](https://www.TUEBORA.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/4b3a2e66cf39913276b9e5793f9aa28c.png" target=_blank>📸</a> |
+| [`RATELINX.COM`](https://www.RATELINX.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/1ef5e1f733f42f18ade449e86eadad01.png" target=_blank>📸</a> |
+| [`FERGUSON.COM`](https://www.FERGUSON.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/bf348d16795d22bd0ce66ed8da466a1b.png" target=_blank>📸</a> |
+| [`ACENURSING.ORG`](https://www.ACENURSING.ORG) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/be82638312d01ecfe9f0d7fe9f4ab558.png" target=_blank>📸</a> |
+| [`WELLBE.COM`](https://www.WELLBE.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/1ef1ae3102ea72762b1fd41c6600eadc.png" target=_blank>📸</a> |
+| [`HELLOBRIGHTLINE.COM`](https://www.HELLOBRIGHTLINE.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/4ea583088568830f091172caae5b03de.png" target=_blank>📸</a> |
+| [`HITACHIENERGY.COM`](https://www.HITACHIENERGY.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/46e0c4712b55473fd8f8a1176334519a.png" target=_blank>📸</a> |
+| [`SAE.ORG`](https://www.SAE.ORG) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/f3ef8f023262f2db7c0dede8bbaed5d0.png" target=_blank>📸</a> |
+| [`AVIDXCHANGE.COM`](https://www.AVIDXCHANGE.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c5594bc30a424ce01d318d2980775195.png" target=_blank>📸</a> |
+| [`GALDERMA.COM`](https://www.GALDERMA.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/91a3ff4809580a77e745993a150e8942.png" target=_blank>📸</a> |
+| [`NEWEUROPEANOFFSHORE.COM`](https://www.NEWEUROPEANOFFSHORE.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/6d06e0bc7b873a7a39bf68c3b4699199.png" target=_blank>📸</a> |
+| [`MEDEXHCO.COM`](https://www.MEDEXHCO.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/b488496c9af6aa7969d49da0d46e91d4.png" target=_blank>📸</a> |
+| [`INVESTQUEBEC.COM`](https://www.INVESTQUEBEC.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/fb0c6d65c8c1fc88ea88e0ef63cd7b58.png" target=_blank>📸</a> |
+| [`RIOTINTO.COM`](https://www.RIOTINTO.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/fae3150d2da4381abca09fdaaa7693cd.png" target=_blank>📸</a> |
+| [`ITXCOMPANIES.COM`](https://www.ITXCOMPANIES.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2e83bf16b39bfc4b084071a3c319148f.png" target=_blank>📸</a> |
+| [`HOMEWOODHEALTH.COM`](https://www.HOMEWOODHEALTH.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/8938fa8c9ea27ab5154d1888b4403c84.png" target=_blank>📸</a> |
+| [`GUINNESSPARTNERSHIP.COM`](https://www.GUINNESSPARTNERSHIP.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/17b68154bc29b4c559cc1cd278dde88d.png" target=_blank>📸</a> |
+| [`ALLIEDBENEFIT.COM`](https://www.ALLIEDBENEFIT.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/3212abcefc079069a94025e19d1f09f5.png" target=_blank>📸</a> |
+| [`USWELLNESS.COM`](https://www.USWELLNESS.COM) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2bd3bfb24323276c550d7c981e54a138.png" target=_blank>📸</a> |
 | [`RUBRIK.COM`](https://www.RUBRIK.COM) | 14/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/8dffda73b4d801d5db01a02e0f12b173.png" target=_blank>📸</a> |
-| [`ONEX.COM`](https://www.ONEX.COM) | 14/03/2023 |  |   |
+| [`ONEX.COM`](https://www.ONEX.COM) | 14/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/5753ff097c9a5dd2321e7bd6f013fa01.png" target=_blank>📸</a> |
 | [`PEOPLECORPORATION.COM`](https://www.PEOPLECORPORATION.COM) | 10/03/2023 |  |   |
-| [`MEDMINDER.COM`](https://www.MEDMINDER.COM) | 10/03/2023 |  |   |
+| [`MEDMINDER.COM`](https://www.MEDMINDER.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2010b7dff415b877c5e892bb74512174.png" target=_blank>📸</a> |
 | [`AXISBANK.COM`](https://www.AXISBANK.COM) | 10/03/2023 |  |   |
-| [`HOUSELOAN.COM`](https://www.HOUSELOAN.COM) | 10/03/2023 |  |   |
-| [`ALIVIAHEALTH.COM`](https://www.ALIVIAHEALTH.COM) | 10/03/2023 |  |   |
-| [`GROUPAMANA.COM`](https://www.GROUPAMANA.COM) | 07/03/2023 |  |   |
+| [`HOUSELOAN.COM`](https://www.HOUSELOAN.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2c4181efe58438d17adc0b3497e330a2.png" target=_blank>📸</a> |
+| [`ALIVIAHEALTH.COM`](https://www.ALIVIAHEALTH.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c112ce4c443b7cd4f5f2224cf28f6250.png" target=_blank>📸</a> |
+| [`GROUPAMANA.COM`](https://www.GROUPAMANA.COM) | 07/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/0c4ff939afe42353d440717eab258fca.png" target=_blank>📸</a> |
 | [`HATCHBANK.COM`](https://www.HATCHBANK.COM) | 06/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/a2da86be3f71c7ac936936c63a545fe2.png" target=_blank>📸</a> |
-| [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association |   |
-| [`CGMLLC.NET`](https://www.CGMLLC.NET) | 05/01/2023 | CGM, LLC |   |
-| [`UNISALLE.EDU.CO`](https://www.lasalle.edu.co/) | 04/01/2023 | Universidad de La Salle |   |
-| [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 | Custom Software Development Company - Softeq |   |
-| [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  |   |
-| [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  |   |
-| [`LOESCHGROUP.DE`](https://google.com/search?q=LOESCHGROUP.DE) | 22/12/2022 | Loeschgroup – Beschläge, Sicherheits- und Türschließtechnik |   |
-| [`SOUTH-STAFFS-WATER.CO.UK`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK) | 22/12/2022 | South Staffs Water - South Staffordshire Water |   |
-| [`APPLEXUS.COM`](https://google.com/search?q=APPLEXUS.COM) | 22/12/2022 | SAP Software Solutions - SAP Consulting & Implementation Company |   |
-| [`SPINNEYS.COM`](https://google.com/search?q=SPINNEYS.COM) | 22/12/2022 | Spinneys UAE - Supermarket and Grocery Delivery in Dubai, Abu Dhabi, Al Ain & Fujairah |   |
-| [`PRICEDEX.COM`](https://google.com/search?q=PRICEDEX.COM) | 22/12/2022 | Home - Pricedex Software |   |
-| [`FERRAN-SERVICES.COM`](https://google.com/search?q=FERRAN-SERVICES.COM) | 22/12/2022 | AC & Heating Services in Orlando, FL - HVAC Installation throughout Volusia, Winter Park, Windermere, Oviedo & Lake Mary, FL |   |
-| [`LATOURNERIE-WOLFROM.COM`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM) | 22/12/2022 | Latournerie Wolfrom Avocats - France et International depuis 25 ans |   |
-| [`ENSSECURITY.COM`](https://google.com/search?q=ENSSECURITY.COM) | 22/12/2022 | ENS Security Camera is a Distributor Manufacturer surveillance supplier |   |
-| [`FTSUMNERK12.COM`](https://google.com/search?q=FTSUMNERK12.COM) | 22/12/2022 | Fort Sumner Home Page |   |
-| [`NEWCOURSECC.COM`](https://google.com/search?q=NEWCOURSECC.COM) | 22/12/2022 | Newcourse Communications - Full-service Data-Processing Print Provider |   |
-| [`PERBIT.COM`](https://google.com/search?q=PERBIT.COM) | 22/12/2022 | Die HR Software mit Wir-Prinzip |   |
-| [`888VOIP.COM`](https://google.com/search?q=888VOIP.COM) | 22/12/2022 | Your value-added distributor - 888VoIP |   |
-| [`AFJCONSULTING.NET`](https://google.com/search?q=AFJCONSULTING.NET) | 22/12/2022 |  |   |
-| [`ORBITELECTRIC.COM`](https://google.com/search?q=ORBITELECTRIC.COM) | 22/12/2022 | Orbit Industries, Inc. |   |
-| [`FAIR-RITE.COM`](https://google.com/search?q=FAIR-RITE.COM) | 22/12/2022 | Index - Fair Rite |   |
-| [`JDAVIDTAXLAW.COM`](https://google.com/search?q=JDAVIDTAXLAW.COM) | 22/12/2022 | Access denied |   |
-| [`THENOC.NET`](https://google.com/search?q=THENOC.NET) | 22/12/2022 | The Network Operations Company – Providing Managed IT Services |   |
-| [`ZISSERFAMILYLAW.COM`](https://google.com/search?q=ZISSERFAMILYLAW.COM) | 22/12/2022 | Family Lawyers in Jacksonville, FL - Zisser Family Law |   |
-| [`SA1SOLUTIONS.COM`](https://google.com/search?q=SA1SOLUTIONS.COM) | 22/12/2022 | SA1 Solutions - Award Winning IT Support in Swansea, Cardiff and South Wales |   |
-| [`OAKDELL.COM`](https://google.com/search?q=OAKDELL.COM) | 22/12/2022 | Oakdell Egg Farms - Home |   |
-| [`ALTERNATIVETECHS.COM`](https://google.com/search?q=ALTERNATIVETECHS.COM) | 22/12/2022 | 403 Forbidden |   |
-| [`DRIVEANDSHINE.COM`](https://google.com/search?q=DRIVEANDSHINE.COM) | 22/12/2022 | Home - Drive & Shine |   |
-| [`DRC-LAW.COM`](https://google.com/search?q=DRC-LAW.COM) | 22/12/2022 | Homepage - Dymond Reagor, PLLC |   |
+| [`NYCBAR.ORG`](https://google.com/search?q=NYCBAR.ORG) | 13/01/2023 | New York City Bar Association | <a href="https://www.ransomware.live/screenshots/posts/f782f29b1d0ec21779c4f1ae4b1ef618.png" target=_blank>📸</a> |
+| [`CGMLLC.NET`](https://www.CGMLLC.NET) | 05/01/2023 | CGM, LLC | <a href="https://www.ransomware.live/screenshots/posts/f5b067396ec8b9586bb0546f49e2e12f.png" target=_blank>📸</a> |
+| [`UNISALLE.EDU.CO`](https://www.lasalle.edu.co/) | 04/01/2023 | Universidad de La Salle | <a href="https://www.ransomware.live/screenshots/posts/8638825f86b7aa0ab479ec9ae3b63e44.png" target=_blank>📸</a> |
+| [`SOFTEQ.COM`](https://google.com/search?q=SOFTEQ.COM) | 22/12/2022 | Custom Software Development Company - Softeq | <a href="https://www.ransomware.live/screenshots/posts/432214d0f04463faa0eb2b31f0d0bdc7.png" target=_blank>📸</a> |
+| [`MARCELSOLUTION.COM`](https://google.com/search?q=MARCELSOLUTION.COM) | 22/12/2022 |  | <a href="https://www.ransomware.live/screenshots/posts/4567324939b36477b41f2849a440a8c3.png" target=_blank>📸</a> |
+| [`ORDEREXPRESS.COM.MX`](https://google.com/search?q=ORDEREXPRESS.COM.MX) | 22/12/2022 |  | <a href="https://www.ransomware.live/screenshots/posts/9ccb41c9a5ba2b6e356ab2c12e8a2236.png" target=_blank>📸</a> |
+| [`LOESCHGROUP.DE`](https://google.com/search?q=LOESCHGROUP.DE) | 22/12/2022 | Loeschgroup – Beschläge, Sicherheits- und Türschließtechnik | <a href="https://www.ransomware.live/screenshots/posts/a3c5a9f7052bedb7fc46a9b0efa8cfe6.png" target=_blank>📸</a> |
+| [`SOUTH-STAFFS-WATER.CO.UK`](https://google.com/search?q=SOUTH-STAFFS-WATER.CO.UK) | 22/12/2022 | South Staffs Water - South Staffordshire Water | <a href="https://www.ransomware.live/screenshots/posts/9b2dfdb1fcac4809326bda2e93620cbe.png" target=_blank>📸</a> |
+| [`APPLEXUS.COM`](https://google.com/search?q=APPLEXUS.COM) | 22/12/2022 | SAP Software Solutions - SAP Consulting & Implementation Company | <a href="https://www.ransomware.live/screenshots/posts/54d5d0f4fe8d07cb85fe5d7e973ea458.png" target=_blank>📸</a> |
+| [`SPINNEYS.COM`](https://google.com/search?q=SPINNEYS.COM) | 22/12/2022 | Spinneys UAE - Supermarket and Grocery Delivery in Dubai, Abu Dhabi, Al Ain & Fujairah | <a href="https://www.ransomware.live/screenshots/posts/1e00f98a4c9cb75453ae2abf2252aed7.png" target=_blank>📸</a> |
+| [`PRICEDEX.COM`](https://google.com/search?q=PRICEDEX.COM) | 22/12/2022 | Home - Pricedex Software | <a href="https://www.ransomware.live/screenshots/posts/8291d97b4e2a442a7516ff437fbdea8e.png" target=_blank>📸</a> |
+| [`FERRAN-SERVICES.COM`](https://google.com/search?q=FERRAN-SERVICES.COM) | 22/12/2022 | AC & Heating Services in Orlando, FL - HVAC Installation throughout Volusia, Winter Park, Windermere, Oviedo & Lake Mary, FL | <a href="https://www.ransomware.live/screenshots/posts/1cee1a5a87142f789d6c79a344846d35.png" target=_blank>📸</a> |
+| [`LATOURNERIE-WOLFROM.COM`](https://google.com/search?q=LATOURNERIE-WOLFROM.COM) | 22/12/2022 | Latournerie Wolfrom Avocats - France et International depuis 25 ans | <a href="https://www.ransomware.live/screenshots/posts/db78fc544926a2a97040699f41e99a71.png" target=_blank>📸</a> |
+| [`ENSSECURITY.COM`](https://google.com/search?q=ENSSECURITY.COM) | 22/12/2022 | ENS Security Camera is a Distributor Manufacturer surveillance supplier | <a href="https://www.ransomware.live/screenshots/posts/f6e07756431a5ae1838402dacede00a0.png" target=_blank>📸</a> |
+| [`FTSUMNERK12.COM`](https://google.com/search?q=FTSUMNERK12.COM) | 22/12/2022 | Fort Sumner Home Page | <a href="https://www.ransomware.live/screenshots/posts/5b453f0bc5e8f572cd69fd05429cbcc5.png" target=_blank>📸</a> |
+| [`NEWCOURSECC.COM`](https://google.com/search?q=NEWCOURSECC.COM) | 22/12/2022 | Newcourse Communications - Full-service Data-Processing Print Provider | <a href="https://www.ransomware.live/screenshots/posts/92fc0dc6702cf559008e0f7dbf44a2ed.png" target=_blank>📸</a> |
+| [`PERBIT.COM`](https://google.com/search?q=PERBIT.COM) | 22/12/2022 | Die HR Software mit Wir-Prinzip | <a href="https://www.ransomware.live/screenshots/posts/6d64438c5b8ea1b4d15c0b1c5d64408b.png" target=_blank>📸</a> |
+| [`888VOIP.COM`](https://google.com/search?q=888VOIP.COM) | 22/12/2022 | Your value-added distributor - 888VoIP | <a href="https://www.ransomware.live/screenshots/posts/f0d84a05384e336577b93f3c9d68ce91.png" target=_blank>📸</a> |
+| [`AFJCONSULTING.NET`](https://google.com/search?q=AFJCONSULTING.NET) | 22/12/2022 |  | <a href="https://www.ransomware.live/screenshots/posts/4d406f659329005efaec2f75c78290ff.png" target=_blank>📸</a> |
+| [`ORBITELECTRIC.COM`](https://google.com/search?q=ORBITELECTRIC.COM) | 22/12/2022 | Orbit Industries, Inc. | <a href="https://www.ransomware.live/screenshots/posts/4d9993776df930ed30fc87240871480e.png" target=_blank>📸</a> |
+| [`FAIR-RITE.COM`](https://google.com/search?q=FAIR-RITE.COM) | 22/12/2022 | Index - Fair Rite | <a href="https://www.ransomware.live/screenshots/posts/2b5f1ff0442296a694b1b72a7336a5be.png" target=_blank>📸</a> |
+| [`JDAVIDTAXLAW.COM`](https://google.com/search?q=JDAVIDTAXLAW.COM) | 22/12/2022 | Access denied | <a href="https://www.ransomware.live/screenshots/posts/d22faf96b98bd7c7587c815f7beefc86.png" target=_blank>📸</a> |
+| [`THENOC.NET`](https://google.com/search?q=THENOC.NET) | 22/12/2022 | The Network Operations Company – Providing Managed IT Services | <a href="https://www.ransomware.live/screenshots/posts/080b0499156fa297cd6b2b49e2eb1db8.png" target=_blank>📸</a> |
+| [`ZISSERFAMILYLAW.COM`](https://google.com/search?q=ZISSERFAMILYLAW.COM) | 22/12/2022 | Family Lawyers in Jacksonville, FL - Zisser Family Law | <a href="https://www.ransomware.live/screenshots/posts/c6446e04dc23a438bb7f309bde7d77ed.png" target=_blank>📸</a> |
+| [`SA1SOLUTIONS.COM`](https://google.com/search?q=SA1SOLUTIONS.COM) | 22/12/2022 | SA1 Solutions - Award Winning IT Support in Swansea, Cardiff and South Wales | <a href="https://www.ransomware.live/screenshots/posts/3841ffcd3f479d0bba5633825f808a71.png" target=_blank>📸</a> |
+| [`OAKDELL.COM`](https://google.com/search?q=OAKDELL.COM) | 22/12/2022 | Oakdell Egg Farms - Home | <a href="https://www.ransomware.live/screenshots/posts/0cdbceca1819911122f6f6aa0a6beead.png" target=_blank>📸</a> |
+| [`ALTERNATIVETECHS.COM`](https://google.com/search?q=ALTERNATIVETECHS.COM) | 22/12/2022 | 403 Forbidden | <a href="https://www.ransomware.live/screenshots/posts/46f48f07b3d83d5abf7d9aa043cc1f0d.png" target=_blank>📸</a> |
+| [`DRIVEANDSHINE.COM`](https://google.com/search?q=DRIVEANDSHINE.COM) | 22/12/2022 | Home - Drive & Shine | <a href="https://www.ransomware.live/screenshots/posts/dc27e09c85afdb2704a862ca79a82bd9.png" target=_blank>📸</a> |
+| [`DRC-LAW.COM`](https://google.com/search?q=DRC-LAW.COM) | 22/12/2022 | Homepage - Dymond Reagor, PLLC | <a href="https://www.ransomware.live/screenshots/posts/3723ac0d510a92ae09a962bc2470c44d.png" target=_blank>📸</a> |
 | [`ALEXIM.COM`](https://google.com/search?q=ALEXIM.COM) | 22/12/2022 |  |   |
 | [`CAPCARPET.COM`](https://google.com/search?q=CAPCARPET.COM) | 22/12/2022 | CAP Carpet & Flooring Store - Hardwood, Waterproof Tile & Plank Floors, Ceramic Tile, Custom Area Rugs |   |
 | [`JBINSTANTLAWN.NET`](https://google.com/search?q=JBINSTANTLAWN.NET) | 22/12/2022 | JB Instant Lawn -  Resources |   |
@@ -1763,7 +1763,6 @@ _`claim to donate 80% of earnings to charity`_
 | [`VALLEYTRUCKANDTRACTOR.COM`](https://google.com/search?q=VALLEYTRUCKANDTRACTOR.COM) | 22/12/2022 | Agriculture & Turf Equipment & Services - Papé Machinery |   |
 | [`KSSARCHITECTS.COM`](https://google.com/search?q=KSSARCHITECTS.COM) | 22/12/2022 | KSS Architects |   |
 | [`NFT.CO.UK`](https://google.com/search?q=NFT.CO.UK) | 22/12/2022 |  |   |
-| [`ARCHIVE2`](https://google.com/search?q=ARCHIVE2) | 22/12/2022 |  |   |
 | [`UTILITYTRAILER.COM`](https://google.com/search?q=UTILITYTRAILER.COM) | 22/12/2022 | 403 Forbidden |   |
 | [`AUROBINDO.COM`](https://google.com/search?q=AUROBINDO.COM) | 22/12/2022 | Pharmaceutical Manufacturing and Exports, Research and Development in Pharma – Aurobindo Pharma |   |
 | [`FOODLAND.COM`](https://google.com/search?q=FOODLAND.COM) | 22/12/2022 | Foodland Homepage - Foodland |   |
@@ -1837,7 +1836,7 @@ _`livechat host contirecj4hbzmyzuydyzrvm2c65blmvhoj2cvf25zqj2dwrrqcq5oad.onion`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | CONTI.News | 🔴 | 22/06/2022 06:25 | `http://continewsnv5otx5kaoje7krkto2qbu3gtqef22mnr7eaxw3y6ncz3ad.onion` | ❌ | 
-| none | 🟢 | 16/03/2023 23:42 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
+| 403 Forbidden | 🟢 | 17/03/2023 01:56 | `http://continews.click` | <a href="https://www.ransomware.live/screenshots/continews-click.png" target=_blank>📸</a> | 
 | Error Response Page | 🔴 | 23/11/2022 12:36 | `http://continews.bz` | ❌ | 
 
 
@@ -2268,7 +2267,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://cuba4mp6ximo2zlo.onion` | ❌ | 
-| Cuba | 🟢 | 16/03/2023 23:43 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| Cuba | 🔴 | 16/03/2023 23:43 | `http://cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -2407,7 +2406,7 @@ _`not a ransomware group, also ref 7k4y[...]7eid.onion/documents.html`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 10/11/2022 22:30 | `http://232fwh5cea3ub6qguz3pynijxfzl2uj3c73nbrayipf3gq25vtq2r4qd.onion` | ❌ | 
-| Data Leak | 🟢 | 16/03/2023 23:43 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
+| Data Leak | 🟢 | 17/03/2023 01:57 | `http://7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd.onion` | <a href="https://www.ransomware.live/screenshots/7ukmkdtyxdkdivtjad57klqnd3kdsmq6tp45rrsxqnu76zzv3jvitlqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -2479,9 +2478,9 @@ _`marketplace - not a ransomware group, reputation questionable`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Dark Leak Market | 🔴 | 07/10/2021 16:14 | `http://54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion` | ❌ | 
-| fresh CC Fullz CVV autoShop Buy Fullz Online – Ful | 🟢 | 16/03/2023 23:44 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | <a href="https://www.ransomware.live/screenshots/aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd-onion.png" target=_blank>📸</a> | 
-| Dark Leak Market | 🟢 | 16/03/2023 23:44 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` | <a href="https://www.ransomware.live/screenshots/darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid-onion.png" target=_blank>📸</a> | 
-| Dark Leak Market | 🟢 | 16/03/2023 23:45 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | <a href="https://www.ransomware.live/screenshots/darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd-onion.png" target=_blank>📸</a> | 
+| fresh CC Fullz CVV autoShop Buy Fullz Online – Ful | 🟢 | 17/03/2023 01:58 | `http://aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion` | <a href="https://www.ransomware.live/screenshots/aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd-onion.png" target=_blank>📸</a> | 
+| Dark Leak Market | 🟢 | 17/03/2023 01:58 | `http://darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion` | <a href="https://www.ransomware.live/screenshots/darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid-onion.png" target=_blank>📸</a> | 
+| Dark Leak Market | 🟢 | 17/03/2023 01:59 | `http://darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion` | <a href="https://www.ransomware.live/screenshots/darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -2773,7 +2772,7 @@ _`captcha prevents indexing`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Everest Ransomware Group | 🟢 | 16/03/2023 23:46 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
+| Everest Ransomware Group | 🟢 | 17/03/2023 01:59 | `http://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion` | <a href="https://www.ransomware.live/screenshots/ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -3414,8 +3413,8 @@ _`aka hotarus corp`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Chat | 🟢 | 16/03/2023 23:47 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
-| Magazine | 🟢 | 16/03/2023 23:47 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
+| Chat | 🟢 | 17/03/2023 02:00 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
+| Magazine | 🟢 | 17/03/2023 02:01 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
 
@@ -3529,7 +3528,7 @@ _`not a ransomware group`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Error | 🟢 | 16/03/2023 23:48 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
+| Error | 🟢 | 17/03/2023 02:01 | `http://kelvinsecteamcyber.wixsite.com` | <a href="https://www.ransomware.live/screenshots/kelvinsecteamcyber-wixsite-com.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -4698,25 +4697,25 @@ _`previous clearnet fqdn lockbitapt.uz`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| LockBit BLOG | 🟢 | 16/03/2023 23:48 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:49 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:49 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:50 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:50 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:50 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:51 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:51 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🔴 | 16/03/2023 04:48 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
-| LockBit BLOG | 🟢 | 16/03/2023 23:52 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:52 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:53 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:53 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:53 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:54 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:54 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:55 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:55 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
-| LockBit LOGIN | 🟢 | 16/03/2023 23:56 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:02 | `http://lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:02 | `http://lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:03 | `http://lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:03 | `http://lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:03 | `http://lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:04 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:04 | `http://lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🔴 | 16/03/2023 23:51 | `http://lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:05 | `http://lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd-onion.png" target=_blank>📸</a> | 
+| LockBit BLOG | 🟢 | 17/03/2023 02:06 | `http://lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:06 | `http://lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:07 | `http://lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:07 | `http://lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:07 | `http://lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:08 | `http://lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:08 | `http://lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:09 | `http://lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:09 | `http://lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd-onion.png" target=_blank>📸</a> | 
+| LockBit LOGIN | 🟢 | 17/03/2023 02:10 | `http://lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion` | <a href="https://www.ransomware.live/screenshots/lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -5426,7 +5425,7 @@ _`marketplace - not a ransomware group`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 27/08/2022 08:28 | `http://mmeeiix2ejdwkmseycljetmpiwebdvgjts75c63camjofn2cjdoulzqd.onion` | ❌ | 
-| none | 🟢 | 16/03/2023 23:56 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` | <a href="https://www.ransomware.live/screenshots/obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/03/2023 02:10 | `http://obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd.onion` | <a href="https://www.ransomware.live/screenshots/obzuqvr5424kkc4unbq2p2i67ny3zngce3tbdr37nicjqesgqcgomfqd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/10/2022 05:15 | `http://nclen75pwlgebpxpsqhlcnxsmdvpyrr7ogz36ehhatfmkvakeyden6ad.onion` | ❌ | 
 
 ### Posts
@@ -5450,7 +5449,7 @@ _`rfi location woe2suafeg6ehxivgvvn4nh6ectbdhdqgc4vzph27mmyn7rjf2c52jid.onion/in
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Lorenz | 🟢 | 16/03/2023 23:56 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
+| Lorenz | 🟢 | 17/03/2023 02:10 | `http://lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion` | <a href="https://www.ransomware.live/screenshots/lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -5627,7 +5626,7 @@ _`wtyafjyhwqrg[...].onion/post?get_listBlog`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Mallox - Blog | 🟢 | 16/03/2023 23:57 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
+| Mallox - Blog | 🔴 | 16/03/2023 23:57 | `http://wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion` | <a href="https://www.ransomware.live/screenshots/wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -5777,8 +5776,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 16/03/2023 23:57 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
-
+| Medusa Blog | 🟢 | 17/03/2023 02:11 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -5824,7 +5822,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://qd7pcafncosqfqu3ha6fcx4h6sr7tzwagzpcdcnytiw3b6varaeqv5yd.onion` | ❌ | 
-| Ransomware blog – We will not give ourselves a nam | 🟢 | 16/03/2023 23:58 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
+| Ransomware blog – We will not give ourselves a nam | 🟢 | 17/03/2023 02:12 | `http://z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion` | <a href="https://www.ransomware.live/screenshots/z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -5966,7 +5964,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 10/10/2022 17:13 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` | ❌ | 
-| MONTI - Leaks site | 🟢 | 16/03/2023 23:58 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
+| MONTI - Leaks site | 🟢 | 17/03/2023 02:12 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -6006,7 +6004,7 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://mosesstaffm7hptp.onion` | ❌ | 
-| Activities – Moses Staff | 🟢 | 16/03/2023 23:59 | `http://moses-staff.se` | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
+| Activities – Moses Staff | 🟢 | 17/03/2023 02:13 | `http://moses-staff.se` | <a href="https://www.ransomware.live/screenshots/moses-staff-se.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -6195,7 +6193,7 @@ _`not a ransomware group`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Error | 🔴 | 12/02/2023 16:12 | `http://nevbackvzwfu5yu3gszap77bg66koadds6eln37gxdhdk4jdsbkayrid.onion` | ❌ | 
-| NEVADA | 🔴 | 16/03/2023 07:02 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
+| NEVADA | 🟢 | 17/03/2023 02:13 | `http://nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion` | <a href="https://www.ransomware.live/screenshots/nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -6451,8 +6449,8 @@ _`aka vsop`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| PLAY NEWS | 🟢 | 17/03/2023 00:01 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
-| PLAY NEWS | 🟢 | 17/03/2023 00:02 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 17/03/2023 02:14 | `http://mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion` | <a href="https://www.ransomware.live/screenshots/mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd-onion.png" target=_blank>📸</a> | 
+| PLAY NEWS | 🟢 | 17/03/2023 02:14 | `http://k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion` | <a href="https://www.ransomware.live/screenshots/k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -6542,7 +6540,7 @@ _`aka vsop`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Project Relic. Dumps, leaks, news, announcements | 🟢 | 17/03/2023 00:02 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
+| Project Relic. Dumps, leaks, news, announcements | 🟢 | 17/03/2023 02:15 | `http://relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion` | <a href="https://www.ransomware.live/screenshots/relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -6951,7 +6949,7 @@ _`aka pwndlocker`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Qilin | 🔴 | 17/02/2023 11:10 | `http://ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion` | <a href="https://www.ransomware.live/screenshots/ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd-onion.png" target=_blank>📸</a> | 
-| Qilin blog | 🟢 | 17/03/2023 00:03 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
+| Qilin blog | 🟢 | 17/03/2023 02:16 | `http://kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion` | <a href="https://www.ransomware.live/screenshots/kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -7017,7 +7015,7 @@ _`login page, no posts`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Quantum Blog | 🟢 | 17/03/2023 00:03 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
+| Quantum Blog | 🔴 | 17/03/2023 00:03 | `http://quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid.onion` | <a href="https://www.ransomware.live/screenshots/quantum445bh3gzuyilxdzs5xdepf3b7lkcupswvkryf3n7hgzpxebid-onion.png" target=_blank>📸</a> | 
 | Secure Chat | 🔴 | 29/08/2022 08:32 | `http://22rnyep2aa2exx3fdm26p4onwjfmhciodb55v5l3w4iny7e5bxpg3yad.onion` | ❌ | 
 
 ### Posts
@@ -7110,7 +7108,7 @@ _`login page, no posts`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://rgleak7op734elep.onion` | ❌ | 
-| Home Page of Ragnar_Locker Leaks site | 🟢 | 17/03/2023 00:04 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
+| Home Page of Ragnar_Locker Leaks site | 🟢 | 17/03/2023 02:17 | `http://rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion` | <a href="https://www.ransomware.live/screenshots/rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://p6o7m73ujalhgkiv.onion` | ❌ | 
 
 
@@ -7278,7 +7276,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://wavbeudogz6byhnardd2lkp2jafims3j7tj6k6qnywchn2csngvtffqd.onion` | ❌ | 
-| Log in - RAMP | 🟢 | 17/03/2023 00:04 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
+| Log in - RAMP | 🟢 | 17/03/2023 02:17 | `http://rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd.onion` | <a href="https://www.ransomware.live/screenshots/rampjcdlqvgkoz5oywutpo6ggl7g6tvddysustfl6qzhr5osr24xxqqd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://ramp4u5iz4xx75vmt6nk5xfrs5mrmtokzszqxhhkjqlk7pbwykaz7zid.onion` | ❌ | 
 
 ### Posts
@@ -7294,7 +7292,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🟢 | 17/03/2023 00:05 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/03/2023 02:18 | `http://ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion` | <a href="https://www.ransomware.live/screenshots/ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -7339,7 +7337,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| ransomexx2 | 🟢 | 17/03/2023 00:05 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
+| ransomexx2 | 🟢 | 17/03/2023 02:18 | `http://rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad.onion` | <a href="https://www.ransomware.live/screenshots/rnsm777cdsjrsdlbs4v5qoeppu3px6sb2igmh53jzrx7ipcrbjz5b2ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -7407,7 +7405,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🟢 | 17/03/2023 00:06 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| 502 Bad Gateway | 🟢 | 17/03/2023 02:19 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
@@ -7609,7 +7607,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Today on Tumblr | 🟢 | 17/03/2023 00:06 | `http://robinhoodleaks.tumblr.com` | <a href="https://www.ransomware.live/screenshots/robinhoodleaks-tumblr-com.png" target=_blank>📸</a> | 
+| Today on Tumblr | 🟢 | 17/03/2023 02:19 | `http://robinhoodleaks.tumblr.com` | <a href="https://www.ransomware.live/screenshots/robinhoodleaks-tumblr-com.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -7662,8 +7660,8 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 17/03/2023 00:06 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 17/03/2023 00:07 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 17/03/2023 02:20 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/03/2023 02:20 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -7845,7 +7843,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🟢 | 17/03/2023 00:07 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | <a href="https://www.ransomware.live/screenshots/t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 17/03/2023 02:21 | `http://t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion` | <a href="https://www.ransomware.live/screenshots/t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -7929,7 +7927,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🟢 | 17/03/2023 00:08 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 17/03/2023 02:21 | `http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion` | <a href="https://www.ransomware.live/screenshots/hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad-onion.png" target=_blank>📸</a> | 
 | Access Denied | 🔴 | 29/01/2023 17:17 | `http://snatch.press` | <a href="https://www.ransomware.live/screenshots/snatch-press.png" target=_blank>📸</a> | 
 
 
@@ -8198,7 +8196,7 @@ _`Forum`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| News | 🟢 | 17/03/2023 00:08 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
+| News | 🟢 | 17/03/2023 02:21 | `http://x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid.onion` | <a href="https://www.ransomware.live/screenshots/x2miyuiwpib2imjr5ykyjngdu7v6vprkkhjltrk4qafymtawey4qzwid-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://nbzzb6sa6xuura2z.onion` | ❌ | 
 
 
@@ -8282,7 +8280,7 @@ _`no longer in operation - rebrand`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Sign up | 🟢 | 17/03/2023 00:08 | `http://3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad.onion` | <a href="https://www.ransomware.live/screenshots/3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad-onion.png" target=_blank>📸</a> | 
+| Sign up | 🟢 | 17/03/2023 02:22 | `http://3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad.onion` | <a href="https://www.ransomware.live/screenshots/3x55o3u2b7cjs54eifja5m3ottxntlubhjzt6k6htp5nrocjmsxxh7ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -8347,7 +8345,7 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Vendetta | 🟢 | 17/03/2023 00:09 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| Vendetta | 🟢 | 17/03/2023 02:22 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -8394,11 +8392,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 17/03/2023 00:10 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 02:23 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 17/03/2023 00:10 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 17/03/2023 00:11 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 17/03/2023 00:12 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 02:24 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 02:24 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 17/03/2023 02:25 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -8595,7 +8593,7 @@ _`ecdmr42axxx.onion - fileserver`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| BITCARDS - Prepaid cards | 🟢 | 17/03/2023 00:12 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` | <a href="https://www.ransomware.live/screenshots/nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid-onion.png" target=_blank>📸</a> | 
+| BITCARDS - Prepaid cards | 🟢 | 17/03/2023 02:26 | `http://nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion` | <a href="https://www.ransomware.live/screenshots/nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -8721,4 +8719,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 17/03/2023 00.20 (UTC)_
+Last update : _Friday 17/03/2023 02.29 (UTC)_
