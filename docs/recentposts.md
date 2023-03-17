@@ -43,6 +43,7 @@
 | 2023-03-16 | [`regaltax.us`](https://google.com/search?q=regaltax.us) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`meatel.com`](https://google.com/search?q=meatel.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`mandirisekuritas.co.id`](https://google.com/search?q=mandirisekuritas.co.id) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-16 | [`perfectplacement.co.uk`](https://google.com/search?q=perfectplacement.co.uk) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`waldogeneral.com`](https://google.com/search?q=waldogeneral.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/bad3f1342ac520bf288b11ed2efc085b.png" target=_blank>👀</a> |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |   |
@@ -204,6 +205,5 @@
 | 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](profiles.md?id=play) |   |
 | 2023-03-02 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/f475fe59164e56852753fe19a798a3f8.png" target=_blank>👀</a> |
 | 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
-| 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Friday 17/03/2023 09.12 (UTC)_
+Last update : _Friday 17/03/2023 11.22 (UTC)_
