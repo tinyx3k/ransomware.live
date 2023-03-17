@@ -5,6 +5,8 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-17 | [`AAA Energy Service`](https://google.com/search?q=AAA+Energy+Service) | [royal](profiles.md?id=royal) |   |
 | 2023-03-17 | [`VORNADO`](https://google.com/search?q=VORNADO) | [blackbasta](profiles.md?id=blackbasta) | <a href="https://www.ransomware.live/screenshots/posts/9705867d1cca218e8ea7ded3d294036c.png" target=_blank>👀</a> |
 | 2023-03-17 | [`MARSHALLAMPS`](https://google.com/search?q=MARSHALLAMPS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-17 | [`Norman S. Wright Climatec`](https://google.com/search?q=Norman+S.+Wright+Climatec) | [blackbasta](profiles.md?id=blackbasta) |   |
@@ -203,7 +205,5 @@
 | 2023-03-03 | [`M**** M************`](https://google.com/search?q=M%2A%2A%2A%2A+M%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-03-03 | [`Parques Reunidos`](https://google.com/search?q=Parques+Reunidos) | [bianlian](profiles.md?id=bianlian) |   |
 | 2023-03-03 | [`Oakland`](https://google.com/search?q=Oakland) | [play](profiles.md?id=play) |   |
-| 2023-03-02 | [`blackswanhealth`](https://google.com/search?q=blackswanhealth) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/f475fe59164e56852753fe19a798a3f8.png" target=_blank>👀</a> |
-| 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
 
-Last update : _Friday 17/03/2023 11.22 (UTC)_
+Last update : _Friday 17/03/2023 13.39 (UTC)_
