@@ -206,4 +206,4 @@
 | 2023-03-02 | [`Welty Building Company`](https://google.com/search?q=Welty+Building+Company) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/3354b4de9a7e1e4c97f2e926bd69706f.png" target=_blank>👀</a> |
 | 2023-03-02 | [`CMMG Inc`](https://google.com/search?q=CMMG+Inc) | [alphv](profiles.md?id=alphv) |   |
 
-Last update : _Friday 17/03/2023 07.21 (UTC)_
+Last update : _Friday 17/03/2023 09.12 (UTC)_
