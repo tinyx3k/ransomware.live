@@ -59,6 +59,7 @@
 | 2023-03-16 | [`waldogeneral.com`](https://google.com/search?q=waldogeneral.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/bad3f1342ac520bf288b11ed2efc085b.png" target=_blank>👀</a> |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |   |
+| 2023-03-15 | [`kaycan.com`](https://google.com/search?q=kaycan.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |   |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
 | 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/0318edcb11debb5173409dcea563d087.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-03-05 | [`S*********** **********`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/460495b96bde58f2caa0f17dd37c1b47.png" target=_blank>👀</a> |
 | 2023-03-05 | [`T******** ***** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/9b3d19a76d16291338cb8faf1aefc150.png" target=_blank>👀</a> |
 | 2023-03-05 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/aaf731b9c9020094ba76ca8b30cf461a.png" target=_blank>👀</a> |
-| 2023-03-04 | [`AICHELIN UNITHERM`](https://google.com/search?q=AICHELIN+UNITHERM) | [mallox](profiles.md?id=mallox) |   |
 
-Last update : _Friday 17/03/2023 19.22 (UTC)_
+Last update : _Friday 17/03/2023 21.20 (UTC)_
