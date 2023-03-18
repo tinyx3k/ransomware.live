@@ -7,14 +7,14 @@
 |---|---|---|---|
 | 2023-03-18 | [`James Group`](https://google.com/search?q=James+Group) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/7b83d8c3d233066f9f230f10c1575d1e.png" target=_blank>👀</a> |
 | 2023-03-18 | [`Collins Electrical`](https://google.com/search?q=Collins+Electrical) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/2954948b3ff75c533118ae6b601eb212.png" target=_blank>👀</a> |
-| 2023-03-17 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [monti](profiles.md?id=monti) |   |
-| 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](profiles.md?id=play) |   |
-| 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](profiles.md?id=play) |   |
-| 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](profiles.md?id=play) |   |
-| 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](profiles.md?id=play) |   |
-| 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](profiles.md?id=play) |   |
-| 2023-03-17 | [`TaxAssist Accountants`](https://google.com/search?q=TaxAssist+Accountants) | [play](profiles.md?id=play) |   |
-| 2023-03-17 | [`draftPros`](https://google.com/search?q=draftPros) | [play](profiles.md?id=play) |   |
+| 2023-03-17 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/250ec5ff50537e88b970894807866211.png" target=_blank>👀</a> |
+| 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/f4224da29434611fde7e1ed61cf7656e.png" target=_blank>👀</a> |
+| 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/db3eadbca73040ab721c3257ff7b03b4.png" target=_blank>👀</a> |
+| 2023-03-17 | [`Berga Recycling`](https://google.com/search?q=Berga+Recycling) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/62f2399d69a6959dea21734452686b00.png" target=_blank>👀</a> |
+| 2023-03-17 | [`Pine Tree Commercial Realty`](https://google.com/search?q=Pine+Tree+Commercial+Realty) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/348bac478b74e9b3b63b2723044ff784.png" target=_blank>👀</a> |
+| 2023-03-17 | [`Norman Shutters`](https://google.com/search?q=Norman+Shutters) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/89b10702cfca3bab364528aac40909d9.png" target=_blank>👀</a> |
+| 2023-03-17 | [`TaxAssist Accountants`](https://google.com/search?q=TaxAssist+Accountants) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/435943f4cc087ddcaac2b5697be3301d.png" target=_blank>👀</a> |
+| 2023-03-17 | [`draftPros`](https://google.com/search?q=draftPros) | [play](profiles.md?id=play) | <a href="https://www.ransomware.live/screenshots/posts/faec923a8658c07e7fe48aa347a13f88.png" target=_blank>👀</a> |
 | 2023-03-17 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-17 | [`AAA Energy Service`](https://google.com/search?q=AAA+Energy+Service) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/7fda34b027569d68e759e133c56a8b2d.png" target=_blank>👀</a> |
 | 2023-03-17 | [`DGM Industrie`](https://google.com/search?q=DGM+Industrie) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/483d22c0300914c300ac57f9337cd051.png" target=_blank>👀</a> |
@@ -64,7 +64,7 @@
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-15 | [`kaycan.com`](https://google.com/search?q=kaycan.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-15 | [`npauctions.com (copart.com)`](https://google.com/search?q=npauctions.com+%28copart.com%29) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/806e9bdc4998b4d8509a995e78d334b3.png" target=_blank>👀</a> |
-| 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |   |
+| 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/f89b45ce8012e643dc82afb32efa0aa4.png" target=_blank>👀</a> |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
 | 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/0318edcb11debb5173409dcea563d087.png" target=_blank>👀</a> |
 | 2023-03-14 | [`WALSHALBERT`](https://google.com/search?q=WALSHALBERT) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/c23c8395722506fc78757e387dfef718.png" target=_blank>👀</a> |
@@ -206,4 +206,4 @@
 | 2023-03-05 | [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/de17ba428f78ef5ed16efd6e3f06ce93.png" target=_blank>👀</a> |
 | 2023-03-05 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/31a172fd25ba9fbff16723fa8cc343c4.png" target=_blank>👀</a> |
 
-Last update : _Saturday 18/03/2023 10.43 (UTC)_
+Last update : _Saturday 18/03/2023 11.05 (UTC)_
