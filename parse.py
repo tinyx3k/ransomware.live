@@ -47,12 +47,13 @@ def posttemplate(victim, group_name, timestamp,description,website,published,pos
 
 def screenshot(webpage,fqdn,delay=15000,output=None):
     stdlog('webshot: {}'.format(webpage))
-    if output is not None:
-        name = 'docs/screenshots/posts/' + output + '.png'
-        mode = "Mode : post"
-    else: 
+    if output is None:
         name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
-        mode = "Mode : blog"
+        stdlog("Mode : blog")
+    else: 
+        stdlog('Post Screenshot --> ' + output)
+        name = 'docs/screenshots/posts/' + output + '.png'
+        stdlog("Mode : post")
     #try:
         with sync_playwright() as play:
                 try:
@@ -74,7 +75,6 @@ def screenshot(webpage,fqdn,delay=15000,output=None):
                     draw = ImageDraw.Draw(image)
                     draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
                     image.save(name)
-                    stdlog(mode)
                 except PlaywrightTimeoutError:
                     stdlog('Timeout!')
                 except Exception as exception:
@@ -202,7 +202,6 @@ def appender(post_title, group_name, description="", website="", published="", p
             hash_object = hashlib.md5()
             hash_object.update(post_url.encode('utf-8'))
             hex_digest = hash_object.hexdigest()
-            stdlog('Post Screenshot --> ' + hex_digest)
             screenshot(post_url,None,15000,hex_digest)
         ### Screenshot git 
         groups = openjson('groups.json')
