@@ -206,4 +206,4 @@
 | 2023-03-05 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/fbfa2ed7c67dfa22bc23c68faf0e1fff.png" target=_blank>👀</a> |
 | 2023-03-05 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/e44ddae1a931de697a5bea26d4185d33.png" target=_blank>👀</a> |
 
-Last update : _Saturday 18/03/2023 19.10 (UTC)_
+Last update : _Saturday 18/03/2023 21.08 (UTC)_
