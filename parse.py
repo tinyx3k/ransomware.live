@@ -49,8 +49,10 @@ def screenshot(webpage,fqdn,delay=15000,output=None):
     stdlog('webshot: {}'.format(webpage))
     if output is not None:
         name = 'docs/screenshots/posts/' + output + '.png'
+        mode = "Mode : post"
     else: 
         name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
+        mode = "Mode : blog"
     #try:
         with sync_playwright() as play:
                 try:
@@ -72,6 +74,7 @@ def screenshot(webpage,fqdn,delay=15000,output=None):
                     draw = ImageDraw.Draw(image)
                     draw.text((10, 10), "https://www.ransomware.live", fill=(0, 0, 0))
                     image.save(name)
+                    stdlog(mode)
                 except PlaywrightTimeoutError:
                     stdlog('Timeout!')
                 except Exception as exception:
