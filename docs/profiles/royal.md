@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 18/03/2023 13:13 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 18/03/2023 13:14 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 18/03/2023 14:56 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 18/03/2023 14:57 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 163 posts found
+> 164 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Sutton and Jacobs`](https://www.sutton-jacobs.com) | 18/03/2023 | Sutton & Jacobs, LLP is located at the corner of College and Park streets in downtown Beaumont, Texas. Originally a cluster of several buildings that, through the years, included a warehouse, auto parts supply house, blacksmith shop and from the days of cobblestone. |
 | [`AAA Energy Service`](https://www.aaaenergy.com) | 17/03/2023 | AAA Energy Service Co. provides services in a multitude of market sectors to a wide variety of clients, small and large. When it comes to its experience, AAA Energy Service Co. has a diverse resume. We have developed, designed, constructed, and serviced HVAC systems throughout the commercial, industrial, and institutional marketplaces. To be successful, it takes a dedicated staff of professionals that perform at a high level of customer service and have the expertise to design and build various types of systems. |
 | [`DGM Industrie`](https://www.dgm-industrie.fr) | 17/03/2023 | DGM Industrie is a company that operates in the Mechanical or Industrial Engineering industry. It employs 21-50 people and has $1M-$5M of revenue.  |
 | [`Liberty Lines`](http://www.libertylines.com) | 15/03/2023 | For over 60 years Liberty Lines has been privileged to develop and operate one of the most effective and efficient Transit systems in the country. Today Liberty operates over 300 vehicles on 60 routes and carries almost 30 million passenger over 10 million miles annually. We believe our 700 union and non-union employees are the best transit workers in America. Our employees are our greatest asset and earn excellent wages, health and pension benefits. The Liberty workforce is foundational to the local economy.﻿Since its meager beginnings in 1953 as a 4 vehicle operation, Liberty Lines has grown through merger and acquisition to become one of the largest privately owned transportation companies in New York State. Today, the company, which is headquarted in Yonkers, operates out of 2 state of the art facilities, employing approximately 610 union and 140 non-union employees and operating a fleet of 350 vehicles from 25 foot passenger vans, to 60 foot articulated and hybrid buses. |
@@ -188,4 +189,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Saturday 18/03/2023 13.21 (UTC)_
+Last update : _Saturday 18/03/2023 15.05 (UTC)_
