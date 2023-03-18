@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| none | 🔴 | 18/03/2023 16:34 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 18/03/2023 22:26 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 14/03/2023 06:16 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 317 posts found
+> 318 posts found
 
 | post | date | Description
 |---|---|---|
+| [`FABREGA MOLINO (fmm.com.pa)`](https://fmm.com.pa/) | 18/03/2023 | FABREGA MOLINO is a Panamanian firm specialized in the practice of law. The Firm stands out due to the depth of their legal knowledge and the excellence of their services. The Firm is composed of a team of specialized professionals in different branches of the law, committed to providing a reliable and efficient experience.  FABREGA MOLINO represents national and international corporations in various sectors of the economy.  The Firm also handles aviation, solar energy, mining, telecommunication, and health issues. |
 | [`James Group`](https://www.jamesgroupintl.com) | 18/03/2023 | As a leading global provider of logistics, supply chain management and e-Commerce services, the James Group continues the quest to provide the most innovative and forward thinking solutions available anywhere in the world.  The James Group family of companies consists of businesses that provide high performing supply chain management and logistic solutions, real estate and support technology investments. |
 | [`Collins Electrical`](https://collinsmn.com) | 18/03/2023 | Collins was established in St. Paul, Minnesota in 1948 to help meet the electrical construction demands of postwar America. Through the years, we’ve built customer relationships on a foundation of integrity and trust—a philosophy that has been the cornerstone of our company since its inception. Today, Collins has grown into a multimillion-dollar, full-service electrical and technology contracting company. |
 | [`Muzzo Group`](https://muzzogroup.com) | 16/03/2023 | The Muzzo Group of Companies is a diversified organization comprised of interests in multiple spectrums across the real estate and construction industries. As one of Canada’s largest drywall contractors, the company has strategic partnerships with leading commercial and industrial landlords, as well as diversified interests in office, commercial and industrial real estate across Southern Ontario. “The Muzzo Group has a proven track record of planning and executing complex projects with efficiency and dedication from concept to completion.” The Muzzo Group of Companies has also forged solid relationships with other leading Canadian homebuilders and land development firms. As a result, it has amassed extensive land holdings throughout the GTA, both alone and in partnership, which are at various stages of development. |
@@ -355,4 +356,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Saturday 18/03/2023 21.08 (UTC)_
+Last update : _Saturday 18/03/2023 23.05 (UTC)_
