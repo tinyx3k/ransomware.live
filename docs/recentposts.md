@@ -5,6 +5,8 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-18 | [`James Group`](https://google.com/search?q=James+Group) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/7b83d8c3d233066f9f230f10c1575d1e.png" target=_blank>👀</a> |
+| 2023-03-18 | [`Collins Electrical`](https://google.com/search?q=Collins+Electrical) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/2954948b3ff75c533118ae6b601eb212.png" target=_blank>👀</a> |
 | 2023-03-17 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | [monti](profiles.md?id=monti) |   |
 | 2023-03-17 | [`Stanley Steemer`](https://google.com/search?q=Stanley+Steemer) | [play](profiles.md?id=play) |   |
 | 2023-03-17 | [`A&T group of companies`](https://google.com/search?q=A%26T+group+of+companies) | [play](profiles.md?id=play) |   |
@@ -203,7 +205,5 @@
 | 2023-03-05 | [`P* ***** **** L****** ***`](https://google.com/search?q=P%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A+L%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/e44ddae1a931de697a5bea26d4185d33.png" target=_blank>👀</a> |
 | 2023-03-05 | [`R****`](https://google.com/search?q=R%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/de17ba428f78ef5ed16efd6e3f06ce93.png" target=_blank>👀</a> |
 | 2023-03-05 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/31a172fd25ba9fbff16723fa8cc343c4.png" target=_blank>👀</a> |
-| 2023-03-05 | [`A***** ********* **********`](https://google.com/search?q=A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/912593822633bd5735d3d9c22cf47c49.png" target=_blank>👀</a> |
-| 2023-03-05 | [`S***** ***********`](https://google.com/search?q=S%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/fe2b492ea8408d8a20664e80822a99e6.png" target=_blank>👀</a> |
 
-Last update : _Saturday 18/03/2023 05.09 (UTC)_
+Last update : _Saturday 18/03/2023 07.11 (UTC)_
