@@ -51,7 +51,7 @@ def screenshot(webpage,fqdn,delay=15000,output=None):
         name = 'docs/screenshots/posts/' + output + '.png'
     else: 
         name = 'docs/screenshots/' + fqdn.replace('.', '-') + '.png'
-    try:
+    #try:
         with sync_playwright() as play:
                 try:
                     browser = play.chromium.launch(proxy={"server": "socks5://127.0.0.1:9050"},
@@ -79,8 +79,8 @@ def screenshot(webpage,fqdn,delay=15000,output=None):
                     errlog("error")
                 browser.close()
 
-    except:
-             stdlog('Impossible to webshot {}'.format(webpage))
+    #except:
+    #         stdlog('Impossible to webshot {}'.format(webpage))
 
 
 def existingpost(post_title, group_name):
@@ -199,7 +199,7 @@ def appender(post_title, group_name, description="", website="", published="", p
             hash_object = hashlib.md5()
             hash_object.update(post_url.encode('utf-8'))
             hex_digest = hash_object.hexdigest()
-            stdlog(' --> ' + hex_digest)
+            stdlog('Post Screenshot --> ' + hex_digest)
             screenshot(post_url,None,15000,hex_digest)
         ### Screenshot git 
         groups = openjson('groups.json')
