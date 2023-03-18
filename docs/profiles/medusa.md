@@ -8,14 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🟢 | 18/03/2023 14:48 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+| Medusa Blog | 🟢 | 18/03/2023 16:56 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 27 posts found
+> 28 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | 18/03/2023 | The Firm Vazquez Nava Consultores y Abogados, S.C. was founded in Mexico City in January 1995 by a group of professionals with a broad experience in fields such as Economics, Law, Administration and Engineering. Since its foundation, the Firm has actively participated in the development and structuring of some of the most important projects in Mexico, playing an important role in implementing the best practices for transparency, accountability and anti-corruption measures. |
 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | 16/03/2023 | The National Institute of Ocean Technology (NIOT) was established in November 1993 as an autonomous society under the Ministry of Earth Sciences in India. NIOT is managed by a Governing Council and is headed by a director. The institute is based in Chennai. The major aim of starting NIOT was to develop reliable indigenous technologies to solve various engineering problems associated with harvesting of non-living and living resources in India's exclusive economic zone, which is about two-thirds of the land area of India. |
 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | 14/03/2023 | LLP Group is an international software services group founded in 1992 in the Czech Republic with offices in Western, Central and Eastern Europe, North America and Latin America, providing software consulting services, software development, ERP implementation and business process consulting. The company has 30 years of experience in consulting, developing and implementing systems in more than 70 countries around the world. |
 | [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | 13/03/2023 | Bishop Luffa School, named after a former Bishop of Chichester, Ralph de Luffa, is a co-educational Church of England secondary school located in Chichester, West Sussex, England. On December 1, 2013, the school successfully received the status of an academy. At the moment, 1517 students aged 11 to 18 are studying. |
@@ -47,4 +48,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Saturday 18/03/2023 15.05 (UTC)_
+Last update : _Saturday 18/03/2023 17.13 (UTC)_
