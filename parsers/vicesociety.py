@@ -4,6 +4,7 @@
 +------------------------------+------------------+----------+
 |      X      |                |        X         |     X    |
 +------------------------------+------------------+----------+
+Rappel : def appender(post_title, group_name, description="", website="", published="", post_url=""):
 """
 
 import os
@@ -30,7 +31,7 @@ def main():
                                 website = description.get_text()
                             if not description.b.text.strip().startswith("http"):
                                 desc = description.get_text()
-                                appender(title, 'vicesociety', desc,"",website,post)
+                                appender(title, 'vicesociety', desc,website,'',post)
                     except:
                         pass
                 file.close()
