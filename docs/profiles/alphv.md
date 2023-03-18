@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 17/03/2023 22:27 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 18/03/2023 01:49 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 14/03/2023 06:16 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,13 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 312 posts found
+> 315 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Muzzo Group`](https://muzzogroup.com) | 16/03/2023 | The Muzzo Group of Companies is a diversified organization comprised of interests in multiple spectrums across the real estate and construction industries. As one of Canada’s largest drywall contractors, the company has strategic partnerships with leading commercial and industrial landlords, as well as diversified interests in office, commercial and industrial real estate across Southern Ontario. “The Muzzo Group has a proven track record of planning and executing complex projects with efficiency and dedication from concept to completion.” The Muzzo Group of Companies has also forged solid relationships with other leading Canadian homebuilders and land development firms. As a result, it has amassed extensive land holdings throughout the GTA, both alone and in partnership, which are at various stages of development. |
+| [`npauctions.com (copart.com)`](https://npauctions.com) | 15/03/2023 | We exfiltrated all the sensitive data from 3 file servers and even the source code of all your developments from git repos. |
+| [`WALSHALBERT`](https://www.walshalbert.com) | 14/03/2023 | The Walsh &amp; Albert Company was founded in 1982 by Pete Walsh, who holds both Mechanical Engineering and MBA degrees from the University of Texas. |
 | [`Ring: Security Systems`](https://ring.com) | 13/03/2023 | Ring: Security Systems, Cameras, Alarms, and Smart Home Automation  Ring New Battery Doorbell Plus Get the low down on down low. See it all-from people to packages in Head-to-Toe HD+ Video with Battery Doorbell Plus. Pre-Order New Video Doorbells See who's there from anywhere. |
 | [`Guardian Capital`](https://guardian-capital.com/) | 10/03/2023 | Guardian Capital is a privately held real estate development firm. For more than five decades, we have designed and developed residential communities with expansive amenities that provide residents with an exceptional lifestyle experience. We create tastefully curated residential communities with a focus on institutionally-sized, ground-up multifamily development projects in underserved markets.   1,800 UNITS OWNED AND OPERATED 500,000 SQ FT OF RETAIL Property UNDER MANAGMENT 2,500 RESIDENTIAL UNITS IN DEVELOPMENT 40,000 TOTAL HOMES BUILT SINCE INCEPTION 50 PROJECTS ACROSS 8 STATES |
 | [`Lehigh Valley Health Network 2`](https://www.lvhn.org) | 10/03/2023 | Lehigh Valley Health Network is a healthcare network based in the Allentown, Pennsylvania in the Lehigh Valley region of eastern Pennsylvania. The healthcare network serves eastern and northeastern Pennsylvania. Its flagship hospital is Lehigh Valley Hospital-Cedar Crest, located on Cedar Crest Boulevard in Allentown |
@@ -350,4 +353,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Friday 17/03/2023 23.01 (UTC)_
+Last update : _Saturday 18/03/2023 02.34 (UTC)_

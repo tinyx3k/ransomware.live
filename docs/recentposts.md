@@ -48,6 +48,7 @@
 | 2023-03-16 | [`ALLIEDBENEFIT.COM`](https://google.com/search?q=ALLIEDBENEFIT.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/3212abcefc079069a94025e19d1f09f5.png" target=_blank>👀</a> |
 | 2023-03-16 | [`USWELLNESS.COM`](https://google.com/search?q=USWELLNESS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2bd3bfb24323276c550d7c981e54a138.png" target=_blank>👀</a> |
 | 2023-03-16 | [`******* A********* *********** *******`](https://google.com/search?q=%2A%2A%2A%2A%2A%2A%2A+A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/c874c714ba5d982887ece234a4b10947.png" target=_blank>👀</a> |
+| 2023-03-16 | [`Muzzo Group`](https://google.com/search?q=Muzzo+Group) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/8ab217afae7507c0954baffa21bf6de7.png" target=_blank>👀</a> |
 | 2023-03-16 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`boothtransport.com`](https://google.com/search?q=boothtransport.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-16 | [`radium.com.tw`](https://google.com/search?q=radium.com.tw) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -60,9 +61,11 @@
 | 2023-03-16 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/bad3f1342ac520bf288b11ed2efc085b.png" target=_blank>👀</a> |
 | 2023-03-16 | [`Etex Communications`](https://google.com/search?q=Etex+Communications) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-15 | [`kaycan.com`](https://google.com/search?q=kaycan.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-15 | [`npauctions.com (copart.com)`](https://google.com/search?q=npauctions.com+%28copart.com%29) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/806e9bdc4998b4d8509a995e78d334b3.png" target=_blank>👀</a> |
 | 2023-03-15 | [`Cambridge College`](https://google.com/search?q=Cambridge+College) | [monti](profiles.md?id=monti) |   |
 | 2023-03-15 | [`NRG Innovations DataBase Leak`](https://google.com/search?q=NRG+Innovations+DataBase+Leak) | [everest](profiles.md?id=everest) |   |
 | 2023-03-15 | [`Liberty Lines`](https://google.com/search?q=Liberty+Lines) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/0318edcb11debb5173409dcea563d087.png" target=_blank>👀</a> |
+| 2023-03-14 | [`WALSHALBERT`](https://google.com/search?q=WALSHALBERT) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/c23c8395722506fc78757e387dfef718.png" target=_blank>👀</a> |
 | 2023-03-14 | [`essendant.com`](https://google.com/search?q=essendant.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-14 | [`Faraday Technology`](https://google.com/search?q=Faraday+Technology) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/1fb144bc2fa3867723b3c840a0f04af5.png" target=_blank>👀</a> |
 | 2023-03-14 | [`fiege.com`](https://google.com/search?q=fiege.com) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -202,8 +205,5 @@
 | 2023-03-05 | [`V******* ****`](https://google.com/search?q=V%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/31a172fd25ba9fbff16723fa8cc343c4.png" target=_blank>👀</a> |
 | 2023-03-05 | [`A***** ********* **********`](https://google.com/search?q=A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/912593822633bd5735d3d9c22cf47c49.png" target=_blank>👀</a> |
 | 2023-03-05 | [`S***** ***********`](https://google.com/search?q=S%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/fe2b492ea8408d8a20664e80822a99e6.png" target=_blank>👀</a> |
-| 2023-03-05 | [`S*********** **********`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/460495b96bde58f2caa0f17dd37c1b47.png" target=_blank>👀</a> |
-| 2023-03-05 | [`T******** ***** **********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/9b3d19a76d16291338cb8faf1aefc150.png" target=_blank>👀</a> |
-| 2023-03-05 | [`Lehigh Valley Health Network`](https://google.com/search?q=Lehigh+Valley+Health+Network) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/aaf731b9c9020094ba76ca8b30cf461a.png" target=_blank>👀</a> |
 
-Last update : _Friday 17/03/2023 23.01 (UTC)_
+Last update : _Saturday 18/03/2023 02.34 (UTC)_
