@@ -42,7 +42,7 @@ _Parser : `Available`_
 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | 19/03/2023 | After the launch in France of logistics services for mass distribution, our Group begins its international deployment with a first subsidiary in Taiwan in early 2002. This would be followed by the opening of a new country every year… |
 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | 19/03/2023 | The world is changing - and we with it.The German construction industry is facing the greatest upheaval in its history. The megatrends of digitization and sustainability will fundamentally change the industry. And require continuously growing know-... |
 | [`bbsautomation.com`](https://google.com/search?q=bbsautomation.com) | 19/03/2023 | BBS Provides InnovativeAdvanced Engineering WorldwideBBS is committed to providing engineering solutions which are not only financially feasible and structurally sound, but help improve safety, reliability and profitability. At BBS, assembly auto... |
-| [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | 19/03/2023 | SPOORMAKER AND PARTNERS INC  |  REGISTRATION (CIPC NO): 1981/008290/21. Consultations on mechanics, electrics, fire fighting and sanitation. Designing. There are more than 350Gb of confidential data |
+| [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | 19/03/2023 | SPOORMAKER AND PARTNERS INC - REGISTRATION (CIPC NO): 1981/008290/21. Consultations on mechanics, electrics, fire fighting and sanitation. Designing. There are more than 350Gb of confidential data |
 | [`r-pac.com`](https://google.com/search?q=r-pac.com) | 17/03/2023 | korea |
 | [`ktcs.com.my`](https://google.com/search?q=ktcs.com.my) | 16/03/2023 | Kilang Tin Can (Sel) Sdn Bhd (雪蘭莪製罐廠有限公司), incorporated in 1976, is a metal can manufacturing company located at Jalan Haji Sirat, Klang, Selangor. |
 | [`boothtransport.com`](https://google.com/search?q=boothtransport.com) | 16/03/2023 | Booth is one of Australia's most respected national freight and logistics service providers. Our national fleet of transport equipment, warehousing facilities and professional staff are supported by industry specific operational systems. This deliver... |
@@ -672,4 +672,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Sunday 19/03/2023 20.18 (UTC)_
+Last update : _Sunday 19/03/2023 20.36 (UTC)_
