@@ -206,4 +206,4 @@
 | 2023-03-06 | [`PROTEKTOR`](https://google.com/search?q=PROTEKTOR) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/3095ba2dd71e4f4d651d1529dd8fac3c.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/c2023a17f430c3f54da8fce113776683.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 13.13 (UTC)_
+Last update : _Sunday 19/03/2023 13.22 (UTC)_
