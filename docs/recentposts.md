@@ -5,8 +5,11 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-19 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-19 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | [monti](profiles.md?id=monti) |   |
 | 2023-03-19 | [`American Institute for Healthcare Quality`](https://google.com/search?q=American+Institute+for+Healthcare+Quality) | [monti](profiles.md?id=monti) |   |
+| 2023-03-19 | [`bbsautomation.com`](https://google.com/search?q=bbsautomation.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-19 | [`Nor-Cal Beverage`](https://google.com/search?q=Nor-Cal+Beverage) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-19 | [`Tri Counties Bank`](https://google.com/search?q=Tri+Counties+Bank) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-19 | [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -202,8 +205,5 @@
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/31438348122a5242249fb0daa59ab162.png" target=_blank>👀</a> |
 | 2023-03-06 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a2da86be3f71c7ac936936c63a545fe2.png" target=_blank>👀</a> |
 | 2023-03-06 | [`The Institute of Space Technology`](https://google.com/search?q=The+Institute+of+Space+Technology) | [medusa](profiles.md?id=medusa) |   |
-| 2023-03-06 | [`Circa Jewels`](https://google.com/search?q=Circa+Jewels) | [mallox](profiles.md?id=mallox) |   |
-| 2023-03-06 | [`PROTEKTOR`](https://google.com/search?q=PROTEKTOR) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/3095ba2dd71e4f4d651d1529dd8fac3c.png" target=_blank>👀</a> |
-| 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/c2023a17f430c3f54da8fce113776683.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 13.22 (UTC)_
+Last update : _Sunday 19/03/2023 15.02 (UTC)_

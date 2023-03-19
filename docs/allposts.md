@@ -1,6 +1,6 @@
 
 
-_All `5499` posts_
+_All `5502` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,9 @@ _All `5499` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-19 | [`bbsautomation.com`](https://google.com/search?q=bbsautomation.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-19 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-19 | [`American Institute for Healthcare Quality`](https://google.com/search?q=American+Institute+for+Healthcare+Quality) | [monti](profiles.md?id=monti) |
 | 2023-03-19 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | [monti](profiles.md?id=monti) |
 | 2023-03-19 | [`Nor-Cal Beverage`](https://google.com/search?q=Nor-Cal+Beverage) | [blackbasta](profiles.md?id=blackbasta) |
@@ -5509,4 +5512,4 @@ _All `5499` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 19/03/2023 13.22 (UTC)_
+Last update : _Sunday 19/03/2023 15.02 (UTC)_
