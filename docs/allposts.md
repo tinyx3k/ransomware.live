@@ -1,6 +1,6 @@
 
 
-_All `5494` posts_
+_All `5495` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5494` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-19 | [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](profiles.md?id=alphv) |
 | 2023-03-18 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | [medusa](profiles.md?id=medusa) |
 | 2023-03-18 | [`Sutton and Jacobs`](https://google.com/search?q=Sutton+and+Jacobs) | [royal](profiles.md?id=royal) |
@@ -5504,4 +5505,4 @@ _All `5494` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 19/03/2023 05.10 (UTC)_
+Last update : _Sunday 19/03/2023 07.12 (UTC)_

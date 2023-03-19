@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-19 | [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-18 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-18 | [`James Group`](https://google.com/search?q=James+Group) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/7b83d8c3d233066f9f230f10c1575d1e.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-03-06 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/4143a283dc0a755185fb9f92bf1b0c83.png" target=_blank>👀</a> |
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/5f588c7396b465c024e53e4b9ed1914f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/4544609620491f6a3513a9e12189df6f.png" target=_blank>👀</a> |
-| 2023-03-05 | [`Los Altos Foods`](https://google.com/search?q=Los+Altos+Foods) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/fbfa2ed7c67dfa22bc23c68faf0e1fff.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 05.10 (UTC)_
+Last update : _Sunday 19/03/2023 07.12 (UTC)_
