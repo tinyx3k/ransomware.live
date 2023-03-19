@@ -206,4 +206,4 @@
 | 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/5f588c7396b465c024e53e4b9ed1914f.png" target=_blank>👀</a> |
 | 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/4544609620491f6a3513a9e12189df6f.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 09.09 (UTC)_
+Last update : _Sunday 19/03/2023 11.07 (UTC)_
