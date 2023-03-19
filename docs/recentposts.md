@@ -97,7 +97,7 @@
 | 2023-03-13 | [`S********* *****`](https://google.com/search?q=S%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A) | [bianlian](profiles.md?id=bianlian) | <a href="https://www.ransomware.live/screenshots/posts/ccf05f2ddb187ee35cb9732e672e85a2.png" target=_blank>👀</a> |
 | 2023-03-13 | [`plasticproductsco.com`](https://google.com/search?q=plasticproductsco.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-13 | [`dmos.com`](https://google.com/search?q=dmos.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-13 | [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-13 | [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/e0f6fe7160e320b8eb253e4e8310ff74.png" target=_blank>👀</a> |
 | 2023-03-13 | [`Bishop Luffa School`](https://google.com/search?q=Bishop+Luffa+School) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/1409223d20b07bbc92fcb73aa0eecbc7.png" target=_blank>👀</a> |
 | 2023-03-11 | [`Delaware Life Insurance Company`](https://google.com/search?q=Delaware+Life+Insurance+Company) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/0ec975e98308a41d599e2fc8e7227373.png" target=_blank>👀</a> |
 | 2023-03-11 | [`Mason Manufacturing`](https://google.com/search?q=Mason+Manufacturing) | [bianlian](profiles.md?id=bianlian) |   |
@@ -206,4 +206,4 @@
 | 2023-03-06 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/1b4313e9ef6eed7ba664bab63a4a9e8b.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Law Foundation of Silicon Valley`](https://google.com/search?q=Law+Foundation+of+Silicon+Valley) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/5e950fc8865837d3c43e4c48eeeaa921.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 19.12 (UTC)_
+Last update : _Sunday 19/03/2023 20.18 (UTC)_

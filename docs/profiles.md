@@ -4757,7 +4757,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`maximumind.com`](https://google.com/search?q=maximumind.com) | 13/03/2023 | I would say we were lucky if SPACE-X contractors were more talkative.But I think this material will find its buyer as soon as possible.Elon Musk we will help you sell your drawings to other manufacturers - build the ship faster and fly away.... | <a href="https://www.ransomware.live/screenshots/posts/64eb8022570cabfa506a1566fd71d343.png" target=_blank>📸</a> |
 | [`plasticproductsco.com`](https://google.com/search?q=plasticproductsco.com) | 13/03/2023 | Founded in 1962, Plastic Products is a company that specializes in providing plastic, metal, and ceramic injection molding services. |   |
 | [`dmos.com`](https://google.com/search?q=dmos.com) | 13/03/2023 | Data Volume: 278.69 GBContents: scans, purchasing information, marketing information, contracts, insurance documents, and moreSince 1955 DMOS Orthopaedic Centers has been leading the way, providing innovative quality care to patients of Central... |   |
-| [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | 13/03/2023 | Jaureguy S.A.C. I. y A. is a company with more than 20 years of experience making and selling soda in disposable siphons.Jaureguy has their own fleet for the logistics of their products and a Distribution Center located in San Justo, La Matanza, Bu... |   |
+| [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | 13/03/2023 | Jaureguy S.A.C. I. y A. is a company with more than 20 years of experience making and selling soda in disposable siphons.Jaureguy has their own fleet for the logistics of their products and a Distribution Center located in San Justo, La Matanza, Bu... | <a href="https://www.ransomware.live/screenshots/posts/e0f6fe7160e320b8eb253e4e8310ff74.png" target=_blank>📸</a> |
 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | 11/03/2023 | Founded in 1963, Schrader Camargo is an engineering, procurement, and construction company. Other services Schrader Camargo offers include civil works, electromechanical assemblies, and operation and maintenance in the hydrocarbons |   |
 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | 11/03/2023 | Hospital e Maternidade Vidas is a company that operates in the Hospital & Health Care industry. |   |
 | [`bonta-viva.it`](https://google.com/search?q=bonta-viva.it) | 11/03/2023 | Bonta Viva's authentic Italian cow milk cheese made from mozzarella and cream |   |
@@ -5796,6 +5796,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 19/03/2023 18:54 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+
 
 ### Posts
 
@@ -8752,4 +8753,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 19/03/2023 19.12 (UTC)_
+Last update : _Sunday 19/03/2023 20.18 (UTC)_
