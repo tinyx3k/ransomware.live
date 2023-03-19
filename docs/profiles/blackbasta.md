@@ -11,9 +11,9 @@ _`Solve a scrapping issue on 2023-03-08`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| 403 Forbidden | 🟢 | 19/03/2023 02:57 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | 🟢 | 19/03/2023 02:58 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
-| Chat Black Basta | 🟢 | 19/03/2023 02:58 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
+| 403 Forbidden | 🟢 | 19/03/2023 04:33 | `http://stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd.onion` | <a href="https://www.ransomware.live/screenshots/stniiomyjliimcgkvdszvgen3eaaoz55hreqqx6o77yvmpwt7gklffqd-onion.png" target=_blank>📸</a> | 
+| Chat Black Basta | 🟢 | 19/03/2023 04:33 | `http://aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd.onion` | <a href="https://www.ransomware.live/screenshots/aazsbsgya565vlu2c6bzy6yfiebkcbtvvcytvolt33s77xypi7nypxyd-onion.png" target=_blank>📸</a> | 
+| Chat Black Basta | 🟢 | 19/03/2023 04:34 | `http://bastad5huzwkepdixedg2gekg7jk22ato24zyllp6lnjx7wdtyctgvyd.onion` | ❌ | 
 
 
 ### Ransom note
@@ -223,4 +223,4 @@ _`Solve a scrapping issue on 2023-03-08`_
  --- 
 
 
-Last update : _Sunday 19/03/2023 03.37 (UTC)_
+Last update : _Sunday 19/03/2023 05.10 (UTC)_
