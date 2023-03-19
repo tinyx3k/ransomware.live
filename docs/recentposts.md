@@ -206,4 +206,4 @@
 | 2023-03-06 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/1b4313e9ef6eed7ba664bab63a4a9e8b.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Law Foundation of Silicon Valley`](https://google.com/search?q=Law+Foundation+of+Silicon+Valley) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/5e950fc8865837d3c43e4c48eeeaa921.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 21.07 (UTC)_
+Last update : _Sunday 19/03/2023 23.06 (UTC)_
