@@ -5,7 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
-| 2023-03-19 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-19 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/88da6637c5bb1dc083d76711a9c44d0d.png" target=_blank>👀</a> |
 | 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/631f40ea28b0194332694e2191822a91.png" target=_blank>👀</a> |
 | 2023-03-19 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/c918acd8d33e582f754f864a549e5d63.png" target=_blank>👀</a> |
 | 2023-03-19 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/1f45a70b2dbdb9b0f2ceb3dc7963b0e1.png" target=_blank>👀</a> |
@@ -206,4 +206,4 @@
 | 2023-03-06 | [`Kventa Kft`](https://google.com/search?q=Kventa+Kft) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/31438348122a5242249fb0daa59ab162.png" target=_blank>👀</a> |
 | 2023-03-06 | [`HATCHBANK.COM`](https://google.com/search?q=HATCHBANK.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a2da86be3f71c7ac936936c63a545fe2.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 17.16 (UTC)_
+Last update : _Sunday 19/03/2023 18.34 (UTC)_

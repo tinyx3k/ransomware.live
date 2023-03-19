@@ -4734,7 +4734,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | 19/03/2023 | We are a building supply store that specializes in roofing materials and services.Our products include roofing, insulation, gutters, and battens. Therefore, pretty much anything roof-related.STAV-INVEST was founded in 1992. We have come a lon... |   |
+| [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | 19/03/2023 | We are a building supply store that specializes in roofing materials and services.Our products include roofing, insulation, gutters, and battens. Therefore, pretty much anything roof-related.STAV-INVEST was founded in 1992. We have come a lon... | <a href="https://www.ransomware.live/screenshots/posts/88da6637c5bb1dc083d76711a9c44d0d.png" target=_blank>📸</a> |
 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | 19/03/2023 | After the launch in France of logistics services for mass distribution, our Group begins its international deployment with a first subsidiary in Taiwan in early 2002. This would be followed by the opening of a new country every year… | <a href="https://www.ransomware.live/screenshots/posts/631f40ea28b0194332694e2191822a91.png" target=_blank>📸</a> |
 | [`hitzler-ingenieure.de`](https://google.com/search?q=hitzler-ingenieure.de) | 19/03/2023 | The world is changing - and we with it.The German construction industry is facing the greatest upheaval in its history. The megatrends of digitization and sustainability will fundamentally change the industry. And require continuously growing know-... | <a href="https://www.ransomware.live/screenshots/posts/c918acd8d33e582f754f864a549e5d63.png" target=_blank>📸</a> |
 | [`bbsautomation.com`](https://google.com/search?q=bbsautomation.com) | 19/03/2023 | BBS Provides InnovativeAdvanced Engineering WorldwideBBS is committed to providing engineering solutions which are not only financially feasible and structurally sound, but help improve safety, reliability and profitability. At BBS, assembly auto... | <a href="https://www.ransomware.live/screenshots/posts/b43e69ae7dc78ae9c1cb4d08d3a39d35.png" target=_blank>📸</a> |
@@ -5794,6 +5794,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 19/03/2023 16:58 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+
 
 ### Posts
 
@@ -8750,4 +8751,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Sunday 19/03/2023 17.16 (UTC)_
+Last update : _Sunday 19/03/2023 18.34 (UTC)_
