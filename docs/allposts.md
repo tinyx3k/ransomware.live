@@ -1,6 +1,6 @@
 
 
-_All `5495` posts_
+_All `5497` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,8 @@ _All `5495` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-19 | [`Nor-Cal Beverage`](https://google.com/search?q=Nor-Cal+Beverage) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-19 | [`Tri Counties Bank`](https://google.com/search?q=Tri+Counties+Bank) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-19 | [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](profiles.md?id=alphv) |
 | 2023-03-18 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | [medusa](profiles.md?id=medusa) |
@@ -198,7 +200,7 @@ _All `5495` posts_
 | 2023-03-08 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-08 | [`MAKLERSOFTWARE`](https://google.com/search?q=MAKLERSOFTWARE) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-08 | [`fflawoffice`](https://google.com/search?q=fflawoffice) | [blackbasta](profiles.md?id=blackbasta) |
-| 2023-03-08 | [`KWS_2`](https://google.com/search?q=KWS_2) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-08 | [`Kanawha Scales`](https://google.com/search?q=Kanawha+Scales) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) |
 | 2023-03-06 | [`Law Foundation of Silicon Valley`](https://google.com/search?q=Law+Foundation+of+Silicon+Valley) | [alphv](profiles.md?id=alphv) |
@@ -5505,4 +5507,4 @@ _All `5495` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Sunday 19/03/2023 11.07 (UTC)_
+Last update : _Sunday 19/03/2023 12.37 (UTC)_

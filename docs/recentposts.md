@@ -5,9 +5,11 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-19 | [`Nor-Cal Beverage`](https://google.com/search?q=Nor-Cal+Beverage) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-19 | [`Tri Counties Bank`](https://google.com/search?q=Tri+Counties+Bank) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-19 | [`spoormaker.co.za`](https://google.com/search?q=spoormaker.co.za) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](profiles.md?id=alphv) |   |
-| 2023-03-18 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | [medusa](profiles.md?id=medusa) |   |
+| 2023-03-18 | [`FABREGA MOLINO (fmm.com.pa)`](https://google.com/search?q=FABREGA+MOLINO+%28fmm.com.pa%29) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/8d8a62f301b164e3d4cc17e3254f712f.png" target=_blank>👀</a> |
+| 2023-03-18 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/a49054bddb961bd251bdee11b40a35bc.png" target=_blank>👀</a> |
 | 2023-03-18 | [`James Group`](https://google.com/search?q=James+Group) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/7b83d8c3d233066f9f230f10c1575d1e.png" target=_blank>👀</a> |
 | 2023-03-18 | [`Collins Electrical`](https://google.com/search?q=Collins+Electrical) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/2954948b3ff75c533118ae6b601eb212.png" target=_blank>👀</a> |
 | 2023-03-18 | [`Sutton and Jacobs`](https://google.com/search?q=Sutton+and+Jacobs) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/7811acdf2f86f730f53b18b993df2e56.png" target=_blank>👀</a> |
@@ -186,7 +188,7 @@
 | 2023-03-08 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`MAKLERSOFTWARE`](https://google.com/search?q=MAKLERSOFTWARE) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`fflawoffice`](https://google.com/search?q=fflawoffice) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`KWS_2`](https://google.com/search?q=KWS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-08 | [`Kanawha Scales`](https://google.com/search?q=Kanawha+Scales) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/0c4ff939afe42353d440717eab258fca.png" target=_blank>👀</a> |
 | 2023-03-07 | [`workplace.org`](https://google.com/search?q=workplace.org) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/b124395bcdc420c389307bb1063c9d23.png" target=_blank>👀</a> |
@@ -203,7 +205,5 @@
 | 2023-03-06 | [`Wilhelm`](https://google.com/search?q=Wilhelm) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/c2023a17f430c3f54da8fce113776683.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Krinos Foods`](https://google.com/search?q=Krinos+Foods) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/8421a9d554fdb7e2059c16ae927c9bd9.png" target=_blank>👀</a> |
 | 2023-03-06 | [`Richard Sanders`](https://google.com/search?q=Richard+Sanders) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/4143a283dc0a755185fb9f92bf1b0c83.png" target=_blank>👀</a> |
-| 2023-03-05 | [`HAW Hamburg`](https://google.com/search?q=HAW+Hamburg) | [vicesociety](profiles.md?id=vicesociety) | <a href="https://www.ransomware.live/screenshots/posts/5f588c7396b465c024e53e4b9ed1914f.png" target=_blank>👀</a> |
-| 2023-03-05 | [`AddWeb Solution Pvt`](https://google.com/search?q=AddWeb+Solution+Pvt) | [mallox](profiles.md?id=mallox) | <a href="https://www.ransomware.live/screenshots/posts/4544609620491f6a3513a9e12189df6f.png" target=_blank>👀</a> |
 
-Last update : _Sunday 19/03/2023 11.07 (UTC)_
+Last update : _Sunday 19/03/2023 12.37 (UTC)_
