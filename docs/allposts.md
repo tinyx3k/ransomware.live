@@ -1,6 +1,6 @@
 
 
-_All `5510` posts_
+_All `5511` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5510` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-15 | [`emotorsdirect.ca`](https://google.com/search?q=emotorsdirect.ca) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5520,4 +5521,4 @@ _All `5510` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 20/03/2023 21.08 (UTC)_
+Last update : _Monday 20/03/2023 23.06 (UTC)_
