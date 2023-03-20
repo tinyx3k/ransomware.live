@@ -1,6 +1,6 @@
 
 
-_All `5507` posts_
+_All `5508` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,7 @@ _All `5507` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-20 | [`National Board of Osteopathic Medical Examiners`](https://google.com/search?q=National+Board+of+Osteopathic+Medical+Examiners) | [karakurt](profiles.md?id=karakurt) |
 | 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](profiles.md?id=blackbyte) |
 | 2023-03-13 | [`jaureguy.com.ar`](https://google.com/search?q=jaureguy.com.ar) | [lockbit3](profiles.md?id=lockbit3) |
@@ -5517,4 +5518,4 @@ _All `5507` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Monday 20/03/2023 13.29 (UTC)_
+Last update : _Monday 20/03/2023 15.11 (UTC)_

@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-20 | [`National Board of Osteopathic Medical Examiners`](https://google.com/search?q=National+Board+of+Osteopathic+Medical+Examiners) | [karakurt](profiles.md?id=karakurt) | <a href="https://www.ransomware.live/screenshots/posts/2c3ea79fc201ca8defdc97286874575c.png" target=_blank>👀</a> |
 | 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-19 | [`Sunward Pharmaceutical (Sunward)`](https://google.com/search?q=Sunward+Pharmaceutical+%28Sunward%29) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/8db19f708ba6afa8032798b6d5f33120.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-03-07 | [`workplace.org`](https://google.com/search?q=workplace.org) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/b124395bcdc420c389307bb1063c9d23.png" target=_blank>👀</a> |
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/8e3b80149721495151b984a81b3f9c7a.png" target=_blank>👀</a> |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |   |
-| 2023-03-07 | [`gdz.com`](https://google.com/search?q=gdz.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/955a6ba0a35e2f008b59f406f37b3a80.png" target=_blank>👀</a> |
 
-Last update : _Monday 20/03/2023 13.29 (UTC)_
+Last update : _Monday 20/03/2023 15.11 (UTC)_
