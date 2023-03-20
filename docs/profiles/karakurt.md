@@ -11,8 +11,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Chat | 🟢 | 20/03/2023 10:43 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
-| Magazine | 🟢 | 20/03/2023 10:43 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
+| Chat | 🟢 | 20/03/2023 13:00 | `http://omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion` | <a href="https://www.ransomware.live/screenshots/omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead-onion.png" target=_blank>📸</a> | 
+| Magazine | 🟢 | 20/03/2023 13:00 | `http://3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion` | <a href="https://www.ransomware.live/screenshots/3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://karaleaks.com` | ❌ | 
 
 
@@ -34,7 +34,7 @@ _Parser : `Available`_
 | [`Goodwill industries`](https://google.com/search?q=Goodwill+industries) | 21/12/2022 | Centrisys is a USA manufacturer of decanter centrifuges for sludge dewatering and thickening. Since 1987 Centrisys has been a leader in decanter centrifuge service and repair for all brands of centrifuges on the market today. CNP - Technology Water and Biosolids, a subsidiary of Centrifuge-Systems, LLC, designs and supplies innovative nutrient recovery and energy optimization systems for wastewater treatment. In this release we can offer you 403 GB of their corporate data. |
 | [`LIBERTY PULTRUSIONS`](https://google.com/search?q=LIBERTY+PULTRUSIONS) | 20/12/2022 | BauVal was founded in 1954 on the South Shore of Montreal and was first specialized in civil engineering and road systems. Now called Le Groupe Bau-Val inc. and encompassing all affiliated divisions and companies, the enterprise is truly setting itself as the leader in a plethora of sectors, such as managing civil engineering projects and complex structures, transforming aggregates, manufacturing concrete, building material and conventional and low-energy plant mix, as well as transportation and drilling & blasting. In this release we will show you 87 GB of their corporate data. |
 | [`TLC`](https://google.com/search?q=TLC) | 18/12/2022 | TLC is a global brand available in more than 84 million homes in the US and 270 million households around the world. Viewers can enjoy their favorite shows anytime, anywhere on discovery+, the definitive non-fiction, real-life subscription streaming service. A destination online, TLC offers in-depth fan sites and exclusive original video content. TLC is part of Discovery (NASDAQ: DISCA, DISCB, DISCK), reaching 3 billion cumulative viewers in more than 220 countries and territories to satisfy curiosity and captivate superfans with a portfolio of premium nonfiction, lifestyle, sports and kids content brands. In this case we will provide you with almost 1 TB of their scripts, videos, internal documentation, as well as personal information of employees and much more. |
-| [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | 18/12/2022 |   |
+| [`Bevolution Group`](https://google.com/search?q=Bevolution+Group) | 18/12/2022 | Bevolution Group is among the nation's most diverse and creative foodservice beverage providers. It offers juices, sugar-free beverages, thickened and enhanced waters, sports and energy drinks, iced teas, powder beverages, margaritas and cocktail mixers, frozen drinks and smoothie mixes, and flavor shots under its Refrasia, Lemon-X, Tropics and Dr. Smoothie brands. In this release we will show you 446 GB of their corporate data. |
 | [`Gage Brothers`](https://google.com/search?q=Gage+Brothers) | 16/12/2022 |   |
 | [`Batesville Products`](https://google.com/search?q=Batesville+Products) | 13/12/2022 |   |
 | [`Municipalidad de belen`](https://google.com/search?q=Municipalidad+de+belen) | 11/12/2022 |   |
@@ -68,7 +68,7 @@ _Parser : `Available`_
 | [`Ethigen Limited`](https://google.com/search?q=Ethigen+Limited) | 11/12/2022 |   |
 | [`Abdullah Al-Othaim Markets`](https://google.com/search?q=Abdullah+Al-Othaim+Markets) | 11/12/2022 |   |
 | [`Legend Holdings`](https://google.com/search?q=Legend+Holdings) | 11/12/2022 |   |
-| [`PTSC`](https://google.com/search?q=PTSC) | 11/12/2022 |   |
+| [`PTSC`](https://google.com/search?q=PTSC) | 11/12/2022 | PTSC, a member of Vietnam Oil & Gas Group (PetroVietnam - PVN), was established on the implementation of Decision No. 458/TTg dated 24 November 1976 for the approval of the master plan to build a petroleum base in Vung Tau city. In this release we can offer you 1,3 TB of their corporate data. You will definitely enjoy! |
 | [`Regulatory Authority for Telecommunications and Posts (ARTP)`](https://google.com/search?q=Regulatory+Authority+for+Telecommunications+and+Posts+%28ARTP%29) | 11/12/2022 |   |
 | [`Roxboro`](https://google.com/search?q=Roxboro) | 11/12/2022 |   |
 | [`Stratus`](https://google.com/search?q=Stratus) | 11/12/2022 |   |
@@ -78,4 +78,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Monday 20/03/2023 11.09 (UTC)_
+Last update : _Monday 20/03/2023 13.29 (UTC)_
