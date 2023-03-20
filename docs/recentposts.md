@@ -5,6 +5,8 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-20 | [`National Board of Osteopathic Medical Examiners`](https://google.com/search?q=National+Board+of+Osteopathic+Medical+Examiners) | [karakurt](profiles.md?id=karakurt) |   |
+| 2023-03-20 | [`Kelly Group`](https://google.com/search?q=Kelly+Group) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-19 | [`Sunward Pharmaceutical (Sunward)`](https://google.com/search?q=Sunward+Pharmaceutical+%28Sunward%29) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/8db19f708ba6afa8032798b6d5f33120.png" target=_blank>👀</a> |
 | 2023-03-19 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/88da6637c5bb1dc083d76711a9c44d0d.png" target=_blank>👀</a> |
 | 2023-03-19 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/631f40ea28b0194332694e2191822a91.png" target=_blank>👀</a> |
@@ -203,7 +205,5 @@
 | 2023-03-07 | [`Regional Transportation Authority`](https://google.com/search?q=Regional+Transportation+Authority) | [monti](profiles.md?id=monti) | <a href="https://www.ransomware.live/screenshots/posts/8e3b80149721495151b984a81b3f9c7a.png" target=_blank>👀</a> |
 | 2023-03-07 | [`Minneapolis Public Schools`](https://google.com/search?q=Minneapolis+Public+Schools) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-07 | [`gdz.com`](https://google.com/search?q=gdz.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/955a6ba0a35e2f008b59f406f37b3a80.png" target=_blank>👀</a> |
-| 2023-03-06 | [`hendrickcorp.com`](https://google.com/search?q=hendrickcorp.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/1b4313e9ef6eed7ba664bab63a4a9e8b.png" target=_blank>👀</a> |
-| 2023-03-06 | [`Law Foundation of Silicon Valley`](https://google.com/search?q=Law+Foundation+of+Silicon+Valley) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/5e950fc8865837d3c43e4c48eeeaa921.png" target=_blank>👀</a> |
 
-Last update : _Monday 20/03/2023 09.13 (UTC)_
+Last update : _Monday 20/03/2023 11.09 (UTC)_
