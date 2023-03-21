@@ -5,6 +5,11 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-21 | [`hosemanufacturing.com`](https://google.com/search?q=hosemanufacturing.com) | [abyss](profiles.md?id=abyss) |   |
+| 2023-03-21 | [`igadiltd.com`](https://google.com/search?q=igadiltd.com) | [abyss](profiles.md?id=abyss) |   |
+| 2023-03-21 | [`jones-hamilton.com`](https://google.com/search?q=jones-hamilton.com) | [abyss](profiles.md?id=abyss) |   |
+| 2023-03-21 | [`stonehillcontracting.com`](https://google.com/search?q=stonehillcontracting.com) | [abyss](profiles.md?id=abyss) |   |
+| 2023-03-21 | [`siebold.com`](https://google.com/search?q=siebold.com) | [abyss](profiles.md?id=abyss) |   |
 | 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/646b3a80fe951a6937957f4672dc6f25.png" target=_blank>👀</a> |
 | 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/116ca0021e27a60e378bc08286ae2c43.png" target=_blank>👀</a> |
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/15d433d76ab90fe72ac294f1e50409b4.png" target=_blank>👀</a> |
@@ -200,10 +205,5 @@
 | 2023-03-08 | [`KWS`](https://google.com/search?q=KWS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`XLTRAILERS`](https://google.com/search?q=XLTRAILERS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Hall Booth Smith`](https://google.com/search?q=Hall+Booth+Smith) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`MAKLERSOFTWARE`](https://google.com/search?q=MAKLERSOFTWARE) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`fflawoffice`](https://google.com/search?q=fflawoffice) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Kanawha Scales`](https://google.com/search?q=Kanawha+Scales) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |   |
-| 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/0c4ff939afe42353d440717eab258fca.png" target=_blank>👀</a> |
 
-Last update : _Tuesday 21/03/2023 07.12 (UTC)_
+Last update : _Tuesday 21/03/2023 09.58 (UTC)_
