@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-21 | [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`mangiainc.com`](https://google.com/search?q=mangiainc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -204,6 +205,5 @@
 | 2023-03-08 | [`CEC ELECTRICAL`](https://google.com/search?q=CEC+ELECTRICAL) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`WOODHAVEN`](https://google.com/search?q=WOODHAVEN) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Ennis, Inc.`](https://google.com/search?q=Ennis%2C+Inc.) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Sound Publishing`](https://google.com/search?q=Sound+Publishing) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Tuesday 21/03/2023 21.04 (UTC)_
+Last update : _Tuesday 21/03/2023 23.06 (UTC)_
