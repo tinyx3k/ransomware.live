@@ -4275,5 +4275,27 @@
         "profile": [
             "https://id-ransomware.blogspot.com/2022/02/zeon-ransomware.html"
         ]
+    },
+    {
+        "name": "abyss",
+        "captcha": false,
+        "parser": true,
+        "javascript_render": false,
+        "meta": null,
+        "description": null,
+        "locations": [
+            {
+                "fqdn": "3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion",
+                "title": "Abyss-data",
+                "version": 3,
+                "slug": "http://3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion/",
+                "available": true,
+                "delay": null,
+                "updated": "2023-03-21 09:50:50.791606",
+                "lastscrape": "2023-03-21 09:50:50.791569",
+                "enabled": true
+            }
+        ],
+        "profile": []
     }
 ]
