@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`bakermech.com`](https://google.com/search?q=bakermech.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -20,7 +21,7 @@
 | 2023-03-21 | [`stonehillcontracting.com`](https://google.com/search?q=stonehillcontracting.com) | [abyss](profiles.md?id=abyss) |   |
 | 2023-03-21 | [`siebold.com`](https://google.com/search?q=siebold.com) | [abyss](profiles.md?id=abyss) |   |
 | 2023-03-21 | [`co.ottawa.oh.us`](https://google.com/search?q=co.ottawa.oh.us) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/d3a86c386970a623ece6aff8a0ba35e4.png" target=_blank>👀</a> |
+| 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/646b3a80fe951a6937957f4672dc6f25.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-03-08 | [`Sound Publishing`](https://google.com/search?q=Sound+Publishing) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Potandon Foundation`](https://google.com/search?q=Potandon+Foundation) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Sandals Resorts International`](https://google.com/search?q=Sandals+Resorts+International) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Michael & Son`](https://google.com/search?q=Michael+%26+Son) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Tuesday 21/03/2023 11.12 (UTC)_
+Last update : _Tuesday 21/03/2023 13.25 (UTC)_
