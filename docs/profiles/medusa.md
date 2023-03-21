@@ -8,15 +8,15 @@ _Parser : `Not available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Medusa Blog | 🔴 | 21/03/2023 04:52 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
-
+| Medusa Blog | 🟢 | 21/03/2023 10:54 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
-> 28 posts found
+> 29 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Atlas Security`](https://google.com/search?q=Atlas+Security) | 21/03/2023 | Atlas Security is the leading armed response company in Nelson Mandela Bay and Alexandria . The company has more than 150 qualified armed response officers, the largest fleet of armed response vehicles. Atlas Security's client base includes more than 30,000 controlled secure premises in the Eastern Cape Province, including large corporate clients. |
 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | 18/03/2023 | The Firm Vazquez Nava Consultores y Abogados, S.C. was founded in Mexico City in January 1995 by a group of professionals with a broad experience in fields such as Economics, Law, Administration and Engineering. Since its foundation, the Firm has actively participated in the development and structuring of some of the most important projects in Mexico, playing an important role in implementing the best practices for transparency, accountability and anti-corruption measures. |
 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | 16/03/2023 | The National Institute of Ocean Technology (NIOT) was established in November 1993 as an autonomous society under the Ministry of Earth Sciences in India. NIOT is managed by a Governing Council and is headed by a director. The institute is based in Chennai. The major aim of starting NIOT was to develop reliable indigenous technologies to solve various engineering problems associated with harvesting of non-living and living resources in India's exclusive economic zone, which is about two-thirds of the land area of India. |
 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | 14/03/2023 | LLP Group is an international software services group founded in 1992 in the Czech Republic with offices in Western, Central and Eastern Europe, North America and Latin America, providing software consulting services, software development, ERP implementation and business process consulting. The company has 30 years of experience in consulting, developing and implementing systems in more than 70 countries around the world. |
@@ -49,4 +49,4 @@ _Parser : `Not available`_
  --- 
 
 
-Last update : _Tuesday 21/03/2023 09.58 (UTC)_
+Last update : _Tuesday 21/03/2023 11.12 (UTC)_

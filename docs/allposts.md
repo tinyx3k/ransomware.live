@@ -1,6 +1,6 @@
 
 
-_All `5516` posts_
+_All `5529` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,19 @@ _All `5516` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](profiles.md?id=medusa) |
+| 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`co.ottawa.oh.us`](https://google.com/search?q=co.ottawa.oh.us) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`cityofallenpark.org`](https://google.com/search?q=cityofallenpark.org) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`ksrsac.karnataka.gov.in`](https://google.com/search?q=ksrsac.karnataka.gov.in) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`roslevauto.dk`](https://google.com/search?q=roslevauto.dk) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`gproulxinc.com`](https://google.com/search?q=gproulxinc.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`Zeus Energy S.A.C`](https://google.com/search?q=Zeus+Energy+S.A.C) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`jenparking.com`](https://google.com/search?q=jenparking.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`bakermech.com`](https://google.com/search?q=bakermech.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](profiles.md?id=lockbit3) |
 | 2023-03-21 | [`hosemanufacturing.com`](https://google.com/search?q=hosemanufacturing.com) | [abyss](profiles.md?id=abyss) |
 | 2023-03-21 | [`igadiltd.com`](https://google.com/search?q=igadiltd.com) | [abyss](profiles.md?id=abyss) |
 | 2023-03-21 | [`jones-hamilton.com`](https://google.com/search?q=jones-hamilton.com) | [abyss](profiles.md?id=abyss) |
@@ -5526,4 +5539,4 @@ _All `5516` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Tuesday 21/03/2023 09.58 (UTC)_
+Last update : _Tuesday 21/03/2023 11.12 (UTC)_
