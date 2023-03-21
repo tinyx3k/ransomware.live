@@ -206,4 +206,4 @@
 | 2023-03-08 | [`Wagner CAT`](https://google.com/search?q=Wagner+CAT) | [blackbyte](profiles.md?id=blackbyte) |   |
 | 2023-03-07 | [`GROUPAMANA.COM`](https://google.com/search?q=GROUPAMANA.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/0c4ff939afe42353d440717eab258fca.png" target=_blank>👀</a> |
 
-Last update : _Tuesday 21/03/2023 03.18 (UTC)_
+Last update : _Tuesday 21/03/2023 05.09 (UTC)_
