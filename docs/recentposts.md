@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-21 | [`mangiainc.com`](https://google.com/search?q=mangiainc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`bakermech.com`](https://google.com/search?q=bakermech.com) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -24,6 +25,7 @@
 | 2023-03-21 | [`Atlas Security`](https://google.com/search?q=Atlas+Security) | [medusa](profiles.md?id=medusa) |   |
 | 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](profiles.md?id=lockbit3) |   |
+| 2023-03-21 | [`Yaskawa Motoman`](https://google.com/search?q=Yaskawa+Motoman) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/946dc8594f969d0d0db5305ee04f6d39.png" target=_blank>👀</a> |
 | 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/646b3a80fe951a6937957f4672dc6f25.png" target=_blank>👀</a> |
 | 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/116ca0021e27a60e378bc08286ae2c43.png" target=_blank>👀</a> |
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/15d433d76ab90fe72ac294f1e50409b4.png" target=_blank>👀</a> |
@@ -203,7 +205,5 @@
 | 2023-03-08 | [`WOODHAVEN`](https://google.com/search?q=WOODHAVEN) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Ennis, Inc.`](https://google.com/search?q=Ennis%2C+Inc.) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Sound Publishing`](https://google.com/search?q=Sound+Publishing) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Potandon Foundation`](https://google.com/search?q=Potandon+Foundation) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Sandals Resorts International`](https://google.com/search?q=Sandals+Resorts+International) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Tuesday 21/03/2023 17.11 (UTC)_
+Last update : _Tuesday 21/03/2023 19.12 (UTC)_

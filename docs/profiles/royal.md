@@ -8,8 +8,8 @@ _Parser : `Available`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Royal | 🟢 | 21/03/2023 17:01 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
-| none | 🟢 | 21/03/2023 17:02 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
+| Royal | 🟢 | 21/03/2023 19:00 | `http://royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion` | <a href="https://www.ransomware.live/screenshots/royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 21/03/2023 19:01 | `http://royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion` | <a href="https://www.ransomware.live/screenshots/royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -17,10 +17,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 164 posts found
+> 165 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Yaskawa Motoman`](http://www.motoman.com) | 21/03/2023 | Founded in 1989, Yaskawa Motoman is the Robotics Division of Yaskawa America, Inc. It provides automation products and solutions for virtually every industry and robotic application; including arc welding, assembly, coating, dispensing, material handling and so on.You will see their projects, finance, agreements, employee's information and so on and so on.Feel free to check!Archive password: 8gD2$2!^qSs@ |
 | [`Sutton and Jacobs`](https://www.sutton-jacobs.com) | 18/03/2023 | Sutton & Jacobs, LLP is located at the corner of College and Park streets in downtown Beaumont, Texas. Originally a cluster of several buildings that, through the years, included a warehouse, auto parts supply house, blacksmith shop and from the days of cobblestone. |
 | [`AAA Energy Service`](https://www.aaaenergy.com) | 17/03/2023 | AAA Energy Service Co. provides services in a multitude of market sectors to a wide variety of clients, small and large. When it comes to its experience, AAA Energy Service Co. has a diverse resume. We have developed, designed, constructed, and serviced HVAC systems throughout the commercial, industrial, and institutional marketplaces. To be successful, it takes a dedicated staff of professionals that perform at a high level of customer service and have the expertise to design and build various types of systems. |
 | [`DGM Industrie`](https://www.dgm-industrie.fr) | 17/03/2023 | DGM Industrie is a company that operates in the Mechanical or Industrial Engineering industry. It employs 21-50 people and has $1M-$5M of revenue.  |
@@ -189,4 +190,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 21/03/2023 17.11 (UTC)_
+Last update : _Tuesday 21/03/2023 19.12 (UTC)_
