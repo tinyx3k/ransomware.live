@@ -20,7 +20,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-|   | 🟢 | 21/03/2023 22:26 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 22/03/2023 01:44 | `http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion` | <a href="https://www.ransomware.live/screenshots/alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad-onion.png" target=_blank>📸</a> | 
 | none | 🔴 | 01/05/2021 00:00 | `http://2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion` | ❌ | 
 |   | 🔴 | 14/03/2023 06:16 | `http://vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion` | <a href="https://www.ransomware.live/screenshots/vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd-onion.png" target=_blank>📸</a> | 
 
@@ -30,10 +30,11 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 ### Posts
 
-> 319 posts found
+> 320 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Kress`](http://www.kresscarrier.com) | 21/03/2023 | We are the world's leading manufacturer of specialty transport carriers-with machines operating worldwide in the metals/ material handling industry. |
 | [`Sunward Pharmaceutical (Sunward)`](https://sunwardpharma.com/) | 19/03/2023 | PHARMACEUTICAL COMPANY.  Starting with the manufacturing of pharmaceutical products of dosage forms such as liquids (for ingestion and external administration), creams, plain and coated tablets, and capsules, we are today one of the largest generic pharmaceutical manufacturers in Singapore. With factories in Malaysia and Thailand, we supply innovative drugs comprising of therapeutics and over-the-counter (OTC) medication, earning the trust of healthcare professionals and consumers globally. 11 Wan Lee Road, Singapore 627943 T: +65 6265 6022 (SG) E: enquiries@sunwardpharma.com |
 | [`FABREGA MOLINO (fmm.com.pa)`](https://fmm.com.pa/) | 18/03/2023 | FABREGA MOLINO is a Panamanian firm specialized in the practice of law. The Firm stands out due to the depth of their legal knowledge and the excellence of their services. The Firm is composed of a team of specialized professionals in different branches of the law, committed to providing a reliable and efficient experience.  FABREGA MOLINO represents national and international corporations in various sectors of the economy.  The Firm also handles aviation, solar energy, mining, telecommunication, and health issues. |
 | [`James Group`](https://www.jamesgroupintl.com) | 18/03/2023 | As a leading global provider of logistics, supply chain management and e-Commerce services, the James Group continues the quest to provide the most innovative and forward thinking solutions available anywhere in the world.  The James Group family of companies consists of businesses that provide high performing supply chain management and logistic solutions, real estate and support technology investments. |
@@ -357,4 +358,4 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
  --- 
 
 
-Last update : _Tuesday 21/03/2023 23.06 (UTC)_
+Last update : _Wednesday 22/03/2023 02.27 (UTC)_

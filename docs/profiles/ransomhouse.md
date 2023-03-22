@@ -12,7 +12,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| none | 🟢 | 21/03/2023 22:55 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 22/03/2023 02:16 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
@@ -21,10 +21,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 33 posts found
+> 34 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Design CATAPULT`](https://www.designcatapult.com/) | 22/03/2023 | Design CATAPULT offers a unique approach to obtaining quality design  services. We have streamlined the design process to provide the maximum  return on your investment. Our development team consists of highly  skilled Industrial  Designers, Mechanical Engineers, Electrical  Engineers, and Manufacturing  Technicians. The DC team concentrates on  what matters: innovating great design  & engineering solutions while  providing you with the best results at an  affordable price. |
 | [`Indonesia Power`](https://www.indonesiapower.co.id/) | 20/03/2023 | Established in 1995, Indonesia Power, formerly known as PT Pembangkitan Jawa Bali I, operates through its 127 power plants, with a total capacity of 8.888 MW. Indonesia Power is headquartered in South Jakarta and is the largest electricity Power Generating Company |
 | [`Faraday Technology`](https://www.faraday-tech.com/) | 14/03/2023 | Faraday Technology Corporation is a leading fabless ASIC design and silicon IP (intellectual property) provider established in 1993 as the first Asian ASIC vendor. Headquartered in Hsinchu Science Park, Taiwan, Faraday has services and technical support offices around the world, including in US, Japan, China, India and Vietnam to provide customers real-time support. Faraday is listed on the Taiwan Stock Exchange (TWSE) under ticker number 3035. |
 | [`St. Kitts & Nevis`](https://www.gov.kn) | 13/03/2023 | Saint Kitts and Nevis, officially Federation of Saint Kitts and Nevis, also called Saint Christopher and Nevis, state composed of two islands of the Lesser Antilles in the eastern Caribbean Sea. Their combined area is 104 square miles (269 square km). The capital is Basseterre on the island of Saint Kitts. |
@@ -62,4 +63,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Tuesday 21/03/2023 23.06 (UTC)_
+Last update : _Wednesday 22/03/2023 02.27 (UTC)_
