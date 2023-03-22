@@ -5,9 +5,9 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
-| 2023-03-22 | [`Design CATAPULT`](https://google.com/search?q=Design+CATAPULT) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/18cee8efadead13bb542b2a19f3474e6.png" target=_blank>👀</a> |
+| 2023-03-22 | [`Design CATAPULT`](https://google.com/search?q=Design+CATAPULT) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-21 | [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-21 | [`Kress`](https://google.com/search?q=Kress) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/6b44b994f50b42d6c32ccecaf5de4a02.png" target=_blank>👀</a> |
+| 2023-03-21 | [`Kress`](https://google.com/search?q=Kress) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-21 | [`mangiainc.com`](https://google.com/search?q=mangiainc.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | [lockbit3](profiles.md?id=lockbit3) |   |
@@ -206,4 +206,4 @@
 | 2023-03-08 | [`UPONOR`](https://google.com/search?q=UPONOR) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`CEC ELECTRICAL`](https://google.com/search?q=CEC+ELECTRICAL) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Wednesday 22/03/2023 02.27 (UTC)_
+Last update : _Wednesday 22/03/2023 03.21 (UTC)_
