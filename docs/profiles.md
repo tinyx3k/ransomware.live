@@ -148,7 +148,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Kress`](http://www.kresscarrier.com) | 21/03/2023 | We are the world's leading manufacturer of specialty transport carriers-with machines operating worldwide in the metals/ material handling industry. |   |
+| [`Kress`](http://www.kresscarrier.com) | 21/03/2023 | We are the world's leading manufacturer of specialty transport carriers-with machines operating worldwide in the metals/ material handling industry. | <a href="https://www.ransomware.live/screenshots/posts/6b44b994f50b42d6c32ccecaf5de4a02.png" target=_blank>📸</a> |
 | [`Sunward Pharmaceutical (Sunward)`](https://sunwardpharma.com/) | 19/03/2023 | PHARMACEUTICAL COMPANY.  Starting with the manufacturing of pharmaceutical products of dosage forms such as liquids (for ingestion and external administration), creams, plain and coated tablets, and capsules, we are today one of the largest generic pharmaceutical manufacturers in Singapore. With factories in Malaysia and Thailand, we supply innovative drugs comprising of therapeutics and over-the-counter (OTC) medication, earning the trust of healthcare professionals and consumers globally. 11 Wan Lee Road, Singapore 627943 T: +65 6265 6022 (SG) E: enquiries@sunwardpharma.com | <a href="https://www.ransomware.live/screenshots/posts/8db19f708ba6afa8032798b6d5f33120.png" target=_blank>📸</a> |
 | [`FABREGA MOLINO (fmm.com.pa)`](https://fmm.com.pa/) | 18/03/2023 | FABREGA MOLINO is a Panamanian firm specialized in the practice of law. The Firm stands out due to the depth of their legal knowledge and the excellence of their services. The Firm is composed of a team of specialized professionals in different branches of the law, committed to providing a reliable and efficient experience.  FABREGA MOLINO represents national and international corporations in various sectors of the economy.  The Firm also handles aviation, solar energy, mining, telecommunication, and health issues. | <a href="https://www.ransomware.live/screenshots/posts/8d8a62f301b164e3d4cc17e3254f712f.png" target=_blank>📸</a> |
 | [`James Group`](https://www.jamesgroupintl.com) | 18/03/2023 | As a leading global provider of logistics, supply chain management and e-Commerce services, the James Group continues the quest to provide the most innovative and forward thinking solutions available anywhere in the world.  The James Group family of companies consists of businesses that provide high performing supply chain management and logistic solutions, real estate and support technology investments. | <a href="https://www.ransomware.live/screenshots/posts/7b83d8c3d233066f9f230f10c1575d1e.png" target=_blank>📸</a> |
@@ -4739,12 +4739,12 @@ _`previous clearnet fqdn lockbitapt.uz`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | 21/03/2023 | accountants.people trusted their personal data and no one monitored security |   |
-| [`mangiainc.com`](https://google.com/search?q=mangiainc.com) | 21/03/2023 | Mangia, Inc.™ is an Italian producer and exporter of Italian tomatoes and beans produced in Italy and sold through food service & retail distributors. |   |
-| [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | 21/03/2023 | We are the world’s largest operator of sophisticated chemical tankers, a global provider of safe storage services for bulk liquids, and the leading provider of door-to-door transportation services for bulk-liquid chemicals and food-grade products. We... |   |
+| [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | 21/03/2023 | accountants.people trusted their personal data and no one monitored security | <a href="https://www.ransomware.live/screenshots/posts/cd0739882d81b221495f63b7ac580690.png" target=_blank>📸</a> |
+| [`mangiainc.com`](https://google.com/search?q=mangiainc.com) | 21/03/2023 | Mangia, Inc.™ is an Italian producer and exporter of Italian tomatoes and beans produced in Italy and sold through food service & retail distributors. | <a href="https://www.ransomware.live/screenshots/posts/0d704c680ccfef529a7e8de3ce80c8a0.png" target=_blank>📸</a> |
+| [`stolt-nielsen.com`](https://google.com/search?q=stolt-nielsen.com) | 21/03/2023 | We are the world’s largest operator of sophisticated chemical tankers, a global provider of safe storage services for bulk liquids, and the leading provider of door-to-door transportation services for bulk-liquid chemicals and food-grade products. We... | <a href="https://www.ransomware.live/screenshots/posts/b4d41fa601163c24f1c2a7e4e0e3664c.png" target=_blank>📸</a> |
 | [`the3rivers.net`](https://google.com/search?q=the3rivers.net) | 21/03/2023 | The Three Rivers Learning Trust was established in 2011 and consists of eight Schools. These schools have a long and proud history of providing an excellent education service to the local population. |   |
 | [`bakermech.com`](https://google.com/search?q=bakermech.com) | 21/03/2023 | Baker Mechanical Inc. is a family-oriented company that prides itself on ensuring unsurpassed customer satisfaction.Centrally located in eastern North Carolina, BMI can handle any size mechanical project in the region. BMI is dedicated to preserving... |   |
-| [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | 21/03/2023 | For 80 years, Transports Douaud, Piveteau, Herbert, Charpentier and Perocheau have built your transport solutions step by step.The Douaud Group places its employees, partners & customers at the center of its strategy in order to create transport so... |   |
+| [`transports-douaud.com`](https://google.com/search?q=transports-douaud.com) | 21/03/2023 | For 80 years, Transports Douaud, Piveteau, Herbert, Charpentier and Perocheau have built your transport solutions step by step.The Douaud Group places its employees, partners & customers at the center of its strategy in order to create transport so... | <a href="https://www.ransomware.live/screenshots/posts/b89b532361584101bc3cbcf98c376bf2.png" target=_blank>📸</a> |
 | [`jenparking.com`](https://google.com/search?q=jenparking.com) | 21/03/2023 | We are committed to developing parking.with experience expertise and professional serviceto maximize the potential of space utilization"Thinking to improve every need of a parking lot" |   |
 | [`Zeus Energy S.A.C`](https://google.com/search?q=Zeus+Energy+S.A.C) | 21/03/2023 | Zeus Energy S.A.C. (Zeus Energy), a company operating mainly in the Electric Power sector. The company has operations in Peru, which include Construction Contractor Company. |   |
 | [`gproulxinc.com`](https://google.com/search?q=gproulxinc.com) | 21/03/2023 | For more than 45 years, G. Proulx Inc. has been serving the construction industry in the Montreal area. Our activities are concentrated in the commercial, industrial, institutional and residential supply. We are confident that we can meet any of... |   |
@@ -5817,6 +5817,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 22/03/2023 08:52 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
+
 
 ### Posts
 
@@ -7470,7 +7471,7 @@ _`Forum`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Design CATAPULT`](https://www.designcatapult.com/) | 22/03/2023 | Design CATAPULT offers a unique approach to obtaining quality design  services. We have streamlined the design process to provide the maximum  return on your investment. Our development team consists of highly  skilled Industrial  Designers, Mechanical Engineers, Electrical  Engineers, and Manufacturing  Technicians. The DC team concentrates on  what matters: innovating great design  & engineering solutions while  providing you with the best results at an  affordable price. |   |
+| [`Design CATAPULT`](https://www.designcatapult.com/) | 22/03/2023 | Design CATAPULT offers a unique approach to obtaining quality design  services. We have streamlined the design process to provide the maximum  return on your investment. Our development team consists of highly  skilled Industrial  Designers, Mechanical Engineers, Electrical  Engineers, and Manufacturing  Technicians. The DC team concentrates on  what matters: innovating great design  & engineering solutions while  providing you with the best results at an  affordable price. | <a href="https://www.ransomware.live/screenshots/posts/18cee8efadead13bb542b2a19f3474e6.png" target=_blank>📸</a> |
 | [`Indonesia Power`](https://www.indonesiapower.co.id/) | 20/03/2023 | Established in 1995, Indonesia Power, formerly known as PT Pembangkitan Jawa Bali I, operates through its 127 power plants, with a total capacity of 8.888 MW. Indonesia Power is headquartered in South Jakarta and is the largest electricity Power Generating Company | <a href="https://www.ransomware.live/screenshots/posts/646b3a80fe951a6937957f4672dc6f25.png" target=_blank>📸</a> |
 | [`Faraday Technology`](https://www.faraday-tech.com/) | 14/03/2023 | Faraday Technology Corporation is a leading fabless ASIC design and silicon IP (intellectual property) provider established in 1993 as the first Asian ASIC vendor. Headquartered in Hsinchu Science Park, Taiwan, Faraday has services and technical support offices around the world, including in US, Japan, China, India and Vietnam to provide customers real-time support. Faraday is listed on the Taiwan Stock Exchange (TWSE) under ticker number 3035. | <a href="https://www.ransomware.live/screenshots/posts/1fb144bc2fa3867723b3c840a0f04af5.png" target=_blank>📸</a> |
 | [`St. Kitts & Nevis`](https://www.gov.kn) | 13/03/2023 | Saint Kitts and Nevis, officially Federation of Saint Kitts and Nevis, also called Saint Christopher and Nevis, state composed of two islands of the Lesser Antilles in the eastern Caribbean Sea. Their combined area is 104 square miles (269 square km). The capital is Basseterre on the island of Saint Kitts. | <a href="https://www.ransomware.live/screenshots/posts/4182e045edbfd6042fdad1f09eebf387.png" target=_blank>📸</a> |
@@ -7727,7 +7728,7 @@ _`Forum`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Yaskawa Motoman`](http://www.motoman.com) | 21/03/2023 | Founded in 1989, Yaskawa Motoman is the Robotics Division of Yaskawa America, Inc. It provides automation products and solutions for virtually every industry and robotic application; including arc welding, assembly, coating, dispensing, material handling and so on.You will see their projects, finance, agreements, employee's information and so on and so on.Feel free to check!Archive password: 8gD2$2!^qSs@ |   |
+| [`Yaskawa Motoman`](http://www.motoman.com) | 21/03/2023 | Founded in 1989, Yaskawa Motoman is the Robotics Division of Yaskawa America, Inc. It provides automation products and solutions for virtually every industry and robotic application; including arc welding, assembly, coating, dispensing, material handling and so on.You will see their projects, finance, agreements, employee's information and so on and so on.Feel free to check!Archive password: 8gD2$2!^qSs@ | <a href="https://www.ransomware.live/screenshots/posts/946dc8594f969d0d0db5305ee04f6d39.png" target=_blank>📸</a> |
 | [`Sutton and Jacobs`](https://www.sutton-jacobs.com) | 18/03/2023 | Sutton & Jacobs, LLP is located at the corner of College and Park streets in downtown Beaumont, Texas. Originally a cluster of several buildings that, through the years, included a warehouse, auto parts supply house, blacksmith shop and from the days of cobblestone. | <a href="https://www.ransomware.live/screenshots/posts/7811acdf2f86f730f53b18b993df2e56.png" target=_blank>📸</a> |
 | [`AAA Energy Service`](https://www.aaaenergy.com) | 17/03/2023 | AAA Energy Service Co. provides services in a multitude of market sectors to a wide variety of clients, small and large. When it comes to its experience, AAA Energy Service Co. has a diverse resume. We have developed, designed, constructed, and serviced HVAC systems throughout the commercial, industrial, and institutional marketplaces. To be successful, it takes a dedicated staff of professionals that perform at a high level of customer service and have the expertise to design and build various types of systems. | <a href="https://www.ransomware.live/screenshots/posts/7fda34b027569d68e759e133c56a8b2d.png" target=_blank>📸</a> |
 | [`DGM Industrie`](https://www.dgm-industrie.fr) | 17/03/2023 | DGM Industrie is a company that operates in the Mechanical or Industrial Engineering industry. It employs 21-50 people and has $1M-$5M of revenue.  | <a href="https://www.ransomware.live/screenshots/posts/483d22c0300914c300ac57f9337cd051.png" target=_blank>📸</a> |
@@ -8786,12 +8787,11 @@ _`aka fonix`_
 
 ### Posts
 
-> 7 posts found
+> 6 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
 | [`largest provider of orthopedic care`](https://google.com/search?q=largest+provider+of+orthopedic+care) | 22/03/2023 | 147Gb uncompressed data |   |
-| [`largest provider of orthopaedic care`](https://google.com/search?q=largest+provider+of+orthopaedic+care) | 22/03/2023 | 147Gb uncompressed data |   |
 | [`hosemanufacturing.com`](https://google.com/search?q=hosemanufacturing.com) | 21/03/2023 | Ratermann Manufacturing 113Gb uncompressed data |   |
 | [`igadiltd.com`](https://google.com/search?q=igadiltd.com) | 21/03/2023 | IgadI  84Gb uncompressed data |   |
 | [`jones-hamilton.com`](https://google.com/search?q=jones-hamilton.com) | 21/03/2023 | Jones-Hamilton Co. 230Gb uncompressed data |   |
@@ -8801,4 +8801,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Wednesday 22/03/2023 09.09 (UTC)_
+Last update : _Wednesday 22/03/2023 11.27 (UTC)_

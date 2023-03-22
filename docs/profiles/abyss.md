@@ -12,12 +12,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 7 posts found
+> 6 posts found
 
 | post | date | Description
 |---|---|---|
 | [`largest provider of orthopedic care`](https://google.com/search?q=largest+provider+of+orthopedic+care) | 22/03/2023 | 147Gb uncompressed data |
-| [`largest provider of orthopaedic care`](https://google.com/search?q=largest+provider+of+orthopaedic+care) | 22/03/2023 | 147Gb uncompressed data |
 | [`hosemanufacturing.com`](https://google.com/search?q=hosemanufacturing.com) | 21/03/2023 | Ratermann Manufacturing 113Gb uncompressed data |
 | [`igadiltd.com`](https://google.com/search?q=igadiltd.com) | 21/03/2023 | IgadI  84Gb uncompressed data |
 | [`jones-hamilton.com`](https://google.com/search?q=jones-hamilton.com) | 21/03/2023 | Jones-Hamilton Co. 230Gb uncompressed data |
@@ -27,4 +26,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Wednesday 22/03/2023 09.09 (UTC)_
+Last update : _Wednesday 22/03/2023 11.27 (UTC)_
