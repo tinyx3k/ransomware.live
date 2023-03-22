@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-22 | [`largest provider of orthopaedic care`](https://google.com/search?q=largest+provider+of+orthopaedic+care) | [abyss](profiles.md?id=abyss) |   |
 | 2023-03-22 | [`Design CATAPULT`](https://google.com/search?q=Design+CATAPULT) | [ransomhouse](profiles.md?id=ransomhouse) |   |
 | 2023-03-21 | [`cabinet-paillet.fr`](https://google.com/search?q=cabinet-paillet.fr) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`Kress`](https://google.com/search?q=Kress) | [alphv](profiles.md?id=alphv) |   |
@@ -204,6 +205,5 @@
 | 2023-03-08 | [`ARRI`](https://google.com/search?q=ARRI) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`SMLAW`](https://google.com/search?q=SMLAW) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`UPONOR`](https://google.com/search?q=UPONOR) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`CEC ELECTRICAL`](https://google.com/search?q=CEC+ELECTRICAL) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Wednesday 22/03/2023 03.21 (UTC)_
+Last update : _Wednesday 22/03/2023 05.11 (UTC)_
