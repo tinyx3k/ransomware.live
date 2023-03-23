@@ -5,6 +5,10 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-23 | [`PHOENIX.TECH`](https://google.com/search?q=PHOENIX.TECH) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/9a02158333f4108ecc00d8745bebd0ef.png" target=_blank>👀</a> |
+| 2023-03-23 | [`SODALESSOLUTIONS.COM`](https://google.com/search?q=SODALESSOLUTIONS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/c4e44416c049d7b8d68a95be6ed30b61.png" target=_blank>👀</a> |
+| 2023-03-23 | [`NATIONSBENEFITS.COM`](https://google.com/search?q=NATIONSBENEFITS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/11b20ef0c6459d0830f3ab96e442539f.png" target=_blank>👀</a> |
+| 2023-03-23 | [`SHOLASTIC.COM`](https://google.com/search?q=SHOLASTIC.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/3022c5ae46ec55d766f1dc1169adf170.png" target=_blank>👀</a> |
 | 2023-03-23 | [`VUMACAM.CO.ZA`](https://google.com/search?q=VUMACAM.CO.ZA) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/6a57a9f79f04bcc6dc25f78f6892d0f5.png" target=_blank>👀</a> |
 | 2023-03-23 | [`TORONTO.CA`](https://google.com/search?q=TORONTO.CA) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/d4d9453b467a1fafb1235ff1ded45b29.png" target=_blank>👀</a> |
 | 2023-03-23 | [`CLOUDMED.COM`](https://google.com/search?q=CLOUDMED.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/ba35a0e7dec389136454dc9283d5bbc4.png" target=_blank>👀</a> |
@@ -201,9 +205,5 @@
 | 2023-03-11 | [`bonta-viva.it`](https://google.com/search?q=bonta-viva.it) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-11 | [`wyckoffcomfort.com`](https://google.com/search?q=wyckoffcomfort.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-11 | [`lubrimetal.com`](https://google.com/search?q=lubrimetal.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-11 | [`meinet.com`](https://google.com/search?q=meinet.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-11 | [`brandywine-homes.com`](https://google.com/search?q=brandywine-homes.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-11 | [`cqservice.sk`](https://google.com/search?q=cqservice.sk) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Thursday 23/03/2023 13.25 (UTC)_
+Last update : _Thursday 23/03/2023 13.36 (UTC)_

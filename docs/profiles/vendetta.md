@@ -25,4 +25,4 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 13.25 (UTC)_
+Last update : _Thursday 23/03/2023 13.36 (UTC)_

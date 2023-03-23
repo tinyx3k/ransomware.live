@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 13:24 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 13:35 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,14 @@ _Parser : `Available`_
 
 ### Posts
 
-> 197 posts found
+> 201 posts found
 
 | post | date | Description
 |---|---|---|
+| [`PHOENIX.TECH`](https://www.PHOENIX.TECH) | 23/03/2023 |  |
+| [`SODALESSOLUTIONS.COM`](https://www.SODALESSOLUTIONS.COM) | 23/03/2023 |  |
+| [`NATIONSBENEFITS.COM`](https://www.NATIONSBENEFITS.COM) | 23/03/2023 |  |
+| [`SHOLASTIC.COM`](https://www.SHOLASTIC.COM) | 23/03/2023 |  |
 | [`VUMACAM.CO.ZA`](https://www.VUMACAM.CO.ZA) | 23/03/2023 |  |
 | [`TORONTO.CA`](https://www.TORONTO.CA) | 23/03/2023 |  |
 | [`CLOUDMED.COM`](https://www.CLOUDMED.COM) | 23/03/2023 |  |
@@ -228,4 +232,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 13.25 (UTC)_
+Last update : _Thursday 23/03/2023 13.36 (UTC)_

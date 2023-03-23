@@ -1,6 +1,6 @@
 
 
-_All `5583` posts_
+_All `5587` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,10 @@ _All `5583` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-23 | [`PHOENIX.TECH`](https://google.com/search?q=PHOENIX.TECH) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`SODALESSOLUTIONS.COM`](https://google.com/search?q=SODALESSOLUTIONS.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`NATIONSBENEFITS.COM`](https://google.com/search?q=NATIONSBENEFITS.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`SHOLASTIC.COM`](https://google.com/search?q=SHOLASTIC.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`VUMACAM.CO.ZA`](https://google.com/search?q=VUMACAM.CO.ZA) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`TORONTO.CA`](https://google.com/search?q=TORONTO.CA) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`CLOUDMED.COM`](https://google.com/search?q=CLOUDMED.COM) | [clop](profiles.md?id=clop) |
@@ -5593,4 +5597,4 @@ _All `5583` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 23/03/2023 13.25 (UTC)_
+Last update : _Thursday 23/03/2023 13.36 (UTC)_

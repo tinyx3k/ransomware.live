@@ -1665,7 +1665,7 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 13:24 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 13:35 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1673,10 +1673,14 @@ _`claim to donate 80% of earnings to charity`_
 
 ### Posts
 
-> 197 posts found
+> 201 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`PHOENIX.TECH`](https://www.PHOENIX.TECH) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/9a02158333f4108ecc00d8745bebd0ef.png" target=_blank>📸</a> |
+| [`SODALESSOLUTIONS.COM`](https://www.SODALESSOLUTIONS.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c4e44416c049d7b8d68a95be6ed30b61.png" target=_blank>📸</a> |
+| [`NATIONSBENEFITS.COM`](https://www.NATIONSBENEFITS.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/11b20ef0c6459d0830f3ab96e442539f.png" target=_blank>📸</a> |
+| [`SHOLASTIC.COM`](https://www.SHOLASTIC.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/3022c5ae46ec55d766f1dc1169adf170.png" target=_blank>📸</a> |
 | [`VUMACAM.CO.ZA`](https://www.VUMACAM.CO.ZA) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/6a57a9f79f04bcc6dc25f78f6892d0f5.png" target=_blank>📸</a> |
 | [`TORONTO.CA`](https://www.TORONTO.CA) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d4d9453b467a1fafb1235ff1ded45b29.png" target=_blank>📸</a> |
 | [`CLOUDMED.COM`](https://www.CLOUDMED.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/ba35a0e7dec389136454dc9283d5bbc4.png" target=_blank>📸</a> |
@@ -8848,4 +8852,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 13.25 (UTC)_
+Last update : _Thursday 23/03/2023 13.36 (UTC)_
