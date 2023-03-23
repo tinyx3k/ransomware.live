@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-23 | [`bluebirdnetwork`](https://google.com/search?q=bluebirdnetwork) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/57cca1905b5f1a028fdfab5f4ec58d27.png" target=_blank>👀</a> |
 | 2023-03-22 | [`LASOLTEL.FR`](https://google.com/search?q=LASOLTEL.FR) | [clop](profiles.md?id=clop) |   |
 | 2023-03-22 | [`PG.COM`](https://google.com/search?q=PG.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-22 | [`CROSSVILLEINC.COM`](https://google.com/search?q=CROSSVILLEINC.COM) | [clop](profiles.md?id=clop) |   |
@@ -204,6 +205,5 @@
 | 2023-03-09 | [`Brauerei Schimpf`](https://google.com/search?q=Brauerei+Schimpf) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/5b8730d14fb6839c233f2fde78b93b77.png" target=_blank>👀</a> |
 | 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/15593ab9b38cd544c15961ab1b83d494.png" target=_blank>👀</a> |
 | 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
-| 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Thursday 23/03/2023 07.13 (UTC)_
+Last update : _Thursday 23/03/2023 09.10 (UTC)_
