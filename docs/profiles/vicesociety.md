@@ -19,11 +19,11 @@ _`ecdmr42axxx.onion - fileserver`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://4hzyuotli6maqa4u.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 23/03/2023 19:03 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 23/03/2023 21:14 | `http://vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion` | <a href="https://www.ransomware.live/screenshots/vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad-onion.png" target=_blank>📸</a> | 
 | there is nothing... | 🔴 | 21/09/2022 17:27 | `http://ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion` | ❌ | 
-| Vice Society - Official Site | 🟢 | 23/03/2023 19:03 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 23/03/2023 19:04 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
-| Vice Society - Official Site | 🟢 | 23/03/2023 19:05 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 23/03/2023 21:15 | `http://wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion` | <a href="https://www.ransomware.live/screenshots/wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 23/03/2023 21:16 | `http://ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion` | <a href="https://www.ransomware.live/screenshots/ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd-onion.png" target=_blank>📸</a> | 
+| Vice Society - Official Site | 🟢 | 23/03/2023 21:17 | `http://ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion` | <a href="https://www.ransomware.live/screenshots/ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -31,10 +31,11 @@ _`ecdmr42axxx.onion - fileserver`_
 
 ### Posts
 
-> 176 posts found
+> 177 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Autoridad de Acueductos Y Alcantarillados`](http://www.acueductospr.com/) | 23/03/2023 | The Puerto Rico Aqueducts and Sewers Authority is a water company and the government-owned corporation responsible for water quality, management, and supply in Puerto Rico, a US insular area. |
 | [`Ecolog International`](http://www.ecolog-international.com/) | 17/03/2023 | Ecolog International is a multinational company that uses technology and supply chain management to provide services for a variety of industries including energy, construction, facility management and the environment. |
 | [`Berkeley County Schools`](http://www.berkeleycountyschools.org/) | 11/03/2023 | Berkeley County Public Schools oversees all operations of the public schools in the county of Berkeley, West Virginia. They serve over 19 722 students at 29 elementary, intermediate, middle and high schools. |
 | [`Kventa Kft`](http://www.kventa.hu/) | 06/03/2023 | Our company's main field of activity has been the trade of computing devices since the beginning. Today, our offer ranges from the installation of local networks and professional computer technology devices, through PC components to computer technology accessories, resulting in a range of several thousand products. |
@@ -215,4 +216,4 @@ _`ecdmr42axxx.onion - fileserver`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 19.09 (UTC)_
+Last update : _Thursday 23/03/2023 21.21 (UTC)_

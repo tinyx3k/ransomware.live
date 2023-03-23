@@ -5,6 +5,8 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-23 | [`Weickert Industries`](https://google.com/search?q=Weickert+Industries) | [monti](profiles.md?id=monti) |   |
+| 2023-03-23 | [`Autoridad de Acueductos Y Alcantarillados`](https://google.com/search?q=Autoridad+de+Acueductos+Y+Alcantarillados) | [vicesociety](profiles.md?id=vicesociety) |   |
 | 2023-03-23 | [`PHOENIX.TECH`](https://google.com/search?q=PHOENIX.TECH) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/9a02158333f4108ecc00d8745bebd0ef.png" target=_blank>👀</a> |
 | 2023-03-23 | [`SODALESSOLUTIONS.COM`](https://google.com/search?q=SODALESSOLUTIONS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/c4e44416c049d7b8d68a95be6ed30b61.png" target=_blank>👀</a> |
 | 2023-03-23 | [`NATIONSBENEFITS.COM`](https://google.com/search?q=NATIONSBENEFITS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/11b20ef0c6459d0830f3ab96e442539f.png" target=_blank>👀</a> |
@@ -203,7 +205,5 @@
 | 2023-03-11 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-11 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-11 | [`bonta-viva.it`](https://google.com/search?q=bonta-viva.it) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-11 | [`wyckoffcomfort.com`](https://google.com/search?q=wyckoffcomfort.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-11 | [`greggardnergm.com`](https://google.com/search?q=greggardnergm.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Thursday 23/03/2023 19.09 (UTC)_
+Last update : _Thursday 23/03/2023 21.21 (UTC)_

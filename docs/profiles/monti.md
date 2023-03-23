@@ -12,7 +12,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | 404 Not Found | 🔴 | 10/10/2022 17:13 | `http://4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion` | ❌ | 
-| MONTI - Leaks site | 🟢 | 23/03/2023 18:53 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
+| MONTI - Leaks site | 🟢 | 23/03/2023 21:01 | `http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion` | <a href="https://www.ransomware.live/screenshots/mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -20,10 +20,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 7 posts found
+> 8 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Weickert Industries`](https://google.com/search?q=Weickert+Industries) | 23/03/2023 | www.weickert.com |
 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | 19/03/2023 | this gay rippers : Monti  #ransomware team posted about how Dount Leaks stole 100K from them and did not 'fulfill the terms of the deal' 👀 |
 | [`American Institute for Healthcare Quality`](https://google.com/search?q=American+Institute+for+Healthcare+Quality) | 19/03/2023 | https://www.zoominfo.com/c/american-institute-for-healthcare-quality/359823076 |
 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | 17/03/2023 | www.unitedlex.com |
@@ -35,4 +36,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 19.09 (UTC)_
+Last update : _Thursday 23/03/2023 21.21 (UTC)_
