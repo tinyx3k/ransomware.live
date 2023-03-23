@@ -1665,7 +1665,7 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 20:37 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 22:52 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -5868,6 +5868,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 23/03/2023 21:00 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 29 posts found
@@ -6068,7 +6069,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Weickert Industries`](https://google.com/search?q=Weickert+Industries) | 23/03/2023 | www.weickert.com |   |
+| [`Weickert Industries`](https://google.com/search?q=Weickert+Industries) | 23/03/2023 | www.weickert.com | <a href="https://www.ransomware.live/screenshots/posts/a5a63c69e78b4e55ab62f214b582060c.png" target=_blank>📸</a> |
 | [`Donut Leaks`](https://google.com/search?q=Donut+Leaks) | 19/03/2023 | this gay rippers : Monti  #ransomware team posted about how Dount Leaks stole 100K from them and did not 'fulfill the terms of the deal' 👀 | <a href="https://www.ransomware.live/screenshots/posts/1f45a70b2dbdb9b0f2ceb3dc7963b0e1.png" target=_blank>📸</a> |
 | [`American Institute for Healthcare Quality`](https://google.com/search?q=American+Institute+for+Healthcare+Quality) | 19/03/2023 | https://www.zoominfo.com/c/american-institute-for-healthcare-quality/359823076 | <a href="https://www.ransomware.live/screenshots/posts/badcdedb7de72374e7724409ead4dd00.png" target=_blank>📸</a> |
 | [`UnitedLex`](https://google.com/search?q=UnitedLex) | 17/03/2023 | www.unitedlex.com | <a href="https://www.ransomware.live/screenshots/posts/250ec5ff50537e88b970894807866211.png" target=_blank>📸</a> |
@@ -7508,7 +7509,7 @@ _`Forum`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| 502 Bad Gateway | 🔴 | 23/03/2023 18:58 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 23/03/2023 22:58 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
@@ -7517,10 +7518,11 @@ _`Forum`_
 
 ### Posts
 
-> 34 posts found
+> 35 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`Comune Taggia`](https://www.comune.taggia.im.it/) | 23/03/2023 | Taggia is a comune (municipality) in the Province of Imperia in the Italian region Liguria, located about 110 kilometres (68 miles) southwest of Genoa and about 15 km (9 mi) west of Imperia. It has around 13,000 inhabitants. Taggia borders the following municipalities: Badalucco, Castellaro, Ceriana, Dolcedo, Pietrabruna, Riva Ligure, and Sanremo |   |
 | [`Design CATAPULT`](https://www.designcatapult.com/) | 22/03/2023 | Design CATAPULT offers a unique approach to obtaining quality design  services. We have streamlined the design process to provide the maximum  return on your investment. Our development team consists of highly  skilled Industrial  Designers, Mechanical Engineers, Electrical  Engineers, and Manufacturing  Technicians. The DC team concentrates on  what matters: innovating great design  & engineering solutions while  providing you with the best results at an  affordable price. | <a href="https://www.ransomware.live/screenshots/posts/18cee8efadead13bb542b2a19f3474e6.png" target=_blank>📸</a> |
 | [`Indonesia Power`](https://www.indonesiapower.co.id/) | 20/03/2023 | Established in 1995, Indonesia Power, formerly known as PT Pembangkitan Jawa Bali I, operates through its 127 power plants, with a total capacity of 8.888 MW. Indonesia Power is headquartered in South Jakarta and is the largest electricity Power Generating Company | <a href="https://www.ransomware.live/screenshots/posts/646b3a80fe951a6937957f4672dc6f25.png" target=_blank>📸</a> |
 | [`Faraday Technology`](https://www.faraday-tech.com/) | 14/03/2023 | Faraday Technology Corporation is a leading fabless ASIC design and silicon IP (intellectual property) provider established in 1993 as the first Asian ASIC vendor. Headquartered in Hsinchu Science Park, Taiwan, Faraday has services and technical support offices around the world, including in US, Japan, China, India and Vietnam to provide customers real-time support. Faraday is listed on the Taiwan Stock Exchange (TWSE) under ticker number 3035. | <a href="https://www.ransomware.live/screenshots/posts/1fb144bc2fa3867723b3c840a0f04af5.png" target=_blank>📸</a> |
@@ -8518,7 +8520,7 @@ _`ecdmr42axxx.onion - fileserver`_
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Autoridad de Acueductos Y Alcantarillados`](http://www.acueductospr.com/) | 23/03/2023 | The Puerto Rico Aqueducts and Sewers Authority is a water company and the government-owned corporation responsible for water quality, management, and supply in Puerto Rico, a US insular area. |   |
+| [`Autoridad de Acueductos Y Alcantarillados`](http://www.acueductospr.com/) | 23/03/2023 | The Puerto Rico Aqueducts and Sewers Authority is a water company and the government-owned corporation responsible for water quality, management, and supply in Puerto Rico, a US insular area. | <a href="https://www.ransomware.live/screenshots/posts/a6abf531fe628d3a3678144555e8daa6.png" target=_blank>📸</a> |
 | [`Ecolog International`](http://www.ecolog-international.com/) | 17/03/2023 | Ecolog International is a multinational company that uses technology and supply chain management to provide services for a variety of industries including energy, construction, facility management and the environment. |   |
 | [`Berkeley County Schools`](http://www.berkeleycountyschools.org/) | 11/03/2023 | Berkeley County Public Schools oversees all operations of the public schools in the county of Berkeley, West Virginia. They serve over 19 722 students at 29 elementary, intermediate, middle and high schools. | <a href="https://www.ransomware.live/screenshots/posts/a3de3015ba22ed0eb7ad718bfe16ea6d.png" target=_blank>📸</a> |
 | [`Kventa Kft`](http://www.kventa.hu/) | 06/03/2023 | Our company's main field of activity has been the trade of computing devices since the beginning. Today, our offer ranges from the installation of local networks and professional computer technology devices, through PC components to computer technology accessories, resulting in a range of several thousand products. | <a href="https://www.ransomware.live/screenshots/posts/31438348122a5242249fb0daa59ab162.png" target=_blank>📸</a> |
@@ -8853,4 +8855,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 21.21 (UTC)_
+Last update : _Thursday 23/03/2023 23.07 (UTC)_

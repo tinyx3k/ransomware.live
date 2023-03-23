@@ -12,7 +12,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | ©RansomHouse | 🔴 | 01/10/2022 13:32 | `http://xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion` | ❌ | 
-| 502 Bad Gateway | 🔴 | 23/03/2023 18:58 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
+| none | 🟢 | 23/03/2023 22:58 | `http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion` | <a href="https://www.ransomware.live/screenshots/zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid-onion.png" target=_blank>📸</a> | 
 | Ransomhouse © | 🔴 | 14/01/2023 21:31 | `http://secxrosqawaefsio3biv2dmi2c5yunf3t7ilwf54czq3v4bi7w6mbfad.onion` | ❌ | 
 
 
@@ -21,10 +21,11 @@ _Parser : `Available`_
 
 ### Posts
 
-> 34 posts found
+> 35 posts found
 
 | post | date | Description
 |---|---|---|
+| [`Comune Taggia`](https://www.comune.taggia.im.it/) | 23/03/2023 | Taggia is a comune (municipality) in the Province of Imperia in the Italian region Liguria, located about 110 kilometres (68 miles) southwest of Genoa and about 15 km (9 mi) west of Imperia. It has around 13,000 inhabitants. Taggia borders the following municipalities: Badalucco, Castellaro, Ceriana, Dolcedo, Pietrabruna, Riva Ligure, and Sanremo |
 | [`Design CATAPULT`](https://www.designcatapult.com/) | 22/03/2023 | Design CATAPULT offers a unique approach to obtaining quality design  services. We have streamlined the design process to provide the maximum  return on your investment. Our development team consists of highly  skilled Industrial  Designers, Mechanical Engineers, Electrical  Engineers, and Manufacturing  Technicians. The DC team concentrates on  what matters: innovating great design  & engineering solutions while  providing you with the best results at an  affordable price. |
 | [`Indonesia Power`](https://www.indonesiapower.co.id/) | 20/03/2023 | Established in 1995, Indonesia Power, formerly known as PT Pembangkitan Jawa Bali I, operates through its 127 power plants, with a total capacity of 8.888 MW. Indonesia Power is headquartered in South Jakarta and is the largest electricity Power Generating Company |
 | [`Faraday Technology`](https://www.faraday-tech.com/) | 14/03/2023 | Faraday Technology Corporation is a leading fabless ASIC design and silicon IP (intellectual property) provider established in 1993 as the first Asian ASIC vendor. Headquartered in Hsinchu Science Park, Taiwan, Faraday has services and technical support offices around the world, including in US, Japan, China, India and Vietnam to provide customers real-time support. Faraday is listed on the Taiwan Stock Exchange (TWSE) under ticker number 3035. |
@@ -63,4 +64,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 21.21 (UTC)_
+Last update : _Thursday 23/03/2023 23.07 (UTC)_
