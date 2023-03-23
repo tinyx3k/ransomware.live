@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 10:37 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 12:33 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,24 @@ _Parser : `Available`_
 
 ### Posts
 
-> 172 posts found
+> 186 posts found
 
 | post | date | Description
 |---|---|---|
+| [`PAYBOXAPP.COM`](https://www.PAYBOXAPP.COM) | 23/03/2023 |  |
+| [`VERRAMOBILITY.COM`](https://www.VERRAMOBILITY.COM) | 23/03/2023 |  |
+| [`BUNZL.COM`](https://www.BUNZL.COM) | 23/03/2023 |  |
+| [`FIRST-CENTRAL.COM`](https://www.FIRST-CENTRAL.COM) | 23/03/2023 |  |
+| [`ALIVIAHELTH.COM`](https://www.ALIVIAHELTH.COM) | 23/03/2023 |  |
+| [`HORMELFOODS.COM`](https://www.HORMELFOODS.COM) | 23/03/2023 |  |
+| [`THECROSBYGROUP.COM`](https://www.THECROSBYGROUP.COM) | 23/03/2023 |  |
+| [`MUNICHRE.COM`](https://www.MUNICHRE.COM) | 23/03/2023 |  |
+| [`GRUPOVANTI.COM`](https://www.GRUPOVANTI.COM) | 23/03/2023 |  |
+| [`VOLARIS.COM`](https://www.VOLARIS.COM) | 23/03/2023 |  |
+| [`ACCUZIP.COM`](https://www.ACCUZIP.COM) | 23/03/2023 |  |
+| [`SEPIRE.COM`](https://www.SEPIRE.COM) | 23/03/2023 |  |
+| [`WVI.ORG`](https://www.WVI.ORG) | 23/03/2023 |  |
+| [`TTBH.ORG`](https://www.TTBH.ORG) | 23/03/2023 |  |
 | [`HUMANGOOD.COM`](https://www.HUMANGOOD.COM) | 23/03/2023 |  |
 | [`KANNACT.COM`](https://www.KANNACT.COM) | 23/03/2023 |  |
 | [`CINEPLEX.COM`](https://www.CINEPLEX.COM) | 23/03/2023 |  |
@@ -203,4 +217,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 11.16 (UTC)_
+Last update : _Thursday 23/03/2023 12.39 (UTC)_

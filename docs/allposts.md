@@ -1,6 +1,6 @@
 
 
-_All `5552` posts_
+_All `5566` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,20 @@ _All `5552` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-23 | [`PAYBOXAPP.COM`](https://google.com/search?q=PAYBOXAPP.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`VERRAMOBILITY.COM`](https://google.com/search?q=VERRAMOBILITY.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`BUNZL.COM`](https://google.com/search?q=BUNZL.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`FIRST-CENTRAL.COM`](https://google.com/search?q=FIRST-CENTRAL.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`ALIVIAHELTH.COM`](https://google.com/search?q=ALIVIAHELTH.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`HORMELFOODS.COM`](https://google.com/search?q=HORMELFOODS.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`THECROSBYGROUP.COM`](https://google.com/search?q=THECROSBYGROUP.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`MUNICHRE.COM`](https://google.com/search?q=MUNICHRE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`GRUPOVANTI.COM`](https://google.com/search?q=GRUPOVANTI.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`VOLARIS.COM`](https://google.com/search?q=VOLARIS.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`ACCUZIP.COM`](https://google.com/search?q=ACCUZIP.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`SEPIRE.COM`](https://google.com/search?q=SEPIRE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`WVI.ORG`](https://google.com/search?q=WVI.ORG) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`TTBH.ORG`](https://google.com/search?q=TTBH.ORG) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`HUMANGOOD.COM`](https://google.com/search?q=HUMANGOOD.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`KANNACT.COM`](https://google.com/search?q=KANNACT.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`CINEPLEX.COM`](https://google.com/search?q=CINEPLEX.COM) | [clop](profiles.md?id=clop) |
@@ -5562,4 +5576,4 @@ _All `5552` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 23/03/2023 11.16 (UTC)_
+Last update : _Thursday 23/03/2023 12.39 (UTC)_

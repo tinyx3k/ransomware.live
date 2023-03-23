@@ -148,7 +148,7 @@ _`aka blackcat - fileserver `ihoqnxnvdwybrv6kiteiesjc3ic6du6axtv3arouxr6ddswrxa2
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`bluebirdnetwork`](https://bluebirdnetwork.com/) | 23/03/2023 | We’ve Been Networking For More Than 20 Years Bluebird Network provides world-class fiber internet and data transport to Carriers and Enterprises in Missouri, Illinois and the Midwest. We’ve been experts in communications infrastructure since 1999. |   |
+| [`bluebirdnetwork`](https://bluebirdnetwork.com/) | 23/03/2023 | We’ve Been Networking For More Than 20 Years Bluebird Network provides world-class fiber internet and data transport to Carriers and Enterprises in Missouri, Illinois and the Midwest. We’ve been experts in communications infrastructure since 1999. | <a href="https://www.ransomware.live/screenshots/posts/57cca1905b5f1a028fdfab5f4ec58d27.png" target=_blank>📸</a> |
 | [`Kress`](http://www.kresscarrier.com) | 21/03/2023 | We are the world's leading manufacturer of specialty transport carriers-with machines operating worldwide in the metals/ material handling industry. | <a href="https://www.ransomware.live/screenshots/posts/6b44b994f50b42d6c32ccecaf5de4a02.png" target=_blank>📸</a> |
 | [`Sunward Pharmaceutical (Sunward)`](https://sunwardpharma.com/) | 19/03/2023 | PHARMACEUTICAL COMPANY.  Starting with the manufacturing of pharmaceutical products of dosage forms such as liquids (for ingestion and external administration), creams, plain and coated tablets, and capsules, we are today one of the largest generic pharmaceutical manufacturers in Singapore. With factories in Malaysia and Thailand, we supply innovative drugs comprising of therapeutics and over-the-counter (OTC) medication, earning the trust of healthcare professionals and consumers globally. 11 Wan Lee Road, Singapore 627943 T: +65 6265 6022 (SG) E: enquiries@sunwardpharma.com | <a href="https://www.ransomware.live/screenshots/posts/8db19f708ba6afa8032798b6d5f33120.png" target=_blank>📸</a> |
 | [`FABREGA MOLINO (fmm.com.pa)`](https://fmm.com.pa/) | 18/03/2023 | FABREGA MOLINO is a Panamanian firm specialized in the practice of law. The Firm stands out due to the depth of their legal knowledge and the excellence of their services. The Firm is composed of a team of specialized professionals in different branches of the law, committed to providing a reliable and efficient experience.  FABREGA MOLINO represents national and international corporations in various sectors of the economy.  The Firm also handles aviation, solar energy, mining, telecommunication, and health issues. | <a href="https://www.ransomware.live/screenshots/posts/8d8a62f301b164e3d4cc17e3254f712f.png" target=_blank>📸</a> |
@@ -1659,7 +1659,7 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 10:37 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 12:33 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1667,10 +1667,24 @@ _`claim to donate 80% of earnings to charity`_
 
 ### Posts
 
-> 172 posts found
+> 186 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`PAYBOXAPP.COM`](https://www.PAYBOXAPP.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d2bcbd497847d3c2e2a2cb626a150cdc.png" target=_blank>📸</a> |
+| [`VERRAMOBILITY.COM`](https://www.VERRAMOBILITY.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c51892c4bc66417c35180e33b47a0a73.png" target=_blank>📸</a> |
+| [`BUNZL.COM`](https://www.BUNZL.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/30ccb69b40fb104e542a844d7f5d5a0c.png" target=_blank>📸</a> |
+| [`FIRST-CENTRAL.COM`](https://www.FIRST-CENTRAL.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/09c3591c6c2751f49e9bcb13a6136064.png" target=_blank>📸</a> |
+| [`ALIVIAHELTH.COM`](https://www.ALIVIAHELTH.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/1c3c18881a9c238ae425945d85f3868e.png" target=_blank>📸</a> |
+| [`HORMELFOODS.COM`](https://www.HORMELFOODS.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/0bcb93bd8cd2bba681de52f5ef782bc1.png" target=_blank>📸</a> |
+| [`THECROSBYGROUP.COM`](https://www.THECROSBYGROUP.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/11525440daa8ece242e6e1f32e8e58fc.png" target=_blank>📸</a> |
+| [`MUNICHRE.COM`](https://www.MUNICHRE.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2909591627fdab778c474575706074c4.png" target=_blank>📸</a> |
+| [`GRUPOVANTI.COM`](https://www.GRUPOVANTI.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/a97f35c516897bfc2ffca081ca74ae10.png" target=_blank>📸</a> |
+| [`VOLARIS.COM`](https://www.VOLARIS.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/60d1f65e393468be1cfa125ca294deae.png" target=_blank>📸</a> |
+| [`ACCUZIP.COM`](https://www.ACCUZIP.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2f8b48f0fba4f080e5cdea03a3a3a8cc.png" target=_blank>📸</a> |
+| [`SEPIRE.COM`](https://www.SEPIRE.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/ea56522f215c60bd5800626ab4ceea3c.png" target=_blank>📸</a> |
+| [`WVI.ORG`](https://www.WVI.ORG) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/882c26c86017c89c362a921d25f9f021.png" target=_blank>📸</a> |
+| [`TTBH.ORG`](https://www.TTBH.ORG) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d2547ab43dc37e420f19fdac25ea0e25.png" target=_blank>📸</a> |
 | [`HUMANGOOD.COM`](https://www.HUMANGOOD.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/a55bbd4a1a8f2ead278fe3b535a974d5.png" target=_blank>📸</a> |
 | [`KANNACT.COM`](https://www.KANNACT.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/a13be484fa937b5c827c72ecd5a56a7c.png" target=_blank>📸</a> |
 | [`CINEPLEX.COM`](https://www.CINEPLEX.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/af4140ddebe4ccccc2ea84421e09e1dd.png" target=_blank>📸</a> |
@@ -1680,10 +1694,10 @@ _`claim to donate 80% of earnings to charity`_
 | [`HRTRANSIT.ORG`](https://www.HRTRANSIT.ORG) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/b9810c2e9a9314e20261202eb73fbf57.png" target=_blank>📸</a> |
 | [`PLURALSIGHT.COM`](https://www.PLURALSIGHT.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/8610700926825dacb14e02fc684ca4af.png" target=_blank>📸</a> |
 | [`PPF.CO.UK`](https://www.PPF.CO.UK) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/dee076fb6419b59788ca19e87bbffa23.png" target=_blank>📸</a> |
-| [`LASOLTEL.FR`](https://www.LASOLTEL.FR) | 22/03/2023 |  |   |
-| [`PG.COM`](https://www.PG.COM) | 22/03/2023 |  |   |
-| [`CROSSVILLEINC.COM`](https://www.CROSSVILLEINC.COM) | 22/03/2023 |  |   |
-| [`LESLIESPOOL.COM`](https://www.LESLIESPOOL.COM) | 22/03/2023 |  |   |
+| [`LASOLTEL.FR`](https://www.LASOLTEL.FR) | 22/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/583c175cf7f070bacc72821e39c37b5d.png" target=_blank>📸</a> |
+| [`PG.COM`](https://www.PG.COM) | 22/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/a1786d798a0beed341f90562763d5187.png" target=_blank>📸</a> |
+| [`CROSSVILLEINC.COM`](https://www.CROSSVILLEINC.COM) | 22/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/bf53f8ea6d93fccb613f7872912cdfae.png" target=_blank>📸</a> |
+| [`LESLIESPOOL.COM`](https://www.LESLIESPOOL.COM) | 22/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/31134170ae7ce43f69d0b42dd8a1de22.png" target=_blank>📸</a> |
 | [`SAKSFIFTHAVENUE.COM`](https://www.SAKSFIFTHAVENUE.COM) | 20/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/116ca0021e27a60e378bc08286ae2c43.png" target=_blank>📸</a> |
 | [`JAYMART.CO.TH`](https://www.JAYMART.CO.TH) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/fb22d1ea1746de1a42d7518bd2d5784f.png" target=_blank>📸</a> |
 | [`SERVICESTREAM.COM.AU`](https://www.SERVICESTREAM.COM.AU) | 16/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2e574b8398ca839fe96d3fb88f54752b.png" target=_blank>📸</a> |
@@ -1713,7 +1727,7 @@ _`claim to donate 80% of earnings to charity`_
 | [`ONEX.COM`](https://www.ONEX.COM) | 14/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/5753ff097c9a5dd2321e7bd6f013fa01.png" target=_blank>📸</a> |
 | [`PEOPLECORPORATION.COM`](https://www.PEOPLECORPORATION.COM) | 10/03/2023 |  |   |
 | [`MEDMINDER.COM`](https://www.MEDMINDER.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2010b7dff415b877c5e892bb74512174.png" target=_blank>📸</a> |
-| [`AXISBANK.COM`](https://www.AXISBANK.COM) | 10/03/2023 |  |   |
+| [`AXISBANK.COM`](https://www.AXISBANK.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/f4bd87ff740df53da76375de06496b1d.png" target=_blank>📸</a> |
 | [`HOUSELOAN.COM`](https://www.HOUSELOAN.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/2c4181efe58438d17adc0b3497e330a2.png" target=_blank>📸</a> |
 | [`ALIVIAHEALTH.COM`](https://www.ALIVIAHEALTH.COM) | 10/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c112ce4c443b7cd4f5f2224cf28f6250.png" target=_blank>📸</a> |
 | [`GROUPAMANA.COM`](https://www.GROUPAMANA.COM) | 07/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/0c4ff939afe42353d440717eab258fca.png" target=_blank>📸</a> |
@@ -4768,7 +4782,7 @@ _`previous clearnet fqdn lockbitapt.uz`_
 | [`cityofallenpark.org`](https://google.com/search?q=cityofallenpark.org) | 21/03/2023 | first part of data |   |
 | [`co.ottawa.oh.us`](https://google.com/search?q=co.ottawa.oh.us) | 21/03/2023 | Regional Government in Port Clinton, Ohio |   |
 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | 21/03/2023 | Founded in 1852, Oakland, located in the U.S. state of California, is a West Coast port city. Oakland is the county seat of Alameda County. |   |
-| [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | 21/03/2023 | Since 1988, Alyasra Foods has been distributing some of Kuwait's favorite foods in retail as well as food service. Today Alyasra Foods proudly operates in Kuwait, Iraq, and Saudi Arabia, distributing foods to thousands of valued customers daily.I... |   |
+| [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | 21/03/2023 | Since 1988, Alyasra Foods has been distributing some of Kuwait's favorite foods in retail as well as food service. Today Alyasra Foods proudly operates in Kuwait, Iraq, and Saudi Arabia, distributing foods to thousands of valued customers daily.I... | <a href="https://www.ransomware.live/screenshots/posts/ff409a839412934ec9cef8ffc092ca8a.png" target=_blank>📸</a> |
 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | 20/03/2023 | Telepizza is a pizza restaurant chain that operates mainly in Spain and Portugal and some Spanish-speaking countries. | <a href="https://www.ransomware.live/screenshots/posts/15d433d76ab90fe72ac294f1e50409b4.png" target=_blank>📸</a> |
 | [`stavinvest.cz`](https://google.com/search?q=stavinvest.cz) | 19/03/2023 | We are a building supply store that specializes in roofing materials and services.Our products include roofing, insulation, gutters, and battens. Therefore, pretty much anything roof-related.STAV-INVEST was founded in 1992. We have come a lon... | <a href="https://www.ransomware.live/screenshots/posts/88da6637c5bb1dc083d76711a9c44d0d.png" target=_blank>📸</a> |
 | [`id-logistics.com`](https://google.com/search?q=id-logistics.com) | 19/03/2023 | After the launch in France of logistics services for mass distribution, our Group begins its international deployment with a first subsidiary in Taiwan in early 2002. This would be followed by the opening of a new country every year… | <a href="https://www.ransomware.live/screenshots/posts/631f40ea28b0194332694e2191822a91.png" target=_blank>📸</a> |
@@ -5833,13 +5847,14 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 23/03/2023 10:54 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 29 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
-| [`Atlas Security`](https://google.com/search?q=Atlas+Security) | 21/03/2023 | Atlas Security is the leading armed response company in Nelson Mandela Bay and Alexandria . The company has more than 150 qualified armed response officers, the largest fleet of armed response vehicles. Atlas Security's client base includes more than 30,000 controlled secure premises in the Eastern Cape Province, including large corporate clients. |   |
+| [`Atlas Security`](https://google.com/search?q=Atlas+Security) | 21/03/2023 | Atlas Security is the leading armed response company in Nelson Mandela Bay and Alexandria . The company has more than 150 qualified armed response officers, the largest fleet of armed response vehicles. Atlas Security's client base includes more than 30,000 controlled secure premises in the Eastern Cape Province, including large corporate clients. | <a href="https://www.ransomware.live/screenshots/posts/d3a86c386970a623ece6aff8a0ba35e4.png" target=_blank>📸</a> |
 | [`Law Firm Vazquez Nava Consultores y Abogados, S.C`](https://google.com/search?q=Law+Firm+Vazquez+Nava+Consultores+y+Abogados%2C+S.C) | 18/03/2023 | The Firm Vazquez Nava Consultores y Abogados, S.C. was founded in Mexico City in January 1995 by a group of professionals with a broad experience in fields such as Economics, Law, Administration and Engineering. Since its foundation, the Firm has actively participated in the development and structuring of some of the most important projects in Mexico, playing an important role in implementing the best practices for transparency, accountability and anti-corruption measures. | <a href="https://www.ransomware.live/screenshots/posts/a49054bddb961bd251bdee11b40a35bc.png" target=_blank>📸</a> |
 | [`National Institute of Ocean Technology`](https://google.com/search?q=National+Institute+of+Ocean+Technology) | 16/03/2023 | The National Institute of Ocean Technology (NIOT) was established in November 1993 as an autonomous society under the Ministry of Earth Sciences in India. NIOT is managed by a Governing Council and is headed by a director. The institute is based in Chennai. The major aim of starting NIOT was to develop reliable indigenous technologies to solve various engineering problems associated with harvesting of non-living and living resources in India's exclusive economic zone, which is about two-thirds of the land area of India. | <a href="https://www.ransomware.live/screenshots/posts/bad3f1342ac520bf288b11ed2efc085b.png" target=_blank>📸</a> |
 | [`LLPGroup`](https://google.com/search?q=LLPGroup) | 14/03/2023 | LLP Group is an international software services group founded in 1992 in the Czech Republic with offices in Western, Central and Eastern Europe, North America and Latin America, providing software consulting services, software development, ERP implementation and business process consulting. The company has 30 years of experience in consulting, developing and implementing systems in more than 70 countries around the world. | <a href="https://www.ransomware.live/screenshots/posts/38e326c16080c5cfbba5a2813c73dab2.png" target=_blank>📸</a> |
@@ -7743,7 +7758,7 @@ _`Forum`_
 | post | date | Description | Screenshot | 
 |---|---|---|---|
 | [`Yaskawa Motoman`](http://www.motoman.com) | 21/03/2023 | Founded in 1989, Yaskawa Motoman is the Robotics Division of Yaskawa America, Inc. It provides automation products and solutions for virtually every industry and robotic application; including arc welding, assembly, coating, dispensing, material handling and so on.You will see their projects, finance, agreements, employee's information and so on and so on.Feel free to check!Archive password: 8gD2$2!^qSs@ | <a href="https://www.ransomware.live/screenshots/posts/946dc8594f969d0d0db5305ee04f6d39.png" target=_blank>📸</a> |
-| [`Graceworks Lutheran Services`](http://www.graceworks.org) | 21/03/2023 | Founded in 1929, Graceworks Lutheran Services is a lutheran social services organization that operates assisted living facilities. Do not be surprised that the company is engaged in charity - it's just a front. Maybe they are involved in money laundering - who knows...We have at our disposal the contents of all email addresses of the top management, full financial audits from 1995 to the present, 45GB or 486,880 Files of personal patients information (clinical) and even documents related to President Biden - very entertaining. Beside this, we have finance, employee documents, accounting, HR and much more others.Enjoy! |   |
+| [`Graceworks Lutheran Services`](http://www.graceworks.org) | 21/03/2023 | Founded in 1929, Graceworks Lutheran Services is a lutheran social services organization that operates assisted living facilities. Do not be surprised that the company is engaged in charity - it's just a front. Maybe they are involved in money laundering - who knows...We have at our disposal the contents of all email addresses of the top management, full financial audits from 1995 to the present, 45GB or 486,880 Files of personal patients information (clinical) and even documents related to President Biden - very entertaining. Beside this, we have finance, employee documents, accounting, HR and much more others.Enjoy! | <a href="https://www.ransomware.live/screenshots/posts/1fc672543f46970c3ea40d7091c9b342.png" target=_blank>📸</a> |
 | [`Sutton and Jacobs`](https://www.sutton-jacobs.com) | 18/03/2023 | Sutton & Jacobs, LLP is located at the corner of College and Park streets in downtown Beaumont, Texas. Originally a cluster of several buildings that, through the years, included a warehouse, auto parts supply house, blacksmith shop and from the days of cobblestone. | <a href="https://www.ransomware.live/screenshots/posts/7811acdf2f86f730f53b18b993df2e56.png" target=_blank>📸</a> |
 | [`AAA Energy Service`](https://www.aaaenergy.com) | 17/03/2023 | AAA Energy Service Co. provides services in a multitude of market sectors to a wide variety of clients, small and large. When it comes to its experience, AAA Energy Service Co. has a diverse resume. We have developed, designed, constructed, and serviced HVAC systems throughout the commercial, industrial, and institutional marketplaces. To be successful, it takes a dedicated staff of professionals that perform at a high level of customer service and have the expertise to design and build various types of systems. | <a href="https://www.ransomware.live/screenshots/posts/7fda34b027569d68e759e133c56a8b2d.png" target=_blank>📸</a> |
 | [`DGM Industrie`](https://www.dgm-industrie.fr) | 17/03/2023 | DGM Industrie is a company that operates in the Mechanical or Industrial Engineering industry. It employs 21-50 people and has $1M-$5M of revenue.  | <a href="https://www.ransomware.live/screenshots/posts/483d22c0300914c300ac57f9337cd051.png" target=_blank>📸</a> |
@@ -8816,4 +8831,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 11.16 (UTC)_
+Last update : _Thursday 23/03/2023 12.39 (UTC)_
