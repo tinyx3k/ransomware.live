@@ -5,9 +5,9 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
-| 2023-03-22 | [`LASOLTEL.FR`](https://google.com/search?q=LASOLTEL.FR) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/583c175cf7f070bacc72821e39c37b5d.png" target=_blank>👀</a> |
-| 2023-03-22 | [`PG.COM`](https://google.com/search?q=PG.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a1786d798a0beed341f90562763d5187.png" target=_blank>👀</a> |
-| 2023-03-22 | [`CROSSVILLEINC.COM`](https://google.com/search?q=CROSSVILLEINC.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/bf53f8ea6d93fccb613f7872912cdfae.png" target=_blank>👀</a> |
+| 2023-03-22 | [`LASOLTEL.FR`](https://google.com/search?q=LASOLTEL.FR) | [clop](profiles.md?id=clop) |   |
+| 2023-03-22 | [`PG.COM`](https://google.com/search?q=PG.COM) | [clop](profiles.md?id=clop) |   |
+| 2023-03-22 | [`CROSSVILLEINC.COM`](https://google.com/search?q=CROSSVILLEINC.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-22 | [`LESLIESPOOL.COM`](https://google.com/search?q=LESLIESPOOL.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-22 | [`US District Court`](https://google.com/search?q=US+District+Court) | [everest](profiles.md?id=everest) |   |
 | 2023-03-22 | [`largest provider of orthopedic care`](https://google.com/search?q=largest+provider+of+orthopedic+care) | [abyss](profiles.md?id=abyss) |   |
@@ -206,4 +206,4 @@
 | 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`LLF Lawyers`](https://google.com/search?q=LLF+Lawyers) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Wednesday 22/03/2023 23.05 (UTC)_
+Last update : _Thursday 23/03/2023 02.25 (UTC)_
