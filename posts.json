@@ -41264,15 +41264,6 @@
         "post_url": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/phoenix-tech"
     },
     {
-        "post_title": "Weickert Industries",
-        "group_name": "monti",
-        "discovered": "2023-03-23 21:20:45.181073",
-        "description": "www.weickert.com",
-        "website": "",
-        "published": "2023-03-23 22:46:15.000000",
-        "post_url": ""
-    },
-    {
         "post_title": "Autoridad de Acueductos Y Alcantarillados",
         "group_name": "vicesociety",
         "discovered": "2023-03-23 21:21:22.117979",
@@ -41280,5 +41271,14 @@
         "website": "http://www.acueductospr.com/",
         "published": "2023-03-23 21:21:22.117952",
         "post_url": "journalists.html"
+    },
+    {
+        "post_title": "Weickert Industries",
+        "group_name": "monti",
+        "discovered": "2023-03-23 22:41:45.771946",
+        "description": "www.weickert.com",
+        "website": "",
+        "published": "2023-03-23 22:46:15.000000",
+        "post_url": "http://mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion/blog/bc5723b509285febe34720381141a5509f50a50f44f48f250c899b37ff117b41/"
     }
 ]
