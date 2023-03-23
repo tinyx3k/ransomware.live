@@ -1,6 +1,6 @@
 
 
-_All `5566` posts_
+_All `5572` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,12 @@ _All `5566` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-23 | [`Mondial and Framec`](https://google.com/search?q=Mondial+and+Framec) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-23 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-23 | [`Advance America`](https://google.com/search?q=Advance+America) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-23 | [`SUPPLYCORE`](https://google.com/search?q=SUPPLYCORE) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-23 | [`Dayton Superior`](https://google.com/search?q=Dayton+Superior) | [blackbasta](profiles.md?id=blackbasta) |
+| 2023-03-23 | [`rockinsurancebrokers`](https://google.com/search?q=rockinsurancebrokers) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-23 | [`PAYBOXAPP.COM`](https://google.com/search?q=PAYBOXAPP.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`VERRAMOBILITY.COM`](https://google.com/search?q=VERRAMOBILITY.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`BUNZL.COM`](https://google.com/search?q=BUNZL.COM) | [clop](profiles.md?id=clop) |
@@ -5576,4 +5582,4 @@ _All `5566` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 23/03/2023 12.39 (UTC)_
+Last update : _Thursday 23/03/2023 13.02 (UTC)_

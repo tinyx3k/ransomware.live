@@ -5,6 +5,12 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-23 | [`Mondial and Framec`](https://google.com/search?q=Mondial+and+Framec) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-23 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-23 | [`Advance America`](https://google.com/search?q=Advance+America) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-23 | [`SUPPLYCORE`](https://google.com/search?q=SUPPLYCORE) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-23 | [`Dayton Superior`](https://google.com/search?q=Dayton+Superior) | [blackbasta](profiles.md?id=blackbasta) |   |
+| 2023-03-23 | [`rockinsurancebrokers`](https://google.com/search?q=rockinsurancebrokers) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-23 | [`PAYBOXAPP.COM`](https://google.com/search?q=PAYBOXAPP.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/d2bcbd497847d3c2e2a2cb626a150cdc.png" target=_blank>👀</a> |
 | 2023-03-23 | [`VERRAMOBILITY.COM`](https://google.com/search?q=VERRAMOBILITY.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/c51892c4bc66417c35180e33b47a0a73.png" target=_blank>👀</a> |
 | 2023-03-23 | [`BUNZL.COM`](https://google.com/search?q=BUNZL.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/30ccb69b40fb104e542a844d7f5d5a0c.png" target=_blank>👀</a> |
@@ -199,11 +205,5 @@
 | 2023-03-10 | [`drilmaco.com`](https://google.com/search?q=drilmaco.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`southamericantours.com`](https://google.com/search?q=southamericantours.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-10 | [`heidelbergbread.com`](https://google.com/search?q=heidelbergbread.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-10 | [`schauenburg.com`](https://google.com/search?q=schauenburg.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-10 | [`alpes-sante-travail.org`](https://google.com/search?q=alpes-sante-travail.org) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-10 | [`wunan.org.au`](https://google.com/search?q=wunan.org.au) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-10 | [`kisp.com`](https://google.com/search?q=kisp.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-10 | [`PEOPLECORPORATION.COM`](https://google.com/search?q=PEOPLECORPORATION.COM) | [clop](profiles.md?id=clop) |   |
-| 2023-03-10 | [`MEDMINDER.COM`](https://google.com/search?q=MEDMINDER.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/2010b7dff415b877c5e892bb74512174.png" target=_blank>👀</a> |
 
-Last update : _Thursday 23/03/2023 12.39 (UTC)_
+Last update : _Thursday 23/03/2023 13.02 (UTC)_
