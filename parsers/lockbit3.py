@@ -23,7 +23,7 @@ def main():
                 soup=BeautifulSoup(file,'html.parser')
                 divs_name=soup.find_all('div', {"class": "post-block bad"})
                 for div in divs_name:
-                    post = url = div['onclick'].split("'")[1]
+                    post = div['onclick'].split("'")[1]
                     parts = filename.split('-')
                     url = parts[1].replace('.html','')
                     post = 'http://' + url + '.onion' + post
@@ -35,7 +35,7 @@ def main():
                     parse.appender(title, 'lockbit3', description.replace('\n',''),"",published,post)
                 divs_name=soup.find_all('div', {"class": "post-block good"})
                 for div in divs_name:
-                    post = url = div['onclick'].split("'")[1]
+                    post = div['onclick'].split("'")[1]
                     parts = filename.split('-')
                     url = parts[1].replace('.html','')
                     post = 'http://' + url + '.onion' + post
