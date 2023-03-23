@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 12:33 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 13:24 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,21 @@ _Parser : `Available`_
 
 ### Posts
 
-> 186 posts found
+> 197 posts found
 
 | post | date | Description
 |---|---|---|
+| [`VUMACAM.CO.ZA`](https://www.VUMACAM.CO.ZA) | 23/03/2023 |  |
+| [`TORONTO.CA`](https://www.TORONTO.CA) | 23/03/2023 |  |
+| [`CLOUDMED.COM`](https://www.CLOUDMED.COM) | 23/03/2023 |  |
+| [`DPWORLD.COM`](https://www.DPWORLD.COM) | 23/03/2023 |  |
+| [`SOLPAC.CO.JP`](https://www.SOLPAC.CO.JP) | 23/03/2023 |  |
+| [`VIRGIN.COM`](https://www.VIRGIN.COM) | 23/03/2023 |  |
+| [`LEGACY-TECHNOLOGIES.DE`](https://www.LEGACY-TECHNOLOGIES.DE) | 23/03/2023 |  |
+| [`OSHCO.COM`](https://www.OSHCO.COM) | 23/03/2023 |  |
+| [`GRAY.TV`](https://www.GRAY.TV) | 23/03/2023 |  |
+| [`ORCAAUDIT.COM`](https://www.ORCAAUDIT.COM) | 23/03/2023 |  |
+| [`CHEMILAB.COM.CO`](https://www.CHEMILAB.COM.CO) | 23/03/2023 |  |
 | [`PAYBOXAPP.COM`](https://www.PAYBOXAPP.COM) | 23/03/2023 |  |
 | [`VERRAMOBILITY.COM`](https://www.VERRAMOBILITY.COM) | 23/03/2023 |  |
 | [`BUNZL.COM`](https://www.BUNZL.COM) | 23/03/2023 |  |
@@ -217,4 +228,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 13.02 (UTC)_
+Last update : _Thursday 23/03/2023 13.25 (UTC)_

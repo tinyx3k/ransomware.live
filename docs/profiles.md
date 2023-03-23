@@ -1665,7 +1665,7 @@ _`claim to donate 80% of earnings to charity`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 12:33 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 13:24 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -1673,10 +1673,21 @@ _`claim to donate 80% of earnings to charity`_
 
 ### Posts
 
-> 186 posts found
+> 197 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`VUMACAM.CO.ZA`](https://www.VUMACAM.CO.ZA) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/6a57a9f79f04bcc6dc25f78f6892d0f5.png" target=_blank>📸</a> |
+| [`TORONTO.CA`](https://www.TORONTO.CA) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d4d9453b467a1fafb1235ff1ded45b29.png" target=_blank>📸</a> |
+| [`CLOUDMED.COM`](https://www.CLOUDMED.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/ba35a0e7dec389136454dc9283d5bbc4.png" target=_blank>📸</a> |
+| [`DPWORLD.COM`](https://www.DPWORLD.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/a0b571f20db7d9f25520e094e1371edb.png" target=_blank>📸</a> |
+| [`SOLPAC.CO.JP`](https://www.SOLPAC.CO.JP) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d076aee0e92fbbb558b9092fe9d6bc98.png" target=_blank>📸</a> |
+| [`VIRGIN.COM`](https://www.VIRGIN.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/24596adb6ca81e77ecfd34a57c37c4cc.png" target=_blank>📸</a> |
+| [`LEGACY-TECHNOLOGIES.DE`](https://www.LEGACY-TECHNOLOGIES.DE) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/ca2862fca9be1bb8320895e3128eaab4.png" target=_blank>📸</a> |
+| [`OSHCO.COM`](https://www.OSHCO.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/846e1390019212420a1d6a17630d8bbc.png" target=_blank>📸</a> |
+| [`GRAY.TV`](https://www.GRAY.TV) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/e5e0ac08c7feb42cf07d8abf2ada5f37.png" target=_blank>📸</a> |
+| [`ORCAAUDIT.COM`](https://www.ORCAAUDIT.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/72588e3f219d4248fb5015cb58af2fc2.png" target=_blank>📸</a> |
+| [`CHEMILAB.COM.CO`](https://www.CHEMILAB.COM.CO) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/57736d7687951a9c7676cce0a9cb6844.png" target=_blank>📸</a> |
 | [`PAYBOXAPP.COM`](https://www.PAYBOXAPP.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/d2bcbd497847d3c2e2a2cb626a150cdc.png" target=_blank>📸</a> |
 | [`VERRAMOBILITY.COM`](https://www.VERRAMOBILITY.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/c51892c4bc66417c35180e33b47a0a73.png" target=_blank>📸</a> |
 | [`BUNZL.COM`](https://www.BUNZL.COM) | 23/03/2023 |  | <a href="https://www.ransomware.live/screenshots/posts/30ccb69b40fb104e542a844d7f5d5a0c.png" target=_blank>📸</a> |
@@ -8837,4 +8848,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 13.02 (UTC)_
+Last update : _Thursday 23/03/2023 13.25 (UTC)_

@@ -1,6 +1,6 @@
 
 
-_All `5572` posts_
+_All `5583` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,17 @@ _All `5572` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-23 | [`VUMACAM.CO.ZA`](https://google.com/search?q=VUMACAM.CO.ZA) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`TORONTO.CA`](https://google.com/search?q=TORONTO.CA) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`CLOUDMED.COM`](https://google.com/search?q=CLOUDMED.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`DPWORLD.COM`](https://google.com/search?q=DPWORLD.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`SOLPAC.CO.JP`](https://google.com/search?q=SOLPAC.CO.JP) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`VIRGIN.COM`](https://google.com/search?q=VIRGIN.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`LEGACY-TECHNOLOGIES.DE`](https://google.com/search?q=LEGACY-TECHNOLOGIES.DE) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`OSHCO.COM`](https://google.com/search?q=OSHCO.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`GRAY.TV`](https://google.com/search?q=GRAY.TV) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`ORCAAUDIT.COM`](https://google.com/search?q=ORCAAUDIT.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-23 | [`CHEMILAB.COM.CO`](https://google.com/search?q=CHEMILAB.COM.CO) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`Mondial and Framec`](https://google.com/search?q=Mondial+and+Framec) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-23 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | [blackbasta](profiles.md?id=blackbasta) |
 | 2023-03-23 | [`Advance America`](https://google.com/search?q=Advance+America) | [blackbasta](profiles.md?id=blackbasta) |
@@ -5582,4 +5593,4 @@ _All `5572` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Thursday 23/03/2023 13.02 (UTC)_
+Last update : _Thursday 23/03/2023 13.25 (UTC)_
