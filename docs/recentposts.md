@@ -5,7 +5,16 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
-| 2023-03-23 | [`bluebirdnetwork`](https://google.com/search?q=bluebirdnetwork) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/57cca1905b5f1a028fdfab5f4ec58d27.png" target=_blank>👀</a> |
+| 2023-03-23 | [`HUMANGOOD.COM`](https://google.com/search?q=HUMANGOOD.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a55bbd4a1a8f2ead278fe3b535a974d5.png" target=_blank>👀</a> |
+| 2023-03-23 | [`KANNACT.COM`](https://google.com/search?q=KANNACT.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a13be484fa937b5c827c72ecd5a56a7c.png" target=_blank>👀</a> |
+| 2023-03-23 | [`CINEPLEX.COM`](https://google.com/search?q=CINEPLEX.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/af4140ddebe4ccccc2ea84421e09e1dd.png" target=_blank>👀</a> |
+| 2023-03-23 | [`AMERIJET.COM`](https://google.com/search?q=AMERIJET.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/35270f2202d4791f8eb9386a959fcd69.png" target=_blank>👀</a> |
+| 2023-03-23 | [`GDI.COM`](https://google.com/search?q=GDI.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/f06d0ff3269bd5f08e27d3aad70915a3.png" target=_blank>👀</a> |
+| 2023-03-23 | [`ZOSKINHEALTH.COM`](https://google.com/search?q=ZOSKINHEALTH.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/741855583c866a019d0535147ccc7bb0.png" target=_blank>👀</a> |
+| 2023-03-23 | [`HRTRANSIT.ORG`](https://google.com/search?q=HRTRANSIT.ORG) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/b9810c2e9a9314e20261202eb73fbf57.png" target=_blank>👀</a> |
+| 2023-03-23 | [`PLURALSIGHT.COM`](https://google.com/search?q=PLURALSIGHT.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/8610700926825dacb14e02fc684ca4af.png" target=_blank>👀</a> |
+| 2023-03-23 | [`PPF.CO.UK`](https://google.com/search?q=PPF.CO.UK) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/dee076fb6419b59788ca19e87bbffa23.png" target=_blank>👀</a> |
+| 2023-03-23 | [`bluebirdnetwork`](https://google.com/search?q=bluebirdnetwork) | [alphv](profiles.md?id=alphv) |   |
 | 2023-03-22 | [`LASOLTEL.FR`](https://google.com/search?q=LASOLTEL.FR) | [clop](profiles.md?id=clop) |   |
 | 2023-03-22 | [`PG.COM`](https://google.com/search?q=PG.COM) | [clop](profiles.md?id=clop) |   |
 | 2023-03-22 | [`CROSSVILLEINC.COM`](https://google.com/search?q=CROSSVILLEINC.COM) | [clop](profiles.md?id=clop) |   |
@@ -196,14 +205,5 @@
 | 2023-03-10 | [`Highway Equipment`](https://google.com/search?q=Highway+Equipment) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/bd1762bf793213330dba2d46c3b69ddf.png" target=_blank>👀</a> |
 | 2023-03-09 | [`pmsoffice.de`](https://google.com/search?q=pmsoffice.de) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-09 | [`National Business Furniture`](https://google.com/search?q=National+Business+Furniture) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/2fe04af0fd8f3dd3eebceec613d6affc.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Garbarino SAICeI`](https://google.com/search?q=Garbarino+SAICeI) | [medusa](profiles.md?id=medusa) | <a href="https://www.ransomware.live/screenshots/posts/96ab1943443193b0b03feb9763a14364.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Falcon Holdings`](https://google.com/search?q=Falcon+Holdings) | [blackbyte](profiles.md?id=blackbyte) |   |
-| 2023-03-09 | [`audio-technica.com`](https://google.com/search?q=audio-technica.com) | [lockbit3](profiles.md?id=lockbit3) |   |
-| 2023-03-09 | [`Optieng`](https://google.com/search?q=Optieng) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/09204d9a526047c92b3ac082897c07ec.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Dancenter`](https://google.com/search?q=Dancenter) | [alphv](profiles.md?id=alphv) | <a href="https://www.ransomware.live/screenshots/posts/b47d58c311eb531de7a87cc3014a8657.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Thomaston Mills`](https://google.com/search?q=Thomaston+Mills) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/ccd727b5d298c05c0fef5e76cf443d67.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Brauerei Schimpf`](https://google.com/search?q=Brauerei+Schimpf) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/5b8730d14fb6839c233f2fde78b93b77.png" target=_blank>👀</a> |
-| 2023-03-09 | [`Wellington Power Corporation`](https://google.com/search?q=Wellington+Power+Corporation) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/15593ab9b38cd544c15961ab1b83d494.png" target=_blank>👀</a> |
-| 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Thursday 23/03/2023 09.10 (UTC)_
+Last update : _Thursday 23/03/2023 11.16 (UTC)_

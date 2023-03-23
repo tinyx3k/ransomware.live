@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 08:37 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 23/03/2023 10:37 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,19 @@ _Parser : `Available`_
 
 ### Posts
 
-> 163 posts found
+> 172 posts found
 
 | post | date | Description
 |---|---|---|
+| [`HUMANGOOD.COM`](https://www.HUMANGOOD.COM) | 23/03/2023 |  |
+| [`KANNACT.COM`](https://www.KANNACT.COM) | 23/03/2023 |  |
+| [`CINEPLEX.COM`](https://www.CINEPLEX.COM) | 23/03/2023 |  |
+| [`AMERIJET.COM`](https://www.AMERIJET.COM) | 23/03/2023 |  |
+| [`GDI.COM`](https://www.GDI.COM) | 23/03/2023 |  |
+| [`ZOSKINHEALTH.COM`](https://www.ZOSKINHEALTH.COM) | 23/03/2023 |  |
+| [`HRTRANSIT.ORG`](https://www.HRTRANSIT.ORG) | 23/03/2023 |  |
+| [`PLURALSIGHT.COM`](https://www.PLURALSIGHT.COM) | 23/03/2023 |  |
+| [`PPF.CO.UK`](https://www.PPF.CO.UK) | 23/03/2023 |  |
 | [`LASOLTEL.FR`](https://www.LASOLTEL.FR) | 22/03/2023 |  |
 | [`PG.COM`](https://www.PG.COM) | 22/03/2023 |  |
 | [`CROSSVILLEINC.COM`](https://www.CROSSVILLEINC.COM) | 22/03/2023 |  |
@@ -194,4 +203,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 09.10 (UTC)_
+Last update : _Thursday 23/03/2023 11.16 (UTC)_
