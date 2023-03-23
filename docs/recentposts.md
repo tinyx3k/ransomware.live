@@ -35,7 +35,7 @@
 | 2023-03-21 | [`oaklandca.gov`](https://google.com/search?q=oaklandca.gov) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`alyasrafoods.com`](https://google.com/search?q=alyasrafoods.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-21 | [`Yaskawa Motoman`](https://google.com/search?q=Yaskawa+Motoman) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/946dc8594f969d0d0db5305ee04f6d39.png" target=_blank>👀</a> |
-| 2023-03-21 | [`Graceworks Lutheran Services`](https://google.com/search?q=Graceworks+Lutheran+Services) | [royal](profiles.md?id=royal) | <a href="https://www.ransomware.live/screenshots/posts/1fc672543f46970c3ea40d7091c9b342.png" target=_blank>👀</a> |
+| 2023-03-21 | [`Graceworks Lutheran Services`](https://google.com/search?q=Graceworks+Lutheran+Services) | [royal](profiles.md?id=royal) |   |
 | 2023-03-20 | [`Indonesia Power`](https://google.com/search?q=Indonesia+Power) | [ransomhouse](profiles.md?id=ransomhouse) | <a href="https://www.ransomware.live/screenshots/posts/646b3a80fe951a6937957f4672dc6f25.png" target=_blank>👀</a> |
 | 2023-03-20 | [`SAKSFIFTHAVENUE.COM`](https://google.com/search?q=SAKSFIFTHAVENUE.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/116ca0021e27a60e378bc08286ae2c43.png" target=_blank>👀</a> |
 | 2023-03-20 | [`telepizza.com`](https://google.com/search?q=telepizza.com) | [lockbit3](profiles.md?id=lockbit3) | <a href="https://www.ransomware.live/screenshots/posts/15d433d76ab90fe72ac294f1e50409b4.png" target=_blank>👀</a> |
@@ -206,4 +206,4 @@
 | 2023-03-08 | [`CORPADS_2`](https://google.com/search?q=CORPADS_2) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-08 | [`Motivating Graphics`](https://google.com/search?q=Motivating+Graphics) | [blackbasta](profiles.md?id=blackbasta) |   |
 
-Last update : _Thursday 23/03/2023 05.10 (UTC)_
+Last update : _Thursday 23/03/2023 07.13 (UTC)_
