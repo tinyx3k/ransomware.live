@@ -725,8 +725,8 @@
                 "version": 3,
                 "slug": "http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion/",
                 "available": true,
-                "updated": "2023-03-23 20:37:33.729227",
-                "lastscrape": "2023-03-23 20:37:33.729209",
+                "updated": "2023-03-23 22:52:03.405447",
+                "lastscrape": "2023-03-23 22:52:03.405398",
                 "enabled": true
             }
         ],
@@ -3485,12 +3485,12 @@
             },
             {
                 "fqdn": "zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion",
-                "title": "502 Bad Gateway",
+                "title": null,
                 "version": 3,
                 "slug": "http://zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion/a",
-                "available": false,
-                "updated": "2023-03-23 18:58:49.294044",
-                "lastscrape": "2023-03-23 18:58:49.293948",
+                "available": true,
+                "updated": "2023-03-23 22:58:24.124529",
+                "lastscrape": "2023-03-23 22:58:24.124480",
                 "enabled": true
             },
             {

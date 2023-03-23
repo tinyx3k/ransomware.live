@@ -15,7 +15,7 @@ from parse import appender
 
 def main():
     for filename in os.listdir('source'):
-        #try:
+        try:
             if filename.startswith('monti-'):
                 html_doc='source/'+filename
                 file=open(html_doc,'r')
@@ -34,7 +34,7 @@ def main():
                     date_obj =  datetime.datetime.strptime(published, '%Y-%m-%d %H:%M:%S')
                     published = date_obj.strftime("%Y-%m-%d %H:%M:%S.%f")
                     appender(title, 'monti', description,"",published,url )
-        #except:
-        #    errlog('monti: ' + 'parsing fail')
-        #    pass 
+        except:
+            errlog('monti: ' + 'parsing fail')
+            pass 
                 
