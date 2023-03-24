@@ -206,4 +206,4 @@
 | 2023-03-11 | [`schradercamargo.com`](https://google.com/search?q=schradercamargo.com) | [lockbit3](profiles.md?id=lockbit3) |   |
 | 2023-03-11 | [`grupohospitalarvidas.com.br`](https://google.com/search?q=grupohospitalarvidas.com.br) | [lockbit3](profiles.md?id=lockbit3) |   |
 
-Last update : _Friday 24/03/2023 02.25 (UTC)_
+Last update : _Friday 24/03/2023 03.23 (UTC)_
