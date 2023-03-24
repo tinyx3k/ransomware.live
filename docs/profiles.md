@@ -1098,10 +1098,11 @@ _`Solve a scrapping issue on 2023-03-08`_
 
 ### Posts
 
-> 202 posts found
+> 203 posts found
 
 | post | date | Description | Screenshot | 
 |---|---|---|---|
+| [`VLS`](https://google.com/search?q=VLS) | 24/03/2023 | Vincent Lighting SystemsHeadquarters: 6161 Cochran Rd Ste D, Solon, Ohio, 44139, United StatesPhone Number: (216) 475-7600Website: www.vls.comRevenue: $17.7MVLS provides reliable entertainment and architectural lighting and rigging products that are inspected, maintained and tested for compliance with industry standards prior to delivery. Our reputation for reliability is backed with a commitment to providing on-time delivery, a personal equipment operation guarantee and after-hours project, rental and production support. |   |
 | [`Mondial and Framec`](https://google.com/search?q=Mondial+and+Framec) | 23/03/2023 | THE TWO BRANDS - Mondial and Framec have more than 60 years’ experience in the field of the professional refrigeration. The tradition and the reliability of our products have always been our strengths; ensuring a strong and rooted presence in more than 20 Countries. Discover our products, innovative but with a great tradition ready to preserve the taste of aliments and drinks in every situation offering different solutions for all your needs.From Ice & Pastry, Market, Wine, to Beverage, Kitchen & Catering and Medical.SITE: www.mondialframec.com Address 34 S.s. 31 N, Mirabello MonferratoPiedmont, 15040Italy |   |
 | [`Troutman Pepper`](https://google.com/search?q=Troutman+Pepper) | 23/03/2023 | Troutman Pepper guides clients from startups to multinationals in their most critical legal and business matters. Our attorneys and other professionals provide comprehensive and practical advice that advances our clients’ business objectives, anticipates hurdles, and positions each client to succeed in rapidly evolving markets and regulatory environments.Our platform of 23 offices across the U.S. allows us to meet our clients where they are – and wherever they need us to be. We have deep, unique experience in the industry sectors that will power the national and global economy in the years ahead, including energy, financial services, health sciences, insurance, and private equity. Our service offerings span transactional, regulatory, and litigation practices, covering everything from advertising to zoning.SITE: www.troutman.com Address 600 Peachtree St NE Ste 5200Atlanta, Georgia, 30308United States |   |
 | [`Advance America`](https://google.com/search?q=Advance+America) | 23/03/2023 | Since 1997, Advance America has provided short-term financial services to millions of customers across the United States. Our Company has grown to become one of the nations largest consumer lending companies, with more than 2,400 locations.At Advance America, we believe in better. We believe that setbacks are just opportunities for epic comebacks and we want to help make those comebacks happen.That’s why for the past 25+ years, Advance America has worked to become one of the nation’s leading providers of consumer financial services, with online lending and over 900 locations nationwide.At Advance America, we believe that our customers are more than a transaction, and we know that with a little bit of help, they can keep going today and look forward to tomorrow.SITE: www.advanceamerica.net Address 135 N Church St, SpartanburgSouth Carolina, 29306United States |   |
@@ -5881,6 +5882,7 @@ _`marketplace - not a ransomware group, previous clearnet marketo.cloud`_
 |---|---|---|---|---|
 | Medusa Blog | 🟢 | 24/03/2023 10:50 | `http://medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd.onion` | <a href="https://www.ransomware.live/screenshots/medusaxko7jxtrojdkxo66j7ck4q5tgktf7uqsqyfry4ebnxlcbkccyd-onion.png" target=_blank>📸</a> | 
 
+
 ### Posts
 
 > 30 posts found
@@ -8868,4 +8870,4 @@ _`aka fonix`_
  --- 
 
 
-Last update : _Friday 24/03/2023 11.15 (UTC)_
+Last update : _Friday 24/03/2023 13.25 (UTC)_

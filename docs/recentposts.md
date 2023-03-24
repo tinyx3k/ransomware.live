@@ -5,6 +5,7 @@
 
 | Date | Title | Group | 📸 |
 |---|---|---|---|
+| 2023-03-24 | [`VLS`](https://google.com/search?q=VLS) | [blackbasta](profiles.md?id=blackbasta) |   |
 | 2023-03-24 | [`GOA.GOV.IN`](https://google.com/search?q=GOA.GOV.IN) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/991f7966534f26d10c57992e9bd608d6.png" target=_blank>👀</a> |
 | 2023-03-24 | [`INTERTERMINALS.COM`](https://google.com/search?q=INTERTERMINALS.COM) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/7e12213007a0a6c9834098b35980517c.png" target=_blank>👀</a> |
 | 2023-03-24 | [`GLOBALFARM.COM.AR`](https://google.com/search?q=GLOBALFARM.COM.AR) | [clop](profiles.md?id=clop) | <a href="https://www.ransomware.live/screenshots/posts/a3b5d52b60af9cc3d22ae7ccb85a60cb.png" target=_blank>👀</a> |
@@ -204,6 +205,5 @@
 | 2023-03-11 | [`onyx-pharma.dz`](https://google.com/search?q=onyx-pharma.dz) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/cdf1ff489bfe367b1778e88c095a5b3a.png" target=_blank>👀</a> |
 | 2023-03-11 | [`imtenan.com`](https://google.com/search?q=imtenan.com) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/e11416500cb377d9caabd69102033b28.png" target=_blank>👀</a> |
 | 2023-03-11 | [`agados.cz`](https://google.com/search?q=agados.cz) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/b26f997279b4943e7f59f0d8009b00f3.png" target=_blank>👀</a> |
-| 2023-03-11 | [`evant.com.tr`](https://google.com/search?q=evant.com.tr) | [darkpower](profiles.md?id=darkpower) | <a href="https://www.ransomware.live/screenshots/posts/94efa11f576fffbff587ecd3b301582d.png" target=_blank>👀</a> |
 
-Last update : _Friday 24/03/2023 11.15 (UTC)_
+Last update : _Friday 24/03/2023 13.25 (UTC)_
