@@ -15,7 +15,7 @@ _Parser : `Available`_
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
 | none | 🔴 | 01/05/2021 00:00 | `http://ekbgzchl6x2ias37.onion` | ❌ | 
-| HOME - CL0P^_- LEAKS | 🟢 | 24/03/2023 08:35 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
+| HOME - CL0P^_- LEAKS | 🟢 | 24/03/2023 10:34 | `http://santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion` | <a href="https://www.ransomware.live/screenshots/santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad-onion.png" target=_blank>📸</a> | 
 
 
 ### Ransom note
@@ -23,10 +23,22 @@ _Parser : `Available`_
 
 ### Posts
 
-> 201 posts found
+> 213 posts found
 
 | post | date | Description
 |---|---|---|
+| [`GOA.GOV.IN`](https://www.GOA.GOV.IN) | 24/03/2023 |  |
+| [`INTERTERMINALS.COM`](https://www.INTERTERMINALS.COM) | 24/03/2023 |  |
+| [`GLOBALFARM.COM.AR`](https://www.GLOBALFARM.COM.AR) | 24/03/2023 |  |
+| [`ATOS.NET`](https://www.ATOS.NET) | 24/03/2023 |  |
+| [`TGW.COM`](https://www.TGW.COM) | 24/03/2023 |  |
+| [`DERK.CL`](https://www.DERK.CL) | 24/03/2023 |  |
+| [`REDBOXVOICE.COM`](https://www.REDBOXVOICE.COM) | 24/03/2023 |  |
+| [`PROGRESSION.COM`](https://www.PROGRESSION.COM) | 24/03/2023 |  |
+| [`UNIMELB.EDU.AU`](https://www.UNIMELB.EDU.AU) | 24/03/2023 |  |
+| [`CROWNRESORT.COM.AU`](https://www.CROWNRESORT.COM.AU) | 24/03/2023 |  |
+| [`BRIDGEWAY.COM.PH`](https://www.BRIDGEWAY.COM.PH) | 24/03/2023 |  |
+| [`TLG.COM`](https://www.TLG.COM) | 24/03/2023 |  |
 | [`PHOENIX.TECH`](https://www.PHOENIX.TECH) | 23/03/2023 |  |
 | [`SODALESSOLUTIONS.COM`](https://www.SODALESSOLUTIONS.COM) | 23/03/2023 |  |
 | [`NATIONSBENEFITS.COM`](https://www.NATIONSBENEFITS.COM) | 23/03/2023 |  |
@@ -232,4 +244,4 @@ _Parser : `Available`_
  --- 
 
 
-Last update : _Friday 24/03/2023 09.06 (UTC)_
+Last update : _Friday 24/03/2023 11.15 (UTC)_

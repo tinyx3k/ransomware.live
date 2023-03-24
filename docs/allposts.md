@@ -1,6 +1,6 @@
 
 
-_All `5590` posts_
+_All `5604` posts_
 
 
 💾 [Download](https://raw.githubusercontent.com/JMousqueton/ransomwatch/main/posts.json) full list in **json** format
@@ -10,6 +10,20 @@ _All `5590` posts_
 
 | Date | Title | Group |
 |---|---|---|
+| 2023-03-24 | [`Gujarat Mineral`](https://google.com/search?q=Gujarat+Mineral) | [medusa](profiles.md?id=medusa) |
+| 2023-03-24 | [`bianchiindustry.com`](https://google.com/search?q=bianchiindustry.com) | [lockbit3](profiles.md?id=lockbit3) |
+| 2023-03-24 | [`GOA.GOV.IN`](https://google.com/search?q=GOA.GOV.IN) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`INTERTERMINALS.COM`](https://google.com/search?q=INTERTERMINALS.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`GLOBALFARM.COM.AR`](https://google.com/search?q=GLOBALFARM.COM.AR) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`ATOS.NET`](https://google.com/search?q=ATOS.NET) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`TGW.COM`](https://google.com/search?q=TGW.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`DERK.CL`](https://google.com/search?q=DERK.CL) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`REDBOXVOICE.COM`](https://google.com/search?q=REDBOXVOICE.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`PROGRESSION.COM`](https://google.com/search?q=PROGRESSION.COM) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`UNIMELB.EDU.AU`](https://google.com/search?q=UNIMELB.EDU.AU) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`CROWNRESORT.COM.AU`](https://google.com/search?q=CROWNRESORT.COM.AU) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`BRIDGEWAY.COM.PH`](https://google.com/search?q=BRIDGEWAY.COM.PH) | [clop](profiles.md?id=clop) |
+| 2023-03-24 | [`TLG.COM`](https://google.com/search?q=TLG.COM) | [clop](profiles.md?id=clop) |
 | 2023-03-23 | [`Autoridad de Acueductos Y Alcantarillados`](https://google.com/search?q=Autoridad+de+Acueductos+Y+Alcantarillados) | [vicesociety](profiles.md?id=vicesociety) |
 | 2023-03-23 | [`Comune Taggia`](https://google.com/search?q=Comune+Taggia) | [ransomhouse](profiles.md?id=ransomhouse) |
 | 2023-03-23 | [`Weickert Industries`](https://google.com/search?q=Weickert+Industries) | [monti](profiles.md?id=monti) |
@@ -5600,4 +5614,4 @@ _All `5590` posts_
 | 2020-06-10 | [`Leaks Company Birch Communications inc.`](https://google.com/search?q=Leaks+Company+Birch+Communications+inc.) | [ragnarlocker](profiles.md?id=ragnarlocker) |
 | 2020-01-12 | [`Windemuller`](https://google.com/search?q=Windemuller) | [lorenz](profiles.md?id=lorenz) |
 
-Last update : _Friday 24/03/2023 09.06 (UTC)_
+Last update : _Friday 24/03/2023 11.15 (UTC)_
