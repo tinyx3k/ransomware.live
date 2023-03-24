@@ -10,7 +10,7 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
 ### URLs
 | Title | Available | Last visit | fqdn | Screenshot 
 |---|---|---|---|---|
-| Vendetta | 🟢 | 23/03/2023 23:01 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
+| Vendetta | 🟢 | 24/03/2023 02:18 | `http://test.cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd.onion` | <a href="https://www.ransomware.live/screenshots/test-cuba4ikm4jakjgmkezytyawtdgr2xymvy6nvzgw5cglswg3si76icnqd-onion.png" target=_blank>📸</a> | 
 
 ### Posts
 
@@ -25,4 +25,4 @@ _`V is Vendetta a new blog from Cuba Ransomware`_
  --- 
 
 
-Last update : _Thursday 23/03/2023 23.08 (UTC)_
+Last update : _Friday 24/03/2023 02.25 (UTC)_
